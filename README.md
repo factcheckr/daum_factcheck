@@ -1,34 +1,15 @@
-# CI setup for Feed me up, Scotty!
+# 다음 팩트체크
+- https://factcheckr.github.io/daum_factcheck/factcheck.xml
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## 연재
+- JTBC 팩트체크: https://factcheckr.github.io/daum_factcheck/jtbc_factcheck.xml
+- 채널A 팩트맨: https://factcheckr.github.io/daum_factcheck/channela_factman.xml
+- SBS 사실은: https://factcheckr.github.io/daum_factcheck/sbs_factcheck.xml
+- MBC 알고보니: https://factcheckr.github.io/daum_factcheck/mbc_factcheck.xml
+- KBS 팩트체크K: https://factcheckr.github.io/daum_factcheck/kbs_factcheck.xml
+- 경향신문 팩트체크: https://factcheckr.github.io/daum_factcheck/khan_factcheck.xml
+- 오마이뉴스 오마이팩트: https://factcheckr.github.io/daum_factcheck/ohmynews_ohmyfact.xml
 
-# Automatically generate feeds
+---
 
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+[▶️ 언론사 팩트체크 이동하기](https://github.com/FactCheckr/Media) 
