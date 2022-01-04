@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-04T10:26:49.605Z</updated>
+    <updated>2022-01-04T11:20:27.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]횡단보도 우회전 단속, 깐깐해진다?]]></title>
+        <id>https://v.daum.net/v/20220104200253853</id>
+        <link href="https://v.daum.net/v/20220104200253853"/>
+        <updated>2022-01-04T11:19:02.594Z</updated>
+        <content type="html"><![CDATA[차를 몰고 교차로에서 우회전하다가 횡단보도를 건너는 행인과 마주칠 때 많은데요. 올해부터 우회전 단속이 강화됐다는 보도가 나오고 있는데 운전자 입장에서 뭐가 바뀌고 뭘 조심해야 하는지 팩트맨이 확인해 봅니다. 우회전할 때 횡단보도를 만나면 운전자는 어떻게 해야 할까요? 신호등이 무슨 색이든, 보행자가 있든 없든, 무조건 일단정지가 원칙입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다?]]></title>
         <id>https://v.daum.net/v/20220104122216200</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211231153904324"/>
         <updated>2022-01-02T15:35:29.820Z</updated>
         <content type="html"><![CDATA['백신 미접종자는 손님으로 받지 않겠습니다' 지난 18일부터 강화된 방역 지침으로 미접종자는 혼자일 경우에만 식당과 카페 이용이 가능해졌습니다. 하지만 코로나 감염 우려에 이런 영업 방침을 내걸고 미접종자 출입을 ‘아예’ 거부하는 식당들이 잇따르며 사회적 논란이 된 바 있습니다. 미접종자에 대한 차별은 아닐지, 아니면 영업의 자유를 빙자한 위법 행위는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]새해부터 '호텔 어메니티' 사라진다?]]></title>
-        <id>https://v.daum.net/v/20211230195956883</id>
-        <link href="https://v.daum.net/v/20211230195956883"/>
-        <updated>2022-01-02T15:35:29.820Z</updated>
-        <content type="html"><![CDATA[2021년도 이제 하루 남았습니다. 내년은 임인년, 검은 호랑이해죠. 새해부터 바뀌는 것 중엔 실생활과 밀접한 재활용 제도도 있는데요. 무엇이 어떻게 바뀌는지 스튜디오에서 자세히 알아봅니다. 호텔 같은 숙박시설엔 샴푸나 바디워시, 로션 같은 편의용품을 작은 일회용기에 담아 비치해 둡니다. 이걸 '어메니티'라고 부르는데요. 유명 브랜드 제품을]]></content>
     </entry>
 </feed>

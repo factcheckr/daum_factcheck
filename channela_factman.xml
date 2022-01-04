@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-01-04T10:26:49.548Z</updated>
+    <updated>2022-01-04T11:20:27.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[횡단보도 우회전 단속, 깐깐해진다?]]></title>
+        <id>https://v.daum.net/v/20220104200253853</id>
+        <link href="https://v.daum.net/v/20220104200253853"/>
+        <updated>2022-01-04T11:19:50.110Z</updated>
+        <content type="html"><![CDATA[차를 몰고 교차로에서 우회전하다가 횡단보도를 건너는 행인과 마주칠 때 많은데요. 올해부터 우회전 단속이 강화됐다는 보도가 나오고 있는데 운전자 입장에서 뭐가 바뀌고 뭘 조심해야 하는지 팩트맨이 확인해 봅니다. 우회전할 때 횡단보도를 만나면 운전자는 어떻게 해야 할까요? 신호등이 무슨 색이든, 보행자가 있든 없든, 무조건 일단정지가 원칙입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신미접종자, 과태료 낸다?]]></title>
         <id>https://v.daum.net/v/20220103200506557</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211215194952640"/>
         <updated>2022-01-02T15:36:19.992Z</updated>
         <content type="html"><![CDATA[어제 제주 인근 해상에서 발생한 지진 규모는 4.9. 농장 오리가 깜짝 놀라 달아나고, 건물이 흔들리는 모습이 포착됐죠. 2017년 경북 포항에서 발생한 규모 5.4의 지진 이후 가장 강력했는데요. 규모 차이는 있지만, 포항 지진 때보다 이번 지진은 피해가 적었다는 분석이 나오는데 그 이유를 확인해봅니다. 중앙재난안전대책본부에 접수된 피해신고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이석준에게 신변보호자 주소 넘긴 흥신소, 처벌은?]]></title>
-        <id>https://v.daum.net/v/20211214200704956</id>
-        <link href="https://v.daum.net/v/20211214200704956"/>
-        <updated>2022-01-02T15:36:19.993Z</updated>
-        <content type="html"><![CDATA[[리포트] 헤어진 여성의 가족에게 흉기를 휘둘러서 어머니를 숨지게 한 스물다섯살 이석준. 경찰은 오늘 신상정보를 공개했습니다. [이석준 / 신변보호 여성 가족 살해 피의자] "(보복 살인 맞나요) 죄송합니다. (범행은 언제부터 계획한 거예요?)…." 이 씨는 경찰 조사에서 여성의 주소를 흥신소를 통해 알아냈다고 진술했습니다. 이 진술이 맞다면]]></content>
     </entry>
 </feed>
