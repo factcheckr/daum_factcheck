@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-04T03:24:59.589Z</updated>
+    <updated>2022-01-04T04:41:07.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 백신 접종률 90% 넘은 상황에서 방역패스 실효성 없다?]]></title>
+        <title type="html"><![CDATA[[팩트체크] 백신 접종률 90% 넘은 상황에선 방역패스 실효성 없다?]]></title>
         <id>https://v.daum.net/v/20220104122216200</id>
         <link href="https://v.daum.net/v/20220104122216200"/>
         <updated>2022-01-04T03:23:22.091Z</updated>
