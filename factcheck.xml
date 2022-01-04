@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-03T23:24:45.937Z</updated>
+    <updated>2022-01-04T01:17:00.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 'EU 택소노미' 초안에 원전 어떻게 들어갔나]]></title>
+        <id>https://v.daum.net/v/20220104080604964</id>
+        <link href="https://v.daum.net/v/20220104080604964"/>
+        <updated>2022-01-04T01:15:30.819Z</updated>
+        <content type="html"><![CDATA[2일 금융 지원을 받을 수 있는 녹색산업의 기준을 정해둔 녹색분류체계(택소노미)에 원자력을 포함시키기로 한 유럽연합(EU) 택소노미 초안이 공개됐다. 1986년 체르노빌 사고와 2011년 후쿠시마 사고를 통해 원전의 위험성을 이미 확인했고, 독일 등 ‘탈원전’을 선도하고 있는 국가가 포함된 국가들의 연합에서 원전을 ‘녹색’에너지라고 평가한 것이다. 아직 초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]백신미접종자, 과태료 낸다?]]></title>
         <id>https://v.daum.net/v/20220103200506557</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211229200158391"/>
         <updated>2022-01-02T15:35:29.821Z</updated>
         <content type="html"><![CDATA[대기업 회장이 구속됐다. 질병관리청이 전국 봉쇄에 들어간다. 최근 인터넷에 속보라며 올라온 내용입니다. 조회수가 수만 건을 기록한 것도 있는데, 사실은 실제 언론사 기사가 아닌 가짜뉴스입니다. 이 가짜뉴스, 사용자가 내용을 입력하면 실제 기사처럼 이미지를 만들어주는 웹사이트에서 생성된 겁니다. 이런 사이트 이용하거나 운영하면 어떤 법적 책임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국회의원 출마 연령 만 18세로 내린다는데..다른 나라는?]]></title>
-        <id>https://v.daum.net/v/20211229172452317</id>
-        <link href="https://v.daum.net/v/20211229172452317"/>
-        <updated>2022-01-02T15:35:29.821Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선거와 지방선거에 출마할 수 있는 나이를 만 25세에서 만 18세로 낮추는 내용의 공직선거법 개정안이 지난 28일 국회 정치개혁특위 전체회의를 통과했다. 여야가 모두 개정에 찬성하고 있는 것을 고려하면 개정안은 법제사법위원회와 본회의를 통과할 것이 확실시되고, 내년 3·9 재보궐선거와 6·1 지방]]></content>
     </entry>
 </feed>
