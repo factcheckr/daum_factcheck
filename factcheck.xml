@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-04T01:17:00.056Z</updated>
+    <updated>2022-01-04T02:42:37.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 통합 항공사 운수권 재분배하면 외국 항공사에 빼앗긴다?]]></title>
+        <id>https://v.daum.net/v/20220104105607827</id>
+        <link href="https://v.daum.net/v/20220104105607827"/>
+        <updated>2022-01-04T02:41:07.935Z</updated>
+        <content type="html"><![CDATA[공정거래위원회가 대한항공의 아시아나항공 인수·합병을 조건부로 승인하기로 가닥을 잡은 가운데, 대한항공 등 일각에서 저비용항공사(LCC)의 수용 능력 부재를 이유로 ‘장거리’ 노선을 외국 항공사에 내어줄 수 있다는 주장이 나온다. 국내 엘시시에 장거리 운수권은 ‘그림의 떡’에 불과하고, ‘승인 조건’에 따라 회수 뒤 재분배되는 운수권은 외항사의 먹잇감이 된다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 'EU 택소노미' 초안에 원전 어떻게 들어갔나]]></title>
         <id>https://v.daum.net/v/20220104080604964</id>
         <link href="https://v.daum.net/v/20220104080604964"/>
         <updated>2022-01-04T01:15:30.819Z</updated>
-        <content type="html"><![CDATA[2일 금융 지원을 받을 수 있는 녹색산업의 기준을 정해둔 녹색분류체계(택소노미)에 원자력을 포함시키기로 한 유럽연합(EU) 택소노미 초안이 공개됐다. 1986년 체르노빌 사고와 2011년 후쿠시마 사고를 통해 원전의 위험성을 이미 확인했고, 독일 등 ‘탈원전’을 선도하고 있는 국가가 포함된 국가들의 연합에서 원전을 ‘녹색’에너지라고 평가한 것이다. 아직 초]]></content>
+        <content type="html"><![CDATA[2일 금융 지원을 받을 수 있는 녹색산업의 기준을 정해둔 녹색분류체계(택소노미)에 원자력을 포함시키기로 한 유럽연합(EU) 택소노미 초안이 공개됐다. 1986년 체르노빌 사고와 2011년 후쿠시마 사고를 통해 원전의 위험성을 이미 확인한 데다, ‘탈원전’을 선도하고 있는 독일 등이 포함된 국가들 연합에서 원전을 ‘녹색’에너지라고 분류한 것이다. 초안이긴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]백신미접종자, 과태료 낸다?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211230100417824"/>
         <updated>2022-01-02T15:35:29.821Z</updated>
         <content type="html"><![CDATA[[앵커] 여야 대선 후보들이 각종 논란에 휘말리면서 후보를 바꾸자는 목소리가 나오고 있습니다. 현시점에서 대선 후보를 교체하거나 경선에서 탈락한 후보가 무소속으로 출마하는 게 가능한 일인지 따져봤습니다. 팩트와이, 신지원 기자입니다. [기자] '현재 대선 후보들은 다 싫다. 다시 출마해달라' 최근 국민의힘 홍준표 의원 홈페이지에 대선 출마 요청이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]"진짜 기사같네"..가짜뉴스 만드는 사이트, 처벌은?]]></title>
-        <id>https://v.daum.net/v/20211229200158391</id>
-        <link href="https://v.daum.net/v/20211229200158391"/>
-        <updated>2022-01-02T15:35:29.821Z</updated>
-        <content type="html"><![CDATA[대기업 회장이 구속됐다. 질병관리청이 전국 봉쇄에 들어간다. 최근 인터넷에 속보라며 올라온 내용입니다. 조회수가 수만 건을 기록한 것도 있는데, 사실은 실제 언론사 기사가 아닌 가짜뉴스입니다. 이 가짜뉴스, 사용자가 내용을 입력하면 실제 기사처럼 이미지를 만들어주는 웹사이트에서 생성된 겁니다. 이런 사이트 이용하거나 운영하면 어떤 법적 책임]]></content>
     </entry>
 </feed>
