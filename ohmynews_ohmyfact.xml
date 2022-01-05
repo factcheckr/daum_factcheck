@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-01-05T04:31:52.575Z</updated>
+    <updated>2022-01-05T05:23:28.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓']]></title>
+        <id>https://v.daum.net/v/20220105133905288</id>
+        <link href="https://v.daum.net/v/20220105133905288"/>
+        <updated>2022-01-05T05:23:18.321Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실']]></title>
+        <id>https://v.daum.net/v/20220105133900283</id>
+        <link href="https://v.daum.net/v/20220105133900283"/>
+        <updated>2022-01-05T05:23:18.321Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선관위가 이재명 '욕설' 원본 유포 허용?.. 국힘 주장은 '사실반 거짓반']]></title>
         <id>https://v.daum.net/v/20211222125100364</id>
@@ -74,19 +88,5 @@
         <link href="https://v.daum.net/v/20211202123000451"/>
         <updated>2022-01-02T15:41:35.623Z</updated>
         <content type="html"><![CDATA[[박수림·곽우신 기자] ▲ &nbsp;지난 11월 22일 서울 동작구 국립서울현충원 내 김영삼 전 대통령 묘역에서 열린 6주기 추모식에 참석하는 윤석열 국민의힘 대선 후보의 모습을 촬영한 유튜브 영상    ⓒ 유튜버 3300평 윤희숙  &nbsp;"아 검은 넥타이...야 이 XX야, 그건 차안에서 챙겼어야지!" 윤석열 국민의힘 대선 후보가 현역 국회의원인 이용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산부인과 명칭은 일제 잔재" 이재명 주장은 '사실 반 거짓 반']]></title>
-        <id>https://v.daum.net/v/20211126231201564</id>
-        <link href="https://v.daum.net/v/20211126231201564"/>
-        <updated>2022-01-02T15:41:35.629Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 24일 서울 여의도 중앙당사에서 열린 기자간담회에서 기자들의 질문에 답하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 이재명 "산부인과 명칭은 여성을 부인으로 칭했던 일제 잔재" "산부인과라는 명칭은 여성을 부인으로 칭했던 일제 잔재입니다. 여전히 여성 건강과 질환을 부인병으로 부르는 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박근혜는 경선 후 대선판에 안 나타났다" 홍준표 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20211119210600282</id>
-        <link href="https://v.daum.net/v/20211119210600282"/>
-        <updated>2022-01-02T15:41:35.633Z</updated>
-        <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;홍준표 국민의힘 의원이 8일 서울 영등포구 여의도 BNB타워에서 열린 jp희망캠프 해단식에서 인사말을 하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 홍준표 "박근혜는 경선 후 대선판에 나타난 일 없었다" "대선 경선 때 치열하게 경쟁하여 이명박 후보가 승리하자 박근혜 후보는 경선장에서 깨끗하게 승복하고 그 후 그 대]]></content>
     </entry>
 </feed>
