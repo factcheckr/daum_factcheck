@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-05T07:26:51.117Z</updated>
+    <updated>2022-01-05T08:29:30.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU가 원자력 발전으로 돌아섰다?.."돌아선 유럽 국가는 없다" [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20220105170152338</id>
+        <link href="https://v.daum.net/v/20220105170152338"/>
+        <updated>2022-01-05T08:28:07.474Z</updated>
+        <content type="html"><![CDATA[[경향신문] 유럽연합(EU) 집행위원회가 최근 회원국들에 보낸 녹색분류체계(그린택소노미) 초안에 2045년까지 건설 허가가 난 원자력 발전을 ‘녹색투자’로 분류하는 내용이 들어가면서 원전 논란이 재점화되고 있다. 일각에선 지난달 30일 발표된 한국형 녹색분류체계에 원전이 제외된 것을 비판하며 ‘원전 복귀’가 세계적 추세라고도 주장한다. 과연 그럴까? 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 오미크론 확산세, 부스터샷의 부메랑?]]></title>
         <id>https://v.daum.net/v/20220105151800571</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220103200506557"/>
         <updated>2022-01-03T11:19:24.665Z</updated>
         <content type="html"><![CDATA[자영업자 온라인 커뮤니티에 올라온 게시물입니다. "백신 미접종자에게 과태료를 물리는 법안이 두 건이나 발의됐다"며 분노하는 내용인데요. 전국 곳곳의 맘카페 등에서도 국회 입법예고 사이트 주소를 공유하면서, 반대 의견을 냈다는 인증사진을 올리고 있습니다. 백신을 맞지 않으면 과태료를 내게 된다는 내용, 사실인지 확인해봅니다. 결론부터 말씀드리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 이재명과 윤석열 '토론회' 티키타카, 따져봤습니다]]></title>
-        <id>https://v.daum.net/v/20220103133300299</id>
-        <link href="https://v.daum.net/v/20220103133300299"/>
-        <updated>2022-01-03T05:22:19.085Z</updated>
-        <content type="html"><![CDATA[대선을 70일 정도 앞둔 지금, 후보들 간 토론회 공방이 뜨겁습니다. 더불어민주당 이재명 후보가 운을 띄웠습니다. 국민의힘 윤석열 후보를 향해 얼굴을 맞대고 토론을 하자고 압박했습니다. 윤 후보는 토론이 별 도움이 안 된다며 선을 그었습니다.&nbsp; 이후, 이 후보는 압박 수위를 계속 높여갔고, 윤석열 후보는 노골적인 불쾌감을 드러냈습니다. 공방이 계속되며]]></content>
     </entry>
 </feed>

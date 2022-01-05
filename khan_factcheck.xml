@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2022-01-05T07:26:51.047Z</updated>
+    <updated>2022-01-05T08:29:30.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU가 원자력 발전으로 돌아섰다?.."돌아선 유럽 국가는 없다"]]></title>
+        <id>https://v.daum.net/v/20220105170152338</id>
+        <link href="https://v.daum.net/v/20220105170152338"/>
+        <updated>2022-01-05T08:29:06.552Z</updated>
+        <content type="html"><![CDATA[[경향신문] 유럽연합(EU) 집행위원회가 최근 회원국들에 보낸 녹색분류체계(그린택소노미) 초안에 2045년까지 건설 허가가 난 원자력 발전을 ‘녹색투자’로 분류하는 내용이 들어가면서 원전 논란이 재점화되고 있다. 일각에선 지난달 30일 발표된 한국형 녹색분류체계에 원전이 제외된 것을 비판하며 ‘원전 복귀’가 세계적 추세라고도 주장한다. 과연 그럴까? 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다?]]></title>
         <id>https://v.daum.net/v/20211201104903919</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20200819180417739"/>
         <updated>2022-01-02T15:36:31.784Z</updated>
         <content type="html"><![CDATA[[경향신문] 유투브와 페이스북 등 사회관계망서비스(SNS)를 중심으로 퍼져나가고 있는 ‘서초구 보건소 직원과의 통화’는 사실이 아닌 것으로 19일 확인됐다. 3분 25초 분량의 해당 동영상은 한 중년 여성과 보건소 직원 간의 통화내용으로, 중년여성은 “8.15 집회에 참가한 사람들 가운데 보건소에서 코로나19 검체검사를 받은 결과 양성이 나왔으나 병원에 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4대강 VS 태양광 '폭우 피해 연관성' 전문가에 물었더니]]></title>
-        <id>https://v.daum.net/v/20200811060131023</id>
-        <link href="https://v.daum.net/v/20200811060131023"/>
-        <updated>2022-01-02T15:36:31.788Z</updated>
-        <content type="html"><![CDATA[[경향신문] “4대강, 홍수 조절 기능 없음” 2014년 박근혜 정부도 인정 산사태와 태양광 발전시설 산림청 “직접 연관성 없다” 확률 낮더라도 검토 필요성 문재인 대통령은 10일 청와대에서 수석·비서관 회의를 주재하면서 “4대강 보가 홍수 조절에 어느 정도 기여하는지를 실증적으로 분석할 수 있는 기회이기도 하다”고 말했다. 최근 기록적인 폭우로 피해가]]></content>
     </entry>
 </feed>
