@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-01-05T10:26:39.393Z</updated>
+    <updated>2022-01-05T11:20:36.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['택시 먹튀' 잡혀봤자 경범죄?]]></title>
+        <id>https://v.daum.net/v/20220105195757272</id>
+        <link href="https://v.daum.net/v/20220105195757272"/>
+        <updated>2022-01-05T11:19:59.783Z</updated>
+        <content type="html"><![CDATA['택시 먹튀'라는 말 들어보셨습니까. 택시 요금을 안 내고 도망가는 걸 뜻합니다. 어떤 상황인지 확인해봅니다. ▲택시 탑승한 10대 여성들 [현장음] 목적지에 도착했습니다. [택시 기사] "7만 3천5백 원이에요." ['택시 먹튀' 청소년] "아니 내가 카드를 잃어버렸거든? 한 번만 빌려주면 안 돼? 아이 ○○ 내일까지 갚는다고. 카드 좀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[횡단보도 우회전 단속, 깐깐해진다?]]></title>
         <id>https://v.daum.net/v/20220104200253853</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211216195500641"/>
         <updated>2022-01-02T15:36:19.991Z</updated>
         <content type="html"><![CDATA[[영화 007 골드핑거 中] "회전 번호판이라네. 모든 국가를 다 통과할 수 있지." 1967년에 개봉한 영화, 007입니다. 주인공에게 임무수행에 필요한 장비를 보여주는데요. 최근 온라인 커뮤니티에서도 "번호판이 바뀌는 차량을 목격했다"는 글이 화제입니다. 사진을 자세히 보면 8자리 신형 번호판 밑으로 7자리 구형 번호판이 반쯤 드러나 있는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 지진, 수평이동이라 피해 적었다?]]></title>
-        <id>https://v.daum.net/v/20211215194952640</id>
-        <link href="https://v.daum.net/v/20211215194952640"/>
-        <updated>2022-01-02T15:36:19.992Z</updated>
-        <content type="html"><![CDATA[어제 제주 인근 해상에서 발생한 지진 규모는 4.9. 농장 오리가 깜짝 놀라 달아나고, 건물이 흔들리는 모습이 포착됐죠. 2017년 경북 포항에서 발생한 규모 5.4의 지진 이후 가장 강력했는데요. 규모 차이는 있지만, 포항 지진 때보다 이번 지진은 피해가 적었다는 분석이 나오는데 그 이유를 확인해봅니다. 중앙재난안전대책본부에 접수된 피해신고]]></content>
     </entry>
 </feed>
