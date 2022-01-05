@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-05T05:23:28.950Z</updated>
+    <updated>2022-01-05T06:30:43.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 오미크론 확산세, 부스터샷의 부메랑?]]></title>
+        <id>https://v.daum.net/v/20220105151800571</id>
+        <link href="https://v.daum.net/v/20220105151800571"/>
+        <updated>2022-01-05T06:29:18.957Z</updated>
+        <content type="html"><![CDATA[세계적으로 부스터샷 확대 정책이 코로나 확산을 부추기고 있다는 주장이 나왔습니다. 다름 아닌 세계보건기구 WHO의 수장, 테워드로스 아드하놈 거브러여수스 사무총장입니다. 테워드로스 사무총장은 최근 화상 언론 브리핑에서, 전면적인 부스터삿은 이미 높은 접종률을 보이는 국가들로 백신이 공급되게 해, 코로나19 대유행 종식을 늦출 수 있다고 말했습니다. 실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220105133905288</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220103133300299"/>
         <updated>2022-01-03T05:22:19.085Z</updated>
         <content type="html"><![CDATA[대선을 70일 정도 앞둔 지금, 후보들 간 토론회 공방이 뜨겁습니다. 더불어민주당 이재명 후보가 운을 띄웠습니다. 국민의힘 윤석열 후보를 향해 얼굴을 맞대고 토론을 하자고 압박했습니다. 윤 후보는 토론이 별 도움이 안 된다며 선을 그었습니다.&nbsp; 이후, 이 후보는 압박 수위를 계속 높여갔고, 윤석열 후보는 노골적인 불쾌감을 드러냈습니다. 공방이 계속되며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 임인년 새해의 상징 '검은 호랑이'는 상상 속 동물?]]></title>
-        <id>https://v.daum.net/v/20220102103006480</id>
-        <link href="https://v.daum.net/v/20220102103006480"/>
-        <updated>2022-01-02T15:35:29.811Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 2022년 새해는 '검은 호랑이의 해'로 불리면서 관심을 모은다. 흑호(黑虎), 흑범, 흑호랑이를 언급하는 신년사와 기사가 쏟아지는가 하면 "흑범의 해 소원 성취하세요" "범처럼 대한민국이 강해졌으면 한다" 등 기대 섞인 댓글이 올라온다. 다른 한편에선 샘솟는 흑호랑이의 기운을 제품 판매에 활용하려는 식음료·유통 업체들의 마]]></content>
     </entry>
 </feed>
