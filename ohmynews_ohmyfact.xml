@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-01-05T09:24:54.024Z</updated>
+    <updated>2022-01-05T10:26:39.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문재인 정부 수도권 공급량 역대 최대" 심상정 주장 '사실']]></title>
+        <id>https://v.daum.net/v/20220105190008347</id>
+        <link href="https://v.daum.net/v/20220105190008347"/>
+        <updated>2022-01-05T10:26:27.281Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓']]></title>
         <id>https://v.daum.net/v/20220105133905288</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211206111500949"/>
         <updated>2022-01-02T15:41:35.621Z</updated>
         <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 윤석열 대선 후보가 지난 11월 30일 오후 충북 청주시 청원구에 위치한 우수강소기업 클레버를 방문해 2차전지 제조설비를 살펴보고 있다.    ⓒ 연합뉴스  &nbsp;[검증대상] 민주당 "윤석열의 최저임금 철폐 발언은 위헌적" "정부의 최저시급(최저임금제)이나 주 52시간제는 일부 중소기업이나 창의적 업무에 비현실적이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 색 같은 건" → "이 XX야".. 윤석열 욕설 영상은 '거짓']]></title>
-        <id>https://v.daum.net/v/20211202123000451</id>
-        <link href="https://v.daum.net/v/20211202123000451"/>
-        <updated>2022-01-02T15:41:35.623Z</updated>
-        <content type="html"><![CDATA[[박수림·곽우신 기자] ▲ &nbsp;지난 11월 22일 서울 동작구 국립서울현충원 내 김영삼 전 대통령 묘역에서 열린 6주기 추모식에 참석하는 윤석열 국민의힘 대선 후보의 모습을 촬영한 유튜브 영상    ⓒ 유튜버 3300평 윤희숙  &nbsp;"아 검은 넥타이...야 이 XX야, 그건 차안에서 챙겼어야지!" 윤석열 국민의힘 대선 후보가 현역 국회의원인 이용]]></content>
     </entry>
 </feed>
