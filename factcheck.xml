@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-06T01:23:09.378Z</updated>
+    <updated>2022-01-06T02:46:53.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 탈모 인구가 1천만 명이라고?]]></title>
+        <id>https://v.daum.net/v/20220106113737936</id>
+        <link href="https://v.daum.net/v/20220106113737936"/>
+        <updated>2022-01-06T02:45:20.868Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 더불어민주당 이재명 대선 후보 캠프에서 공약으로 검토한다는 탈모 치료제 건강보험 적용을 놓고 설왕설래하고 있다. 국회 보건복지위원회 소속인 더불어민주당 최종윤 의원은 지난 4일 사회관계망서비스(SNS) 글을 통해 "1천만 탈모인들의 약값 부담을 덜어드리기 위해 최선을 다하겠다"고 언급했다. 이에 1천만 탈모인들의 표심을 겨냥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]'택시 먹튀' 잡혀봤자 경범죄?]]></title>
         <id>https://v.daum.net/v/20220105195757272</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220104122216200"/>
         <updated>2022-01-04T03:23:22.091Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 새해 벽두부터 신종 코로나바이러스 감염증(코로나19) 확산세를 차단하기 위한 방역패스(접종증명·음성확인제)가 강화되면서 논란이 이어지고 있다. 정부는 백신 미접종자 감염을 줄이고 위중증 환자로 인한 의료체계 부담을 덜기 위해선 당분간 방역패스가 불가피하다는 입장이다. 하지만 이미 백신 접종률이 90%를 웃도는 상황에서 실효성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS]'통합 항공사' 운수권 재분배하면 장거리 노선 외국에 빼앗긴다고?]]></title>
-        <id>https://v.daum.net/v/20220104105607827</id>
-        <link href="https://v.daum.net/v/20220104105607827"/>
-        <updated>2022-01-04T02:41:07.935Z</updated>
-        <content type="html"><![CDATA[공정거래위원회가 대한항공의 아시아나항공 인수·합병을 조건부로 승인하기로 가닥을 잡은 가운데, 대한항공 등 일각에서 저비용항공사(LCC)의 수용 능력 부재를 이유로 ‘장거리’ 노선을 외국 항공사에 내어줄 수 있다는 주장이 나온다. 국내 엘시시에 장거리 운수권은 ‘그림의 떡’에 불과하고, ‘승인 조건’에 따라 회수 뒤 재분배되는 운수권은 외항사의 먹잇감이 된]]></content>
     </entry>
 </feed>
