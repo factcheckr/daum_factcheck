@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-06T09:24:52.783Z</updated>
+    <updated>2022-01-06T10:26:56.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이재명 심는다' 탈모 건보 적용..그래서 필요한 돈은 얼마?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20220106190302771</id>
+        <link href="https://v.daum.net/v/20220106190302771"/>
+        <updated>2022-01-06T10:25:38.064Z</updated>
+        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷더불어민주당 이재명 후보가 띄운 '탈모약 건강보험적용 공약'의 열기가 뜨겁습니다. 그런데 대체 이 공약을 실현하는데 필요한 돈은 얼마일까요. 건보 재정에는 문제가 없을지, 꼼꼼히 따져봤습니다. ①현재 탈모 환자는 건보 적용 대상이 아닌가? ②탈모 인구 1천만 명? ③건겅보험]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220106184204465</id>
+        <link href="https://v.daum.net/v/20220106184204465"/>
+        <updated>2022-01-06T10:25:38.065Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 수능폐지론 갑툭튀? 교육부에 물어봤습니다]]></title>
         <id>https://v.daum.net/v/20220106173304808</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220105151800571"/>
         <updated>2022-01-05T06:29:18.957Z</updated>
         <content type="html"><![CDATA[세계적으로 부스터샷 확대 정책이 코로나 확산을 부추기고 있다는 주장이 나왔습니다. 다름 아닌 세계보건기구 WHO의 수장, 테워드로스 아드하놈 거브러여수스 사무총장입니다. 테워드로스 사무총장은 최근 화상 언론 브리핑에서, 전면적인 부스터삿은 이미 높은 접종률을 보이는 국가들로 백신이 공급되게 해, 코로나19 대유행 종식을 늦출 수 있다고 말했습니다. 실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220105133905288</id>
-        <link href="https://v.daum.net/v/20220105133905288"/>
-        <updated>2022-01-05T05:22:18.203Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220105133900283</id>
-        <link href="https://v.daum.net/v/20220105133900283"/>
-        <updated>2022-01-05T05:22:18.203Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
 </feed>
