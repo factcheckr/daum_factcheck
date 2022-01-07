@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-07T01:23:50.001Z</updated>
+    <updated>2022-01-07T02:46:55.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '제명 건의' 박덕흠 · 윤미향을 통해 본 '징계 가결률']]></title>
+        <id>https://v.daum.net/v/20220107113900438</id>
+        <link href="https://v.daum.net/v/20220107113900438"/>
+        <updated>2022-01-07T02:45:21.374Z</updated>
+        <content type="html"><![CDATA[지난 5일 국회 윤리심사자문위원회가 국민의힘 박덕흠 의원과 무소속 윤미향·이상직 의원에 대한 의원직 제명을 국회 윤리특별위원회, 윤리특위에 건의하기로 했습니다. SBS 보도로 알려졌습니다.&nbsp; 박덕흠 의원은 가족 회사가 피감기관으로부터 수주계약을 맺을 수 있게 개입했다는 의혹을 받아 징계 요구를 받았습니다. 지난 2020년 국민의힘을 탈당했던 박 의원은 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]K-나이 탓?..헷갈리는 방역패스 기준]]></title>
         <id>https://v.daum.net/v/20220106200358803</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220105190008347"/>
         <updated>2022-01-05T10:25:18.980Z</updated>
         <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU가 원자력 발전으로 돌아섰다?.."돌아선 유럽 국가는 없다" [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20220105170152338</id>
-        <link href="https://v.daum.net/v/20220105170152338"/>
-        <updated>2022-01-05T08:28:07.474Z</updated>
-        <content type="html"><![CDATA[[경향신문] 유럽연합(EU) 집행위원회가 최근 회원국들에 보낸 녹색분류체계(그린택소노미) 초안에 2045년까지 건설 허가가 난 원자력 발전을 ‘녹색투자’로 분류하는 내용이 들어가면서 원전 논란이 재점화되고 있다. 일각에선 지난달 30일 발표된 한국형 녹색분류체계에 원전이 제외된 것을 비판하며 ‘원전 복귀’가 세계적 추세라고도 주장한다. 과연 그럴까? 전]]></content>
     </entry>
 </feed>
