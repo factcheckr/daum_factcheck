@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-07T11:20:37.281Z</updated>
+    <updated>2022-01-07T12:38:28.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220107203600515</id>
+        <link href="https://v.daum.net/v/20220107203600515"/>
+        <updated>2022-01-07T12:37:00.332Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 1월 6일 MBC '100분토론'에서 대장동 특혜 개발 의혹에 대한 질문에 답변하고 있다.    ⓒ MBC  &nbsp; [검증대상] 이재명 후보 "윤석열 수사한 5명 극단적 선택" 이재명 더불어민주당 대선 후보는 6일 MBC '100분토론'에서 대장동 특혜개발 의혹과 관련한 수사 도중 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '제명 건의' 박덕흠 · 윤미향을 통해 본 '징계 가결률']]></title>
         <id>https://v.daum.net/v/20220107113900438</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220105195757272"/>
         <updated>2022-01-05T11:19:13.230Z</updated>
         <content type="html"><![CDATA['택시 먹튀'라는 말 들어보셨습니까. 택시 요금을 안 내고 도망가는 걸 뜻합니다. 어떤 상황인지 확인해봅니다. ▲택시 탑승한 10대 여성들 [현장음] 목적지에 도착했습니다. [택시 기사] "7만 3천5백 원이에요." ['택시 먹튀' 청소년] "아니 내가 카드를 잃어버렸거든? 한 번만 빌려주면 안 돼? 아이 ○○ 내일까지 갚는다고. 카드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문재인 정부 수도권 공급량 역대 최대" 심상정 주장 '사실'  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220105190008347</id>
-        <link href="https://v.daum.net/v/20220105190008347"/>
-        <updated>2022-01-05T10:25:18.980Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
 </feed>
