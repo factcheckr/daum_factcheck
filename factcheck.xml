@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-08T01:17:33.329Z</updated>
+    <updated>2022-01-08T02:45:29.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 아래층에서 우퍼 스피커로 층간소음 보복해도 괜찮다고?]]></title>
+        <id>https://v.daum.net/v/20220108103901846</id>
+        <link href="https://v.daum.net/v/20220108103901846"/>
+        <updated>2022-01-08T02:44:07.473Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19로 인해 집에 머무르는 시간이 많아진 탓에 층간소음 분쟁이 어느 때보다 늘었다. 한국환경공단 층간소음 이웃사이센터가 접수한 2020년 층간소음 관련 전화상담 건수는 4만 2천여 건으로 전년보다 60%가량 늘었고, 지난해에도 3분기까지만 3만4천여 건에 이르렀다. 층간소음을 참지 못해 홧김에 개인적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220107203600515</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220106113737936"/>
         <updated>2022-01-06T02:45:20.868Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 더불어민주당 이재명 대선 후보 캠프에서 공약으로 검토한다는 탈모 치료제 건강보험 적용을 놓고 설왕설래하고 있다. 국회 보건복지위원회 소속인 더불어민주당 최종윤 의원은 지난 4일 사회관계망서비스(SNS) 글을 통해 "1천만 탈모인들의 약값 부담을 덜어드리기 위해 최선을 다하겠다"고 언급했다. 이에 1천만 탈모인들의 표심을 겨냥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]'택시 먹튀' 잡혀봤자 경범죄?]]></title>
-        <id>https://v.daum.net/v/20220105195757272</id>
-        <link href="https://v.daum.net/v/20220105195757272"/>
-        <updated>2022-01-05T11:19:13.230Z</updated>
-        <content type="html"><![CDATA['택시 먹튀'라는 말 들어보셨습니까. 택시 요금을 안 내고 도망가는 걸 뜻합니다. 어떤 상황인지 확인해봅니다. ▲택시 탑승한 10대 여성들 [현장음] 목적지에 도착했습니다. [택시 기사] "7만 3천5백 원이에요." ['택시 먹튀' 청소년] "아니 내가 카드를 잃어버렸거든? 한 번만 빌려주면 안 돼? 아이 ○○ 내일까지 갚는다고. 카드]]></content>
     </entry>
 </feed>
