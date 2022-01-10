@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-10T04:32:39.424Z</updated>
+    <updated>2022-01-10T05:24:23.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다? '사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220110135700411</id>
+        <link href="https://v.daum.net/v/20220110135700411"/>
+        <updated>2022-01-10T05:22:57.687Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp; '병사 봉급 월 200만 원' &nbsp; 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 금융위원장-금감원장 "혼연일체" 강조한 이유는?]]></title>
         <id>https://v.daum.net/v/20220110093602198</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220106184204465"/>
         <updated>2022-01-06T10:25:38.065Z</updated>
         <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 수능폐지론 갑툭튀? 교육부에 물어봤습니다]]></title>
-        <id>https://v.daum.net/v/20220106173304808</id>
-        <link href="https://v.daum.net/v/20220106173304808"/>
-        <updated>2022-01-06T09:23:49.954Z</updated>
-        <content type="html"><![CDATA[팩트체크 시작합니다. 교육부에 물어봤습니다. 답은 이렇습니다. 대입 정책은 4년 예고제다, 즉, 정책 바꾸려면 4년 전에 바꿔야 한다, 법이 그렇다, 사실은팀이 법조문 찾아보니까 정말 그렇더라고요? 아무튼, 앞으로 입시 개편은 2028년도에 예정돼 있다, 결국, 그 4년 전인 2024년에 결정된다, 지금으로서는 제대로 논의될 수가 없다는 겁니다. 그런데 정]]></content>
     </entry>
 </feed>

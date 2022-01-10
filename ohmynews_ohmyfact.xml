@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-01-10T04:32:39.422Z</updated>
+    <updated>2022-01-10T05:24:23.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다? '사실']]></title>
+        <id>https://v.daum.net/v/20220110135700411</id>
+        <link href="https://v.daum.net/v/20220110135700411"/>
+        <updated>2022-01-10T05:24:11.481Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp; '병사 봉급 월 200만 원' &nbsp; 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반']]></title>
         <id>https://v.daum.net/v/20220107203600515</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211210202707966"/>
         <updated>2022-01-02T15:41:35.617Z</updated>
         <content type="html"><![CDATA[[박수림, 김시연 기자] &nbsp;        ▲ &nbsp;국민의힘 윤석열 대선후보가 8일 서울 종로구 대학로의 한 소극장에서 열린 청년문화예술인과의 간담회에서 인사말을 하고 있다.    ⓒ 국회사진취재단  &nbsp;&nbsp;&nbsp;[검증대상] '마이크 패스' 논란 부른 청년문화예술인 간담회 게시물 "대체 대선 후보가 누구야? 윤석열은 마이크 전달만 하고.. 답변은 이준석이 하네?" (1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 '이코노미스트'가 찍은 후보들 낙선?.. '대체로 사실']]></title>
-        <id>https://v.daum.net/v/20211209071508287</id>
-        <link href="https://v.daum.net/v/20211209071508287"/>
-        <updated>2022-01-02T15:41:35.618Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;&nbsp;        ▲ &nbsp;&lt;이코노미스트&gt;는 매년 연말 발행하는 &lt;세계대전망&gt;에는 이듬해 열리는 각국 대선 결과 예측도 담고 있다.    ⓒ 김시연  &nbsp;[검증대상] "&lt;이코노미스트&gt;가 당선 예측한 대선 후보들 낙선" 국내 언론은 7일 영국 경제 매체인 &lt;이코노미스트&gt;가 내년 대선에서 윤석열 국민의힘 후보 당선을 예측했다고 보도했다. 그]]></content>
     </entry>
 </feed>
