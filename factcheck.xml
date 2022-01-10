@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-10T21:22:00.658Z</updated>
+    <updated>2022-01-10T22:22:46.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 한국의 코로나19 방역 통제, 가장 낮은 수준이다?]]></title>
+        <id>https://v.daum.net/v/20220111070005831</id>
+        <link href="https://v.daum.net/v/20220111070005831"/>
+        <updated>2022-01-10T22:21:21.015Z</updated>
+        <content type="html"><![CDATA['방역패스(접종증명·음성확인제)'의 효력을 두고 법정 공방이 이어지고 있는 가운데 어제(10일)부터 본격적으로 방역패스 적용이 시작됐습니다. 1주일간 계도기간이 지난 식당과 카페는 방역패스 위반 시 과태료나 행정 처분을 받습니다. 백화점과 대형마트, 대형서점, 농수산물 유통센터 등을 이용할 때도 방역패스가 필요합니다. 상인과 학부모, 일부 의료인 등은 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 탈모약 보험 적용, 700~800억 원 정도면 될까]]></title>
         <id>https://v.daum.net/v/20220110203602659</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220108103901846"/>
         <updated>2022-01-08T02:44:07.473Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19로 인해 집에 머무르는 시간이 많아진 탓에 층간소음 분쟁이 어느 때보다 늘었다. 한국환경공단 층간소음 이웃사이센터가 접수한 2020년 층간소음 관련 전화상담 건수는 4만 2천여 건으로 전년보다 60%가량 늘었고, 지난해에도 3분기까지만 3만4천여 건에 이르렀다. 층간소음을 참지 못해 홧김에 개인적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열 수사한 5명 극단 선택" 이재명 발언은 '사실 반 거짓 반' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220107203600515</id>
-        <link href="https://v.daum.net/v/20220107203600515"/>
-        <updated>2022-01-07T12:37:00.332Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 1월 6일 MBC '100분토론'에서 대장동 특혜 개발 의혹에 대한 질문에 답변하고 있다.    ⓒ MBC  &nbsp; [검증대상] 이재명 후보 "윤석열 수사한 5명 극단적 선택" 이재명 더불어민주당 대선 후보는 6일 MBC '100분토론'에서 대장동 특혜개발 의혹과 관련한 수사 도중 사]]></content>
     </entry>
 </feed>
