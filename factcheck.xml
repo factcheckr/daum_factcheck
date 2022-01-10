@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-10T10:27:35.269Z</updated>
+    <updated>2022-01-10T11:21:13.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]반려견 목줄 '2m 룰' 기준?]]></title>
+        <id>https://v.daum.net/v/20220110195757178</id>
+        <link href="https://v.daum.net/v/20220110195757178"/>
+        <updated>2022-01-10T11:19:44.548Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 대선 공약 된 '전자제품 수리할 권리', 보장받을 수 있을까?]]></title>
         <id>https://v.daum.net/v/20220110164601879</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220106190302771"/>
         <updated>2022-01-06T10:25:38.064Z</updated>
         <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷더불어민주당 이재명 후보가 띄운 '탈모약 건강보험적용 공약'의 열기가 뜨겁습니다. 그런데 대체 이 공약을 실현하는데 필요한 돈은 얼마일까요. 건보 재정에는 문제가 없을지, 꼼꼼히 따져봤습니다. ①현재 탈모 환자는 건보 적용 대상이 아닌가? ②탈모 인구 1천만 명? ③건겅보험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220106184204465</id>
-        <link href="https://v.daum.net/v/20220106184204465"/>
-        <updated>2022-01-06T10:25:38.065Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
 </feed>

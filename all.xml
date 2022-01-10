@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-10T10:27:35.276Z</updated>
+    <updated>2022-01-10T11:21:13.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]반려견 목줄 '2m 룰' 기준? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220110195757178</id>
+        <link href="https://v.daum.net/v/20220110195757178"/>
+        <updated>2022-01-10T11:19:44.548Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 대선 공약 된 '전자제품 수리할 권리', 보장받을 수 있을까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220110164601879</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220106190302771"/>
         <updated>2022-01-06T10:25:38.064Z</updated>
         <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷더불어민주당 이재명 후보가 띄운 '탈모약 건강보험적용 공약'의 열기가 뜨겁습니다. 그런데 대체 이 공약을 실현하는데 필요한 돈은 얼마일까요. 건보 재정에는 문제가 없을지, 꼼꼼히 따져봤습니다. ①현재 탈모 환자는 건보 적용 대상이 아닌가? ②탈모 인구 1천만 명? ③건겅보험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공기업 부채 많은데 부채비율 낮다 속여" 안철수 주장 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220106184204465</id>
-        <link href="https://v.daum.net/v/20220106184204465"/>
-        <updated>2022-01-06T10:25:38.065Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['제명 건의' 박덕흠 · 윤미향을 통해 본 '징계 가결률' (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[국내 코로나19 백신 접종자 수가 3,200만 명을 넘어섰습니다. 1차 접종 인원은 32,149,176명으로 접종률은 62.6%였고 접종 완료자는 19,406,809명으로 접종률 37.8%를 기록했습니다.(10일 0시 기준) 한때 백신 수급이 원활하지 못해 접종이 정체되기도 했지만 지난달 하순 이후부터는 다시 수월하게 진행되고 있는데요, 한편에서는 백신의]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반려견 목줄 '2m 룰' 기준? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220110195757178</id>
+        <link href="https://v.daum.net/v/20220110195757178"/>
+        <updated>2022-01-10T11:20:35.190Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[K-나이 탓?..헷갈리는 방역패스 기준 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220106200358803</id>
         <link href="https://v.daum.net/v/20220106200358803"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20211221200758174"/>
         <updated>2022-01-02T15:36:19.989Z</updated>
         <content type="html"><![CDATA[서울 서대문구에 들어설 예정인&nbsp;드라이브스루 카페 앞입니다. 주변의 푸른 나무와는 다르게&nbsp;나뭇잎이 말라 비틀어진 가로수가 눈에 띕니다. 수사 중이라는 안내문도 붙었는데요. 경찰 조사결과 나무 밑동에&nbsp;드릴로 뚫은 구멍이 발견됐고,&nbsp;고농도 농약이 주입된 사실도 확인됐습니다. 이 사건을 건네받은 검찰은&nbsp;카페가 들어설 건물 관계자를 상대로&nbsp;수사를 이어가고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 캐럴 안 트나, 못 트나 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211220202049000</id>
-        <link href="https://v.daum.net/v/20211220202049000"/>
-        <updated>2022-01-02T15:36:19.990Z</updated>
-        <content type="html"><![CDATA["캐럴 안 들은 지가 좀 된 것 같아요." "코로나 때문인 것 같기도 하고 잘 모르겠어요." 크리스마스 시즌에 길거리를 걸으면 어디선가 들려오던 캐럴 소리. 그런데 몇 년 전부터 캐럴 듣기 힘들어졌는데요. 왜 그런지 궁금해하는 분들 적지 않은데, 이유 확인해봅니다. 이 배경에는 2018년 개정된 저작권법이 있는데요. 카페나 백화점, 대형마트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU가 원자력 발전으로 돌아섰다?.."돌아선 유럽 국가는 없다" (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
