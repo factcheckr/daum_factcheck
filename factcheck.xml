@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-10T07:23:44.763Z</updated>
+    <updated>2022-01-10T08:30:14.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 대선 공약 된 '전자제품 수리할 권리', 보장받을 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20220110164601879</id>
+        <link href="https://v.daum.net/v/20220110164601879"/>
+        <updated>2022-01-10T08:29:08.625Z</updated>
+        <content type="html"><![CDATA[전자제품을 비롯한 생활용품을 고쳐 쓸 권리를 보장하려는 움직임이 대선을 앞두고 정치권을 중심으로 나타나고 있다. 기후위기 시대에 일상생활 속 쓰레기 발생량을 줄여야 한다는 사회적 공감대가 커지면서 일명 ‘수리할 권리’(right to repair)에 관심이 쏠리는 모양새다. 이재명 더불어민주당 대선후보는 9일 자신의 페이스북을 통해 43번째 ‘소확행’(소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다? '사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220110135700411</id>
         <link href="https://v.daum.net/v/20220110135700411"/>
         <updated>2022-01-10T05:22:57.687Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp; '병사 봉급 월 200만 원' &nbsp; 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 금융위원장-금감원장 "혼연일체" 강조한 이유는?]]></title>
-        <id>https://v.daum.net/v/20220110093602198</id>
-        <link href="https://v.daum.net/v/20220110093602198"/>
-        <updated>2022-01-10T01:14:28.318Z</updated>
-        <content type="html"><![CDATA[“혼연일체가 됩시다.” 지난 6일 정은보 금융감독원 원장이 고승범 금융위원장을 만나 한 말이다. 고 위원장이 먼저 “저와 정은보 원장 취임 뒤 두 기관이 상호협력하는 관계로 완전히 바뀌었다”고 하자, 정 원장이 맞장구치며 한 말이다. 두 사람 발언은 전임 윤석헌 금감원장 시절 형성된 금융위와 금감원 간의 불편한 관계가 해소됐다는 의미가 투영된 발언이나,]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 백신 미접종 간호사는 코로나 업무 할 수 없다?]]></title>
