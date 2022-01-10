@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-10T11:21:13.694Z</updated>
+    <updated>2022-01-10T12:39:30.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 탈모약 보험 적용, 700~800억 원 정도면 될까]]></title>
+        <id>https://v.daum.net/v/20220110203602659</id>
+        <link href="https://v.daum.net/v/20220110203602659"/>
+        <updated>2022-01-10T12:38:07.561Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이재명 대선 후보의 탈모약 건강보험 적용 공약에 대한 관심은 여전히 뜨겁습니다. 특히, 이 후보가 건강보험 추가 부담액이 700~800억 원 정도라고 말하면서 이 부분에 대한 논란도 이어지고 있는데, SBS 팩트체크 사실은팀에서 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; 탈모약 보험 적용 공약, 건강보험 재정을 해칠 수 있다는 비판이 나오자 이재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 탈모치료약, 건보 적용되면 '처방' 어려워진다?]]></title>
+        <id>https://v.daum.net/v/20220110203307609</id>
+        <link href="https://v.daum.net/v/20220110203307609"/>
+        <updated>2022-01-10T12:38:07.561Z</updated>
+        <content type="html"><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 논리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나왔는데, 추려드리자면 탈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]반려견 목줄 '2m 룰' 기준?]]></title>
         <id>https://v.daum.net/v/20220110195757178</id>
@@ -18,6 +32,13 @@
         <link href="https://v.daum.net/v/20220110164601879"/>
         <updated>2022-01-10T08:29:08.625Z</updated>
         <content type="html"><![CDATA[전자제품을 비롯한 생활용품을 고쳐 쓸 권리를 보장하려는 움직임이 대선을 앞두고 정치권을 중심으로 나타나고 있다. 기후위기 시대에 일상생활 속 쓰레기 발생량을 줄여야 한다는 사회적 공감대가 커지면서 일명 ‘수리할 권리’(right to repair)에 관심이 쏠리는 모양새다. 이재명 더불어민주당 대선후보는 9일 자신의 페이스북을 통해 43번째 ‘소확행’(]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 여가부 '성인지 예산 35조'?..가짜뉴스입니다]]></title>
+        <id>https://v.daum.net/v/20220110162609239</id>
+        <link href="https://v.daum.net/v/20220110162609239"/>
+        <updated>2022-01-10T12:38:07.563Z</updated>
+        <content type="html"><![CDATA[윤석열 국민의힘 대선후보가 지난 7일 ‘여성가족부 폐지’를 공식화한 이후, 여가부를 둘러싼 각종 소문과 마타도어(흑색선전)가 다시 주목받고 있다. 여성가족부는 ‘여성’만을 위한 부처로, 한국에만 이런 부처가 있고 성인지 관련 예산에만 35조원을 쓰고 있다는 등의 반복되는 ‘가짜뉴스’들이다. 여가부를 둘러싼 이러한 주장들을 팩트체크해봤다. 1. 여성가족부는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?.. 사실 [오마이팩트]]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220107203600515"/>
         <updated>2022-01-07T12:37:00.332Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 1월 6일 MBC '100분토론'에서 대장동 특혜 개발 의혹에 대한 질문에 답변하고 있다.    ⓒ MBC  &nbsp; [검증대상] 이재명 후보 "윤석열 수사한 5명 극단적 선택" 이재명 더불어민주당 대선 후보는 6일 MBC '100분토론'에서 대장동 특혜개발 의혹과 관련한 수사 도중 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '제명 건의' 박덕흠 · 윤미향을 통해 본 '징계 가결률']]></title>
-        <id>https://v.daum.net/v/20220107113900438</id>
-        <link href="https://v.daum.net/v/20220107113900438"/>
-        <updated>2022-01-07T02:45:21.374Z</updated>
-        <content type="html"><![CDATA[지난 5일 국회 윤리심사자문위원회가 국민의힘 박덕흠 의원과 무소속 윤미향·이상직 의원에 대한 의원직 제명을 국회 윤리특별위원회, 윤리특위에 건의하기로 했습니다. SBS 보도로 알려졌습니다.&nbsp; 박덕흠 의원은 가족 회사가 피감기관으로부터 수주계약을 맺을 수 있게 개입했다는 의혹을 받아 징계 요구를 받았습니다. 지난 2020년 국민의힘을 탈당했던 박 의원은 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]K-나이 탓?..헷갈리는 방역패스 기준]]></title>
-        <id>https://v.daum.net/v/20220106200358803</id>
-        <link href="https://v.daum.net/v/20220106200358803"/>
-        <updated>2022-01-06T11:19:20.522Z</updated>
-        <content type="html"><![CDATA[저는 해가 바뀌어 서른한 살이 됐는데요. 약국에서 받은 약 봉투에는 이렇게 29세, 만 나이가 적혀있습니다. 나이를 세는 방법이 여럿이다 보니 일어나는 일인데요. 방역패스 적용이나 백신 접종 여부에도 영향을 미치는 나이 셈법, 스튜디오로 옮겨 정리해 봅니다. 나이를 세는 법 3가지입니다. 먼저 태어날 땐 0세였다가 ▲생일을 맞을 때마다 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재명 심는다' 탈모 건보 적용..그래서 필요한 돈은 얼마?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220106190302771</id>
-        <link href="https://v.daum.net/v/20220106190302771"/>
-        <updated>2022-01-06T10:25:38.064Z</updated>
-        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷더불어민주당 이재명 후보가 띄운 '탈모약 건강보험적용 공약'의 열기가 뜨겁습니다. 그런데 대체 이 공약을 실현하는데 필요한 돈은 얼마일까요. 건보 재정에는 문제가 없을지, 꼼꼼히 따져봤습니다. ①현재 탈모 환자는 건보 적용 대상이 아닌가? ②탈모 인구 1천만 명? ③건겅보험]]></content>
     </entry>
 </feed>

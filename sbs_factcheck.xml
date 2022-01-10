@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-01-10T11:21:13.704Z</updated>
+    <updated>2022-01-10T12:39:30.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈모약 보험 적용, 700~800억 원 정도면 될까]]></title>
+        <id>https://v.daum.net/v/20220110203602659</id>
+        <link href="https://v.daum.net/v/20220110203602659"/>
+        <updated>2022-01-10T12:38:20.614Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이재명 대선 후보의 탈모약 건강보험 적용 공약에 대한 관심은 여전히 뜨겁습니다. 특히, 이 후보가 건강보험 추가 부담액이 700~800억 원 정도라고 말하면서 이 부분에 대한 논란도 이어지고 있는데, SBS 팩트체크 사실은팀에서 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; 탈모약 보험 적용 공약, 건강보험 재정을 해칠 수 있다는 비판이 나오자 이재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제명 건의' 박덕흠 · 윤미향을 통해 본 '징계 가결률']]></title>
         <id>https://v.daum.net/v/20220107113900438</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211213143307377"/>
         <updated>2022-01-02T15:35:42.839Z</updated>
         <content type="html"><![CDATA[그 누구도, 어떤 이유로도 차별받아서는 안 된다는 내용을 담은 '차별금지법'은 어쩌면 당연한 말로 들리지만, 2007년 법안이 처음으로 발의된 이후 아직까지 국회 문턱을 넘지 못했습니다. 대선 정국 후보 간 정책 경쟁이 불붙으면서, 자연히 차별금지법도 다시 도마 위에 올랐습니다. 정의당이 가장 적극적입니다. 지난달 25일, 차별금지법 연내 제정을 촉구하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌종양 수술받아도 군 면제 아니다?]]></title>
-        <id>https://v.daum.net/v/20211210111504055</id>
-        <link href="https://v.daum.net/v/20211210111504055"/>
-        <updated>2022-01-02T15:35:42.845Z</updated>
-        <content type="html"><![CDATA[뇌종양 수술을 받은 한 남성이 병역 신체검사에서 4급 판정을 받아 사회복무요원으로 근무해야 한다는 사연이 한 온라인 게시판에 올라왔습니다. 이 남성은 자신의 종양 진단서를 올리며 "지난해 뇌종양 진단을 받아 수술을 했고, 지금은 외래진료를 받고 있다"면서 "지난 3월 4급 판정이 나와 어떻게 해야할지 모르겠다"고 썼습니다. 해당 글에는 수천 개의 댓글이]]></content>
     </entry>
 </feed>
