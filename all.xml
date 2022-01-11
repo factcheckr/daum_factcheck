@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T19:20:14.799Z</updated>
+    <updated>2022-01-11T20:25:18.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[여가부, 여성시민단체 무차별 사업지원 많이 한다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220112050306291</id>
+        <link href="https://v.daum.net/v/20220112050306291"/>
+        <updated>2022-01-11T20:23:52.931Z</updated>
+        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷국민의힘 윤석열 후보가 '여가부 폐지'를 선언하면서 논란이 뜨겁습니다. 이후 국민의힘 장예찬 청년본부장이 '여가부가 각종 여성 시민단체에 무차별적으로 지원되는 사업이 많다'고 주장하면서 여진이 계속되고 있는데요, 주장의 진위부터 여가부의 예산 등을 꼼꼼히 따져보겠습니다. ①여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 인력·재원, 집행부 몫..반쪽짜리 지방의회 인사권 독립 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220111215957995</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220110203602659"/>
         <updated>2022-01-10T12:38:07.561Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 이재명 대선 후보의 탈모약 건강보험 적용 공약에 대한 관심은 여전히 뜨겁습니다. 특히, 이 후보가 건강보험 추가 부담액이 700~800억 원 정도라고 말하면서 이 부분에 대한 논란도 이어지고 있는데, SBS 팩트체크 사실은팀에서 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; 탈모약 보험 적용 공약, 건강보험 재정을 해칠 수 있다는 비판이 나오자 이재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 탈모치료약, 건보 적용되면 '처방' 어려워진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220110203307609</id>
-        <link href="https://v.daum.net/v/20220110203307609"/>
-        <updated>2022-01-10T12:38:07.561Z</updated>
-        <content type="html"><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 물리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나와봤는데요. 추려보면 이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 후보의 탈모 공약, 돈은 얼마나 들까요? (다음 뉴스 ─ SBS 사실은)]]></title>
