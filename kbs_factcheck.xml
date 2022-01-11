@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-01-11T12:39:06.888Z</updated>
+    <updated>2022-01-11T13:31:24.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인력·재원, 집행부 몫..반쪽짜리 지방의회 인사권 독립]]></title>
+        <id>https://v.daum.net/v/20220111215957995</id>
+        <link href="https://v.daum.net/v/20220111215957995"/>
+        <updated>2022-01-11T13:30:47.237Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인력·재원은 제외..반쪽짜리 지방의회 인사권 독립]]></title>
         <id>https://v.daum.net/v/20220111201440377</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211116193735096"/>
         <updated>2022-01-02T15:36:07.175Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 접종 후 심근염, 주사 접종방식 잘못돼 생긴다?]]></title>
-        <id>https://v.daum.net/v/20211115070055475</id>
-        <link href="https://v.daum.net/v/20211115070055475"/>
-        <updated>2022-01-02T15:36:07.176Z</updated>
-        <content type="html"><![CDATA[국내 12~17세 유아·청소년 대상 코로나19 백신 접종이 30%대에 머물고 있습니다. 14일 0시 기준 접종 대상 276만 8천여 명 가운데 1차 접종을 마친 사람은 94만 3천 8백 명, 접종률은 34.1% 로 나타났습니다. 접종률이 다른 연령대보다 저조한 것은 접종 후 이상반응에 대한 우려 때문입니다. 우리보다 먼저 이 연령대에 백신 접종을 시작한 외]]></content>
     </entry>
 </feed>

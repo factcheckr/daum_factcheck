@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-11T12:39:06.880Z</updated>
+    <updated>2022-01-11T13:31:24.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 인력·재원, 집행부 몫..반쪽짜리 지방의회 인사권 독립]]></title>
+        <id>https://v.daum.net/v/20220111215957995</id>
+        <link href="https://v.daum.net/v/20220111215957995"/>
+        <updated>2022-01-11T13:30:15.230Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우회전 때 '보행자 녹색불'이면? 어떻게 달라지나]]></title>
         <id>https://v.daum.net/v/20220111202706624</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220110203307609"/>
         <updated>2022-01-10T12:38:07.561Z</updated>
         <content type="html"><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 물리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나와봤는데요. 추려보면 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]반려견 목줄 '2m 룰' 기준?]]></title>
-        <id>https://v.daum.net/v/20220110195757178</id>
-        <link href="https://v.daum.net/v/20220110195757178"/>
-        <updated>2022-01-10T11:19:44.548Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
     </entry>
 </feed>
