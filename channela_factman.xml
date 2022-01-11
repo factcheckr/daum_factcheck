@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-01-11T10:28:40.780Z</updated>
+    <updated>2022-01-11T11:20:40.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로콜라, 당뇨에 안 좋다?]]></title>
+        <id>https://v.daum.net/v/20220111200555224</id>
+        <link href="https://v.daum.net/v/20220111200555224"/>
+        <updated>2022-01-11T11:20:02.826Z</updated>
+        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이 게시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반려견 목줄 '2m 룰' 기준?]]></title>
         <id>https://v.daum.net/v/20220110195757178</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211222195751104"/>
         <updated>2022-01-02T15:36:19.989Z</updated>
         <content type="html"><![CDATA[오늘 0시 기준 코로나19 신규 확진자는 7456명. 최근&nbsp;한국 PCR 검사는&nbsp;오미크론 감염 여부를 알 수 없다. 반면&nbsp;해외에선 오미크론 감염 여부를&nbsp;바로 확인한다 이런 보도나 주장이 잇따릅니다. 방역당국은 사실 관계가 다르다고 했는데,&nbsp;이 해명 역시 따져보겠습니다. 우리 방역당국의 PCR 검사에선&nbsp;오미크론을 포함한 대부분의 변이 바이러스에&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가로수 '독살 논란'..처벌은?]]></title>
-        <id>https://v.daum.net/v/20211221200758174</id>
-        <link href="https://v.daum.net/v/20211221200758174"/>
-        <updated>2022-01-02T15:36:19.989Z</updated>
-        <content type="html"><![CDATA[서울 서대문구에 들어설 예정인&nbsp;드라이브스루 카페 앞입니다. 주변의 푸른 나무와는 다르게&nbsp;나뭇잎이 말라 비틀어진 가로수가 눈에 띕니다. 수사 중이라는 안내문도 붙었는데요. 경찰 조사결과 나무 밑동에&nbsp;드릴로 뚫은 구멍이 발견됐고,&nbsp;고농도 농약이 주입된 사실도 확인됐습니다. 이 사건을 건네받은 검찰은&nbsp;카페가 들어설 건물 관계자를 상대로&nbsp;수사를 이어가고 있]]></content>
     </entry>
 </feed>

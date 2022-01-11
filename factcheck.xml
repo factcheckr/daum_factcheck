@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-11T10:28:40.769Z</updated>
+    <updated>2022-01-11T11:20:40.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 인력·재원은 제외..반쪽짜리 지방의회 인사권 독립]]></title>
+        <id>https://v.daum.net/v/20220111201440377</id>
+        <link href="https://v.daum.net/v/20220111201440377"/>
+        <updated>2022-01-11T11:19:11.827Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]제로콜라, 당뇨에 안 좋다?]]></title>
+        <id>https://v.daum.net/v/20220111200555224</id>
+        <link href="https://v.daum.net/v/20220111200555224"/>
+        <updated>2022-01-11T11:19:11.828Z</updated>
+        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이 게시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220111162702647</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220110164601879"/>
         <updated>2022-01-10T08:29:08.625Z</updated>
         <content type="html"><![CDATA[전자제품을 비롯한 생활용품을 고쳐 쓸 권리를 보장하려는 움직임이 대선을 앞두고 정치권을 중심으로 나타나고 있다. 기후위기 시대에 일상생활 속 쓰레기 발생량을 줄여야 한다는 사회적 공감대가 커지면서 일명 ‘수리할 권리’(right to repair)에 관심이 쏠리는 모양새다. 이재명 더불어민주당 대선후보는 9일 자신의 페이스북을 통해 43번째 ‘소확행’(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 여가부 '성인지 예산 35조'?..가짜뉴스입니다]]></title>
-        <id>https://v.daum.net/v/20220110162609239</id>
-        <link href="https://v.daum.net/v/20220110162609239"/>
-        <updated>2022-01-10T12:38:07.563Z</updated>
-        <content type="html"><![CDATA[윤석열 국민의힘 대선후보가 지난 7일 ‘여성가족부 폐지’를 공식화한 이후, 여가부를 둘러싼 각종 소문과 마타도어(흑색선전)가 다시 주목받고 있다. 여성가족부는 ‘여성’만을 위한 부처로, 한국에만 이런 부처가 있고 성인지 관련 예산에만 35조원을 쓰고 있다는 등의 반복되는 ‘가짜뉴스’들이다. 여가부를 둘러싼 이러한 주장들을 팩트체크해봤다. 1. 여성가족부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?.. 사실 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220110135700411</id>
-        <link href="https://v.daum.net/v/20220110135700411"/>
-        <updated>2022-01-10T05:22:57.687Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp;병사 봉급 월 200만 원 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최저임금 보]]></content>
     </entry>
 </feed>
