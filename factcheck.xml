@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-11T11:20:40.800Z</updated>
+    <updated>2022-01-11T12:39:06.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우회전 때 '보행자 녹색불'이면? 어떻게 달라지나]]></title>
+        <id>https://v.daum.net/v/20220111202706624</id>
+        <link href="https://v.daum.net/v/20220111202706624"/>
+        <updated>2022-01-11T12:36:48.194Z</updated>
+        <content type="html"><![CDATA[[앵커] 오늘(11일) 팩트체크에선 '우회전 차량의 통과 기준'을 살펴봤습니다. 오늘 법 개정안이 공포됐습니다. 지금은 사실로 여겨져도 앞으론 사실이 아닐 수도 있습니다. 새롭게 팩트체크를 맡은 이지은 기자가 나와 있습니다. 법이 어떻게 강화되는 겁니까? [기자] 헷갈리는 교차로 우회전 4가지 경우를 가져와봤습니다. 이 중에서 일시 정지를 언제 해야 될지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 인력·재원은 제외..반쪽짜리 지방의회 인사권 독립]]></title>
         <id>https://v.daum.net/v/20220111201440377</id>
@@ -17,7 +24,7 @@
         <id>https://v.daum.net/v/20220111200555224</id>
         <link href="https://v.daum.net/v/20220111200555224"/>
         <updated>2022-01-11T11:19:11.828Z</updated>
-        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이 게시]]></content>
+        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' [오마이팩트]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220110195757178"/>
         <updated>2022-01-10T11:19:44.548Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 대선 공약 된 '전자제품 수리할 권리', 보장받을 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20220110164601879</id>
-        <link href="https://v.daum.net/v/20220110164601879"/>
-        <updated>2022-01-10T08:29:08.625Z</updated>
-        <content type="html"><![CDATA[전자제품을 비롯한 생활용품을 고쳐 쓸 권리를 보장하려는 움직임이 대선을 앞두고 정치권을 중심으로 나타나고 있다. 기후위기 시대에 일상생활 속 쓰레기 발생량을 줄여야 한다는 사회적 공감대가 커지면서 일명 ‘수리할 권리’(right to repair)에 관심이 쏠리는 모양새다. 이재명 더불어민주당 대선후보는 9일 자신의 페이스북을 통해 43번째 ‘소확행’(]]></content>
     </entry>
 </feed>
