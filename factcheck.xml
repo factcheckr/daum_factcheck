@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-11T07:23:57.357Z</updated>
+    <updated>2022-01-11T08:29:31.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220111162702647</id>
+        <link href="https://v.daum.net/v/20220111162702647"/>
+        <updated>2022-01-11T08:28:12.286Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 선대위는 지난 8일 "윤 후보가 이날 낮 12시 이마트 이수점에서 장을 보고, 밥상 물가와 방역패스 문제도 다시 점검했다"라고 밝혔다.    ⓒ 국민의힘 중앙선대위  &nbsp; [검증대상] 윤석열 후보 "방역패스 점검차 집과 가까운 이마트 방문" "장보기에 진심인 편 #이마트 #달걀 #파 #멸치 #콩" 윤석열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 이재명 후보의 탈모 공약, 돈은 얼마나 들까요?]]></title>
         <id>https://v.daum.net/v/20220111114802145</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220110135700411"/>
         <updated>2022-01-10T05:22:57.687Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp;병사 봉급 월 200만 원 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최저임금 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 백신 미접종 간호사는 코로나 업무 할 수 없다?]]></title>
-        <id>https://v.daum.net/v/20220110080010577</id>
-        <link href="https://v.daum.net/v/20220110080010577"/>
-        <updated>2022-01-09T23:22:52.388Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19 의료진으로 정부의 파견직 간호사에 선발됐으나 코로나19 백신 미접종자여서 일선 병원으로부터 거부당했다는 기사가 최근 온라인을 달궜다. 파견직 간호사에 지원할 당시 미접종자라는 사실을 알렸고, 병원 출근 전에 받은 검사에서 음성이 나왔는데도 출근이 가로막혔다는 내용이다. 네티즌들은 "코로나 대응]]></content>
     </entry>
 </feed>

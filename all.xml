@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T07:23:57.365Z</updated>
+    <updated>2022-01-11T08:29:32.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220111162702647</id>
+        <link href="https://v.daum.net/v/20220111162702647"/>
+        <updated>2022-01-11T08:28:12.286Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 선대위는 지난 8일 "윤 후보가 이날 낮 12시 이마트 이수점에서 장을 보고, 밥상 물가와 방역패스 문제도 다시 점검했다"라고 밝혔다.    ⓒ 국민의힘 중앙선대위  &nbsp; [검증대상] 윤석열 후보 "방역패스 점검차 집과 가까운 이마트 방문" "장보기에 진심인 편 #이마트 #달걀 #파 #멸치 #콩" 윤석열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 이재명 후보의 탈모 공약, 돈은 얼마나 들까요? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220111114802145</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220110135700411"/>
         <updated>2022-01-10T05:22:57.687Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 국민의힘 대선 후보는 1월 9일 자신의 페이스북에 "병사 봉급 월 200만 원"을 공약했다.    ⓒ 윤석열 후보 페이스북  &nbsp;병사 봉급 월 200만 원 윤석열 국민의힘 대선 후보가 1월 9일 자신의 페이스북에 올린 글이다. 그는 "윤석열 정부는 병사 봉급 월 200만 원을 보장하겠다"면서 "군복무 중 최저임금 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 백신 미접종 간호사는 코로나 업무 할 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220110080010577</id>
-        <link href="https://v.daum.net/v/20220110080010577"/>
-        <updated>2022-01-09T23:22:52.388Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19 의료진으로 정부의 파견직 간호사에 선발됐으나 코로나19 백신 미접종자여서 일선 병원으로부터 거부당했다는 기사가 최근 온라인을 달궜다. 파견직 간호사에 지원할 당시 미접종자라는 사실을 알렸고, 병원 출근 전에 받은 검사에서 음성이 나왔는데도 출근이 가로막혔다는 내용이다. 네티즌들은 "코로나 대응]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 후보의 탈모 공약, 돈은 얼마나 들까요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 유투브와 페이스북 등 사회관계망서비스(SNS)를 중심으로 퍼져나가고 있는 ‘서초구 보건소 직원과의 통화’는 사실이 아닌 것으로 19일 확인됐다. 3분 25초 분량의 해당 동영상은 한 중년 여성과 보건소 직원 간의 통화내용으로, 중년여성은 “8.15 집회에 참가한 사람들 가운데 보건소에서 코로나19 검체검사를 받은 결과 양성이 나왔으나 병원에 가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220111162702647</id>
+        <link href="https://v.daum.net/v/20220111162702647"/>
+        <updated>2022-01-11T08:29:20.903Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 선대위는 지난 8일 "윤 후보가 이날 낮 12시 이마트 이수점에서 장을 보고, 밥상 물가와 방역패스 문제도 다시 점검했다"라고 밝혔다.    ⓒ 국민의힘 중앙선대위  &nbsp; [검증대상] 윤석열 후보 "방역패스 점검차 집과 가까운 이마트 방문" "장보기에 진심인 편 #이마트 #달걀 #파 #멸치 #콩" 윤석열]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤석열 '병사 봉급 200만 원', 하사보다 많다?.. 사실 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220110135700411</id>
         <link href="https://v.daum.net/v/20220110135700411"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20211213194502152"/>
         <updated>2022-01-02T15:41:35.616Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;국민의힘이 12월 6일 중앙선대위 출범식에서 공개한 'AI 윤석열'. 딥페이크 기술을 활용해 실물에 가깝게 만들어 논란이 되고 있다.    ⓒ 국민의힘 유튜브  &nbsp;[검증대상] "미국·유럽에선 딥페이크 활용 선거운동 금지"&nbsp; "안녕하세요, AI 윤석열입니다. 윤석열 후보와 너무 닮아 놀라셨습니까?" 국민의힘은 지난 12월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이준석에 마이크만 넘기는 윤석열" 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20211210202707966</id>
-        <link href="https://v.daum.net/v/20211210202707966"/>
-        <updated>2022-01-02T15:41:35.617Z</updated>
-        <content type="html"><![CDATA[[박수림, 김시연 기자] &nbsp;        ▲ &nbsp;국민의힘 윤석열 대선후보가 8일 서울 종로구 대학로의 한 소극장에서 열린 청년문화예술인과의 간담회에서 인사말을 하고 있다.    ⓒ 국회사진취재단  &nbsp;&nbsp;&nbsp;[검증대상] '마이크 패스' 논란 부른 청년문화예술인 간담회 게시물 "대체 대선 후보가 누구야? 윤석열은 마이크 전달만 하고.. 답변은 이준석이 하네?" (1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈모치료약, 건보 적용되면 '처방' 어려워진다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
