@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-01-12T10:27:18.201Z</updated>
+    <updated>2022-01-12T11:21:08.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전월세 '곰팡이 벽지', 교체 책임 누구에게?]]></title>
+        <id>https://v.daum.net/v/20220112200457339</id>
+        <link href="https://v.daum.net/v/20220112200457339"/>
+        <updated>2022-01-12T11:20:28.498Z</updated>
+        <content type="html"><![CDATA[[리포트] 팩트맨 제보창에 들어온 내용입니다. 대학교 근처에 아들 전세방을 얻어줬다가 군대 가면서 계약이 만료됐는데, 집주인이 "곰팡이가 생겼으니 도배장판 비용을 내라"고 요구했다는 겁니다. 곰팡이 벽지 교체 책임, 누구에게 있는지 따져봅니다. 월세면 세입자, 전세면 집주인이 부담하는 걸로 알고 있는 분 적지 않은데요. 사실이 아닙니다. 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로콜라, 당뇨에 안 좋다?]]></title>
         <id>https://v.daum.net/v/20220111200555224</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211223195946893"/>
         <updated>2022-01-02T15:36:19.988Z</updated>
         <content type="html"><![CDATA[최근 질병관리청이 보낸 안내 문자입니다. 기본접종 후 6개월 안에&nbsp;3차 부스터샷 접종을 하지 않으면&nbsp; 접종 증명 유효기간을 뜻하는 '방역 패스'가&nbsp;14일 안에 만료된다는 내용입니다. 그런데 1차로 얀센백신을 맞고&nbsp;이미 2차 추가 접종을 마친 시민들 중에는&nbsp;다시 부스터샷을 맞아야 하는 건지&nbsp;궁금해하는 분 많은데&nbsp;사실인지 확인해보겠습니다. 30대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 대응에 한국은 느림보?]]></title>
-        <id>https://v.daum.net/v/20211222195751104</id>
-        <link href="https://v.daum.net/v/20211222195751104"/>
-        <updated>2022-01-02T15:36:19.989Z</updated>
-        <content type="html"><![CDATA[오늘 0시 기준 코로나19 신규 확진자는 7456명. 최근&nbsp;한국 PCR 검사는&nbsp;오미크론 감염 여부를 알 수 없다. 반면&nbsp;해외에선 오미크론 감염 여부를&nbsp;바로 확인한다 이런 보도나 주장이 잇따릅니다. 방역당국은 사실 관계가 다르다고 했는데,&nbsp;이 해명 역시 따져보겠습니다. 우리 방역당국의 PCR 검사에선&nbsp;오미크론을 포함한 대부분의 변이 바이러스에&nbsp;]]></content>
     </entry>
 </feed>

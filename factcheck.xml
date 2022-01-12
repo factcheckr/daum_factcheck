@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-12T10:27:18.199Z</updated>
+    <updated>2022-01-12T11:21:08.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]전월세 '곰팡이 벽지', 교체 책임 누구에게?]]></title>
+        <id>https://v.daum.net/v/20220112200457339</id>
+        <link href="https://v.daum.net/v/20220112200457339"/>
+        <updated>2022-01-12T11:19:29.312Z</updated>
+        <content type="html"><![CDATA[[리포트] 팩트맨 제보창에 들어온 내용입니다. 대학교 근처에 아들 전세방을 얻어줬다가 군대 가면서 계약이 만료됐는데, 집주인이 "곰팡이가 생겼으니 도배장판 비용을 내라"고 요구했다는 겁니다. 곰팡이 벽지 교체 책임, 누구에게 있는지 따져봅니다. 월세면 세입자, 전세면 집주인이 부담하는 걸로 알고 있는 분 적지 않은데요. 사실이 아닙니다. 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 알짜 사업 물적분할은 기존 주주의 주주권 침해?]]></title>
         <id>https://v.daum.net/v/20220112100333517</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220111114802145"/>
         <updated>2022-01-11T03:25:24.971Z</updated>
         <content type="html"><![CDATA[더불어민주당 이재명 대선 후보가 내놨던 탈모 건강보험 적용 공약에 관심이 여전히 뜨겁습니다. 지난주 국민의힘이 윤석열 후보와 이준석 대표의 집안싸움으로 혼선이 이어진 사이, 이재명 후보는 탈모 공약으로 어느 정도 성공을 거뒀다는 평가가 나왔습니다. 주목도가 높은 만큼 비판도 있었습니다. 늘 그렇듯 문제는 재원입니다. 건강보험이 그 돈을 배겨낼 수 있겠느냐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 연초 꽃값 폭등은 도매상 담합 때문?]]></title>
-        <id>https://v.daum.net/v/20220111080009656</id>
-        <link href="https://v.daum.net/v/20220111080009656"/>
-        <updated>2022-01-10T23:24:33.622Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 연초 졸업식 시즌을 앞두고 꽃 도매가격이 급등하면서 꽃집을 운영하는 자영업자들의 볼멘소리가 나온다. 신종 코로나바이러스 감염증(코로나19) 여파로 인한 화훼농가들의 폐업과 수입 물량 감소로 꽃 공급이 달려 빚어진 결과라는 분석이 나왔다. 일각에선 도매상들의 담합 의혹도 제기하고 있다. 지난주 청와대 청원게시판에는 꽃 도매가]]></content>
     </entry>
 </feed>
