@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-11T23:25:26.762Z</updated>
+    <updated>2022-01-12T01:17:19.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 알짜 사업 물적분할은 기존 주주의 주주권 침해?]]></title>
+        <id>https://v.daum.net/v/20220112100333517</id>
+        <link href="https://v.daum.net/v/20220112100333517"/>
+        <updated>2022-01-12T01:15:50.600Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국내 대기업이 핵심 사업 또는 성장성 있는 사업을 분리해 별도 회사로 만들고 이를 상장하는 사례가 잇따르고 있다. LG화학이 2020년 전지사업부문을 물적분할해 세운 LG에너지솔루션은 이달 27일 유가증권시장에 상장할 예정이며, SK이노베이션에서 물적분할해 설립된 SK온 역시 기업공개(IPO)를 준비 중이다. 이런]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령 바뀌면 '병사 월급 200만원' 시대..줄 돈은 있나[노컷체크]]]></title>
         <id>https://v.daum.net/v/20220112061201282</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220111080009656"/>
         <updated>2022-01-10T23:24:33.622Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 연초 졸업식 시즌을 앞두고 꽃 도매가격이 급등하면서 꽃집을 운영하는 자영업자들의 볼멘소리가 나온다. 신종 코로나바이러스 감염증(코로나19) 여파로 인한 화훼농가들의 폐업과 수입 물량 감소로 꽃 공급이 달려 빚어진 결과라는 분석이 나왔다. 일각에선 도매상들의 담합 의혹도 제기하고 있다. 지난주 청와대 청원게시판에는 꽃 도매가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 한국의 코로나19 방역 통제, 가장 낮은 수준이다?]]></title>
-        <id>https://v.daum.net/v/20220111070005831</id>
-        <link href="https://v.daum.net/v/20220111070005831"/>
-        <updated>2022-01-10T22:21:21.015Z</updated>
-        <content type="html"><![CDATA['방역패스(접종증명·음성확인제)'의 효력을 두고 법정 공방이 이어지고 있는 가운데 어제(10일)부터 본격적으로 방역패스 적용이 시작됐습니다. 1주일간 계도기간이 지난 식당과 카페는 방역패스 위반 시 과태료나 행정 처분을 받습니다. 백화점과 대형마트, 대형서점, 농수산물 유통센터 등을 이용할 때도 방역패스가 필요합니다. 상인과 학부모, 일부 의료인 등은 방]]></content>
     </entry>
 </feed>
