@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-13T10:27:19.215Z</updated>
+    <updated>2022-01-13T11:21:31.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]스타벅스, 한국만 올랐다?]]></title>
+        <id>https://v.daum.net/v/20220113201757064</id>
+        <link href="https://v.daum.net/v/20220113201757064"/>
+        <updated>2022-01-13T11:19:54.007Z</updated>
+        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스 가격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 실종 동물 잘 찾는 전문 탐정이 있다?]]></title>
         <id>https://v.daum.net/v/20220113080010126</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220111201440377"/>
         <updated>2022-01-11T11:19:11.827Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]제로콜라, 당뇨에 안 좋다?]]></title>
-        <id>https://v.daum.net/v/20220111200555224</id>
-        <link href="https://v.daum.net/v/20220111200555224"/>
-        <updated>2022-01-11T11:19:11.828Z</updated>
-        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T10:27:19.552Z</updated>
+    <updated>2022-01-13T11:21:31.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]스타벅스, 한국만 올랐다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220113201757064</id>
+        <link href="https://v.daum.net/v/20220113201757064"/>
+        <updated>2022-01-13T11:19:54.007Z</updated>
+        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스 가격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 실종 동물 잘 찾는 전문 탐정이 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220113080010126</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220111201440377"/>
         <updated>2022-01-11T11:19:11.827Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]제로콜라, 당뇨에 안 좋다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220111200555224</id>
-        <link href="https://v.daum.net/v/20220111200555224"/>
-        <updated>2022-01-11T11:19:11.828Z</updated>
-        <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 후보의 탈모 공약, 돈은 얼마나 들까요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220113201757064</id>
+        <link href="https://v.daum.net/v/20220113201757064"/>
+        <updated>2022-01-13T11:20:51.848Z</updated>
+        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스 가격]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[전월세 '곰팡이 벽지', 교체 책임 누구에게? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220112200457339</id>
         <link href="https://v.daum.net/v/20220112200457339"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20211227195352389"/>
         <updated>2022-01-02T15:36:19.987Z</updated>
         <content type="html"><![CDATA[팩트맨 시작합니다. 이번 주는&nbsp;권솔 기자 휴가로&nbsp;제가 대신 진행합니다. 최근 인터넷 커뮤니티에&nbsp;코로나19 백신에 든&nbsp;독성 물질을 솔잎차로&nbsp;해독한다는 글 많이 올라오고 있는데요. 하루 3잔에서 6잔 정도&nbsp;꾸준히 마시면&nbsp;혈전과 같은 백신 부작용,&nbsp;예방할 수 있다는 건데&nbsp;사실인지 알아봅니다. 수라민이라는 성분이&nbsp;솔잎차에 많이 들어있고&nbsp;부작용도&nbsp;예방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얀센 접종자 '기본 접종'은 몇 차? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211223195946893</id>
-        <link href="https://v.daum.net/v/20211223195946893"/>
-        <updated>2022-01-02T15:36:19.988Z</updated>
-        <content type="html"><![CDATA[최근 질병관리청이 보낸 안내 문자입니다. 기본접종 후 6개월 안에&nbsp;3차 부스터샷 접종을 하지 않으면&nbsp; 접종 증명 유효기간을 뜻하는 '방역 패스'가&nbsp;14일 안에 만료된다는 내용입니다. 그런데 1차로 얀센백신을 맞고&nbsp;이미 2차 추가 접종을 마친 시민들 중에는&nbsp;다시 부스터샷을 맞아야 하는 건지&nbsp;궁금해하는 분 많은데&nbsp;사실인지 확인해보겠습니다. 30대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU가 원자력 발전으로 돌아섰다?.."돌아선 유럽 국가는 없다" (다음 뉴스 ─ 경향신문 팩트체크)]]></title>

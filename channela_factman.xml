@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-01-13T10:27:19.220Z</updated>
+    <updated>2022-01-13T11:21:31.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타벅스, 한국만 올랐다?]]></title>
+        <id>https://v.daum.net/v/20220113201757064</id>
+        <link href="https://v.daum.net/v/20220113201757064"/>
+        <updated>2022-01-13T11:20:51.848Z</updated>
+        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스 가격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전월세 '곰팡이 벽지', 교체 책임 누구에게?]]></title>
         <id>https://v.daum.net/v/20220112200457339</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211227195352389"/>
         <updated>2022-01-02T15:36:19.987Z</updated>
         <content type="html"><![CDATA[팩트맨 시작합니다. 이번 주는&nbsp;권솔 기자 휴가로&nbsp;제가 대신 진행합니다. 최근 인터넷 커뮤니티에&nbsp;코로나19 백신에 든&nbsp;독성 물질을 솔잎차로&nbsp;해독한다는 글 많이 올라오고 있는데요. 하루 3잔에서 6잔 정도&nbsp;꾸준히 마시면&nbsp;혈전과 같은 백신 부작용,&nbsp;예방할 수 있다는 건데&nbsp;사실인지 알아봅니다. 수라민이라는 성분이&nbsp;솔잎차에 많이 들어있고&nbsp;부작용도&nbsp;예방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얀센 접종자 '기본 접종'은 몇 차?]]></title>
-        <id>https://v.daum.net/v/20211223195946893</id>
-        <link href="https://v.daum.net/v/20211223195946893"/>
-        <updated>2022-01-02T15:36:19.988Z</updated>
-        <content type="html"><![CDATA[최근 질병관리청이 보낸 안내 문자입니다. 기본접종 후 6개월 안에&nbsp;3차 부스터샷 접종을 하지 않으면&nbsp; 접종 증명 유효기간을 뜻하는 '방역 패스'가&nbsp;14일 안에 만료된다는 내용입니다. 그런데 1차로 얀센백신을 맞고&nbsp;이미 2차 추가 접종을 마친 시민들 중에는&nbsp;다시 부스터샷을 맞아야 하는 건지&nbsp;궁금해하는 분 많은데&nbsp;사실인지 확인해보겠습니다. 30대]]></content>
     </entry>
 </feed>
