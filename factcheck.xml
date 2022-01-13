@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-12T23:25:01.715Z</updated>
+    <updated>2022-01-13T01:20:28.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220113080010126"/>
         <updated>2022-01-12T23:23:27.683Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 실종 반려견을 찾아주겠다며 30명으로부터 수천만원을 받아 가로챈 일명 '강아지 탐정'이 공분을 사고 있다. 피의자는 실종견을 찾는다는 인터넷 글을 보고 피해자들에게 연락해 2개월 내 못 찾으면 환불하겠다며 100만원을 받았다고 한다. 가족처럼 아끼는 개를 찾을 수 있다면 비용은 얼마든지 감수하겠다는 절박한 심정을 이용한 사기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] '통신자료 조회' 논란, 20년째 이어지는 까닭은]]></title>
+        <id>https://v.daum.net/v/20220113050615763</id>
+        <link href="https://v.daum.net/v/20220113050615763"/>
+        <updated>2022-01-13T01:19:04.084Z</updated>
+        <content type="html"><![CDATA[고위공직자범죄수사처(공수처)가 언론인과 정치인을 비롯해 일반 시민들을 상대로도 광범위하게 통신자료(가입자 정보)를 조회한 것으로 드러나면서 ‘사찰’ 논란이 수그러들지 않고 있다. 공수처가 지난달 24일 “과거 수사 관행을 깊은 성찰 없이 답습했다”며 사실상 사과의 뜻을 밝혔지만, 여론의 반응은 싸늘하다. 최소한의 범위에서 제한적으로 이뤄져야 할 수사기관의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]전월세 '곰팡이 벽지', 교체 책임 누구에게?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220111200555224"/>
         <updated>2022-01-11T11:19:11.828Z</updated>
         <content type="html"><![CDATA[트럼프 전 미국 대통령 집무실 책상 위에 있던 '다이어트 콜라' 버튼입니다. 음식을 가려먹는 당뇨병 환자도 제로콜라 같은 탄산음료의 유혹을 참기 힘든데요. 건강에 어떤 영향을 미치는지 확인해봅니다. 당뇨 환자 사이에 공유된 건강보험심사평가원 블로그 게시물입니다. 제로콜라는 당뇨와 상관없이 자유롭게 섭취할 수 있다고 적혀있는데요, 지난달 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220111162702647</id>
-        <link href="https://v.daum.net/v/20220111162702647"/>
-        <updated>2022-01-11T08:28:12.286Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 선대위는 지난 8일 "윤 후보가 이날 낮 12시 이마트 이수점에서 장을 보고, 밥상 물가와 방역패스 문제도 다시 점검했다"라고 밝혔다.    ⓒ 국민의힘 중앙선대위  &nbsp; [검증대상] 윤석열 후보 "방역패스 점검차 집과 가까운 이마트 방문" "장보기에 진심인 편 #이마트 #달걀 #파 #멸치 #콩" 윤석열]]></content>
     </entry>
 </feed>
