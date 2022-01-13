@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-13T22:24:42.814Z</updated>
+    <updated>2022-01-13T23:25:02.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 매장 주방서 흡연한 직원, 어떤 처벌 받을까?]]></title>
+        <id>https://v.daum.net/v/20220114080010790</id>
+        <link href="https://v.daum.net/v/20220114080010790"/>
+        <updated>2022-01-13T23:23:48.146Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한 햄버거 프랜차이즈 매장 직원이 주방에서 담배를 피우는 영상이 공개된 뒤 비난이 쇄도하고 있다. 관련 보도에는 "해당 직원을 강하게 처벌해야 한다" "평생 요식업 취업을 금지해야 한다"는 등 성토 댓글이 달렸다. 다른 식당이나 매장에서도 고객 몰래 흡연하는 사례가 있지만 관행적으로 관대히 봐 넘긴다는 지적도 있다. 질타가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계유산 추진 사도광산은 에도유산일 뿐? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220114060248424</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220112100333517"/>
         <updated>2022-01-12T01:15:50.600Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국내 대기업이 핵심 사업 또는 성장성 있는 사업을 분리해 별도 회사로 만들고 이를 상장하는 사례가 잇따르고 있다. LG화학이 2020년 전지사업부문을 물적분할해 세운 LG에너지솔루션은 이달 27일 유가증권시장에 상장할 예정이며, SK이노베이션에서 물적분할해 설립된 SK온 역시 기업공개(IPO)를 준비 중이다. 이런]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 바뀌면 '병사 월급 200만원' 시대..줄 돈은 있나[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220112061201282</id>
-        <link href="https://v.daum.net/v/20220112061201282"/>
-        <updated>2022-01-11T21:21:41.849Z</updated>
-        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷이재명-윤석열, 경쟁하듯 200만 원 공약…심상정도 "2030년 병사 초봉 300만 원" 최저임금 수준 4~5조 원 필요하나 조달 계획 불투명 "월급 올리되 병사들 식비·피복비 등은 공제" 대안도 전문가들 "처우 개선 필요성 사회적 합의 이룬 것"병사 월급 200만 원. 올해]]></content>
     </entry>
 </feed>
