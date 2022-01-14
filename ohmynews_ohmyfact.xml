@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-01-14T10:27:08.354Z</updated>
+    <updated>2022-01-14T11:20:46.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20220114200001192</id>
+        <link href="https://v.daum.net/v/20220114200001192"/>
+        <updated>2022-01-14T11:20:33.366Z</updated>
+        <content type="html"><![CDATA[[박수림 기자] ▲ &nbsp;국민의힘 최춘식 전 경기도당위원장이 지난해 4월 19일 오전 서울 여의도 국회에서 열린 시·도당위원장 회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 국민의힘 최춘식 의원 "독감 사망자 수가 코로나19 사망자 수보다 더 많다" "우리나라 독감 사망자 수가 코로나19 사망자 수보다 더 많은 현실에서, 과거 독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓']]></title>
         <id>https://v.daum.net/v/20220114123301252</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211216201200933"/>
         <updated>2022-01-02T15:41:35.612Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선후보가 14일 오전 서울 중구 프레스센터 국제회의장에서 열린 관훈클럽 초청 토론회에서 답변하고 있다.    ⓒ 국회사진취재단  [검증대상] 윤석열 "한국은 단 1년 만에 16시간, 일본은 1년에 2시간씩 줄였다" 윤석열 국민의힘 대선 후보가 최저임금제와 '노동시간 주 52시간 상한제'(아래 주52시간제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["n번방 방지법은 사전검열법" 국민의힘 주장 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20211214195401647</id>
-        <link href="https://v.daum.net/v/20211214195401647"/>
-        <updated>2022-01-02T15:41:35.615Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;국민의힘 이준석 대표가 13일 국회 의원회관에서 열린 하태경 의원 주최 '온라인 커뮤니티 사전검열법 이대로 괜찮은가' 긴급토론회에서 인사말을 하고 있다.    ⓒ 공동취재사진  &nbsp;&nbsp;국민의힘이 아동·청소년 성착취물 등 불법촬영물 유통을 막으려고 도입된 'n번방 방지법'이 국민이 인터넷에 올리는 모든 콘텐츠를 들여다]]></content>
     </entry>
 </feed>

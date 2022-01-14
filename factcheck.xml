@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-14T10:27:08.358Z</updated>
+    <updated>2022-01-14T11:20:46.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220114200001192</id>
+        <link href="https://v.daum.net/v/20220114200001192"/>
+        <updated>2022-01-14T11:19:20.295Z</updated>
+        <content type="html"><![CDATA[[박수림 기자] ▲ &nbsp;국민의힘 최춘식 전 경기도당위원장이 지난해 4월 19일 오전 서울 여의도 국회에서 열린 시·도당위원장 회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 국민의힘 최춘식 의원 "독감 사망자 수가 코로나19 사망자 수보다 더 많다" "우리나라 독감 사망자 수가 코로나19 사망자 수보다 더 많은 현실에서, 과거 독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓'  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220114123301252</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220113050615763"/>
         <updated>2022-01-13T01:19:04.084Z</updated>
         <content type="html"><![CDATA[고위공직자범죄수사처(공수처)가 언론인과 정치인을 비롯해 일반 시민들을 상대로도 광범위하게 통신자료(가입자 정보)를 조회한 것으로 드러나면서 ‘사찰’ 논란이 수그러들지 않고 있다. 공수처가 지난달 24일 “과거 수사 관행을 깊은 성찰 없이 답습했다”며 사실상 사과의 뜻을 밝혔지만, 여론의 반응은 싸늘하다. 최소한의 범위에서 제한적으로 이뤄져야 할 수사기관의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]전월세 '곰팡이 벽지', 교체 책임 누구에게?]]></title>
-        <id>https://v.daum.net/v/20220112200457339</id>
-        <link href="https://v.daum.net/v/20220112200457339"/>
-        <updated>2022-01-12T11:19:29.312Z</updated>
-        <content type="html"><![CDATA[[리포트] 팩트맨 제보창에 들어온 내용입니다. 대학교 근처에 아들 전세방을 얻어줬다가 군대 가면서 계약이 만료됐는데, 집주인이 "곰팡이가 생겼으니 도배장판 비용을 내라"고 요구했다는 겁니다. 곰팡이 벽지 교체 책임, 누구에게 있는지 따져봅니다. 월세면 집주인, 전세면 세입자가 부담하는 걸로 알고 있는 분 적지 않은데요. 사실이 아닙니다.]]></content>
     </entry>
 </feed>
