@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-14T03:25:57.853Z</updated>
+    <updated>2022-01-14T04:32:19.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓'  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220114123301252</id>
+        <link href="https://v.daum.net/v/20220114123301252"/>
+        <updated>2022-01-14T04:30:54.519Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ 무너져내린 아파트&nbsp;광주 서구 화정현대아이파크 주상복합아파트 구조물 붕괴 이틀째를 맞은 12일 당국은 안전진단을 거쳐 실종자 수색 재개를 결정하기로 했다. 신축 공사 중인 이 아파트의 1개 동 옥상에서 전날 콘크리트 타설 중 28-34층 외벽과 내부 구조물이 붕괴됐다.    ⓒ 연합뉴스  "주52시간이 광주 참사 불렀다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 매장 주방서 흡연한 직원, 어떤 처벌 받을까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220114080010790</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220112200457339"/>
         <updated>2022-01-12T11:19:29.312Z</updated>
         <content type="html"><![CDATA[[리포트] 팩트맨 제보창에 들어온 내용입니다. 대학교 근처에 아들 전세방을 얻어줬다가 군대 가면서 계약이 만료됐는데, 집주인이 "곰팡이가 생겼으니 도배장판 비용을 내라"고 요구했다는 겁니다. 곰팡이 벽지 교체 책임, 누구에게 있는지 따져봅니다. 월세면 집주인, 전세면 세입자가 부담하는 걸로 알고 있는 분 적지 않은데요. 사실이 아닙니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 알짜 사업 물적분할은 기존 주주의 주주권 침해? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220112100333517</id>
-        <link href="https://v.daum.net/v/20220112100333517"/>
-        <updated>2022-01-12T01:15:50.600Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국내 대기업이 핵심 사업 또는 성장성 있는 사업을 분리해 별도 회사로 만들고 이를 상장하는 사례가 잇따르고 있다. LG화학이 2020년 전지사업부문을 물적분할해 세운 LG에너지솔루션은 이달 27일 유가증권시장에 상장할 예정이며, SK이노베이션에서 물적분할해 설립된 SK온 역시 기업공개(IPO)를 준비 중이다. 이런]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["병사 월급 200만 원" 공약, 5.1조 원이면 될까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 유투브와 페이스북 등 사회관계망서비스(SNS)를 중심으로 퍼져나가고 있는 ‘서초구 보건소 직원과의 통화’는 사실이 아닌 것으로 19일 확인됐다. 3분 25초 분량의 해당 동영상은 한 중년 여성과 보건소 직원 간의 통화내용으로, 중년여성은 “8.15 집회에 참가한 사람들 가운데 보건소에서 코로나19 검체검사를 받은 결과 양성이 나왔으나 병원에 가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220114123301252</id>
+        <link href="https://v.daum.net/v/20220114123301252"/>
+        <updated>2022-01-14T04:32:06.267Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ 무너져내린 아파트&nbsp;광주 서구 화정현대아이파크 주상복합아파트 구조물 붕괴 이틀째를 맞은 12일 당국은 안전진단을 거쳐 실종자 수색 재개를 결정하기로 했다. 신축 공사 중인 이 아파트의 1개 동 옥상에서 전날 콘크리트 타설 중 28-34층 외벽과 내부 구조물이 붕괴됐다.    ⓒ 연합뉴스  "주52시간이 광주 참사 불렀다"]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220111162702647</id>
         <link href="https://v.daum.net/v/20220111162702647"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20211214195401647"/>
         <updated>2022-01-02T15:41:35.615Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;국민의힘 이준석 대표가 13일 국회 의원회관에서 열린 하태경 의원 주최 '온라인 커뮤니티 사전검열법 이대로 괜찮은가' 긴급토론회에서 인사말을 하고 있다.    ⓒ 공동취재사진  &nbsp;&nbsp;국민의힘이 아동·청소년 성착취물 등 불법촬영물 유통을 막으려고 도입된 'n번방 방지법'이 국민이 인터넷에 올리는 모든 콘텐츠를 들여다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국·유럽은 '딥페이크' 선거 금지".. 사실 반 거짓 반 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20211213194502152</id>
-        <link href="https://v.daum.net/v/20211213194502152"/>
-        <updated>2022-01-02T15:41:35.616Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;국민의힘이 12월 6일 중앙선대위 출범식에서 공개한 'AI 윤석열'. 딥페이크 기술을 활용해 실물에 가깝게 만들어 논란이 되고 있다.    ⓒ 국민의힘 유튜브  &nbsp;[검증대상] "미국·유럽에선 딥페이크 활용 선거운동 금지"&nbsp; "안녕하세요, AI 윤석열입니다. 윤석열 후보와 너무 닮아 놀라셨습니까?" 국민의힘은 지난 12월]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[목숨 앗아간 추락..36살 전투기 '수명' 안 지났나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

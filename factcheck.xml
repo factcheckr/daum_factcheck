@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-14T03:25:57.818Z</updated>
+    <updated>2022-01-14T04:32:19.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓'  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220114123301252</id>
+        <link href="https://v.daum.net/v/20220114123301252"/>
+        <updated>2022-01-14T04:30:54.519Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ 무너져내린 아파트&nbsp;광주 서구 화정현대아이파크 주상복합아파트 구조물 붕괴 이틀째를 맞은 12일 당국은 안전진단을 거쳐 실종자 수색 재개를 결정하기로 했다. 신축 공사 중인 이 아파트의 1개 동 옥상에서 전날 콘크리트 타설 중 28-34층 외벽과 내부 구조물이 붕괴됐다.    ⓒ 연합뉴스  "주52시간이 광주 참사 불렀다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 매장 주방서 흡연한 직원, 어떤 처벌 받을까?]]></title>
         <id>https://v.daum.net/v/20220114080010790</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220112200457339"/>
         <updated>2022-01-12T11:19:29.312Z</updated>
         <content type="html"><![CDATA[[리포트] 팩트맨 제보창에 들어온 내용입니다. 대학교 근처에 아들 전세방을 얻어줬다가 군대 가면서 계약이 만료됐는데, 집주인이 "곰팡이가 생겼으니 도배장판 비용을 내라"고 요구했다는 겁니다. 곰팡이 벽지 교체 책임, 누구에게 있는지 따져봅니다. 월세면 집주인, 전세면 세입자가 부담하는 걸로 알고 있는 분 적지 않은데요. 사실이 아닙니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 알짜 사업 물적분할은 기존 주주의 주주권 침해?]]></title>
-        <id>https://v.daum.net/v/20220112100333517</id>
-        <link href="https://v.daum.net/v/20220112100333517"/>
-        <updated>2022-01-12T01:15:50.600Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 국내 대기업이 핵심 사업 또는 성장성 있는 사업을 분리해 별도 회사로 만들고 이를 상장하는 사례가 잇따르고 있다. LG화학이 2020년 전지사업부문을 물적분할해 세운 LG에너지솔루션은 이달 27일 유가증권시장에 상장할 예정이며, SK이노베이션에서 물적분할해 설립된 SK온 역시 기업공개(IPO)를 준비 중이다. 이런]]></content>
     </entry>
 </feed>
