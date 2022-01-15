@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-15T01:16:36.317Z</updated>
+    <updated>2022-01-15T02:46:07.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 아파트명에서 아이파크 빼려면 현대산업개발 동의 필수?]]></title>
+        <id>https://v.daum.net/v/20220115110005957</id>
+        <link href="https://v.daum.net/v/20220115110005957"/>
+        <updated>2022-01-15T02:44:33.707Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 광주에서 건축 중이던 초고층 아파트의 외벽이 붕괴한 이후 시공사인 HDC현대산업개발에 대한 불신이 확산하고 있다. 이미 현대산업개발이 지은 아파트에 거주하는 입주자 중 일부는 아파트값 하락을 우려하며 아파트 이름에서 '아이파크'를 빼자는 주장을 하고 있다. 오래전 완공된 아파트가 건설사의 새 브랜드를 사용하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상]법원도 허가한 '김건희 녹취록' 보도가 불법?..따져보니[노컷체크]]]></title>
         <id>https://v.daum.net/v/20220115054201918</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220113202706213"/>
         <updated>2022-01-13T12:37:56.442Z</updated>
         <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]스타벅스, 한국만 올랐다?]]></title>
-        <id>https://v.daum.net/v/20220113201757064</id>
-        <link href="https://v.daum.net/v/20220113201757064"/>
-        <updated>2022-01-13T11:19:54.007Z</updated>
-        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스]]></content>
     </entry>
 </feed>
