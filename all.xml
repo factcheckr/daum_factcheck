@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-15T11:19:46.076Z</updated>
+    <updated>2022-01-15T12:37:55.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 아파트명에서 아이파크 빼려면 현대산업개발 동의 필수? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://v.daum.net/v/20220115110005957"/>
         <updated>2022-01-15T02:44:33.707Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 광주에서 건축 중이던 초고층 아파트의 외벽이 붕괴한 이후 시공사인 HDC현대산업개발에 대한 불신이 확산하고 있다. 이미 현대산업개발이 지은 아파트에 거주하는 입주자 중 일부는 아파트값 하락을 우려하며 아파트 이름에서 '아이파크'를 빼자는 주장을 하고 있다. 오래전 완공된 아파트가 건설사의 새 브랜드를 사용하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 20여년간 15대 추락..노후 전투기에 조종사 순직의 행렬 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220115090636558</id>
+        <link href="https://v.daum.net/v/20220115090636558"/>
+        <updated>2022-01-15T12:36:29.239Z</updated>
+        <content type="html"><![CDATA[☞뉴스레터 공짜 구독하기 https://bit.ly/319DiiE 지난 11일 F-5E 전투기 사고로 순직한 심정민 소령의 영결식이 14일 오전 고인의 소속 부대인 경기 수원 제10전투비행단에서 열렸다. 유족과 공군사관학교 64기 동기들, 서욱 국방부 장관, 유영민 대통령 비서실장 등이 참석한 가운데 부대장으로 치러진 영결식은 유족과 동료들의 울음 속에 침]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상]법원도 허가한 '김건희 녹취록' 보도가 불법?..따져보니[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220113204115400"/>
         <updated>2022-01-13T12:37:56.421Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 초등학생이 물건을 훔쳤다면 어른들이 따끔하게 혼을 내는 걸로 끝내는 경우가 많죠. 그런데 훔친 물건이 자그마치 600만 원 어치라면 피해를 본 가게 주인 입장에선 배상을 받아야겠다는 생각이 들 수밖에 없을 텐데요. 실제로 국민청원에 이런 글이 올라왔는데 배상이 가능한 것인지, 신용식 기자가 사실확인에서 알아봤습니다. 【 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 목숨 앗아간 추락..36살 전투기 '수명' 안 지났나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220113202706213</id>
-        <link href="https://v.daum.net/v/20220113202706213"/>
-        <updated>2022-01-13T12:37:56.442Z</updated>
-        <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["병사 월급 200만 원" 공약, 5.1조 원이면 될까 (다음 뉴스 ─ SBS 사실은)]]></title>
