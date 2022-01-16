@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-16T01:21:45.838Z</updated>
+    <updated>2022-01-16T02:46:13.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://v.daum.net/v/20220115110005957"/>
         <updated>2022-01-15T02:44:33.707Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 광주에서 건축 중이던 초고층 아파트의 외벽이 붕괴한 이후 시공사인 HDC현대산업개발에 대한 불신이 확산하고 있다. 이미 현대산업개발이 지은 아파트에 거주하는 입주자 중 일부는 아파트값 하락을 우려하며 아파트 이름에서 '아이파크'를 빼자는 주장을 하고 있다. 오래전 완공된 아파트가 건설사의 새 브랜드를 사용하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 20여년간 15대 추락..노후 전투기에 조종사 순직의 행렬]]></title>
-        <id>https://v.daum.net/v/20220115090636558</id>
-        <link href="https://v.daum.net/v/20220115090636558"/>
-        <updated>2022-01-15T12:36:29.239Z</updated>
-        <content type="html"><![CDATA[☞뉴스레터 공짜 구독하기 https://bit.ly/319DiiE 지난 11일 F-5E 전투기 사고로 순직한 심정민 소령의 영결식이 14일 오전 고인의 소속 부대인 경기 수원 제10전투비행단에서 열렸다. 유족과 공군사관학교 64기 동기들, 서욱 국방부 장관, 유영민 대통령 비서실장 등이 참석한 가운데 부대장으로 치러진 영결식은 유족과 동료들의 울음 속에 침]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상]법원도 허가한 '김건희 녹취록' 보도가 불법?..따져보니[노컷체크]]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220114060248424"/>
         <updated>2022-01-13T21:19:52.460Z</updated>
         <content type="html"><![CDATA[일본 니가타현이 유네스코 세계유산 등재를 추진 중인 사도광산.  “외교문제가 될 만한 사안이 아니다.” 일본 니가타현 하나즈미 히데요 지사가 사도광산의 유네스코 세계유산 등재 추진에 한국 정부가 강하게 문제를 제기하고 자국 정부도 신중한 움직임을 보이자 한 말이다. 한국의 문제 제기, 일본의 망설임은 이곳이 일제강점기에 적어도 한국인 2000명이 강제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "병사 월급 200만 원" 공약, 5.1조 원이면 될까]]></title>
+        <id>https://v.daum.net/v/20220113211344774</id>
+        <link href="https://v.daum.net/v/20220113211344774"/>
+        <updated>2022-01-16T02:44:48.804Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; SBS 팩트체크 사실은팀이 대선 공약을 검증해 전해드립니다. 지난번에는 이재명 후보의 탈모 보험 적용 공약을 짚어봤고, 오늘(13일)은 윤석열 후보의 병사 월급 200만 원 공약을 살펴봅니다. 이경원 기자입니다. &lt;기자&gt; 다른 후보들도 병사 월급 인상을 말했지만, 윤 후보가 가장 적극적입니다. 집권 즉시 200만 원 인상을 공약했습니다. 당장 재정]]></content>
     </entry>
 </feed>
