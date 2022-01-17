@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-17T07:23:48.377Z</updated>
+    <updated>2022-01-17T08:30:41.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 오미크론 차단하려면 고품질 마스크 써야?]]></title>
+        <id>https://v.daum.net/v/20220117170459047</id>
+        <link href="https://v.daum.net/v/20220117170459047"/>
+        <updated>2022-01-17T08:29:17.659Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 오미크론 변이 확산으로 신종 코로나바이러스 감염증(코로나19) 확진자가 급증하자 미국 정부와 방역 당국이 '고품질 마스크' 착용을 강조하고 나서면서 마스크에 대한 관심이 다시 높아지고 있다. 하루 확진자가 한때 100만 명을 넘어선 뒤 조 바이든 대통령까지 나서 의료용 N95 마스크 사용을 권고하자 때아닌 마스크 논쟁과 함께]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 한국 기업끼리 합병을 왜 유럽이 불허했나]]></title>
         <id>https://v.daum.net/v/20220116140601661</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220114080010790"/>
         <updated>2022-01-13T23:23:48.146Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한 햄버거 프랜차이즈 매장 직원이 주방에서 담배를 피우는 영상이 공개된 뒤 비난이 쇄도하고 있다. 관련 보도에는 "해당 직원을 강하게 처벌해야 한다" "평생 요식업 취업을 금지해야 한다"는 등 성토 댓글이 달렸다. 다른 식당이나 매장에서도 고객 몰래 흡연하는 사례가 있지만 관행적으로 관대히 봐 넘긴다는 지적도 있다. 질타가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계유산 추진 사도광산은 에도유산일 뿐? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220114060248424</id>
-        <link href="https://v.daum.net/v/20220114060248424"/>
-        <updated>2022-01-13T21:19:52.460Z</updated>
-        <content type="html"><![CDATA[일본 니가타현이 유네스코 세계유산 등재를 추진 중인 사도광산.  “외교문제가 될 만한 사안이 아니다.” 일본 니가타현 하나즈미 히데요 지사가 사도광산의 유네스코 세계유산 등재 추진에 한국 정부가 강하게 문제를 제기하고 자국 정부도 신중한 움직임을 보이자 한 말이다. 한국의 문제 제기, 일본의 망설임은 이곳이 일제강점기에 적어도 한국인 2000명이 강제]]></content>
     </entry>
 </feed>
