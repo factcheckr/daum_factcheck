@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-18T19:20:34.502Z</updated>
+    <updated>2022-01-18T20:26:47.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열-이재명 양자토론이 불법이라고?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20220119045703717</id>
+        <link href="https://v.daum.net/v/20220119045703717"/>
+        <updated>2022-01-18T20:25:12.314Z</updated>
+        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷"소수당을 제외한 양당만의 TV토론이 진행된다면 이는 명백히 방송법에 반하는 행위이다" 정의당 의원단이 지난 17일 홈페이지와 출입기자단에 배포한 보도자료의 일부입니다. 더불어민주당과 국민의힘이 추진 중인 대선후보 양자토론이 군소정당에는 공정하지 않을뿐더러 현행법을 위반한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 여가부, '이념편향적 보조금'에 1조 썼나]]></title>
         <id>https://v.daum.net/v/20220118210002523</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220115221610773"/>
         <updated>2022-01-15T13:28:33.571Z</updated>
         <content type="html"><![CDATA[[앵커] 오미크론으로 인한 코로나19 재확산이 우려되는 가운데, 정부는 연일 방역패스의 효과와 필요성을 강조하고 있습니다. 방역패스가 과도한 규제라는 일부 지적에 대해서는 오히려 국내 방역 조치가 전 세계에서 가장 낮은 수준이라고 반박했는데요, 맞는 말인지, 김지환 기자가 팩트체크했습니다. [기자] [박 향 / 중앙사고수습본부 방역총괄반장 : 우리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 아파트명에서 아이파크 빼려면 현대산업개발 동의 필수?]]></title>
-        <id>https://v.daum.net/v/20220115110005957</id>
-        <link href="https://v.daum.net/v/20220115110005957"/>
-        <updated>2022-01-15T02:44:33.707Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 광주에서 건축 중이던 초고층 아파트의 외벽이 붕괴한 이후 시공사인 HDC현대산업개발에 대한 불신이 확산하고 있다. 이미 현대산업개발이 지은 아파트에 거주하는 입주자 중 일부는 아파트값 하락을 우려하며 아파트 이름에서 '아이파크'를 빼자는 주장을 하고 있다. 오래전 완공된 아파트가 건설사의 새 브랜드를 사용하]]></content>
     </entry>
 </feed>
