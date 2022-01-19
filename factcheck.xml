@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-19T01:10:22.464Z</updated>
+    <updated>2022-01-19T02:34:14.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '여가부 폐지', 그 이후의 시나리오는?]]></title>
+        <id>https://v.daum.net/v/20220119111500046</id>
+        <link href="https://v.daum.net/v/20220119111500046"/>
+        <updated>2022-01-19T02:32:43.208Z</updated>
+        <content type="html"><![CDATA[SBS 팩트체크 사실은팀은 대선 후보자들의 공약을 점검하고 있습니다. 최근에는 민주당 이재명 후보의 탈모 보험 적용 공약을 짚었고, 오늘은 국민의힘 윤석열 후보의 여가부 폐지 공약을 살펴보려고 합니다. 지난해 10월, 국민의힘 윤석열 후보는 여성가족부를 '양성평등가족부'로 개편하겠다는 공약을 발표했습니다. 여가부 업무와 예산을 다시 조정하겠다고 했습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열-이재명 양자토론이 불법이라고?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20220119045703717</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220116083014110"/>
         <updated>2022-01-16T01:20:20.562Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 국민의힘 윤석열 대선 후보가 13일 '4월 전기요금 인상 백지화'를 공약한 가운데 당시 기자회견에 배석한 주한규 서울대 원자핵공학과 교수는 "우리나라는 산업용과 주거용 전기요금이 거의 차이가 없다"며 "다른 나라에 비해서 산업용이 오히려 비싸다"고 말했다. 앞서 윤석열 후보가 한 기자의 질문에 "우리나라가 산업용 전기가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 우리나라 방역패스, 해외보다 덜 엄격하다?]]></title>
-        <id>https://v.daum.net/v/20220115221610773</id>
-        <link href="https://v.daum.net/v/20220115221610773"/>
-        <updated>2022-01-15T13:28:33.571Z</updated>
-        <content type="html"><![CDATA[[앵커] 오미크론으로 인한 코로나19 재확산이 우려되는 가운데, 정부는 연일 방역패스의 효과와 필요성을 강조하고 있습니다. 방역패스가 과도한 규제라는 일부 지적에 대해서는 오히려 국내 방역 조치가 전 세계에서 가장 낮은 수준이라고 반박했는데요, 맞는 말인지, 김지환 기자가 팩트체크했습니다. [기자] [박 향 / 중앙사고수습본부 방역총괄반장 : 우리]]></content>
     </entry>
 </feed>
