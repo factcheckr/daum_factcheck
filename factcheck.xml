@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-19T04:29:21.846Z</updated>
+    <updated>2022-01-19T05:20:18.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 카카오톡 대화 내용, 청와대가 감시한다?]]></title>
+        <id>https://v.daum.net/v/20220119135547308</id>
+        <link href="https://v.daum.net/v/20220119135547308"/>
+        <updated>2022-01-19T05:18:54.210Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 인터넷 커뮤니티와 블로그 등에 '긴급 정보'라며 "카카오톡에 청와대 애플리케이션(앱)이 설치돼 우리 대화 내용을 다 살피고 있다"는 내용과 함께 청와대 앱 연결을 끊는 방법이 소개된 글이 퍼지고 있다. 이를 두고 "감시용인거냐" "검색해보니 나도 청와대 앱이 깔려 있어서 찜찜해서 끊었다" 등의 댓글이 달리기도 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '여가부 폐지', 그 이후의 시나리오는?]]></title>
         <id>https://v.daum.net/v/20220119111500046</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220116140601661"/>
         <updated>2022-01-16T10:24:54.134Z</updated>
         <content type="html"><![CDATA[“한국 기업끼리의 인수합병을 왜 유럽이 무산시키죠?” 현대중공업그룹의 대우조선해양 인수가 유럽연합(EU) 경쟁당국의 퇴짜로 무산된 것을 두고 나온 질문들 중 하나다. 이번 인수는 유럽 말고도 중국과 일본 등에서 경쟁당국의 심사를 받았다. 한국 기업들 사이에서 이뤄진 일을 외국 당국이 들여다볼 수 있는 근거는 뭘까. 일단 전통적인 개념의 속지주의나 속인주의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 산업용 전기요금이 다른 나라보다 비싸다?]]></title>
-        <id>https://v.daum.net/v/20220116083014110</id>
-        <link href="https://v.daum.net/v/20220116083014110"/>
-        <updated>2022-01-16T01:20:20.562Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 국민의힘 윤석열 대선 후보가 13일 '4월 전기요금 인상 백지화'를 공약한 가운데 당시 기자회견에 배석한 주한규 서울대 원자핵공학과 교수는 "우리나라는 산업용과 주거용 전기요금이 거의 차이가 없다"며 "다른 나라에 비해서 산업용이 오히려 비싸다"고 말했다. 앞서 윤석열 후보가 한 기자의 질문에 "우리나라가 산업용 전기가]]></content>
     </entry>
 </feed>
