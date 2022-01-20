@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-20T11:21:01.830Z</updated>
+    <updated>2022-01-20T12:36:01.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 부작용 백신, 제조번호 따로 있다? '괴담' 역추적 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220120202204817</id>
+        <link href="https://v.daum.net/v/20220120202204817"/>
+        <updated>2022-01-20T12:34:34.360Z</updated>
+        <content type="html"><![CDATA[[앵커] 코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데 정말 그런지 팩트체크팀이 확인을 해 봤습니다. 이지은 기자, 이게 정말 맞는 얘기입니까? 그러니까 특정한 제조번호의 백신을 맞았으면 위험하다는 얘기입니까? [기자] 우선 이 백신을 접종할 때 자신이 원하는 특정 제조번호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 재난지원금 세계 최저 수준?.. 이재명 주장 사실일까 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220120192311668</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220118202710022"/>
         <updated>2022-01-18T12:37:54.077Z</updated>
         <content type="html"><![CDATA[[앵커] 광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사진이 온라인에 올라온 건데, 팩트체크팀이 직접 가서 확인을 해봤습니다. 이지은 기자. 오늘(18일) 오전에 직접 가봤다고요? [기자] 오늘 한 부동산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220118185701306</id>
-        <link href="https://v.daum.net/v/20220118185701306"/>
-        <updated>2022-01-18T10:25:54.972Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;윤석열 국민의힘 대선후보가 17일 서울 을지로입구역에서 '기호 2번 윤석열'이 적힌 어깨띠를 두르고 퇴근길 인사를 하고 있다.    ⓒ 국민의힘 선대본부 제공  &nbsp; &nbsp; [검증 대상] '기호 2번 윤석열' 어깨띠 착용은 선거법 위반? "기호 2번 적힌 어깨띠 두르고 지하철역내에서 인사? 이건 선거법 위반 아닌가?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['여가부 폐지', 그 이후의 시나리오는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;신생아.    ⓒ 픽사베이  &nbsp;[검증대상] "신생아 1인당 예산이 2억 원" 누리꾼 주장 지난 14일 한 인터넷 커뮤니티에 '신생아 1인당 예산이 2억 원'이라는 글이 올라와 주목을 받았다. (관련링크 : 신생아 1인당 예산이 2억 원 정도네요)&nbsp;글쓴이는 "직접지원이라고 해봤자 아동수당 월 10만 원, 양육수당 월 20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부작용 백신, 제조번호 따로 있다? '괴담' 역추적 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220120202204817</id>
+        <link href="https://v.daum.net/v/20220120202204817"/>
+        <updated>2022-01-20T12:36:01.346Z</updated>
+        <content type="html"><![CDATA[[앵커] 코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데 정말 그런지 팩트체크팀이 확인을 해 봤습니다. 이지은 기자, 이게 정말 맞는 얘기입니까? 그러니까 특정한 제조번호의 백신을 맞았으면 위험하다는 얘기입니까? [기자] 우선 이 백신을 접종할 때 자신이 원하는 특정 제조번호]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220118202710022</id>
         <link href="https://v.daum.net/v/20220118202710022"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211110205013127"/>
         <updated>2022-01-02T15:37:44.792Z</updated>
         <content type="html"><![CDATA[[앵커] 한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] 지난달 12일 인천 영종도의 한 아파트 놀이터에 경찰이 출동했습니다. 아파트 주민 대표가 놀이터에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소수, 소변·비료로도 만들 수 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211108202904247</id>
-        <link href="https://v.daum.net/v/20211108202904247"/>
-        <updated>2022-01-02T15:37:44.792Z</updated>
-        <content type="html"><![CDATA[[앵커] 요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다. [기자] "소변으로 요소수를 대체할 수 있다", "전국민 운동이라도 해야 하는 것 아니냐" 소변을 이용해 요소수를 만들 수 있다는 얘기, 사실일까? []]></content>
     </entry>
 </feed>

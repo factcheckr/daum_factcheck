@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-20T11:21:01.823Z</updated>
+    <updated>2022-01-20T12:36:01.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 부작용 백신, 제조번호 따로 있다? '괴담' 역추적]]></title>
+        <id>https://v.daum.net/v/20220120202204817</id>
+        <link href="https://v.daum.net/v/20220120202204817"/>
+        <updated>2022-01-20T12:34:34.360Z</updated>
+        <content type="html"><![CDATA[[앵커] 코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데 정말 그런지 팩트체크팀이 확인을 해 봤습니다. 이지은 기자, 이게 정말 맞는 얘기입니까? 그러니까 특정한 제조번호의 백신을 맞았으면 위험하다는 얘기입니까? [기자] 우선 이 백신을 접종할 때 자신이 원하는 특정 제조번호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 재난지원금 세계 최저 수준?.. 이재명 주장 사실일까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220120192311668</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220118202710022"/>
         <updated>2022-01-18T12:37:54.077Z</updated>
         <content type="html"><![CDATA[[앵커] 광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사진이 온라인에 올라온 건데, 팩트체크팀이 직접 가서 확인을 해봤습니다. 이지은 기자. 오늘(18일) 오전에 직접 가봤다고요? [기자] 오늘 한 부동산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220118185701306</id>
-        <link href="https://v.daum.net/v/20220118185701306"/>
-        <updated>2022-01-18T10:25:54.972Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;윤석열 국민의힘 대선후보가 17일 서울 을지로입구역에서 '기호 2번 윤석열'이 적힌 어깨띠를 두르고 퇴근길 인사를 하고 있다.    ⓒ 국민의힘 선대본부 제공  &nbsp; &nbsp; [검증 대상] '기호 2번 윤석열' 어깨띠 착용은 선거법 위반? "기호 2번 적힌 어깨띠 두르고 지하철역내에서 인사? 이건 선거법 위반 아닌가?]]></content>
     </entry>
 </feed>
