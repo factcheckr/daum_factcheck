@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-20T10:24:30.556Z</updated>
+    <updated>2022-01-20T11:21:01.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 재난지원금 세계 최저 수준?.. 이재명 주장 사실일까 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220120192311668</id>
+        <link href="https://v.daum.net/v/20220120192311668"/>
+        <updated>2022-01-20T11:19:27.869Z</updated>
+        <content type="html"><![CDATA[사진=국회사진기자단  이재명 더불어민주당 대선 후보는 지난해 11월 페이스북 등을 통해 “한국의 코로나19 지원금은 전세계에서 가장 적은 수준”이라며 국민 1인당 30만∼50만원의 재난지원금 직접 지급을 주장했다. 이재명 후보는 18일 소상공인연합회 신년하례식에서 “돈을 빌려줘서 위기를 미루는 것은 효율적이지 않다”며 “돈을 빌려주는 방식이나 채무 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 제설제 염화칼슘이 강아지에게 화상 입힌다?]]></title>
         <id>https://v.daum.net/v/20220120165136684</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220118185701306"/>
         <updated>2022-01-18T10:25:54.972Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;윤석열 국민의힘 대선후보가 17일 서울 을지로입구역에서 '기호 2번 윤석열'이 적힌 어깨띠를 두르고 퇴근길 인사를 하고 있다.    ⓒ 국민의힘 선대본부 제공  &nbsp; &nbsp; [검증 대상] '기호 2번 윤석열' 어깨띠 착용은 선거법 위반? "기호 2번 적힌 어깨띠 두르고 지하철역내에서 인사? 이건 선거법 위반 아닌가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명·윤석열 후보 양자 TV 토론은 위법?]]></title>
-        <id>https://v.daum.net/v/20220118092653230</id>
-        <link href="https://v.daum.net/v/20220118092653230"/>
-        <updated>2022-01-18T01:18:18.026Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명·국민의힘 윤석열 대선 후보의 양자 TV 토론 합의에 대해 국민의당 안철수 후보와 정의당 심상정 후보가 "기득권 토론", "선거운동 담합" 등이라며 맹비난하고 있다. 안철수 후보 측은 17일 중앙선거관리위원회를 항의 방문해 선관위 개입을 촉구한 데 이어 양자 토론 강행시 법원에 방영 금지 가처분 신청 등을]]></content>
     </entry>
 </feed>
