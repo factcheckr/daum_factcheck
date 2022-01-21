@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-01-21T01:10:58.624Z</updated>
+    <updated>2022-01-21T02:35:45.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20220121071844111</id>
+        <link href="https://v.daum.net/v/20220121071844111"/>
+        <updated>2022-01-21T02:35:33.495Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;더불어민주당 이재명(오른쪽) 대선후보와 국민의당 안철수 대선후보가 17일 서울 중구 프레스센터에서 열린 재경 대구경북인 신년교례회에 참석해 대화하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "이재명 4년 중임제, 대통령 8년 하려는 속임수" 언론 보도 20대 대선이 50일도 채 남지 않은 가운데 대통령 4년 중임제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20220118185701306</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211222125100364"/>
         <updated>2022-01-02T15:41:35.608Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;&nbsp;        ▲ &nbsp;자유한국당(현 국민의힘)이 지난 2018년 5월 24일 6.13 지방선거 후보자 검증 시리즈 1탄으로 당시 이재명 더불어민주당 경기지사 후보의 형과 형수에 대한 욕설 음성 파일을 당 공식 홈페이지에 게시했다.    ⓒ 자유한국당 홈페이지 갈무리  [검증대상] 국민의힘 "이재명 후보 욕설 파일 원본 유포는 허용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신생아 1인당 예산이 2억 원" 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20211218160601443</id>
-        <link href="https://v.daum.net/v/20211218160601443"/>
-        <updated>2022-01-02T15:41:35.611Z</updated>
-        <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;신생아.    ⓒ 픽사베이  &nbsp;[검증대상] "신생아 1인당 예산이 2억 원" 누리꾼 주장 지난 14일 한 인터넷 커뮤니티에 '신생아 1인당 예산이 2억 원'이라는 글이 올라와 주목을 받았다. (관련링크 : 신생아 1인당 예산이 2억 원 정도네요)&nbsp;글쓴이는 "직접지원이라고 해봤자 아동수당 월 10만 원, 양육수당 월 20]]></content>
     </entry>
 </feed>
