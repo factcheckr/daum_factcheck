@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-22T20:22:15.693Z</updated>
+    <updated>2022-01-22T21:19:12.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '이재명 욕설 파일', 편집해 방송하면 위법?]]></title>
+        <id>https://v.daum.net/v/20220123052215135</id>
+        <link href="https://v.daum.net/v/20220123052215135"/>
+        <updated>2022-01-22T21:17:47.567Z</updated>
+        <content type="html"><![CDATA[[앵커] 최근 더불어민주당 이재명 후보의 욕설 녹음 파일이 추가로 공개되자, 국민의힘은 MBC가 김건희 씨의 녹취를 튼 것처럼 이 후보의 녹취도 방송해야 한다고 주장하고 있습니다. 이에 대해 민주당은 3시간에 가까운 녹취 원본을 틀지 않는 한 위법이기 때문에 현실적으로 불가능한 일이라며 맞서고 있는데요, 민주당의 주장, 맞는 말일까요? 김지환 기자가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고?]]></title>
         <id>https://v.daum.net/v/20220122090011212</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220119135547308"/>
         <updated>2022-01-19T05:18:54.210Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 인터넷 커뮤니티와 블로그 등에 '긴급 정보'라며 "카카오톡에 청와대 애플리케이션(앱)이 설치돼 우리 대화 내용을 다 살피고 있다"는 내용과 함께 청와대 앱 연결을 끊는 방법이 소개된 글이 퍼지고 있다. 이를 두고 "감시용인거냐" "검색해보니 나도 청와대 앱이 깔려 있어서 찜찜해서 끊었다" 등의 댓글이 달리기도 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '여가부 폐지', 그 이후의 시나리오는?]]></title>
-        <id>https://v.daum.net/v/20220119111500046</id>
-        <link href="https://v.daum.net/v/20220119111500046"/>
-        <updated>2022-01-19T02:32:43.208Z</updated>
-        <content type="html"><![CDATA[SBS 팩트체크 사실은팀은 대선 후보자들의 공약을 점검하고 있습니다. 최근에는 민주당 이재명 후보의 탈모 보험 적용 공약을 짚었고, 오늘은 국민의힘 윤석열 후보의 여가부 폐지 공약을 살펴보려고 합니다. 지난해 10월, 국민의힘 윤석열 후보는 여성가족부를 '양성평등가족부'로 개편하겠다는 공약을 발표했습니다. 여가부 업무와 예산을 다시 조정하겠다고 했습니다.]]></content>
     </entry>
 </feed>
