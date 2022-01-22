@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-21T23:22:31.967Z</updated>
+    <updated>2022-01-22T01:10:03.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고?]]></title>
+        <id>https://v.daum.net/v/20220122090011212</id>
+        <link href="https://v.daum.net/v/20220122090011212"/>
+        <updated>2022-01-22T01:08:34.873Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 미국 뉴저지주에 거주하는 한 여성이 1년 전 신종 코로나바이러스 감염증(코로나19)에 걸린 뒤 모유 색이 연녹색으로 바뀐 사진을 인스타그램에 올렸던 것이 뒤늦게 화제가 됐다. 국내 일부 언론도 영국 매체 더선의 보도 등을 인용해 이 여성의 사연과 연녹색 모유 사진을 소개했다. 앞서 국내 맘카페 등에서는 "백신 2차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 안철수·심상정 빠진 TV토론, 위법이다?]]></title>
         <id>https://v.daum.net/v/20220122053735452</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220119111500046"/>
         <updated>2022-01-19T02:32:43.208Z</updated>
         <content type="html"><![CDATA[SBS 팩트체크 사실은팀은 대선 후보자들의 공약을 점검하고 있습니다. 최근에는 민주당 이재명 후보의 탈모 보험 적용 공약을 짚었고, 오늘은 국민의힘 윤석열 후보의 여가부 폐지 공약을 살펴보려고 합니다. 지난해 10월, 국민의힘 윤석열 후보는 여성가족부를 '양성평등가족부'로 개편하겠다는 공약을 발표했습니다. 여가부 업무와 예산을 다시 조정하겠다고 했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열-이재명 양자토론이 불법이라고?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220119045703717</id>
-        <link href="https://v.daum.net/v/20220119045703717"/>
-        <updated>2022-01-18T20:25:12.314Z</updated>
-        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷"소수당을 제외한 양당만의 TV토론이 진행된다면 이는 명백히 방송법에 반하는 행위이다" 정의당 의원단이 지난 17일 홈페이지와 출입기자단에 배포한 보도자료의 일부입니다. 더불어민주당과 국민의힘이 추진 중인 대선후보 양자토론이 군소정당에는 공정하지 않을뿐더러 현행법을 위반한다는]]></content>
     </entry>
 </feed>
