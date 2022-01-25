@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-24T23:22:38.610Z</updated>
+    <updated>2022-01-25T01:19:33.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 3월 대선 코앞에 두고..'심판 2명' 사라진 사연]]></title>
+        <id>https://v.daum.net/v/20220125050630384</id>
+        <link href="https://v.daum.net/v/20220125050630384"/>
+        <updated>2022-01-25T01:17:57.825Z</updated>
+        <content type="html"><![CDATA[독립기관인 중앙선거관리위원회(중앙선관위)가 상임위원 문제로 몸살을 앓고 있다. 조해주 상임위원이 문재인 대통령의 요청에 따라 비상임으로 임기를 이어가려다 중앙선관위 직원들의 반발로 결국 사퇴한 것이다. 국민의힘 추천 몫인 문상부 중앙선관위원 후보자도 조 상임위원의 사퇴에 맞춰 후보자 신분에서 물러났다. 중앙선관위는 두 자리를 공석으로 둔 채 ‘7인 체제’로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명·윤석열 "LTV 완화"..80~90% 적용 가능할까?]]></title>
         <id>https://v.daum.net/v/20220124203006540</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220121050704527"/>
         <updated>2022-01-21T01:09:24.429Z</updated>
         <content type="html"><![CDATA[비극적인 일이 일어난 것은 지난해 8월30일이었다. 이날 새벽 대구시 서구 비산동 한 조손가정에서 18살 고3 학생이 함께 살던 할머니(당시 77)를 살해했다. 할아버지(당시 93)도 함께 살해될 뻔했지만 둘째손자(당시 16)의 만류 덕분에 목숨을 건질 수 있었다. 할아버지의 신고로 출동한 경찰은 현장에서 형제들을 현행범으로 체포했다. 그로부터 넉달 뒤인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 부작용 백신, 제조번호 따로 있다? '괴담' 역추적]]></title>
-        <id>https://v.daum.net/v/20220120202204817</id>
-        <link href="https://v.daum.net/v/20220120202204817"/>
-        <updated>2022-01-20T12:34:34.360Z</updated>
-        <content type="html"><![CDATA[[앵커] 코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데 정말 그런지 팩트체크팀이 확인을 해 봤습니다. 이지은 기자, 이게 정말 맞는 얘기입니까? 그러니까 특정한 제조번호의 백신을 맞았으면 위험하다는 얘기입니까? [기자] 우선 이 백신을 접종할 때 자신이 원하는 특정 제조번호]]></content>
     </entry>
 </feed>
