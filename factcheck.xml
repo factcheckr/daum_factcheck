@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-26T21:20:16.273Z</updated>
+    <updated>2022-01-26T22:22:13.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 자가진단키트 음성확인서도 방역패스로 쓸 수 있다?]]></title>
+        <id>https://v.daum.net/v/20220127070114183</id>
+        <link href="https://v.daum.net/v/20220127070114183"/>
+        <updated>2022-01-26T22:20:47.521Z</updated>
+        <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220126193301453</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220123052215135"/>
         <updated>2022-01-22T21:17:47.567Z</updated>
         <content type="html"><![CDATA[[앵커] 최근 더불어민주당 이재명 후보의 욕설 녹음 파일이 추가로 공개되자, 국민의힘은 MBC가 김건희 씨의 녹취를 튼 것처럼 이 후보의 녹취도 방송해야 한다고 주장하고 있습니다. 이에 대해 민주당은 3시간에 가까운 녹취 원본을 틀지 않는 한 위법이기 때문에 현실적으로 불가능한 일이라며 맞서고 있는데요, 민주당의 주장, 맞는 말일까요? 김지환 기자가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고?]]></title>
-        <id>https://v.daum.net/v/20220122090011212</id>
-        <link href="https://v.daum.net/v/20220122090011212"/>
-        <updated>2022-01-22T01:08:34.873Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 미국 뉴저지주에 거주하는 한 여성이 1년 전 신종 코로나바이러스 감염증(코로나19)에 걸린 뒤 모유 색이 연녹색으로 바뀐 사진을 인스타그램에 올렸던 것이 뒤늦게 화제가 됐다. 국내 일부 언론도 영국 매체 더선의 보도 등을 인용해 이 여성의 사연과 연녹색 모유 사진을 소개했다. 앞서 국내 맘카페 등에서는 "백신 2차]]></content>
     </entry>
 </feed>

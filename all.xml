@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T21:20:16.276Z</updated>
+    <updated>2022-01-26T22:22:13.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 자가진단키트 음성확인서도 방역패스로 쓸 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220127070114183</id>
+        <link href="https://v.daum.net/v/20220127070114183"/>
+        <updated>2022-01-26T22:20:47.521Z</updated>
+        <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220126193301453</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220123052215135"/>
         <updated>2022-01-22T21:17:47.567Z</updated>
         <content type="html"><![CDATA[[앵커] 최근 더불어민주당 이재명 후보의 욕설 녹음 파일이 추가로 공개되자, 국민의힘은 MBC가 김건희 씨의 녹취를 튼 것처럼 이 후보의 녹취도 방송해야 한다고 주장하고 있습니다. 이에 대해 민주당은 3시간에 가까운 녹취 원본을 틀지 않는 한 위법이기 때문에 현실적으로 불가능한 일이라며 맞서고 있는데요, 민주당의 주장, 맞는 말일까요? 김지환 기자가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 감염됐더니 모유 색이 녹색으로 바뀌었다고? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220122090011212</id>
-        <link href="https://v.daum.net/v/20220122090011212"/>
-        <updated>2022-01-22T01:08:34.873Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 미국 뉴저지주에 거주하는 한 여성이 1년 전 신종 코로나바이러스 감염증(코로나19)에 걸린 뒤 모유 색이 연녹색으로 바뀐 사진을 인스타그램에 올렸던 것이 뒤늦게 화제가 됐다. 국내 일부 언론도 영국 매체 더선의 보도 등을 인용해 이 여성의 사연과 연녹색 모유 사진을 소개했다. 앞서 국내 맘카페 등에서는 "백신 2차]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['여가부 폐지', 그 이후의 시나리오는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 주말 온라인 커뮤니티에 올라온 글입니다. 아버지가 코로나19 백신을 맞은 지 이틀 만에 숨졌는데, 조사결과 백신과의 인과성이 인정 안 돼서 병원비 7,200원만 보상받을 수 있게 됐다는 내용입니다. 이 글을 인용한 기사들도 꽤 많이 나왔는데요. 실제 보상금이 이렇게 적게 지급되는지 그 근거가 무엇인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자가진단키트 음성확인서도 방역패스로 쓸 수 있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220127070114183</id>
+        <link href="https://v.daum.net/v/20220127070114183"/>
+        <updated>2022-01-26T22:21:26.042Z</updated>
+        <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인력·재원, 집행부 몫..반쪽짜리 지방의회 인사권 독립 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220111215957995</id>
         <link href="https://v.daum.net/v/20220111215957995"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20211116214906560"/>
         <updated>2022-01-02T15:36:07.174Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 앞서 보신 것처럼  정부의 단계적 일상회복, 이른바 '위드코로나' 시행 이후 우리 사회도 조금씩  조금씩 일상을 찾아가고 있는데요. 무엇이 어떻게 변하고 있는지  데이터로 확인해 봤습니다. 팩트체크K,  정진규 기자가 보도합니다. [리포트] 단계적 일상회복 이후  가장 크게 달라진 점은 거리로 나서는 사람들이 늘었다는 겁니다. 이동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위드코로나' 이후..일상생활 조금씩 '정상화' (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20211116193735096</id>
-        <link href="https://v.daum.net/v/20211116193735096"/>
-        <updated>2022-01-02T15:36:07.175Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 앞선 리포트에서 전해드린 것처럼  정부의 단계적 일상회복, 이른바 위드코로나 시행 이후 조금씩 일상을 찾아가고 있는데요. 오늘 팩트체크K 에서는 '위드코로나' 이후 변화화는 일상의 모습에 대해 보도국 정진규 기자와  좀 더 자세히 짚어보겠습니다. 정 기자,  이달부터 정부의 단계적 일상회복,  이른바 위드코로나가 시행됐는데.. 가장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
