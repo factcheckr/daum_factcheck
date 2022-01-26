@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T10:25:03.619Z</updated>
+    <updated>2022-01-26T11:20:18.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220126193301453</id>
+        <link href="https://v.daum.net/v/20220126193301453"/>
+        <updated>2022-01-26T11:18:53.336Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;정은경 질병관리청장이 24일 오후 충북 청주시 질병관리청에서 신종 코로나바이러스 감염증(코로나19) 오미크론 점유율 및 추이, 변이 발생 현황 및 특성 분석현황, 설 연휴 당부사항 등의 발표를 마친 뒤 취재진의 질문을 받고 있다.    ⓒ 연합뉴스  &nbsp;&nbsp; [검증대상] "부스터샷 맞아도 오미크론 못 막는다"...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '형사책임 감면' 경찰관 직무집행법, 어디까지 가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220126161101835</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220122090011212"/>
         <updated>2022-01-22T01:08:34.873Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 미국 뉴저지주에 거주하는 한 여성이 1년 전 신종 코로나바이러스 감염증(코로나19)에 걸린 뒤 모유 색이 연녹색으로 바뀐 사진을 인스타그램에 올렸던 것이 뒤늦게 화제가 됐다. 국내 일부 언론도 영국 매체 더선의 보도 등을 인용해 이 여성의 사연과 연녹색 모유 사진을 소개했다. 앞서 국내 맘카페 등에서는 "백신 2차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 안철수·심상정 빠진 TV토론, 위법이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220122053735452</id>
-        <link href="https://v.daum.net/v/20220122053735452"/>
-        <updated>2022-01-21T21:15:20.157Z</updated>
-        <content type="html"><![CDATA[[앵커] 더불어민주당 이재명 후보와 국민의힘 윤석열 후보가 설 연휴에 양자 TV토론을 하기로 한 데 대해 국민의당과 정의당이 반발하고 있습니다. 두 후보만 토론 테이블에 앉히는 건 특정 정당에 대한 차별이라며 법 위반이라는 주장까지 나왔는데요, 맞는 말인지, 박희재 기자가 팩트체크 했습니다. [기자] [배진교 / 정의당 원내대표(YTN 출발 새아침]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['여가부 폐지', 그 이후의 시나리오는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 유투브와 페이스북 등 사회관계망서비스(SNS)를 중심으로 퍼져나가고 있는 ‘서초구 보건소 직원과의 통화’는 사실이 아닌 것으로 19일 확인됐다. 3분 25초 분량의 해당 동영상은 한 중년 여성과 보건소 직원 간의 통화내용으로, 중년여성은 “8.15 집회에 참가한 사람들 가운데 보건소에서 코로나19 검체검사를 받은 결과 양성이 나왔으나 병원에 가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220126193301453</id>
+        <link href="https://v.daum.net/v/20220126193301453"/>
+        <updated>2022-01-26T11:20:05.179Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;정은경 질병관리청장이 24일 오후 충북 청주시 질병관리청에서 신종 코로나바이러스 감염증(코로나19) 오미크론 점유율 및 추이, 변이 발생 현황 및 특성 분석현황, 설 연휴 당부사항 등의 발표를 마친 뒤 취재진의 질문을 받고 있다.    ⓒ 연합뉴스  &nbsp;&nbsp; [검증대상] "부스터샷 맞아도 오미크론 못 막는다"...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["외국인 담보대출 100%, 내국인 역차별" 안철수 주장 '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220124121800541</id>
         <link href="https://v.daum.net/v/20220124121800541"/>
@@ -568,13 +575,6 @@
         <title type="html"><![CDATA["국민 10% 종부세 영향" 윤석열 주장 '반복된 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220105133905288</id>
         <link href="https://v.daum.net/v/20220105133905288"/>
-        <updated>2022-01-05T05:22:18.203Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["작전주 모르고 투자해 무죄" 이재명 주장 '대체로 사실' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220105133900283</id>
-        <link href="https://v.daum.net/v/20220105133900283"/>
         <updated>2022-01-05T05:22:18.203Z</updated>
         <content type="html"><![CDATA[유튜브 채널 '삼프로TV' 대선후보 대담 프로그램이 큰 반향을 일으켰다. 지난 12월 25일 공개된 이재명 더불어민주당 후보 편과 윤석열 국민의힘 후보 편은 1월 5일 현재 조회수가 각각 591만 회, 308만 회를 넘었고, 지난 1월 2일 공개된 심상정 정의당 후보 편과 안철수 국민의힘 후보 편 조회수도 각각 42만 회, 117만 회로, 4편 누적 조회수]]></content>
     </entry>
