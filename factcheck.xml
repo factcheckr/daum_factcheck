@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-27T08:27:11.076Z</updated>
+    <updated>2022-01-27T09:22:53.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대선후보 지지율 여론조사에서 허경영 제외하면 불공정?]]></title>
         <id>https://v.daum.net/v/20220127122438004</id>
