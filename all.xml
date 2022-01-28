@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T22:21:43.983Z</updated>
+    <updated>2022-01-28T23:23:15.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 건강 상태는 국가 기밀? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220129080008678</id>
+        <link href="https://v.daum.net/v/20220129080008678"/>
+        <updated>2022-01-28T23:21:49.466Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 문재인 대통령의 해외 순방 수행단 가운데 일부가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받은 사실이 뒤늦게 알려졌다. 일각에서는 문 대통령이 신년 기자회견을 열지 않기로 한 것도 이 때문이 아니냐는 추측이 제기됐고, 문 대통령의 밀접 접촉이나 감염 여부에 대해서 각종 억측이 쏟아지기도 했다. 이런 가운데 일부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 공무원·교원 노조 전임자 임금으로 627억 투입? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220129052210271</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220127070114183"/>
         <updated>2022-01-26T22:20:47.521Z</updated>
         <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오미크론 못 막아".. '부스터샷 무용론' 대체로 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220126193301453</id>
-        <link href="https://v.daum.net/v/20220126193301453"/>
-        <updated>2022-01-26T11:18:53.336Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;정은경 질병관리청장이 24일 오후 충북 청주시 질병관리청에서 신종 코로나바이러스 감염증(코로나19) 오미크론 점유율 및 추이, 변이 발생 현황 및 특성 분석현황, 설 연휴 당부사항 등의 발표를 마친 뒤 취재진의 질문을 받고 있다.    ⓒ 연합뉴스  &nbsp;&nbsp; [검증대상] "부스터샷 맞아도 오미크론 못 막는다"...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[병사들 월급 올려준다던데? 어쩔 연공서열 (다음 뉴스 ─ SBS 사실은)]]></title>
