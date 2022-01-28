@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T20:23:00.247Z</updated>
+    <updated>2022-01-28T21:19:39.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 공무원·교원 노조 전임자 임금으로 627억 투입? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220129052210271</id>
+        <link href="https://v.daum.net/v/20220129052210271"/>
+        <updated>2022-01-28T21:18:36.722Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의당 안철수 대선 후보가 이른바 노동 포퓰리즘을 막겠다며 연일 노조 개혁을 강조하고 있습니다. 최근에는 공무원과 교원 노조 전임자에게 임금을 주는 '타임오프제'를 도입하면 세금 수백억 원이 든다며 관련법 개정안 처리에 반대 입장을 밝혔는데요, 안 후보의 말, 사실일까요? 박희재 기자가 따져봤습니다. [기자] 지난 24일 안철수 후보가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '검은 호랑이해' 임인년 시작은 입춘이다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220128202444286</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220126193301453"/>
         <updated>2022-01-26T11:18:53.336Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;정은경 질병관리청장이 24일 오후 충북 청주시 질병관리청에서 신종 코로나바이러스 감염증(코로나19) 오미크론 점유율 및 추이, 변이 발생 현황 및 특성 분석현황, 설 연휴 당부사항 등의 발표를 마친 뒤 취재진의 질문을 받고 있다.    ⓒ 연합뉴스  &nbsp;&nbsp; [검증대상] "부스터샷 맞아도 오미크론 못 막는다"...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '형사책임 감면' 경찰관 직무집행법, 어디까지 가능? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220126161101835</id>
-        <link href="https://v.daum.net/v/20220126161101835"/>
-        <updated>2022-01-26T07:20:00.308Z</updated>
-        <content type="html"><![CDATA[현장 대응력 강화 vs 기본권 침해 우려살인·강도·가정폭력·아동학대 등 한정 경찰관이 직무를 수행하다 발생한 피해에 대해 경찰관의 형사책임을 감면하는 조항(제11조의 5)을 담은 경찰관 직무집행법 개정안이 지난 25일 국무회의에서 의결돼 다음달 공포, 시행된다. 경찰이 범인 검거 등 물리력을 행사해야 할 때 주저하지 않도록 형을 감면케 하는 조항인데 일각에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[병사들 월급 올려준다던데? 어쩔 연공서열 (다음 뉴스 ─ SBS 사실은)]]></title>
