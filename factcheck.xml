@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-28T08:26:16.643Z</updated>
+    <updated>2022-01-28T09:24:00.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 병사들 월급 올려준다던데? 어쩔 연공서열]]></title>
+        <id>https://v.daum.net/v/20220128175110992</id>
+        <link href="https://v.daum.net/v/20220128175110992"/>
+        <updated>2022-01-28T09:22:37.767Z</updated>
+        <content type="html"><![CDATA[SBS 팩트체크 &lt;사실은&gt;팀의 대선 공약 팩트체크, 오늘은 병사 월급 인상을 살펴보겠습니다. 더불어민주당 이재명 후보도 비슷한 공약을 내놨지만, 국민의힘 윤석열 후보가 가장 적극적입니다. 윤 후보는 '집권 즉시' 병사 월급을 200만 원으로 인상하겠다고 약속했습니다. 집권 즉시 인상이라면, 당장 재정에 미치는 영향이 클 텐데 윤 후보는 이 문제를 어떻게 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 탈모가 끝은 아니다.."모발 이식까지 보험으로"?]]></title>
         <id>https://v.daum.net/v/20220128152705103</id>
         <link href="https://v.daum.net/v/20220128152705103"/>
         <updated>2022-01-28T07:19:46.682Z</updated>
-        <content type="html"><![CDATA[최근 더불어민주당 이재명 대선 후보가 내놨던 '탈모약 건강보험 적용' 공약에 관심이 뜨거웠습니다. 주목도가 높았습니다. 그만큼 탈모로 고생하는 분들이 많다는 얘기일 겁니다. 그런데 국가 재정이 버텨낼 수 있겠느냐는 반론도 나왔습니다. 이에 대해 이 후보는 "탈모에 건강보험을 적용해도 700~800억 원 정도면 된다"고 했습니다. 나아가 '모발이식'도 보험]]></content>
+        <content type="html"><![CDATA[최근 더불어민주당 이재명 대선 후보가 내놨던 '탈모약 건강보험 적용' 공약에 관심이 뜨거웠습니다. 주목도가 높았습니다. 그만큼 탈모로 고생하는 분들이 많다는 얘기일 겁니다. 그런데 국가 재정이 버텨낼 수 있겠느냐는 반론도 나왔습니다. 이에 대해 이 후보는 "탈모에 건강보험을 적용해도 700~800억 원 정도면 된다"고 했습니다. 나아가 '모발 이식'도 보험]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["뭘 모신다던데.." 건진법사 역삼동 법당 가봤다 [뉴스AS]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220125050630384"/>
         <updated>2022-01-25T01:17:57.825Z</updated>
         <content type="html"><![CDATA[독립기관인 중앙선거관리위원회(중앙선관위)가 상임위원 문제로 몸살을 앓고 있다. 조해주 상임위원이 문재인 대통령의 요청에 따라 비상임으로 임기를 이어가려다 중앙선관위 직원들의 반발로 결국 사퇴한 것이다. 국민의힘 추천 몫인 문상부 중앙선관위원 후보자도 조 상임위원의 사퇴에 맞춰 후보자 신분에서 물러났다. 중앙선관위는 두 자리를 공석으로 둔 채 ‘7인 체제’로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명·윤석열 "LTV 완화"..80~90% 적용 가능할까?]]></title>
-        <id>https://v.daum.net/v/20220124203006540</id>
-        <link href="https://v.daum.net/v/20220124203006540"/>
-        <updated>2022-01-24T12:33:54.739Z</updated>
-        <content type="html"><![CDATA[[앵커] 이재명, 윤석열, 두 후보가 LTV를 대폭 완화하겠다고 했습니다. LTV는 집을 담보로 대출받을 때, 은행에서 담보 가치를 얼마까지 인정하느냐, 그러니까 얼마나 빌릴 수 있느냐는 비율이죠. 그런데 이걸 두 후보의 주장처럼 크게 늘릴 수가 있는지 팩트체크팀이 따져봤습니다. 이지은 기자, 누구를 대상으로 하겠다. 이건 나와 있죠? [기자] 그렇습니다.]]></content>
     </entry>
 </feed>
