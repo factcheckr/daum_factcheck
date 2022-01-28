@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-01-28T06:27:53.062Z</updated>
+    <updated>2022-01-28T07:21:07.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈모가 끝은 아니다.."모발 이식까지 보험으로"?]]></title>
+        <id>https://v.daum.net/v/20220128152705103</id>
+        <link href="https://v.daum.net/v/20220128152705103"/>
+        <updated>2022-01-28T07:19:59.149Z</updated>
+        <content type="html"><![CDATA[최근 더불어민주당 이재명 대선 후보가 내놨던 '탈모약 건강보험 적용' 공약에 관심이 뜨거웠습니다. 주목도가 높았습니다. 그만큼 탈모로 고생하는 분들이 많다는 얘기일 겁니다. 그런데 국가 재정이 버텨낼 수 있겠느냐는 반론도 나왔습니다. 이에 대해 이 후보는 "탈모에 건강보험을 적용해도 700~800억 원 정도면 된다"고 했습니다. 나아가 '모발이식'도 보험]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여가부 폐지', 그 이후의 시나리오는?]]></title>
         <id>https://v.daum.net/v/20220119111500046</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211225142100174"/>
         <updated>2022-01-02T15:35:42.826Z</updated>
         <content type="html"><![CDATA[세밑 정국이 박근혜 전 대통령 특별사면과 한명숙 전 총리 복권 논란으로 뜨겁습니다. 보복의 정치를 끝내기 위한 마중물이라는 주장의 맞은 편에는, 대통령 권한을 남용한 '정치적 사면'이라는 의견이 팽팽히 맞서고 있습니다. 사실 특별사면 논란에는 늘 '정치적'이라는 수식어가 줄기차게 따라 붙습니다. 통치권자 의지에 따라 행사될 수 있는 권한이기 때문입니다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시도 때도 없는 '허경영 전화' 비밀 공개]]></title>
-        <id>https://v.daum.net/v/20211221173626214</id>
-        <link href="https://v.daum.net/v/20211221173626214"/>
-        <updated>2022-01-02T15:35:42.830Z</updated>
-        <content type="html"><![CDATA[저도 최근에 허경영 후보 홍보 전화 3번 받았습니다. 처음에는 전화 왔다고 인증하는 글도 올라오고 많은 분들이 재밌어했는데, 최근에는 너무 자주 온다며 불만이 커졌습니다. 법적인 문제 없는 거냐, 어떻게 전화 돌리는 거냐, 번호는 또 어떻게 아는 거냐, 저희 사실은팀에 검증해달라는 요청이 많았습니다. 허경영 전화의 모든 것, 취재했습니다. 벌써 홍보 전화하]]></content>
     </entry>
 </feed>

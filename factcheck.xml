@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-28T06:27:53.064Z</updated>
+    <updated>2022-01-28T07:21:07.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 탈모가 끝은 아니다.."모발 이식까지 보험으로"?]]></title>
+        <id>https://v.daum.net/v/20220128152705103</id>
+        <link href="https://v.daum.net/v/20220128152705103"/>
+        <updated>2022-01-28T07:19:46.682Z</updated>
+        <content type="html"><![CDATA[최근 더불어민주당 이재명 대선 후보가 내놨던 '탈모약 건강보험 적용' 공약에 관심이 뜨거웠습니다. 주목도가 높았습니다. 그만큼 탈모로 고생하는 분들이 많다는 얘기일 겁니다. 그런데 국가 재정이 버텨낼 수 있겠느냐는 반론도 나왔습니다. 이에 대해 이 후보는 "탈모에 건강보험을 적용해도 700~800억 원 정도면 된다"고 했습니다. 나아가 '모발이식'도 보험]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뭘 모신다던데.." 건진법사 역삼동 법당 가봤다 [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220128070602596</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220124203006540"/>
         <updated>2022-01-24T12:33:54.739Z</updated>
         <content type="html"><![CDATA[[앵커] 이재명, 윤석열, 두 후보가 LTV를 대폭 완화하겠다고 했습니다. LTV는 집을 담보로 대출받을 때, 은행에서 담보 가치를 얼마까지 인정하느냐, 그러니까 얼마나 빌릴 수 있느냐는 비율이죠. 그런데 이걸 두 후보의 주장처럼 크게 늘릴 수가 있는지 팩트체크팀이 따져봤습니다. 이지은 기자, 누구를 대상으로 하겠다. 이건 나와 있죠? [기자] 그렇습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 촛불 정국 때 文 지지율, 40% 넘은 적 없다?]]></title>
-        <id>https://v.daum.net/v/20220124181615382</id>
-        <link href="https://v.daum.net/v/20220124181615382"/>
-        <updated>2022-01-24T09:20:18.786Z</updated>
-        <content type="html"><![CDATA[[앵커] 더불어민주당 이재명 대선 후보의 지지율이 박스권에 머무르고 있다는 분석이 이어지고 있습니다. 이에 대해 민주당 측은 문재인 대통령도 후보 시절 마찬가지였다고 반박했는데요, 맞는 말인지, 신지원 기자가 팩트체크했습니다. [기자] 더불어민주당 이재명 후보의 지지율이 여전히 30%대에 머무르고 있습니다. '박스권에 갇혔다'는 평가가 이어지자,]]></content>
     </entry>
 </feed>
