@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-28T10:25:33.456Z</updated>
+    <updated>2022-01-28T11:19:34.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["세종시 접종률 꼴찌, 공무원 백신 기피 탓" 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220128201205106</id>
+        <link href="https://v.daum.net/v/20220128201205106"/>
+        <updated>2022-01-28T11:18:13.392Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 학교에서 코로나19 백신접종&nbsp;지난해 12월 20일 오전 세종시의 한 중학교에서 신종 코로나바이러스 감염증(코로나19) '찾아가는 학교 단위 백신접종'이 이뤄지고 있다.    ⓒ 연합뉴스  &nbsp; "고위직 공무원 등 공무원 비율이 높은 세종시만!!! 접종률이 다른 도시보다 그것도 10%씩이나 낮은 것이, 정작 공무원들은 백신을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 병사들 월급 올려준다던데? 어쩔 연공서열]]></title>
         <id>https://v.daum.net/v/20220128175110992</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220125164609187"/>
         <updated>2022-01-25T08:25:41.439Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 기업의 의사결정에 노동자 참여를 보장함으로써 경제민주주의를 실현하려는 '노동이사제' 도입이 확정됐지만 정치권 공방은 멈추지 않고 있다. 대권에 도전하고 있는 더불어민주당 이재명 후보와 국민의힘 윤석열 후보는 찬성 의사를 밝힌 반면 국민의당 안철수 후보는 전면 보류를 공약하고 나섰다. 안 후보 캠프의 최진석 상임선대위원장은 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 3월 대선 코앞에 두고..'심판 2명' 사라진 사연]]></title>
-        <id>https://v.daum.net/v/20220125050630384</id>
-        <link href="https://v.daum.net/v/20220125050630384"/>
-        <updated>2022-01-25T01:17:57.825Z</updated>
-        <content type="html"><![CDATA[독립기관인 중앙선거관리위원회(중앙선관위)가 상임위원 문제로 몸살을 앓고 있다. 조해주 상임위원이 문재인 대통령의 요청에 따라 비상임으로 임기를 이어가려다 중앙선관위 직원들의 반발로 결국 사퇴한 것이다. 국민의힘 추천 몫인 문상부 중앙선관위원 후보자도 조 상임위원의 사퇴에 맞춰 후보자 신분에서 물러났다. 중앙선관위는 두 자리를 공석으로 둔 채 ‘7인 체제’로]]></content>
     </entry>
 </feed>
