@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-30T12:33:11.380Z</updated>
+    <updated>2022-01-30T13:22:36.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "여성가족부 폐지 찬성 98%"..사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220130221633124</id>
+        <link href="https://v.daum.net/v/20220130221633124"/>
+        <updated>2022-01-30T13:21:11.233Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 윤석열 대선 후보의 '여성가족부 폐지' 공약이 여전히 논란입니다. 인터넷에서는 '98% 찬성'이라는 내용의 공인되지 않은 설문조사 결과까지 떠돌았는데요, 신지원 기자가 팩트체크했습니다. [기자] 지난 25일, 보수 성향 인터넷 커뮤니티에 올라온 글입니다. '여성가족부 폐지'에 대한 설문조사가 진행 중인데, 98%가 찬성하고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "여성가족부 폐지 찬성 98%"..사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220130062532983</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220127200604871"/>
         <updated>2022-01-27T11:18:10.689Z</updated>
         <content type="html"><![CDATA[[앵커] 이런 가운데 민주당 혁신위원회가 오늘(27일) 같은 지역구에서 연달아 4선 이상을 못 하게 하는 법안을 냈습니다. 그런데, 일종의 '함정'이 숨어있다고 하는데요. 팩트체크에서 따져보겠습니다. 이지은 기자, 법이 통과되면 다음 총선부터 바로 적용이 되는 겁니까? [기자] 당장 적용하는 게 아닙니다. 오늘 민주당 혁신위원회가 낸 법안을 보시겠습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대선후보 지지율 여론조사에서 허경영 제외하면 불공정? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220127122438004</id>
-        <link href="https://v.daum.net/v/20220127122438004"/>
-        <updated>2022-01-27T04:27:29.034Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대통령 선거를 40여일 앞둔 가운데 최근 여론조사에서 허경영 국가혁명당 대선 후보가 제외된 데 대해 불만을 품은 한 40대 남성이 중앙선거관리위원회 청사 정문으로 차를 몰고 돌진했다가 경찰에 체포되는 등 지지자들의 항의 시위가 이어지고 있다. 허경영 후보도 19일 낸 성명에서 "대선 후보 여론조사에서 국민 지지가 상당한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[병사들 월급 올려준다던데? 어쩔 연공서열 (다음 뉴스 ─ SBS 사실은)]]></title>
