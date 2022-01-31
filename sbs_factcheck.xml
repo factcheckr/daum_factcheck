@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-01-30T23:21:42.357Z</updated>
+    <updated>2022-01-31T01:12:03.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['포퓰리즘'은 언제 많이 거론됐나요]]></title>
+        <id>https://v.daum.net/v/20220131100600893</id>
+        <link href="https://v.daum.net/v/20220131100600893"/>
+        <updated>2022-01-31T01:10:52.232Z</updated>
+        <content type="html"><![CDATA[SBS 팩트체크 &lt;사실은&gt;팀은 대선을 앞두고 후보들의 정책과 발언을 팩트 체크하고 있습니다. 취재를 하다 보면 요즘 정치권과 언론 보도에 유독 많이 나오는 단어가 있습니다. '포퓰리즘'이라는 말입니다. 대선 정국 후보들 간 공약 경쟁이 치열해지면서 많이 거론되는 것 같습니다. 사실 특이한 현상도 아닙니다. 선거 철이면 포퓰리즘이란 단어는 단골손님처럼 등장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[병사들 월급 올려준다던데? 어쩔 연공서열]]></title>
         <id>https://v.daum.net/v/20220128175110992</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220103133300299"/>
         <updated>2022-01-03T05:22:32.652Z</updated>
         <content type="html"><![CDATA[대선을 70일 정도 앞둔 지금, 후보들 간 토론회 공방이 뜨겁습니다. 더불어민주당 이재명 후보가 운을 띄웠습니다. 국민의힘 윤석열 후보를 향해 얼굴을 맞대고 토론을 하자고 압박했습니다. 윤 후보는 토론이 별 도움이 안 된다며 선을 그었습니다.&nbsp; 이후, 이 후보는 압박 수위를 계속 높여갔고, 윤석열 후보는 노골적인 불쾌감을 드러냈습니다. 공방이 계속되며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신지예 영입 이후, '이대남'은 등을 돌릴까요?]]></title>
-        <id>https://v.daum.net/v/20211228090307856</id>
-        <link href="https://v.daum.net/v/20211228090307856"/>
-        <updated>2022-01-02T15:35:42.824Z</updated>
-        <content type="html"><![CDATA[신지예 전 한국여성정치네트워크 대표가 국민의힘 윤석열 후보 캠프에 들어갔습니다. 후보 직속 기구인 새시대준비위원회 수석부위원장을 맡았습니다. 당내 의견은 엇갈렸습니다. &nbsp;   국민의힘 김재원 최고위원: 우리 당의 외연확장이나 모든 면에서 상당히 의미 영입이었다. 국민의힘 하태경 의원 : 젠더 갈등을 고조시키는 페미니스트 신지예 영입을 반대한다.    우리]]></content>
     </entry>
 </feed>

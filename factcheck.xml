@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-01-30T23:21:42.342Z</updated>
+    <updated>2022-01-31T01:12:03.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '포퓰리즘'은 언제 많이 거론됐나요]]></title>
+        <id>https://v.daum.net/v/20220131100600893</id>
+        <link href="https://v.daum.net/v/20220131100600893"/>
+        <updated>2022-01-31T01:10:38.636Z</updated>
+        <content type="html"><![CDATA[SBS 팩트체크 &lt;사실은&gt;팀은 대선을 앞두고 후보들의 정책과 발언을 팩트 체크하고 있습니다. 취재를 하다 보면 요즘 정치권과 언론 보도에 유독 많이 나오는 단어가 있습니다. '포퓰리즘'이라는 말입니다. 대선 정국 후보들 간 공약 경쟁이 치열해지면서 많이 거론되는 것 같습니다. 사실 특이한 현상도 아닙니다. 선거 철이면 포퓰리즘이란 단어는 단골손님처럼 등장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중대재해처벌법 처벌수위, 해외에서 보기 어려울 만큼 높다?]]></title>
         <id>https://v.daum.net/v/20220131080039148</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220128152705103"/>
         <updated>2022-01-28T07:19:46.682Z</updated>
         <content type="html"><![CDATA[최근 더불어민주당 이재명 대선 후보가 내놨던 '탈모약 건강보험 적용' 공약에 관심이 뜨거웠습니다. 주목도가 높았습니다. 그만큼 탈모로 고생하는 분들이 많다는 얘기일 겁니다. 그런데 국가 재정이 버텨낼 수 있겠느냐는 반론도 나왔습니다. 이에 대해 이 후보는 "탈모에 건강보험을 적용해도 700~800억 원 정도면 된다"고 했습니다. 나아가 '모발 이식'도 보험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뭘 모신다던데.." 건진법사 역삼동 법당 가봤다 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220128070602596</id>
-        <link href="https://v.daum.net/v/20220128070602596"/>
-        <updated>2022-01-28T01:12:03.802Z</updated>
-        <content type="html"><![CDATA[“점 보러 온 사람들이 우리 회사 주차장에 주차하기도 하더라고요. 뭘 모신다고 하던데…” 지난 20일 서울 강남구 역삼동 골목에 있는 2층짜리 단독주택을 바라보며 주변 건물 한 관계자는 이같이 말했다. 그냥 평범한 단독주택으로 보이는 이곳은 최근 주목을 받고 있다. ‘건진법사’라고 불리는 전아무개(61)씨가 이곳에 법당을 차리고 유력 인사들과 교류했다고 알]]></content>
     </entry>
 </feed>
