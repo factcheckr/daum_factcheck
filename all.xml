@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-01T21:21:30.454Z</updated>
+    <updated>2022-02-01T22:32:58.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]탈원전 때문에 4월 전기요금 인상된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220202072101893</id>
+        <link href="https://v.daum.net/v/20220202072101893"/>
+        <updated>2022-02-01T22:28:04.497Z</updated>
+        <content type="html"><![CDATA[핵심요약윤석열 "탈원전 정책으로 전기료 인상 떠넘겨" 한전 "국제 에너지 가격 상승 때문에 결정" 文정부, 원자력 거래량·발전량 모두 늘어 장기적으로는 전기요금 인상 영향 줄 수도오는 4월로 예정된 전기요금 인상을 두고 국민의힘 윤석열 대선 후보가 "무책임한 결정"이라며 계획을 백지화하겠다고 나섰다. 윤석열 후보는 지난달 13일 여의도 당사에서 "문재인 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 백신 맞아도 오미크론 걸리는데..접종 왜 하냐구요? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220201124602173</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220128201205106"/>
         <updated>2022-01-28T11:18:13.392Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ 학교에서 코로나19 백신접종&nbsp;지난해 12월 20일 오전 세종시의 한 중학교에서 신종 코로나바이러스 감염증(코로나19) '찾아가는 학교 단위 백신접종'이 이뤄지고 있다.    ⓒ 연합뉴스  &nbsp; "고위직 공무원 등 공무원 비율이 높은 세종시만!!! 접종률이 다른 도시보다 그것도 10%씩이나 낮은 것이, 정작 공무원들은 백신을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 병사들 월급 올려준다던데? 어쩔 연공서열 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220128175110992</id>
-        <link href="https://v.daum.net/v/20220128175110992"/>
-        <updated>2022-01-28T09:22:37.767Z</updated>
-        <content type="html"><![CDATA[SBS 팩트체크 &lt;사실은&gt;팀의 대선 공약 팩트체크, 오늘은 병사 월급 인상을 살펴보겠습니다. 더불어민주당 이재명 후보도 비슷한 공약을 내놨지만, 국민의힘 윤석열 후보가 가장 적극적입니다. 윤 후보는 '집권 즉시' 병사 월급을 200만 원으로 인상하겠다고 약속했습니다. 집권 즉시 인상이라면, 당장 재정에 미치는 영향이 클 텐데 윤 후보는 이 문제를 어떻게 해]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['포퓰리즘'은 언제 많이 거론됐나요 (다음 뉴스 ─ SBS 사실은)]]></title>
