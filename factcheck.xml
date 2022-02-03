@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-03T12:35:19.996Z</updated>
+    <updated>2022-02-03T13:24:33.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 캠프 LTV 공약 80%→90%로 완화했다?]]></title>
+        <id>https://v.daum.net/v/20220203220416690</id>
+        <link href="https://v.daum.net/v/20220203220416690"/>
+        <updated>2022-02-03T13:23:13.215Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 3일 제20대 대통령 선거 후보들의 첫 TV 토론회에서 더불어민주당 이재명 후보와 국민의힘 윤석열 후보가 부동산 공약을 두고 신경전을 벌였다. 이 후보는 윤 후보에게 "주택담보대출비율(LTV)을 80%로 할건지 90% 할건지 정말 중요한데 80%를 주장하시다가 갑자기 아무 설명도 없이 90%로 완화한다고 (밝히셨다)"고 지적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라의 최대 무역 흑자국은 중국?]]></title>
         <id>https://v.daum.net/v/20220203152519181</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220129052210271"/>
         <updated>2022-01-28T21:18:36.722Z</updated>
         <content type="html"><![CDATA[[앵커] 국민의당 안철수 대선 후보가 이른바 노동 포퓰리즘을 막겠다며 연일 노조 개혁을 강조하고 있습니다. 최근에는 공무원과 교원 노조 전임자에게 임금을 주는 '타임오프제'를 도입하면 세금 수백억 원이 든다며 관련법 개정안 처리에 반대 입장을 밝혔는데요, 안 후보의 말, 사실일까요? 박희재 기자가 따져봤습니다. [기자] 지난 24일 안철수 후보가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '검은 호랑이해' 임인년 시작은 입춘이다?]]></title>
-        <id>https://v.daum.net/v/20220128202444286</id>
-        <link href="https://v.daum.net/v/20220128202444286"/>
-        <updated>2022-01-28T12:33:02.277Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 '황금돼지의 해', '황금소의 해', 매년 그 해를 나타낼 때 이런 표현을 많이 쓰죠. 올해 2022년은 '검은 호랑이해' 임인년인데, 임인년의 첫 시작인 날짜는 어떻게 정할까요? 양력이나 음력이 아닌 절기력을 따져서 입춘으로 세기도 한다는데요. 홍지호 기자가 사실확인에서 알아봤습니다. 【 기자 】 2022년이 되면서 "]]></content>
     </entry>
 </feed>
