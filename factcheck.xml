@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-08T02:37:02.676Z</updated>
+    <updated>2022-02-08T03:22:54.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]이재명 장남 군 병원 입원, 특혜였을까?]]></title>
+        <id>https://v.daum.net/v/20220208113908746</id>
+        <link href="https://v.daum.net/v/20220208113908746"/>
+        <updated>2022-02-08T03:21:41.620Z</updated>
+        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷 국민의힘 박수영 의원은 더불어민주당 이재명 후보 장남 이모씨가 지난 2014년 공군 병으로 복무할 당시, 인대가 파열돼 수술을 받고 군 병원에 입원하는 과정에서 특혜가 있었다고 주장했다. 핵심은 그가 경남 진주 공군기본군사훈련단에서 근무하다 다쳐 경기도 성남 국군수도병원에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 월급 21년 치 꼬박 모아야 서울에서 집 산다?]]></title>
         <id>https://v.daum.net/v/20220208101555684</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220204060348595"/>
         <updated>2022-02-03T21:17:48.357Z</updated>
         <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷"팩트체크는 언론이 해줄 것으로 믿고요" 3일 열린 대선후보 첫 TV토론에서 더불어민주당 이재명 후보가 국민의힘 윤석열 후보와 설전 중에 했던 말입니다. 그 믿음에 부응하고자 토론 중 나왔던 후보들의 몇 가지 발언을 CBS노컷뉴스가 바로 검증했습니다. 尹 LTV 공약 갑자기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 윤석열 "주 52시간제 폐지 얘기한 적도 없다"]]></title>
-        <id>https://v.daum.net/v/20220204060124518</id>
-        <link href="https://v.daum.net/v/20220204060124518"/>
-        <updated>2022-02-03T21:17:48.358Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "최저임금제·주 52시간제 폐지 이야기한 적 없다" "최저임금제 폐지 이야기해본 적도 없고요, 주 52시간제 폐지 이야기한 적도 없고…." 윤석열 국민의힘 대선 후보가 3일 KBS·MBC·SBS 등 방송 3사 합동 초청 TV 토론회에서 한 말입니다. '일자리·성장' 주제토론 중 "중대재해처벌법을 없앤다고 하고, 최저임금제와 주 52시간제를]]></content>
     </entry>
 </feed>
