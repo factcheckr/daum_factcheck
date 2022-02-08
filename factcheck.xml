@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-08T19:18:27.604Z</updated>
+    <updated>2022-02-08T20:31:44.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[노컷체크]이재명 장남 군 병원 입원, 특혜였을까?]]></title>
         <id>https://v.daum.net/v/20220208113908746</id>
