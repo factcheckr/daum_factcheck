@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-10T22:20:11.521Z</updated>
+    <updated>2022-02-10T23:22:51.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 동네 병의원 신속항원검사 5천 원 내면 된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220211080009289</id>
+        <link href="https://v.daum.net/v/20220211080009289"/>
+        <updated>2022-02-10T23:21:31.959Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 코로나19 오미크론 변이 확산에 따른 정부 방역체계 전환으로 이달 초부터 동네 병·의원(호흡기 진료 지정 의료기관)에서도 진단검사와 치료가 가능해진 이후 검사비를 둘러싼 혼선이 이어지고 있다. 인터넷 커뮤니티에는 "병원에서 신속항원검사 5천원에 해준다 해서 갔는데 5만원 내라고 했다"는 불만 글이 올라오고 있다. 가수 은가은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["검찰청 앞에서 폭력성 시위" 윤석열 주장 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220211061201042</id>
@@ -65,13 +72,6 @@
         <link href="https://v.daum.net/v/20220205105454796"/>
         <updated>2022-02-09T10:23:46.108Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김용래 정빛나 기자 = 북한의 탄도미사일 위협과 맞물려 사드(THAAD·고고도미사일방어체계) 추가배치 문제가 대선 정국을 뜨겁게 달구고 있다. 쟁점은 사드를 추가 배치하면 수도권 방어에 얼마나 더 효과적인가로 모인다. 국민의힘 윤석열 후보가 북한이 중거리 탄도미사일(화성-12형)을 시험발사한 지난달 30일 페이스북에 "사드 추가배치"라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트파인더] 수도권 방어 위해 '사드 추가 배치' 필요할까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220205103004566</id>
-        <link href="https://v.daum.net/v/20220205103004566"/>
-        <updated>2022-02-09T10:23:46.111Z</updated>
-        <content type="html"><![CDATA[3일 열린 대선후보 첫 4자 TV토론에서 가장 첨예하게 맞붙은 정책 주제는 ‘고고도미사일방어체계(THAADㆍ사드)를 수도권에 과연 배치할 필요가 있느냐’였다. 발단은 윤석열 국민의힘 후보의 공약이었다. 윤 후보는 “경북 성주에 배치된 사드 포대로는 수도권 방어가 제한된다. 사드를 추가 배치해 수도권 2,000만 명을 북한 미사일 위협으로부터 보호하겠다”고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 유, 이번 소송 이기면 입국 가능할까? (다음 뉴스 ─ SBS 사실은)]]></title>
