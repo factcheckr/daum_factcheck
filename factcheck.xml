@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-10T20:23:03.360Z</updated>
+    <updated>2022-02-10T21:20:26.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["검찰청 앞에서 폭력성 시위" 윤석열 주장 '새빨간 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220211061201042</id>
+        <link href="https://v.daum.net/v/20220211061201042"/>
+        <updated>2022-02-10T21:19:24.675Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;윤석열 국민의힘 대통령 후보는 지난 8일 당 유튜브 채널 '오른소리'에 공개된 ‘정권교체행동위원회’ 인터뷰에서 “제가 총장 때 마음에 안 드는 수사했다고 학살 인사를 해버리고 검찰청 앞에 수만 명씩 와서 폭력성 시위를 하고”라면서 검찰개혁 촛불집회를 ‘불법·폭력시위’로 규정했다    ⓒ 유튜브 오른소리  &nbsp; [검]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 스티브 유, 이번 소송 이기면 입국 가능할까?]]></title>
         <id>https://v.daum.net/v/20220210122710662</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20220205103004566"/>
         <updated>2022-02-09T10:23:46.111Z</updated>
         <content type="html"><![CDATA[3일 열린 대선후보 첫 4자 TV토론에서 가장 첨예하게 맞붙은 정책 주제는 ‘고고도미사일방어체계(THAADㆍ사드)를 수도권에 과연 배치할 필요가 있느냐’였다. 발단은 윤석열 국민의힘 후보의 공약이었다. 윤 후보는 “경북 성주에 배치된 사드 포대로는 수도권 방어가 제한된다. 사드를 추가 배치해 수도권 2,000만 명을 북한 미사일 위협으로부터 보호하겠다”고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]수도권에 미사일 쏠 때 고각발사? 개성에 사드?]]></title>
-        <id>https://v.daum.net/v/20220205070306636</id>
-        <link href="https://v.daum.net/v/20220205070306636"/>
-        <updated>2022-02-09T10:23:46.111Z</updated>
-        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷3일 열린 대선후보 첫 TV토론에선 5년 전 임시배치됐던 고고도미사일방어체계(THAAD)가 또 튀어나왔다. &nbsp; 국민의힘 윤석열 후보는 "북한에서 수도권을 (미사일로) 겨냥할 경우 고각발사를 하는 경우가 많기 때문에 당연히 수도권에 (사드가) 필요하다"며 '사드 추가 배치'를]]></content>
     </entry>
 </feed>
