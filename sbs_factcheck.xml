@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-02-10T03:22:32.894Z</updated>
+    <updated>2022-02-10T04:28:28.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티브 유, 이번 소송 이기면 입국 가능할까?]]></title>
+        <id>https://v.daum.net/v/20220210122710662</id>
+        <link href="https://v.daum.net/v/20220210122710662"/>
+        <updated>2022-02-10T04:27:14.304Z</updated>
+        <content type="html"><![CDATA[20년 동안 국내 입국이 거부됐던 스티브 유(한국명 유승준)의 '비자 발급' 소송 결론이 오는 14일 나옵니다. 유 씨는 2015년 재외동포비자(F-4) 발급을 거부하는 LA총영사관을 상대로 소송을 제기했고, 대법원은 "비자 발급 거부는 위법하다"고 판결했습니다. 하지만, LA총영사관은 비자 발급을 다시 거부했고, 2020년 유 씨는 또 소송을 냈습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['브룩스 발언'으로 맞붙은 이재명과 윤석열, 사실은?]]></title>
         <id>https://v.daum.net/v/20220204153303775</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220106173304808"/>
         <updated>2022-01-06T09:24:00.610Z</updated>
         <content type="html"><![CDATA[팩트체크 시작합니다. 교육부에 물어봤습니다. 답은 이렇습니다. 대입 정책은 4년 예고제다, 즉, 정책 바꾸려면 4년 전에 바꿔야 한다, 법이 그렇다, 사실은팀이 법조문 찾아보니까 정말 그렇더라고요? 아무튼, 앞으로 입시 개편은 2028년도에 예정돼 있다, 결국, 그 4년 전인 2024년에 결정된다, 지금으로서는 제대로 논의될 수가 없다는 겁니다. 그런데 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 확산세, 부스터샷의 부메랑?]]></title>
-        <id>https://v.daum.net/v/20220105151800571</id>
-        <link href="https://v.daum.net/v/20220105151800571"/>
-        <updated>2022-01-05T06:29:31.722Z</updated>
-        <content type="html"><![CDATA[세계적으로 부스터샷 확대 정책이 코로나 확산을 부추기고 있다는 주장이 나왔습니다. 다름 아닌 세계보건기구 WHO의 수장, 테워드로스 아드하놈 거브러여수스 사무총장입니다. 테워드로스 사무총장은 최근 화상 언론 브리핑에서, 전면적인 부스터삿은 이미 높은 접종률을 보이는 국가들로 백신이 공급되게 해, 코로나19 대유행 종식을 늦출 수 있다고 말했습니다. 실]]></content>
     </entry>
 </feed>
