@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-11T15:22:58.240Z</updated>
+    <updated>2022-02-11T16:29:18.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 후보가 원전 추가 건설한다고 했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220212010227296</id>
+        <link href="https://v.daum.net/v/20220212010227296"/>
+        <updated>2022-02-11T16:27:58.475Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 여야 대선 후보들이 11일 한국기자협회 주최로 열린 '2차 TV토론'에서 치열한 공방을 벌이는 과정에서 "사실과 다른 얘기를 한다" "없는 말 만들지 말라" 등의 발언도 쏟아졌다. 토론에서 나온 후보들의 발언 중 사실과 다르거나 진위를 놓고 이견이 있던 발언에 대해 사실 여부를 확인했다. 윤 후보가 원전 추가 설치한다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 동네 병의원 신속항원검사 5천 원 내면 된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220211080009289</id>
@@ -65,13 +72,6 @@
         <link href="https://v.daum.net/v/20220208101555684"/>
         <updated>2022-02-09T10:23:46.107Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 서울에서 집을 사기 위해서는 21년 동안 월급을 한 푼도 쓰지 않고 꼬박꼬박 모아야 한다는 분석이 나와 내 집 마련을 꿈꾸는 무주택자들에게 좌절감을 주고 있다. 전국경제인연합회 산하 한국경제연구원(한경연)은 지난 6일 보도자료를 통해 지난해 기준으로 서울에서 집을 사기 위해서는 21년 치 월급을 전부 모아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 사드로 수도권 노리는 북한 미사일 막을 수 있나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220205105454796</id>
-        <link href="https://v.daum.net/v/20220205105454796"/>
-        <updated>2022-02-09T10:23:46.108Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김용래 정빛나 기자 = 북한의 탄도미사일 위협과 맞물려 사드(THAAD·고고도미사일방어체계) 추가배치 문제가 대선 정국을 뜨겁게 달구고 있다. 쟁점은 사드를 추가 배치하면 수도권 방어에 얼마나 더 효과적인가로 모인다. 국민의힘 윤석열 후보가 북한이 중거리 탄도미사일(화성-12형)을 시험발사한 지난달 30일 페이스북에 "사드 추가배치"라고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 유, 이번 소송 이기면 입국 가능할까? (다음 뉴스 ─ SBS 사실은)]]></title>
