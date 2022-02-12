@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-12T10:22:45.519Z</updated>
+    <updated>2022-02-12T11:18:33.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 원전 추가? 전작권 환수? 어느 후보 말이 맞나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220212201204590</id>
+        <link href="https://v.daum.net/v/20220212201204590"/>
+        <updated>2022-02-12T11:17:13.102Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 다른 나라에서는 자궁경부암 예방 백신 안 맞는다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220212130030916</id>
@@ -67,11 +74,11 @@
         <updated>2022-02-09T10:23:46.103Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220209060301905</id>
-        <link href="https://v.daum.net/v/20220209060301905"/>
-        <updated>2022-02-08T21:18:32.157Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 7일 오후 서울 중구 대한상공회의소 국제회의장에서 열린 대한상의 초청 특별강연회에서 강연하고 있다.    ⓒ 국회사진취재단  &nbsp; [기사 보강] 9일 오전 9시 58분&nbsp; [검증대상] 국민의힘 "윤석열 특수활동비 검증했지만 문제 없었다" 김승원 더불어민주당(경기도 수원시갑) 의원이 지난 7일 "윤]]></content>
+        <title type="html"><![CDATA[원전 추가? 전작권 환수? 어느 후보 말이 맞나 (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20220212201204590</id>
+        <link href="https://v.daum.net/v/20220212201204590"/>
+        <updated>2022-02-12T11:17:25.057Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 유, 이번 소송 이기면 입국 가능할까? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -149,13 +156,6 @@
         <link href="https://v.daum.net/v/20220107113900438"/>
         <updated>2022-01-07T02:45:21.374Z</updated>
         <content type="html"><![CDATA[지난 5일 국회 윤리심사자문위원회가 국민의힘 박덕흠 의원과 무소속 윤미향·이상직 의원에 대한 의원직 제명을 국회 윤리특별위원회, 윤리특위에 건의하기로 했습니다. SBS 보도로 알려졌습니다.&nbsp; 박덕흠 의원은 가족 회사가 피감기관으로부터 수주계약을 맺을 수 있게 개입했다는 의혹을 받아 징계 요구를 받았습니다. 지난 2020년 국민의힘을 탈당했던 박 의원은 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능폐지론 갑툭튀? 교육부에 물어봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220106173304808</id>
-        <link href="https://v.daum.net/v/20220106173304808"/>
-        <updated>2022-01-06T09:23:49.954Z</updated>
-        <content type="html"><![CDATA[팩트체크 시작합니다. 교육부에 물어봤습니다. 답은 이렇습니다. 대입 정책은 4년 예고제다, 즉, 정책 바꾸려면 4년 전에 바꿔야 한다, 법이 그렇다, 사실은팀이 법조문 찾아보니까 정말 그렇더라고요? 아무튼, 앞으로 입시 개편은 2028년도에 예정돼 있다, 결국, 그 4년 전인 2024년에 결정된다, 지금으로서는 제대로 논의될 수가 없다는 겁니다. 그런데 정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신에 미생물이?..가짜뉴스 다시 기승 (다음 뉴스 ─ MBC 알고보니)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-12T10:22:45.491Z</updated>
+    <updated>2022-02-12T11:18:33.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 원전 추가? 전작권 환수? 어느 후보 말이 맞나]]></title>
+        <id>https://v.daum.net/v/20220212201204590</id>
+        <link href="https://v.daum.net/v/20220212201204590"/>
+        <updated>2022-02-12T11:17:13.102Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 다른 나라에서는 자궁경부암 예방 백신 안 맞는다?]]></title>
         <id>https://v.daum.net/v/20220212130030916</id>
@@ -66,12 +73,5 @@
         <id>https://v.daum.net/v/20220209101609800</id>
         <link href="https://v.daum.net/v/20220209101609800"/>
         <updated>2022-02-09T10:23:46.103Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220209060301905</id>
-        <link href="https://v.daum.net/v/20220209060301905"/>
-        <updated>2022-02-09T10:23:46.106Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 7일 오후 서울 중구 대한상공회의소 국제회의장에서 열린 대한상의 초청 특별강연회에서 강연하고 있다.    ⓒ 국회사진취재단  &nbsp; [기사 보강] 9일 오전 9시 58분&nbsp; [검증대상] 국민의힘 "윤석열 특수활동비 검증했지만 문제 없었다" 김승원 더불어민주당(경기도 수원시갑) 의원이 지난 7일 "윤]]></content>
     </entry>
 </feed>
