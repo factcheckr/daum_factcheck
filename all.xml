@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-15T08:26:48.638Z</updated>
+    <updated>2022-02-15T09:22:17.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 종이테이프는 종이 상자와 함께 버려도 재활용된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220215180906186</id>
+        <link href="https://v.daum.net/v/20220215180906186"/>
+        <updated>2022-02-15T09:20:55.305Z</updated>
+        <content type="html"><![CDATA[[사실확인] 종이테이프, 종이 상자와 함께 버려도 재활용된다? 택배 상자를 비롯한 종이 상자에 붙어 있는 포장용 비닐테이프는 반드시 떼고 버려야 한다는 점, 요즘 대부분 사람들이 알고 있습니다. 상자와 함께 버려졌을 때 재활용 과정이 원활하지 않기 때문이죠. 하지만, 비닐테이프를 떼고 버리는 과정이 사실 불편하긴 합니다. 그러다 보니 요즘은 종이테이프가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 개표 작업에 중국인 동원한다? 선거개입 '음모론' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220214202307940</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220210122710662"/>
         <updated>2022-02-10T04:27:00.741Z</updated>
         <content type="html"><![CDATA[딱 20년 전입니다. '바른 연예인'의 대명사였던 스티브 유(한국명 유승준)는 2002년 1월, 병역 의무를 이행하겠다는 약속을 깨고 미국 시민권을 받으면서 병역 회피 논란이 일었습니다. 결국, 정부는 바로 입국 금지 조치를 했고, 이 조치는 20년째 이어지고 있습니다. 시간이 흘러 2015년, 유 씨는 비자 발급을 거부했던 LA총영사관에 재외동포비자(F-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] IMF가 한국의 국가채무비율을 '85% 이내'로 권고했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220210080013185</id>
-        <link href="https://v.daum.net/v/20220210080013185"/>
-        <updated>2022-02-09T23:20:48.574Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 8일 세계일보와의 인터뷰에서 우리 정부가 감당 가능한 수준의 국채 비율을 묻자 "국제통화기금(IMF)이 85% 이내에서 적정하게 유지하라고 권고까지 했다"며 재정지출 확대의 필요성을 강조했다. 이 후보는 "IMF가 너무 답답해서 한 말"이라며 "재정 지출을 늘려야 한다. (국채 비율을) 85]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명과 윤석열 '국가 부채 해법' 따져 봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
