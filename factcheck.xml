@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-15T23:23:12.866Z</updated>
+    <updated>2022-02-16T01:22:27.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] '원자재값 급등'에 무역수지 두달째 적자..경상수지는 괜찮나?]]></title>
+        <id>https://v.daum.net/v/20220216050602807</id>
+        <link href="https://v.daum.net/v/20220216050602807"/>
+        <updated>2022-02-16T01:21:17.562Z</updated>
+        <content type="html"><![CDATA[코로나19에 우크라이나 사태까지 겹쳐 원자재값이 무섭게 치솟고 있다. 원자재를 주로 해외에서 조달하는 우리 경제는 수출을 많이 해도 비싼 수입 가격으로 무역수지 적자를 낼 우려가 커졌다. 실제 무역수지는 지난해 12월부터 두 달째 적자다. 다만 이보다 포괄 범위가 넓거나 세밀한 경상수지는 원자재 비상에도 아직 흑자 기조를 유지하고 있다. 어떤 차이가 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 종이테이프는 종이 상자와 함께 버려도 재활용된다?]]></title>
         <id>https://v.daum.net/v/20220215180906186</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220211061201042"/>
         <updated>2022-02-10T21:19:24.675Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;윤석열 국민의힘 대통령 후보는 지난 8일 당 유튜브 채널 '오른소리'에 공개된 ‘정권교체행동위원회’ 인터뷰에서 “제가 총장 때 마음에 안 드는 수사했다고 학살 인사를 해버리고 검찰청 앞에 수만 명씩 와서 폭력성 시위를 하고”라면서 검찰개혁 촛불집회를 ‘불법·폭력시위’로 규정했다    ⓒ 유튜브 오른소리  &nbsp; [검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 스티브 유, 이번 소송 이기면 입국 가능할까?]]></title>
-        <id>https://v.daum.net/v/20220210122710662</id>
-        <link href="https://v.daum.net/v/20220210122710662"/>
-        <updated>2022-02-10T04:27:00.741Z</updated>
-        <content type="html"><![CDATA[딱 20년 전입니다. '바른 연예인'의 대명사였던 스티브 유(한국명 유승준)는 2002년 1월, 병역 의무를 이행하겠다는 약속을 깨고 미국 시민권을 받으면서 병역 회피 논란이 일었습니다. 결국, 정부는 바로 입국 금지 조치를 했고, 이 조치는 20년째 이어지고 있습니다. 시간이 흘러 2015년, 유 씨는 비자 발급을 거부했던 LA총영사관에 재외동포비자(F-]]></content>
     </entry>
 </feed>
