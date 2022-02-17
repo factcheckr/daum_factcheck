@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-17T01:10:25.667Z</updated>
+    <updated>2022-02-17T02:31:18.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 대선 D-20, '20일의 데이터'를 분석했습니다]]></title>
+        <id>https://v.daum.net/v/20220217103900825</id>
+        <link href="https://v.daum.net/v/20220217103900825"/>
+        <updated>2022-02-17T02:29:52.028Z</updated>
+        <content type="html"><![CDATA[대선까지 20일 남았습니다. 그제 공식 선거 운동도 시작됐습니다. 후보들은 한 표라도 더 끌어모으기 위해 총력전을 펼치고 있습니다. 당내 경선부터 공식 선거 운동 기간까지, 반 년 넘게 대선 정국이 이어진 것을 고려하면 20일은 짧은 시간입니다. 이미 많은 것들이 결정된 것처럼 보일 수 있습니다. 하지만, 선거 공간에서 20일은 꽤 긴 시간이기도 합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나 자가진단키트에 독성 물질?.."인체 유해 수준 아냐"]]></title>
+        <id>https://v.daum.net/v/20220217102434222</id>
+        <link href="https://v.daum.net/v/20220217102434222"/>
+        <updated>2022-02-17T02:29:52.037Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 정부가 유치원생과 초·중·고등학생에게 등교전 코로나19 자가진단을 권고한 가운데 온라인 커뮤니티와 맘카페 등을 중심으로 자가진단키트의 위험성을 경고하는 글이 확산하고 있다. 자가진단키트 용액에 아지드화나트륨이 들어 있는데, 이 성분이 제초제나 살균제에 쓰이는 독성물질이라는 내용이다. 나아가 '가습기 살균제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 중대 선거범죄, 공식선거운동 기간에만 처벌?]]></title>
         <id>https://v.daum.net/v/20220217050106279</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220212130030916"/>
         <updated>2022-02-12T04:27:22.764Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 필수예방접종인 자궁경부암 예방 백신의 접종 대상을 확대하기 위한 법률 개정 작업이 정치권에서 시작된 가운데 온라인에서는 반대하는 기류가 형성되고 있다. 국민의힘 한무경 의원이 대표 발의한 '감염병의 예방 및 관리에 관한 법률 개정안'은 현재 '12세 여자'로 돼 있는 HPV(인체유두종바이러스) 감염증 접종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 주가조작 관여 의혹..계좌 깠다 vs 안 깠다[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220212050309025</id>
-        <link href="https://v.daum.net/v/20220212050309025"/>
-        <updated>2022-02-11T20:22:00.884Z</updated>
-        <content type="html"><![CDATA[2차TV 대선후보 토론 뜯어보니없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷"질문하면 자꾸 엉뚱한 소리로 도망가는 분들도 있고 하니까…". 국민의힘 윤석열 대통령 후보가 11일 2차 TV토론회를 마치고 나와 말한 소감입니다. 2차 토론 역시 후보들 간 주장이 부딪치면서 '누구 말이 맞나' 헷갈리는 분이 계실텐데요, CBS노컷뉴스가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 후보가 원전 추가 건설한다고 했다?]]></title>
-        <id>https://v.daum.net/v/20220212010227296</id>
-        <link href="https://v.daum.net/v/20220212010227296"/>
-        <updated>2022-02-11T16:27:58.475Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 여야 대선 후보들이 11일 한국기자협회 주최로 열린 '2차 TV토론'에서 치열한 공방을 벌이는 과정에서 "사실과 다른 얘기를 한다" "없는 말 만들지 말라" 등의 발언도 쏟아졌다. 토론에서 나온 후보들의 발언 중 사실과 다르거나 진위를 놓고 이견이 있던 발언에 대해 사실 여부를 확인했다. 윤 후보가 원전 추가 설치한다고]]></content>
     </entry>
 </feed>
