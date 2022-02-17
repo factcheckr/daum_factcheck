@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T08:26:08.685Z</updated>
+    <updated>2022-02-17T09:24:49.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 들쑥날쑥 여론조사, 평균화(化) 해봤더니.. (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220217173306759</id>
+        <link href="https://v.daum.net/v/20220217173306759"/>
+        <updated>2022-02-17T09:23:32.219Z</updated>
+        <content type="html"><![CDATA[늘 새로운 역사를 쓰고 있는 SBS 선거방송! 일각에서는 SBS 선거팀 도핑테스트가 필요하다는 말까지 나오고 있다는데… 이걸로 만족할 수 없습니다. 이번에는 여론조사로 한 발 더 나아갑니다. 여론조사 못 믿겠다는 분들 많습니다. 수치도 제각각인데다가 의뢰 기관이나 조사 기관의 정치적 편향성도 늘 도마 위에 오릅니다. SBS 선거팀은 이런 문제를 해결하기 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 대선 D-20, '20일의 데이터'를 분석했습니다 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220217103900825</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220212201204590"/>
         <updated>2022-02-12T11:17:13.102Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 다른 나라에서는 자궁경부암 예방 백신 안 맞는다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220212130030916</id>
-        <link href="https://v.daum.net/v/20220212130030916"/>
-        <updated>2022-02-12T04:27:22.764Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 필수예방접종인 자궁경부암 예방 백신의 접종 대상을 확대하기 위한 법률 개정 작업이 정치권에서 시작된 가운데 온라인에서는 반대하는 기류가 형성되고 있다. 국민의힘 한무경 의원이 대표 발의한 '감염병의 예방 및 관리에 관한 법률 개정안'은 현재 '12세 여자'로 돼 있는 HPV(인체유두종바이러스) 감염증 접종]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 D-20, '20일의 데이터'를 분석했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
