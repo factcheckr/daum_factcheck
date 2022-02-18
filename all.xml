@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-18T07:23:17.228Z</updated>
+    <updated>2022-02-18T08:26:59.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] '청탁자' 사라진 채용비리..석연찮은 '대법 판결'의 이유 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220218160603828</id>
+        <link href="https://v.daum.net/v/20220218160603828"/>
+        <updated>2022-02-18T08:25:34.635Z</updated>
+        <content type="html"><![CDATA[대법원1부(주심 노태악 대법관)는 지난 17일 ‘강원랜드 채용비리’ 의혹 핵심 인물인 권성동 국민의힘 의원과 최흥집 전 강원랜드 사장에게 서로 다른 판단을 내놓았다. 채용 청탁자로 지목된 권 의원은 무죄를, 권 의원실 비서관 등을 채용하도록 지시한 최 전 사장에겐 징역 3년형을 확정한 것이다. 두 사람의 하급심 판결문에는 권 의원 밑에서 비서관(5급)으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["월성 1호기 두께는".. 윤석열 '원전 외벽' 발언, 사실일까? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220218150137455</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220217050106279"/>
         <updated>2022-02-16T20:21:44.301Z</updated>
         <content type="html"><![CDATA[[앵커] 20대 대선, 이제 20일 앞으로 다가왔습니다. 그제(15일)부턴 공식 선거운동이 시작됐는데요, 이와 맞물려 인터넷상에는 이제부터 선거 범죄를 다루는 법이 적용되니 말조심해야 한다는 글이 퍼지고 있습니다. 맞는 말일까요? 박희재 기자가 따져봤습니다. [기자] 공식 선거운동 기간이 개시된 지난 15일부터 유명 온라인 커뮤니티에 올라오고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 배달앱 요청사항에 '○번 지지해 주세요' 적으면 선거법 위반? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220216153949656</id>
-        <link href="https://v.daum.net/v/20220216153949656"/>
-        <updated>2022-02-16T07:19:28.646Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선 공식 선거운동이 15일 시작된 가운데 인터넷 커뮤니티에서는 더불어민주당 이재명 대선 후보의 지지자로 추정되는 이들이 남긴 배달 애플리케이션(앱) 영수증 사진이 화제가 됐다. 영수증 사진을 보면 배달 앱으로 음식을 주문하면서 주문 요청 사항에 "소상공인을 위해 노력하는 기호 1번 이재명 후보로 투표하고 같이 행복]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 D-20, '20일의 데이터'를 분석했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
