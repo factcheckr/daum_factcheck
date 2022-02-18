@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-18T05:20:36.833Z</updated>
+    <updated>2022-02-18T06:28:21.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["월성 1호기 두께는".. 윤석열 '원전 외벽' 발언, 사실일까? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220218150137455</id>
+        <link href="https://v.daum.net/v/20220218150137455"/>
+        <updated>2022-02-18T06:27:00.239Z</updated>
+        <content type="html"><![CDATA[국민의힘 윤석열 대선 후보. 연합뉴스  “박정희 정부에서 만든 월성 1호기 외벽이 스리마일보다 두 배 두꺼운데, 월성이 50cm라고 하면 스리마일은 1m다” 국민의힘 윤석열 대선후보는 지난 7일 한국일보와의 인터뷰에서 원자력 발전소 안전 문제를 설명하던 중 현재 가동중지되어 있는 월성 1호기 외벽이 지난 1979년 발생한&nbsp;미국 스리마일(TMI) 원전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220218092106783</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220216153949656"/>
         <updated>2022-02-16T07:19:28.646Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선 공식 선거운동이 15일 시작된 가운데 인터넷 커뮤니티에서는 더불어민주당 이재명 대선 후보의 지지자로 추정되는 이들이 남긴 배달 애플리케이션(앱) 영수증 사진이 화제가 됐다. 영수증 사진을 보면 배달 앱으로 음식을 주문하면서 주문 요청 사항에 "소상공인을 위해 노력하는 기호 1번 이재명 후보로 투표하고 같이 행복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] '원자재값 급등'에 무역수지 두달째 적자..경상수지는 괜찮나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220216050602807</id>
-        <link href="https://v.daum.net/v/20220216050602807"/>
-        <updated>2022-02-16T01:21:17.562Z</updated>
-        <content type="html"><![CDATA[코로나19에 우크라이나 사태까지 겹쳐 원자재값이 무섭게 치솟고 있다. 원자재를 주로 해외에서 조달하는 우리 경제는 수출을 많이 해도 비싼 수입 가격으로 무역수지 적자를 낼 우려가 커졌다. 실제 무역수지는 지난해 12월부터 두 달째 적자다. 다만 이보다 포괄 범위가 넓거나 세밀한 경상수지는 원자재 비상에도 아직 흑자 기조를 유지하고 있다. 어떤 차이가 있는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 D-20, '20일의 데이터'를 분석했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
