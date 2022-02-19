@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-18T23:22:29.111Z</updated>
+    <updated>2022-02-19T01:18:11.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220219100902649</id>
+        <link href="https://v.daum.net/v/20220219100902649"/>
+        <updated>2022-02-19T01:16:58.911Z</updated>
+        <content type="html"><![CDATA[[김시연, 고정미 기자] ⓒ 고정미  &nbsp; 도이치모터스 주가 조작 의혹 사건은 권오수 전 도이치모터스 회장 등이 주가 세력과 공모해 지난 2009년 12월부터 2012년 12월까지 3년 동안 회사 주가를 인위적으로 끌어올린 혐의로 구속돼 검찰 수사 중인 사건이다. 윤석열 국민의힘 대통령 후보 배우자인 김건희씨도 시세조정 과정에 주식과 자금을 댔다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 부활한 '택시 합승', 기사 마음대로 승객 태운다?]]></title>
+        <id>https://v.daum.net/v/20220219090021874</id>
+        <link href="https://v.daum.net/v/20220219090021874"/>
+        <updated>2022-02-19T01:16:58.914Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 장가람 기자] 지난달 한 온라인 커뮤니티에 황당한 일을 겪었다는 글이 게재됐다. 택시를 타고 목적지를 가던 중 택시 기사가 일방적으로 잠시 정차해 목적지가 맞는 승객을 추가로 태워 얼떨결에 합승했다는 내용이다. 또 다른 이용자도 해당 글 댓글로 길에서 택시를 잡는 중 빈차가 아닌 택시가 서서 타라 했다고 동조했다. 지난 40년간 승객 안전 확]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노동이사제 도입시 공공기관 개혁 타격받는다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20220219073300122</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220217173306759"/>
         <updated>2022-02-17T09:23:32.219Z</updated>
         <content type="html"><![CDATA[늘 새로운 역사를 쓰고 있는 SBS 선거방송! 일각에서는 SBS 선거팀 도핑테스트가 필요하다는 말까지 나오고 있다는데… 이걸로 만족할 수 없습니다. 이번에는 여론조사로 한 발 더 나아갑니다. 여론조사 못 믿겠다는 분들 많습니다. 수치도 제각각인데다가 의뢰 기관이나 조사 기관의 정치적 편향성도 늘 도마 위에 오릅니다. SBS 선거팀은 이런 문제를 해결하기 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 대선 D-20, '20일의 데이터'를 분석했습니다]]></title>
-        <id>https://v.daum.net/v/20220217103900825</id>
-        <link href="https://v.daum.net/v/20220217103900825"/>
-        <updated>2022-02-17T02:29:52.028Z</updated>
-        <content type="html"><![CDATA[대선까지 20일 남았습니다. 그제 공식 선거 운동도 시작됐습니다. 후보들은 한 표라도 더 끌어모으기 위해 총력전을 펼치고 있습니다. 당내 경선부터 공식 선거 운동 기간까지, 반 년 넘게 대선 정국이 이어진 것을 고려하면 20일은 짧은 시간입니다. 이미 많은 것들이 결정된 것처럼 보일 수 있습니다. 하지만, 선거 공간에서 20일은 꽤 긴 시간이기도 합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 자가진단키트에 독성 물질?.."인체 유해 수준 아냐"]]></title>
-        <id>https://v.daum.net/v/20220217102434222</id>
-        <link href="https://v.daum.net/v/20220217102434222"/>
-        <updated>2022-02-17T02:29:52.037Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 정부가 유치원생과 초·중·고등학생에게 등교전 코로나19 자가진단을 권고한 가운데 온라인 커뮤니티와 맘카페 등을 중심으로 자가진단키트의 위험성을 경고하는 글이 확산하고 있다. 자가진단키트 용액에 아지드화나트륨이 들어 있는데, 이 성분이 제초제나 살균제에 쓰이는 독성물질이라는 내용이다. 나아가 '가습기 살균제]]></content>
     </entry>
 </feed>
