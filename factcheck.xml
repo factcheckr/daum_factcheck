@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-20T07:20:30.575Z</updated>
+    <updated>2022-02-20T08:26:00.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4대강 복원 때문에 물이용 불편?..윤석열 '4대강 재자연화 폐기' 논거 확인해보니[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20220220162941647</id>
+        <link href="https://v.daum.net/v/20220220162941647"/>
+        <updated>2022-02-20T08:24:30.192Z</updated>
+        <content type="html"><![CDATA[[경향신문] 윤석열 국민의힘 대선 후보가 ‘4대강 사업’을 다시 수면 위로 끌어올렸다. 윤 후보는 한국메니페스토실천본부에 제출한 정책 답변서에서 문재인 정부의 100대 국정과제 중 폐기해야 할 과제로 4대강 재자연화(복원) 사업을 지목했다. “친수관리와 이용 측면에서 비효율적”이라는 이유를 들었다. 지난 18일에는 낙동강이 흐르는 경북 상주를 찾아 “이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220219100902649</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220217203005999"/>
         <updated>2022-02-17T12:33:59.714Z</updated>
         <content type="html"><![CDATA[[앵커] 교육부가 초, 중, 고등학생들에게 코로나 자가검사를 적극적으로 권고하면서 일부에서 항의가 잇따르고 있습니다. 자가검사키트에 '만 18세 미만은 사용 금지 권고'라고 적혀 있는데, 왜 하라고 하냐는 겁니다. 팩트체크로 알아보겠습니다. 이지은 기자, 실제로 이런 문구가 적혀있습니까? [기자] 그렇습니다. 지난해 4월 처음 자가검사키트가 나왔을 때 이런]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 들쑥날쑥 여론조사, 평균화(化) 해봤더니..]]></title>
-        <id>https://v.daum.net/v/20220217173306759</id>
-        <link href="https://v.daum.net/v/20220217173306759"/>
-        <updated>2022-02-17T09:23:32.219Z</updated>
-        <content type="html"><![CDATA[늘 새로운 역사를 쓰고 있는 SBS 선거방송! 일각에서는 SBS 선거팀 도핑테스트가 필요하다는 말까지 나오고 있다는데… 이걸로 만족할 수 없습니다. 이번에는 여론조사로 한 발 더 나아갑니다. 여론조사 못 믿겠다는 분들 많습니다. 수치도 제각각인데다가 의뢰 기관이나 조사 기관의 정치적 편향성도 늘 도마 위에 오릅니다. SBS 선거팀은 이런 문제를 해결하기 위]]></content>
     </entry>
 </feed>
