@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-21T11:19:58.157Z</updated>
+    <updated>2022-02-21T12:36:40.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 대중교통 탑승하는 '반려동물', 승차 거부 가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220221205619667</id>
+        <link href="https://v.daum.net/v/20220221205619667"/>
+        <updated>2022-02-21T12:35:36.451Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 반려동물을 데리고 탈 때 택시나 버스기사가 안 된다고 하면 승차 거부에 해당할까요? 실제 반려동물은 짐칸에 둬야 한다는 이유로 동반 탑승을 거부당한 승객들이 종종 있는데요. 강재묵 기자가 사실확인에서 알아봤습니다. 【 기자 】 청와대 국민청원 게시판에 올라온 한 청원 글입니다. '케이지'로 불리는 개별 이동장에 반려견을 넣]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 전운 감도는 우크라이나..혼란 부추기는 가짜뉴스 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220221103300181</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220218050728715"/>
         <updated>2022-02-18T01:21:20.603Z</updated>
         <content type="html"><![CDATA[검경 수사권 조정 시행 1년이 지났다. 고소·고발인이 경찰 수사를 못 믿겠다며 검찰에 ‘이의신청’한 사건 10건 중 3건이 다시 경찰로 돌아간 것으로 나타났다. 이의신청 사건을 경찰에서 다시 수사할 경우 시민의 불복수단은 무력화하고 수사기관에 대한 신뢰도 역시 떨어질 수 있다. 17일 대검찰청 통계를 보면, 지난 1년 동안 전국 검찰청은 고소·고발인이 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹, 300분 'NO마스크' 연설..과태료 대상일까?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220218050307619</id>
-        <link href="https://v.daum.net/v/20220218050307619"/>
-        <updated>2022-02-17T20:20:31.844Z</updated>
-        <content type="html"><![CDATA[[대선검증]없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷 "왜 자꾸 마스크를 벗어서 (코로나19) 감염 위험을 높이는 것이냐" 더불어민주당 이재명 대통령 후보가 지난 16일 국민의힘 윤석열 대선 후보를 향해 내놓은 비판입니다. 공식 선거운동이 시작된 지난 15일부터 윤 후보는 마스크를 벗고 연설을 하고 있습니다. 반면 이재명 후보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전운 감도는 우크라이나..혼란 부추기는 가짜뉴스 (다음 뉴스 ─ SBS 사실은)]]></title>
