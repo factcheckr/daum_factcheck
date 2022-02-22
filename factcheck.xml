@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-21T23:22:48.511Z</updated>
+    <updated>2022-02-22T01:16:50.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 심상정 "지역화폐, 소상공인 지원 효과 '0원'"?]]></title>
+        <id>https://v.daum.net/v/20220222090019639</id>
+        <link href="https://v.daum.net/v/20220222090019639"/>
+        <updated>2022-02-22T01:15:32.353Z</updated>
+        <content type="html"><![CDATA[■ 발언 : "지역화폐, 소상공인 지원 '0원'" "지역 화폐로 하게 되면, 거기서 음식값 빼고 마진(이윤)만 소상공인한테 가는 거예요." "그렇기 때문에 그것은 소상공인 지원하고는 전혀 다른 것이고, 그것은 '0원'이다." 심상정 정의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 TV법정 토론회(경제 분야)에서 한 말입니다. 더불어민주당 이재명]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 안철수 "공정위 비정규직 10명이 '기술 탈취' 감독"]]></title>
+        <id>https://v.daum.net/v/20220222090016636</id>
+        <link href="https://v.daum.net/v/20220222090016636"/>
+        <updated>2022-02-22T01:15:32.356Z</updated>
+        <content type="html"><![CDATA[■ 발언 : "중소기업 기술 탈취, 공정위 비정규직 10명이 담당" "대기업의 중소기업 기술 탈취에 대해서 어떤 부서가 이 문제를 다루고 있는지 아십니까?" "문제는 (공정거래위원회의) 하나의 팀으로 10명의 비정규직이 '기술 운용 감시팀'으로 되어 있는 겁니다" 안철수 국민의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 법정 TV 토론회(경제 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 윤석열 "대만, 주식 양도세에 장관 경질"]]></title>
         <id>https://v.daum.net/v/20220222060224976</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220219100902649"/>
         <updated>2022-02-19T01:16:58.911Z</updated>
         <content type="html"><![CDATA[[김시연, 고정미 기자] ⓒ 고정미  &nbsp; 도이치모터스 주가 조작 의혹 사건은 권오수 전 도이치모터스 회장 등이 주가 세력과 공모해 지난 2009년 12월부터 2012년 12월까지 3년 동안 회사 주가를 인위적으로 끌어올린 혐의로 구속돼 검찰 수사 중인 사건이다. 윤석열 국민의힘 대통령 후보 배우자인 김건희씨도 시세조정 과정에 주식과 자금을 댔다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 부활한 '택시 합승', 기사 마음대로 승객 태운다?]]></title>
-        <id>https://v.daum.net/v/20220219090021874</id>
-        <link href="https://v.daum.net/v/20220219090021874"/>
-        <updated>2022-02-19T01:16:58.914Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 장가람 기자] 지난달 한 온라인 커뮤니티에 황당한 일을 겪었다는 글이 게재됐다. 택시를 타고 목적지를 가던 중 택시 기사가 일방적으로 잠시 정차해 목적지가 맞는 승객을 추가로 태워 얼떨결에 합승했다는 내용이다. 또 다른 이용자도 해당 글 댓글로 길에서 택시를 잡는 중 빈차가 아닌 택시가 서서 타라 했다고 동조했다. 지난 40년간 승객 안전 확]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동이사제 도입시 공공기관 개혁 타격받는다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220219073300122</id>
-        <link href="https://v.daum.net/v/20220219073300122"/>
-        <updated>2022-02-18T23:21:06.887Z</updated>
-        <content type="html"><![CDATA[핵심요약安 "독일과 달라…집행이사회에 노동이사? 처음" OECD 국가 21개 국가 법률로 노동이사제 보장 독일과 다르지만…스페인·그리스 등 같은 제도 한국노동연구원 "안건 통과 다수결로 결정돼" 조선대 교수 "오히려 긍정적인 효과"국민의당 안철수 대선 후보가 공공기관 노동이사제 도입을 두고 "공기업(공공기관)의 개혁이 심각하게 타격을 받을 수 있다"며 연이]]></content>
     </entry>
 </feed>
