@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T04:29:27.683Z</updated>
+    <updated>2022-02-22T05:20:59.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리도 기축통화국에 포함될 가능성이 높다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220222141829199</id>
+        <link href="https://v.daum.net/v/20220222141829199"/>
+        <updated>2022-02-22T05:19:35.543Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 21일 TV 토론에서 "우리도 기축통화국에 포함될 가능성이 높다"고 발언한 것을 두고 의견이 분분하다. 이 후보는 국민의당 안철수 후보가 "기축통화국과 비기축통화국의 차이를 아느냐"고 묻자 이같이 답했다. 이 후보는 앞서 국가 부채 비율을 놓고 국민의힘 윤석열 후보와 설전을 벌이는 과정에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열이 언급한 '이재명 게이트'의 진실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220222120615906</id>
@@ -40,7 +47,7 @@
         <content type="html"><![CDATA[■ 발언 : "한국, 곧 기축통화국 될 가능성 높아" "우리가 곧 '기축통화국'으로 될 가능성이 매우 높다" "우리도 '기축통화국'에 포함될 가능성이 매우 크다고 할 정도로 경제가 튼튼하다" 이재명 더불어민주당 대선 후보가 21일 중앙선거관리위원회 주관 첫 법정 TV 토론회에서 한 말입니다. 이 후보는 적정 국채 발행 규모를 논의하던 중 '기축통화국과]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선후보 토론에도 나온 '이재명 게이트'..녹취록에 있나?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <title type="html"><![CDATA[[영상]대선후보 토론에도 나온 '이재명 게이트'..녹취록에 있나?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220222055101737</id>
         <link href="https://v.daum.net/v/20220222055101737"/>
         <updated>2022-02-21T21:19:08.222Z</updated>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220221103300181"/>
         <updated>2022-02-21T02:32:58.220Z</updated>
         <content type="html"><![CDATA[우크라이나에 전운이 짙어지고 있습니다. 냉전 종식 30년, 유럽은 희미해졌던 전쟁의 기억을 상기하며 동요하고 있습니다. 이제 전쟁은 눈 앞에서만 벌어지지 않습니다. SNS시대, 이미 온라인 공간에서는 '정보 교란'을 통해 또 다른 전쟁이 벌어지고 있습니다. 혼란을 부추기는 허위 정보가 그 중심에 있습니다. SNS를 떠도는 우크라이나 허위 정보들을 짚어봤습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4대강 복원 때문에 물이용 불편?..윤석열 '4대강 재자연화 폐기' 논거 확인해보니[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220220162941647</id>
-        <link href="https://v.daum.net/v/20220220162941647"/>
-        <updated>2022-02-20T08:24:30.192Z</updated>
-        <content type="html"><![CDATA[[경향신문] 윤석열 국민의힘 대선 후보가 ‘4대강 사업’을 다시 수면 위로 끌어올렸다. 윤 후보는 한국메니페스토실천본부에 제출한 정책 답변서에서 문재인 정부의 100대 국정과제 중 폐기해야 할 과제로 4대강 재자연화(복원) 사업을 지목했다. “친수관리와 이용 측면에서 비효율적”이라는 이유를 들었다. 지난 18일에는 낙동강이 흐르는 경북 상주를 찾아 “이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전운 감도는 우크라이나..혼란 부추기는 가짜뉴스 (다음 뉴스 ─ SBS 사실은)]]></title>
