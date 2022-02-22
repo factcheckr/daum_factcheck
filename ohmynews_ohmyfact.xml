@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-02-22T20:24:01.084Z</updated>
+    <updated>2022-02-22T21:20:31.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20220223060300798</id>
+        <link href="https://v.daum.net/v/20220223060300798"/>
+        <updated>2022-02-22T21:20:21.238Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;더불어민주당 이재명 대선 후보와 국민의힘 윤석열 대선 후보가 21일 오후 서울 마포구 상암동 MBC 공개홀에서 열린 중앙선거방송토론위원회 주관 제20대 대통령 선거 후보자 초청 토론회에서 인사하고 있다.    ⓒ 남소연  &nbsp; [검증대상] 윤석열 "김만배 등 3억 5천만 원 투자해 1조 원 수익" &nbsp;윤석열&nbsp;: "대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크]]></title>
         <id>https://v.daum.net/v/20220219100902649</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220114200001192"/>
         <updated>2022-01-14T11:20:33.366Z</updated>
         <content type="html"><![CDATA[[박수림 기자] ▲ &nbsp;국민의힘 최춘식 전 경기도당위원장이 지난해 4월 19일 오전 서울 여의도 국회에서 열린 시·도당위원장 회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 국민의힘 최춘식 의원 "독감 사망자 수가 코로나19 사망자 수보다 더 많다" "우리나라 독감 사망자 수가 코로나19 사망자 수보다 더 많은 현실에서, 과거 독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓']]></title>
-        <id>https://v.daum.net/v/20220114123301252</id>
-        <link href="https://v.daum.net/v/20220114123301252"/>
-        <updated>2022-01-14T04:32:06.267Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ 무너져내린 아파트&nbsp;광주 서구 화정현대아이파크 주상복합아파트 구조물 붕괴 이틀째를 맞은 12일 당국은 안전진단을 거쳐 실종자 수색 재개를 결정하기로 했다. 신축 공사 중인 이 아파트의 1개 동 옥상에서 전날 콘크리트 타설 중 28-34층 외벽과 내부 구조물이 붕괴됐다.    ⓒ 연합뉴스  "주52시간이 광주 참사 불렀다"]]></content>
     </entry>
 </feed>
