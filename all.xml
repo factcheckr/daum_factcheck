@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T02:34:43.792Z</updated>
+    <updated>2022-02-22T03:24:43.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열이 언급한 '이재명 게이트'의 진실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220222120615906</id>
+        <link href="https://v.daum.net/v/20220222120615906"/>
+        <updated>2022-02-22T03:23:23.887Z</updated>
+        <content type="html"><![CDATA[21일 열린 중앙선거관리위원회 주관 첫 대선 티브이(TV) 토론회에서 이재명 더불어민주당 대선 후보와 윤석열 국민의힘 대선 후보는 ‘화천대유 녹취록’에 “이재명 게이트”라는 말이 등장하는지를 놓고 진실게임을 벌였다. 이날 토론회에서 이 후보가 화천대유 대주주 김만배씨의 녹취록에 나온 “내가 가진 카드면 윤석열 죽는다”는 대목으로 공세를 펼치자, 윤 후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 심상정 "지역화폐, 소상공인 지원 효과 '0원'"? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220222090019639</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220220162941647"/>
         <updated>2022-02-20T08:24:30.192Z</updated>
         <content type="html"><![CDATA[[경향신문] 윤석열 국민의힘 대선 후보가 ‘4대강 사업’을 다시 수면 위로 끌어올렸다. 윤 후보는 한국메니페스토실천본부에 제출한 정책 답변서에서 문재인 정부의 100대 국정과제 중 폐기해야 할 과제로 4대강 재자연화(복원) 사업을 지목했다. “친수관리와 이용 측면에서 비효율적”이라는 이유를 들었다. 지난 18일에는 낙동강이 흐르는 경북 상주를 찾아 “이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220219100902649</id>
-        <link href="https://v.daum.net/v/20220219100902649"/>
-        <updated>2022-02-19T01:16:58.911Z</updated>
-        <content type="html"><![CDATA[[김시연, 고정미 기자] ⓒ 고정미  &nbsp; 도이치모터스 주가 조작 의혹 사건은 권오수 전 도이치모터스 회장 등이 주가 세력과 공모해 지난 2009년 12월부터 2012년 12월까지 3년 동안 회사 주가를 인위적으로 끌어올린 혐의로 구속돼 검찰 수사 중인 사건이다. 윤석열 국민의힘 대통령 후보 배우자인 김건희씨도 시세조정 과정에 주식과 자금을 댔다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전운 감도는 우크라이나..혼란 부추기는 가짜뉴스 (다음 뉴스 ─ SBS 사실은)]]></title>
