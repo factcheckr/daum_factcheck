@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-23T05:20:37.364Z</updated>
+    <updated>2022-02-23T06:27:52.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 다이어트·흡연이 탈모를 일으킨다?]]></title>
+        <id>https://v.daum.net/v/20220223142212976</id>
+        <link href="https://v.daum.net/v/20220223142212976"/>
+        <updated>2022-02-23T06:26:36.546Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 탈모를 둘러싼 오해가 많다. 지나친 다이어트와 흡연이 탈모를 일으킨다는 이야기가 있다. 탈모의 직접적 원인은 아니다. 또 ‘한 방향 가르마만 타면 탈모 생긴다’, ‘두피마사지기로 머리에 자극을 주면 좋다’, ‘기능성 샴푸와 고가의 샴푸가 도움이 된다’는 속설도 대체로 거짓이다. 안드로겐성 탈모(남성형 탈모·여성형 탈모)는 유전적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220223060300798</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;더불어민주당 이재명 대선 후보와 국민의힘 윤석열 대선 후보가 21일 오후 서울 마포구 상암동 MBC 공개홀에서 열린 중앙선거방송토론위원회 주관 제20대 대통령 선거 후보자 초청 토론회에서 인사하고 있다.    ⓒ 남소연  &nbsp; [검증대상] 윤석열 "김만배 등 3억 5천만 원 투자해 1조 원 수익" &nbsp;윤석열&nbsp;: "대]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스AS] 비동의 간음죄, '국힘 사전' 주장이 억지인 이유]]></title>
+        <title type="html"><![CDATA[[뉴스AS] 비동의 간음죄, '국힘 사전'이 억지인 이유]]></title>
         <id>https://v.daum.net/v/20220223050615979</id>
         <link href="https://v.daum.net/v/20220223050615979"/>
         <updated>2022-02-23T01:24:04.971Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222090016636"/>
         <updated>2022-02-22T01:15:32.356Z</updated>
         <content type="html"><![CDATA[■ 발언 : "중소기업 기술 탈취, 공정위 비정규직 10명이 담당" "대기업의 중소기업 기술 탈취에 대해서 어떤 부서가 이 문제를 다루고 있는지 아십니까?" "문제는 (공정거래위원회의) 하나의 팀으로 10명의 비정규직이 '기술 운용 감시팀'으로 되어 있는 겁니다" 안철수 국민의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 법정 TV 토론회(경제 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 윤석열 "대만, 주식 양도세에 장관 경질"]]></title>
-        <id>https://v.daum.net/v/20220222060224976</id>
-        <link href="https://v.daum.net/v/20220222060224976"/>
-        <updated>2022-02-21T21:19:08.219Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "주식 양도세 제안, 대만 경제장관 경질" "주식 양도세는 대만에서 실시했다가 주가 폭락이 돼가지고, 그걸 제안한 경제 장관이 경질이 됐습니다." "이거(주식 양도세)는 많은 개인 투자자, 개미 투자자들에게 아주 치명타를 주는 것이기 때문에..." 윤석열 국민의힘 대선 후보가 21일 중앙선거관리위원회 주관 첫 법정 TV 토론(경제 분야)에서]]></content>
     </entry>
 </feed>
