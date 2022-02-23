@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-23T19:18:51.288Z</updated>
+    <updated>2022-02-23T20:23:57.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 "고용 회복".. 일자리 수는 증가, 야당 "점점 악화".. 근로 시간은 감소 [팩트 체크]]]></title>
+        <id>https://v.daum.net/v/20220224050725861</id>
+        <link href="https://v.daum.net/v/20220224050725861"/>
+        <updated>2022-02-23T20:22:38.282Z</updated>
+        <content type="html"><![CDATA[‘취업자 수’를 놓고 정부와 정치권, 학계에서 갑론을박이 벌어지고 있다. 정부는 “취업자 수가 코로나19 이전 수준을 회복했다”며 자화자찬하고 있고, 야당과 학계는 “고용의 질이 갈수록 악화되고 있다”며 우려를 표하고 나섰다. 국내 고용상황이 정말 정부 말대로 좋아진 것일까, 아니면 야당과 학계 말대로 나빠진 것일까. ● 2727만명 취업… 코로나 이전 회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 다이어트·흡연이 탈모를 일으킨다?]]></title>
         <id>https://v.daum.net/v/20220223142212976</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222090019639"/>
         <updated>2022-02-22T01:15:32.353Z</updated>
         <content type="html"><![CDATA[■ 발언 : "지역화폐, 소상공인 지원 '0원'" "지역 화폐로 하게 되면, 거기서 음식값 빼고 마진(이윤)만 소상공인한테 가는 거예요." "그렇기 때문에 그것은 소상공인 지원하고는 전혀 다른 것이고, 그것은 '0원'이다." 심상정 정의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 TV법정 토론회(경제 분야)에서 한 말입니다. 더불어민주당 이재명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 안철수 "공정위 비정규직 10명이 '기술 탈취' 감독"]]></title>
-        <id>https://v.daum.net/v/20220222090016636</id>
-        <link href="https://v.daum.net/v/20220222090016636"/>
-        <updated>2022-02-22T01:15:32.356Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "중소기업 기술 탈취, 공정위 비정규직 10명이 담당" "대기업의 중소기업 기술 탈취에 대해서 어떤 부서가 이 문제를 다루고 있는지 아십니까?" "문제는 (공정거래위원회의) 하나의 팀으로 10명의 비정규직이 '기술 운용 감시팀'으로 되어 있는 겁니다" 안철수 국민의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 법정 TV 토론회(경제 분]]></content>
     </entry>
 </feed>
