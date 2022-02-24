@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-24T11:19:44.845Z</updated>
+    <updated>2022-02-24T12:37:06.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니]  '소가죽', '패륜아'.. 대선 현수막에 써도 된다?]]></title>
+        <id>https://v.daum.net/v/20220224204314790</id>
+        <link href="https://v.daum.net/v/20220224204314790"/>
+        <updated>2022-02-24T12:35:49.920Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 대통령 선거 운동이 본격화되면서 최근 이런 현수막들이 등장했습니다. 사진과 함께 "이런 영부인' 괜찮습니까" 또 "재명마눌 황제갑질했다" "검사 정부 반대 한다", "이재명 경기지사 대장동 게이트" 경쟁 후보와 배우자를 노골적으로 비난하거나 조롱하는 현수막인데요. 이런 표현이 선거법상 허용되는지부터 '가능하다고 해도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다]]></title>
         <id>https://v.daum.net/v/20220224173308509</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222165606312"/>
         <updated>2022-02-22T08:25:56.495Z</updated>
         <content type="html"><![CDATA[이재명 더불어민주당 대선 후보가 지난 21일 중앙선거방송토론위원회 주관 1차 대선 티브이(TV) 토론회에서 “우리나라가 기축통화국이 될 가능성이 매우 크다”고 한 발언을 두고 논쟁이 뜨겁다. 이 후보는 나라 빚을 늘려 확장적 재정정책을 추진할 수 있는 근거 중 하나로 한국의 기축통화국 가능성을 언급했다. 그러나 이 후보의 기축통화국 발언은 국제통화기금(I]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리도 기축통화국에 포함될 가능성이 높다?]]></title>
-        <id>https://v.daum.net/v/20220222141829199</id>
-        <link href="https://v.daum.net/v/20220222141829199"/>
-        <updated>2022-02-22T05:19:35.543Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 21일 TV 토론에서 "우리도 기축통화국에 포함될 가능성이 높다"고 발언한 것을 두고 의견이 분분하다. 이 후보는 국민의당 안철수 후보가 "기축통화국과 비기축통화국의 차이를 아느냐"고 묻자 이같이 답했다. 이 후보는 앞서 국가 부채 비율을 놓고 국민의힘 윤석열 후보와 설전을 벌이는 과정에]]></content>
     </entry>
 </feed>
