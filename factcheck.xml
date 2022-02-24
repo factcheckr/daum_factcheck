@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-24T21:21:05.146Z</updated>
+    <updated>2022-02-24T22:24:29.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 격리해제 때 PCR 검사, 확진자(X), 동거인(O)..왜?]]></title>
+        <id>https://v.daum.net/v/20220225070044106</id>
+        <link href="https://v.daum.net/v/20220225070044106"/>
+        <updated>2022-02-24T22:23:18.549Z</updated>
+        <content type="html"><![CDATA[코로나19 확진자가 급증하면서 전체 확진자가 250만 명에 육박했습니다. 하루 신규 확진은 17만 명을 넘어섰습니다(2022. 02.24. 0시 기준). 대부분 오미크론 변이 확진자로, 2월 3주차(13~19일) 변이 바이러스 분석을 보면 전체 확진자의 98.9%를 차지했습니다. 오미크론 변이 바이러스는 전파력은 높지만 중증화율이 낮습니다. 2021년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니]  '소가죽', '패륜아'.. 대선 현수막에 써도 된다?]]></title>
         <id>https://v.daum.net/v/20220224204314790</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222195302946"/>
         <updated>2022-02-22T11:19:46.904Z</updated>
         <content type="html"><![CDATA[[앵커] 첫 번째로 팩트체크할 내용은 이재명-윤석열, 두 후보의 '국가채무'와 관련된 발언입니다. 나랏빚을 얼마나 더 낼 수 있는지를 논쟁하다가 나온 주장들입니다. 먼저, 들어보겠습니다. [이재명/더불어민주당 대선후보 (어제) : (우리나라는) 곧 기축통화국으로 될 가능성이 매우 높다. 며칠 전에 보도도 나왔지요.] 이지은 기자, 기축통화라는 건 어디서나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명 '기축통화' 발언..'IMF SDR'과 혼돈해서?]]></title>
-        <id>https://v.daum.net/v/20220222165606312</id>
-        <link href="https://v.daum.net/v/20220222165606312"/>
-        <updated>2022-02-22T08:25:56.495Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대선 후보가 지난 21일 중앙선거방송토론위원회 주관 1차 대선 티브이(TV) 토론회에서 “우리나라가 기축통화국이 될 가능성이 매우 크다”고 한 발언을 두고 논쟁이 뜨겁다. 이 후보는 나라 빚을 늘려 확장적 재정정책을 추진할 수 있는 근거 중 하나로 한국의 기축통화국 가능성을 언급했다. 그러나 이 후보의 기축통화국 발언은 국제통화기금(I]]></content>
     </entry>
 </feed>
