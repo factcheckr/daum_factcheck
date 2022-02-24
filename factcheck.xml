@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-24T06:27:50.408Z</updated>
+    <updated>2022-02-24T07:21:38.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 국가 부채는 다른 나라에 진 빚이 아니다?]]></title>
+        <id>https://v.daum.net/v/20220224153045166</id>
+        <link href="https://v.daum.net/v/20220224153045166"/>
+        <updated>2022-02-24T07:20:15.141Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대선을 앞두고 국가 채무의 적정 규모에 대한 논쟁이 이어지는 가운데 더불어민주당 이재명 대선 후보가 "국가 부채는 대외 부채가 아니다. 다른 나라에 진 빚이 아니다. 국내 기관들이 산다"고 말했다. 이 후보는 23일 MBC 라디오 '김종배의 시선집중'에서 "(국가 부채는) 우리 국내에서 채권·채무를 가지고 있는 것이어서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 "고용 회복".. 일자리 수는 증가, 야당 "점점 악화".. 근로 시간은 감소 [팩트 체크]]]></title>
         <id>https://v.daum.net/v/20220224050725861</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222120615906"/>
         <updated>2022-02-22T03:23:23.887Z</updated>
         <content type="html"><![CDATA[21일 열린 중앙선거관리위원회 주관 첫 대선 티브이(TV) 토론회에서 이재명 더불어민주당 대선 후보와 윤석열 국민의힘 대선 후보는 ‘화천대유 녹취록’에 “이재명 게이트”라는 말이 등장하는지를 놓고 진실게임을 벌였다. 이날 토론회에서 이 후보가 화천대유 대주주 김만배씨의 녹취록에 나온 “내가 가진 카드면 윤석열 죽는다”는 대목으로 공세를 펼치자, 윤 후보는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 심상정 "지역화폐, 소상공인 지원 효과 '0원'"?]]></title>
-        <id>https://v.daum.net/v/20220222090019639</id>
-        <link href="https://v.daum.net/v/20220222090019639"/>
-        <updated>2022-02-22T01:15:32.353Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "지역화폐, 소상공인 지원 '0원'" "지역 화폐로 하게 되면, 거기서 음식값 빼고 마진(이윤)만 소상공인한테 가는 거예요." "그렇기 때문에 그것은 소상공인 지원하고는 전혀 다른 것이고, 그것은 '0원'이다." 심상정 정의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 TV법정 토론회(경제 분야)에서 한 말입니다. 더불어민주당 이재명]]></content>
     </entry>
 </feed>
