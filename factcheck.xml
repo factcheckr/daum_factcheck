@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-24T08:27:12.925Z</updated>
+    <updated>2022-02-24T09:22:56.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다]]></title>
+        <id>https://v.daum.net/v/20220224173308509</id>
+        <link href="https://v.daum.net/v/20220224173308509"/>
+        <updated>2022-02-24T09:21:43.526Z</updated>
+        <content type="html"><![CDATA[어떤 여론조사는 이 사람이 높다, 또 어떤 여론조사는 저 사람이 높다, 조사 결과가 제각각입니다. 어떤 여론조사를 믿어야 할지 모르겠습니다. SBS 선거팀은 이런 문제를 해결하기 위해 '메타S 심층 여론 지수'를 내놨습니다. 신뢰할 수 있는 여론조사 수치를 찾는 과정입니다. SBS 팩트체크 사실은팀이 그 수치를 분석해 시청자 여러분께 제공하고 있습니다. 메]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 국가 부채는 다른 나라에 진 빚이 아니다?]]></title>
         <id>https://v.daum.net/v/20220224153045166</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222141829199"/>
         <updated>2022-02-22T05:19:35.543Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명 대선 후보가 21일 TV 토론에서 "우리도 기축통화국에 포함될 가능성이 높다"고 발언한 것을 두고 의견이 분분하다. 이 후보는 국민의당 안철수 후보가 "기축통화국과 비기축통화국의 차이를 아느냐"고 묻자 이같이 답했다. 이 후보는 앞서 국가 부채 비율을 놓고 국민의힘 윤석열 후보와 설전을 벌이는 과정에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열이 언급한 '이재명 게이트'의 진실은?]]></title>
-        <id>https://v.daum.net/v/20220222120615906</id>
-        <link href="https://v.daum.net/v/20220222120615906"/>
-        <updated>2022-02-22T03:23:23.887Z</updated>
-        <content type="html"><![CDATA[21일 열린 중앙선거관리위원회 주관 첫 대선 티브이(TV) 토론회에서 이재명 더불어민주당 대선 후보와 윤석열 국민의힘 대선 후보는 ‘화천대유 녹취록’에 “이재명 게이트”라는 말이 등장하는지를 놓고 진실게임을 벌였다. 이날 토론회에서 이 후보가 화천대유 대주주 김만배씨의 녹취록에 나온 “내가 가진 카드면 윤석열 죽는다”는 대목으로 공세를 펼치자, 윤 후보는]]></content>
     </entry>
 </feed>
