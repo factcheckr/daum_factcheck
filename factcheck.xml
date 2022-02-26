@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-25T23:23:24.294Z</updated>
+    <updated>2022-02-26T01:15:03.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다?]]></title>
+        <id>https://v.daum.net/v/20220226093840987</id>
+        <link href="https://v.daum.net/v/20220226093840987"/>
+        <updated>2022-02-26T01:13:44.393Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 윤석열 대선 후보가 25일 중앙선관위 주관 2차 TV토론에서 부산저축은행 불법 대출 부실 수사와 관련한 의혹에 대해 더불어민주당 이재명 후보와 설전을 벌였다. 이 후보가 "부산저축은행 일반대출인데 다른 건 기소하면서 왜 대장동 대출만 봐줬습니까"라고 묻자, 윤 후보는 "부산저축은행은 SPC(특수목적법인) 대출로 배임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 겨울철 '삼한사미' 실제로 일어날까?]]></title>
         <id>https://v.daum.net/v/20220226080048962</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220224050725861"/>
         <updated>2022-02-23T20:22:38.282Z</updated>
         <content type="html"><![CDATA[‘취업자 수’를 놓고 정부와 정치권, 학계에서 갑론을박이 벌어지고 있다. 정부는 “취업자 수가 코로나19 이전 수준을 회복했다”며 자화자찬하고 있고, 야당과 학계는 “고용의 질이 갈수록 악화되고 있다”며 우려를 표하고 나섰다. 국내 고용상황이 정말 정부 말대로 좋아진 것일까, 아니면 야당과 학계 말대로 나빠진 것일까. ● 2727만명 취업… 코로나 이전 회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 다이어트·흡연이 탈모를 일으킨다?]]></title>
-        <id>https://v.daum.net/v/20220223142212976</id>
-        <link href="https://v.daum.net/v/20220223142212976"/>
-        <updated>2022-02-23T06:26:36.546Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 탈모를 둘러싼 오해가 많다. 지나친 다이어트와 흡연이 탈모를 일으킨다는 이야기가 있다. 탈모의 직접적 원인은 아니다. 또 ‘한 방향 가르마만 타면 탈모 생긴다’, ‘두피마사지기로 머리에 자극을 주면 좋다’, ‘기능성 샴푸와 고가의 샴푸가 도움이 된다’는 속설도 대체로 거짓이다. 안드로겐성 탈모(남성형 탈모·여성형 탈모)는 유전적]]></content>
     </entry>
 </feed>
