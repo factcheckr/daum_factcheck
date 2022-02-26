@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-26T11:19:31.654Z</updated>
+    <updated>2022-02-26T12:34:30.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "L-SAM 배치" · "핵 공유"..따져 보니]]></title>
+        <id>https://v.daum.net/v/20220226203605272</id>
+        <link href="https://v.daum.net/v/20220226203605272"/>
+        <updated>2022-02-26T12:33:09.612Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 러시아의 우크라이나 침공으로 안보가 화두인 만큼 어제(25일) 토론회에서는 후보들 사이에&nbsp;안보 문제로 많은 말들이 오갔습니다.&nbsp;그래서 저희 팩트체크, 사실은 팀이 후보들의 발언을 하나하나 따져봤습니다.&nbsp; 이경원 기자의 보도입니다. &lt;기자&gt; 러시아의 우크라이나 침공으로 안보가 화두가 되면서 어제 토론회 쟁점도 안보였습니다. [이재명/민주당 대선 후보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다?]]></title>
         <id>https://v.daum.net/v/20220226093840987</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220224153045166"/>
         <updated>2022-02-24T07:20:15.141Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대선을 앞두고 국가 채무의 적정 규모에 대한 논쟁이 이어지는 가운데 더불어민주당 이재명 대선 후보가 "국가 부채는 대외 부채가 아니다. 다른 나라에 진 빚이 아니다. 국내 기관들이 산다"고 말했다. 이 후보는 23일 MBC 라디오 '김종배의 시선집중'에서 "(국가 부채는) 우리 국내에서 채권·채무를 가지고 있는 것이어서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 "고용 회복".. 일자리 수는 증가, 야당 "점점 악화".. 근로 시간은 감소 [팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20220224050725861</id>
-        <link href="https://v.daum.net/v/20220224050725861"/>
-        <updated>2022-02-23T20:22:38.282Z</updated>
-        <content type="html"><![CDATA[‘취업자 수’를 놓고 정부와 정치권, 학계에서 갑론을박이 벌어지고 있다. 정부는 “취업자 수가 코로나19 이전 수준을 회복했다”며 자화자찬하고 있고, 야당과 학계는 “고용의 질이 갈수록 악화되고 있다”며 우려를 표하고 나섰다. 국내 고용상황이 정말 정부 말대로 좋아진 것일까, 아니면 야당과 학계 말대로 나빠진 것일까. ● 2727만명 취업… 코로나 이전 회]]></content>
     </entry>
 </feed>
