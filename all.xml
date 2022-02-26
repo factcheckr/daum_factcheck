@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-26T18:26:07.240Z</updated>
+    <updated>2022-02-26T19:17:58.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220227040600591</id>
+        <link href="https://v.daum.net/v/20220227040600591"/>
+        <updated>2022-02-26T19:16:40.036Z</updated>
+        <content type="html"><![CDATA[핵심요약"우크라이나, 민스크협정에만 의존하다 전쟁 불렀다" 국내외 전문가 "우크라, 민스크협정 의존 아닌 파기""우크라이나사태는 종이와 잉크로 된 그런 협약서 하나 가지고 국가의 안보와 평화가 지켜질 수 없다는 것을 보여줬습니다. 자기를 지킬 수 있는 확실한 힘과 강력한 동맹이 있어야 되는데 우크라이나는 그걸 하나도 갖추지 못했습니다. 협약서와 민스크 협정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "L-SAM 배치" · "핵 공유"..따져 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220226203605272</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220224173308509"/>
         <updated>2022-02-24T09:21:43.526Z</updated>
         <content type="html"><![CDATA[어떤 여론조사는 이 사람이 높다, 또 어떤 여론조사는 저 사람이 높다, 조사 결과가 제각각입니다. 어떤 여론조사를 믿어야 할지 모르겠습니다. SBS 선거팀은 이런 문제를 해결하기 위해 '메타S 심층 여론 지수'를 내놨습니다. 신뢰할 수 있는 여론조사 수치를 찾는 과정입니다. SBS 팩트체크 사실은팀이 그 수치를 분석해 시청자 여러분께 제공하고 있습니다. 메]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국가 부채는 다른 나라에 진 빚이 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220224153045166</id>
-        <link href="https://v.daum.net/v/20220224153045166"/>
-        <updated>2022-02-24T07:20:15.141Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대선을 앞두고 국가 채무의 적정 규모에 대한 논쟁이 이어지는 가운데 더불어민주당 이재명 대선 후보가 "국가 부채는 대외 부채가 아니다. 다른 나라에 진 빚이 아니다. 국내 기관들이 산다"고 말했다. 이 후보는 23일 MBC 라디오 '김종배의 시선집중'에서 "(국가 부채는) 우리 국내에서 채권·채무를 가지고 있는 것이어서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["L-SAM 배치" · "핵 공유"..따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
