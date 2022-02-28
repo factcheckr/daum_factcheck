@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-28T12:37:05.883Z</updated>
+    <updated>2022-02-28T13:26:45.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20220228205408858</id>
         <link href="https://v.daum.net/v/20220228205408858"/>
         <updated>2022-02-28T12:35:47.021Z</updated>
-        <content type="html"><![CDATA[[앵커] 팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다. 이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠? [기자] 일단 정시비율 확대가 큰 방향입니다. 이재명 후보는 수시 인원이 지나치게 높은 대학은 정시 비율을 늘린다, 윤석열 후보도 정시 비율을 확대한다고 했습니다. 안철수 후보는 아예 수시를 없애겠다고 했습니다. 심상정 후보만 정시 확대를]]></content>
+        <content type="html"><![CDATA[[앵커] 팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다. 이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠? [기자] 일단 정시 비율 확대가 큰 방향입니다. 이재명 후보는 수시 인원이 지나치게 높은 대학은 정시 비율을 늘린다, 윤석열 후보도 정시 비율을 확대한다고 했습니다. 안철수 후보는 아예 수시를 없애겠다고 했습니다. 심상정 후보만 정시 확대를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 공동주택이라도 '내 집'에선 흡연 가능하다?]]></title>
