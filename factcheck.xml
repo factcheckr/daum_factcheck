@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-02-28T15:25:58.660Z</updated>
+    <updated>2022-02-28T16:34:45.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정시 비율·자사고 폐지 여부 보니..생활밀착형 공약엔 '두루뭉술']]></title>
         <id>https://v.daum.net/v/20220228205408858</id>
