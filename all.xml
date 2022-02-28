@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T06:28:34.014Z</updated>
+    <updated>2022-02-28T07:22:08.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "성인지예산으로 핵위협 막자"?..가짜뉴스 읊는 윤석열 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220228155615677</id>
+        <link href="https://v.daum.net/v/20220228155615677"/>
+        <updated>2022-02-28T07:20:57.173Z</updated>
+        <content type="html"><![CDATA[“우리 정부가 성인지 감수성 예산이란 걸 30조 썼다고 알려져 있다. 그 돈이면 그중 일부만 떼어내도 우리가 이북(북한)의 저런 말도 안 되는 핵 위협을 안전하게 중층적으로 막아낼 수 있다.” 윤석열 국민의힘 대선후보가 27일 경북 포항 유세 때 한 말이다. 현재 정부가 성인지 감수성 예산(성인지 예산을 뜻하는 것으로 보인다)을 별도로 편성·집행하고 있고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220227040600591</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220224204314790"/>
         <updated>2022-02-24T12:35:49.920Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 대통령 선거 운동이 본격화되면서 최근 이런 현수막들이 등장했습니다. 사진과 함께 "이런 영부인' 괜찮습니까" 또 "재명마눌 황제갑질했다" "검사 정부 반대 한다", "이재명 경기지사 대장동 게이트" 경쟁 후보와 배우자를 노골적으로 비난하거나 조롱하는 현수막인데요. 이런 표현이 선거법상 허용되는지부터 '가능하다고 해도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220224173308509</id>
-        <link href="https://v.daum.net/v/20220224173308509"/>
-        <updated>2022-02-24T09:21:43.526Z</updated>
-        <content type="html"><![CDATA[어떤 여론조사는 이 사람이 높다, 또 어떤 여론조사는 저 사람이 높다, 조사 결과가 제각각입니다. 어떤 여론조사를 믿어야 할지 모르겠습니다. SBS 선거팀은 이런 문제를 해결하기 위해 '메타S 심층 여론 지수'를 내놨습니다. 신뢰할 수 있는 여론조사 수치를 찾는 과정입니다. SBS 팩트체크 사실은팀이 그 수치를 분석해 시청자 여러분께 제공하고 있습니다. 메]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["L-SAM 배치" · "핵 공유"..따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
