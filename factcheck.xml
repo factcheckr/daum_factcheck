@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-01T11:20:04.856Z</updated>
+    <updated>2022-03-01T12:37:49.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 삶의 질 높이자는 '주4일제' 노동 공약, 잘 될까?]]></title>
+        <id>https://v.daum.net/v/20220301203207566</id>
+        <link href="https://v.daum.net/v/20220301203207566"/>
+        <updated>2022-03-01T12:36:31.347Z</updated>
+        <content type="html"><![CDATA[[앵커] 팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠? [기자] 그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부분이 환영하는 공약입니다. 이러다 보니 주요 후보들도 입장을 모두 밝힐 수밖에 없는데요. 이재명 후보는 주4일 또는 주4.5일제 시범실시, 윤석열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 대선에 이용되는 '우크라이나 비극' 따져 봤습니다]]></title>
         <id>https://v.daum.net/v/20220301114500150</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220226093840987"/>
         <updated>2022-02-26T01:13:44.393Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 윤석열 대선 후보가 25일 중앙선관위 주관 2차 TV토론에서 부산저축은행 불법 대출 부실 수사와 관련한 의혹에 대해 더불어민주당 이재명 후보와 설전을 벌였다. 이 후보가 "부산저축은행 일반대출인데 다른 건 기소하면서 왜 대장동 대출만 봐줬습니까"라고 묻자, 윤 후보는 "부산저축은행은 SPC(특수목적법인) 대출로 배임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 겨울철 '삼한사미' 실제로 일어날까?]]></title>
-        <id>https://v.daum.net/v/20220226080048962</id>
-        <link href="https://v.daum.net/v/20220226080048962"/>
-        <updated>2022-02-25T23:22:02.524Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철 미세먼지로 인해 '삼한사미(三寒四微·사흘은 춥고 나흘은 미세먼지)'라는 신조어까지 생겨났다. 반복되는 대기질 악화를 우리나라 겨울철 날씨를 상징하는 '삼한사온(三寒四溫)'에 빗댄 표현인데, 겨울철 추위가 왔다가 물러날 때마다 주기적으로 미세먼지 농도가 증가한다는 뜻으로 해석할 수 있다. 실제로 겨울철에 기온 변화와 맞]]></content>
     </entry>
 </feed>

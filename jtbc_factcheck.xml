@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-03-01T11:20:04.850Z</updated>
+    <updated>2022-03-01T12:37:49.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삶의 질 높이자는 '주4일제' 노동 공약, 잘 될까?]]></title>
+        <id>https://v.daum.net/v/20220301203207566</id>
+        <link href="https://v.daum.net/v/20220301203207566"/>
+        <updated>2022-03-01T12:37:48.759Z</updated>
+        <content type="html"><![CDATA[[앵커] 팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠? [기자] 그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부분이 환영하는 공약입니다. 이러다 보니 주요 후보들도 입장을 모두 밝힐 수밖에 없는데요. 이재명 후보는 주4일 또는 주4.5일제 시범실시, 윤석열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정시 비율·자사고 폐지 여부 보니..생활밀착형 공약엔 '두루뭉술']]></title>
         <id>https://v.daum.net/v/20220228205408858</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220110203307609"/>
         <updated>2022-01-10T12:39:30.040Z</updated>
         <content type="html"><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 물리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나와봤는데요. 추려보면 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 지진, 참돔은 이미 알고 있었다?..속설 따져보니]]></title>
-        <id>https://v.daum.net/v/20211216204207388</id>
-        <link href="https://v.daum.net/v/20211216204207388"/>
-        <updated>2022-01-02T15:41:41.469Z</updated>
-        <content type="html"><![CDATA[[앵커] 그제(14일) 제주에서 발생한 지진을 놓고 온라인상에서는 전조 현상이 이미 있었다는 얘기가 많습니다. 지진 직전에 특이한 구름이 나타나거나 바다에서 참돔이 갑자기 많이 잡혔다는 식입니다. 지진 때마다 되풀이되는 속설들인데 어디까지 믿어야 할지 팩트체크팀, 최재원 기자가 설명해드리겠습니다. [기자] 제주의 한 시청자분이 지진 직전 하늘 모습이라며 보]]></content>
     </entry>
 </feed>
