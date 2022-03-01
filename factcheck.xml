@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-01T13:26:23.683Z</updated>
+    <updated>2022-03-01T14:22:10.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[“우리 정부가 성인지 감수성 예산이란 걸 30조 썼다고 알려져 있다. 그 돈이면 그중 일부만 떼어내도 우리가 이북(북한)의 저런 말도 안 되는 핵 위협을 안전하게 중층적으로 막아낼 수 있다.” 윤석열 국민의힘 대선후보가 27일 경북 포항 유세 때 한 말이다. 현재 정부가 성인지 감수성 예산(성인지 예산을 뜻하는 것으로 보인다)을 별도로 편성·집행하고 있고,]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['30조 성인지감수성 예산' 떼어서 북핵 막는다? 윤석열표 '가짜뉴스'[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20220228131246264</id>
+        <link href="https://v.daum.net/v/20220228131246264"/>
+        <updated>2022-03-01T14:20:54.606Z</updated>
+        <content type="html"><![CDATA[[경향신문] ‘성인지 예산’ 별도 예산 항목 없고 &nbsp;관련 사업 ‘성인지 예산’ 틀로 분류 &nbsp;여가부 아닌 기재부서 취합·총괄 &nbsp;30조는 모든 부처 관련 사업 합친 것 윤석열 국민의힘 대선 후보는 지난 27일 경북 포항시 북구 신흥동 북포항우체국 앞 유세에서 이렇게 말했다. “이 정부가 뭐, 성인지감수성 예산이란 걸 30조 썼다고 알려져 있습니다. 그 돈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나]]></title>
         <id>https://v.daum.net/v/20220227040600591</id>
         <link href="https://v.daum.net/v/20220227040600591"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220226203605272"/>
         <updated>2022-02-26T12:33:09.612Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 러시아의 우크라이나 침공으로 안보가 화두인 만큼 어제(25일) 토론회에서는 후보들 사이에&nbsp;안보 문제로 많은 말들이 오갔습니다.&nbsp;그래서 저희 팩트체크, 사실은 팀이 후보들의 발언을 하나하나 따져봤습니다.&nbsp; 이경원 기자의 보도입니다. &lt;기자&gt; 러시아의 우크라이나 침공으로 안보가 화두가 되면서 어제 토론회 쟁점도 안보였습니다. [이재명/민주당 대선 후보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다?]]></title>
-        <id>https://v.daum.net/v/20220226093840987</id>
-        <link href="https://v.daum.net/v/20220226093840987"/>
-        <updated>2022-02-26T01:13:44.393Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 윤석열 대선 후보가 25일 중앙선관위 주관 2차 TV토론에서 부산저축은행 불법 대출 부실 수사와 관련한 의혹에 대해 더불어민주당 이재명 후보와 설전을 벌였다. 이 후보가 "부산저축은행 일반대출인데 다른 건 기소하면서 왜 대장동 대출만 봐줬습니까"라고 묻자, 윤 후보는 "부산저축은행은 SPC(특수목적법인) 대출로 배임]]></content>
     </entry>
 </feed>
