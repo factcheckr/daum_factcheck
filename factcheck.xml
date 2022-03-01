@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-01T01:37:18.480Z</updated>
+    <updated>2022-03-01T02:49:56.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 대선에 이용되는 '우크라이나 비극' 따져 봤습니다]]></title>
+        <id>https://v.daum.net/v/20220301114500150</id>
+        <link href="https://v.daum.net/v/20220301114500150"/>
+        <updated>2022-03-01T02:48:38.460Z</updated>
+        <content type="html"><![CDATA[지난 25일 2차 법정 토론회 주제는 '정치'였습니다. 후보들은 '외교 및 안보 정책'을 주제로 치열한 신경전을 벌였습니다. 특히, 러시아의 우크라이나 침공 사태가 자주 거론됐습니다. 후보들은 이번 사태를 지렛대 삼아 자신의 안보관을 소개하거나, 상대 후보를 공격하는 소재로 삼기도 했습니다. 하지만, 논란도 일었습니다. 후보들의 우크라이나 관련 발언들을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文정부가 朴정부보다 예산 500조원 많이 썼다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20220301090315743</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220226080048962"/>
         <updated>2022-02-25T23:22:02.524Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철 미세먼지로 인해 '삼한사미(三寒四微·사흘은 춥고 나흘은 미세먼지)'라는 신조어까지 생겨났다. 반복되는 대기질 악화를 우리나라 겨울철 날씨를 상징하는 '삼한사온(三寒四溫)'에 빗댄 표현인데, 겨울철 추위가 왔다가 물러날 때마다 주기적으로 미세먼지 농도가 증가한다는 뜻으로 해석할 수 있다. 실제로 겨울철에 기온 변화와 맞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열은 전술핵 배치·핵공유 주장한 적 없다?]]></title>
-        <id>https://v.daum.net/v/20220226002023868</id>
-        <link href="https://v.daum.net/v/20220226002023868"/>
-        <updated>2022-02-25T15:23:21.858Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 여야 대선 후보들이 25일 중앙선거방송토론위원회가 주관한 제20대 대통령선거 후보자 초청 2차 TV토론회에서 정치개혁과 외교·안보 정책을 두고 치열한 공방을 벌였다. 토론회에서 나온 후보들의 발언 중 진위 논란이 있었던 부분에 대한 사실관계를 확인했다. 윤석열은 전술핵 배치·핵공유 주장한 적 없다? '남북관계와 외교안보정책]]></content>
     </entry>
 </feed>
