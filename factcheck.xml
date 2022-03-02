@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-02T14:22:21.774Z</updated>
+    <updated>2022-03-02T15:24:47.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명 후보가 '증세는 자폭행위'라고 했다?]]></title>
+        <id>https://v.daum.net/v/20220302235953439</id>
+        <link href="https://v.daum.net/v/20220302235953439"/>
+        <updated>2022-03-02T15:23:31.578Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선을 일주일 앞둔 2일 마지막 TV 토론에서 여야 대선 후보들은 복지 정책과 젠더 이슈 등 사회 분야 정책을 놓고 표심 사로잡기에 나섰다. 이날 중앙선거방송토론위원회 주관 3차 법정 TV 토론에서 오간 발언 중 진위를 가릴 필요가 있거나 오해를 불러일으킬 수 있는 발언에 대해 팩트체크를 했다. 이재명 후보가 증]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 손보사 '전기차 보험' 손해율 113%..높은 수리비 이유는]]></title>
         <id>https://v.daum.net/v/20220302170738270</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220228131246264"/>
         <updated>2022-03-01T14:20:54.606Z</updated>
         <content type="html"><![CDATA[[경향신문] ‘성인지 예산’ 별도 예산 항목 없고 &nbsp;관련 사업 ‘성인지 예산’ 틀로 분류 &nbsp;여가부 아닌 기재부서 취합·총괄 &nbsp;30조는 모든 부처 관련 사업 합친 것 윤석열 국민의힘 대선 후보는 지난 27일 경북 포항시 북구 신흥동 북포항우체국 앞 유세에서 이렇게 말했다. “이 정부가 뭐, 성인지감수성 예산이란 걸 30조 썼다고 알려져 있습니다. 그 돈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나]]></title>
-        <id>https://v.daum.net/v/20220227040600591</id>
-        <link href="https://v.daum.net/v/20220227040600591"/>
-        <updated>2022-02-26T19:16:40.036Z</updated>
-        <content type="html"><![CDATA[핵심요약"우크라이나, 민스크협정에만 의존하다 전쟁 불렀다" 국내외 전문가 "우크라, 민스크협정 의존 아닌 파기" "우크라이나사태는 종이와 잉크로 된 그런 협약서 하나 가지고 국가의 안보와 평화가 지켜질 수 없다는 것을 보여줬습니다. 자기를 지킬 수 있는 확실한 힘과 강력한 동맹이 있어야 되는데 우크라이나는 그걸 하나도 갖추지 못했습니다. 협약서와 민스크 협]]></content>
     </entry>
 </feed>
