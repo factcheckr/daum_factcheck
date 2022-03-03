@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-03T10:26:02.835Z</updated>
+    <updated>2022-03-03T11:19:47.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명, 증세는 자폭?..윤석열, 여성 돕는 성인지예산?]]></title>
+        <id>https://v.daum.net/v/20220303200703710</id>
+        <link href="https://v.daum.net/v/20220303200703710"/>
+        <updated>2022-03-03T11:18:29.699Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크 해보겠습니다. 이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요? [기자] 복지 확대를 위해선 증세, 즉 세금을 올려야 한다고 심상정 후보가 말했는데요. 그러다 이 후보의 과거 발언을 문제 삼았습니다. 일단 들어보시죠. [심상정/정의당 대선후보 (어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]부동산세 징수, 우리가 OECD 최상위권?]]></title>
         <id>https://v.daum.net/v/20220303154805048</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301114500150"/>
         <updated>2022-03-01T02:48:38.460Z</updated>
         <content type="html"><![CDATA[지난 25일 2차 법정 토론회 주제는 '정치'였습니다. 후보들은 '외교 및 안보 정책'을 주제로 치열한 신경전을 벌였습니다. 특히, 러시아의 우크라이나 침공 사태가 자주 거론됐습니다. 후보들은 이번 사태를 지렛대 삼아 자신의 안보관을 소개하거나, 상대 후보를 공격하는 소재로 삼기도 했습니다. 하지만, 논란도 일었습니다. 후보들의 우크라이나 관련 발언들을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文정부가 朴정부보다 예산 500조원 많이 썼다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20220301090315743</id>
-        <link href="https://v.daum.net/v/20220301090315743"/>
-        <updated>2022-03-01T01:36:01.243Z</updated>
-        <content type="html"><![CDATA[없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷①문재인 정부가 박근혜 정부보다 500조원을 더 썼나 ②양질의 일자리는 정말 줄었나 ③문재인 정부와 박근혜 정부의 예산 쓰임은 크게 달랐나"이 사람들(문재인 정권)은 박근혜 대통령 시절의 정치가 전부 엉터리라고 주장하지만 박근혜 정권 때보다 무려 500조원을 더 갖다가 썼습니다. 변변한]]></content>
     </entry>
 </feed>
