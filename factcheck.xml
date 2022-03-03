@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-03T11:19:47.996Z</updated>
+    <updated>2022-03-03T12:37:43.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 후보들의 증세 · 기본소득 발언, 따져 보니]]></title>
+        <id>https://v.daum.net/v/20220303210006537</id>
+        <link href="https://v.daum.net/v/20220303210006537"/>
+        <updated>2022-03-03T12:36:26.584Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 후보들은 어제(2일) 선거전 마지막 TV토론에서도 격론을 벌였습니다. 증세와 기본소득 문제를 놓고 공방이 이어졌는데, 저희 팩트체크, 사실은 팀이 후보들의 발언을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 토론회 전반부, 증세 문제가 도마 위에 올랐습니다. [심상정/정의당 대선 후보 : 증세를 이야기하는 저더러, 좌파적 관념이라고 얘기하고, 증세는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명, 증세는 자폭?..윤석열, 여성 돕는 성인지예산?]]></title>
         <id>https://v.daum.net/v/20220303200703710</id>
         <link href="https://v.daum.net/v/20220303200703710"/>
         <updated>2022-03-03T11:18:29.699Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크 해보겠습니다. 이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요? [기자] 복지 확대를 위해선 증세, 즉 세금을 올려야 한다고 심상정 후보가 말했는데요. 그러다 이 후보의 과거 발언을 문제 삼았습니다. 일단 들어보시죠. [심상정/정의당 대선후보 (어]]></content>
+        <content type="html"><![CDATA[[앵커] 이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다. 이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요? [기자] 복지를 늘리기 위해서는 증세, 즉 세금을 높여야 한다고 심상정 후보가 말했는데요. 이때 이재명 후보의 과거 발언을 문제 삼았습니다. 보시죠. [심상정/정의당 대선후보 (어제)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]부동산세 징수, 우리가 OECD 최상위권?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301203207566"/>
         <updated>2022-03-01T12:36:31.347Z</updated>
         <content type="html"><![CDATA[[앵커] 팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠? [기자] 그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부분이 환영하는 공약입니다. 이러다 보니 주요 후보들도 입장을 모두 밝힐 수밖에 없는데요. 이재명 후보는 주4일 또는 주4.5일제 시범 실시, 윤석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 대선에 이용되는 '우크라이나 비극' 따져 봤습니다]]></title>
-        <id>https://v.daum.net/v/20220301114500150</id>
-        <link href="https://v.daum.net/v/20220301114500150"/>
-        <updated>2022-03-01T02:48:38.460Z</updated>
-        <content type="html"><![CDATA[지난 25일 2차 법정 토론회 주제는 '정치'였습니다. 후보들은 '외교 및 안보 정책'을 주제로 치열한 신경전을 벌였습니다. 특히, 러시아의 우크라이나 침공 사태가 자주 거론됐습니다. 후보들은 이번 사태를 지렛대 삼아 자신의 안보관을 소개하거나, 상대 후보를 공격하는 소재로 삼기도 했습니다. 하지만, 논란도 일었습니다. 후보들의 우크라이나 관련 발언들을]]></content>
     </entry>
 </feed>
