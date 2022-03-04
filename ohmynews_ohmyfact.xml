@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-03-04T09:22:47.823Z</updated>
+    <updated>2022-03-04T10:26:44.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리나라 무고죄 형량 가장 높다" 심상정 발언 '대체로 사실']]></title>
+        <id>https://v.daum.net/v/20220304185407698</id>
+        <link href="https://v.daum.net/v/20220304185407698"/>
+        <updated>2022-03-04T10:26:31.771Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;정의당 심상정(왼쪽부터), 국민의힘 윤석열 대선후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론에 앞서 기념촬영하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] 심상정 "우리나라 무고죄 형량, 세계에서 가장 높다" 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20220223060300798</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220118185701306"/>
         <updated>2022-03-03T15:24:24.584Z</updated>
         <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;윤석열 국민의힘 대선후보가 17일 서울 을지로입구역에서 '기호 2번 윤석열'이 적힌 어깨띠를 두르고 퇴근길 인사를 하고 있다.    ⓒ 국민의힘 선대본부 제공  &nbsp; &nbsp; [검증 대상] '기호 2번 윤석열' 어깨띠 착용은 선거법 위반? "기호 2번 적힌 어깨띠 두르고 지하철역내에서 인사? 이건 선거법 위반 아닌가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20220114200001192</id>
-        <link href="https://v.daum.net/v/20220114200001192"/>
-        <updated>2022-03-03T15:24:24.586Z</updated>
-        <content type="html"><![CDATA[[박수림 기자] ▲ &nbsp;국민의힘 최춘식 전 경기도당위원장이 지난해 4월 19일 오전 서울 여의도 국회에서 열린 시·도당위원장 회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 국민의힘 최춘식 의원 "독감 사망자 수가 코로나19 사망자 수보다 더 많다" "우리나라 독감 사망자 수가 코로나19 사망자 수보다 더 많은 현실에서, 과거 독]]></content>
     </entry>
 </feed>
