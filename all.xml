@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T21:21:16.985Z</updated>
+    <updated>2022-03-04T22:19:16.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220305070057979</id>
+        <link href="https://v.daum.net/v/20220305070057979"/>
+        <updated>2022-03-04T22:18:07.922Z</updated>
+        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 투표용지 안 접거나 잘못 접으면 무효표? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220304194824649</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220303041200171"/>
         <updated>2022-03-02T19:18:07.647Z</updated>
         <content type="html"><![CDATA[사회분야 TV토론 뜯어보니없는 말도 만들어내는 게 대선판이라지만 그래도 진실은 노컷, 거짓은 칼컷"후보님들께 이 말씀은 꼭 드려야 될 것 같아요. 다들 정책공약집 내셨잖아요. 그런데 공약별 예산이나 재정계획 낸 분은 한 분도 없어요. 저 빼고. 해도 해도 너무하신 것 아닙니까?" 정의당 심상정 후보는 초반부터 거세게 따져 물었습니다. 20대 대선을 일주일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명 후보가 '증세는 자폭행위'라고 했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220302235953439</id>
-        <link href="https://v.daum.net/v/20220302235953439"/>
-        <updated>2022-03-02T15:23:31.578Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선을 일주일 앞둔 2일 마지막 TV 토론에서 여야 대선 후보들은 복지 정책과 젠더 이슈 등 사회 분야 정책을 놓고 표심 사로잡기에 나섰다. 이날 중앙선거방송토론위원회 주관 3차 법정 TV 토론에서 오간 발언 중 진위를 가릴 필요가 있거나 오해를 불러일으킬 수 있는 발언에 대해 팩트체크를 했다. 이재명 후보가 증]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ [지난 2019년] "엉덩이춤, 엉덩이춤, 엉덩이춤… 아이고 예쁘다. 아이고 잘 하네." 지난주 6살 소율이는 세 명의 목숨을 살리고 세상을 떠났습니다. 어렵게 아이를 떠나보낸 소율이 아빠는 나중에 "딸의 심장이 다시 건강하게 잘 뛰는지"라도 알고 싶다고 했습니다. [전기섭/소율이 아버지] "소율이 심장도 뛰고 있는 거다… 그러]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220305070057979</id>
+        <link href="https://v.daum.net/v/20220305070057979"/>
+        <updated>2022-03-04T22:18:38.101Z</updated>
+        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤석열 "'성인지 예산' 줄여 대공 방어망 구축" (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220303060050236</id>
         <link href="https://v.daum.net/v/20220303060050236"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220127070114183"/>
         <updated>2022-01-26T22:20:47.521Z</updated>
         <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인력·재원, 집행부 몫..반쪽짜리 지방의회 인사권 독립 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220111215957995</id>
-        <link href="https://v.daum.net/v/20220111215957995"/>
-        <updated>2022-01-11T13:30:15.230Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 32년 만에 전부 개정된  지방자치법이  모레, 13일부터 시행됩니다. 30년 넘게 유지된  지방자치제도의 틀도  획기적으로 바뀔 것으로 기대되고 있는데요. 강화된 주민 자치와  지방자치단체의 자율성은 물론 지방의회의 숙원이었던  인사권 독립도 반영돼서입니다. 그런데, 정작 지방의회에선 운영 자율권이 부족하다며  보완을 요구하는 목]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
