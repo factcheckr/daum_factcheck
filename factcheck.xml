@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-04T10:26:44.907Z</updated>
+    <updated>2022-03-04T11:19:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 투표용지 안 접거나 잘못 접으면 무효표?]]></title>
+        <id>https://v.daum.net/v/20220304194824649</id>
+        <link href="https://v.daum.net/v/20220304194824649"/>
+        <updated>2022-03-04T11:18:13.949Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 오늘(4일) 사전투표할 때 투표용지를 접어야 하는지, 아니면 그냥 투표함에 넣어야 하는지 헷갈리신 분들 있을 겁니다. 선거가 있을 때마다 투표용지를 안 접으면 무효, 혹은 잘못 접으면 무효가 된다는 소문이 있죠. 이런 소문들, 사실인지 김태형 기자가 확인해봤습니다. 【 기자 】 투표용지를 반드시 두 번 이상 접어야 한다,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리나라 무고죄 형량 가장 높다" 심상정 발언 '대체로 사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220304185407698</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220302235953439"/>
         <updated>2022-03-02T15:23:31.578Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선을 일주일 앞둔 2일 마지막 TV 토론에서 여야 대선 후보들은 복지 정책과 젠더 이슈 등 사회 분야 정책을 놓고 표심 사로잡기에 나섰다. 이날 중앙선거방송토론위원회 주관 3차 법정 TV 토론에서 오간 발언 중 진위를 가릴 필요가 있거나 오해를 불러일으킬 수 있는 발언에 대해 팩트체크를 했다. 이재명 후보가 증]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 손보사 '전기차 보험' 손해율 113%..높은 수리비 이유는]]></title>
-        <id>https://v.daum.net/v/20220302170738270</id>
-        <link href="https://v.daum.net/v/20220302170738270"/>
-        <updated>2022-03-02T08:26:49.714Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 김태환 기자] 최근 일부 손해보험사가 고가의 전기차에 대해 보험료를 대폭 인상하는 등 전기차 기피 현상이 나타나고 있다. 일반 자동차보다 수리비가 30% 가량 높고, 손해율이 100%를 넘어서면서 일반 차보험보다 15~33% 높게 책정되기 때문이다. 특히 테슬라의 경우 헌 배터리 반환 등의 정책적 사유로 수리비를 낮추기 어려워 전기차보험 손해]]></content>
     </entry>
 </feed>
