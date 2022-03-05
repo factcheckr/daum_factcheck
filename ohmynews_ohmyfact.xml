@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-03-05T01:24:38.781Z</updated>
+    <updated>2022-03-05T02:41:54.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["고양시 행정입원 0명인데 이재명은 25명" 윤석열 주장 '거짓']]></title>
+        <id>https://v.daum.net/v/20220305112405487</id>
+        <link href="https://v.daum.net/v/20220305112405487"/>
+        <updated>2022-03-05T02:41:43.541Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론 준비를 하고 있다. 왼쪽은 더불어민주당 이재명 대선 후보.    ⓒ 국회사진취재단  &nbsp; [검증대상] 윤석열 "고양시장은 정신병원 안 보냈는데 성남시는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리나라 무고죄 형량 가장 높다" 심상정 발언 '대체로 사실']]></title>
         <id>https://v.daum.net/v/20220304185407698</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220121071844111"/>
         <updated>2022-03-03T15:24:24.584Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;더불어민주당 이재명(오른쪽) 대선후보와 국민의당 안철수 대선후보가 17일 서울 중구 프레스센터에서 열린 재경 대구경북인 신년교례회에 참석해 대화하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "이재명 4년 중임제, 대통령 8년 하려는 속임수" 언론 보도 20대 대선이 50일도 채 남지 않은 가운데 대통령 4년 중임제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20220118185701306</id>
-        <link href="https://v.daum.net/v/20220118185701306"/>
-        <updated>2022-03-03T15:24:24.584Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] &nbsp;        ▲ &nbsp;윤석열 국민의힘 대선후보가 17일 서울 을지로입구역에서 '기호 2번 윤석열'이 적힌 어깨띠를 두르고 퇴근길 인사를 하고 있다.    ⓒ 국민의힘 선대본부 제공  &nbsp; &nbsp; [검증 대상] '기호 2번 윤석열' 어깨띠 착용은 선거법 위반? "기호 2번 적힌 어깨띠 두르고 지하철역내에서 인사? 이건 선거법 위반 아닌가?]]></content>
     </entry>
 </feed>
