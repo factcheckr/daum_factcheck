@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-05T03:24:17.592Z</updated>
+    <updated>2022-03-05T04:29:25.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
+        <id>https://v.daum.net/v/20220305130414713</id>
+        <link href="https://v.daum.net/v/20220305130414713"/>
+        <updated>2022-03-05T04:28:06.724Z</updated>
+        <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["고양시 행정입원 0명인데 이재명은 25명" 윤석열 주장 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220305112405487</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220303080005333"/>
         <updated>2022-03-02T23:22:09.265Z</updated>
         <content type="html"><![CDATA[■ 발언 : "정치인 자식은 산재 당할 가능성이 별로 없어" "사고가 났을 때 발전사 일부라도 정규직으로 고용을 하겠다고 약속을 했습니다. 그런데 지금까지 김용균의 친구 6,561명중에 단 한명도 정규직화 된 사람이 없습니다. 죽음 앞에서 한 약속인데도 지켜지지 않았어요.(…) 정치인들 가족이나 자식들은 비정규직으로 가서 현장에서 그런 참사를 당할 가능성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 윤석열 "'성인지 예산' 줄여 대공 방어망 구축"]]></title>
-        <id>https://v.daum.net/v/20220303060050236</id>
-        <link href="https://v.daum.net/v/20220303060050236"/>
-        <updated>2022-03-02T21:18:05.348Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "성인지 예산으로 대공 방어망 구축" "성인지 예산이라고 하는 것은 각 부처에 흩어져 있는 이런 예산들 중에 뭐 좀 여성에게 도움이 된다는 차원으로 만들어 놓은 그런 예산들인데(…) 그런 것으로 성과지표를 좀 과장도 하고 확대할 수 있는 것이니까 저는 그런 예산들을 지출구조조정을 할 수 있는 예산들이라고 봤고 거기서 조금만 지출구조조정을 해도]]></content>
     </entry>
 </feed>

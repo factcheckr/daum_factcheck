@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-03-05T03:24:17.687Z</updated>
+    <updated>2022-03-05T04:29:25.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
+        <id>https://v.daum.net/v/20220305130414713</id>
+        <link href="https://v.daum.net/v/20220305130414713"/>
+        <updated>2022-03-05T04:28:30.102Z</updated>
+        <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소가죽', '패륜아'.. 대선 현수막에 써도 된다?]]></title>
         <id>https://v.daum.net/v/20220224204314790</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211112102206806"/>
         <updated>2022-01-02T15:35:54.913Z</updated>
         <content type="html"><![CDATA[지난달 말 6살 소율양이 세상을 떠났습니다. 불의의 사고로 투병생활을 이어온지 2년 만에, 먼저 세상을 뜬 엄마의 품에 안겼습니다. 소율양은 심장과 좌·우 신장을 남기고 떠났습니다. 짧게 세상에 있다 갔지만 소율양의 몸의 일부는 누군가의 몸속에서 여전히 살아서 자라고 있습니다. 아버지 전기섭씨가 장기기증을 결심한 이유입니다. -전기섭/소율양 아버지 "제가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이 심장 잘 뛰나 궁금해"..소율아빠 소원 이뤄질까]]></title>
-        <id>https://v.daum.net/v/20211108203109271</id>
-        <link href="https://v.daum.net/v/20211108203109271"/>
-        <updated>2022-01-02T15:35:54.913Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ [지난 2019년] "엉덩이춤, 엉덩이춤, 엉덩이춤… 아이고 예쁘다. 아이고 잘 하네." 지난주 6살 소율이는 세 명의 목숨을 살리고 세상을 떠났습니다. 어렵게 아이를 떠나보낸 소율이 아빠는 나중에 "딸의 심장이 다시 건강하게 잘 뛰는지"라도 알고 싶다고 했습니다. [전기섭/소율이 아버지] "소율이 심장도 뛰고 있는 거다… 그러]]></content>
     </entry>
 </feed>
