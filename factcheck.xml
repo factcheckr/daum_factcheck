@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-06T19:18:07.430Z</updated>
+    <updated>2022-03-06T20:24:32.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사전투표 카오스.. "관리 부실인가 선거 부정인가" [팩트파인더]]]></title>
+        <id>https://v.daum.net/v/20220307043106015</id>
+        <link href="https://v.daum.net/v/20220307043106015"/>
+        <updated>2022-03-06T20:23:15.285Z</updated>
+        <content type="html"><![CDATA[지난 5일 신종 코로나바이러스 감염증(코로나19) 확진자와 격리자에 대한 사전투표가 극심한 혼란 속에서 치러졌다. 중앙선거관리위원회의 안일한 준비와 현장 대응을 두고 질타가 거센 가운데, ‘부정 선거’ 의혹마저 일각에서 제기됐다. 선관위와 정치권의 설명, 공직선거법 규정 등을 바탕으로 대혼란의 원인이 무엇이었는지, 부정 선거 소지가 정말로 있는지를 살펴봤다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
         <id>https://v.daum.net/v/20220305130414713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220303154805048"/>
         <updated>2022-03-03T07:20:32.833Z</updated>
         <content type="html"><![CDATA[핵심요약OECD 통계만 보면 상위권 속해 하지만 집계 기준에 증권거래세, 차량 취득세 등 포함 "회원국 늘면서 비교 대상 달라졌다" 주장도 국민의힘 윤석열 대선 후보가 제20대 대통령선거 정책공약집에서 '부동산 세제 정상화'를 내걸었다. 지난해 12월 "문재인 정부의 비정상적 부동산 세제부터 정상화하겠다"고 밝힌 데 따른 공약이다. 윤 후보는 지난달 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] 정규직화? 철저 수사?..토론 소환된 故 김용균]]></title>
-        <id>https://v.daum.net/v/20220303080005333</id>
-        <link href="https://v.daum.net/v/20220303080005333"/>
-        <updated>2022-03-02T23:22:09.265Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "정치인 자식은 산재 당할 가능성이 별로 없어" "사고가 났을 때 발전사 일부라도 정규직으로 고용을 하겠다고 약속을 했습니다. 그런데 지금까지 김용균의 친구 6,561명중에 단 한명도 정규직화 된 사람이 없습니다. 죽음 앞에서 한 약속인데도 지켜지지 않았어요.(…) 정치인들 가족이나 자식들은 비정규직으로 가서 현장에서 그런 참사를 당할 가능성]]></content>
     </entry>
 </feed>
