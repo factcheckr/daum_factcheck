@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-07T02:43:54.192Z</updated>
+    <updated>2022-03-07T03:24:34.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우크라이나 참전 위해 출국한 이근, 어떤 처벌받나?]]></title>
+        <id>https://v.daum.net/v/20220307120416696</id>
+        <link href="https://v.daum.net/v/20220307120416696"/>
+        <updated>2022-03-07T03:23:21.119Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 해군특수전전단(UDT/SEAL) 대위 출신 이근 씨가 우크라이나 의용군으로 참전하기 위해 정부 허가를 받지 않고 출국한 것으로 알려져 논란이 일고 있다. 이 전 대위는 지난 6일 자신의 SNS와 유튜브 채널에 우크라이나를 도와주지 않고 가만히 있을 수 없어 얼마 전 출국했다며 "살아서 돌아가면 제가 다 책임지고 주는 처벌을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사전투표 카오스.. "관리 부실인가 선거 부정인가" [팩트파인더]]]></title>
         <id>https://v.daum.net/v/20220307043106015</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220303200703710"/>
         <updated>2022-03-03T11:18:29.699Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다. 이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요? [기자] 복지를 늘리기 위해서는 증세, 즉 세금을 높여야 한다고 심상정 후보가 말했는데요. 이때 이재명 후보의 과거 발언을 문제 삼았습니다. 보시죠. [심상정/정의당 대선후보 (어제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]부동산세 징수, 우리가 OECD 최상위권?]]></title>
-        <id>https://v.daum.net/v/20220303154805048</id>
-        <link href="https://v.daum.net/v/20220303154805048"/>
-        <updated>2022-03-03T07:20:32.833Z</updated>
-        <content type="html"><![CDATA[핵심요약OECD 통계만 보면 상위권 속해 하지만 집계 기준에 증권거래세, 차량 취득세 등 포함 "회원국 늘면서 비교 대상 달라졌다" 주장도 국민의힘 윤석열 대선 후보가 제20대 대통령선거 정책공약집에서 '부동산 세제 정상화'를 내걸었다. 지난해 12월 "문재인 정부의 비정상적 부동산 세제부터 정상화하겠다"고 밝힌 데 따른 공약이다. 윤 후보는 지난달 24일]]></content>
     </entry>
 </feed>
