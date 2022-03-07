@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T06:28:58.252Z</updated>
+    <updated>2022-03-07T07:22:36.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 확진자가 일반 유권자로 속여 투표하면 처벌은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220307155202943</id>
+        <link href="https://v.daum.net/v/20220307155202943"/>
+        <updated>2022-03-07T07:21:15.995Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선을 이틀 앞둔 가운데 코로나19 확진자 및 격리자 관리가 선거 막판 정국의 뇌관으로 급부상했다. 4일과 5일 이틀 동안 진행된 사전투표에서 확진자가 투표용지를 직접 투표함에 넣지 못한 것을 두고 비밀·직접 투표 원칙이 지켜지지 않았다는 시비가 일고 있다. 중앙선거관리위원회가 7일 긴급회의를 개최한 뒤 본투표에서는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우크라이나 참전 위해 출국한 이근, 어떤 처벌받나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220307120416696</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220303210006537"/>
         <updated>2022-03-03T12:36:26.584Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 후보들은 어제(2일) 선거전 마지막 TV토론에서도 격론을 벌였습니다. 증세와 기본소득 문제를 놓고 공방이 이어졌는데, 저희 팩트체크, 사실은 팀이 후보들의 발언을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 토론회 전반부, 증세 문제가 도마 위에 올랐습니다. [심상정/정의당 대선 후보 : 증세를 이야기하는 저더러, 좌파적 관념이라고 얘기하고, 증세는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명, 증세는 자폭?..윤석열, 여성 돕는 성인지예산? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220303200703710</id>
-        <link href="https://v.daum.net/v/20220303200703710"/>
-        <updated>2022-03-03T11:18:29.699Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다. 이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요? [기자] 복지를 늘리기 위해서는 증세, 즉 세금을 높여야 한다고 심상정 후보가 말했는데요. 이때 이재명 후보의 과거 발언을 문제 삼았습니다. 보시죠. [심상정/정의당 대선후보 (어제)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
