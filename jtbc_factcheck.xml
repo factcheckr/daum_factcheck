@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-03-07T11:20:05.978Z</updated>
+    <updated>2022-03-07T12:37:45.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후보들의 '육아휴직' 공약..얼마나 더 받을 수 있나]]></title>
+        <id>https://v.daum.net/v/20220307205505924</id>
+        <link href="https://v.daum.net/v/20220307205505924"/>
+        <updated>2022-03-07T12:37:44.719Z</updated>
+        <content type="html"><![CDATA[[앵커] 대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그 중에서도 '육아휴직 급여'를 집중적으로 따져봤습니다. 후보들마다 차이가 컸습니다. 팩트체커, 이지은 기자입니다. [기자] 민주당 이재명 후보와 정의당 심상정 후보는 한 달 받는 육아휴직 지급액을 늘리겠다고 했습니다. 국민의힘 윤석열 후보는 휴직 기간을 늘리겠다고 했습니다. 대체로 육아휴직에 돈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 증세는 자폭?..윤석열, 여성 돕는 성인지예산?]]></title>
         <id>https://v.daum.net/v/20220303200703710</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220113202706213"/>
         <updated>2022-01-13T12:39:33.561Z</updated>
         <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우회전 때 '보행자 녹색불'이면? 어떻게 달라지나]]></title>
-        <id>https://v.daum.net/v/20220111202706624</id>
-        <link href="https://v.daum.net/v/20220111202706624"/>
-        <updated>2022-01-11T12:39:06.307Z</updated>
-        <content type="html"><![CDATA[[앵커] 오늘(11일) 팩트체크에선 '우회전 차량의 통과 기준'을 살펴봤습니다. 오늘 법 개정안이 공포됐습니다. 지금은 사실로 여겨져도 앞으론 사실이 아닐 수도 있습니다. 새롭게 팩트체크를 맡은 이지은 기자가 나와 있습니다. 법이 어떻게 강화되는 겁니까? [기자] 헷갈리는 교차로 우회전 4가지 경우를 가져와봤습니다. 이 중에서 일시 정지를 언제 해야 될지]]></content>
     </entry>
 </feed>

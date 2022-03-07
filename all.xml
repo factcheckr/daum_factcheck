@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T11:20:05.990Z</updated>
+    <updated>2022-03-07T12:37:45.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 후보들의 '육아휴직' 공약..얼마나 더 받을 수 있나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220307205505924</id>
+        <link href="https://v.daum.net/v/20220307205505924"/>
+        <updated>2022-03-07T12:36:33.236Z</updated>
+        <content type="html"><![CDATA[[앵커] 대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그 중에서도 '육아휴직 급여'를 집중적으로 따져봤습니다. 후보들마다 차이가 컸습니다. 팩트체커, 이지은 기자입니다. [기자] 민주당 이재명 후보와 정의당 심상정 후보는 한 달 받는 육아휴직 지급액을 늘리겠다고 했습니다. 국민의힘 윤석열 후보는 휴직 기간을 늘리겠다고 했습니다. 대체로 육아휴직에 돈을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 확진자가 일반 유권자로 속여 투표하면 처벌은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220307155202943</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220304185407698"/>
         <updated>2022-03-04T10:25:17.721Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;정의당 심상정(왼쪽부터), 국민의힘 윤석열 대선후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론에 앞서 기념촬영하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] 심상정 "우리나라 무고죄 형량, 세계에서 가장 높다" 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220303210006537</id>
-        <link href="https://v.daum.net/v/20220303210006537"/>
-        <updated>2022-03-03T12:36:26.584Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 후보들은 어제(2일) 선거전 마지막 TV토론에서도 격론을 벌였습니다. 증세와 기본소득 문제를 놓고 공방이 이어졌는데, 저희 팩트체크, 사실은 팀이 후보들의 발언을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 토론회 전반부, 증세 문제가 도마 위에 올랐습니다. [심상정/정의당 대선 후보 : 증세를 이야기하는 저더러, 좌파적 관념이라고 얘기하고, 증세는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;더불어민주당 이재명(오른쪽) 대선후보와 국민의당 안철수 대선후보가 17일 서울 중구 프레스센터에서 열린 재경 대구경북인 신년교례회에 참석해 대화하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "이재명 4년 중임제, 대통령 8년 하려는 속임수" 언론 보도 20대 대선이 50일도 채 남지 않은 가운데 대통령 4년 중임제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후보들의 '육아휴직' 공약..얼마나 더 받을 수 있나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220307205505924</id>
+        <link href="https://v.daum.net/v/20220307205505924"/>
+        <updated>2022-03-07T12:37:44.719Z</updated>
+        <content type="html"><![CDATA[[앵커] 대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그 중에서도 '육아휴직 급여'를 집중적으로 따져봤습니다. 후보들마다 차이가 컸습니다. 팩트체커, 이지은 기자입니다. [기자] 민주당 이재명 후보와 정의당 심상정 후보는 한 달 받는 육아휴직 지급액을 늘리겠다고 했습니다. 국민의힘 윤석열 후보는 휴직 기간을 늘리겠다고 했습니다. 대체로 육아휴직에 돈을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이재명, 증세는 자폭?..윤석열, 여성 돕는 성인지예산? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220303200703710</id>
         <link href="https://v.daum.net/v/20220303200703710"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220113202706213"/>
         <updated>2022-01-13T12:37:56.442Z</updated>
         <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우회전 때 '보행자 녹색불'이면? 어떻게 달라지나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220111202706624</id>
-        <link href="https://v.daum.net/v/20220111202706624"/>
-        <updated>2022-01-11T12:36:48.194Z</updated>
-        <content type="html"><![CDATA[[앵커] 오늘(11일) 팩트체크에선 '우회전 차량의 통과 기준'을 살펴봤습니다. 오늘 법 개정안이 공포됐습니다. 지금은 사실로 여겨져도 앞으론 사실이 아닐 수도 있습니다. 새롭게 팩트체크를 맡은 이지은 기자가 나와 있습니다. 법이 어떻게 강화되는 겁니까? [기자] 헷갈리는 교차로 우회전 4가지 경우를 가져와봤습니다. 이 중에서 일시 정지를 언제 해야 될지]]></content>
     </entry>
 </feed>
