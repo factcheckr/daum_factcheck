@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-10T13:28:42.198Z</updated>
+    <updated>2022-03-10T14:21:48.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20220310205104011</id>
         <link href="https://v.daum.net/v/20220310205104011"/>
         <updated>2022-03-10T12:37:15.271Z</updated>
-        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열 후]]></content>
+        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼 있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합)]]></title>
