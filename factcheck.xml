@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-10T20:24:38.102Z</updated>
+    <updated>2022-03-10T21:21:02.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이팩트가 본 윤석열, 후보 중 '거짓' 판정 최다  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220311060004315</id>
+        <link href="https://v.daum.net/v/20220311060004315"/>
+        <updated>2022-03-10T21:19:49.884Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;윤석열 대통령 당선인이 10일 오전 서울 여의도 국회 도서관에서 당선 인사 기자회견을 하고 있다.    ⓒ 공동취재사진  &nbsp; 윤석열 국민의힘 대통령 당선인이 제20대 대선 기간 오마이뉴스 팩트체크 결과 대선 후보 4명 가운데 '거짓' 판정을 가장 많이 받은 것으로 나타났다. 오마이뉴스 팩트체크 코너인 &lt;오마이팩트&gt;는 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 특정후보 기표란만 코팅?..부정선거 의혹 확인해보니]]></title>
         <id>https://v.daum.net/v/20220310205104011</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220305130414713"/>
         <updated>2022-03-05T04:28:06.724Z</updated>
         <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고양시 행정입원 0명인데 이재명은 25명" 윤석열 주장 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220305112405487</id>
-        <link href="https://v.daum.net/v/20220305112405487"/>
-        <updated>2022-03-05T02:40:41.300Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론 준비를 하고 있다. 왼쪽은 더불어민주당 이재명 대선 후보.    ⓒ 국회사진취재단  &nbsp; [검증대상] 윤석열 "고양시장은 정신병원 안 보냈는데 성남시는]]></content>
     </entry>
 </feed>
