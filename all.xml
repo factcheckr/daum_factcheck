@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T08:27:49.373Z</updated>
+    <updated>2022-03-10T09:23:09.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220310180602402</id>
+        <link href="https://v.daum.net/v/20220310180602402"/>
+        <updated>2022-03-10T09:21:49.613Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대통령선거에서 국민의힘 윤석열 후보의 당선이 확정된 이후 온라인 커뮤니티에는 최저임금이 폐지되는 게 아니냐는 글들이 여럿 올라왔다. "이제 120시간 일하고 최저시급 보장 못 받나요?", "윤석열 최저임금 폐지, 진짜인가요?" 등의 제목 아래 최저임금 폐지를 우려하는 내용이다. 이런 글은 선거일 직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220310164605817</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220305110002160"/>
         <updated>2022-03-05T02:40:41.300Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있다. 심 후보는 지난 2일 중앙선거방송토론위원회 주관으로 열린 3차 대선 후보 TV 토론회에서 "의료비가 1천만 원이 나오든 1억 원이 나오든 본인이 부담하는 상한액을 100만 원으로 한정하자"면서 "유럽 선진 국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220305070057979</id>
-        <link href="https://v.daum.net/v/20220305070057979"/>
-        <updated>2022-03-04T22:18:07.922Z</updated>
-        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
