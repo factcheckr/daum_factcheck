@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T11:20:49.297Z</updated>
+    <updated>2022-03-10T12:38:27.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 특정후보 기표란만 코팅?..부정선거 의혹 확인해보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220310205104011</id>
+        <link href="https://v.daum.net/v/20220310205104011"/>
+        <updated>2022-03-10T12:37:15.271Z</updated>
+        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220310180602402</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220305112405487"/>
         <updated>2022-03-05T02:40:41.300Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론 준비를 하고 있다. 왼쪽은 더불어민주당 이재명 대선 후보.    ⓒ 국회사진취재단  &nbsp; [검증대상] 윤석열 "고양시장은 정신병원 안 보냈는데 성남시는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 유럽 주요 국가는 의료비 본인부담상한제 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220305110002160</id>
-        <link href="https://v.daum.net/v/20220305110002160"/>
-        <updated>2022-03-05T02:40:41.300Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있다. 심 후보는 지난 2일 중앙선거방송토론위원회 주관으로 열린 3차 대선 후보 TV 토론회에서 "의료비가 1천만 원이 나오든 1억 원이 나오든 본인이 부담하는 상한액을 100만 원으로 한정하자"면서 "유럽 선진 국]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보들의 증세 · 기본소득 발언, 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;더불어민주당 이재명(오른쪽) 대선후보와 국민의당 안철수 대선후보가 17일 서울 중구 프레스센터에서 열린 재경 대구경북인 신년교례회에 참석해 대화하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "이재명 4년 중임제, 대통령 8년 하려는 속임수" 언론 보도 20대 대선이 50일도 채 남지 않은 가운데 대통령 4년 중임제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[특정후보 기표란만 코팅?..부정선거 의혹 확인해보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220310205104011</id>
+        <link href="https://v.daum.net/v/20220310205104011"/>
+        <updated>2022-03-10T12:38:26.500Z</updated>
+        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열 후]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후보들의 '육아휴직' 공약..얼마나 더 받을 수 있나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220307205505924</id>
         <link href="https://v.daum.net/v/20220307205505924"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220118202710022"/>
         <updated>2022-01-18T12:37:54.077Z</updated>
         <content type="html"><![CDATA[[앵커] 광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사진이 온라인에 올라온 건데, 팩트체크팀이 직접 가서 확인을 해봤습니다. 이지은 기자. 오늘(18일) 오전에 직접 가봤다고요? [기자] 오늘 한 부동산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 앗아간 추락..36살 전투기 '수명' 안 지났나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220113202706213</id>
-        <link href="https://v.daum.net/v/20220113202706213"/>
-        <updated>2022-01-13T12:37:56.442Z</updated>
-        <content type="html"><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞기는 합니다. 전투기 노후 정해진 수명이라는 게 있기 때문에 사용 연한, 즉 수명이 계속 늘어나고 있는 겁니다. 공군]]></content>
     </entry>
 </feed>

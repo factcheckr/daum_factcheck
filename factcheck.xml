@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-10T11:20:49.264Z</updated>
+    <updated>2022-03-10T12:38:27.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 특정후보 기표란만 코팅?..부정선거 의혹 확인해보니]]></title>
+        <id>https://v.daum.net/v/20220310205104011</id>
+        <link href="https://v.daum.net/v/20220310205104011"/>
+        <updated>2022-03-10T12:37:15.271Z</updated>
+        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합)]]></title>
         <id>https://v.daum.net/v/20220310180602402</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220305112405487"/>
         <updated>2022-03-05T02:40:41.300Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론 준비를 하고 있다. 왼쪽은 더불어민주당 이재명 대선 후보.    ⓒ 국회사진취재단  &nbsp; [검증대상] 윤석열 "고양시장은 정신병원 안 보냈는데 성남시는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 유럽 주요 국가는 의료비 본인부담상한제 한다?]]></title>
-        <id>https://v.daum.net/v/20220305110002160</id>
-        <link href="https://v.daum.net/v/20220305110002160"/>
-        <updated>2022-03-05T02:40:41.300Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있다. 심 후보는 지난 2일 중앙선거방송토론위원회 주관으로 열린 3차 대선 후보 TV 토론회에서 "의료비가 1천만 원이 나오든 1억 원이 나오든 본인이 부담하는 상한액을 100만 원으로 한정하자"면서 "유럽 선진 국]]></content>
     </entry>
 </feed>
