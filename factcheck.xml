@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-10T22:24:50.382Z</updated>
+    <updated>2022-03-10T23:24:07.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[오마이팩트가 본 윤석열, 후보 중 '거짓' 판정 최다  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220311060004315</id>
