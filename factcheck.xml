@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-14T11:20:29.315Z</updated>
+    <updated>2022-03-14T12:37:54.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 밤낮없이 산불 진압해도.. 초과근무수당 '0원'?]]></title>
+        <id>https://v.daum.net/v/20220314203110942</id>
+        <link href="https://v.daum.net/v/20220314203110942"/>
+        <updated>2022-03-14T12:36:43.423Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 '산불재난 특수진화대원'이 있는데요. 산 속 깊은 곳으로 들어가 최전선에서 화마와 싸우는 임무를 맡고 있습니다. 특히나 이번 산불의 경우에는 주말도 반납하고 밤낮없이 산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 군대에서 휴대전화 사용 못 하게 된다?]]></title>
         <id>https://v.daum.net/v/20220314120920607</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307120416696"/>
         <updated>2022-03-07T03:23:21.119Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 해군특수전전단(UDT/SEAL) 대위 출신 이근 씨가 우크라이나 의용군으로 참전하기 위해 정부 허가를 받지 않고 출국한 것으로 알려져 논란이 일고 있다. 이 전 대위는 지난 6일 자신의 SNS와 유튜브 채널에 우크라이나를 도와주지 않고 가만히 있을 수 없어 얼마 전 출국했다며 "살아서 돌아가면 제가 다 책임지고 주는 처벌을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사전투표 카오스.. "관리 부실인가 선거 부정인가" [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20220307043106015</id>
-        <link href="https://v.daum.net/v/20220307043106015"/>
-        <updated>2022-03-06T20:23:15.285Z</updated>
-        <content type="html"><![CDATA[지난 5일 신종 코로나바이러스 감염증(코로나19) 확진자와 격리자에 대한 사전투표가 극심한 혼란 속에서 치러졌다. 중앙선거관리위원회의 안일한 준비와 현장 대응을 두고 질타가 거센 가운데, ‘부정 선거’ 의혹마저 일각에서 제기됐다. 선관위와 정치권의 설명, 공직선거법 규정 등을 바탕으로 대혼란의 원인이 무엇이었는지, 부정 선거 소지가 정말로 있는지를 살펴봤다]]></content>
     </entry>
 </feed>

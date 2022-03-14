@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-03-14T11:20:29.318Z</updated>
+    <updated>2022-03-14T12:37:54.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밤낮없이 산불 진압해도.. 초과근무수당 '0원'?]]></title>
+        <id>https://v.daum.net/v/20220314203110942</id>
+        <link href="https://v.daum.net/v/20220314203110942"/>
+        <updated>2022-03-14T12:37:04.254Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 '산불재난 특수진화대원'이 있는데요. 산 속 깊은 곳으로 들어가 최전선에서 화마와 싸우는 임무를 맡고 있습니다. 특히나 이번 산불의 경우에는 주말도 반납하고 밤낮없이 산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
         <id>https://v.daum.net/v/20220305130414713</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211112202703077"/>
         <updated>2022-01-02T15:35:54.912Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 스토킹 처벌법이 시행된 지 약 3주가 지났습니다. 신고 건수가 크게 늘었고, 벌써 구속된 경우도 있습니다. 그런데 층간 소음 분쟁이나 개인 간 다툼까지 스토킹으로 신고해서 오용 우려가 있다는 기사들도 나옵니다. 정말 층간 소음 분쟁에까지 스토킹 처벌법이 적용될 수 있는 걸까요? 이게 사실인지, 무엇이 문제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새 생명 주셔서 고맙다'는 편지 받으면..어떨까]]></title>
-        <id>https://v.daum.net/v/20211112102206806</id>
-        <link href="https://v.daum.net/v/20211112102206806"/>
-        <updated>2022-01-02T15:35:54.913Z</updated>
-        <content type="html"><![CDATA[지난달 말 6살 소율양이 세상을 떠났습니다. 불의의 사고로 투병생활을 이어온지 2년 만에, 먼저 세상을 뜬 엄마의 품에 안겼습니다. 소율양은 심장과 좌·우 신장을 남기고 떠났습니다. 짧게 세상에 있다 갔지만 소율양의 몸의 일부는 누군가의 몸속에서 여전히 살아서 자라고 있습니다. 아버지 전기섭씨가 장기기증을 결심한 이유입니다. -전기섭/소율양 아버지 "제가]]></content>
     </entry>
 </feed>
