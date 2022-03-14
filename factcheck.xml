@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-14T02:43:51.705Z</updated>
+    <updated>2022-03-14T03:26:59.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 군대에서 휴대전화 사용 못 하게 된다?]]></title>
+        <id>https://v.daum.net/v/20220314120920607</id>
+        <link href="https://v.daum.net/v/20220314120920607"/>
+        <updated>2022-03-14T03:25:40.935Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 새 정부의 밑그림을 그릴 대통령직인수위원회(인수위) 출범을 앞두고 군대에서 휴대전화를 사용하지 못하게 되는 게 아니냐는 글들이 온라인 공간에 올라오고 있다. "윤석열 대통령 당선이 되었는데 군 복무 기간이 늘어나고 휴대폰도 뺏기나요?"라는 글에 "그럴 가능성이 높다", "폰 뺏는 건 확실하고 군 복무기간 연장 여부는 토론 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이팩트가 본 윤석열, 후보 중 '거짓' 판정 최다  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220311060004315</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307043106015"/>
         <updated>2022-03-06T20:23:15.285Z</updated>
         <content type="html"><![CDATA[지난 5일 신종 코로나바이러스 감염증(코로나19) 확진자와 격리자에 대한 사전투표가 극심한 혼란 속에서 치러졌다. 중앙선거관리위원회의 안일한 준비와 현장 대응을 두고 질타가 거센 가운데, ‘부정 선거’ 의혹마저 일각에서 제기됐다. 선관위와 정치권의 설명, 공직선거법 규정 등을 바탕으로 대혼란의 원인이 무엇이었는지, 부정 선거 소지가 정말로 있는지를 살펴봤다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
-        <id>https://v.daum.net/v/20220305130414713</id>
-        <link href="https://v.daum.net/v/20220305130414713"/>
-        <updated>2022-03-05T04:28:06.724Z</updated>
-        <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
     </entry>
 </feed>
