@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-15T02:45:52.979Z</updated>
+    <updated>2022-03-15T03:25:44.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 신규확진 세계 1위라고 코로나 방역 정책 부실?]]></title>
+        <id>https://v.daum.net/v/20220315115540773</id>
+        <link href="https://v.daum.net/v/20220315115540773"/>
+        <updated>2022-03-15T03:24:33.031Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 코로나19 오미크론 변이 확산으로 최근 국내 확진자가 급증하면서 방역 정책에 대한 불만과 불안이 커지고 있다. 하루 신규 확진자가 30만 명대로 올라선 가운데 유전자증폭(PCR) 검사와 함께 신속항원검사 양성도 확진으로 인정하자 병원으로 검사자들이 몰리면서 혼란이 빚어지고 있기 때문이다. 온라인에서는 "그동안 정부 뭐했냐"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 40대는 민주당의 철옹성인가요?]]></title>
         <id>https://v.daum.net/v/20220315113015827</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220308183433287"/>
         <updated>2022-03-08T10:24:46.636Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8일 '세계 여성의날'을 맞아 "우리나라는 국가발전 정도에 비해 성평등에서 크게 뒤떨어져 있다"고 말했다. 성평등은 이번 20대 대통령선거에서 역대 어느 선거보다 뜨거운 쟁점으로 부상해 후보 간 공방도 치열하다. 더불어민주당 이재명, 정의당 심상정 후보는 우리 사회의 구조적 성차별을 개선하기 위해 여성가족부를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 후보들의 '육아휴직' 공약..얼마나 더 받을 수 있나]]></title>
-        <id>https://v.daum.net/v/20220307205505924</id>
-        <link href="https://v.daum.net/v/20220307205505924"/>
-        <updated>2022-03-07T12:36:33.236Z</updated>
-        <content type="html"><![CDATA[[앵커] 대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그중에서도 '육아휴직 급여'를 집중적으로 따져봤습니다. 후보들마다 차이가 컸습니다. 팩트체커, 이지은 기자입니다. [기자] 민주당 이재명 후보와 정의당 심상정 후보는 한 달 받는 육아휴직 지급액을 늘리겠다고 했습니다. 국민의힘 윤석열 후보는 육아휴직 기간을 늘리겠다고 했습니다. 대체로 육아휴직에 돈]]></content>
     </entry>
 </feed>
