@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-14T23:24:25.387Z</updated>
+    <updated>2022-03-15T01:36:35.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스AS] 2022년 봄 꿀벌은 왜 '집단 실종'됐나]]></title>
+        <title type="html"><![CDATA[갑자기 벌통 텅~ "꽃이 일찍 핀 탓에 길을 깜빡 잃었어요" [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220315050630758</id>
         <link href="https://v.daum.net/v/20220315050630758"/>
         <updated>2022-03-14T23:23:12.347Z</updated>
