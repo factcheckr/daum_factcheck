@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-15T23:23:57.574Z</updated>
+    <updated>2022-03-16T01:38:54.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220316060015755"/>
         <updated>2022-03-15T21:16:46.065Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 오경선 기자] 제 20대 대통령선거에서 윤석열 국민의힘 후보가 당선되면서 주식시장 활성화 정책에 대한 관심이 높아지고 있다. 윤 당선인은 당초 '증권거래세 폐지'를 공약으로 내걸었으나, 곧 이를 철회하고 대체 공약으로 '주식양도소득세 폐지'를 약속했다. 이를 두고 개인투자자들을 중심으로 윤 후보의 공약이 대다수의 개인투자자에겐 실익이 없다는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] "휘발유 다 따라잡았네"..경유값 더 뛰는 이유는]]></title>
+        <id>https://v.daum.net/v/20220316050603035</id>
+        <link href="https://v.daum.net/v/20220316050603035"/>
+        <updated>2022-03-16T01:37:34.731Z</updated>
+        <content type="html"><![CDATA[“운전을 많이 하는 직업이라 연비 고려해서 디젤차로 샀는데, 요즘은 그 이점을 느낄 수가 없다. 일주일마다 넣는 기름값이 6만~7만원으로 지난 달과 비교해 체감상 만원 이상 오른 것 같다.” 인천에서 프리랜서로 일하는 정명규(31)씨는 15일 &lt;한겨레&gt;에 “경유 가격이 휘발유 가격을 거의 따라잡았다”며 이같이 말했다. 러시아-우크라이나 사태 이후 유가가 급]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '셀프 무궁화대훈장' 논란, 5년마다 왜 반복되나]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220310205104011"/>
         <updated>2022-03-10T12:37:15.271Z</updated>
         <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼 있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합)]]></title>
-        <id>https://v.daum.net/v/20220310180602402</id>
-        <link href="https://v.daum.net/v/20220310180602402"/>
-        <updated>2022-03-10T09:21:49.613Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대통령선거에서 국민의힘 윤석열 후보의 당선이 확정된 이후 온라인 커뮤니티에는 최저임금이 폐지되는 게 아니냐는 글들이 여럿 올라왔다. "이제 120시간 일하고 최저시급 보장 못 받나요?", "윤석열 최저임금 폐지, 진짜인가요?" 등의 제목 아래 최저임금 폐지를 우려하는 내용이다. 이런 글은 선거일 직]]></content>
     </entry>
 </feed>
