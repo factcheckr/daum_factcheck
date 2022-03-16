@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-16T04:29:48.891Z</updated>
+    <updated>2022-03-16T05:21:43.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 새 정부에선 노인 지하철 무임승차 혜택 줄어든다?]]></title>
+        <id>https://v.daum.net/v/20220316140828481</id>
+        <link href="https://v.daum.net/v/20220316140828481"/>
+        <updated>2022-03-16T05:20:22.282Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 5월 출범하는 윤석열 정부에 대한 관심이 커지는 가운데 인터넷 커뮤니티에는 65세 이상 노인의 지하철 무임승차 혜택이 줄어들 것이라는 글들이 올라와 갑론을박이 벌어졌다. 최근 친민주당 성향 커뮤니티인 클리앙에는 '윤석열 당선인이 65세 이상에게 드릴 첫 번째 선물'이라는 제목 아래 지하철 무임승차 제한 가능성을 보도한 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 개인투자자, 주식 양도세 폐지 덕 볼까?]]></title>
         <id>https://v.daum.net/v/20220316060015755</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220311060004315"/>
         <updated>2022-03-10T21:19:49.884Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;윤석열 대통령 당선인이 10일 오전 서울 여의도 국회 도서관에서 당선 인사 기자회견을 하고 있다.    ⓒ 공동취재사진  &nbsp; 윤석열 국민의힘 대통령 당선인이 제20대 대선 기간 오마이뉴스 팩트체크 결과 대선 후보 4명 가운데 '거짓' 판정을 가장 많이 받은 것으로 나타났다. 오마이뉴스 팩트체크 코너인 &lt;오마이팩트&gt;는 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 특정후보 기표란만 코팅?..부정선거 의혹 확인해보니]]></title>
-        <id>https://v.daum.net/v/20220310205104011</id>
-        <link href="https://v.daum.net/v/20220310205104011"/>
-        <updated>2022-03-10T12:37:15.271Z</updated>
-        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼 있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열]]></content>
     </entry>
 </feed>
