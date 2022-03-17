@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-17T11:19:52.916Z</updated>
+    <updated>2022-03-17T12:40:17.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니]]></title>
+        <id>https://v.daum.net/v/20220317212607153</id>
+        <link href="https://v.daum.net/v/20220317212607153"/>
+        <updated>2022-03-17T12:39:02.600Z</updated>
+        <content type="html"><![CDATA[[앵커] 인사권을 둘러싼 신구권력의 충돌, 임기 말 인사 중단은 관례다, 이런 주장들이 나왔는데, 팩트체크해보겠습니다. 이지은 기자가 나와 있습니다. 맞는 얘기입니까? [기자] 대부분 정권이 바뀔 때마다 충돌이 있었습니다. 이명박 정부 대통령비서실장 출신인 임태희 윤 당선인 특별고문이 오늘(17일) 이렇게 말했습니다. [임태희/윤석열 당선인 특별고문 (MB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대통령 집무실과 비서동 상당한 시간 소요" 김은혜 주장 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220317170600434</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220315050630758"/>
         <updated>2022-03-14T23:23:12.347Z</updated>
         <content type="html"><![CDATA[잔인한 봄이 이어지고 있다. 전국 양봉농가 곳곳에서 꿀벌이 집단 실종되고 있다는 신고가 접수되고 있다. 관계당국이 정확한 원인 파악에 나섰는데 현재로서는 이상기후와 해충이 복합적으로 영향을 미친 것으로 추정된다. 농림진흥청과 농림축산검역본부, 지자체, 한국양봉협회는 지난 1월7일부터 지난달 24일까지 전국 9개 도 34개 시·군의 양봉 농가 99개의 꿀벌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 밤낮없이 산불 진압해도.. 초과근무수당 '0원'?]]></title>
-        <id>https://v.daum.net/v/20220314203110942</id>
-        <link href="https://v.daum.net/v/20220314203110942"/>
-        <updated>2022-03-14T12:36:43.423Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 '산불재난 특수진화대원'이 있는데요. 산 속 깊은 곳으로 들어가 최전선에서 화마와 싸우는 임무를 맡고 있습니다. 특히나 이번 산불의 경우에는 주말도 반납하고 밤낮없이 산]]></content>
     </entry>
 </feed>
