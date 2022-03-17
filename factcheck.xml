@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-17T07:22:15.043Z</updated>
+    <updated>2022-03-17T08:28:00.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대통령 집무실과 비서동 상당한 시간 소요" 김은혜 주장 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220317170600434</id>
+        <link href="https://v.daum.net/v/20220317170600434"/>
+        <updated>2022-03-17T08:26:42.364Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김은혜 당선인 대변인이 11일 오후 서울 여의도 국민의힘 당사에서 당선인 일정 및 현안에 대해 브리핑하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 김은혜 "비서동에서 대통령 집무실까지 상당한 시간 소요" 윤석열 대통령 당선인 대변인을 맡고 있는 김은혜 국민의힘 의원은 17일 오전 여의도 국민의힘 당사에 열린 브리핑에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] '벚꽃 서울' 28일 전망..봄꽃을 반길 수만은 없다는데]]></title>
         <id>https://v.daum.net/v/20220317113602341</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220314203110942"/>
         <updated>2022-03-14T12:36:43.423Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 '산불재난 특수진화대원'이 있는데요. 산 속 깊은 곳으로 들어가 최전선에서 화마와 싸우는 임무를 맡고 있습니다. 특히나 이번 산불의 경우에는 주말도 반납하고 밤낮없이 산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 군대에서 휴대전화 사용 못 하게 된다?]]></title>
-        <id>https://v.daum.net/v/20220314120920607</id>
-        <link href="https://v.daum.net/v/20220314120920607"/>
-        <updated>2022-03-14T03:25:40.935Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 새 정부의 밑그림을 그릴 대통령직인수위원회(인수위) 출범을 앞두고 군대에서 휴대전화를 사용하지 못하게 되는 게 아니냐는 글들이 온라인 공간에 올라오고 있다. "윤석열 대통령 당선이 되었는데 군 복무 기간이 늘어나고 휴대폰도 뺏기나요?"라는 글에 "그럴 가능성이 높다", "폰 뺏는 건 확실하고 군 복무기간 연장 여부는 토론 중]]></content>
     </entry>
 </feed>
