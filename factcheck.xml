@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-18T11:20:15.449Z</updated>
+    <updated>2022-03-18T12:37:49.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위?]]></title>
+        <id>https://v.daum.net/v/20220318202809472</id>
+        <link href="https://v.daum.net/v/20220318202809472"/>
+        <updated>2022-03-18T12:36:28.994Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. "한국이 갈등 세계 1위 됐다", "한국이 문화전쟁이 가장 심한 곳이다". 우리 사회의 갈등이 '세계 1위'로 공인받을 수준이라는 얘기인데 이런 구체적 등수가 어디서 어떻게 나오게 됐는지 알아봤습니다. 한국이 '갈등 세계 1위'라고 명시한 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니]]></title>
         <id>https://v.daum.net/v/20220317212607153</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220315113015827"/>
         <updated>2022-03-15T02:44:33.895Z</updated>
         <content type="html"><![CDATA[독일의 사회학자 칼 만하임은 세대의 동질성을 코호트(cohort)라는 개념으로 설명합니다. 비슷한 시기 태어나 유사한 사회적 경험을 하게 되며, 정치적으로도 유사한 태도를 갖게 된다는 겁니다. 자연히 선거 공학자들에게 세대는 지역과 함께 중요한 분석 단위가 됩니다. 최근 세대 담론의 중심에는 '청년층'이 있습니다. 전통적으로 저항적이고 전위적이며, 혁신적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 꿀벌 60억마리가 갑자기 사라졌다, 왜]]></title>
-        <id>https://v.daum.net/v/20220315050630758</id>
-        <link href="https://v.daum.net/v/20220315050630758"/>
-        <updated>2022-03-14T23:23:12.347Z</updated>
-        <content type="html"><![CDATA[잔인한 봄이 이어지고 있다. 전국 양봉농가 곳곳에서 꿀벌이 집단 실종되고 있다는 신고가 접수되고 있다. 관계당국이 정확한 원인 파악에 나섰는데 현재로서는 이상기후와 해충이 복합적으로 영향을 미친 것으로 추정된다. 농림진흥청과 농림축산검역본부, 지자체, 한국양봉협회는 지난 1월7일부터 지난달 24일까지 전국 9개 도 34개 시·군의 양봉 농가 99개의 꿀벌]]></content>
     </entry>
 </feed>

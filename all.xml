@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T11:20:15.469Z</updated>
+    <updated>2022-03-18T12:37:49.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220318202809472</id>
+        <link href="https://v.daum.net/v/20220318202809472"/>
+        <updated>2022-03-18T12:36:28.994Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. "한국이 갈등 세계 1위 됐다", "한국이 문화전쟁이 가장 심한 곳이다". 우리 사회의 갈등이 '세계 1위'로 공인받을 수준이라는 얘기인데 이런 구체적 등수가 어디서 어떻게 나오게 됐는지 알아봤습니다. 한국이 '갈등 세계 1위'라고 명시한 건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220317212607153</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220315113015827"/>
         <updated>2022-03-15T02:44:33.895Z</updated>
         <content type="html"><![CDATA[독일의 사회학자 칼 만하임은 세대의 동질성을 코호트(cohort)라는 개념으로 설명합니다. 비슷한 시기 태어나 유사한 사회적 경험을 하게 되며, 정치적으로도 유사한 태도를 갖게 된다는 겁니다. 자연히 선거 공학자들에게 세대는 지역과 함께 중요한 분석 단위가 됩니다. 최근 세대 담론의 중심에는 '청년층'이 있습니다. 전통적으로 저항적이고 전위적이며, 혁신적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 꿀벌 60억마리가 갑자기 사라졌다, 왜 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220315050630758</id>
-        <link href="https://v.daum.net/v/20220315050630758"/>
-        <updated>2022-03-14T23:23:12.347Z</updated>
-        <content type="html"><![CDATA[잔인한 봄이 이어지고 있다. 전국 양봉농가 곳곳에서 꿀벌이 집단 실종되고 있다는 신고가 접수되고 있다. 관계당국이 정확한 원인 파악에 나섰는데 현재로서는 이상기후와 해충이 복합적으로 영향을 미친 것으로 추정된다. 농림진흥청과 농림축산검역본부, 지자체, 한국양봉협회는 지난 1월7일부터 지난달 24일까지 전국 9개 도 34개 시·군의 양봉 농가 99개의 꿀벌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[40대는 민주당의 철옹성인가요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[여야 4당 대선 후보들이 어제 첫 TV토론에서 맞붙었습니다. 토론회 초반부터 '대장동 의혹 책임론'을 두고 격론을 벌였습니다. 토론 중반부 주제는 외교·안보 분야였습니다. 윤석열 후보의 '사드 추가 배치' 공약에 대해 이재명 후보가 반박에 나섰습니다. 이 후보는 "빈센트 브룩스 전 주한미군 사령관도 사드 추가 배치가 필요 없다고 했다"고 주장했고, 윤 후]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리나라 '갈등'이 세계 1위? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220318202809472</id>
+        <link href="https://v.daum.net/v/20220318202809472"/>
+        <updated>2022-03-18T12:36:52.589Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. "한국이 갈등 세계 1위 됐다", "한국이 문화전쟁이 가장 심한 곳이다". 우리 사회의 갈등이 '세계 1위'로 공인받을 수준이라는 얘기인데 이런 구체적 등수가 어디서 어떻게 나오게 됐는지 알아봤습니다. 한국이 '갈등 세계 1위'라고 명시한 건]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[밤낮없이 산불 진압해도.. 초과근무수당 '0원'? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220314203110942</id>
         <link href="https://v.daum.net/v/20220314203110942"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20211119201007347"/>
         <updated>2022-01-02T15:35:54.912Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 인천의 한 아파트에서 입주자대표가 놀이터에서 놀고 있는 비입주민 어린이들을 경찰에 신고한 일이 있었죠. 또 며칠전에는 경기도의 한 아파트단지에서 외부인이 놀이터를 이용하려면 인식표를 받도록 해서 논란이 일었습니다. 아무리 그래도 아이들이 노는 놀이터 이용을 막는건 너무하다는 의견이 다수였지만, 아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스토킹 처벌법, 층간소음 분쟁에까지 적용? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20211112202703077</id>
-        <link href="https://v.daum.net/v/20211112202703077"/>
-        <updated>2022-01-02T15:35:54.912Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 스토킹 처벌법이 시행된 지 약 3주가 지났습니다. 신고 건수가 크게 늘었고, 벌써 구속된 경우도 있습니다. 그런데 층간 소음 분쟁이나 개인 간 다툼까지 스토킹으로 신고해서 오용 우려가 있다는 기사들도 나옵니다. 정말 층간 소음 분쟁에까지 스토킹 처벌법이 적용될 수 있는 걸까요? 이게 사실인지, 무엇이 문제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
