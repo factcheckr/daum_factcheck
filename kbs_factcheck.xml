@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-03-21T22:23:44.283Z</updated>
+    <updated>2022-03-21T23:23:55.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다?]]></title>
+        <id>https://v.daum.net/v/20220322080010760</id>
+        <link href="https://v.daum.net/v/20220322080010760"/>
+        <updated>2022-03-21T23:23:18.163Z</updated>
+        <content type="html"><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. 전 인구의 63.1%에 해당합니다(2022.03.21.0시 기준). 오는 31일부터는 5~11세 소아도 코로나19 화이자 백신 접종을 시작합니다. 최근 확진자가 급증하면서 일부에서는 백신 무용론도 제기하고 있지만 대다수 전문가들은 여전히 백신 접종 효과를 강조하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다?]]></title>
         <id>https://v.daum.net/v/20220305070057979</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220204060117514"/>
         <updated>2022-02-03T21:18:24.448Z</updated>
         <content type="html"><![CDATA[■ 발언 : "개발이익 70% 환수, 추가로 1,100억 원 더 환수" "(대장동 개발 이익을) 최대치로 환수해 70% 환수했고, 추가로 1,100억 원 더 환수했습니다." "(양평군) 공흥지구, 이런 데 그냥 허가해줘서 이익 다 보셨잖아요. 부산 엘시티 1조 원 다 업자가 가져갔는데. 그래도 저는 이걸 확보하려고 정말 발버둥을 쳤고…" 이재명 더불어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자가진단키트 음성확인서도 방역패스로 쓸 수 있다?]]></title>
-        <id>https://v.daum.net/v/20220127070114183</id>
-        <link href="https://v.daum.net/v/20220127070114183"/>
-        <updated>2022-01-26T22:21:26.042Z</updated>
-        <content type="html"><![CDATA[오미크론 변이 바이러스 감염이 급격히 확산하면서 코로나19 확진자가 13,000명을 넘어섰습니다.(2022.01.26. 0시 기준 13,012명) 처음으로 하루 확진자 만 명을 넘긴 어제(26일), 광주광역시와 전라남도 전역, 경기도 평택, 경기도 안성 등 4개 지역에서 오미크론 변이에 대응하는 조치가 처음 실시됐습니다. 이들 지역에서는 어제부터 고위험군]]></content>
     </entry>
 </feed>

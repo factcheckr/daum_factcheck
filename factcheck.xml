@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-21T22:23:44.281Z</updated>
+    <updated>2022-03-21T23:23:55.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 화이자 백신 접종하면 난소암에 걸린다?]]></title>
+        <id>https://v.daum.net/v/20220322080010760</id>
+        <link href="https://v.daum.net/v/20220322080010760"/>
+        <updated>2022-03-21T23:22:49.144Z</updated>
+        <content type="html"><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. 전 인구의 63.1%에 해당합니다(2022.03.21.0시 기준). 오는 31일부터는 5~11세 소아도 코로나19 화이자 백신 접종을 시작합니다. 최근 확진자가 급증하면서 일부에서는 백신 무용론도 제기하고 있지만 대다수 전문가들은 여전히 백신 접종 효과를 강조하고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 국방부 벙커 위치 손짓..尹 군사기밀 누설?]]></title>
         <id>https://v.daum.net/v/20220322051018623</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220317212607153"/>
         <updated>2022-03-17T12:39:02.600Z</updated>
         <content type="html"><![CDATA[[앵커] 인사권을 둘러싼 신구권력의 충돌, 임기 말 인사 중단은 관례다, 이런 주장들이 나왔는데, 팩트체크해보겠습니다. 이지은 기자가 나와 있습니다. 맞는 얘기입니까? [기자] 대부분 정권이 바뀔 때마다 충돌이 있었습니다. 이명박 정부 대통령비서실장 출신인 임태희 윤 당선인 특별고문이 오늘(17일) 이렇게 말했습니다. [임태희/윤석열 당선인 특별고문 (MB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대통령 집무실과 비서동 상당한 시간 소요" 김은혜 주장 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220317170600434</id>
-        <link href="https://v.daum.net/v/20220317170600434"/>
-        <updated>2022-03-17T08:26:42.364Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김은혜 당선인 대변인이 11일 오후 서울 여의도 국민의힘 당사에서 당선인 일정 및 현안에 대해 브리핑하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 김은혜 "비서동에서 대통령 집무실까지 상당한 시간 소요" 윤석열 대통령 당선인 대변인을 맡고 있는 김은혜 국민의힘 의원은 17일 오전 여의도 국민의힘 당사에 열린 브리핑에]]></content>
     </entry>
 </feed>
