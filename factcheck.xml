@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-21T19:20:03.433Z</updated>
+    <updated>2022-03-21T20:24:50.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 국방부 벙커 위치 손짓..尹 군사기밀 누설?]]></title>
+        <id>https://v.daum.net/v/20220322051018623</id>
+        <link href="https://v.daum.net/v/20220322051018623"/>
+        <updated>2022-03-21T20:23:42.996Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 당선인이 대통령 집무실 이전 관련 브리핑에서 국방부 벙커 위치를 언급해 논란이 일고 있습니다. 군사 기밀을 누출했다는 지적이 나오자, 김은혜 대변인이 아니라며 반박하기도 했는데요. 기획탐사팀 박희재 기자가 팩트체크했습니다. [기자] 대통령 집무실 이전 계획을 직접 발표한 윤석열 당선인. 국방부 지하벙커를 언급하며 위치를 가리키는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명 지사가 4천700억원 들여 경기도청 이전했다?]]></title>
         <id>https://v.daum.net/v/20220321183532337</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220317170600434"/>
         <updated>2022-03-17T08:26:42.364Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김은혜 당선인 대변인이 11일 오후 서울 여의도 국민의힘 당사에서 당선인 일정 및 현안에 대해 브리핑하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 김은혜 "비서동에서 대통령 집무실까지 상당한 시간 소요" 윤석열 대통령 당선인 대변인을 맡고 있는 김은혜 국민의힘 의원은 17일 오전 여의도 국민의힘 당사에 열린 브리핑에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] '벚꽃 서울' 28일 전망..봄꽃을 반길 수만은 없다는데]]></title>
-        <id>https://v.daum.net/v/20220317113602341</id>
-        <link href="https://v.daum.net/v/20220317113602341"/>
-        <updated>2022-03-17T03:23:53.352Z</updated>
-        <content type="html"><![CDATA[진달래·개나리·벚꽃 등 봄꽃 개화 시기가 점차 빨라지고 있는 가운데, 올해도 평년보다 이르게 봄꽃을 만나볼 수 있게 됐다. 점차 앞당겨지는 개화에는 기후변화로 인한 기온 상승의 영향이 있어, 일찍 피는 꽃을 반길 수만은 없다는 얘기가 나온다. 17일 민간 기상기업 웨더아이에 따르면, 올해 벚꽃 개화 시기는 서울 기준 3월28일로 다음달 4일께 절정에 이를]]></content>
     </entry>
 </feed>
