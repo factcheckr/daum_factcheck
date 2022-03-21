@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-21T02:55:47.987Z</updated>
+    <updated>2022-03-21T03:31:23.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국방부·합참 이전, 그리 쉽다고? 용산공원도 계획대로 뚝딱? [팩트파인더]]]></title>
+        <id>https://v.daum.net/v/20220321120002211</id>
+        <link href="https://v.daum.net/v/20220321120002211"/>
+        <updated>2022-03-21T03:30:11.150Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령 당선인이 20일 취임 후 집무실을 ‘용산 국방부 청사’로 확정하면서 당장 10개층을 비워줘야 하는 국방부는 옆 동인 합동참모본부와 별관, 서울 소재 군 부대, 상황에 따라 후암동 옛 방위사업청, 정부과천청사 등으로 뿔뿔이 흩어진다. 합참은 남태령 수도방위사령부로, 장기적으로 국방부는 과천청사로 이전하는 방안도 제시됐다. 불과 열흘 만에 이뤄진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 한국은 어쩌다 '갈등공화국'이 되었나 (인터뷰)]]></title>
         <id>https://v.daum.net/v/20220320100711954</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220316140828481"/>
         <updated>2022-03-16T05:20:22.282Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 5월 출범하는 윤석열 정부에 대한 관심이 커지는 가운데 인터넷 커뮤니티에는 65세 이상 노인의 지하철 무임승차 혜택이 줄어들 것이라는 글들이 올라와 갑론을박이 벌어졌다. 최근 친민주당 성향 커뮤니티인 클리앙에는 '윤석열 당선인이 65세 이상에게 드릴 첫 번째 선물'이라는 제목 아래 지하철 무임승차 제한 가능성을 보도한 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 개인투자자, 주식 양도세 폐지 덕 볼까?]]></title>
-        <id>https://v.daum.net/v/20220316060015755</id>
-        <link href="https://v.daum.net/v/20220316060015755"/>
-        <updated>2022-03-15T21:16:46.065Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 오경선 기자] 제 20대 대통령선거에서 윤석열 국민의힘 후보가 당선되면서 주식시장 활성화 정책에 대한 관심이 높아지고 있다. 윤 당선인은 당초 '증권거래세 폐지'를 공약으로 내걸었으나, 곧 이를 철회하고 대체 공약으로 '주식양도소득세 폐지'를 약속했다. 이를 두고 개인투자자들을 중심으로 윤 후보의 공약이 대다수의 개인투자자에겐 실익이 없다는]]></content>
     </entry>
 </feed>
