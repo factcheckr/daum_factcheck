@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T09:23:42.230Z</updated>
+    <updated>2022-03-21T10:27:09.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명 지사가 4천700억원 들여 경기도청 이전했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220321183532337</id>
+        <link href="https://v.daum.net/v/20220321183532337"/>
+        <updated>2022-03-21T10:26:08.738Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인이 대통령 집무실 용산 이전을 공식화한 가운데 이전 비용 규모를 둘러싼 논란이 이어지고 있다. 윤 당선인이 20일 기자회견에서 밝힌 이전 비용 규모는 496억원 수준이지만, 민주당 일각에서는 최소 1조원이 든다는 주장도 나오고 있다. 이런 가운데 청와대 이전 태스크포스(TF) 팀장인 윤한홍 국민의힘 의원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방부·합참 이전, 그리 쉽다고? 용산공원도 계획대로 뚝딱? [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220321120002211</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220317113602341"/>
         <updated>2022-03-17T03:23:53.352Z</updated>
         <content type="html"><![CDATA[진달래·개나리·벚꽃 등 봄꽃 개화 시기가 점차 빨라지고 있는 가운데, 올해도 평년보다 이르게 봄꽃을 만나볼 수 있게 됐다. 점차 앞당겨지는 개화에는 기후변화로 인한 기온 상승의 영향이 있어, 일찍 피는 꽃을 반길 수만은 없다는 얘기가 나온다. 17일 민간 기상기업 웨더아이에 따르면, 올해 벚꽃 개화 시기는 서울 기준 3월28일로 다음달 4일께 절정에 이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 새 정부에선 노인 지하철 무임승차 혜택 줄어든다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220316140828481</id>
-        <link href="https://v.daum.net/v/20220316140828481"/>
-        <updated>2022-03-16T05:20:22.282Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 5월 출범하는 윤석열 정부에 대한 관심이 커지는 가운데 인터넷 커뮤니티에는 65세 이상 노인의 지하철 무임승차 혜택이 줄어들 것이라는 글들이 올라와 갑론을박이 벌어졌다. 최근 친민주당 성향 커뮤니티인 클리앙에는 '윤석열 당선인이 65세 이상에게 드릴 첫 번째 선물'이라는 제목 아래 지하철 무임승차 제한 가능성을 보도한 기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
