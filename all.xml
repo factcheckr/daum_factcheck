@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T07:21:56.220Z</updated>
+    <updated>2022-03-22T08:28:37.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 코로나19 완치되면 슈퍼면역 갖는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220322170816360</id>
+        <link href="https://v.daum.net/v/20220322170816360"/>
+        <updated>2022-03-22T08:27:40.600Z</updated>
+        <content type="html"><![CDATA[코로나19 누적 확진자가 990만 명에 달하다 보니 지금 글을 읽으시는 분들 중에서도 코로나19를 앓았던 분들이 적지 않을 겁니다. 요즘은 확진자들을 '슈퍼 면역자'라고도 부르기도 합니다. 한 번 걸렸으니 강한 항체가 생겨서 다시는 코로나19에 걸리지 않는다는 뜻인데, 실제 이 말이 맞는지 확인해봤습니다. 오미크론 우세 재감염자 129명 '코로나 슈퍼항체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 화이자 백신 접종하면 난소암에 걸린다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220322080010760</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220318180012548"/>
         <updated>2022-03-20T01:34:57.580Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 최근에는 산부인과와 어린이 병원까지 포격하면서 수많은 민간인 사상자가 나왔습니다. 러시아는 민간인 희생 사실을 부인하며, "병원은 오래전부터 네오나치 조직이 점령한 곳"이라고 주장했습니다. 사실, 러시아의 침공 명분 가운데 하나는 '우크라이나의 탈(脫)나치화'입니다. 젤렌스키 정부가 사악한 나치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220317212607153</id>
-        <link href="https://v.daum.net/v/20220317212607153"/>
-        <updated>2022-03-17T12:39:02.600Z</updated>
-        <content type="html"><![CDATA[[앵커] 인사권을 둘러싼 신구권력의 충돌, 임기 말 인사 중단은 관례다, 이런 주장들이 나왔는데, 팩트체크해보겠습니다. 이지은 기자가 나와 있습니다. 맞는 얘기입니까? [기자] 대부분 정권이 바뀔 때마다 충돌이 있었습니다. 이명박 정부 대통령비서실장 출신인 임태희 윤 당선인 특별고문이 오늘(17일) 이렇게 말했습니다. [임태희/윤석열 당선인 특별고문 (MB]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
