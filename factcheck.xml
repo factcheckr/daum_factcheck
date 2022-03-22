@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-22T10:25:55.490Z</updated>
+    <updated>2022-03-22T11:20:22.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 전직 대통령들, 임기 마지막 날 어디에 있었나]]></title>
+        <id>https://v.daum.net/v/20220322200708284</id>
+        <link href="https://v.daum.net/v/20220322200708284"/>
+        <updated>2022-03-22T11:19:20.673Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 윤석열 대통령 당선인이 대통령 집무실을 용산 국방부청사로 옮기는 구상을 밝히면서 청와대를 시민들에게 전면 개방하겠다고 밝히고 있습니다. [윤석열/대통령 당선인] "청와대는 임기 시작인 5월 10일에 개방해서 국민께 돌려드리겠습니다." 이렇게 개방 시점을 5월 10일, 윤 당선인의 임기 시작 날 0시로 못박았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한의사가 코로나19 검사하면 무면허 의료행위?]]></title>
         <id>https://v.daum.net/v/20220322175939132</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220320090310043"/>
         <updated>2022-03-20T01:34:57.579Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 지난 9일에는 마리우폴 지역 산부인과와 어린이 병원까지 집중 포격하면서 수많은 민간인 사상자가 나왔습니다.&nbsp; 러시아는 민간인 희생 사실을 부인하며, "병원은 오래 전부터 네오 나치 조직이 점령한 곳"이라고 주장했습니다. 사실, 러시아의 침공 명분 가운데 하나는 '우크라이나의 탈(脫)나치화'입니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위?]]></title>
-        <id>https://v.daum.net/v/20220318202809472</id>
-        <link href="https://v.daum.net/v/20220318202809472"/>
-        <updated>2022-03-18T12:36:28.994Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. "한국이 갈등 세계 1위 됐다", "한국이 문화전쟁이 가장 심한 곳이다". 우리 사회의 갈등이 '세계 1위'로 공인받을 수준이라는 얘기인데 이런 구체적 등수가 어디서 어떻게 나오게 됐는지 알아봤습니다. 한국이 '갈등 세계 1위'라고 명시한 건]]></content>
     </entry>
 </feed>

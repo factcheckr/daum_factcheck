@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T10:25:55.505Z</updated>
+    <updated>2022-03-22T11:20:22.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 전직 대통령들, 임기 마지막 날 어디에 있었나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220322200708284</id>
+        <link href="https://v.daum.net/v/20220322200708284"/>
+        <updated>2022-03-22T11:19:20.673Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 윤석열 대통령 당선인이 대통령 집무실을 용산 국방부청사로 옮기는 구상을 밝히면서 청와대를 시민들에게 전면 개방하겠다고 밝히고 있습니다. [윤석열/대통령 당선인] "청와대는 임기 시작인 5월 10일에 개방해서 국민께 돌려드리겠습니다." 이렇게 개방 시점을 5월 10일, 윤 당선인의 임기 시작 날 0시로 못박았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한의사가 코로나19 검사하면 무면허 의료행위? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220322175939132</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220320090310043"/>
         <updated>2022-03-20T01:34:57.579Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 지난 9일에는 마리우폴 지역 산부인과와 어린이 병원까지 집중 포격하면서 수많은 민간인 사상자가 나왔습니다.&nbsp; 러시아는 민간인 희생 사실을 부인하며, "병원은 오래 전부터 네오 나치 조직이 점령한 곳"이라고 주장했습니다. 사실, 러시아의 침공 명분 가운데 하나는 '우크라이나의 탈(脫)나치화'입니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220318202809472</id>
-        <link href="https://v.daum.net/v/20220318202809472"/>
-        <updated>2022-03-18T12:36:28.994Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. "한국이 갈등 세계 1위 됐다", "한국이 문화전쟁이 가장 심한 곳이다". 우리 사회의 갈등이 '세계 1위'로 공인받을 수준이라는 얘기인데 이런 구체적 등수가 어디서 어떻게 나오게 됐는지 알아봤습니다. 한국이 '갈등 세계 1위'라고 명시한 건]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 어제(11일) 토론회에서 나온 후보들의 발언, 팩트체크 이어갑니다. 이재명, 윤석열 후보가 서로의 과거 발언을 꼬리에 꼬리를 물며 파고들었는데요. 과연 어느 후보의 말의 어디까지가 사실인 것인지, SBS 팩트체크 '사실은'팀, 이경원 기자가 검증했습니다. &lt;기자&gt; 토론회 중반부, 윤석열 후보가 원전 추가 건설을 약속했다, 아니다 그런 적 없다, 설]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나 (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220322200708284</id>
+        <link href="https://v.daum.net/v/20220322200708284"/>
+        <updated>2022-03-22T11:19:38.883Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 윤석열 대통령 당선인이 대통령 집무실을 용산 국방부청사로 옮기는 구상을 밝히면서 청와대를 시민들에게 전면 개방하겠다고 밝히고 있습니다. [윤석열/대통령 당선인] "청와대는 임기 시작인 5월 10일에 개방해서 국민께 돌려드리겠습니다." 이렇게 개방 시점을 5월 10일, 윤 당선인의 임기 시작 날 0시로 못박았]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한국은 어쩌다 '갈등공화국'이 되었나 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220320100711954</id>
         <link href="https://v.daum.net/v/20220320100711954"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20211127100113432"/>
         <updated>2022-01-02T15:35:54.911Z</updated>
         <content type="html"><![CDATA['어린이 놀이헌장'이란게 있습니다. 지난 2015년 전국 시도교육감들이 모여서 만들어 선포한 건데, 헌장엔 이런 내용이 들어 있습니다. "어린이에게는 놀 권리가 있다." "어린이는 차별 없이 놀이 지원을 받아야 한다." "어린이는 놀 터와 놀 시간을 누려야 한다." 다 알만한 얘기인데, 헌장으로까지 만든 이유는 뭘까요. 시초는 지난 2013년 '우리나라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여경 무용론 누가 불지피나 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20211125203111088</id>
-        <link href="https://v.daum.net/v/20211125203111088"/>
-        <updated>2022-01-02T15:35:54.912Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난주 인천에서 일어난 층간소음 흉기 난동 사건. 경찰관이 흉기를 든 가해자와 피해자를 내버려둔 채 현장을 이탈했는데 이 경찰관이 여성인 것으로 알려지면서 이른바 '여경 무용론'이 거세게 일었죠. 하지만 당시 함께 출동한 19년차, 이른바 '베테랑' 남성 경찰도 현장을 이탈한 사실이 뒤늦게 알려졌습니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
