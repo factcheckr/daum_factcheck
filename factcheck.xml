@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-23T10:26:34.885Z</updated>
+    <updated>2022-03-23T11:18:08.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '소통' 늘린다는데..현 청와대 경호 어떤지 보니]]></title>
+        <id>https://v.daum.net/v/20220323200706059</id>
+        <link href="https://v.daum.net/v/20220323200706059"/>
+        <updated>2022-03-23T11:17:11.760Z</updated>
+        <content type="html"><![CDATA[[앵커] 당선인은 '소통형 집무'를 하겠다는 계획입니다. 그러면, 경호 체계는 바뀔 수밖에 없고, 앞서 전해드린대로 AI CCTV도 검토되고 있습니다. 일단 '지금의 경호'는 어떻게 되는지 짚어볼 필요가 있습니다. 이지은 기자가 준비해왔습니다. 현재 체계부터 살펴볼까요? [기자] 한 마디로 3중 중첩구조입니다. 1,2,3선을 구분하는데요. 이렇게 권총 유효]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 인수위원장 맡은 뒤 국무총리까지 간 경우는 없다?]]></title>
         <id>https://v.daum.net/v/20220323152627864</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220322080010760"/>
         <updated>2022-03-21T23:22:49.144Z</updated>
         <content type="html"><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. 전 인구의 63.1%에 해당합니다(2022.03.21.0시 기준). 오는 31일부터는 5~11세 소아도 코로나19 화이자 백신 접종을 시작합니다. 최근 확진자가 급증하면서 일부에서는 백신 무용론도 제기하고 있지만 대다수 전문가들은 여전히 백신 접종 효과를 강조하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 국방부 벙커 위치 손짓..尹 군사기밀 누설?]]></title>
-        <id>https://v.daum.net/v/20220322051018623</id>
-        <link href="https://v.daum.net/v/20220322051018623"/>
-        <updated>2022-03-21T20:23:42.996Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 당선인이 대통령 집무실 이전 관련 브리핑에서 국방부 벙커 위치를 언급해 논란이 일고 있습니다. 군사 기밀을 누출했다는 지적이 나오자, 김은혜 대변인이 아니라며 반박하기도 했는데요. 기획탐사팀 박희재 기자가 팩트체크했습니다. [기자] 대통령 집무실 이전 계획을 직접 발표한 윤석열 당선인. 국방부 지하벙커를 언급하며 위치를 가리키는]]></content>
     </entry>
 </feed>
