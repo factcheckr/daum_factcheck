@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-22T23:24:02.290Z</updated>
+    <updated>2022-03-23T01:48:13.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용산 집무실 주변 공원 조성해 소통? 최소 7년이상 걸린다  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220323100904158</id>
+        <link href="https://v.daum.net/v/20220323100904158"/>
+        <updated>2022-03-23T01:47:10.389Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;윤석열 대통령 당선자가 20일 오전 서울 종로구 삼청동 대통령직인수위원회 회견장에서 대통령실 용산 이전과 관련해 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; 윤석열 대통령 당선인의 '용산 집무실' 이전을 둘러싼 논란이 뜨겁다. 그는 '소통'을 명분으로 취임 첫날부터 청와대가 아닌 국방부 청사로 들어가겠다고 밝혔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 청와대 이전을 둘러싼 '대통령'과 '참모'의 거리]]></title>
+        <id>https://v.daum.net/v/20220323091804058</id>
+        <link href="https://v.daum.net/v/20220323091804058"/>
+        <updated>2022-03-23T01:47:10.390Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 文 정부 '북한의 도발' 표현 한 번도 안 했다?]]></title>
         <id>https://v.daum.net/v/20220323044501204</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220321183532337"/>
         <updated>2022-03-21T10:26:08.738Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인이 대통령 집무실 용산 이전을 공식화한 가운데 이전 비용 규모를 둘러싼 논란이 이어지고 있다. 윤 당선인이 20일 기자회견에서 밝힌 이전 비용 규모는 496억원 수준이지만, 민주당 일각에서는 최소 1조원이 든다는 주장도 나오고 있다. 이런 가운데 청와대 이전 태스크포스(TF) 팀장인 윤한홍 국민의힘 의원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방부·합참 이전, 그리 쉽다고? 용산공원도 계획대로 뚝딱? [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20220321120002211</id>
-        <link href="https://v.daum.net/v/20220321120002211"/>
-        <updated>2022-03-21T03:30:11.150Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령 당선인이 20일 취임 후 집무실을 ‘용산 국방부 청사’로 확정하면서 당장 10개층을 비워줘야 하는 국방부는 옆 동인 합동참모본부와 별관, 서울 소재 군 부대, 상황에 따라 후암동 옛 방위사업청, 정부과천청사 등으로 뿔뿔이 흩어진다. 합참은 남태령 수도방위사령부로, 장기적으로 국방부는 과천청사로 이전하는 방안도 제시됐다. 불과 열흘 만에 이뤄진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 한국은 어쩌다 '갈등공화국'이 되었나 (인터뷰)]]></title>
-        <id>https://v.daum.net/v/20220320100711954</id>
-        <link href="https://v.daum.net/v/20220320100711954"/>
-        <updated>2022-03-20T01:34:57.579Z</updated>
-        <content type="html"><![CDATA[최근 온라인 커뮤니티 등에서 우리나라가 세계 갈등 1위로 '공인'을 받았다는 주장이 제기됐습니다. 이같은 주장의 근거는 지난해 6월 영국 킹스컬리지가 여론조사기관인 입소스에 의뢰해 발간한 보고서입니다. 모두 28개국 2만 3천여 명을 상대로 조사를 했는데 당초 목표는 영국 사회의 갈등이 얼마나 심각한지를 다른 나라와 비교하기 위함이었지만, 가장 '튀는' 국]]></content>
     </entry>
 </feed>
