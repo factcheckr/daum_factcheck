@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-24T20:25:03.699Z</updated>
+    <updated>2022-03-24T21:21:44.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]유승준 '관광비자'로 입국할 수 있다?]]></title>
+        <id>https://v.daum.net/v/20220325061201141</id>
+        <link href="https://v.daum.net/v/20220325061201141"/>
+        <updated>2022-03-24T21:20:40.569Z</updated>
+        <content type="html"><![CDATA[핵심요약유승준(스티브유) 한국 입국 논란 재점화 "미국인 신분으로 무비자 입국이 가능하다?"미국 시민권을 취득하여 병역 기피 논란을 일으킨 가수 유승준(45·스티브유) 씨가 20년 만에 한국 땅을 밟을 수 있을지를 놓고 관측이 분분하다. 지난 2002년 한국 국적을 포기한 뒤 미국 시민권을 취득한 그는 현재까지 한국 비자 문제와 관련해 정부와 마찰을 빚어오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정개특위서 기초의원 중대선거구제 다루면 위법?]]></title>
         <id>https://v.daum.net/v/20220324162918206</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220322221008744"/>
         <updated>2022-03-22T13:29:05.377Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 당선인이 대통령 집무실 이전 관련 브리핑에서 국방부 벙커 위치를 언급해 논란이 일고 있습니다. 군사 기밀을 누출했다는 지적이 나오자, 김은혜 대변인이 아니라며 반박하기도 했는데요. 기획탐사팀 박희재 기자가 팩트체크했습니다. [기자] 대통령 집무실 이전 계획을 직접 발표한 윤석열 당선인. 국방부 지하벙커를 언급하며 위치를 가리키는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 전직 대통령들, 임기 마지막 날 어디에 있었나]]></title>
-        <id>https://v.daum.net/v/20220322200708284</id>
-        <link href="https://v.daum.net/v/20220322200708284"/>
-        <updated>2022-03-22T11:19:20.673Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 윤석열 대통령 당선인이 대통령 집무실을 용산 국방부청사로 옮기는 구상을 밝히면서 청와대를 시민들에게 전면 개방하겠다고 밝히고 있습니다. [윤석열/대통령 당선인] "청와대는 임기 시작인 5월 10일에 개방해서 국민께 돌려드리겠습니다." 이렇게 개방 시점을 5월 10일, 윤 당선인의 임기 시작 날 0시로 못박았]]></content>
     </entry>
 </feed>
