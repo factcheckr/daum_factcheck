@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-03-25T11:20:40.350Z</updated>
+    <updated>2022-03-25T13:10:47.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[떼었다 붙였다 정부 조직개편.. 유독 우리만?]]></title>
+        <id>https://v.daum.net/v/20220325202214958</id>
+        <link href="https://v.daum.net/v/20220325202214958"/>
+        <updated>2022-03-25T13:10:09.576Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 앞서 보신대로 다음 정부에서도 없애거나 합치는 조직 개편이 이뤄질 것으로 보입니다. 이렇게 정권이 바뀔 때마다 부처끼리 떼었다 붙였다 한다고 해서 '포스트잇' 조직 개편이란 말까지 나오고 있는데요. 그동안 얼마나 자주 정부조직이 바뀌어왔는지 과연 우리나라에서만 유독 심한 건지 알아봤습니다. ◀ 리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전직 대통령들, 임기 마지막 날 어디에 있었나]]></title>
         <id>https://v.daum.net/v/20220322200708284</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211201202508353"/>
         <updated>2022-01-02T15:35:54.909Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 2018년 음주운전 사고로  세상을 떠난 윤창호 씨, 음주운전자에 대한 처벌 기준을 강화하기 위해 그의 이름을 딴 윤창호법이 만들어졌죠. 그런데 "두 번째 음주운전부터 처벌을 강화한다"는 법 조항에 대해 최근 위헌 결정이 내려졌습니다. 이후 윤창호법으로 가중 처벌을 받은 개인은 처벌이 약해질거라 환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈치 안보고 놀려면 아파트 살아야?]]></title>
-        <id>https://v.daum.net/v/20211127100113432</id>
-        <link href="https://v.daum.net/v/20211127100113432"/>
-        <updated>2022-01-02T15:35:54.911Z</updated>
-        <content type="html"><![CDATA['어린이 놀이헌장'이란게 있습니다. 지난 2015년 전국 시도교육감들이 모여서 만들어 선포한 건데, 헌장엔 이런 내용이 들어 있습니다. "어린이에게는 놀 권리가 있다." "어린이는 차별 없이 놀이 지원을 받아야 한다." "어린이는 놀 터와 놀 시간을 누려야 한다." 다 알만한 얘기인데, 헌장으로까지 만든 이유는 뭘까요. 시초는 지난 2013년 '우리나라]]></content>
     </entry>
 </feed>

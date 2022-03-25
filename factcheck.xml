@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-25T11:20:40.359Z</updated>
+    <updated>2022-03-25T13:10:47.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 떼었다 붙였다 정부 조직개편.. 유독 우리만?]]></title>
+        <id>https://v.daum.net/v/20220325202214958</id>
+        <link href="https://v.daum.net/v/20220325202214958"/>
+        <updated>2022-03-25T13:09:54.538Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 앞서 보신대로 다음 정부에서도 없애거나 합치는 조직 개편이 이뤄질 것으로 보입니다. 이렇게 정권이 바뀔 때마다 부처끼리 떼었다 붙였다 한다고 해서 '포스트잇' 조직 개편이란 말까지 나오고 있는데요. 그동안 얼마나 자주 정부조직이 바뀌어왔는지 과연 우리나라에서만 유독 심한 건지 알아봤습니다. ◀ 리포트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 15년간 임명한 적 없다? 인수위 주장 확인해보니]]></title>
+        <id>https://v.daum.net/v/20220325202109944</id>
+        <link href="https://v.daum.net/v/20220325202109944"/>
+        <updated>2022-03-25T13:09:54.539Z</updated>
+        <content type="html"><![CDATA[[앵커] 감사위원을 임명하는 문제를 놓고, 인수위 측에선 "최근 15년 동안 전례가 없었다"는 주장도 나왔는데요. 팩트체크 해보겠습니다. 이지은 기자, 사실입니까? [기자] 일단 인수위의 해당 발표 발언부터 들어보시죠. [최지현/대통령직인수위 수석부대변인 (어제) : 당선인 확정 후에 임기가 4년이 되는 감사위원을 현 정부가 임명한 전례가 없다고 알고 있습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다?]]></title>
         <id>https://v.daum.net/v/20220325160839308</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220323100904158"/>
         <updated>2022-03-23T01:47:10.389Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;윤석열 대통령 당선자가 20일 오전 서울 종로구 삼청동 대통령직인수위원회 회견장에서 대통령실 용산 이전과 관련해 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; 윤석열 대통령 당선인의 '용산 집무실' 이전을 둘러싼 논란이 뜨겁다. 그는 '소통'을 명분으로 취임 첫날부터 청와대가 아닌 국방부 청사로 들어가겠다고 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 청와대 이전을 둘러싼 '대통령'과 '참모'의 거리]]></title>
-        <id>https://v.daum.net/v/20220323091804058</id>
-        <link href="https://v.daum.net/v/20220323091804058"/>
-        <updated>2022-03-23T01:47:10.390Z</updated>
-        <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 文 정부 '북한의 도발' 표현 한 번도 안 했다?]]></title>
-        <id>https://v.daum.net/v/20220323044501204</id>
-        <link href="https://v.daum.net/v/20220323044501204"/>
-        <updated>2022-03-22T20:23:07.897Z</updated>
-        <content type="html"><![CDATA[[앵커] 청와대 이전 문제를 놓고 연일 날 선 말들이 오가고 있습니다. 윤석열 당선인 측은 현 정부가 북한의 미사일 발사를 도발이라고 부르지도 못하면서 안보 핑계 대며 청와대 이전을 방해한다고 비난하기도 했는데요. 실제로 도발이라는 표현이 없었는지 팩트체크했습니다. 신지원 기자입니다. [기자] 문재인 대통령 판단에 가로막힌 청와대 이전 계획.]]></content>
     </entry>
 </feed>
