@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-25T19:19:20.917Z</updated>
+    <updated>2022-03-25T20:24:13.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220326044614334</id>
+        <link href="https://v.daum.net/v/20220326044614334"/>
+        <updated>2022-03-25T20:23:19.844Z</updated>
+        <content type="html"><![CDATA[[앵커] 이른바 신구 권력 간의 갈등은 청와대 이전 문제뿐만 아니라, 검찰 관련 공약 등 전방위로 번지고 있습니다. 이런 가운데, 윤석열 당선인 측은 법무부 장관의 수사지휘권 폐지는 과거 민주당의 요구이기도 했다고 주장했는데요. 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] 법무부 업무보고를 거부한 윤석열 대통령 당선인. 법무부 장관의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 떼었다 붙였다 정부 조직개편.. 유독 우리만? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220325202214958</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220323152627864"/>
         <updated>2022-03-23T06:28:13.123Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대통령직인수위원회(인수위)가 부처별 업무보고를 받으며 윤석열 정부의 밑그림 설계에 한창인 가운데 초대 총리가 누가 될지에 대한 관심도 커지고 있다. 특히 안철수 인수위원장이 유력한 후보로 거론되며 안 위원장이 최대주주로 있는 안랩의 주가는 연일 신고가를 경신하고 있다. 하지만 안 위원장이 초대 국무총리에 기용될 가능성을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산 집무실 주변 공원 조성해 소통? 최소 7년이상 걸린다  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220323100904158</id>
-        <link href="https://v.daum.net/v/20220323100904158"/>
-        <updated>2022-03-23T01:47:10.389Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;윤석열 대통령 당선자가 20일 오전 서울 종로구 삼청동 대통령직인수위원회 회견장에서 대통령실 용산 이전과 관련해 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; 윤석열 대통령 당선인의 '용산 집무실' 이전을 둘러싼 논란이 뜨겁다. 그는 '소통'을 명분으로 취임 첫날부터 청와대가 아닌 국방부 청사로 들어가겠다고 밝혔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청와대 이전을 둘러싼 '대통령'과 '참모'의 거리 (다음 뉴스 ─ SBS 사실은)]]></title>
