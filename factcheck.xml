@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-26T12:36:15.316Z</updated>
+    <updated>2022-03-26T13:25:50.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다?]]></title>
+        <id>https://v.daum.net/v/20220326221015328</id>
+        <link href="https://v.daum.net/v/20220326221015328"/>
+        <updated>2022-03-26T13:24:59.026Z</updated>
+        <content type="html"><![CDATA[[앵커] 이른바 신구 권력 간의 갈등은 청와대 이전 문제뿐만 아니라, 검찰 관련 공약 등 전방위로 번지고 있습니다. 이런 가운데, 윤석열 당선인 측은 법무부 장관의 수사지휘권 폐지는 과거 민주당의 요구이기도 했다고 주장했는데요. 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] 법무부 업무보고를 거부한 윤석열 대통령 당선인. 법무부 장관의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나?]]></title>
         <id>https://v.daum.net/v/20220326143015669</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220324055400749"/>
         <updated>2022-03-23T21:17:16.653Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;대통령직 인수위원회에 18개 부처 파견 공무원 인원 중 여성가족부 공무원이 없는 것으로 알려진 가운데 '여성가족부 폐지' 등 윤석열 대통령 당선인의 핵심 공약 등이 '뜨거운 감자'로 부상할 가능성이 크다. 21일 오후 정부서울청사 여성가족부 복도에는 오가는 직원이 보이지 않고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 확진자 급증에도 치명률은 세계 최하위?]]></title>
-        <id>https://v.daum.net/v/20220324050112836</id>
-        <link href="https://v.daum.net/v/20220324050112836"/>
-        <updated>2022-03-23T20:23:15.955Z</updated>
-        <content type="html"><![CDATA[[앵커] 오미크론 확산세가 가라앉지 않고 있습니다. 정부는 확진자 수 대비 사망자 수를 나타내는 치명률이 세계 최하위 수준이라며 연이어 거리두기를 풀고 있지만, 전문가들은 그래선 안 된다고 경고하기도 하죠. 실제로 다른 나라와 비교해, 치명률 수준이 어느 정도인지 팩트체크했습니다. 김지환 기자입니다. [기자] 누적 확진자 천만 명 돌파. 오미크]]></content>
     </entry>
 </feed>
