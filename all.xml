@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-26T01:42:00.612Z</updated>
+    <updated>2022-03-26T02:52:13.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 득표율, 조선대·전남대 인근에선 30% 달했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220326113023129</id>
+        <link href="https://v.daum.net/v/20220326113023129"/>
+        <updated>2022-03-26T02:51:12.366Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 국민의힘 이준석 대표가 20대 대통령선거에서 목표로 했던 '호남 30%'를 달성하지는 못했지만 호남의 민심이 국민의힘에 우호적으로 변화하고 있다고 주장했다. 이 대표는 지난 24일 KBS라디오 최경영의 최강시사에 출연해 "대선 때 광주에서 우리에게 너무 많은 표를 줬다"면서 호남에서의 지지율 상승이 대선 승]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220326044614334</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220323200706059"/>
         <updated>2022-03-23T11:17:11.760Z</updated>
         <content type="html"><![CDATA[[앵커] 당선인은 '소통형 집무'를 하겠다는 계획입니다. 그러면, 경호 체계는 바뀔 수밖에 없고, 앞서 전해드린 대로 AI CCTV도 검토되고 있습니다. 일단 '지금의 경호'는 어떻게 되는지 짚어볼 필요가 있습니다. 이지은 기자가 준비해왔습니다. 현재 체계부터 살펴볼까요? [기자] 한마디로 3중 중첩 구조입니다. 1, 2, 3선으로 구분이 될 수 있는데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 인수위원장 맡은 뒤 국무총리까지 간 경우는 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220323152627864</id>
-        <link href="https://v.daum.net/v/20220323152627864"/>
-        <updated>2022-03-23T06:28:13.123Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 대통령직인수위원회(인수위)가 부처별 업무보고를 받으며 윤석열 정부의 밑그림 설계에 한창인 가운데 초대 총리가 누가 될지에 대한 관심도 커지고 있다. 특히 안철수 인수위원장이 유력한 후보로 거론되며 안 위원장이 최대주주로 있는 안랩의 주가는 연일 신고가를 경신하고 있다. 하지만 안 위원장이 초대 국무총리에 기용될 가능성을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청와대 이전을 둘러싼 '대통령'과 '참모'의 거리 (다음 뉴스 ─ SBS 사실은)]]></title>
