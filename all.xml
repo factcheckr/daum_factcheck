@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-26T05:20:53.155Z</updated>
+    <updated>2022-03-26T06:27:49.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220326143015669</id>
+        <link href="https://v.daum.net/v/20220326143015669"/>
+        <updated>2022-03-26T06:26:56.159Z</updated>
+        <content type="html"><![CDATA[(세종=연합뉴스) 박용주 기자 = 재정당국인 기획재정부가 윤석열 대통령 당선인 집무실 이전 비용을 인수위에 제출했는지를 두고 논란이 일고 있다. 윤 당선인 측은 기재부의 추계라고 하는 반면 기재부는 제출한 자료가 없다고 답변하면서 발생한 논란이다. 상황을 정리해놓고 보면 기재부가 국방부와 대통령 집무실 이전 비용을 추계하는 과정에 관여한 것은 사실이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 득표율, 조선대·전남대 인근에선 30% 달했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220326113023129</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220324050112836"/>
         <updated>2022-03-23T20:23:15.955Z</updated>
         <content type="html"><![CDATA[[앵커] 오미크론 확산세가 가라앉지 않고 있습니다. 정부는 확진자 수 대비 사망자 수를 나타내는 치명률이 세계 최하위 수준이라며 연이어 거리두기를 풀고 있지만, 전문가들은 그래선 안 된다고 경고하기도 하죠. 실제로 다른 나라와 비교해, 치명률 수준이 어느 정도인지 팩트체크했습니다. 김지환 기자입니다. [기자] 누적 확진자 천만 명 돌파. 오미크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '소통' 늘린다는데..현 청와대 경호 어떤지 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220323200706059</id>
-        <link href="https://v.daum.net/v/20220323200706059"/>
-        <updated>2022-03-23T11:17:11.760Z</updated>
-        <content type="html"><![CDATA[[앵커] 당선인은 '소통형 집무'를 하겠다는 계획입니다. 그러면, 경호 체계는 바뀔 수밖에 없고, 앞서 전해드린 대로 AI CCTV도 검토되고 있습니다. 일단 '지금의 경호'는 어떻게 되는지 짚어볼 필요가 있습니다. 이지은 기자가 준비해왔습니다. 현재 체계부터 살펴볼까요? [기자] 한마디로 3중 중첩 구조입니다. 1, 2, 3선으로 구분이 될 수 있는데요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청와대 이전을 둘러싼 '대통령'과 '참모'의 거리 (다음 뉴스 ─ SBS 사실은)]]></title>
