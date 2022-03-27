@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-26T23:22:38.441Z</updated>
+    <updated>2022-03-27T01:45:16.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 文 정부가 조선족에 공무원 시험 혜택 줬다?]]></title>
+        <id>https://v.daum.net/v/20220327100018059</id>
+        <link href="https://v.daum.net/v/20220327100018059"/>
+        <updated>2022-03-27T01:44:15.370Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 문재인 대통령의 임기가 얼마 남지 않은 가운데 문재인 정부가 공무원 시험에서 다문화 가정에 특혜를 줬다는 글이 온라인에서 유포되고 있다. 최근 온라인 커뮤니티에 올라 온 '문재인 정부 중국 조선족의 혜택'이라는 게시글은 일부 내용이 수정돼 다른 커뮤니티 등으로 퍼지며 조선족에 대한 혐오를 조장하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다?]]></title>
         <id>https://v.daum.net/v/20220326221015328</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220324162918206"/>
         <updated>2022-03-24T08:26:47.218Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 새로운 광역·기초단체장을 뽑는 6·1 지방선거를 두 달여 남겨 놓은 가운데 기초의원 중대선거구제 개편 문제가 핫이슈로 떠올랐다. 더불어민주당은 거대 양당의 기초의회 독점을 막기 위해 기초의원의 선거구 정수를 3인 이상으로 늘리자는 입장이지만, 국민의힘은 그럴 경우 생활밀착형 정치라는 기초의회 취지를 살릴 수 없다며 반발하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여가부 홈페이지 관리에만 180억 쓴다" 주장 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220324055400749</id>
-        <link href="https://v.daum.net/v/20220324055400749"/>
-        <updated>2022-03-23T21:17:16.653Z</updated>
-        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;대통령직 인수위원회에 18개 부처 파견 공무원 인원 중 여성가족부 공무원이 없는 것으로 알려진 가운데 '여성가족부 폐지' 등 윤석열 대통령 당선인의 핵심 공약 등이 '뜨거운 감자'로 부상할 가능성이 크다. 21일 오후 정부서울청사 여성가족부 복도에는 오가는 직원이 보이지 않고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "]]></content>
     </entry>
 </feed>
