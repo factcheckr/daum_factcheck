@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-28T01:51:32.907Z</updated>
+    <updated>2022-03-28T03:03:57.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 인수위가 결정하면 여가부는 폐지되나요?]]></title>
+        <id>https://v.daum.net/v/20220328114200171</id>
+        <link href="https://v.daum.net/v/20220328114200171"/>
+        <updated>2022-03-28T03:02:59.770Z</updated>
+        <content type="html"><![CDATA[여성가족부 폐지는 대통령직인수위원회가 추진하는 정부 조직 개편의 핵심 쟁점입니다. 국가 예산의 0.24%를 쓰는 초미니 부처인 걸 감안하면 관심이 대단합니다. 그만큼 우리 공동체 젠더 갈등이 심각하다는 뜻일 겁니다. 인수위는 윤석열 당선인의 공약대로 여성가족부 폐지 절차를 밟고 있습니다. 관련 기사들도 쏟아지고 있습니다. 언론 보도 제목만 보면 인수위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 원전 이용 · 가동률 떨어진 게 원자력안전위 탓?]]></title>
         <id>https://v.daum.net/v/20220328050606470</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220325202109944"/>
         <updated>2022-03-25T13:09:54.539Z</updated>
         <content type="html"><![CDATA[[앵커] 감사위원을 임명하는 문제를 놓고, 인수위 측에선 "최근 15년 동안 전례가 없었다"는 주장도 나왔는데요. 팩트체크 해보겠습니다. 이지은 기자, 사실입니까? [기자] 일단 인수위의 해당 발표 발언부터 들어보시죠. [최지현/대통령직인수위 수석부대변인 (어제) : 당선인 확정 후에 임기가 4년이 되는 감사위원을 현 정부가 임명한 전례가 없다고 알고 있습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다?]]></title>
-        <id>https://v.daum.net/v/20220325160839308</id>
-        <link href="https://v.daum.net/v/20220325160839308"/>
-        <updated>2022-03-25T07:21:27.533Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인이 25일 오후 시진핑(習近平) 중국 국가주석과 첫 통화를 앞둔 가운데 북한의 대륙간탄도미사일(ICBM) 발사로 인한 한반도 안보 상황에 대한 긴밀한 협의 등에 대한 기대감이 커지고 있다. 김은혜 당선인 대변인은 이날 오전 삼청동 인수위 브리핑에서 "시 주석이 당선인 신분의 국가 차기 지도자와 전화 통]]></content>
     </entry>
 </feed>
