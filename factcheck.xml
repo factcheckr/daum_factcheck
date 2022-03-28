@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-28T10:27:14.204Z</updated>
+    <updated>2022-03-28T11:21:36.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 단체행동 이유가 "지하철 엘리베이터 때문"?]]></title>
+        <id>https://v.daum.net/v/20220328201903856</id>
+        <link href="https://v.daum.net/v/20220328201903856"/>
+        <updated>2022-03-28T11:20:29.142Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번엔 팩트체크를 해보겠습니다. 대상은 이준석 대표의 주장입니다. 이지은 기자가 나와 있습니다. 일단 이 대표는 장애인 단체의 행동이 지하철 엘리베이터 설치 때문이다, 이렇게 주장을 하고 있죠? [기자] 네, 이 대표는 지난 26일, 페이스북에 긴 글을 올렸습니다. 거기서 "지하철 엘리베이터 설치율이 100%가 아니라는 이유로 계속 서울시민 불특정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 지하철 승강기 100% 설치 약속 박원순 시장 때 했다?]]></title>
         <id>https://v.daum.net/v/20220328161427252</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220326044614334"/>
         <updated>2022-03-25T20:23:19.844Z</updated>
         <content type="html"><![CDATA[[앵커] 이른바 신구 권력 간의 갈등은 청와대 이전 문제뿐만 아니라, 검찰 관련 공약 등 전방위로 번지고 있습니다. 이런 가운데, 윤석열 당선인 측은 법무부 장관의 수사지휘권 폐지는 과거 민주당의 요구이기도 했다고 주장했는데요. 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] 법무부 업무보고를 거부한 윤석열 대통령 당선인. 법무부 장관의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 떼었다 붙였다 정부 조직개편.. 유독 우리만?]]></title>
-        <id>https://v.daum.net/v/20220325202214958</id>
-        <link href="https://v.daum.net/v/20220325202214958"/>
-        <updated>2022-03-25T13:09:54.538Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 앞서 보신대로 다음 정부에서도 없애거나 합치는 조직 개편이 이뤄질 것으로 보입니다. 이렇게 정권이 바뀔 때마다 부처끼리 떼었다 붙였다 한다고 해서 '포스트잇' 조직 개편이란 말까지 나오고 있는데요. 그동안 얼마나 자주 정부조직이 바뀌어왔는지 과연 우리나라에서만 유독 심한 건지 알아봤습니다. ◀ 리포트]]></content>
     </entry>
 </feed>
