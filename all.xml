@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T12:42:18.593Z</updated>
+    <updated>2022-03-29T13:32:51.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 장애인 단체, 尹 당선되자 지하철 시위 시작했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220329221308000</id>
+        <link href="https://v.daum.net/v/20220329221308000"/>
+        <updated>2022-03-29T13:31:58.255Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 이준석 대표가 장애인 단체의 지하철 시위를 두고 연일 강한 발언을 쏟아내 논란입니다. 문재인 정부와 고 박원순 전 서울시장에게 말하지 않던 것을 왜 윤석열 당선인에게 요구하느냐는 주장도 했는데요. 사실인지, 김지환 기자가 팩트체크했습니다. [기자] 이동권 보장을 요구하는 장애인들 앞에 무릎 꿇은 시각장애인 국회의원. 같은 날,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 장애인 단체, 尹 당선되자 지하철 시위 시작했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220329050407925</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220326143015669"/>
         <updated>2022-03-26T06:26:56.159Z</updated>
         <content type="html"><![CDATA[(세종=연합뉴스) 박용주 기자 = 재정당국인 기획재정부가 윤석열 대통령 당선인 집무실 이전 비용을 인수위에 제출했는지를 두고 논란이 일고 있다. 윤 당선인 측은 기재부의 추계라고 하는 반면 기재부는 제출한 자료가 없다고 답변하면서 발생한 논란이다. 상황을 정리해놓고 보면 기재부가 국방부와 대통령 집무실 이전 비용을 추계하는 과정에 관여한 것은 사실이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 득표율, 조선대·전남대 인근에선 30% 달했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220326113023129</id>
-        <link href="https://v.daum.net/v/20220326113023129"/>
-        <updated>2022-03-26T02:51:12.366Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 국민의힘 이준석 대표가 20대 대통령선거에서 목표로 했던 '호남 30%'를 달성하지는 못했지만 호남의 민심이 국민의힘에 우호적으로 변화하고 있다고 주장했다. 이 대표는 지난 24일 KBS라디오 최경영의 최강시사에 출연해 "대선 때 광주에서 우리에게 너무 많은 표를 줬다"면서 호남에서의 지지율 상승이 대선 승]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인수위가 결정하면 여가부는 폐지되나요? (다음 뉴스 ─ SBS 사실은)]]></title>
