@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-30T07:23:43.001Z</updated>
+    <updated>2022-03-30T08:29:07.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 임대차3법으로 전세계약 갱신율 70%로 높아졌다?]]></title>
+        <id>https://v.daum.net/v/20220330165207869</id>
+        <link href="https://v.daum.net/v/20220330165207869"/>
+        <updated>2022-03-30T08:28:14.409Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 주택 임차인의 주거 안정을 목적으로 도입된 '임대차 3법'의 부작용을 내세우며 대통령직인수위원회가 축소 또는 폐지하겠다고 공언하자 더불어민주당이 반발하면서 정치 쟁점으로 부상했다. 더불어민주당 윤호중 비상대책위원장은 30일 MBC 라디오에 출연해 "교각살우의 우를 범할 우려가 있다"며 "임대차 3법 시행 이후 계약 갱신율이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 지하철 장애인 시위, 시장 바뀌고 지속적으로?]]></title>
         <id>https://v.daum.net/v/20220330113300779</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220327100018059"/>
         <updated>2022-03-27T01:44:15.370Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 문재인 대통령의 임기가 얼마 남지 않은 가운데 문재인 정부가 공무원 시험에서 다문화 가정에 특혜를 줬다는 글이 온라인에서 유포되고 있다. 최근 온라인 커뮤니티에 올라 온 '문재인 정부 중국 조선족의 혜택'이라는 게시글은 일부 내용이 수정돼 다른 커뮤니티 등으로 퍼지며 조선족에 대한 혐오를 조장하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다?]]></title>
-        <id>https://v.daum.net/v/20220326221015328</id>
-        <link href="https://v.daum.net/v/20220326221015328"/>
-        <updated>2022-03-26T13:24:59.026Z</updated>
-        <content type="html"><![CDATA[[앵커] 이른바 신구 권력 간의 갈등은 청와대 이전 문제뿐만 아니라, 검찰 관련 공약 등 전방위로 번지고 있습니다. 이런 가운데, 윤석열 당선인 측은 법무부 장관의 수사지휘권 폐지는 과거 민주당의 요구이기도 했다고 주장했는데요. 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] 법무부 업무보고를 거부한 윤석열 대통령 당선인. 법무부 장관의]]></content>
     </entry>
 </feed>
