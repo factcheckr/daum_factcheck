@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-30T10:26:36.870Z</updated>
+    <updated>2022-03-30T11:20:05.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 청와대 개방 땐 경제효과 2000억? 연구자료 보니]]></title>
+        <id>https://v.daum.net/v/20220330200305598</id>
+        <link href="https://v.daum.net/v/20220330200305598"/>
+        <updated>2022-03-30T11:19:11.342Z</updated>
+        <content type="html"><![CDATA[[앵커] 그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다. 이지은 기자, 2천억 원이라는 숫자는 어디에서 나온 겁니까? [기자] 2천억 원의 경제적 효과가 예상된다, 문체부 산하의 한국문화관광연구원의 자료다, 이런 보도들이 잇따랐죠. 그런데 저희]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 임대차3법으로 전세계약 갱신율 70%로 높아졌다?(종합)]]></title>
         <id>https://v.daum.net/v/20220330175229922</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220328114200171"/>
         <updated>2022-03-28T03:02:59.770Z</updated>
         <content type="html"><![CDATA[여성가족부 폐지는 대통령직 인수위원회가 추진하는 정부 조직 개편의 핵심 쟁점입니다. 국가 예산의 0.24%를 쓰는 초미니 부처인 걸 감안하면 관심이 대단합니다. 그만큼 우리 공동체 젠더 갈등이 심각하다는 뜻일 겁니다. 인수위는 윤석열 당선인의 공약대로 여성가족부 폐지 절차를 밟고 있습니다. 관련 기사들도 쏟아지고 있습니다. 언론 보도 제목만 보면 인수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 원전 이용 · 가동률 떨어진 게 원자력안전위 탓?]]></title>
-        <id>https://v.daum.net/v/20220328050606470</id>
-        <link href="https://v.daum.net/v/20220328050606470"/>
-        <updated>2022-03-27T23:23:09.213Z</updated>
-        <content type="html"><![CDATA[“인수위원들은 현 정부 하에서 원안위가 정치적, 이념적으로 치우친 의사결정으로 발전소 이용률이 저하되었으며, …원안위가 새롭게 재탄생하여 국민에게 신뢰받는 기관이 되어 줄 것을 주문하였습니다.”(20대 대통령직 인수위원회 대변인실 25일 원자력안전위원회 업무보고 뒤 보도자료) “원안위 업무보고에서 원전 가동 논의가 있었는데 구체적인 수치가 거론되지 않았다.]]></content>
     </entry>
 </feed>
