@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-03-31T10:27:29.473Z</updated>
+    <updated>2022-03-31T11:20:18.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2년 내 판다" 민주당 의원 1주택 서약, 여전히..]]></title>
+        <id>https://v.daum.net/v/20220331200706617</id>
+        <link href="https://v.daum.net/v/20220331200706617"/>
+        <updated>2022-03-31T11:20:18.165Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다. 팩트체크 이지은 기자와 짚어보겠습니다. 이지은 기자, 2년 전 약속이 뭐였죠, 정확히? [기자] 정확히 이런 내용이었습니다. 들어보시죠. [박광온/당시 더불어민주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청와대 개방 땐 경제효과 2000억? 연구자료 보니]]></title>
         <id>https://v.daum.net/v/20220330200305598</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220228205408858"/>
         <updated>2022-02-28T12:37:05.268Z</updated>
         <content type="html"><![CDATA[[앵커] 팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다. 이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠? [기자] 일단 정시 비율 확대가 큰 방향입니다. 이재명 후보는 수시 인원이 지나치게 높은 대학은 정시 비율을 늘린다, 윤석열 후보도 정시 비율을 확대한다고 했습니다. 안철수 후보는 아예 수시를 없애겠다고 했습니다. 심상정 후보만 정시 확대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명-윤석열 '기축통화 논쟁' 따져보니]]></title>
-        <id>https://v.daum.net/v/20220222195302946</id>
-        <link href="https://v.daum.net/v/20220222195302946"/>
-        <updated>2022-02-22T11:21:05.850Z</updated>
-        <content type="html"><![CDATA[[앵커] 첫 번째로 팩트체크할 내용은 이재명-윤석열, 두 후보의 '국가채무'와 관련된 발언입니다. 나랏빚을 얼마나 더 낼 수 있는지를 논쟁하다가 나온 주장들입니다. 먼저, 들어보겠습니다. [이재명/더불어민주당 대선후보 (어제) : (우리나라는) 곧 기축통화국으로 될 가능성이 매우 높다. 며칠 전에 보도도 나왔지요.] 이지은 기자, 기축통화라는 건 어디서나]]></content>
     </entry>
 </feed>
