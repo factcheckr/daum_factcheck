@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T11:20:18.808Z</updated>
+    <updated>2022-03-31T12:42:04.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 집무실 이전하면 최대 '12조 원' 이득? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220331202810960</id>
+        <link href="https://v.daum.net/v/20220331202810960"/>
+        <updated>2022-03-31T12:41:11.892Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령 집무실 이전을 두고 당선인 측은 상당한 경제적 이득이 있다고 합니다. ◀ I N T ▶ [김은혜/대통령 당선인 대변인] "(청와대 개방으로) 국민에게 환원되는 이익이 2천억 원, 또 1조 원 넘는 부가가치가 있다는 게 여러 단체를 통해서 자료가 나오고 있는 것으로 알고 있습니다." 여기서 말하는 자료]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "2년 내 판다" 민주당 의원 1주택 서약, 여전히.. (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220331200706617</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20220329221308000</id>
         <link href="https://v.daum.net/v/20220329221308000"/>
         <updated>2022-03-29T13:31:58.255Z</updated>
-        <content type="html"><![CDATA[[앵커] 국민의힘 이준석 대표가 장애인 단체의 지하철 시위를 두고 연일 강한 발언을 쏟아내 논란입니다. 문재인 정부와 고 박원순 전 서울시장에게 말하지 않던 것을 왜 윤석열 당선인에게 요구하느냐는 주장도 했는데요. 사실인지, 김지환 기자가 팩트체크했습니다. [기자] 이동권 보장을 요구하는 장애인들 앞에 무릎 꿇은 시각장애인 국회의원. 같은 날,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 장애인 단체, 尹 당선되자 지하철 시위 시작했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220329050407925</id>
-        <link href="https://v.daum.net/v/20220329050407925"/>
-        <updated>2022-03-28T20:24:21.923Z</updated>
         <content type="html"><![CDATA[[앵커] 국민의힘 이준석 대표가 장애인 단체의 지하철 시위를 두고 연일 강한 발언을 쏟아내 논란입니다. 문재인 정부와 고 박원순 전 서울시장에게 말하지 않던 것을 왜 윤석열 당선인에게 요구하느냐는 주장도 했는데요. 사실인지, 김지환 기자가 팩트체크했습니다. [기자] 이동권 보장을 요구하는 장애인들 앞에 무릎 꿇은 시각장애인 국회의원. 같은 날,]]></content>
     </entry>
     <entry>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 어제(21일) 토론회 주제였던 경제 분야에서도 후보들 사이에 많은 말들이 오갔습니다. 그 가운데서 특히 국가 부채 규모와 기축통화 문제를 두고 논쟁이 이어졌습니다. SBS 팩트체크, 사실은 팀이 후보들의 이야기를 검증해봤습니다. 이경원 기자입니다. &lt;기자&gt; 국가 부채 비율 GDP 대비 몇 % 정도면 괜찮으냐. 이재명, 윤석열 후보는 이 문제를 놓고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[집무실 이전하면 최대 '12조 원' 이득? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220331202810960</id>
+        <link href="https://v.daum.net/v/20220331202810960"/>
+        <updated>2022-03-31T12:41:26.745Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령 집무실 이전을 두고 당선인 측은 상당한 경제적 이득이 있다고 합니다. ◀ I N T ▶ [김은혜/대통령 당선인 대변인] "(청와대 개방으로) 국민에게 환원되는 이익이 2천억 원, 또 1조 원 넘는 부가가치가 있다는 게 여러 단체를 통해서 자료가 나오고 있는 것으로 알고 있습니다." 여기서 말하는 자료]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[떼었다 붙였다 정부 조직개편.. 유독 우리만? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220325202214958</id>
         <link href="https://v.daum.net/v/20220325202214958"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20211206201604226"/>
         <updated>2022-01-02T15:35:54.909Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 유명 전직 야구 선수가 만취한 채 전동킥보드를 타다가 적발이 돼서 운전면허가 취소됐다는 소식 알려졌죠. 이게 자동차 면허까지 취소될 일인가라고 놀라는 분들도 있는데, 최근 연말연시 술자리가 늘면서 킥보드 음주운전이 늘어날 조짐이 보이고 있습니다. 술김에 섣불리 킥보드를 집어 타다가 어떤 처벌 받을 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["위헌" 윤창호법..상습음주운전 처벌 약해지나 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20211201202508353</id>
-        <link href="https://v.daum.net/v/20211201202508353"/>
-        <updated>2022-01-02T15:35:54.909Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 2018년 음주운전 사고로  세상을 떠난 윤창호 씨, 음주운전자에 대한 처벌 기준을 강화하기 위해 그의 이름을 딴 윤창호법이 만들어졌죠. 그런데 "두 번째 음주운전부터 처벌을 강화한다"는 법 조항에 대해 최근 위헌 결정이 내려졌습니다. 이후 윤창호법으로 가중 처벌을 받은 개인은 처벌이 약해질거라 환]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
@@ -582,7 +582,7 @@
         <title type="html"><![CDATA["2년 내 판다" 민주당 의원 1주택 서약, 여전히.. (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220331200706617</id>
         <link href="https://v.daum.net/v/20220331200706617"/>
-        <updated>2022-03-31T11:20:18.165Z</updated>
+        <updated>2022-03-31T11:19:18.070Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다. 팩트체크 이지은 기자와 짚어보겠습니다. 이지은 기자, 2년 전 약속이 뭐였죠, 정확히? [기자] 정확히 이런 내용이었습니다. 들어보시죠. [박광온/당시 더불어민주]]></content>
     </entry>
     <entry>
