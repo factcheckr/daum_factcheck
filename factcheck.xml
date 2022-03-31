@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-03-31T20:25:21.479Z</updated>
+    <updated>2022-03-31T21:22:02.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[햇살 들어가면 모두 욱일기 문양?.. 일본이 감춘 진실 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220401061810673</id>
+        <link href="https://v.daum.net/v/20220401061810673"/>
+        <updated>2022-03-31T21:21:01.828Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;겨레하나 회원이 지난 2021년 7월 21일 오전 서울 종로구 일본대사관 입주 건물 앞에서 도쿄올림픽 독도 일본영토표기,욱일기 철회 공식화 등을 규탄하며 일인시위를 하고 있다.    ⓒ 이희훈  &nbsp; 또다시 일본 정부의 역사 왜곡 논란이 불거졌다. 일본 문부과학성은 지난 29일 '일본군 위안부'나 '조선인 강제연행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 집무실 이전하면 최대 '12조 원' 이득?]]></title>
         <id>https://v.daum.net/v/20220331202810960</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220330113300779"/>
         <updated>2022-03-30T03:01:15.306Z</updated>
         <content type="html"><![CDATA[국민의힘 이준석 대표는 지난 25일 자신의 SNS에 "문재인 정부 하의 박원순 시정에서 장애인 이동권을 위해 했던 약속을 지키지 못했다는 이유로, 오세훈 시장이 들어선 뒤 지속적으로 시위를 계속하고 있다"고 했습니다. 최근 논란이 되고 있는 장애인 단체의 지하철 승·하차 시위를 비판하면서 쓴 글입니다. 약속은 박원순 전 시장이 했는데 정작 시위는 오세훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 장애인 단체, 尹 당선되자 지하철 시위 시작했다?]]></title>
-        <id>https://v.daum.net/v/20220329221308000</id>
-        <link href="https://v.daum.net/v/20220329221308000"/>
-        <updated>2022-03-29T13:31:58.255Z</updated>
-        <content type="html"><![CDATA[[앵커] 국민의힘 이준석 대표가 장애인 단체의 지하철 시위를 두고 연일 강한 발언을 쏟아내 논란입니다. 문재인 정부와 고 박원순 전 서울시장에게 말하지 않던 것을 왜 윤석열 당선인에게 요구하느냐는 주장도 했는데요. 사실인지, 김지환 기자가 팩트체크했습니다. [기자] 이동권 보장을 요구하는 장애인들 앞에 무릎 꿇은 시각장애인 국회의원. 같은 날,]]></content>
     </entry>
 </feed>
