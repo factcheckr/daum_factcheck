@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-02T23:22:58.620Z</updated>
+    <updated>2022-04-03T01:51:08.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 전경련 "집무실 경제효과 12조 원", 어떻게 나왔나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220403104610379</id>
+        <link href="https://v.daum.net/v/20220403104610379"/>
+        <updated>2022-04-03T01:49:50.016Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 발표되고 있습니다. 그중 가장 많은 관심을 받은 것은 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서입니다. 집무실 이전으로 인한 경제 효과가 '수조 원'에 이를 수 있고 밝혔기 때문입니다. 앞서 경제 효과가 ‘수천억 원’이라고 추산한, 문체부 산하 한국관광연구원 보고서보다 훨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 우루과이, 대통령 관저 개방으로 GDP 증가? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220402223109151</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220331112614239"/>
         <updated>2022-03-31T04:29:12.696Z</updated>
         <content type="html"><![CDATA[현대자동차와 기아는 생산량을 줄였고, 폴크스바겐 등은 아예 공장 가동을 멈췄다. 와이어링 하네스라고 불리는 ‘전선뭉치’가 부족해서다. 차량 내 전자부품 등을 이어주는 전선 다발이다. 반도체처럼 높은 기술력이 필요한 부품이 아닌데도 완성차 업계의 발목을 잡고 있는 이유는 무엇일까. 30일 자동차 부품업계에 따르면 와이어링 하네스를 생산하는 업체들은 자국에 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 청와대 개방 땐 경제효과 2000억? 연구자료 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220330200305598</id>
-        <link href="https://v.daum.net/v/20220330200305598"/>
-        <updated>2022-03-30T11:19:11.342Z</updated>
-        <content type="html"><![CDATA[[앵커] 그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다. 이지은 기자, 2천억 원이라는 숫자는 어디에서 나온 겁니까? [기자] 2천억 원의 경제적 효과가 예상된다, 문체부 산하의 한국문화관광연구원의 자료다, 이런 보도들이 잇따랐죠. 그런데 저희]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불붙은 풍수지리 논란..'명당'이란 무엇인가 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 어제(21일) 토론회 주제였던 경제 분야에서도 후보들 사이에 많은 말들이 오갔습니다. 그 가운데서 특히 국가 부채 규모와 기축통화 문제를 두고 논쟁이 이어졌습니다. SBS 팩트체크, 사실은 팀이 후보들의 이야기를 검증해봤습니다. 이경원 기자입니다. &lt;기자&gt; 국가 부채 비율 GDP 대비 몇 % 정도면 괜찮으냐. 이재명, 윤석열 후보는 이 문제를 놓고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전경련 "집무실 경제효과 12조 원", 어떻게 나왔나 (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220403104610379</id>
+        <link href="https://v.daum.net/v/20220403104610379"/>
+        <updated>2022-04-03T01:50:10.137Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 발표되고 있습니다. 그중 가장 많은 관심을 받은 것은 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서입니다. 집무실 이전으로 인한 경제 효과가 '수조 원'에 이를 수 있고 밝혔기 때문입니다. 앞서 경제 효과가 ‘수천억 원’이라고 추산한, 문체부 산하 한국관광연구원 보고서보다 훨]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[집무실 이전하면 최대 '12조 원' 이득? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220331202810960</id>
         <link href="https://v.daum.net/v/20220331202810960"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20211208202209507"/>
         <updated>2022-01-02T15:35:54.901Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 내년 1월 중대재해처벌법 시행이 다가오면서 관련 보도들이 늘고 있습니다. 특히 이번 주 고 김용균씨 3주기 추모기간을 맞아 여전히 위험한 일터에 대한 고발도  이어지고 있는데요. 반면 이런 보도들도 있습니다. 이 중대재해법때문에 조금이라도 몸이 아프면 기업들이 채용을 거부해 '취업준비생들이 날벼락을 맞는다'는 내용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[술김에 전동킥보드 탔다가..차 면허도 취소? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20211206201604226</id>
-        <link href="https://v.daum.net/v/20211206201604226"/>
-        <updated>2022-01-02T15:35:54.909Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 유명 전직 야구 선수가 만취한 채 전동킥보드를 타다가 적발이 돼서 운전면허가 취소됐다는 소식 알려졌죠. 이게 자동차 면허까지 취소될 일인가라고 놀라는 분들도 있는데, 최근 연말연시 술자리가 늘면서 킥보드 음주운전이 늘어날 조짐이 보이고 있습니다. 술김에 섣불리 킥보드를 집어 타다가 어떤 처벌 받을 수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>

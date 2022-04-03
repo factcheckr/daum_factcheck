@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-02T23:22:58.615Z</updated>
+    <updated>2022-04-03T01:51:08.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 전경련 "집무실 경제효과 12조 원", 어떻게 나왔나]]></title>
+        <id>https://v.daum.net/v/20220403104610379</id>
+        <link href="https://v.daum.net/v/20220403104610379"/>
+        <updated>2022-04-03T01:49:50.016Z</updated>
+        <content type="html"><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 발표되고 있습니다. 그중 가장 많은 관심을 받은 것은 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서입니다. 집무실 이전으로 인한 경제 효과가 '수조 원'에 이를 수 있고 밝혔기 때문입니다. 앞서 경제 효과가 ‘수천억 원’이라고 추산한, 문체부 산하 한국관광연구원 보고서보다 훨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 우루과이, 대통령 관저 개방으로 GDP 증가?]]></title>
         <id>https://v.daum.net/v/20220402223109151</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220331112614239"/>
         <updated>2022-03-31T04:29:12.696Z</updated>
         <content type="html"><![CDATA[현대자동차와 기아는 생산량을 줄였고, 폴크스바겐 등은 아예 공장 가동을 멈췄다. 와이어링 하네스라고 불리는 ‘전선뭉치’가 부족해서다. 차량 내 전자부품 등을 이어주는 전선 다발이다. 반도체처럼 높은 기술력이 필요한 부품이 아닌데도 완성차 업계의 발목을 잡고 있는 이유는 무엇일까. 30일 자동차 부품업계에 따르면 와이어링 하네스를 생산하는 업체들은 자국에 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 청와대 개방 땐 경제효과 2000억? 연구자료 보니]]></title>
-        <id>https://v.daum.net/v/20220330200305598</id>
-        <link href="https://v.daum.net/v/20220330200305598"/>
-        <updated>2022-03-30T11:19:11.342Z</updated>
-        <content type="html"><![CDATA[[앵커] 그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다. 이지은 기자, 2천억 원이라는 숫자는 어디에서 나온 겁니까? [기자] 2천억 원의 경제적 효과가 예상된다, 문체부 산하의 한국문화관광연구원의 자료다, 이런 보도들이 잇따랐죠. 그런데 저희]]></content>
     </entry>
 </feed>
