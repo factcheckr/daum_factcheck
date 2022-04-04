@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-04T11:21:08.457Z</updated>
+    <updated>2022-04-04T12:41:04.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "코로나 시신 염 안 하겠다"..진짜 감염되나]]></title>
+        <id>https://v.daum.net/v/20220404211703505</id>
+        <link href="https://v.daum.net/v/20220404211703505"/>
+        <updated>2022-04-04T12:40:09.346Z</updated>
+        <content type="html"><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '대표이사 알박기 논란' 대우조선해양은 공기업?]]></title>
         <id>https://v.daum.net/v/20220404181708981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220401061810673"/>
         <updated>2022-03-31T21:21:01.828Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;겨레하나 회원이 지난 2021년 7월 21일 오전 서울 종로구 일본대사관 입주 건물 앞에서 도쿄올림픽 독도 일본영토표기,욱일기 철회 공식화 등을 규탄하며 일인시위를 하고 있다.    ⓒ 이희훈  &nbsp; 또다시 일본 정부의 역사 왜곡 논란이 불거졌다. 일본 문부과학성은 지난 29일 '일본군 위안부'나 '조선인 강제연행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 집무실 이전하면 최대 '12조 원' 이득?]]></title>
-        <id>https://v.daum.net/v/20220331202810960</id>
-        <link href="https://v.daum.net/v/20220331202810960"/>
-        <updated>2022-03-31T12:41:11.892Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령 집무실 이전을 두고 당선인 측은 상당한 경제적 이득이 있다고 합니다. ◀ I N T ▶ [김은혜/대통령 당선인 대변인] "(청와대 개방으로) 국민에게 환원되는 이익이 2천억 원, 또 1조 원 넘는 부가가치가 있다는 게 여러 단체를 통해서 자료가 나오고 있는 것으로 알고 있습니다." 여기서 말하는 자료]]></content>
     </entry>
 </feed>

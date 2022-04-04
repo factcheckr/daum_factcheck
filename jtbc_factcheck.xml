@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-04-04T11:21:08.464Z</updated>
+    <updated>2022-04-04T12:41:04.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["코로나 시신 염 안 하겠다"..진짜 감염되나]]></title>
+        <id>https://v.daum.net/v/20220404211703505</id>
+        <link href="https://v.daum.net/v/20220404211703505"/>
+        <updated>2022-04-04T12:41:04.125Z</updated>
+        <content type="html"><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["2년 내 판다" 민주당 의원 1주택 서약, 여전히..]]></title>
         <id>https://v.daum.net/v/20220331200706617</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220301203207566"/>
         <updated>2022-03-01T12:37:48.759Z</updated>
         <content type="html"><![CDATA[[앵커] 팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠? [기자] 그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부분이 환영하는 공약입니다. 이러다 보니 주요 후보들도 입장을 모두 밝힐 수밖에 없는데요. 이재명 후보는 주4일 또는 주4.5일제 시범 실시, 윤석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정시 비율·자사고 폐지 여부 보니..생활밀착형 공약엔 '두루뭉술']]></title>
-        <id>https://v.daum.net/v/20220228205408858</id>
-        <link href="https://v.daum.net/v/20220228205408858"/>
-        <updated>2022-02-28T12:37:05.268Z</updated>
-        <content type="html"><![CDATA[[앵커] 팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다. 이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠? [기자] 일단 정시 비율 확대가 큰 방향입니다. 이재명 후보는 수시 인원이 지나치게 높은 대학은 정시 비율을 늘린다, 윤석열 후보도 정시 비율을 확대한다고 했습니다. 안철수 후보는 아예 수시를 없애겠다고 했습니다. 심상정 후보만 정시 확대를]]></content>
     </entry>
 </feed>
