@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-04T05:24:06.043Z</updated>
+    <updated>2022-04-04T06:30:09.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '집무실 이전' 예비비 사용은 법적 규정 있다? 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220404093112635</id>
+        <link href="https://v.daum.net/v/20220404093112635"/>
+        <updated>2022-04-04T06:29:01.521Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '집무실 이전' 예비비 사용은 법적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["청계천 때도 반대 80%?".. 집무실 용산 이전 인수위 반박 팩트체크 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220404092700454</id>
+        <link href="https://v.daum.net/v/20220404092700454"/>
+        <updated>2022-04-04T06:29:01.521Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. "청계천 때도 반대 80%?".. 대통령 집무실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 전경련 "집무실 경제효과 12조 원", 어떻게 나왔나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220403104610379</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20220331200706617"/>
         <updated>2022-03-31T11:19:18.070Z</updated>
         <content type="html"><![CDATA[[앵커] 이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다. 팩트체크 이지은 기자와 짚어보겠습니다. 이지은 기자, 2년 전 약속이 뭐였죠, 정확히? [기자] 정확히 이런 내용이었습니다. 들어보시죠. [박광온/당시 더불어민주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 장애인 콜택시 타려고 2시간 기다리는 경우 많다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220331152724103</id>
-        <link href="https://v.daum.net/v/20220331152724103"/>
-        <updated>2022-03-31T07:22:17.886Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 장애인 단체가 이동권을 보장해 달라는 요구를 강하게 하는 가운데 시각장애인인 국민의힘 김예지 의원은 장애인이 겪는 어려운 현실을 지적했다. 김 의원은 29일 MBC라디오 김종배의 시선집중에서 "이동권은 인간으로서의 기본 권리이며 존엄"이라며 "(장애인은) 택시 한 번 타기도 힘들다. 장애인 콜택시라고 있긴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] '이 부품' 하나가 없어서..세계 자동차 생산이 멈췄다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220331112614239</id>
-        <link href="https://v.daum.net/v/20220331112614239"/>
-        <updated>2022-03-31T04:29:12.696Z</updated>
-        <content type="html"><![CDATA[현대자동차와 기아는 생산량을 줄였고, 폴크스바겐 등은 아예 공장 가동을 멈췄다. 와이어링 하네스라고 불리는 ‘전선뭉치’가 부족해서다. 차량 내 전자부품 등을 이어주는 전선 다발이다. 반도체처럼 높은 기술력이 필요한 부품이 아닌데도 완성차 업계의 발목을 잡고 있는 이유는 무엇일까. 30일 자동차 부품업계에 따르면 와이어링 하네스를 생산하는 업체들은 자국에 연]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불붙은 풍수지리 논란..'명당'이란 무엇인가 (다음 뉴스 ─ SBS 사실은)]]></title>
