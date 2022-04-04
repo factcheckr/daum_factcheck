@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-04T21:21:22.132Z</updated>
+    <updated>2022-04-04T22:24:26.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 확진 이력자 "해외여행 쉽지 않네"..어떻게 갈 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20220405070110098</id>
+        <link href="https://v.daum.net/v/20220405070110098"/>
+        <updated>2022-04-04T22:23:27.959Z</updated>
+        <content type="html"><![CDATA[코로나19의 국내 유입을 차단하기 위해 인천국제공항 입국장에 설치됐던 방역 관련 시설이 지난  1일 철거됐습니다. 지난해 4월 해외 입국여행객 분리를 위해 설치된 지 1년 만입니다. 이로써 인천공항 입국장 운영체계는 코로나19 이전 수준으로 돌아갔습니다. 앞서 지난달 21일부터 백신 접종을 완료한 뒤 국내로 들어오는 해외 입국자의 자가격리도 면제됐습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "코로나 시신 염 안 하겠다"..진짜 감염되나]]></title>
         <id>https://v.daum.net/v/20220404211703505</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220401070228200"/>
         <updated>2022-03-31T22:22:45.409Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 당선인. 연합뉴스  “청년도약계좌&nbsp;나오면 청년희망적금 없어지나요?” 최근 윤석열 대통령 당선인의 공약인&nbsp;’청년도약계좌’에 관심이&nbsp;쏠리면서 최근 청년들 사이에서는 기존의&nbsp;‘청년희망적금’이 사라지는 것 아니냐는 우려가 나온다. 지난 4일까지 약 290만명이 가입을 마친 청년희망적금은 정부의 저축장려금과 비과세 혜택을 합쳐 2년 만기&nbsp;시 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[햇살 들어가면 모두 욱일기 문양?.. 일본이 감춘 진실 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220401061810673</id>
-        <link href="https://v.daum.net/v/20220401061810673"/>
-        <updated>2022-03-31T21:21:01.828Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;겨레하나 회원이 지난 2021년 7월 21일 오전 서울 종로구 일본대사관 입주 건물 앞에서 도쿄올림픽 독도 일본영토표기,욱일기 철회 공식화 등을 규탄하며 일인시위를 하고 있다.    ⓒ 이희훈  &nbsp; 또다시 일본 정부의 역사 왜곡 논란이 불거졌다. 일본 문부과학성은 지난 29일 '일본군 위안부'나 '조선인 강제연행]]></content>
     </entry>
 </feed>
