@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-04T08:28:54.047Z</updated>
+    <updated>2022-04-04T09:24:05.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '대표이사 알박기 논란' 대우조선해양은 공기업?]]></title>
+        <id>https://v.daum.net/v/20220404181708981</id>
+        <link href="https://v.daum.net/v/20220404181708981"/>
+        <updated>2022-04-04T09:23:03.538Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대우조선해양 대표이사 선임 논란이 정권 교체기 신구(新舊) 권력 간의 알력을 키우는 모습이다. 원일희 대통령직인수위원회 수석부대변인은 지난 1일 대우조선해양을 "국민 혈세 4조1천억 원이 투입된 부실 공기업"으로 지칭하며 박두선 신임 대표이사 선임이 '현 정부의 알박기 인사'라는 입장을 고수했다. 반면 청와대는 "민간기업 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '집무실 이전' 예비비 사용은 법적 규정 있다? 없다?]]></title>
         <id>https://v.daum.net/v/20220404093112635</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220331202810960"/>
         <updated>2022-03-31T12:41:11.892Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령 집무실 이전을 두고 당선인 측은 상당한 경제적 이득이 있다고 합니다. ◀ I N T ▶ [김은혜/대통령 당선인 대변인] "(청와대 개방으로) 국민에게 환원되는 이익이 2천억 원, 또 1조 원 넘는 부가가치가 있다는 게 여러 단체를 통해서 자료가 나오고 있는 것으로 알고 있습니다." 여기서 말하는 자료]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "2년 내 판다" 민주당 의원 1주택 서약, 여전히..]]></title>
-        <id>https://v.daum.net/v/20220331200706617</id>
-        <link href="https://v.daum.net/v/20220331200706617"/>
-        <updated>2022-03-31T11:19:18.070Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다. 팩트체크 이지은 기자와 짚어보겠습니다. 이지은 기자, 2년 전 약속이 뭐였죠, 정확히? [기자] 정확히 이런 내용이었습니다. 들어보시죠. [박광온/당시 더불어민주]]></content>
     </entry>
 </feed>
