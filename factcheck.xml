@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-05T18:29:20.775Z</updated>
+    <updated>2022-04-05T19:27:10.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 확진 이력자 "해외여행 쉽지 않네"..어떻게 갈 수 있을까?]]></title>
         <id>https://v.daum.net/v/20220405070110098</id>
