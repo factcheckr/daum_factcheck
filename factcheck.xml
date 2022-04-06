@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-06T11:21:00.434Z</updated>
+    <updated>2022-04-06T12:42:09.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 아시아에서 '성평등 나라' 1순위는 한국?]]></title>
+        <id>https://v.daum.net/v/20220406204309236</id>
+        <link href="https://v.daum.net/v/20220406204309236"/>
+        <updated>2022-04-06T12:41:15.105Z</updated>
+        <content type="html"><![CDATA[[앵커] 여성가족부를 없애는 공약 관련해서 일각에선 우리나라의 성평등지수가 아시아에서 가장 좋다, 그러니까 가장 평등한 나라다, 이런 주장이 나왔습니다. 사실인지 따져보겠습니다. 이지은 기자, 이 말이 어디서 나온 거죠? [기자] 지난 대선에서 국민의힘 공동선대위원장을 맡았던 이수정 교수가 한 토론회에서 한 말입니다. 들어보시죠. [이수정/경기대 범죄심리학]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 장애인 이동권, 장애인들 '집단이기주의'?]]></title>
+        <id>https://v.daum.net/v/20220406202215855</id>
+        <link href="https://v.daum.net/v/20220406202215855"/>
+        <updated>2022-04-06T12:41:15.107Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 며칠 전 장애인들의 지하철역 삭발 시위에서 이런 항의가 나왔습니다. [지하철 이용객] "장애인들 확실하게 돈 내고 무임승차하지 말고, 돈 내고 하면 엘리베이터 다 깔릴 거예요." 장애인에게 승강기가 필요하다면, 지하철 요금부터 내라는 건데요. 온라인 게시판이나 댓글에서도 일부 누리꾼들은 "장애인들의 시위는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 푸틴, 전범 재판 법정에 세울 수 있을까]]></title>
         <id>https://v.daum.net/v/20220406174807113</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220404092700454"/>
         <updated>2022-04-04T06:29:01.521Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. "청계천 때도 반대 80%?".. 대통령 집무실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 전경련 "집무실 경제효과 12조 원", 어떻게 나왔나]]></title>
-        <id>https://v.daum.net/v/20220403104610379</id>
-        <link href="https://v.daum.net/v/20220403104610379"/>
-        <updated>2022-04-03T01:49:50.016Z</updated>
-        <content type="html"><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 발표되고 있습니다. 그중 가장 많은 관심을 받은 것은 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서입니다. 집무실 이전으로 인한 경제 효과가 '수조 원'에 이를 수 있고 밝혔기 때문입니다. 앞서 경제 효과가 ‘수천억 원’이라고 추산한, 문체부 산하 한국관광연구원 보고서보다 훨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 우루과이, 대통령 관저 개방으로 GDP 증가?]]></title>
-        <id>https://v.daum.net/v/20220402223109151</id>
-        <link href="https://v.daum.net/v/20220402223109151"/>
-        <updated>2022-04-02T14:20:37.378Z</updated>
-        <content type="html"><![CDATA[[앵커] 전국경제인연합회가 대통령 집무실을 이전하면 5조 2천억 원에 이르는 경제 효과가 발생한다는 보고서를 내놨습니다. 특히, 우루과이 사례를 들면서 대통령 관저를 개방하면 국내총생산, GDP가 3조 원 넘게 늘어난다고 주장하는데요. 우루과이 사례가 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] 대통령 집무실 이전의 경제효과를 계산한]]></content>
     </entry>
 </feed>
