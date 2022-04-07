@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-07T08:28:38.786Z</updated>
+    <updated>2022-04-07T09:23:33.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
+        <id>https://v.daum.net/v/20220407180559527</id>
+        <link href="https://v.daum.net/v/20220407180559527"/>
+        <updated>2022-04-07T09:22:40.825Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 전 세계 국가들이 코로나19 팬데믹(세계적 대유행) 여파로 걸어 잠근 빗장을 속속 풀고 있는 가운데 일본도 외국인에 대한 입국·검역 규제 완화에 나서고 있다. 이런 가운데 국내 일부 언론은 6일 일본 TBS 보도 등을 인용해 일본이 미국과 영국, 프랑스 등 106개국에 대한 입국 거부 조치를 8일부터 해제하기로 했다고 전하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220407133606030</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220404181708981"/>
         <updated>2022-04-04T09:23:03.538Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대우조선해양 대표이사 선임 논란이 정권 교체기 신구(新舊) 권력 간의 알력을 키우는 모습이다. 원일희 대통령직인수위원회 수석부대변인은 지난 1일 대우조선해양을 "국민 혈세 4조1천억 원이 투입된 부실 공기업"으로 지칭하며 박두선 신임 대표이사 선임이 '현 정부의 알박기 인사'라는 입장을 고수했다. 반면 청와대는 "민간기업 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '집무실 이전' 예비비 사용은 법적 규정 있다? 없다?]]></title>
-        <id>https://v.daum.net/v/20220404093112635</id>
-        <link href="https://v.daum.net/v/20220404093112635"/>
-        <updated>2022-04-04T06:29:01.521Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '집무실 이전' 예비비 사용은 법적]]></content>
     </entry>
 </feed>
