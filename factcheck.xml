@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-07T04:30:30.136Z</updated>
+    <updated>2022-04-07T05:22:40.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220407133606030</id>
+        <link href="https://v.daum.net/v/20220407133606030"/>
+        <updated>2022-04-07T05:21:35.431Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;얼마 전까지 올해 나랏빚(국가부채)이 1000조를 돌파한다고 보도했던 언론은 최근 국가부채가 2000조를 돌파해 GDP를 초월했다고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "국가부채 2200조, GDP 역전" 언론 보도 &nbsp;&nbsp;- 나랏빗 1000조인데... 추가세수 퍼주기 급급한 정치권(&lt;국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 아시아에서 '성평등 나라' 1순위는 한국?]]></title>
         <id>https://v.daum.net/v/20220406204309236</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220404093112635"/>
         <updated>2022-04-04T06:29:01.521Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '집무실 이전' 예비비 사용은 법적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["청계천 때도 반대 80%?".. 집무실 용산 이전 인수위 반박 팩트체크]]></title>
-        <id>https://v.daum.net/v/20220404092700454</id>
-        <link href="https://v.daum.net/v/20220404092700454"/>
-        <updated>2022-04-04T06:29:01.521Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 2일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. "청계천 때도 반대 80%?".. 대통령 집무실]]></content>
     </entry>
 </feed>
