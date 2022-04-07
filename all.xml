@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-07T10:25:38.666Z</updated>
+    <updated>2022-04-07T11:21:11.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220407200415105</id>
+        <link href="https://v.daum.net/v/20220407200415105"/>
+        <updated>2022-04-07T11:20:11.321Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 일본이 외국인 입국 완화 대상에서 한국을 제외했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220407180559527</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220404211703505"/>
         <updated>2022-04-04T12:40:09.346Z</updated>
         <content type="html"><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '대표이사 알박기 논란' 대우조선해양은 공기업? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220404181708981</id>
-        <link href="https://v.daum.net/v/20220404181708981"/>
-        <updated>2022-04-04T09:23:03.538Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대우조선해양 대표이사 선임 논란이 정권 교체기 신구(新舊) 권력 간의 알력을 키우는 모습이다. 원일희 대통령직인수위원회 수석부대변인은 지난 1일 대우조선해양을 "국민 혈세 4조1천억 원이 투입된 부실 공기업"으로 지칭하며 박두선 신임 대표이사 선임이 '현 정부의 알박기 인사'라는 입장을 고수했다. 반면 청와대는 "민간기업 인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴, 전범 재판 법정에 세울 수 있을까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[어떤 여론조사는 이 사람이 높다, 또 어떤 여론조사는 저 사람이 높다, 조사 결과가 제각각입니다. 어떤 여론조사를 믿어야 할지 모르겠습니다. SBS 선거팀은 이런 문제를 해결하기 위해 '메타S 심층 여론 지수'를 내놨습니다. 신뢰할 수 있는 여론조사 수치를 찾는 과정입니다. SBS 팩트체크 사실은팀이 그 수치를 분석해 시청자 여러분께 제공하고 있습니다. 메]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이폰 잠금, 정말 못 푸나 (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220407200415105</id>
+        <link href="https://v.daum.net/v/20220407200415105"/>
+        <updated>2022-04-07T11:20:29.137Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[장애인 이동권, 장애인들 '집단이기주의'? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220406202215855</id>
         <link href="https://v.daum.net/v/20220406202215855"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20211220203711197"/>
         <updated>2022-01-02T15:35:54.897Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난주 코로나19 백신접종 반대 집회에서 나왔던 발언 먼저 들어보시죠. [산부인과 의사] "백신 성분을 현미경으로 봤습니다. 이상하게 생긴 게 머리와 꼬리 쪽에 털이 나 있어요." 코로나 백신 안에 정체를 알 수 없는 미생물이 있다는 주장입니다. 최근 의료인들이 나서서 이처럼 백신 불신론을 펼치고 있는데요,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선주자 토론 역대 최저? 과거엔 어땠나 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20211213204613902</id>
-        <link href="https://v.daum.net/v/20211213204613902"/>
-        <updated>2022-01-02T15:35:54.897Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 여론조사에도 나왔지만, 국민 3분의 2는 대선후보 토론회가 조금 더 일찍 열렸으면 바라고 있습니다. 법적으로 내년 2월에 TV토론을 3번은 하도록 돼 있긴 하지만, 선거일까지 시간도 촉박하고, 만약 이 세 번이 다라면 너무 부족하지 않냐는 지적도 나옵니다. 그럼 과거 대선 때는 어땠는지 알아봤습니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[확진 이력자 "해외여행 쉽지 않네"..어떻게 갈 수 있을까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>

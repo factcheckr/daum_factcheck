@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-07T10:25:38.662Z</updated>
+    <updated>2022-04-07T11:21:11.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나]]></title>
+        <id>https://v.daum.net/v/20220407200415105</id>
+        <link href="https://v.daum.net/v/20220407200415105"/>
+        <updated>2022-04-07T11:20:11.321Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
         <id>https://v.daum.net/v/20220407180559527</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220404211703505"/>
         <updated>2022-04-04T12:40:09.346Z</updated>
         <content type="html"><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '대표이사 알박기 논란' 대우조선해양은 공기업?]]></title>
-        <id>https://v.daum.net/v/20220404181708981</id>
-        <link href="https://v.daum.net/v/20220404181708981"/>
-        <updated>2022-04-04T09:23:03.538Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대우조선해양 대표이사 선임 논란이 정권 교체기 신구(新舊) 권력 간의 알력을 키우는 모습이다. 원일희 대통령직인수위원회 수석부대변인은 지난 1일 대우조선해양을 "국민 혈세 4조1천억 원이 투입된 부실 공기업"으로 지칭하며 박두선 신임 대표이사 선임이 '현 정부의 알박기 인사'라는 입장을 고수했다. 반면 청와대는 "민간기업 인]]></content>
     </entry>
 </feed>
