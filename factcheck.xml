@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-08T04:30:13.725Z</updated>
+    <updated>2022-04-08T05:22:36.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 장애인 이동권, 장애인만을 위한 것일까?]]></title>
+        <id>https://v.daum.net/v/20220408132805255</id>
+        <link href="https://v.daum.net/v/20220408132805255"/>
+        <updated>2022-04-08T05:21:35.395Z</updated>
+        <content type="html"><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 '논란'으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 단체의 정파성 까지 도마 위에 올랐습니다. 이들의 요구사항은 장애인 이동권 외에도 탈시설과 장애인활동지원을 위한 예산 편성 등이 있습니다. 이것이 얼마나 현실성이 있고 합리적인 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나]]></title>
         <id>https://v.daum.net/v/20220407200415105</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220405070110098"/>
         <updated>2022-04-04T22:23:27.959Z</updated>
         <content type="html"><![CDATA[코로나19의 국내 유입을 차단하기 위해 인천국제공항 입국장에 설치됐던 방역 관련 시설이 지난  1일 철거됐습니다. 지난해 4월 해외 입국여행객 분리를 위해 설치된 지 1년 만입니다. 이로써 인천공항 입국장 운영체계는 코로나19 이전 수준으로 돌아갔습니다. 앞서 지난달 21일부터 백신 접종을 완료한 뒤 국내로 들어오는 해외 입국자의 자가격리도 면제됐습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "코로나 시신 염 안 하겠다"..진짜 감염되나]]></title>
-        <id>https://v.daum.net/v/20220404211703505</id>
-        <link href="https://v.daum.net/v/20220404211703505"/>
-        <updated>2022-04-04T12:40:09.346Z</updated>
-        <content type="html"><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content>
     </entry>
 </feed>
