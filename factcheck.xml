@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-08T06:29:29.135Z</updated>
+    <updated>2022-04-08T07:23:46.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '깜깜이' 특수활동비 40% 줄었다, 사실은?]]></title>
+        <id>https://v.daum.net/v/20220408160000734</id>
+        <link href="https://v.daum.net/v/20220408160000734"/>
+        <updated>2022-04-08T07:22:47.265Z</updated>
+        <content type="html"><![CDATA[문재인 대통령의 부인 김정숙 여사의 의상 비용을 둘러싼 논란이 불거졌습니다. 시민단체 한국납세자연맹은 김 여사의 옷값을 비롯한 의전 비용이 국가 예산인 특수활동비, 특활비에서 지출됐을 거라는 의구심을 제기했고, 지난 2019년 특활비 사용 내역을 공개하라며 소송을 냈습니다. 최근 법원은 공개하라고 판결했지만, 청와대는 불복해 항소했습니다. 국민의힘과 보수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 장애인 이동권, 장애인만을 위한 것일까?]]></title>
         <id>https://v.daum.net/v/20220408132805255</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220406140604797"/>
         <updated>2022-04-06T06:27:42.780Z</updated>
         <content type="html"><![CDATA[지난달 31일 산림청이 발표한 ‘2022년 경북·강원 대형 산불 시사점 분석 및 개선대책’은 ‘산불예방 숲가꾸기’ 2배 확대, 연 350㏊ 규모의 내화수림대(불에 강한 활엽수 등의 지대) 조성을 주요 내용으로 한다. 최근 강원·경북 일대의 산불 대책으로, 방안대로라면 산림 내 임도(산림관리용 길)도 2030년까지 현재 157㎞에서 6357㎞로 확대되고, 물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 확진 이력자 "해외여행 쉽지 않네"..어떻게 갈 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20220405070110098</id>
-        <link href="https://v.daum.net/v/20220405070110098"/>
-        <updated>2022-04-04T22:23:27.959Z</updated>
-        <content type="html"><![CDATA[코로나19의 국내 유입을 차단하기 위해 인천국제공항 입국장에 설치됐던 방역 관련 시설이 지난  1일 철거됐습니다. 지난해 4월 해외 입국여행객 분리를 위해 설치된 지 1년 만입니다. 이로써 인천공항 입국장 운영체계는 코로나19 이전 수준으로 돌아갔습니다. 앞서 지난달 21일부터 백신 접종을 완료한 뒤 국내로 들어오는 해외 입국자의 자가격리도 면제됐습니다.]]></content>
     </entry>
 </feed>
