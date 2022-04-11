@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-11T11:25:25.046Z</updated>
+    <updated>2022-04-11T12:42:44.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 집무실도 관저?..100m 내 집회금지 가능한가]]></title>
+        <id>https://v.daum.net/v/20220411203505737</id>
+        <link href="https://v.daum.net/v/20220411203505737"/>
+        <updated>2022-04-11T12:40:44.536Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 당선인은 국민과의 소통을 위해서 집무실을 옮긴다고 했습니다. 백악관처럼 낮은 울타리를 설치해서 집무실 앞까지 시민들이 들어올 수 있게 말이죠. 그런데 경찰이 새 집무실이 들어설 국방부 반경 100m에서 집회나 시위하는 걸 막겠다고 했습니다. 그럴 수 있는지, 법적 근거가 있는지 팩트체크 해보겠습니다. 이지은 기자, 정확히 어떤 점이 문제가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 지수로는 "리튬·코발트 '수급위기'", 설명자료로는 "문제없다"..뭐가 맞아?]]></title>
         <id>https://v.daum.net/v/20220410091604564</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220406174807113"/>
         <updated>2022-04-06T09:24:28.334Z</updated>
         <content type="html"><![CDATA[우크라이나 수도 키이우 근처에서 참혹하게 숨진 민간인들 시신 수백 구가 수습됐습니다. 러시아군이 점령했던 '부차'라는 지역입니다. 옷이 벗겨지거나 손이 묶이고, 고문을 당한 흔적이 뚜렷한 시신들도 상당수로 알려졌는데, 국제 사회는 러시아가 민간을 학살한 명백한 증거라며 분노하고 있습니다. 물론, 러시아는 영상이 조작됐다며 학살을 부인하고 있습니다. 바이든]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국이 수출한 의류 때문에 중국에서 코로나 감염?]]></title>
-        <id>https://v.daum.net/v/20220406174001875</id>
-        <link href="https://v.daum.net/v/20220406174001875"/>
-        <updated>2022-04-06T09:24:28.339Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 중국에서 코로나19가 확산하는 가운데 현지 언론은 한국에서 수입한 의류를 감염원 중 하나로 보도했다. 중국 관영 매체인 글로벌타임스는 4일 베이징 차오양구에서 8건의 코로나19 신규 감염 사례가 발생했는데 한국에서 수입한 의류와 관련이 있다고 했다. 중국공산당 기관지 인민일보 산하 매체인 건강시보도 랴오닝성]]></content>
     </entry>
 </feed>
