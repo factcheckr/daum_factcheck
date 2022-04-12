@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-12T05:22:07.431Z</updated>
+    <updated>2022-04-12T06:29:34.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 문재인 정부 때 소득 증가율이 전 정부의 ¼? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220412143419420</id>
+        <link href="https://v.daum.net/v/20220412143419420"/>
+        <updated>2022-04-12T06:28:40.527Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 윤석열 정부의 밑그림을 그리는 안철수 대통령직 인수위원회 위원장이 현 정부의 경제 성적표를 비판했다. 안 위원장은 11일 인수위 전체회의에서 "경제는 엉망이고 나라는 빚더미"라며 "문재인 정부의 연평균 경제성장률은 직전 박근혜 정부에 비해 1%포인트나 낮았고, 1인당 국민총소득(GNI) 증가율도 연평균 1%]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "'여성가족부' 한국 같은 나라는 10곳뿐"..사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220412102100316</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220407180559527"/>
         <updated>2022-04-07T09:22:40.825Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 전 세계 국가들이 코로나19 팬데믹(세계적 대유행) 여파로 걸어 잠근 빗장을 속속 풀고 있는 가운데 일본도 외국인에 대한 입국·검역 규제 완화에 나서고 있다. 이런 가운데 국내 일부 언론은 6일 일본 TBS 보도 등을 인용해 일본이 미국과 영국, 프랑스 등 106개국에 대한 입국 거부 조치를 8일부터 해제하기로 했다고 전하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220407133606030</id>
-        <link href="https://v.daum.net/v/20220407133606030"/>
-        <updated>2022-04-07T05:21:35.431Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;얼마 전까지 올해 나랏빚(국가부채)이 1000조를 돌파한다고 보도했던 언론은 최근 국가부채가 2000조를 돌파해 GDP를 초월했다고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "국가부채 2200조, GDP 역전" 언론 보도 &nbsp;&nbsp;- 나랏빚&nbsp;1000조인데... 추가세수 퍼주기 급급한 정치권(&lt;국]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["'여성가족부' 한국 같은 나라는 10곳뿐"..사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
