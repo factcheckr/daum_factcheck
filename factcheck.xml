@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-11T23:26:44.473Z</updated>
+    <updated>2022-04-12T01:50:51.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '여성가족부' 한국 같은 나라는 10곳뿐.. 사실은?]]></title>
+        <id>https://v.daum.net/v/20220412102100316</id>
+        <link href="https://v.daum.net/v/20220412102100316"/>
+        <updated>2022-04-12T01:48:55.896Z</updated>
+        <content type="html"><![CDATA[대통령직 인수위원회가 '여성가족부 폐지'를 포함한 정부 조직 개편을 새 정부 출범 이후로 미루기로 했습니다. 새 정부의 내각 인선은 기존 정부 조직을 기준으로 이뤄지고 있습니다. 지난 10일, 윤석열 정부 첫 여성가족부 장관에는 박근혜 정부 청와대 고용복지수석을 지낸 김현숙 당선인 정책특보가 발탁됐습니다. 어제, 국민의힘 권성동 원내대표는 "여가부 폐지는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 권성동도 과거 검찰 수사권 폐지 주장했다?]]></title>
+        <id>https://v.daum.net/v/20220412101004821</id>
+        <link href="https://v.daum.net/v/20220412101004821"/>
+        <updated>2022-04-12T01:48:55.896Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 더불어민주당이 검찰 수사권 완전 분리를 추진하면서 여야 간 갈등이 고조되는 모습이다. 민주당은 지난해 초 검찰 수사권 일부를 경찰에 넘기는 검경 수사권 조정이 시행된 이후 검찰에 남은 6대 범죄(부패범죄·경제범죄·공직자범죄·선거범죄·방위사업범죄·대형참사) 수사권마저 완전히 분리해 별도 기관인 중대범죄수사청에 이관하는 방안을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["8억에 판 목동 아파트 26억 됐다" 원희룡 배우자 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220412060000932</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220407133606030"/>
         <updated>2022-04-07T05:21:35.431Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;얼마 전까지 올해 나랏빚(국가부채)이 1000조를 돌파한다고 보도했던 언론은 최근 국가부채가 2000조를 돌파해 GDP를 초월했다고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "국가부채 2200조, GDP 역전" 언론 보도 &nbsp;&nbsp;- 나랏빚&nbsp;1000조인데... 추가세수 퍼주기 급급한 정치권(&lt;국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 아시아에서 '성평등 나라' 1순위는 한국?]]></title>
-        <id>https://v.daum.net/v/20220406204309236</id>
-        <link href="https://v.daum.net/v/20220406204309236"/>
-        <updated>2022-04-06T12:41:15.105Z</updated>
-        <content type="html"><![CDATA[[앵커] 여성가족부를 없애는 공약 관련해서 일각에선 우리나라의 성평등지수가 아시아에서 가장 좋다, 그러니까 가장 평등한 나라다, 이런 주장이 나왔습니다. 사실인지 따져보겠습니다. 이지은 기자, 이 말이 어디서 나온 거죠? [기자] 지난 대선에서 국민의힘 공동선대위원장을 맡았던 이수정 교수가 한 토론회에서 한 말입니다. 들어보시죠. [이수정/경기대 범죄심리학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 장애인 이동권, 장애인들 '집단이기주의'?]]></title>
-        <id>https://v.daum.net/v/20220406202215855</id>
-        <link href="https://v.daum.net/v/20220406202215855"/>
-        <updated>2022-04-06T12:41:15.107Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 며칠 전 장애인들의 지하철역 삭발 시위에서 이런 항의가 나왔습니다. [지하철 이용객] "장애인들 확실하게 돈 내고 무임승차하지 말고, 돈 내고 하면 엘리베이터 다 깔릴 거예요." 장애인에게 승강기가 필요하다면, 지하철 요금부터 내라는 건데요. 온라인 게시판이나 댓글에서도 일부 누리꾼들은 "장애인들의 시위는]]></content>
     </entry>
 </feed>
