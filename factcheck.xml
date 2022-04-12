@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-12T06:29:34.003Z</updated>
+    <updated>2022-04-12T07:23:28.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["취임식 엠블럼, 장례 때 쓰는 '사동심결'" 주장, '대체로 사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220412160301059</id>
+        <link href="https://v.daum.net/v/20220412160301059"/>
+        <updated>2022-04-12T07:22:34.539Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;대통령취임준비위원회 박주선 위원장이 지난 11일 서울 종로구 통의동 인수위 사무실 기자회견장에서 취임식 슬로건과 엠블렘을 공개하고 있다.    ⓒ 인수위사진기자단  &nbsp;&nbsp; [검증대상] "취임식 엠블럼, 죽은 사람 염할 때 쓰는 사동심결 매듭" 누리꾼 주장 대통령취임준비위원회(위원장 박주선)에서 지난 11일 공개한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 문재인 정부 때 소득 증가율이 전 정부의 ¼?]]></title>
         <id>https://v.daum.net/v/20220412143419420</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220407200415105"/>
         <updated>2022-04-07T11:20:11.321Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 일본이 외국인 입국 완화 대상에서 한국을 제외했다?]]></title>
-        <id>https://v.daum.net/v/20220407180559527</id>
-        <link href="https://v.daum.net/v/20220407180559527"/>
-        <updated>2022-04-07T09:22:40.825Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 전 세계 국가들이 코로나19 팬데믹(세계적 대유행) 여파로 걸어 잠근 빗장을 속속 풀고 있는 가운데 일본도 외국인에 대한 입국·검역 규제 완화에 나서고 있다. 이런 가운데 국내 일부 언론은 6일 일본 TBS 보도 등을 인용해 일본이 미국과 영국, 프랑스 등 106개국에 대한 입국 거부 조치를 8일부터 해제하기로 했다고 전하]]></content>
     </entry>
 </feed>
