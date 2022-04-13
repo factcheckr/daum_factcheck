@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-13T08:30:05.635Z</updated>
+    <updated>2022-04-13T09:23:35.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[사실확인] "대통령 관저는 집무실"..대통령 집무실 앞에서 시위 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <title type="html"><![CDATA[[사실확인] "대통령 집무실도 관저"..대통령 집무실 앞에서 시위 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220413171333139</id>
         <link href="https://v.daum.net/v/20220413171333139"/>
         <updated>2022-04-13T08:29:11.023Z</updated>
