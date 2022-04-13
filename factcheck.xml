@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-13T01:58:11.770Z</updated>
+    <updated>2022-04-13T03:09:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 검사 범죄사건 기소율 0.2%밖에 안 된다?]]></title>
+        <id>https://v.daum.net/v/20220413114609142</id>
+        <link href="https://v.daum.net/v/20220413114609142"/>
+        <updated>2022-04-13T03:08:51.865Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 검찰 수사권 완전 분리를 추진하는 더불어민주당 윤호중 비상대책위원장은 12일 CBS 라디오에 출연해 검찰개혁의 불가피성을 언급하며 "검찰 범죄에 대한 기소가 0.2%밖에 안 된다"고 말했다. 검찰이 '제 식구 감싸기'를 해왔다는 주장을 뒷받침하는 근거로 낮은 검사 범죄사건 기소율을 언급한 것으로 풀이된다. 윤 위원장은 "검찰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드러나는 민간인 학살 증거.. 푸틴 '전범재판' 가능할까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220412202809119</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220412060000932"/>
         <updated>2022-04-11T21:21:26.674Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국토교통부 장관으로 지명된 원희룡 대통령직인수위원회 기획위원장이 4일 서울 종로구 통의동 인수위 사무실에서 열린 제20대 대통령직인수위원회 제4차 전체회의에서 발언하고 있다.    ⓒ 인수위사진기자단  &nbsp; [검증대상] "8억에 판 목동 아파트가 26억으로 3배 올랐다" 원희룡 배우자 주장&nbsp; &nbsp; 원희룡 전 제주도지사가 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 집무실도 관저?..100m 내 집회금지 가능한가]]></title>
-        <id>https://v.daum.net/v/20220411203505737</id>
-        <link href="https://v.daum.net/v/20220411203505737"/>
-        <updated>2022-04-11T12:40:44.536Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 당선인은 국민과의 소통을 위해서 집무실을 옮긴다고 했습니다. 백악관처럼 낮은 울타리를 설치해서 집무실 앞까지 시민들이 들어올 수 있게 말이죠. 그런데 경찰이 새 집무실이 들어설 국방부 반경 100m에서 집회나 시위하는 걸 막겠다고 했습니다. 그럴 수 있는지, 법적 근거가 있는지 팩트체크 해보겠습니다. 이지은 기자, 정확히 어떤 점이 문제가]]></content>
     </entry>
 </feed>
