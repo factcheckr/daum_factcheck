@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-13T07:23:50.456Z</updated>
+    <updated>2022-04-13T08:30:05.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] "대통령 관저는 집무실"..대통령 집무실 앞에서 시위 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220413171333139</id>
+        <link href="https://v.daum.net/v/20220413171333139"/>
+        <updated>2022-04-13T08:29:11.023Z</updated>
+        <content type="html"><![CDATA[5월 10일, 대통령 집무실이 용산에 새롭게 마련될 예정입니다. 청와대 외곽 담장 안으로 대통령 관저와 집무실이 함께 있는 지금은 청와대 외곽 담장을 경계로 100미터 안에서 집회 시위를 할 수 없습니다. 경찰은 이에 맞춰 새로 마련될 집무실 인근에서도 집회 및 시위를 금지하겠다고 계획을 밝혔습니다. 집회 및 시위에 관한 법률(이하 집시법) 제11조에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인수위 '탈원전 탓' 주장 따져보니..환경단체들 "여러 데이터, 아전인수로 해석"[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220413150720008</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220412102100316"/>
         <updated>2022-04-12T01:48:55.896Z</updated>
         <content type="html"><![CDATA[대통령직인수위원회가 '여성가족부 폐지'를 포함한 정부 조직 개편을 새 정부 출범 이후로 미루기로 했습니다. 새 정부의 내각 인선은 기존 정부 조직을 기준으로 이뤄지고 있습니다. 지난 10일, 윤석열 정부 첫 여성가족부 장관에는 박근혜 정부 청와대 고용복지수석을 지낸 김현숙 당선인 정책특보가 발탁됐습니다. 어제, 국민의힘 권성동 원내대표는 "여가부 폐지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 권성동도 과거 검찰 수사권 폐지 주장했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220412101004821</id>
-        <link href="https://v.daum.net/v/20220412101004821"/>
-        <updated>2022-04-12T01:48:55.896Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 더불어민주당이 검찰 수사권 완전 분리를 추진하면서 여야 간 갈등이 고조되는 모습이다. 민주당은 지난해 초 검찰 수사권 일부를 경찰에 넘기는 검경 수사권 조정이 시행된 이후 검찰에 남은 6대 범죄(부패범죄·경제범죄·공직자범죄·선거범죄·방위사업범죄·대형참사) 수사권마저 완전히 분리해 별도 기관인 중대범죄수사청에 이관하는 방안을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["'여성가족부' 한국 같은 나라는 10곳뿐"..사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
