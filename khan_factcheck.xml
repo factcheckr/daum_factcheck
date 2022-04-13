@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2022-04-13T05:22:18.999Z</updated>
+    <updated>2022-04-13T06:30:16.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인수위 '탈원전 탓' 주장 따져보니..환경단체들 "여러 데이터, 아전인수로 해석"]]></title>
+        <id>https://v.daum.net/v/20220413150720008</id>
+        <link href="https://v.daum.net/v/20220413150720008"/>
+        <updated>2022-04-13T06:29:59.734Z</updated>
+        <content type="html"><![CDATA[[경향신문] 대통령직인수위원회는 전날 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었다며, 탈원전 정책을 문제의 원인으로 짚었다. 인수위의 주장처럼 한국전력의 부채 증가, 원전 이용률 감소, 온실가스 배출량 반등 등의 근본적 원인이 탈원전 정책 때문일까. 인수위는 지난 12일 낸 보도자료에서 “2021년 온실가스 배출량은 전년에 비해 4.1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['30조 성인지감수성 예산' 떼어서 북핵 막는다? 윤석열표 '가짜뉴스']]></title>
         <id>https://v.daum.net/v/20220228131246264</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210406212125897"/>
         <updated>2022-01-06T11:20:03.566Z</updated>
         <content type="html"><![CDATA[[경향신문] 올해 공동주택 공시가격(안)이 2007년 이후 가장 높은 인상폭을 기록한 뒤 공시가격이 적절하게 산정됐는지를 놓고 정부와 일부 지자체 간 논쟁이 벌어졌다. 지난 5일 조은희 서울 서초구청장과 원희룡 제주도지사가 공동기자회견을 열어 몇몇 사례를 제시하며 “공시가격 산정에 오류가 많다”고 주장하고 나선 뒤부터다. 국토교통부는 같은 날 해명자료를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산사태 주범? 중금속 범벅? 태양광발전에 대해 우리가 잘못 알고 있는 것들]]></title>
-        <id>https://v.daum.net/v/20201003154357179</id>
-        <link href="https://v.daum.net/v/20201003154357179"/>
-        <updated>2022-01-06T11:20:03.568Z</updated>
-        <content type="html"><![CDATA[[경향신문] 사상 최장 기간 동안 계속된 장마와 초강력 태풍이 이어졌던 지난 여름, 태양광 발전이 갑자기 ‘수해의 주요 원인’으로 지목받았다. “탈원전으로 태양광 발전시설이 전국을 뒤덮었고 산림의 홍수조절기능을 마비시켜 수해를 일으켰다”는 주장이 보수야당을 중심으로 나왔다. 친환경이라는 태양광 발전시설에서 오히려 중금속과 화학물질이 유출돼 환경을 파괴한다거]]></content>
     </entry>
 </feed>
