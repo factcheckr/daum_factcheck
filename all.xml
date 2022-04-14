@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T21:22:36.042Z</updated>
+    <updated>2022-04-14T22:25:40.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 우크라이나에 독일만 무기를 지원하고 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220415070055959</id>
+        <link href="https://v.daum.net/v/20220415070055959"/>
+        <updated>2022-04-14T22:24:47.417Z</updated>
+        <content type="html"><![CDATA[지난 2월 24일, 러시아가 우크라이나를 침공한 이래 50일 가까이 지났습니다(2022.04.15. 현재). 러시아의 우크라이나 침공 이후 볼로도미르 젤렌스키 우크라이나 대통령은 미국, 독일, 영국, 캐나다, 일본 등 각국의 의회에서 화상 연설을 통해 각국의 지원과 지지를 호소해 왔습니다. 지난 11일에는 우리나라 국회에서도 화상 연설을 했습니다. 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220414173619503</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220412162147647"/>
         <updated>2022-04-12T07:22:57.328Z</updated>
         <content type="html"><![CDATA[청와대 건물 뒤편 북악산이 지난 6일 개방됐습니다. 이번에 개방된 곳은 '북악산 남측면'으로, 앞서 2020년 11월에는 '북악산 북측면'이 먼저 개방됐습니다. 이로써 북악산은 1968년 북한이 청와대 기습을 시도한 '1·21 사태' 이후 54년 만에  완전히 시민의 품으로 돌아왔습니다. 개방 과정에서 잡음이 들리기도 했습니다. 개방 전날인 지난 5일,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["취임식 엠블럼, 장례 때 쓰는 사동심결" 주장은 '대체로 사실' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220412160301059</id>
-        <link href="https://v.daum.net/v/20220412160301059"/>
-        <updated>2022-04-12T07:22:34.539Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;대통령취임준비위원회 박주선 위원장이 지난 11일 서울 종로구 통의동 인수위 사무실 기자회견장에서 취임식 슬로건과 엠블렘을 공개하고 있다.    ⓒ 인수위사진기자단  &nbsp;&nbsp; [검증대상] "취임식 엠블럼, 죽은 사람 염할 때 쓰는 사동심결 매듭" 누리꾼 주장 대통령취임준비위원회(위원장 박주선)에서 지난 11일 공개한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["문재인 정부 탈원전 이후 온실가스 증가" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우크라이나에 독일만 무기를 지원하고 있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220415070055959</id>
+        <link href="https://v.daum.net/v/20220415070055959"/>
+        <updated>2022-04-14T22:25:10.350Z</updated>
+        <content type="html"><![CDATA[지난 2월 24일, 러시아가 우크라이나를 침공한 이래 50일 가까이 지났습니다(2022.04.15. 현재). 러시아의 우크라이나 침공 이후 볼로도미르 젤렌스키 우크라이나 대통령은 미국, 독일, 영국, 캐나다, 일본 등 각국의 의회에서 화상 연설을 통해 각국의 지원과 지지를 호소해 왔습니다. 지난 11일에는 우리나라 국회에서도 화상 연설을 했습니다. 전]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고려시대 나옹 스님이 신라 진평왕 때 법흥사를 창건? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220412162147647</id>
         <link href="https://v.daum.net/v/20220412162147647"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220204080009831"/>
         <updated>2022-02-03T23:18:08.541Z</updated>
         <content type="html"><![CDATA[■ 발언 : "종부세, 1주택자 경우는 시가 25억 원이 연 50만 원 낸다" "종부세 1주택자 경우는 시가 25억이 연 50만 원 내거든요. 25억 사는 분이 50만 원 세금 내는 걸 폭탄이라고 얘기하니까 제가 다 부끄럽습니다." 심상정 정의당 대선 후보가 3일 KBS·MBC·SBS 등 방송 3사 합동 초청 TV 토론회에서 한 말입니다. 심 후보는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 "경항모에 예산 몰아줘 FX-2 사업 중단" (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220204080003808</id>
-        <link href="https://v.daum.net/v/20220204080003808"/>
-        <updated>2022-02-03T23:18:08.541Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "문재인 정부에서 경항모 사업에 예산 몰아줘 FX-2 중단" "문재인 정부에서 경항모 쪽에 모든 예산을 몰아주기 때문에 정말로 중요한 제공권 장악을 위한 FX-2 사업이 중단이 된 겁니다." 안철수 국민의당 대선 후보가 3일 KBS·MBC·SBS 등 방송 3사 합동 초청 TV 토론회에서 한 말입니다. "현대전에서 제일 중요한 게 첨단 무기,]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
