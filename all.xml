@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T08:30:54.319Z</updated>
+    <updated>2022-04-14T09:23:55.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220414173619503</id>
+        <link href="https://v.daum.net/v/20220414173619503"/>
+        <updated>2022-04-14T09:22:56.425Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 권성동 원내대표가 14일 KBS 라디오에 출연해 최근 관심이 집중된 '계곡 살인' 사건에 대해 "경찰에서는 무혐의 처리했는데 검찰에서 보완 수사 과정에서 범죄 혐의를 밝혀내서 살인죄로 전국에 지명수배했다"고 말했다. 경찰의 미숙한 수사로 묻힐 뻔했던 살인 혐의를 검찰이 밝혀냈다는 의미로, 더불어민주당이 추진하는 검찰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "문재인 정부 탈원전 이후 온실가스 증가" 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220414114205053</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220412160301059"/>
         <updated>2022-04-12T07:22:34.539Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;대통령취임준비위원회 박주선 위원장이 지난 11일 서울 종로구 통의동 인수위 사무실 기자회견장에서 취임식 슬로건과 엠블렘을 공개하고 있다.    ⓒ 인수위사진기자단  &nbsp;&nbsp; [검증대상] "취임식 엠블럼, 죽은 사람 염할 때 쓰는 사동심결 매듭" 누리꾼 주장 대통령취임준비위원회(위원장 박주선)에서 지난 11일 공개한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 문재인 정부 때 소득 증가율이 전 정부의 ¼? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220412143419420</id>
-        <link href="https://v.daum.net/v/20220412143419420"/>
-        <updated>2022-04-12T06:28:40.527Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 윤석열 정부의 밑그림을 그리는 안철수 대통령직 인수위원회 위원장이 현 정부의 경제 성적표를 비판했다. 안 위원장은 11일 인수위 전체회의에서 "경제는 엉망이고 나라는 빚더미"라며 "문재인 정부의 연평균 경제성장률은 직전 박근혜 정부에 비해 1%포인트나 낮았고, 1인당 국민총소득(GNI) 증가율도 연평균 1%]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["문재인 정부 탈원전 이후 온실가스 증가" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
