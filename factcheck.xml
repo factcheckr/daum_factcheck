@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-16T23:23:32.926Z</updated>
+    <updated>2022-04-17T01:52:09.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한동훈 법무부 장관 후보자가 강원도 출신이라고?]]></title>
+        <id>https://v.daum.net/v/20220417091006753</id>
+        <link href="https://v.daum.net/v/20220417091006753"/>
+        <updated>2022-04-17T01:51:18.326Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 정부의 1기 내각 인선이 지역·성별 등의 안배 없이 '서울대·영남·60대 남성'에 편중됐다는 비판이 제기되고 있다. 대통령직 인수위원회에 따르면 18개 정부부처 장관 후보자는 출신 지역별로 서울 4명, 경남 3명, 대구 2명, 충북 2명이고 강원·경북·대전·부산·전북·제주·충남이 1명씩이다. 이중 서울 출신으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]인수위가 쓴 탈원전 청구서, 어디까지 사실일까?]]></title>
         <id>https://v.daum.net/v/20220417070301613</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220413150720008"/>
         <updated>2022-04-13T06:29:16.353Z</updated>
         <content type="html"><![CDATA[[경향신문] 대통령직인수위원회는 전날 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었다며, 탈원전 정책을 문제의 원인으로 짚었다. 인수위의 주장처럼 한국전력의 부채 증가, 원전 이용률 감소, 온실가스 배출량 반등 등의 근본적 원인이 탈원전 정책 때문일까. 인수위는 지난 12일 낸 보도자료에서 “2021년 온실가스 배출량은 전년에 비해 4.1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 검사 범죄사건 기소율 0.2%밖에 안 된다?]]></title>
-        <id>https://v.daum.net/v/20220413114609142</id>
-        <link href="https://v.daum.net/v/20220413114609142"/>
-        <updated>2022-04-13T03:08:51.865Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 검찰 수사권 완전 분리를 추진하는 더불어민주당 윤호중 비상대책위원장은 12일 CBS 라디오에 출연해 검찰개혁의 불가피성을 언급하며 "검찰 범죄에 대한 기소가 0.2%밖에 안 된다"고 말했다. 검찰이 '제 식구 감싸기'를 해왔다는 주장을 뒷받침하는 근거로 낮은 검사 범죄사건 기소율을 언급한 것으로 풀이된다. 윤 위원장은 "검찰]]></content>
     </entry>
 </feed>
