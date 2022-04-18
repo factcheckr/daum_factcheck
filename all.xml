@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T12:41:19.086Z</updated>
+    <updated>2022-04-18T13:35:19.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220418215147141</id>
+        <link href="https://v.daum.net/v/20220418215147141"/>
+        <updated>2022-04-18T13:34:20.605Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] KBS창원은 6·1지방선거를 앞두고 후보자들의 발언을 중심으로 팩트체크를 이어갑니다. "박종훈 경상남도교육감 임기 때 경남 학생들의 학력이 저하됐다", 중도보수 진영의 말입니다. 과연 그럴까요. 교육감 선거전에서 뜨거운 감자로 떠오르고 있는 '학력 저하'의 실체를 팩트체크했습니다. 심층취재팀, 윤경재 기자입니다. [리포트] 6·1지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220418195657375</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220415190006285"/>
         <updated>2022-04-15T10:25:59.065Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;        ▲ &nbsp;이준석 국민의힘 대표가 13일 오후 서울 마포구 상암동 &lt;제이티비씨&gt;(JTBC)에서 박경석 전국장애인차별철폐연대(전장연) 상임공동대표와 ‘썰전라이브’ 생방송 일대일 토론을 하고 있다.    ⓒ 사진공동취재단  &nbsp; [검증대상] 저상버스 교체 기간 '10~11년'과 '5~7년' 사이 &nbsp;- 이준석 "시내버스가 어떻게 10년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220415172744964</id>
-        <link href="https://v.daum.net/v/20220415172744964"/>
-        <updated>2022-04-15T08:28:15.902Z</updated>
-        <content type="html"><![CDATA[BTS의 병역 문제가 다시 도마 위에 올랐습니다. 지난 2일 안철수 대통령직 인수위원장이 BTS의 소속사 하이브를 방문하고, 소속사인 하이브 측이 "아티스트의 병역에 대한 논의가 이번 국회에서 정리됐으면 좋겠다"는 공식 입장을 내놓으면서 재점화됐습니다. 정치권에서도 논의가 급물살을 타고 있습니다. 국회는 대중문화예술인도 병역 특례 대상으로 포함한 일명 'B]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,9 +244,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220418215147141</id>
+        <link href="https://v.daum.net/v/20220418215147141"/>
+        <updated>2022-04-18T13:34:46.346Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] KBS창원은 6·1지방선거를 앞두고 후보자들의 발언을 중심으로 팩트체크를 이어갑니다. "박종훈 경상남도교육감 임기 때 경남 학생들의 학력이 저하됐다", 중도보수 진영의 말입니다. 과연 그럴까요. 교육감 선거전에서 뜨거운 감자로 떠오르고 있는 '학력 저하'의 실체를 팩트체크했습니다. 심층취재팀, 윤경재 기자입니다. [리포트] 6·1지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220418195657375</id>
         <link href="https://v.daum.net/v/20220418195657375"/>
-        <updated>2022-04-18T12:40:45.389Z</updated>
+        <updated>2022-04-18T12:40:19.986Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr) 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220222090016636"/>
         <updated>2022-02-22T01:15:32.356Z</updated>
         <content type="html"><![CDATA[■ 발언 : "중소기업 기술 탈취, 공정위 비정규직 10명이 담당" "대기업의 중소기업 기술 탈취에 대해서 어떤 부서가 이 문제를 다루고 있는지 아십니까?" "문제는 (공정거래위원회의) 하나의 팀으로 10명의 비정규직이 '기술 운용 감시팀'으로 되어 있는 겁니다" 안철수 국민의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 법정 TV 토론회(경제 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "한국, 곧 기축통화국 될 가능성 매우 높아" (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220222060208967</id>
-        <link href="https://v.daum.net/v/20220222060208967"/>
-        <updated>2022-02-21T21:19:08.220Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "한국, 곧 기축통화국 될 가능성 높아" "우리가 곧 '기축통화국'으로 될 가능성이 매우 높다" "우리도 '기축통화국'에 포함될 가능성이 매우 크다고 할 정도로 경제가 튼튼하다" 이재명 더불어민주당 대선 후보가 21일 중앙선거관리위원회 주관 첫 법정 TV 토론회에서 한 말입니다. 이 후보는 적정 국채 발행 규모를 논의하던 중 '기축통화국과]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
@@ -582,7 +582,7 @@
         <title type="html"><![CDATA[3고사실 면접위원 점수는 대부분 동일? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220418195007190</id>
         <link href="https://v.daum.net/v/20220418195007190"/>
-        <updated>2022-04-18T12:41:18.402Z</updated>
+        <updated>2022-04-18T12:40:19.986Z</updated>
         <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
     </entry>
     <entry>
