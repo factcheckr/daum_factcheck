@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T22:25:20.414Z</updated>
+    <updated>2022-04-18T23:20:48.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220419081648775</id>
+        <link href="https://v.daum.net/v/20220419081648775"/>
+        <updated>2022-04-18T23:19:24.395Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 쿼드 가입, 한·미만 원하면 '일사천리'? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220419060144766</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220417070301613"/>
         <updated>2022-04-16T22:22:51.615Z</updated>
         <content type="html"><![CDATA[제20대 대통령직 인수위원회가 앞으로 5년간의 기후·에너지 정책에 대해 지난 12일 첫 보고서를 냈다. 시작인만큼 현실진단에서부터 시작한 보고서는 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었고 전기요금 압박이 가중됐다고 평가했다. 현 정부의 정책 실패를 작심비판한 인수위의 '탈원전 청구서' 진단내용 중 어디까지가 객관적인 사실이고 어디까지가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장애인 시설에 만족해 탈시설 반대" 이준석이 간과한 것  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220415191801642</id>
-        <link href="https://v.daum.net/v/20220415191801642"/>
-        <updated>2022-04-15T10:25:59.064Z</updated>
-        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;지난 13일 박경석 전국장애인차별철폐연대 상임공동대표와의 시사프로 ‘썰전라이브’ 일대일 토론을 앞두고 있는 이준석 국민의힘 대표의 모습    ⓒ 이희훈  &nbsp; [검증대상] "장애인 시설 만족해 탈시설 반대 많다"&nbsp;이준석 주장 지난 13일 오후, JTBC '썰전 라이브'에 박경석 전국장애인차별철폐연대(아래 전장연) 상임공동대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,6 +244,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220419081648775</id>
+        <link href="https://v.daum.net/v/20220419081648775"/>
+        <updated>2022-04-18T23:20:01.521Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220418215147141</id>
         <link href="https://v.daum.net/v/20220418215147141"/>
         <updated>2022-04-18T13:34:20.605Z</updated>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220222090019639"/>
         <updated>2022-02-22T01:15:32.353Z</updated>
         <content type="html"><![CDATA[■ 발언 : "지역화폐, 소상공인 지원 '0원'" "지역 화폐로 하게 되면, 거기서 음식값 빼고 마진(이윤)만 소상공인한테 가는 거예요." "그렇기 때문에 그것은 소상공인 지원하고는 전혀 다른 것이고, 그것은 '0원'이다." 심상정 정의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 TV법정 토론회(경제 분야)에서 한 말입니다. 더불어민주당 이재명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 "공정위 비정규직 10명이 '기술 탈취' 감독" (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220222090016636</id>
-        <link href="https://v.daum.net/v/20220222090016636"/>
-        <updated>2022-02-22T01:15:32.356Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "중소기업 기술 탈취, 공정위 비정규직 10명이 담당" "대기업의 중소기업 기술 탈취에 대해서 어떤 부서가 이 문제를 다루고 있는지 아십니까?" "문제는 (공정거래위원회의) 하나의 팀으로 10명의 비정규직이 '기술 운용 감시팀'으로 되어 있는 겁니다" 안철수 국민의당 대선 후보가 21일  중앙선거관리위원회 주관 첫 법정 TV 토론회(경제 분]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

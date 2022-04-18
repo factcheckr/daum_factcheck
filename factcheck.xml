@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-18T22:25:20.293Z</updated>
+    <updated>2022-04-18T23:20:48.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은?]]></title>
+        <id>https://v.daum.net/v/20220419081648775</id>
+        <link href="https://v.daum.net/v/20220419081648775"/>
+        <updated>2022-04-18T23:19:24.395Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 쿼드 가입, 한·미만 원하면 '일사천리'? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220419060144766</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220417070301613"/>
         <updated>2022-04-16T22:22:51.615Z</updated>
         <content type="html"><![CDATA[제20대 대통령직 인수위원회가 앞으로 5년간의 기후·에너지 정책에 대해 지난 12일 첫 보고서를 냈다. 시작인만큼 현실진단에서부터 시작한 보고서는 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었고 전기요금 압박이 가중됐다고 평가했다. 현 정부의 정책 실패를 작심비판한 인수위의 '탈원전 청구서' 진단내용 중 어디까지가 객관적인 사실이고 어디까지가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장애인 시설에 만족해 탈시설 반대" 이준석이 간과한 것  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220415191801642</id>
-        <link href="https://v.daum.net/v/20220415191801642"/>
-        <updated>2022-04-15T10:25:59.064Z</updated>
-        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;지난 13일 박경석 전국장애인차별철폐연대 상임공동대표와의 시사프로 ‘썰전라이브’ 일대일 토론을 앞두고 있는 이준석 국민의힘 대표의 모습    ⓒ 이희훈  &nbsp; [검증대상] "장애인 시설 만족해 탈시설 반대 많다"&nbsp;이준석 주장 지난 13일 오후, JTBC '썰전 라이브'에 박경석 전국장애인차별철폐연대(아래 전장연) 상임공동대]]></content>
     </entry>
 </feed>
