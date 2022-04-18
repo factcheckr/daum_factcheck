@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-18T20:26:36.206Z</updated>
+    <updated>2022-04-18T21:21:47.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 쿼드 가입, 한·미만 원하면 '일사천리'? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220419060144766</id>
+        <link href="https://v.daum.net/v/20220419060144766"/>
+        <updated>2022-04-18T21:20:49.009Z</updated>
+        <content type="html"><![CDATA[윤석열 20대 대통령 당선인이 18일 서울 종로구 포시즌스 호텔에서 열린 서울국제포럼(SFIA) '복합위기 극복과 글로벌 중추국가 도약을 향한 경제안보 구상' 정책 간담회에서 발언하고 있다. 연합뉴스  ‘미국·일본·호주·인도의 안보협의체인 쿼드(Quad) 가입은 한국이 원하고 미국이 지원사격을 하면 떼어놓은 당상일까.’ 윤석열 대통령 당선인 측은 이번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은?]]></title>
         <id>https://v.daum.net/v/20220418215147141</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220415191801642"/>
         <updated>2022-04-15T10:25:59.064Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;지난 13일 박경석 전국장애인차별철폐연대 상임공동대표와의 시사프로 ‘썰전라이브’ 일대일 토론을 앞두고 있는 이준석 국민의힘 대표의 모습    ⓒ 이희훈  &nbsp; [검증대상] "장애인 시설 만족해 탈시설 반대 많다"&nbsp;이준석 주장 지난 13일 오후, JTBC '썰전 라이브'에 박경석 전국장애인차별철폐연대(아래 전장연) 상임공동대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저상버스 교체 5~7년이면 된다" 이준석 발언은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220415190006285</id>
-        <link href="https://v.daum.net/v/20220415190006285"/>
-        <updated>2022-04-15T10:25:59.065Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;        ▲ &nbsp;이준석 국민의힘 대표가 13일 오후 서울 마포구 상암동 &lt;제이티비씨&gt;(JTBC)에서 박경석 전국장애인차별철폐연대(전장연) 상임공동대표와 ‘썰전라이브’ 생방송 일대일 토론을 하고 있다.    ⓒ 사진공동취재단  &nbsp; [검증대상] 저상버스 교체 기간 '10~11년'과 '5~7년' 사이 &nbsp;- 이준석 "시내버스가 어떻게 10년]]></content>
     </entry>
 </feed>
