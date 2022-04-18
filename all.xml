@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T10:27:58.755Z</updated>
+    <updated>2022-04-18T12:41:19.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220418195657375</id>
+        <link href="https://v.daum.net/v/20220418195657375"/>
+        <updated>2022-04-18T12:40:19.986Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr) 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 3고사실 면접위원 점수는 대부분 동일? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220418195007190</id>
+        <link href="https://v.daum.net/v/20220418195007190"/>
+        <updated>2022-04-18T12:40:19.986Z</updated>
+        <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "검찰 수사권 vs 기소권 동시 보유는 우리나라만 그렇다" 민주당 주장 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220418112812474</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20220415172744964"/>
         <updated>2022-04-15T08:28:15.902Z</updated>
         <content type="html"><![CDATA[BTS의 병역 문제가 다시 도마 위에 올랐습니다. 지난 2일 안철수 대통령직 인수위원장이 BTS의 소속사 하이브를 방문하고, 소속사인 하이브 측이 "아티스트의 병역에 대한 논의가 이번 국회에서 정리됐으면 좋겠다"는 공식 입장을 내놓으면서 재점화됐습니다. 정치권에서도 논의가 급물살을 타고 있습니다. 국회는 대중문화예술인도 병역 특례 대상으로 포함한 일명 'B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 우크라이나에 독일만 무기를 지원하고 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220415070055959</id>
-        <link href="https://v.daum.net/v/20220415070055959"/>
-        <updated>2022-04-14T22:24:47.417Z</updated>
-        <content type="html"><![CDATA[지난 2월 24일, 러시아가 우크라이나를 침공한 이래 50일 가까이 지났습니다(2022.04.15. 현재). 러시아의 우크라이나 침공 이후 볼로디미르 젤렌스키 우크라이나 대통령은 미국, 독일, 영국, 캐나다, 일본 등 각국의 의회에서 화상 연설을 통해 각국의 지원과 지지를 호소해 왔습니다. 지난 11일에는 우리나라 국회에서도 화상 연설을 했습니다. 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220414173619503</id>
-        <link href="https://v.daum.net/v/20220414173619503"/>
-        <updated>2022-04-14T09:22:56.425Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 권성동 원내대표가 14일 KBS 라디오에 출연해 최근 관심이 집중된 '계곡 살인' 사건에 대해 "경찰에서는 무혐의 처리했는데 검찰에서 보완 수사 과정에서 범죄 혐의를 밝혀내서 살인죄로 전국에 지명수배했다"고 말했다. 경찰의 미숙한 수사로 묻힐 뻔했던 살인 혐의를 검찰이 밝혀냈다는 의미로, 더불어민주당이 추진하는 검찰]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220418195657375</id>
+        <link href="https://v.daum.net/v/20220418195657375"/>
+        <updated>2022-04-18T12:40:45.389Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr) 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우크라이나에 독일만 무기를 지원하고 있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220415070055959</id>
         <link href="https://v.daum.net/v/20220415070055959"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220222060208967"/>
         <updated>2022-02-21T21:19:08.220Z</updated>
         <content type="html"><![CDATA[■ 발언 : "한국, 곧 기축통화국 될 가능성 높아" "우리가 곧 '기축통화국'으로 될 가능성이 매우 높다" "우리도 '기축통화국'에 포함될 가능성이 매우 크다고 할 정도로 경제가 튼튼하다" 이재명 더불어민주당 대선 후보가 21일 중앙선거관리위원회 주관 첫 법정 TV 토론회에서 한 말입니다. 이 후보는 적정 국채 발행 규모를 논의하던 중 '기축통화국과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심상정 "종부세, 1주택자 경우는 시가 25억이 연 50만 원" (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220204080009831</id>
-        <link href="https://v.daum.net/v/20220204080009831"/>
-        <updated>2022-02-03T23:18:08.541Z</updated>
-        <content type="html"><![CDATA[■ 발언 : "종부세, 1주택자 경우는 시가 25억 원이 연 50만 원 낸다" "종부세 1주택자 경우는 시가 25억이 연 50만 원 내거든요. 25억 사는 분이 50만 원 세금 내는 걸 폭탄이라고 얘기하니까 제가 다 부끄럽습니다." 심상정 정의당 대선 후보가 3일 KBS·MBC·SBS 등 방송 3사 합동 초청 TV 토론회에서 한 말입니다. 심 후보는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 2일 오후 서울 영등포구 KBS 본관 스튜디오에서 열린 중앙선거방송토론위원회 주관 제20대 대통령선거 후보자 3차 사회분야 방송토론회에서 토론 준비를 하고 있다. 왼쪽은 더불어민주당 이재명 대선 후보.    ⓒ 국회사진취재단  &nbsp; [검증대상] 윤석열 "고양시장은 정신병원 안 보냈는데 성남시는]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3고사실 면접위원 점수는 대부분 동일? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220418195007190</id>
+        <link href="https://v.daum.net/v/20220418195007190"/>
+        <updated>2022-04-18T12:41:18.402Z</updated>
+        <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["10명 중 1명 결혼" 저출생 원인은 20대 여성? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220412202613088</id>
         <link href="https://v.daum.net/v/20220412202613088"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220315204312593"/>
         <updated>2022-03-15T12:38:20.309Z</updated>
         <content type="html"><![CDATA[[앵커] 문재인 대통령 부부, 퇴임 전에 무궁화대훈장을 받게 됩니다. 주는 사람과 받는 사람이 같습니다. 그래서 또 한 번, 임기 말에 '셀프 훈장' 논란이 재연됐습니다. 왜 5년마다 논란이 반복되는지 이를 둘러싼 팩트들을 따져봤습니다. 이지은 기자, 지금 옆에 훈장이 하나 나와 있군요? [기자] 네. 바로 이게 무궁화대훈장인데요. 현재 대한민국 상훈법에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특정후보 기표란만 코팅?..부정선거 의혹 확인해보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220310205104011</id>
-        <link href="https://v.daum.net/v/20220310205104011"/>
-        <updated>2022-03-10T12:37:15.271Z</updated>
-        <content type="html"><![CDATA[[앵커] 이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승을 부린 측면도 있어 보이긴 합니다. 바로 팩트체크를 하겠습니다. 이지은 기자, 먼저, 투표용지의 특정 후보자 기표란이 코팅이 돼 있다, 그래서 도장이 잘 찍히지 않는다, 라는 주장이 있었죠? [기자] 네. 국민의힘 윤석열]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-18T10:27:58.735Z</updated>
+    <updated>2022-04-18T12:41:19.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은?]]></title>
+        <id>https://v.daum.net/v/20220418195657375</id>
+        <link href="https://v.daum.net/v/20220418195657375"/>
+        <updated>2022-04-18T12:40:19.986Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr) 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 3고사실 면접위원 점수는 대부분 동일?]]></title>
+        <id>https://v.daum.net/v/20220418195007190</id>
+        <link href="https://v.daum.net/v/20220418195007190"/>
+        <updated>2022-04-18T12:40:19.986Z</updated>
+        <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "검찰 수사권 vs 기소권 동시 보유는 우리나라만 그렇다" 민주당 주장]]></title>
         <id>https://v.daum.net/v/20220418112812474</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220415172744964"/>
         <updated>2022-04-15T08:28:15.902Z</updated>
         <content type="html"><![CDATA[BTS의 병역 문제가 다시 도마 위에 올랐습니다. 지난 2일 안철수 대통령직 인수위원장이 BTS의 소속사 하이브를 방문하고, 소속사인 하이브 측이 "아티스트의 병역에 대한 논의가 이번 국회에서 정리됐으면 좋겠다"는 공식 입장을 내놓으면서 재점화됐습니다. 정치권에서도 논의가 급물살을 타고 있습니다. 국회는 대중문화예술인도 병역 특례 대상으로 포함한 일명 'B]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 우크라이나에 독일만 무기를 지원하고 있다?]]></title>
-        <id>https://v.daum.net/v/20220415070055959</id>
-        <link href="https://v.daum.net/v/20220415070055959"/>
-        <updated>2022-04-14T22:24:47.417Z</updated>
-        <content type="html"><![CDATA[지난 2월 24일, 러시아가 우크라이나를 침공한 이래 50일 가까이 지났습니다(2022.04.15. 현재). 러시아의 우크라이나 침공 이후 볼로디미르 젤렌스키 우크라이나 대통령은 미국, 독일, 영국, 캐나다, 일본 등 각국의 의회에서 화상 연설을 통해 각국의 지원과 지지를 호소해 왔습니다. 지난 11일에는 우리나라 국회에서도 화상 연설을 했습니다. 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다?]]></title>
-        <id>https://v.daum.net/v/20220414173619503</id>
-        <link href="https://v.daum.net/v/20220414173619503"/>
-        <updated>2022-04-14T09:22:56.425Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 권성동 원내대표가 14일 KBS 라디오에 출연해 최근 관심이 집중된 '계곡 살인' 사건에 대해 "경찰에서는 무혐의 처리했는데 검찰에서 보완 수사 과정에서 범죄 혐의를 밝혀내서 살인죄로 전국에 지명수배했다"고 말했다. 경찰의 미숙한 수사로 묻힐 뻔했던 살인 혐의를 검찰이 밝혀냈다는 의미로, 더불어민주당이 추진하는 검찰]]></content>
     </entry>
 </feed>
