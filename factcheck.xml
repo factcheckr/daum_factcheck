@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-19T10:29:01.435Z</updated>
+    <updated>2022-04-19T11:21:21.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 역대 최대 사외이사, 내각으로 직행?]]></title>
+        <id>https://v.daum.net/v/20220419201308892</id>
+        <link href="https://v.daum.net/v/20220419201308892"/>
+        <updated>2022-04-19T11:20:29.255Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부 첫 내각 후보자들 이런저런 잡음이 나오는데요. 그 중에 하나가 민간기업 사외이사 경력입니다. 국무총리와 장관 후보자 19명 중에 사외이사 출신이 7명이나 됩니다. 사외이사를 했다가 공직자가 되지 말라는 법은 없지만, 본인이 몸 담았던 기업으로 팔이 굽는 건 아닌지 이른바 '이해충돌'의 우려가 나옵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]한덕수 처가 50억 부동산 차익, 이미 검증받았다?]]></title>
         <id>https://v.daum.net/v/20220419164803303</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220418112706409"/>
         <updated>2022-04-18T03:45:05.668Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "문 대통령, 검찰개혁 완성됐다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 문재인 정부, 7대 인사기준 한번도 지키지 않았다?]]></title>
-        <id>https://v.daum.net/v/20220418112700392</id>
-        <link href="https://v.daum.net/v/20220418112700392"/>
-        <updated>2022-04-18T03:45:05.670Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 인사청문회...'문재인 정부,]]></content>
     </entry>
 </feed>

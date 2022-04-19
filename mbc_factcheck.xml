@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-04-19T10:29:01.443Z</updated>
+    <updated>2022-04-19T11:21:21.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 최대 사외이사, 내각으로 직행?]]></title>
+        <id>https://v.daum.net/v/20220419201308892</id>
+        <link href="https://v.daum.net/v/20220419201308892"/>
+        <updated>2022-04-19T11:20:44.794Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부 첫 내각 후보자들 이런저런 잡음이 나오는데요. 그 중에 하나가 민간기업 사외이사 경력입니다. 국무총리와 장관 후보자 19명 중에 사외이사 출신이 7명이나 됩니다. 사외이사를 했다가 공직자가 되지 말라는 법은 없지만, 본인이 몸 담았던 기업으로 팔이 굽는 건 아닌지 이른바 '이해충돌'의 우려가 나옵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국 검찰은 수사권 '있다? vs 없다?']]></title>
         <id>https://v.daum.net/v/20220412195810538</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220314203110942"/>
         <updated>2022-03-14T12:37:04.254Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 '산불재난 특수진화대원'이 있는데요. 산 속 깊은 곳으로 들어가 최전선에서 화마와 싸우는 임무를 맡고 있습니다. 특히나 이번 산불의 경우에는 주말도 반납하고 밤낮없이 산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특혜 아니라는데..구치소 독방 왜 자꾸 논란되나]]></title>
-        <id>https://v.daum.net/v/20220305130414713</id>
-        <link href="https://v.daum.net/v/20220305130414713"/>
-        <updated>2022-03-05T04:28:30.102Z</updated>
-        <content type="html"><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”면서 의혹을 일축했습니다]]></content>
     </entry>
 </feed>
