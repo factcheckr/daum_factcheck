@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-19T07:23:42.026Z</updated>
+    <updated>2022-04-19T08:30:32.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]한덕수 처가 50억 부동산 차익, 이미 검증받았다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220419164803303</id>
+        <link href="https://v.daum.net/v/20220419164803303"/>
+        <updated>2022-04-19T08:29:32.037Z</updated>
+        <content type="html"><![CDATA[핵심요약두 번째 총리 지명된 한 후보자, 앞선 1차 지명 당시 "검증받았다" 해명 2007년 1차 총리 지명 당시 증여에 의한 토지 보유 및 매각, 금액 등 공개된 것은 팩트 한 후보자 부인 몫 포함 처가 소유 땅 전체 매각, 50억 차익 등 검증된 바 없어 매각 당사자, MB 관련 인물 연루 등 시행사 특혜 등 새로운 의혹 시행사 활동 시기, 韓 盧정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 배달 앱 시장에서 이득을 본 사람은 누구? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220419110603682</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220418112700392"/>
         <updated>2022-04-18T03:45:05.670Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 인사청문회...'문재인 정부,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한동훈 법무부 장관 후보자가 강원도 출신이라고? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220417091006753</id>
-        <link href="https://v.daum.net/v/20220417091006753"/>
-        <updated>2022-04-17T01:51:18.326Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 정부의 1기 내각 인선이 지역·성별 등의 안배 없이 '서울대·영남·60대 남성'에 편중됐다는 비판이 제기되고 있다. 대통령직 인수위원회에 따르면 18개 정부부처 장관 후보자는 출신 지역별로 서울 4명, 경남 3명, 대구 2명, 충북 2명이고 강원·경북·대전·부산·전북·제주·충남이 1명씩이다. 이중 서울 출신으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
