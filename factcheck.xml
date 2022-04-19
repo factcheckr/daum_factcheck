@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-19T02:03:59.845Z</updated>
+    <updated>2022-04-19T04:42:58.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 배달 앱 시장에서 이득을 본 사람은 누구?]]></title>
+        <id>https://v.daum.net/v/20220419110603682</id>
+        <link href="https://v.daum.net/v/20220419110603682"/>
+        <updated>2022-04-19T04:42:03.994Z</updated>
+        <content type="html"><![CDATA[“만 원짜리 음식 팔면 손에 쥐는 돈은 단돈 2300원” (업주) “1만원 주문 시 우리가 떼는 수수료는 680원뿐” (배달 앱) “실제 기본 배달 단가는 3500~4000원 수준” (라이더) “배(음식값)보다 배꼽(배달비)이 더 커” (소비자) 최근 ‘배달의민족’(배민) 단건 배달 서비스 ‘배민1’의 수수료 개편을 둘러싸고 벌어진 논란을 보면, ‘커질 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은?]]></title>
         <id>https://v.daum.net/v/20220419081648775</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220417091006753"/>
         <updated>2022-04-17T01:51:18.326Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 정부의 1기 내각 인선이 지역·성별 등의 안배 없이 '서울대·영남·60대 남성'에 편중됐다는 비판이 제기되고 있다. 대통령직 인수위원회에 따르면 18개 정부부처 장관 후보자는 출신 지역별로 서울 4명, 경남 3명, 대구 2명, 충북 2명이고 강원·경북·대전·부산·전북·제주·충남이 1명씩이다. 이중 서울 출신으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]인수위가 쓴 탈원전 청구서, 어디까지 사실일까?]]></title>
-        <id>https://v.daum.net/v/20220417070301613</id>
-        <link href="https://v.daum.net/v/20220417070301613"/>
-        <updated>2022-04-16T22:22:51.615Z</updated>
-        <content type="html"><![CDATA[제20대 대통령직 인수위원회가 앞으로 5년간의 기후·에너지 정책에 대해 지난 12일 첫 보고서를 냈다. 시작인만큼 현실진단에서부터 시작한 보고서는 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었고 전기요금 압박이 가중됐다고 평가했다. 현 정부의 정책 실패를 작심비판한 인수위의 '탈원전 청구서' 진단내용 중 어디까지가 객관적인 사실이고 어디까지가]]></content>
     </entry>
 </feed>
