@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-20T10:27:13.054Z</updated>
+    <updated>2022-04-20T11:21:08.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 실수령액 외 아무것도 안 받았다더니..김앤장 고문 때 차량 받아]]></title>
+        <id>https://v.daum.net/v/20220420201505491</id>
+        <link href="https://v.daum.net/v/20220420201505491"/>
+        <updated>2022-04-20T11:20:06.014Z</updated>
+        <content type="html"><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?]]></title>
         <id>https://v.daum.net/v/20220420163315110</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220418195007190"/>
         <updated>2022-04-18T12:40:19.986Z</updated>
         <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "검찰 수사권 vs 기소권 동시 보유는 우리나라만 그렇다" 민주당 주장]]></title>
-        <id>https://v.daum.net/v/20220418112812474</id>
-        <link href="https://v.daum.net/v/20220418112812474"/>
-        <updated>2022-04-18T03:45:05.665Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "검찰 수사권 vs 기소권 분리가]]></content>
     </entry>
 </feed>

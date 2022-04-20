@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-04-20T10:27:13.051Z</updated>
+    <updated>2022-04-20T11:21:08.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실수령액 외 아무것도 안 받았다더니..김앤장 고문 때 차량 받아]]></title>
+        <id>https://v.daum.net/v/20220420201505491</id>
+        <link href="https://v.daum.net/v/20220420201505491"/>
+        <updated>2022-04-20T11:21:07.462Z</updated>
+        <content type="html"><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3고사실 면접위원 점수는 대부분 동일?]]></title>
         <id>https://v.daum.net/v/20220418195007190</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220317212607153"/>
         <updated>2022-03-17T12:40:17.029Z</updated>
         <content type="html"><![CDATA[[앵커] 인사권을 둘러싼 신구권력의 충돌, 임기 말 인사 중단은 관례다, 이런 주장들이 나왔는데, 팩트체크해보겠습니다. 이지은 기자가 나와 있습니다. 맞는 얘기입니까? [기자] 대부분 정권이 바뀔 때마다 충돌이 있었습니다. 이명박 정부 대통령비서실장 출신인 임태희 윤 당선인 특별고문이 오늘(17일) 이렇게 말했습니다. [임태희/윤석열 당선인 특별고문 (MB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀프 무궁화대훈장' 논란, 5년마다 왜 반복되나]]></title>
-        <id>https://v.daum.net/v/20220315204312593</id>
-        <link href="https://v.daum.net/v/20220315204312593"/>
-        <updated>2022-03-15T12:39:34.101Z</updated>
-        <content type="html"><![CDATA[[앵커] 문재인 대통령 부부, 퇴임 전에 무궁화대훈장을 받게 됩니다. 주는 사람과 받는 사람이 같습니다. 그래서 또 한 번, 임기 말에 '셀프 훈장' 논란이 재연됐습니다. 왜 5년마다 논란이 반복되는지 이를 둘러싼 팩트들을 따져봤습니다. 이지은 기자, 지금 옆에 훈장이 하나 나와 있군요? [기자] 네. 바로 이게 무궁화대훈장인데요. 현재 대한민국 상훈법에서]]></content>
     </entry>
 </feed>
