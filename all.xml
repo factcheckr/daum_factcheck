@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T07:24:06.694Z</updated>
+    <updated>2022-04-20T08:31:54.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220420163315110</id>
+        <link href="https://v.daum.net/v/20220420163315110"/>
+        <updated>2022-04-20T08:30:55.310Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당의 '검수완박'(검찰 수사권 완전 박탈) 법안 강행처리 움직임을 놓고 정치권의 긴장이 고조되는 가운데 20일 일부 언론과 인터넷 커뮤니티 등에는 "윤석열 당선인 측이 '검수완박' 법안이 통과되면 국회 입법권을 박탈해야 한다고 했다"는 보도와 관련 글이 확산하고 있다. 이들 기사와 글에는 "민주주의 근간인 삼권분립]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 역대 최대 사외이사, 내각으로 직행? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220419201308892</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220418112812474"/>
         <updated>2022-04-18T03:45:05.665Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "검찰 수사권 vs 기소권 분리가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "문 대통령, 검찰개혁 완성됐다"는 권성동 발언 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220418112706409</id>
-        <link href="https://v.daum.net/v/20220418112706409"/>
-        <updated>2022-04-18T03:45:05.668Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 16일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "문 대통령, 검찰개혁 완성됐다"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
