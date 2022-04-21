@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-21T02:00:33.935Z</updated>
+    <updated>2022-04-21T03:43:43.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 진에어 노조는 왜 국토부를 공개 비판하고 나섰나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220421110610808</id>
+        <link href="https://v.daum.net/v/20220421110610808"/>
+        <updated>2022-04-21T03:42:41.744Z</updated>
+        <content type="html"><![CDATA[진에어 노조가 20일 보도자료를 내어 “국제항공 운수권 배분에 문제가 있다”고 국토교통부를 공개적으로 비판하고 나섰다. 노조는 “(국토부가) 진에어를 배제·탄압한다”고 노골적으로 불만을 드러내기도 했다. 운수권 신규 배분 결정이 나올 때마다 이해가 갈리는 항공사 쪽에서 뒷말이 나오기 마련이지만, 진에어 노조처럼 국토부를 비판하기까지 하면서 공개적으로 불만을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 헌재는 수사주체를 법률로 바꿀 수 있다고 봤다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220421094015616</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220418215147141"/>
         <updated>2022-04-18T13:34:20.605Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] KBS창원은 6·1지방선거를 앞두고 후보자들의 발언을 중심으로 팩트체크를 이어갑니다. "박종훈 경상남도교육감 임기 때 경남 학생들의 학력이 저하됐다", 중도보수 진영의 말입니다. 과연 그럴까요. 교육감 선거전에서 뜨거운 감자로 떠오르고 있는 '학력 저하'의 실체를 팩트체크했습니다. 심층취재팀, 윤경재 기자입니다. [리포트] 6·1지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] "박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220418195657375</id>
-        <link href="https://v.daum.net/v/20220418195657375"/>
-        <updated>2022-04-18T12:40:19.986Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr) 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역 특례 논란, '국위선양'의 기준은? (다음 뉴스 ─ SBS 사실은)]]></title>
