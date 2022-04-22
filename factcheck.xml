@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-21T23:23:31.668Z</updated>
+    <updated>2022-04-22T02:07:49.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '역대 최다' 사외이사 내각..'꿀알바'에서 장관 직행?]]></title>
+        <id>https://v.daum.net/v/20220422104910097</id>
+        <link href="https://v.daum.net/v/20220422104910097"/>
+        <updated>2022-04-22T02:06:54.156Z</updated>
+        <content type="html"><![CDATA[윤석열 정부의 초기 내각 후보자들의 사외이사 경력이 주목받고 있습니다. 19명의 국무총리와 장관 후보자들 가운데 7명이 사외이사 경력을 갖고 있기 때문입니다. 전체의 3분의 1이 넘습니다. 이사로 몸담았던 기업에 유리한 정책을 펼칠 수 있다는 '이해충돌' 우려가 나옵니다. 사외이사는 '대주주 견제·감시' 목적 사외이사는 본래  대주주나 대표이사로부터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '검수완박' 해외 사례도 제각각..사실은?]]></title>
+        <id>https://v.daum.net/v/20220422101500644</id>
+        <link href="https://v.daum.net/v/20220422101500644"/>
+        <updated>2022-04-22T02:06:54.157Z</updated>
+        <content type="html"><![CDATA["수사 기관과 기소 기관 분리는 대한민국의 오랜 숙제이며 세계적인 추세다." - 민주당 박홍근 원내대표, 원내대책회의 발언, 지난 19일 "미국 연방검찰을 비롯, 독일과 프랑스 등 OECD 24개국도 검찰 수사권 있다." - 국민의힘 권성동 원내대표, 4당 원내대표 회동, 지난 19일 같은 날, 양당 원내대표 입에서 나온 말입니다. 검찰의 수사와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]경북대 '뚝딱 편입전형', 사전예고제 위배?]]></title>
         <id>https://v.daum.net/v/20220422061201499</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220419201308892"/>
         <updated>2022-04-19T11:20:29.255Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부 첫 내각 후보자들 이런저런 잡음이 나오는데요. 그 중에 하나가 민간기업 사외이사 경력입니다. 국무총리와 장관 후보자 19명 중에 사외이사 출신이 7명이나 됩니다. 사외이사를 했다가 공직자가 되지 말라는 법은 없지만, 본인이 몸 담았던 기업으로 팔이 굽는 건 아닌지 이른바 '이해충돌'의 우려가 나옵]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]한덕수 처가 50억 부동산 차익, 이미 검증받았다?]]></title>
-        <id>https://v.daum.net/v/20220419164803303</id>
-        <link href="https://v.daum.net/v/20220419164803303"/>
-        <updated>2022-04-19T08:29:32.037Z</updated>
-        <content type="html"><![CDATA[핵심요약두 번째 총리 지명된 한 후보자, 앞선 1차 지명 당시 "검증받았다" 해명 2007년 1차 총리 지명 당시 증여에 의한 토지 보유 및 매각, 금액 등 공개된 것은 팩트 한 후보자 부인 몫 포함 처가 소유 땅 전체 매각, 50억 차익 등 검증된 바 없어 매각 당사자, MB 관련 인물 연루 등 시행사 특혜 등 새로운 의혹 시행사 활동 시기, 韓 盧정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 배달 앱 시장에서 이득을 본 사람은 누구?]]></title>
-        <id>https://v.daum.net/v/20220419110603682</id>
-        <link href="https://v.daum.net/v/20220419110603682"/>
-        <updated>2022-04-19T04:42:03.994Z</updated>
-        <content type="html"><![CDATA[“만 원짜리 음식 팔면 손에 쥐는 돈은 단돈 2300원” (업주) “1만원 주문 시 우리가 떼는 수수료는 680원뿐” (배달 앱) “실제 기본 배달 단가는 3500~4000원 수준” (라이더) “배(음식값)보다 배꼽(배달비)이 더 커” (소비자) 최근 ‘배달의민족’(배민) 단건 배달 서비스 ‘배민1’의 수수료 개편을 둘러싸고 벌어진 논란을 보면, ‘커질 대]]></content>
     </entry>
 </feed>
