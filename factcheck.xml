@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-22T11:21:01.552Z</updated>
+    <updated>2022-04-22T12:47:03.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 창신동 모자가 지원하지 못한 이유..'가난의 조건'은?]]></title>
+        <id>https://v.daum.net/v/20220422203412338</id>
+        <link href="https://v.daum.net/v/20220422203412338"/>
+        <updated>2022-04-22T12:46:01.356Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신대로 숨진 80대 노모와 50대 아들이 기초생활보장수급 지원을 받지 못한 이유는 바로 이 80년 넘은 낡은 집 때문이었습니다. 그러면, 도대체 얼마나 가난해야 정부 지원을 받을 수 있었을지 따져봤습니다. ◀ 리포트 ▶ 해당 집의 등기부등본을 떼어봤습니다. 일제시대인 1937년에 지어진 목조주택]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '역대 최다' 사외이사 내각..'꿀알바'에서 장관 직행?]]></title>
         <id>https://v.daum.net/v/20220422104910097</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220420163315110"/>
         <updated>2022-04-20T08:30:55.310Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당의 '검수완박'(검찰 수사권 완전 박탈) 법안 강행처리 움직임을 놓고 정치권의 긴장이 고조되는 가운데 20일 일부 언론과 인터넷 커뮤니티 등에는 "윤석열 당선인 측이 '검수완박' 법안이 통과되면 국회 입법권을 박탈해야 한다고 했다"는 보도와 관련 글이 확산하고 있다. 이들 기사와 글에는 "민주주의 근간인 삼권분립]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 역대 최대 사외이사, 내각으로 직행?]]></title>
-        <id>https://v.daum.net/v/20220419201308892</id>
-        <link href="https://v.daum.net/v/20220419201308892"/>
-        <updated>2022-04-19T11:20:29.255Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부 첫 내각 후보자들 이런저런 잡음이 나오는데요. 그 중에 하나가 민간기업 사외이사 경력입니다. 국무총리와 장관 후보자 19명 중에 사외이사 출신이 7명이나 됩니다. 사외이사를 했다가 공직자가 되지 말라는 법은 없지만, 본인이 몸 담았던 기업으로 팔이 굽는 건 아닌지 이른바 '이해충돌'의 우려가 나옵]]></content>
     </entry>
 </feed>
