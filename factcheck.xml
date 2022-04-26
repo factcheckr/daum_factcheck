@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-26T11:21:43.277Z</updated>
+    <updated>2022-04-26T12:49:55.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 동물 학대, 반사회적 범죄 '예고편'?]]></title>
+        <id>https://v.daum.net/v/20220426203712246</id>
+        <link href="https://v.daum.net/v/20220426203712246"/>
+        <updated>2022-04-26T12:48:51.113Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서보신 끔찍한 동물 학대, 강력히 막아야 할 이유는 또 있습니다. 바로 동물에 대한 폭력성이 사람을 향한 강력범죄로 이어질 가능성이 높다는 주장이 있기 때문인데요. 과연 이 주장의 근거가 뭔지 확인해봤습니다. ◀ 리포트 ▶ 각각 20명과 10명을 잔혹하게 살해한 연쇄살인범 유영철과 강호순의 공통점이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 밤마다 '택시 대란'인데..서울 택시는 남아돈다?]]></title>
         <id>https://v.daum.net/v/20220426201338719</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220422101500644"/>
         <updated>2022-04-22T02:06:54.157Z</updated>
         <content type="html"><![CDATA["수사 기관과 기소 기관 분리는 대한민국의 오랜 숙제이며 세계적인 추세다." - 민주당 박홍근 원내대표, 원내대책회의 발언, 지난 19일 "미국 연방검찰을 비롯, 독일과 프랑스 등 OECD 24개국도 검찰 수사권 있다." - 국민의힘 권성동 원내대표, 4당 원내대표 회동, 지난 19일 같은 날, 양당 원내대표 입에서 나온 말입니다. 검찰의 수사와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]경북대 '뚝딱 편입전형', 사전예고제 위배?]]></title>
-        <id>https://v.daum.net/v/20220422061201499</id>
-        <link href="https://v.daum.net/v/20220422061201499"/>
-        <updated>2022-04-21T21:22:34.682Z</updated>
-        <content type="html"><![CDATA[핵심요약정호영 보건복지부 장관 후보자 아들이 합격한 경북대 의과대학 학사편입학 지역인재 특별전형 고등교육법상 대입전형 사전 예고제 따라 1년 10개월 전 공표됐어야 할까? 정호영 보건복지부 장관 후보자의 아들이 2018학년도 경북대학교 의과대학 학사편입학 시험에 응시할 당시 신설된 '지역 인재 특별전형'이 대구시에서 요청한 지 18일 만에 만들어진 것으로]]></content>
     </entry>
 </feed>
