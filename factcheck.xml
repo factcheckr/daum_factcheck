@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-26T21:23:52.135Z</updated>
+    <updated>2022-04-26T22:24:37.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 코로나19 2급 감염병 되면 치료비 폭등한다?]]></title>
+        <id>https://v.daum.net/v/20220427070058432</id>
+        <link href="https://v.daum.net/v/20220427070058432"/>
+        <updated>2022-04-26T22:23:42.405Z</updated>
+        <content type="html"><![CDATA[지난 25일부터 코로나19가 감염병 최고등급인 '1급'에서 '2급'으로 하향 조정됐습니다. 콜레라와 장티푸스, 결핵,  홍역 등과 같은 등급입니다. 방역 당국은 본격적인 일상 회복을 위해 감염병 등급을 조정하고 단계적으로 격리의무를 해제하기로 했습니다. 높은 백신 접종률과 먹는 치료제 보급 등 코로나19 발생 초기보다 대응 수단이 강화됐다는 게 주된 이유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 동물 학대, 반사회적 범죄 '예고편'?]]></title>
         <id>https://v.daum.net/v/20220426203712246</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220422104910097"/>
         <updated>2022-04-22T02:06:54.156Z</updated>
         <content type="html"><![CDATA[윤석열 정부의 초기 내각 후보자들의 사외이사 경력이 주목받고 있습니다. 19명의 국무총리와 장관 후보자들 가운데 7명이 사외이사 경력을 갖고 있기 때문입니다. 전체의 3분의 1이 넘습니다. 이사로 몸담았던 기업에 유리한 정책을 펼칠 수 있다는 '이해충돌' 우려가 나옵니다. 사외이사는 '대주주 견제·감시' 목적 사외이사는 본래  대주주나 대표이사로부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '검수완박' 해외 사례도 제각각..사실은?]]></title>
-        <id>https://v.daum.net/v/20220422101500644</id>
-        <link href="https://v.daum.net/v/20220422101500644"/>
-        <updated>2022-04-22T02:06:54.157Z</updated>
-        <content type="html"><![CDATA["수사 기관과 기소 기관 분리는 대한민국의 오랜 숙제이며 세계적인 추세다." - 민주당 박홍근 원내대표, 원내대책회의 발언, 지난 19일 "미국 연방검찰을 비롯, 독일과 프랑스 등 OECD 24개국도 검찰 수사권 있다." - 국민의힘 권성동 원내대표, 4당 원내대표 회동, 지난 19일 같은 날, 양당 원내대표 입에서 나온 말입니다. 검찰의 수사와]]></content>
     </entry>
 </feed>
