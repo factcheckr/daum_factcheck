@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-04-26T10:29:05.384Z</updated>
+    <updated>2022-04-26T11:21:43.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['40년 전' 돌아가신 아버지 자료까지 요구..민주당만?]]></title>
+        <id>https://v.daum.net/v/20220426195404316</id>
+        <link href="https://v.daum.net/v/20220426195404316"/>
+        <updated>2022-04-26T11:21:42.665Z</updated>
+        <content type="html"><![CDATA[[앵커] 오늘(26일)도 청문회가 무산된 건 '자료 제출'을 둘러싼 공방 때문이었습니다. '부실하게 제출했다'는 민주당의 주장에 대해 국민의힘은 오히려 '민주당이 지나치게 요구했다'고 반박했습니다. 그러면서 40년 전에 돌아가신 아버지의 자료까지 내라고 했다는 사례를 근거로 들었습니다. 하지만, 저희가 팩트체크를 해보니 국민의힘도 그런 자료를 상당수 요구했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한덕수 요청자료' 문 정부 총리들보다 3~4배?]]></title>
         <id>https://v.daum.net/v/20220425195516964</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220325202109944"/>
         <updated>2022-03-25T13:10:47.251Z</updated>
         <content type="html"><![CDATA[[앵커] 감사위원을 임명하는 문제를 놓고, 인수위 측에선 "최근 15년 동안 전례가 없었다"는 주장도 나왔는데요. 팩트체크 해보겠습니다. 이지은 기자, 사실입니까? [기자] 일단 인수위의 해당 발표 발언부터 들어보시죠. [최지현/대통령직인수위 수석부대변인 (어제) : 당선인 확정 후에 임기가 4년이 되는 감사위원을 현 정부가 임명한 전례가 없다고 알고 있습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소통' 늘린다는데..현 청와대 경호 어떤지 보니]]></title>
-        <id>https://v.daum.net/v/20220323200706059</id>
-        <link href="https://v.daum.net/v/20220323200706059"/>
-        <updated>2022-03-23T11:18:07.851Z</updated>
-        <content type="html"><![CDATA[[앵커] 당선인은 '소통형 집무'를 하겠다는 계획입니다. 그러면, 경호 체계는 바뀔 수밖에 없고, 앞서 전해드린 대로 AI CCTV도 검토되고 있습니다. 일단 '지금의 경호'는 어떻게 되는지 짚어볼 필요가 있습니다. 이지은 기자가 준비해왔습니다. 현재 체계부터 살펴볼까요? [기자] 한마디로 3중 중첩 구조입니다. 1, 2, 3선으로 구분이 될 수 있는데요.]]></content>
     </entry>
 </feed>
