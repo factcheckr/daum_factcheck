@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-27T08:30:06.658Z</updated>
+    <updated>2022-04-27T09:25:45.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["내 돈 내서 내가 산 격?" 시추선 매각한 삼성중공업, 왜 [뉴스AS]]]></title>
+        <title type="html"><![CDATA[[팩트체크] '검수완박' 법안에 대해 국민투표를 추진한다고?]]></title>
+        <id>https://v.daum.net/v/20220427180111467</id>
+        <link href="https://v.daum.net/v/20220427180111467"/>
+        <updated>2022-04-27T09:24:41.336Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인 측이 27일 이른바 '검수완박'(검찰청법·형사소송법 개정안) 법안과 관련해 취임 뒤 6·1 지방선거에서 국민투표에 부치는 방안을 추진하겠다는 입장을 밝혀 또 다른 논란이 되고 있다. 장제원 당선인 비서실장은 이날 통의동 인수위 사무실에서 기자들과 만나 "당선인 비서실은 '검수완박'과 관련해 국민투표하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] "내 돈 내서 내가 산 격?" 시추선 매각한 삼성중공업, 왜]]></title>
         <id>https://v.daum.net/v/20220427140610624</id>
         <link href="https://v.daum.net/v/20220427140610624"/>
         <updated>2022-04-27T06:30:09.154Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220425195516964"/>
         <updated>2022-04-25T11:20:27.266Z</updated>
         <content type="html"><![CDATA[[앵커] 바로 팩트체크를 이어가겠습니다. 민주당이 문재인 정부의 총리 청문회 때에 비해서 3~4배나 많은 자료를 요구했다, 이게 국민의힘의 주장인데, 이지은 기자가 나와 있습니다. 이 주장, 확인해봤죠? [기자] 먼저 검증해볼 주장은 이겁니다. 발언부터 보시죠. [김미애/국민의힘 의원 : 총 1090여 건 요청되었고, (문재인 정부 때 총리 후보자들이) 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 창신동 모자가 지원하지 못한 이유..'가난의 조건'은?]]></title>
-        <id>https://v.daum.net/v/20220422203412338</id>
-        <link href="https://v.daum.net/v/20220422203412338"/>
-        <updated>2022-04-22T12:46:01.356Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신대로 숨진 80대 노모와 50대 아들이 기초생활보장수급 지원을 받지 못한 이유는 바로 이 80년 넘은 낡은 집 때문이었습니다. 그러면, 도대체 얼마나 가난해야 정부 지원을 받을 수 있었을지 따져봤습니다. ◀ 리포트 ▶ 해당 집의 등기부등본을 떼어봤습니다. 일제시대인 1937년에 지어진 목조주택]]></content>
     </entry>
 </feed>
