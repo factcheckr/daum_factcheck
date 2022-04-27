@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-27T05:33:36.622Z</updated>
+    <updated>2022-04-27T06:31:06.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 돈 내서 내가 산 격?" 시추선 매각한 삼성중공업, 왜 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220427140610624</id>
+        <link href="https://v.daum.net/v/20220427140610624"/>
+        <updated>2022-04-27T06:30:09.154Z</updated>
+        <content type="html"><![CDATA[“내 돈을 내서 내가 인수한 거 아닌가?” 지난주 삼성중공업이 ‘드릴십’ 4척을 매각해 유동성을 확보하겠다고 발표한 내용을 전해들은 한 조선업계 인사의 반응이다. 드릴십은 바다 위에 둥둥 떠서 석유 시추 구멍을 뚫는 선박이다. 특이한 점은 삼성중공업이 만든 이 선박을 사들일 회사가 석유 시추회사가 아닌 사모펀드(PEF)라는 사실이다. 매입한 드릴십을 다시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 코로나19 2급 감염병 되면 치료비 폭등한다?]]></title>
         <id>https://v.daum.net/v/20220427070058432</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220422203412338"/>
         <updated>2022-04-22T12:46:01.356Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신대로 숨진 80대 노모와 50대 아들이 기초생활보장수급 지원을 받지 못한 이유는 바로 이 80년 넘은 낡은 집 때문이었습니다. 그러면, 도대체 얼마나 가난해야 정부 지원을 받을 수 있었을지 따져봤습니다. ◀ 리포트 ▶ 해당 집의 등기부등본을 떼어봤습니다. 일제시대인 1937년에 지어진 목조주택]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '역대 최다' 사외이사 내각..'꿀알바'에서 장관 직행?]]></title>
-        <id>https://v.daum.net/v/20220422104910097</id>
-        <link href="https://v.daum.net/v/20220422104910097"/>
-        <updated>2022-04-22T02:06:54.156Z</updated>
-        <content type="html"><![CDATA[윤석열 정부의 초기 내각 후보자들의 사외이사 경력이 주목받고 있습니다. 19명의 국무총리와 장관 후보자들 가운데 7명이 사외이사 경력을 갖고 있기 때문입니다. 전체의 3분의 1이 넘습니다. 이사로 몸담았던 기업에 유리한 정책을 펼칠 수 있다는 '이해충돌' 우려가 나옵니다. 사외이사는 '대주주 견제·감시' 목적 사외이사는 본래  대주주나 대표이사로부터]]></content>
     </entry>
 </feed>
