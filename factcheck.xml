@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-28T08:30:39.777Z</updated>
+    <updated>2022-04-28T09:27:11.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크]'검수완박' 국민투표 가능?..6월 전 충족해야 할 조건들]]></title>
         <id>https://v.daum.net/v/20220428160613619</id>
