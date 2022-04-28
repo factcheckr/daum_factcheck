@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-28T12:48:53.955Z</updated>
+    <updated>2022-04-28T13:42:41.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국은 러시아를 '테러지원국'으로 지정할 수 있을까 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220428220124419</id>
+        <link href="https://v.daum.net/v/20220428220124419"/>
+        <updated>2022-04-28T13:41:38.293Z</updated>
+        <content type="html"><![CDATA[조 바이든 미국 대통령(왼쪽)과 블라디미르 푸틴 러시아 대통령. AP뉴시스·타스연합뉴스  미국이 러시아를&nbsp;‘테러지원국’으로 지정해야 한다는 목소리가 높다. 냉전 시기에도 미국이&nbsp;러시아의 전신인 소련을 테러지원국으로 지정하지&nbsp;않았던 터라, 앞으로 어떤 결정이 내려질지&nbsp;세계 각국의 시선이 쏠린다.&nbsp;테러지원국 지정 권한을 가진 미 국무장관이 최근 러시아 테]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["실외 마스크 풀려면 확진자 수 내려가야" 안철수 주장 따져보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220428205700190</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220427070058432"/>
         <updated>2022-04-26T22:23:42.405Z</updated>
         <content type="html"><![CDATA[지난 25일부터 코로나19가 감염병 최고등급인 '1급'에서 '2급'으로 하향 조정됐습니다. 콜레라와 장티푸스, 결핵,  홍역 등과 같은 등급입니다. 방역 당국은 본격적인 일상 회복을 위해 감염병 등급을 조정하고 단계적으로 격리의무를 해제하기로 했습니다. 높은 백신 접종률과 먹는 치료제 보급 등 코로나19 발생 초기보다 대응 수단이 강화됐다는 게 주된 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 동물 학대, 반사회적 범죄 '예고편'?]]></title>
-        <id>https://v.daum.net/v/20220426203712246</id>
-        <link href="https://v.daum.net/v/20220426203712246"/>
-        <updated>2022-04-26T12:48:51.113Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서보신 끔찍한 동물 학대, 강력히 막아야 할 이유는 또 있습니다. 바로 동물에 대한 폭력성이 사람을 향한 강력범죄로 이어질 가능성이 높다는 주장이 있기 때문인데요. 과연 이 주장의 근거가 뭔지 확인해봤습니다. ◀ 리포트 ▶ 각각 20명과 10명을 잔혹하게 살해한 연쇄살인범 유영철과 강호순의 공통점이]]></content>
     </entry>
 </feed>
