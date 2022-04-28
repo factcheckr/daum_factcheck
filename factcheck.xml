@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-04-28T06:34:10.527Z</updated>
+    <updated>2022-04-28T07:22:32.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]'검수완박' 국민투표 가능?..6월 전 충족해야 할 조건들]]></title>
+        <id>https://v.daum.net/v/20220428160613619</id>
+        <link href="https://v.daum.net/v/20220428160613619"/>
+        <updated>2022-04-28T07:21:39.959Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 김보선 기자] "헌법정신을 지키기 위해 대통령 당선인 비서실은 당선인께 국민투표에 부치는 안을 보고하려고 한다.", "민주당이 통과 안 시켜주면 국민투표가 두려운 거라고 볼 수밖에 없다."(장제원 대통령 당선인 비서실장) 윤석열 대통령 당선인 측이 제안한 '검수완박'(검찰 수사권 완전 박탈)의 국민투표는 과연 실현 가능성이 있을까. 검찰 수사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] "OECD가 '검수완박' 우려"..당사자에게 연락해 봤더니]]></title>
         <id>https://v.daum.net/v/20220428140004426</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220426201338719"/>
         <updated>2022-04-26T11:20:42.838Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 거리두기가 끝난 뒤 모임이 부쩍 늘다 보니 매일 밤마다 서울시내는 대란 수준의 택시 잡기 전쟁이 벌어지고 있죠. 택시가 너무 부족한 것 같다는 생각도 드는데, 택시가 너무 많다는 말도 있습니다. 어떤 게 맞는 걸까요. 홍지호 기자가 사실확인에서 알아봤습니다. 【 기자 】 서울시에서 면허를 가진 택시기사는 모두 7만 명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '40년 전' 돌아가신 아버지 자료까지 요구..민주당만?]]></title>
-        <id>https://v.daum.net/v/20220426195404316</id>
-        <link href="https://v.daum.net/v/20220426195404316"/>
-        <updated>2022-04-26T11:20:42.839Z</updated>
-        <content type="html"><![CDATA[[앵커] 오늘(26일)도 청문회가 무산된 건 '자료 제출'을 둘러싼 공방 때문이었습니다. '부실하게 제출했다'는 민주당의 주장에 대해 국민의힘은 오히려 '민주당이 지나치게 요구했다'고 반박했습니다. 그러면서 40년 전에 돌아가신 아버지의 자료까지 내라고 했다는 사례를 근거로 들었습니다. 하지만, 저희가 팩트체크를 해보니 국민의힘도 그런 자료를 상당수 요구했]]></content>
     </entry>
 </feed>
