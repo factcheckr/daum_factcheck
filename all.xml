@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-28T22:24:53.406Z</updated>
+    <updated>2022-04-28T23:24:57.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대선 경쟁자를 대통령 취임식에 초청한 전례 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220429074008619</id>
+        <link href="https://v.daum.net/v/20220429074008619"/>
+        <updated>2022-04-28T23:24:03.406Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 윤석열 대통령 취임식(5월 10일)이 10여 일 앞으로 다가오며 참석자에 대한 관심이 커지는 가운데 대권을 놓고 경쟁했던 이재명 전 경기지사와 유승민 전 국민의힘 의원은 초청받지 못했다. 박주선 대통령취임준비위원장은 27일 CBS 라디오 '김현정의 뉴스쇼'에서 이 전 지사와 유 전 의원을 초청하느냐는 질문에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국은 러시아를 '테러지원국'으로 지정할 수 있을까 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220428220124419</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220427140610624"/>
         <updated>2022-04-27T06:30:09.154Z</updated>
         <content type="html"><![CDATA[“내 돈을 내서 내가 인수한 거 아닌가?” 지난주 삼성중공업이 ‘드릴십’ 4척을 매각해 유동성을 확보하겠다고 발표한 내용을 전해들은 한 조선업계 인사의 반응이다. 드릴십은 바다 위에 둥둥 떠서 석유 시추 구멍을 뚫는 선박이다. 특이한 점은 삼성중공업이 만든 이 선박을 사들일 회사가 석유 시추회사가 아닌 사모펀드(PEF)라는 사실이다. 매입한 드릴십을 다시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 코로나19 2급 감염병 되면 치료비 폭등한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220427070058432</id>
-        <link href="https://v.daum.net/v/20220427070058432"/>
-        <updated>2022-04-26T22:23:42.405Z</updated>
-        <content type="html"><![CDATA[지난 25일부터 코로나19가 감염병 최고등급인 '1급'에서 '2급'으로 하향 조정됐습니다. 콜레라와 장티푸스, 결핵,  홍역 등과 같은 등급입니다. 방역 당국은 본격적인 일상 회복을 위해 감염병 등급을 조정하고 단계적으로 격리의무를 해제하기로 했습니다. 높은 백신 접종률과 먹는 치료제 보급 등 코로나19 발생 초기보다 대응 수단이 강화됐다는 게 주된 이유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['검수완박' 해외 사례도 제각각..사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
