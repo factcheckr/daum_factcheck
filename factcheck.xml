@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-03T02:10:20.215Z</updated>
+    <updated>2022-05-03T03:55:27.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 검수완박 마무리.. 누가 국회선진화법을 위반했나요?]]></title>
+        <id>https://v.daum.net/v/20220503112419859</id>
+        <link href="https://v.daum.net/v/20220503112419859"/>
+        <updated>2022-05-03T03:54:33.877Z</updated>
+        <content type="html"><![CDATA[검찰 수사권 완전 박탈, 이른바 '검수완박' 법안 처리가 오늘 마무리됐습니다. 논란이 뜨겁습니다. 여야는 법안이 처리되는 과정에서 서로를 향해 국회선진화법을 짓밟았다고 주장하고 있습니다. 두 거대 정당 원내대표의 발언입니다. 정치의 영역이라 시시비비를 따지기 어려운 측면이 있지만, SBS 사실은팀은 사안의 중대성을 고려할 때 서로의 주장을 꼼꼼히 검증할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 유통기한 3년 지난 KF마스크 써? 말아?]]></title>
         <id>https://v.daum.net/v/20220502203139519</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220428160613619"/>
         <updated>2022-04-28T07:21:39.959Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 김보선 기자] "헌법정신을 지키기 위해 대통령 당선인 비서실은 당선인께 국민투표에 부치는 안을 보고하려고 한다.", "민주당이 통과 안 시켜주면 국민투표가 두려운 거라고 볼 수밖에 없다."(장제원 대통령 당선인 비서실장) 윤석열 대통령 당선인 측이 제안한 '검수완박'(검찰 수사권 완전 박탈)의 국민투표는 과연 실현 가능성이 있을까. 검찰 수사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "OECD가 '검수완박' 우려"..당사자에게 연락해 봤더니]]></title>
-        <id>https://v.daum.net/v/20220428140004426</id>
-        <link href="https://v.daum.net/v/20220428140004426"/>
-        <updated>2022-04-28T05:44:40.958Z</updated>
-        <content type="html"><![CDATA[검찰의 직접 수사 범위를 부패와 경제 범죄 등으로 제한하는 검찰개혁안이 추진 중입니다. 현재 이를 위한 검찰청법과 형사소송법 개정안이 국회 본회의에 상정됐고 여야의 대치가 극한으로 치닫고 있습니다. 이런 가운데 법무부발로 지난 26일 경제협력개발기구(OECD) 산하 반부패기구가 현재 입법이 추진되고 있는 법안에 대한 우려를 전달했다는 소식이 전해졌습니다.]]></content>
     </entry>
 </feed>
