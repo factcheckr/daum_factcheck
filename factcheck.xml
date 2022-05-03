@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-03T11:24:15.231Z</updated>
+    <updated>2022-05-03T12:50:36.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 우리 지자체장들이 다루는 예산, 무려 이 정도]]></title>
+        <id>https://v.daum.net/v/20220503212414298</id>
+        <link href="https://v.daum.net/v/20220503212414298"/>
+        <updated>2022-05-03T12:49:38.637Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 의사진행발언은 본회의 안건 표결 전에 해야 한다?]]></title>
         <id>https://v.daum.net/v/20220503171615596</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220429074008619"/>
         <updated>2022-04-28T23:24:03.406Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 윤석열 대통령 취임식(5월 10일)이 10여 일 앞으로 다가오며 참석자에 대한 관심이 커지는 가운데 대권을 놓고 경쟁했던 이재명 전 경기지사와 유승민 전 국민의힘 의원은 초청받지 못했다. 박주선 대통령취임준비위원장은 27일 CBS 라디오 '김현정의 뉴스쇼'에서 이 전 지사와 유 전 의원을 초청하느냐는 질문에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국은 러시아를 '테러지원국'으로 지정할 수 있을까 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220428220124419</id>
-        <link href="https://v.daum.net/v/20220428220124419"/>
-        <updated>2022-04-28T13:41:38.293Z</updated>
-        <content type="html"><![CDATA[조 바이든 미국 대통령(왼쪽)과 블라디미르 푸틴 러시아 대통령. AP뉴시스·타스연합뉴스  미국이 러시아를&nbsp;‘테러지원국’으로 지정해야 한다는 목소리가 높다. 냉전 시기에도 미국이&nbsp;러시아의 전신인 소련을 테러지원국으로 지정하지&nbsp;않았던 터라, 앞으로 어떤 결정이 내려질지&nbsp;세계 각국의 시선이 쏠린다.&nbsp;테러지원국 지정 권한을 가진 미 국무장관이 최근 러시아 테]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-05-03T11:24:15.208Z</updated>
+    <updated>2022-05-03T12:50:36.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도]]></title>
+        <id>https://v.daum.net/v/20220503212414298</id>
+        <link href="https://v.daum.net/v/20220503212414298"/>
+        <updated>2022-05-03T12:49:48.030Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검수완박 마무리..누가 국회선진화법을 위반했나요?]]></title>
         <id>https://v.daum.net/v/20220503112419859</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220323091804058"/>
         <updated>2022-03-23T01:47:20.749Z</updated>
         <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나치가 우크라이나를 점령했다는 푸틴, 사실은?]]></title>
-        <id>https://v.daum.net/v/20220320090310043</id>
-        <link href="https://v.daum.net/v/20220320090310043"/>
-        <updated>2022-03-20T01:35:10.087Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 지난 9일에는 마리우폴 지역 산부인과와 어린이 병원까지 집중 포격하면서 수많은 민간인 사상자가 나왔습니다.&nbsp; 러시아는 민간인 희생 사실을 부인하며, "병원은 오래 전부터 네오 나치 조직이 점령한 곳"이라고 주장했습니다. 사실, 러시아의 침공 명분 가운데 하나는 '우크라이나의 탈(脫)나치화'입니]]></content>
     </entry>
 </feed>
