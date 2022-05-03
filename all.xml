@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T12:50:36.219Z</updated>
+    <updated>2022-05-03T13:45:39.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[사실은] 우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ 팩트체크)]]></title>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20220503212414298</id>
         <link href="https://v.daum.net/v/20220503212414298"/>
-        <updated>2022-05-03T12:49:48.030Z</updated>
+        <updated>2022-05-03T12:49:38.637Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
     </entry>
     <entry>
