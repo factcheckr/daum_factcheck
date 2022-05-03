@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-03T07:24:18.100Z</updated>
+    <updated>2022-05-03T08:30:20.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 의사진행발언은 본회의 안건 표결 전에 해야 한다?]]></title>
+        <id>https://v.daum.net/v/20220503171615596</id>
+        <link href="https://v.daum.net/v/20220503171615596"/>
+        <updated>2022-05-03T08:29:17.266Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 지난달 30일 검찰청법 개정안에 이어 3일 형사소송법 개정안이 국회를 통과하고 국무회의 의결·공포까지 마치면서 더불어민주당이 추진해 온 이른바 '검수완박(검찰 수사권 완전 박탈)'의 입법이 최종 마무리됐다. 이 과정에서 본회의 의사진행발언 순서와 개의 시간, 국무회의 시간 조정 등을 놓고 공방이 벌어지기도 했다. 송언석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 원희룡이 말하는 "임대차3법, 폐지 가까운 근본적 개선" 무슨 뜻?]]></title>
+        <id>https://v.daum.net/v/20220503162607724</id>
+        <link href="https://v.daum.net/v/20220503162607724"/>
+        <updated>2022-05-03T08:29:17.267Z</updated>
+        <content type="html"><![CDATA[원희룡 국토교통부 장관 후보자가 지난 2일 국회 인사청문회에서 밝힌 임대차 3법 관련 정책 구상이 관심을 모으고 있다. 임대차 3법 ‘폐지’ 가능성과 함께 ‘근본적 개선’을 동시에 언급한 것은, 유동적인 시장 상황에서 뚜렷한 대안을 마련할 때까지 일단 시간을 벌기 위한 것이라는 해석이 나온다. 원 후보자는 청문회에서 오는 7월 말로 시행 2주년을 맞는 임대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 검수완박 마무리..누가 국회선진화법을 위반했나요?]]></title>
         <id>https://v.daum.net/v/20220503112419859</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220428220124419"/>
         <updated>2022-04-28T13:41:38.293Z</updated>
         <content type="html"><![CDATA[조 바이든 미국 대통령(왼쪽)과 블라디미르 푸틴 러시아 대통령. AP뉴시스·타스연합뉴스  미국이 러시아를&nbsp;‘테러지원국’으로 지정해야 한다는 목소리가 높다. 냉전 시기에도 미국이&nbsp;러시아의 전신인 소련을 테러지원국으로 지정하지&nbsp;않았던 터라, 앞으로 어떤 결정이 내려질지&nbsp;세계 각국의 시선이 쏠린다.&nbsp;테러지원국 지정 권한을 가진 미 국무장관이 최근 러시아 테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["실외 마스크 풀려면 확진자 수 내려가야" 안철수 주장 따져보니 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220428205700190</id>
-        <link href="https://v.daum.net/v/20220428205700190"/>
-        <updated>2022-04-28T12:48:00.091Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;안철수 제20대 대통령직인수위원회 위원장이 27일 서울 종로구 통의동 인수위 공동 기자회견장에서 코로나비상대응특별위원회 보건의료분과 종합대책 '코로나19 비상대응 100일 로드맵'을 발표하고 있다.    ⓒ 인수위사진기자단  &nbsp;&nbsp; [검증대상] 안철수 "실외 마스크 해제, 확진자 수 선진국 수준으로 내려와야 가능" 정부가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]'검수완박' 국민투표 가능?..6월 전 충족해야 할 조건들]]></title>
-        <id>https://v.daum.net/v/20220428160613619</id>
-        <link href="https://v.daum.net/v/20220428160613619"/>
-        <updated>2022-04-28T07:21:39.959Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 김보선 기자] "헌법정신을 지키기 위해 대통령 당선인 비서실은 당선인께 국민투표에 부치는 안을 보고하려고 한다.", "민주당이 통과 안 시켜주면 국민투표가 두려운 거라고 볼 수밖에 없다."(장제원 대통령 당선인 비서실장) 윤석열 대통령 당선인 측이 제안한 '검수완박'(검찰 수사권 완전 박탈)의 국민투표는 과연 실현 가능성이 있을까. 검찰 수사]]></content>
     </entry>
 </feed>
