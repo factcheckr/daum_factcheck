@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-04T12:50:47.027Z</updated>
+    <updated>2022-05-04T13:43:58.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘었는데 "군소 정당에 불리"..사실은?]]></title>
+        <id>https://v.daum.net/v/20220504215016903</id>
+        <link href="https://v.daum.net/v/20220504215016903"/>
+        <updated>2022-05-04T13:43:03.849Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 경상남도의회가 최근 시·군의원 선거구를 획정했습니다. 3·4인 선거구가 늘어나 군소정당에 유리할 것으로 보이는데, 군소정당들은 오히려 "자신들에게 불리하게 선거구가 획정됐다"라며 반발하고 있습니다. 이 말이 사실인지, 팩트체크했습니다. 심층기획팀 윤경재 기자입니다. [리포트] 지난주  경상남도의회가  시·군의원 선거구를 획정했습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘었는데 "군소 정당에 불리"..사실은?]]></title>
         <id>https://v.daum.net/v/20220504195805923</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220502095808691"/>
         <updated>2022-05-02T02:11:09.442Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 30일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 한덕수 총리 인사청문회 파행 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나19 감염병등급 1급→2급, 치료비 개인부담 증가?]]></title>
-        <id>https://v.daum.net/v/20220502092209935</id>
-        <link href="https://v.daum.net/v/20220502092209935"/>
-        <updated>2022-05-02T02:11:09.444Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 30일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 코로나19 감염병등급 1급→2급,]]></content>
     </entry>
 </feed>
