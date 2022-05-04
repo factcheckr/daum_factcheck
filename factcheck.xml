@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-04T07:25:02.900Z</updated>
+    <updated>2022-05-04T08:30:56.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나 방역 덕분에 잔병치레 줄었다?]]></title>
+        <id>https://v.daum.net/v/20220504172010797</id>
+        <link href="https://v.daum.net/v/20220504172010797"/>
+        <updated>2022-05-04T08:29:57.017Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부의 코로나19 일상회복지원위원회 공동위원장을 맡은 최재천 이화여대 석좌교수가 4일 MBC 라디오에 출연해 "저는 2년 반 동안에 제 생애에서 가장 건강하게 살았어요. 위험하지만 감기 한 번 안 걸리고 잔병 없이 살았다"고 말했다. 코로나19 방역 조치가 다른 감염병 차단 효과를 가져왔다는 의미로, 앞으로도 건강과 안전을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["현행법상 '검수완박' 국민투표 불가" 선관위에.. 장제원 "월권"이라는데 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220504093044541</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220430162608990"/>
         <updated>2022-04-30T08:27:36.958Z</updated>
         <content type="html"><![CDATA[다음 달 10일 열릴 윤석열 대통령 취임식에 대권 경쟁자였던 이재명 더불어민주당 상임고문과 유승민 전 국민의힘 의원은 초청받지 못한 것으로 알려졌다. 박주선 대통령취임준비위원장이 27일 CBS 라디오 '김현정의 뉴스쇼'와 인터뷰에서 이 상임고문과 유 전 의원을 초청하느냐는 질문에 "자칫 잘못하면 패배에 대한 아픈 상처를 상기시키거나 또는 크게 할 우려가 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] CPTPP 가입하면 해외 성인사이트 차단할 수 없다?]]></title>
-        <id>https://v.daum.net/v/20220430110004051</id>
-        <link href="https://v.daum.net/v/20220430110004051"/>
-        <updated>2022-04-30T02:05:34.025Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 우리나라가 포괄적·점진적 환태평양동반자협정(CPTPP)에 가입하기로 한 가운데 온라인상에서 'CPTPP에 가입하면 해외 성인사이트를 차단할 수 없다'는 글이 유포되고 있다. 작성자는 "가입하게 된다면 지금까지 한국에서 진행되고 있던 비이성적인 인터넷 검열은 모두 사라질 것"이라며 "지금까지 성인이 성인물을]]></content>
     </entry>
 </feed>
