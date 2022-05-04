@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-04T10:27:53.784Z</updated>
+    <updated>2022-05-04T11:19:30.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘었는데 "군소정당에 불리"..사실은?]]></title>
+        <id>https://v.daum.net/v/20220504195805923</id>
+        <link href="https://v.daum.net/v/20220504195805923"/>
+        <updated>2022-05-04T11:18:37.611Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 경상남도의회가 최근 시·군의원 선거구를 획정했습니다. 3·4인 선거구가 늘어나 군소정당에 유리할 것으로 보이는데요. 그런데 군소정당들은 "자신들에게 불리하게 선거구가 획정됐다"라고 반발하고 있습니다. 이 말이 사실인지, 팩트체크해봅니다. 심층기획팀  윤경재 기자 나왔습니다. 우선 선거구에 관해 이야기해보죠. [기자] 네, 선거구제는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 코로나 방역 덕분에 잔병치레 줄었다?]]></title>
         <id>https://v.daum.net/v/20220504172010797</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220502092209935"/>
         <updated>2022-05-02T02:11:09.444Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 30일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 코로나19 감염병등급 1급→2급,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 취임식에 대선 경쟁후보 초청한 적 있다? 없다? [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20220430162608990</id>
-        <link href="https://v.daum.net/v/20220430162608990"/>
-        <updated>2022-04-30T08:27:36.958Z</updated>
-        <content type="html"><![CDATA[다음 달 10일 열릴 윤석열 대통령 취임식에 대권 경쟁자였던 이재명 더불어민주당 상임고문과 유승민 전 국민의힘 의원은 초청받지 못한 것으로 알려졌다. 박주선 대통령취임준비위원장이 27일 CBS 라디오 '김현정의 뉴스쇼'와 인터뷰에서 이 상임고문과 유 전 의원을 초청하느냐는 질문에 "자칫 잘못하면 패배에 대한 아픈 상처를 상기시키거나 또는 크게 할 우려가 있]]></content>
     </entry>
 </feed>
