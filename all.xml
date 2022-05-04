@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-04T13:43:58.804Z</updated>
+    <updated>2022-05-04T14:24:18.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 이상민, 권익위 재직중 뇌물 피고인에 "마지막까지 최선" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220504224609688</id>
+        <link href="https://v.daum.net/v/20220504224609688"/>
+        <updated>2022-05-04T14:23:23.995Z</updated>
+        <content type="html"><![CDATA[2015년 국민권익위원회 부위원장 재직 시절까지 뇌물수수 사건 피고인에게 법률 상담을 해주었다는 의혹을 받는 이상민 행정안전부 장관 후보자와 관련해, 당시 이 후보자와 피고인이 나눈 전자우편 일부 내용이 공개됐다. 의례적 수준의 답장이었다는 이 후보자의 주장과 달리, 부위원장으로 일하면서도 “마지막까지 애써 보겠다”는 답변을 보내는 등 법률 상담이 이뤄졌다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘었는데 "군소 정당에 불리"..사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220504215016903</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220502203139519"/>
         <updated>2022-05-02T12:46:35.998Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 코로나19 이후 혹시나 싶어 집집마다 KF마스크만큼은 넉넉하게 사놓는 게 습관처럼 됐죠. 이제 마스크 쓸 일이 적어져서 마스크가 많이 남을 텐데, 유통기한이 지나도 사용할 수 있을까요. 유승오 기자가 취재했습니다. 【 기자 】 ▶ 스탠딩 : 유승오 / 기자 - "실외에서는 마스크를 쓸지 말지는 이제 개인의 선택입니다. 코로나19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한덕수 인사청문회..'자료요청 3-4배?','최초로 법정시한 넘겼다?' (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220502095808691</id>
-        <link href="https://v.daum.net/v/20220502095808691"/>
-        <updated>2022-05-02T02:11:09.442Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 4월 30일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 한덕수 총리 인사청문회 파행 이유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -246,7 +246,7 @@
         <title type="html"><![CDATA[중·대선거구 늘었는데 "군소 정당에 불리"..사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220504215016903</id>
         <link href="https://v.daum.net/v/20220504215016903"/>
-        <updated>2022-05-04T13:43:27.050Z</updated>
+        <updated>2022-05-04T13:43:03.849Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 경상남도의회가 최근 시·군의원 선거구를 획정했습니다. 3·4인 선거구가 늘어나 군소정당에 유리할 것으로 보이는데, 군소정당들은 오히려 "자신들에게 불리하게 선거구가 획정됐다"라며 반발하고 있습니다. 이 말이 사실인지, 팩트체크했습니다. 심층기획팀 윤경재 기자입니다. [리포트] 지난주  경상남도의회가  시·군의원 선거구를 획정했습니다]]></content>
     </entry>
     <entry>
