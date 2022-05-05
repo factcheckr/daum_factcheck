@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-04T23:25:48.385Z</updated>
+    <updated>2022-05-05T01:58:00.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 여가부 폐지 압도적? 여론조사 따져보니.. (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220505101007434</id>
+        <link href="https://v.daum.net/v/20220505101007434"/>
+        <updated>2022-05-05T01:57:06.717Z</updated>
+        <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘어도 "군소 정당에 불리"..사실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220505083153849</id>
+        <link href="https://v.daum.net/v/20220505083153849"/>
+        <updated>2022-05-05T01:57:06.722Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박병석에게 "앙증맞은 몸"이라고 한 배현진, 의원직 제명 대상? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220505070153942</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20220503212414298"/>
         <updated>2022-05-03T12:49:38.637Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의사진행발언은 본회의 안건 표결 전에 해야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220503171615596</id>
-        <link href="https://v.daum.net/v/20220503171615596"/>
-        <updated>2022-05-03T08:29:17.266Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 지난달 30일 검찰청법 개정안에 이어 3일 형사소송법 개정안이 국회를 통과하고 국무회의 의결·공포까지 마치면서 더불어민주당이 추진해 온 이른바 '검수완박(검찰 수사권 완전 박탈)'의 입법이 최종 마무리됐다. 이 과정에서 본회의 의사진행발언 순서와 개의 시간, 국무회의 시간 조정 등을 놓고 공방이 벌어지기도 했다. 송언석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원희룡 "임대차3법, 폐지 가까운 근본적 개선" 무슨 뜻? [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220503162607724</id>
-        <link href="https://v.daum.net/v/20220503162607724"/>
-        <updated>2022-05-03T08:29:17.267Z</updated>
-        <content type="html"><![CDATA[원희룡 국토교통부 장관 후보자가 지난 2일 국회 인사청문회에서 밝힌 임대차 3법 관련 정책 구상이 관심을 모으고 있다. 임대차 3법 ‘폐지’ 가능성과 함께 ‘근본적 개선’을 동시에 언급한 것은, 유동적인 시장 상황에서 뚜렷한 대안을 마련할 때까지 일단 시간을 벌기 위한 것이라는 해석이 나온다. 원 후보자는 청문회에서 오는 7월 말로 시행 2주년을 맞는 임대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[대통령 집무실 용산 이전으로 논란이 뜨겁습니다. 국가 안보 문제, 경호의 적절성, 예산 낭비 논란 등 다양한 쟁점이 있습니다. 치열한 갑론을박이 이어지고 있습니다.&nbsp; 하지만, 왜 이전하려 하는가에 대해서는 상대적으로 공론화가 덜한 것 같습니다. 사실 이번 현안과 관련해 가장 고민해야 할 부분은 이전의 '명분'일 겁니다.&nbsp; 윤석열 당선인은 핵심 명분으로 대]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여가부 폐지 압도적? 여론조사 따져보니.. (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220505101007434</id>
+        <link href="https://v.daum.net/v/20220505101007434"/>
+        <updated>2022-05-05T01:57:22.377Z</updated>
+        <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["OECD가 '검수완박' 우려"..당사자에게 연락해 봤더니 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220428140004426</id>
         <link href="https://v.daum.net/v/20220428140004426"/>
@@ -236,11 +243,11 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령 집무실 이전을 두고 당선인 측은 상당한 경제적 이득이 있다고 합니다. ◀ I N T ▶ [김은혜/대통령 당선인 대변인] "(청와대 개방으로) 국민에게 환원되는 이익이 2천억 원, 또 1조 원 넘는 부가가치가 있다는 게 여러 단체를 통해서 자료가 나오고 있는 것으로 알고 있습니다." 여기서 말하는 자료]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떼었다 붙였다 정부 조직개편.. 유독 우리만? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220325202214958</id>
-        <link href="https://v.daum.net/v/20220325202214958"/>
-        <updated>2022-03-25T13:09:54.538Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 알고보니 시작합니다. 앞서 보신대로 다음 정부에서도 없애거나 합치는 조직 개편이 이뤄질 것으로 보입니다. 이렇게 정권이 바뀔 때마다 부처끼리 떼었다 붙였다 한다고 해서 '포스트잇' 조직 개편이란 말까지 나오고 있는데요. 그동안 얼마나 자주 정부조직이 바뀌어왔는지 과연 우리나라에서만 유독 심한 건지 알아봤습니다. ◀ 리포트]]></content>
+        <title type="html"><![CDATA[중·대선거구 늘어도 "군소 정당에 불리"..사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220505083153849</id>
+        <link href="https://v.daum.net/v/20220505083153849"/>
+        <updated>2022-05-05T01:57:29.839Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3차 접종하고 확진된 사람도 '4차 접종' 해야 한다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220322080010760"/>
         <updated>2022-03-21T23:22:49.144Z</updated>
         <content type="html"><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. 전 인구의 63.1%에 해당합니다(2022.03.21.0시 기준). 오는 31일부터는 5~11세 소아도 코로나19 화이자 백신 접종을 시작합니다. 최근 확진자가 급증하면서 일부에서는 백신 무용론도 제기하고 있지만 대다수 전문가들은 여전히 백신 접종 효과를 강조하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220305070057979</id>
-        <link href="https://v.daum.net/v/20220305070057979"/>
-        <updated>2022-03-04T22:18:07.922Z</updated>
-        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

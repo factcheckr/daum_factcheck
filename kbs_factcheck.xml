@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-05-04T23:25:48.374Z</updated>
+    <updated>2022-05-05T01:58:00.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중·대선거구 늘어도 "군소 정당에 불리"..사실은?]]></title>
+        <id>https://v.daum.net/v/20220505083153849</id>
+        <link href="https://v.daum.net/v/20220505083153849"/>
+        <updated>2022-05-05T01:57:29.839Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3차 접종하고 확진된 사람도 '4차 접종' 해야 한다?]]></title>
         <id>https://v.daum.net/v/20220505070022891</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220322080010760"/>
         <updated>2022-03-21T23:23:18.163Z</updated>
         <content type="html"><![CDATA[코로나19 백신 3차 접종까지 마친 접종 완료자가 32,370,843명으로 집계됐습니다. 전 인구의 63.1%에 해당합니다(2022.03.21.0시 기준). 오는 31일부터는 5~11세 소아도 코로나19 화이자 백신 접종을 시작합니다. 최근 확진자가 급증하면서 일부에서는 백신 무용론도 제기하고 있지만 대다수 전문가들은 여전히 백신 접종 효과를 강조하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다?]]></title>
-        <id>https://v.daum.net/v/20220305070057979</id>
-        <link href="https://v.daum.net/v/20220305070057979"/>
-        <updated>2022-03-04T22:18:38.101Z</updated>
-        <content type="html"><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다. 사전투표 첫날인 4일 전국 770만 명 넘게 투표해 17.57%로 첫날 기준 역대 최고 투표율을 기록했습니다. 투표를 독려하기 위해 인증샷도 많이 올라왔는데 투표 인증을 둘러싼 논란, 이번에도 예외가 아니었습니다. 가수 케이윌은 어제(4일) 자신]]></content>
     </entry>
 </feed>

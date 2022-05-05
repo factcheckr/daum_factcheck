@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-04T23:25:48.373Z</updated>
+    <updated>2022-05-05T01:58:00.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 여가부 폐지 압도적? 여론조사 따져보니..]]></title>
+        <id>https://v.daum.net/v/20220505101007434</id>
+        <link href="https://v.daum.net/v/20220505101007434"/>
+        <updated>2022-05-05T01:57:06.717Z</updated>
+        <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘어도 "군소 정당에 불리"..사실은?]]></title>
+        <id>https://v.daum.net/v/20220505083153849</id>
+        <link href="https://v.daum.net/v/20220505083153849"/>
+        <updated>2022-05-05T01:57:06.722Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박병석에게 "앙증맞은 몸"이라고 한 배현진, 의원직 제명 대상? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220505070153942</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220503212414298"/>
         <updated>2022-05-03T12:49:38.637Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의사진행발언은 본회의 안건 표결 전에 해야 한다?]]></title>
-        <id>https://v.daum.net/v/20220503171615596</id>
-        <link href="https://v.daum.net/v/20220503171615596"/>
-        <updated>2022-05-03T08:29:17.266Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 지난달 30일 검찰청법 개정안에 이어 3일 형사소송법 개정안이 국회를 통과하고 국무회의 의결·공포까지 마치면서 더불어민주당이 추진해 온 이른바 '검수완박(검찰 수사권 완전 박탈)'의 입법이 최종 마무리됐다. 이 과정에서 본회의 의사진행발언 순서와 개의 시간, 국무회의 시간 조정 등을 놓고 공방이 벌어지기도 했다. 송언석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원희룡 "임대차3법, 폐지 가까운 근본적 개선" 무슨 뜻? [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220503162607724</id>
-        <link href="https://v.daum.net/v/20220503162607724"/>
-        <updated>2022-05-03T08:29:17.267Z</updated>
-        <content type="html"><![CDATA[원희룡 국토교통부 장관 후보자가 지난 2일 국회 인사청문회에서 밝힌 임대차 3법 관련 정책 구상이 관심을 모으고 있다. 임대차 3법 ‘폐지’ 가능성과 함께 ‘근본적 개선’을 동시에 언급한 것은, 유동적인 시장 상황에서 뚜렷한 대안을 마련할 때까지 일단 시간을 벌기 위한 것이라는 해석이 나온다. 원 후보자는 청문회에서 오는 7월 말로 시행 2주년을 맞는 임대]]></content>
     </entry>
 </feed>
