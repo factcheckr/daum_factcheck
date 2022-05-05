@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-05T11:21:23.828Z</updated>
+    <updated>2022-05-05T12:49:58.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220505202403495</id>
+        <link href="https://v.daum.net/v/20220505202403495"/>
+        <updated>2022-05-05T12:48:58.197Z</updated>
+        <content type="html"><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220505183906292</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220504172010797"/>
         <updated>2022-05-04T08:29:57.017Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부의 코로나19 일상회복지원위원회 공동위원장을 맡은 최재천 이화여대 석좌교수가 4일 MBC 라디오에 출연해 "저는 2년 반 동안에 제 생애에서 가장 건강하게 살았어요. 위험하지만 감기 한 번 안 걸리고 잔병 없이 살았다"고 말했다. 코로나19 방역 조치가 다른 감염병 차단 효과를 가져왔다는 의미로, 앞으로도 건강과 안전을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["현행법상 '검수완박' 국민투표 불가" 선관위에.. 장제원 "월권"이라는데 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220504093044541</id>
-        <link href="https://v.daum.net/v/20220504093044541"/>
-        <updated>2022-05-04T02:09:47.426Z</updated>
-        <content type="html"><![CDATA[지난 2일 경기 과천 중앙선거관리위원회 청사 로비에 다음 달 1일 제8회 전국동시지방선거&nbsp;홍보물이 설치돼 있는 모습. 과천=뉴스1  3일 더불어민주당과 문재인정부의 ‘검수완박’(검찰 수사권 완전 박탈) 입법 및 공포가&nbsp;속전속결로 완료되면서&nbsp;윤석열 대통령 당선인 측이 다음 달 1일&nbsp;제8회 전국동시지방선거와 함께 실시하자고 한 국민투표에 관심이 집중된다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;윤석열 대통령 당선자가 20일 오전 서울 종로구 삼청동 대통령직인수위원회 회견장에서 대통령실 용산 이전과 관련해 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; 윤석열 대통령 당선인의 '용산 집무실' 이전을 둘러싼 논란이 뜨겁다. 그는 '소통'을 명분으로 취임 첫날부터 청와대가 아닌 국방부 청사로 들어가겠다고 밝혔]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220505202403495</id>
+        <link href="https://v.daum.net/v/20220505202403495"/>
+        <updated>2022-05-05T12:49:57.988Z</updated>
+        <content type="html"><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[논란의 '호텔 만찬'..대관료만 500만 원 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220427202205626</id>
         <link href="https://v.daum.net/v/20220427202205626"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220330200305598"/>
         <updated>2022-03-30T11:19:11.342Z</updated>
         <content type="html"><![CDATA[[앵커] 그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다. 이지은 기자, 2천억 원이라는 숫자는 어디에서 나온 겁니까? [기자] 2천억 원의 경제적 효과가 예상된다, 문체부 산하의 한국문화관광연구원의 자료다, 이런 보도들이 잇따랐죠. 그런데 저희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단체행동 이유가 "지하철 엘리베이터 때문"? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220328201903856</id>
-        <link href="https://v.daum.net/v/20220328201903856"/>
-        <updated>2022-03-28T11:20:29.142Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번엔 팩트체크를 해보겠습니다. 대상은 이준석 대표의 주장입니다. 이지은 기자가 나와 있습니다. 일단 이 대표는 장애인 단체의 행동이 지하철 엘리베이터 설치 때문이다, 이렇게 주장을 하고 있는 거죠? [기자] 네, 이 대표는 지난 26일, 페이스북에 긴 글을 올렸습니다. 거기서 "지하철 엘리베이터 설치율이 100%가 아니라는 이유로 계속 서울시민]]></content>
     </entry>
 </feed>
