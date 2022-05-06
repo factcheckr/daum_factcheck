@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T11:21:16.337Z</updated>
+    <updated>2022-05-06T12:45:06.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["대통령 관저와 집무실 분리, 우리뿐?".. '사실반 거짓반'  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220506210300208</id>
+        <link href="https://v.daum.net/v/20220506210300208"/>
+        <updated>2022-05-06T12:44:13.049Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;탁현민 청와대 의전비서관은 6일 오전 CBS 라디오 ‘김현정의 뉴스쇼’에서 “(윤석열 정부에서) 청와대 이전 문제가 내내 어려움을 겪을 것”이라면서 “전 세계적으로 관저와 집무실이 분리되는 것도 제가 알기로는 우리나라 밖에 없게 될 것이고, 그러면 모든 시스템이 두 벌이 필요한 것”이라고 지적했다    ⓒ CBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220505202403495</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220504195805923"/>
         <updated>2022-05-04T11:18:37.611Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 경상남도의회가 최근 시·군의원 선거구를 획정했습니다. 3·4인 선거구가 늘어나 군소정당에 유리할 것으로 보이는데요. 그런데 군소정당들은 "자신들에게 불리하게 선거구가 획정됐다"라고 반발하고 있습니다. 이 말이 사실인지, 팩트체크해봅니다. 심층기획팀  윤경재 기자 나왔습니다. 우선 선거구에 관해 이야기해보죠. [기자] 네, 선거구제는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 방역 덕분에 잔병치레 줄었다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220504172010797</id>
-        <link href="https://v.daum.net/v/20220504172010797"/>
-        <updated>2022-05-04T08:29:57.017Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부의 코로나19 일상회복지원위원회 공동위원장을 맡은 최재천 이화여대 석좌교수가 4일 MBC 라디오에 출연해 "저는 2년 반 동안에 제 생애에서 가장 건강하게 살았어요. 위험하지만 감기 한 번 안 걸리고 잔병 없이 살았다"고 말했다. 코로나19 방역 조치가 다른 감염병 차단 효과를 가져왔다는 의미로, 앞으로도 건강과 안전을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 올해 공동주택 공시가격(안)이 2007년 이후 가장 높은 인상폭을 기록한 뒤 공시가격이 적절하게 산정됐는지를 놓고 정부와 일부 지자체 간 논쟁이 벌어졌다. 지난 5일 조은희 서울 서초구청장과 원희룡 제주도지사가 공동기자회견을 열어 몇몇 사례를 제시하며 “공시가격 산정에 오류가 많다”고 주장하고 나선 뒤부터다. 국토교통부는 같은 날 해명자료를]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["대통령 관저와 집무실 분리, 우리뿐?".. '사실반 거짓반' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220506210300208</id>
+        <link href="https://v.daum.net/v/20220506210300208"/>
+        <updated>2022-05-06T12:44:58.911Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;탁현민 청와대 의전비서관은 6일 오전 CBS 라디오 ‘김현정의 뉴스쇼’에서 “(윤석열 정부에서) 청와대 이전 문제가 내내 어려움을 겪을 것”이라면서 “전 세계적으로 관저와 집무실이 분리되는 것도 제가 알기로는 우리나라 밖에 없게 될 것이고, 그러면 모든 시스템이 두 벌이 필요한 것”이라고 지적했다    ⓒ CBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220505183906292</id>
         <link href="https://v.daum.net/v/20220505183906292"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20220324055400749"/>
         <updated>2022-03-23T21:17:16.653Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;대통령직 인수위원회에 18개 부처 파견 공무원 인원 중 여성가족부 공무원이 없는 것으로 알려진 가운데 '여성가족부 폐지' 등 윤석열 대통령 당선인의 핵심 공약 등이 '뜨거운 감자'로 부상할 가능성이 크다. 21일 오후 정부서울청사 여성가족부 복도에는 오가는 직원이 보이지 않고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산 집무실 주변 공원 조성해 소통? 최소 7년이상 걸린다 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220323100904158</id>
-        <link href="https://v.daum.net/v/20220323100904158"/>
-        <updated>2022-03-23T01:47:10.389Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;윤석열 대통령 당선자가 20일 오전 서울 종로구 삼청동 대통령직인수위원회 회견장에서 대통령실 용산 이전과 관련해 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; 윤석열 대통령 당선인의 '용산 집무실' 이전을 둘러싼 논란이 뜨겁다. 그는 '소통'을 명분으로 취임 첫날부터 청와대가 아닌 국방부 청사로 들어가겠다고 밝혔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
