@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-07T23:24:27.874Z</updated>
+    <updated>2022-05-08T02:05:23.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 코로나 방역 OECD 최상위권?]]></title>
+        <id>https://v.daum.net/v/20220508090010870</id>
+        <link href="https://v.daum.net/v/20220508090010870"/>
+        <updated>2022-05-08T02:04:29.674Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 김부겸 국무총리는 6일 마지막으로 주재한 중앙재난안전대책본부(중대본) 회의에서 "다른 나라에 비해 일상 회복이 늦었다는 비판의 목소리도 있지만 객관적 수치만 봐도 우리의 방역은 성공적이었다고 평가받아 마땅하다"고 말했다. 지난 2년여 동안 코로나19 방역 성과의 공을 방역수칙을 잘 지키며 정부 정책에 적극적으로 호응해준 국민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세기 말 박사논문 심사는 호텔에서 했다? [팩트파인더]]]></title>
         <id>https://v.daum.net/v/20220507151644755</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220505070153942"/>
         <updated>2022-05-04T22:24:43.415Z</updated>
         <content type="html"><![CDATA[배현진 국민의힘 의원(맨 왼쪽)이 지난달 30일 서울 여의도 국회에서 열린 임시회 1차 본회의 도중 의사진행 발언을 하다 박병석 국회의장(〃 오른쪽)에게 항의하고 있다. 뉴스1  더불어민주당이 4일 ‘검수완박’(검찰 수사권 완전 박탈) 입법 과정에서 박병석 국회의장을 향해&nbsp;“앙증맞은 몸”이라고 발언한&nbsp;국민의힘 배현진 의원을 국회 윤리특별위원회에 제소했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 3차 접종하고 확진된 사람도 '4차 접종' 해야 한다?]]></title>
-        <id>https://v.daum.net/v/20220505070022891</id>
-        <link href="https://v.daum.net/v/20220505070022891"/>
-        <updated>2022-05-04T22:24:43.416Z</updated>
-        <content type="html"><![CDATA[코로나19 백신 4차 접종자가 240만 명을 넘었습니다(2022.05.04. 0시 기준 2,440,981명). 4차 접종은 지난 2월 14일부터 요양병원 환자와 면역저하자 등을 대상으로 먼저 실시되다가 지난달 14일 60세 이상 가운데 3차 접종 후 120일이 지난 사람으로 접종 대상이 확대됐습니다. 지난달 25일부터는 본격적인 예약 접종이 이뤄졌고,]]></content>
     </entry>
 </feed>
