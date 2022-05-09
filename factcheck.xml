@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-09T10:28:51.371Z</updated>
+    <updated>2022-05-09T11:22:15.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 취임식에 '대선 경쟁자' 초청한 전례 없다?]]></title>
+        <id>https://v.daum.net/v/20220509202003307</id>
+        <link href="https://v.daum.net/v/20220509202003307"/>
+        <updated>2022-05-09T11:21:17.487Z</updated>
+        <content type="html"><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (이재명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 코로나 방역 OECD 최상위권?]]></title>
         <id>https://v.daum.net/v/20220508090010870</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220505083153849"/>
         <updated>2022-05-05T01:57:06.722Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박병석에게 "앙증맞은 몸"이라고 한 배현진, 의원직 제명 대상? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220505070153942</id>
-        <link href="https://v.daum.net/v/20220505070153942"/>
-        <updated>2022-05-04T22:24:43.415Z</updated>
-        <content type="html"><![CDATA[배현진 국민의힘 의원(맨 왼쪽)이 지난달 30일 서울 여의도 국회에서 열린 임시회 1차 본회의 도중 의사진행 발언을 하다 박병석 국회의장(〃 오른쪽)에게 항의하고 있다. 뉴스1  더불어민주당이 4일 ‘검수완박’(검찰 수사권 완전 박탈) 입법 과정에서 박병석 국회의장을 향해&nbsp;“앙증맞은 몸”이라고 발언한&nbsp;국민의힘 배현진 의원을 국회 윤리특별위원회에 제소했]]></content>
     </entry>
 </feed>
