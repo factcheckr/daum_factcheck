@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-10T07:24:09.981Z</updated>
+    <updated>2022-05-10T08:30:55.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시, '붕괴 참사' HDC현산 '등록말소' 처분 가능할까 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220510170150724</id>
+        <link href="https://v.daum.net/v/20220510170150724"/>
+        <updated>2022-05-10T08:29:58.156Z</updated>
+        <content type="html"><![CDATA[HDC현대산업개발이 붕괴 사고가 발생한 광주 화정아이파크 8개 동을 전면 철거하고 재시공한다고 8일 밝혔다. HDC는 철거 후 재시공은 총 70개월이 걸릴 것으로 예상, 추가 비용은 약 2000억원으로 추산했다. 뉴스1  지난 1월 광주 화정아이파크 붕괴 사고를 낸 HDC현대산업개발에 대한 서울시의 행정처분 수위에 관심이&nbsp;쏠린다. 국토교통부는 건설산업]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 취임식에 '대선 경쟁자' 초청한 전례 없다?]]></title>
         <id>https://v.daum.net/v/20220509202003307</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220505101007434"/>
         <updated>2022-05-05T01:57:06.717Z</updated>
         <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 중·대선거구 늘어도 "군소 정당에 불리"..사실은?]]></title>
-        <id>https://v.daum.net/v/20220505083153849</id>
-        <link href="https://v.daum.net/v/20220505083153849"/>
-        <updated>2022-05-05T01:57:06.722Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
 </feed>
