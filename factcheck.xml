@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-10T08:30:55.257Z</updated>
+    <updated>2022-05-10T09:25:20.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 형사소송법 개정으로 아동학대 수사 부실해진다고?]]></title>
+        <id>https://v.daum.net/v/20220510172924646</id>
+        <link href="https://v.daum.net/v/20220510172924646"/>
+        <updated>2022-05-10T09:24:26.195Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 검찰 수사권 분리를 위해 형사소송법을 개정하면서 '고발인 이의신청권'을 삭제한 데 대한 비판이 크다. 특히 피해자 스스로 고소하기 어려워 제3자의 고발로 수사가 이뤄지는 아동학대 사건의 경우 경찰이 부실수사한 뒤 사건을 종결해도 보완수사를 요구할 길이 막혔다는 지적이 나온다. 종래는 경찰 수사가 미비하면 고발인의 이의신청으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시, '붕괴 참사' HDC현산 '등록말소' 처분 가능할까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220510170150724</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220505183906292"/>
         <updated>2022-05-05T10:27:08.641Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;4일 오전 서울 여의도 국회 앞에서 어린이날 100주년 ‘어린이차별철폐의 날’ 선포 기자회견에 참석한 어린이들이 차별금지법 제정을 촉구하며 ‘노키즈존 나빠요, 차별금지법 좋아요’라고 적힌 글씨에 색칠을 하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "노키즈존 리스트 공유하면 영업 방해" 사업자 주장 5월 5일 어린이날 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 여가부 폐지 압도적? 여론조사 따져보니..]]></title>
-        <id>https://v.daum.net/v/20220505101007434</id>
-        <link href="https://v.daum.net/v/20220505101007434"/>
-        <updated>2022-05-05T01:57:06.717Z</updated>
-        <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
     </entry>
 </feed>
