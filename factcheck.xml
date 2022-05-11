@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-11T11:21:22.820Z</updated>
+    <updated>2022-05-11T12:51:13.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 한 곳에서 여러 명 뽑으면, 작은 정당에 유리?]]></title>
+        <id>https://v.daum.net/v/20220511205710891</id>
+        <link href="https://v.daum.net/v/20220511205710891"/>
+        <updated>2022-05-11T12:50:13.655Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 선거제도는 정치지형에 상당한 영향을 미치게 되죠. 보통 한 선거구에서 여러 명을 뽑는 중·대 선거구제에선 '작은 정당'이 유리하다고 하고, 이번 지방선거에서도 시의원, 군의원 선거가 이렇게 치러지는데, 정말로 작은 정당에 유리한 건지 알아봅니다. SBS 팩트체크 사실은 팀과 데이터저널리즘 마부작침 팀의 지방선거 연속보도, 이경원 기자입니다. &lt;기자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 출퇴근 때, 체증 감추려 CCTV 통제한다?]]></title>
+        <id>https://v.daum.net/v/20220511202315312</id>
+        <link href="https://v.daum.net/v/20220511202315312"/>
+        <updated>2022-05-11T12:50:13.661Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나왔습니다. 바로 팩트체크 해보죠. 이지은 기자, 정확히 어떤 주장인 거죠? [기자] 네. 지난주부터 소셜미디어에 돌고 있는 사진들인데, 먼저 보시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["동성애는 치료하면 바뀐다" 김성회 비서관 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220511184202067</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220507110006681"/>
         <updated>2022-05-07T03:05:32.388Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 추경호 경제부총리 겸 기획재정부 장관 후보자가 지난 2일 인사청문회에서 "우리나라 최저임금 수준이 경제협력개발기구(OECD) 국가 중 상대적으로 높은 수준에 올라와 있다"고 언급했다. 우리나라의 최저임금 수준이 많이 올라온 만큼 최저임금 업종별 차등화 논의가 필요하다는 취지에서 한 발언이다. 추 후보자의 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도민은 인생의 20%를 출퇴근에 쓴다? 안 쓴다? [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20220507110003679</id>
-        <link href="https://v.daum.net/v/20220507110003679"/>
-        <updated>2022-05-07T03:05:32.390Z</updated>
-        <content type="html"><![CDATA[신포시란 가상의 공간을 배경으로 '경기도민의 애환'을 그린 드라마 '나의 해방일지'가 6‧1 지방선거와 맞물리며 여야 후보들의 입에 오르내리고 있다. 당내 경선에서 고배를 마신 유승민 국민의힘 전 의원이 지난달 14일 경선 TV토론회에서 "서울 출퇴근에 내 청춘을 바친다는 대사가 가슴 아프게 다가왔다"고 언급한 후, 김동연 더불어민주당 후보도 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대통령 관저와 집무실 분리, 우리뿐?".. '사실반 거짓반'  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220506210300208</id>
-        <link href="https://v.daum.net/v/20220506210300208"/>
-        <updated>2022-05-06T12:44:13.049Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;탁현민 청와대 의전비서관은 6일 오전 CBS 라디오 ‘김현정의 뉴스쇼’에서 “(윤석열 정부에서) 청와대 이전 문제가 내내 어려움을 겪을 것”이라면서 “전 세계적으로 관저와 집무실이 분리되는 것도 제가 알기로는 우리나라 밖에 없게 될 것이고, 그러면 모든 시스템이 두 벌이 필요한 것”이라고 지적했다    ⓒ CBS]]></content>
     </entry>
 </feed>
