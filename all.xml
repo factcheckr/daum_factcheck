@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T09:25:22.761Z</updated>
+    <updated>2022-05-11T10:29:29.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["동성애는 치료하면 바뀐다" 김성회 비서관 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220511184202067</id>
+        <link href="https://v.daum.net/v/20220511184202067"/>
+        <updated>2022-05-11T10:28:32.753Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;김성회 대통령비서실 종교다문화비서관    ⓒ 연합뉴스  &nbsp; [검증대상] 김성회 비서관 주장&nbsp;"동성애는 치료에 의해 바뀔 수 있다" 김성회 대통령비서실 종교다문화비서관이 11일 "동성애가 정신병의 일종"이라는 자신의 과거 발언이 "성적 취향에 대한 혐오 발언의 성격이 있었다"고 사과하면서도 여전히 동성애가 치료 가능한 질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 앉아서 거수경례하면 안 된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220511163028732</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220506210300208"/>
         <updated>2022-05-06T12:44:13.049Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;탁현민 청와대 의전비서관은 6일 오전 CBS 라디오 ‘김현정의 뉴스쇼’에서 “(윤석열 정부에서) 청와대 이전 문제가 내내 어려움을 겪을 것”이라면서 “전 세계적으로 관저와 집무실이 분리되는 것도 제가 알기로는 우리나라 밖에 없게 될 것이고, 그러면 모든 시스템이 두 벌이 필요한 것”이라고 지적했다    ⓒ CBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220505202403495</id>
-        <link href="https://v.daum.net/v/20220505202403495"/>
-        <updated>2022-05-05T12:48:58.197Z</updated>
-        <content type="html"><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 올해 공동주택 공시가격(안)이 2007년 이후 가장 높은 인상폭을 기록한 뒤 공시가격이 적절하게 산정됐는지를 놓고 정부와 일부 지자체 간 논쟁이 벌어졌다. 지난 5일 조은희 서울 서초구청장과 원희룡 제주도지사가 공동기자회견을 열어 몇몇 사례를 제시하며 “공시가격 산정에 오류가 많다”고 주장하고 나선 뒤부터다. 국토교통부는 같은 날 해명자료를]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["동성애는 치료하면 바뀐다" 김성회 비서관 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220511184202067</id>
+        <link href="https://v.daum.net/v/20220511184202067"/>
+        <updated>2022-05-11T10:29:20.987Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;김성회 대통령비서실 종교다문화비서관    ⓒ 연합뉴스  &nbsp; [검증대상] 김성회 비서관 주장&nbsp;"동성애는 치료에 의해 바뀔 수 있다" 김성회 대통령비서실 종교다문화비서관이 11일 "동성애가 정신병의 일종"이라는 자신의 과거 발언이 "성적 취향에 대한 혐오 발언의 성격이 있었다"고 사과하면서도 여전히 동성애가 치료 가능한 질]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["대통령 관저와 집무실 분리, 우리뿐?".. '사실반 거짓반' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220506210300208</id>
         <link href="https://v.daum.net/v/20220506210300208"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20220401061810673"/>
         <updated>2022-03-31T21:21:01.828Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;겨레하나 회원이 지난 2021년 7월 21일 오전 서울 종로구 일본대사관 입주 건물 앞에서 도쿄올림픽 독도 일본영토표기,욱일기 철회 공식화 등을 규탄하며 일인시위를 하고 있다.    ⓒ 이희훈  &nbsp; 또다시 일본 정부의 역사 왜곡 논란이 불거졌다. 일본 문부과학성은 지난 29일 '일본군 위안부'나 '조선인 강제연행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여가부 홈페이지 관리에만 180억 쓴다" 주장 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220324055400749</id>
-        <link href="https://v.daum.net/v/20220324055400749"/>
-        <updated>2022-03-23T21:17:16.653Z</updated>
-        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;대통령직 인수위원회에 18개 부처 파견 공무원 인원 중 여성가족부 공무원이 없는 것으로 알려진 가운데 '여성가족부 폐지' 등 윤석열 대통령 당선인의 핵심 공약 등이 '뜨거운 감자'로 부상할 가능성이 크다. 21일 오후 정부서울청사 여성가족부 복도에는 오가는 직원이 보이지 않고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[취임식에 '대선 경쟁자' 초청한 전례 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
