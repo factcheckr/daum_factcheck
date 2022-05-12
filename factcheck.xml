@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-12T05:31:09.169Z</updated>
+    <updated>2022-05-12T06:33:23.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 이준석 '탈시설 정책 비난'에 "왜 동생 죽음 끌어들이나"]]></title>
+        <id>https://v.daum.net/v/20220512150618850</id>
+        <link href="https://v.daum.net/v/20220512150618850"/>
+        <updated>2022-05-12T06:32:24.270Z</updated>
+        <content type="html"><![CDATA[“전장연이 꾸준히 이야기하고 민주당과 정의당이 밀어붙이려고 하는 탈시설 정책. 누구를 위하여 이것을 강행하는지 살펴봐야 합니다.” 이준석 국민의힘 대표는 지난 1일 &lt;조선일보&gt;의 ‘넉달만에 욕창으로..脫(탈)시설 사업으로 ‘독립’한 장애인의 쓸쓸한 죽음’ 온라인 기사를 공유하며 자신의 페이스북에 이러한 내용의 글을 올렸다. 해당 보도를 근거로 전국장애인차별]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 검찰이 경찰에 '디스커버리' 보완수사 요구한 까닭]]></title>
         <id>https://v.daum.net/v/20220512140605504</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220509202003307"/>
         <updated>2022-05-09T11:21:17.487Z</updated>
         <content type="html"><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 오늘 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 코로나 방역 OECD 최상위권?]]></title>
-        <id>https://v.daum.net/v/20220508090010870</id>
-        <link href="https://v.daum.net/v/20220508090010870"/>
-        <updated>2022-05-08T02:04:29.674Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 김부겸 국무총리는 6일 마지막으로 주재한 중앙재난안전대책본부(중대본) 회의에서 "다른 나라에 비해 일상 회복이 늦었다는 비판의 목소리도 있지만 객관적 수치만 봐도 우리의 방역은 성공적이었다고 평가받아 마땅하다"고 말했다. 지난 2년여 동안 코로나19 방역 성과의 공을 방역수칙을 잘 지키며 정부 정책에 적극적으로 호응해준 국민]]></content>
     </entry>
 </feed>
