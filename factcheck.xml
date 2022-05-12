@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-12T09:26:11.590Z</updated>
+    <updated>2022-05-12T10:30:54.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 다문화 비하하는 다문화 비서관, 해명도 거짓]]></title>
         <id>https://v.daum.net/v/20220512181016773</id>
