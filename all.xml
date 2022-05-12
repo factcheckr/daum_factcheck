@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T12:50:31.588Z</updated>
+    <updated>2022-05-12T13:51:09.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 다문화 비하하는 다문화 비서관, 해명도 거짓 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220512222818217</id>
+        <link href="https://v.daum.net/v/20220512222818217"/>
+        <updated>2022-05-12T13:50:10.130Z</updated>
+        <content type="html"><![CDATA[[앵커] 과거 부적절한 발언으로 논란에 휩싸인 김성회 대통령비서실 종교다문화비서관이 SNS에 해명 글을 올렸습니다. 이주 노동자들이 제도를 악용해 친인척을 편법으로 입국시키고, 조선 여성 절반이 성노리개였다는 주장을 뒷받침하기 위해 구체적인 통계를 댔는데요. 사실인지 팩트체크했습니다. 신지원 기자입니다. [기자] [김성회 / 종교다문화비서관 (지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 다문화 비하하는 다문화 비서관, 해명도 거짓 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220512181016773</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220510172924646"/>
         <updated>2022-05-10T09:24:26.195Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 검찰 수사권 분리를 위해 형사소송법을 개정하면서 '고발인 이의신청권'을 삭제한 데 대한 비판이 크다. 특히 피해자 스스로 고소하기 어려워 제3자의 고발로 수사가 이뤄지는 아동학대 사건의 경우 경찰이 부실수사한 뒤 사건을 종결해도 보완수사를 요구할 길이 막혔다는 지적이 나온다. 종래는 경찰 수사가 미비하면 고발인의 이의신청으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, '붕괴 참사' HDC현산 '등록말소' 처분 가능할까 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220510170150724</id>
-        <link href="https://v.daum.net/v/20220510170150724"/>
-        <updated>2022-05-10T08:29:58.156Z</updated>
-        <content type="html"><![CDATA[HDC현대산업개발이 붕괴 사고가 발생한 광주 화정아이파크 8개 동을 전면 철거하고 재시공한다고 8일 밝혔다. HDC는 철거 후 재시공은 총 70개월이 걸릴 것으로 예상, 추가 비용은 약 2000억원으로 추산했다. 뉴스1  지난 1월 광주 화정아이파크 붕괴 사고를 낸 HDC현대산업개발에 대한 서울시의 행정처분 수위에 관심이&nbsp;쏠린다. 국토교통부는 건설산업]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 곳에서 여러 명 뽑으면, 작은 정당에 유리? (다음 뉴스 ─ SBS 사실은)]]></title>
