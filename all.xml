@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-24T20:28:42.047Z</updated>
+    <updated>2022-05-24T21:23:03.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상장폐지된 내 주식, 가치는 0원? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220525060030237</id>
+        <link href="https://v.daum.net/v/20220525060030237"/>
+        <updated>2022-05-24T21:22:04.157Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 고정삼 기자] 최근 상장사들이 자진 상장폐지에 나서면서 상장폐지 이후 주주들이 보유하고 있던 주식 향방에 관심이 높아지고 있다. 온라인상에서는 상장폐지가 확정되면 보유하고 있던 주식을 더 이상 거래할 방법이 없어 한순간에 평가금액이 '0'원으로 전락하는 것 아니냐는 우려도 나온다. 하지만 상장폐지가 기업의 소멸을 의미하는 것이 아니기 때문에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '선거조작설' 황교안 "용지에 투표관리관 개인 도장 찍혀야 유효"? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220524204707078</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220520060222353"/>
         <updated>2022-05-24T02:05:54.744Z</updated>
         <content type="html"><![CDATA[지난 10일 서울역 대합실에서 시민들이 제20대 윤석열 대통령의 취임식 중계방송을 시청하고 있다. 연합뉴스  2022년 5월 10일 윤석열 대통령 취임식은 순간 시청률이&nbsp;17%대로 나타났다. 역대 대통령 취임식 시청률과 비교하면 어떠한가.&nbsp; 19일 시청률 조사업체&nbsp;TNMS에 따르면 지난 10일&nbsp;오전&nbsp;11시&nbsp;11분쯤 지상파(KBS·SBS·MBC), 종합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열 출퇴근 때문에 '용산 차막힘' 검색 통제" 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220519180000937</id>
-        <link href="https://v.daum.net/v/20220519180000937"/>
-        <updated>2022-05-24T02:05:54.746Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;19일 주요 인터넷 커뮤니티와 소셜미디어에는 구글과 달리 네이버, 다음 등 국내 포털 사이트에서 ‘용산 차막힘’을 검색하면 변기 사진만 뜬다는 지적이 잇달았다. 사진은 18일 오후 6시경 딴지일보 페이스북 계정으로 올라온 사진.    ⓒ 딴지일보 페이스북  &nbsp;&nbsp; [검증대상] "윤석열 출퇴근 때문에 '용산 차막힘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5·18 왜곡 처벌법 시행됐지만..유언비어 여전 (다음 뉴스 ─ SBS 사실은)]]></title>
