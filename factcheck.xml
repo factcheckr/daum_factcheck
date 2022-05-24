@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-24T17:31:11.225Z</updated>
+    <updated>2022-05-24T18:32:34.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '선거조작설' 황교안 "용지에 투표관리관 개인 도장 찍혀야 유효"?]]></title>
         <id>https://v.daum.net/v/20220524204707078</id>
