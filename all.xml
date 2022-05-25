@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-25T11:23:28.429Z</updated>
+    <updated>2022-05-25T13:57:19.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220525215824176</id>
+        <link href="https://v.daum.net/v/20220525215824176"/>
+        <updated>2022-05-25T13:56:12.965Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 공약이행률과 관련한 팩트체크, 심층취재팀 윤경재 기자입니다. [리포트] 지난 16일 더불어민주당 양문석 경남지사 후보가 "김경수 전 경남지사의 공약이행률은 100%다"라고 말했습니다. 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220525194103134</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220523164611687"/>
         <updated>2022-05-24T02:05:54.736Z</updated>
         <content type="html"><![CDATA[아프리카의 풍토병이었던 '원숭이두창'이 최근 세계 각지에서 발견되면서 보건당국이 긴장하고 있습니다. 세계보건기구(WHO)에 따르면 지난 21일 기준 아프리카 지역 국가를 비롯해 총 13개국에서 79명이 확진됐고 의심 증상을 보이는 환자는 64명으로 집계됐습니다. 이후에도 이스라엘과 오스트리아 등에서 의심환자와 확진자가 추가로 나오는 등 '이례적'으로 유행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] "기재부 원망스러워"..'11조 돈벼락' 맞고 울상인 교육청 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220523160624082</id>
-        <link href="https://v.daum.net/v/20220523160624082"/>
-        <updated>2022-05-24T02:05:54.737Z</updated>
-        <content type="html"><![CDATA[“기재부(기획재정부)가 왜 그랬는지 물어보고 싶어요.” 한 지방 교육청에서 예산 편성 업무를 담당하는 사무관은 &lt;한겨레&gt;와 통화하며 한숨을 내쉬었다. 새 정부가 출범 직후 대규모 추가경정예산(이하 추경) 편성을 추진하며 각 지방자치단체와 지방 교육청도 20조원 넘는 돈을 지원받게 됐다. 예산이 늘어나면 좋을 것 같지만, 현장 분위기는 딴판이다. 돈 쓸 곳을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5·18 왜곡 처벌법 시행됐지만..유언비어 여전 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,9 +244,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA["김경수 공약이행률 100%?"..매니페스토 기준은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220525215824176</id>
+        <link href="https://v.daum.net/v/20220525215824176"/>
+        <updated>2022-05-25T13:56:42.532Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 공약이행률과 관련한 팩트체크, 심층취재팀 윤경재 기자입니다. [리포트] 지난 16일 더불어민주당 양문석 경남지사 후보가 "김경수 전 경남지사의 공약이행률은 100%다"라고 말했습니다. 지난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["김경수 공약이행률 100%?"..매니페스토 기준은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220525194103134</id>
         <link href="https://v.daum.net/v/20220525194103134"/>
-        <updated>2022-05-25T11:22:41.335Z</updated>
+        <updated>2022-05-25T11:22:01.634Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 오늘은 심층취재팀과 공약이행률을, 팩트체크해보겠습니다. 윤경재 기자, 자치단체장이 공약을 얼마만큼 이행했는지가 어떻게 발표되는지 알려주시죠. [기자] 가장 공신력 있고 많이 인용되는 곳이]]></content>
     </entry>
     <entry>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220427070058432"/>
         <updated>2022-04-26T22:23:42.405Z</updated>
         <content type="html"><![CDATA[지난 25일부터 코로나19가 감염병 최고등급인 '1급'에서 '2급'으로 하향 조정됐습니다. 콜레라와 장티푸스, 결핵,  홍역 등과 같은 등급입니다. 방역 당국은 본격적인 일상 회복을 위해 감염병 등급을 조정하고 단계적으로 격리의무를 해제하기로 했습니다. 높은 백신 접종률과 먹는 치료제 보급 등 코로나19 발생 초기보다 대응 수단이 강화됐다는 게 주된 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박종훈 교육감 시대 학력 저하" 공방..진실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220419081648775</id>
-        <link href="https://v.daum.net/v/20220419081648775"/>
-        <updated>2022-04-18T23:19:24.395Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
