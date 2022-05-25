@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-25T02:05:33.061Z</updated>
+    <updated>2022-05-25T03:52:00.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 미국에선 응답률 15% 이하 여론조사는 발표 못 하게 한다?]]></title>
+        <id>https://v.daum.net/v/20220525121509170</id>
+        <link href="https://v.daum.net/v/20220525121509170"/>
+        <updated>2022-05-25T03:50:57.183Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 인천 계양을 국회의원 보궐선거에 출마한 더불어민주당 이재명 후보는 24일 KBS 라디오 '최경영의 최강시사'에서 "ARS(전화자동응답) 조사는 응답률이 1∼2%대에 불과해 정확도가 매우 떨어지고 적극적인 사람들만 받는다"며 "미국에서 10%인가 15% 이하 응답률 여론조사는 발표를 못 하게 하고 있다. 워낙 악용이 많이 되]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 상장폐지된 내 주식, 가치는 0원?]]></title>
         <id>https://v.daum.net/v/20220525060030237</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220520094508953"/>
         <updated>2022-05-24T02:05:54.742Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 더불어민주당 선대위 공동총괄본부장인 김민석 국회의원은 19일 YTN 라디오에 출연해 이틀 앞으로 다가온 한미정상회담에 대해 "문재인 대통령 시절에 만든 정상회담이기는 하지만 그 효과는 윤석열 대통령께서 누리실 것"이라고 말했다. 윤석열 정부가 출범하자마자 한미정상회담을 할 수 있게 준비한 건 문재인 정부인데, 정치적 성과는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[436만명이 본 윤석열 대통령 취임식.. 역대 최저 시청률일까 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220520060222353</id>
-        <link href="https://v.daum.net/v/20220520060222353"/>
-        <updated>2022-05-24T02:05:54.744Z</updated>
-        <content type="html"><![CDATA[지난 10일 서울역 대합실에서 시민들이 제20대 윤석열 대통령의 취임식 중계방송을 시청하고 있다. 연합뉴스  2022년 5월 10일 윤석열 대통령 취임식은 순간 시청률이&nbsp;17%대로 나타났다. 역대 대통령 취임식 시청률과 비교하면 어떠한가.&nbsp; 19일 시청률 조사업체&nbsp;TNMS에 따르면 지난 10일&nbsp;오전&nbsp;11시&nbsp;11분쯤 지상파(KBS·SBS·MBC), 종합]]></content>
     </entry>
 </feed>
