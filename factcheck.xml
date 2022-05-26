@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-25T23:25:58.625Z</updated>
+    <updated>2022-05-26T02:12:27.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은?]]></title>
+        <id>https://v.daum.net/v/20220526082937195</id>
+        <link href="https://v.daum.net/v/20220526082937195"/>
+        <updated>2022-05-26T02:11:22.360Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은?]]></title>
         <id>https://v.daum.net/v/20220525215824176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220523201546461"/>
         <updated>2022-05-24T02:05:54.734Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 얼마 전 배우 김새론 씨가 음주운전에 걸리자 정확한 측정을 한다며 채혈을 요구한 사실이 알려지며 일부 논란도 있었는데요. 그럼 실제로 채혈검사를 하면 호흡 측정보다 알코올 수치가 더 내려간다는 말이 사실일까요? 표선우 기자가 사실확인에서 알아봤습니다. 【 기자 】 혈중알코올농도를 측정하는 방법엔 두 가지가 있습니다. 채혈 측]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] '원숭이두창'에 대한 13가지 궁금증]]></title>
-        <id>https://v.daum.net/v/20220523164611687</id>
-        <link href="https://v.daum.net/v/20220523164611687"/>
-        <updated>2022-05-24T02:05:54.736Z</updated>
-        <content type="html"><![CDATA[아프리카의 풍토병이었던 '원숭이두창'이 최근 세계 각지에서 발견되면서 보건당국이 긴장하고 있습니다. 세계보건기구(WHO)에 따르면 지난 21일 기준 아프리카 지역 국가를 비롯해 총 13개국에서 79명이 확진됐고 의심 증상을 보이는 환자는 64명으로 집계됐습니다. 이후에도 이스라엘과 오스트리아 등에서 의심환자와 확진자가 추가로 나오는 등 '이례적'으로 유행]]></content>
     </entry>
 </feed>
