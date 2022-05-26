@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-05-26T11:22:20.237Z</updated>
+    <updated>2022-05-26T12:47:52.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유세차 소음, 전투기 소리보다 시끄러워도 된다?]]></title>
+        <id>https://v.daum.net/v/20220526202405585</id>
+        <link href="https://v.daum.net/v/20220526202405585"/>
+        <updated>2022-05-26T12:47:51.496Z</updated>
+        <content type="html"><![CDATA[[앵커] 공식 선거 운동이 시작된 뒤, 전국 곳곳에서 유세 차량에서 나오는 소리가 너무 크다, 기찻길 옆에 있는 것 같다, 이런 불만들이 잇따르고 있다고 합니다. 이번 선거는 선거운동 소음에 대한 규제가 적용되는 첫 선거인데 "전보다 더 시끄러워 진 것 같다"는 얘기도 나오는 이유가 뭔지 팩트체크 해보겠습니다. 이지은 기자, 새로 적용된 소음 기준이 뭔지부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선거조작설' 황교안 "용지에 투표관리관 개인 도장 찍혀야 유효"?]]></title>
         <id>https://v.daum.net/v/20220524204707078</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220418195007190"/>
         <updated>2022-04-18T12:41:18.402Z</updated>
         <content type="html"><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["10명 중 1명 결혼" 저출생 원인은 20대 여성?]]></title>
-        <id>https://v.daum.net/v/20220412202613088</id>
-        <link href="https://v.daum.net/v/20220412202613088"/>
-        <updated>2022-04-12T12:41:35.921Z</updated>
-        <content type="html"><![CDATA[[앵커] 정호영 후보자의 또 다른 과거 글에, 출산율이 낮은 이유를 여성에게 돌리는 듯한 내용이 있고, 여러 근거도 들었다는데요. 바로 팩트체크 해보겠습니다. 이지은 기자 나와있습니다. 먼저 정 후보자가 "출산율이 더 이상 올라갈 기미를 보이지 않는다"면서 "20대 여성 10명 중 겨우 1명이 결혼을 했다"고 했는데 한 명이 맞습니까? [기자] 결론부터 말]]></content>
     </entry>
 </feed>

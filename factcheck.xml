@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-26T11:22:20.242Z</updated>
+    <updated>2022-05-26T12:47:52.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 지자체장, 40만 명 인사권 '쥐락펴락']]></title>
+        <id>https://v.daum.net/v/20220526212406743</id>
+        <link href="https://v.daum.net/v/20220526212406743"/>
+        <updated>2022-05-26T12:46:48.811Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 내일(27일)부터 지방선거 사전투표가 이뤄지는데, 이번에는 우리가 뽑는 지역 일꾼 지방자치단체장들이 얼마나 막대한 인사권을 행사하는 자리인지 살펴보겠습니다. SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀의 연속 보도, 이경원 기자입니다. &lt;기자&gt; 서울시청 소속 공무원, 최근 통계 기준으로 1만 1천여 명입니다. 이들에 대한 인사권, 당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 유세차 소음, 전투기 소리보다 시끄러워도 된다?]]></title>
+        <id>https://v.daum.net/v/20220526202405585</id>
+        <link href="https://v.daum.net/v/20220526202405585"/>
+        <updated>2022-05-26T12:46:48.813Z</updated>
+        <content type="html"><![CDATA[[앵커] 공식 선거 운동이 시작된 뒤, 전국 곳곳에서 유세 차량에서 나오는 소리가 너무 크다, 기찻길 옆에 있는 것 같다, 이런 불만들이 잇따르고 있다고 합니다. 이번 선거는 선거운동 소음에 대한 규제가 적용되는 첫 선거인데 "전보다 더 시끄러워 진 것 같다"는 얘기도 나오는 이유가 뭔지 팩트체크 해보겠습니다. 이지은 기자, 새로 적용된 소음 기준이 뭔지부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정체불명 '정책지원금' 문자, 진짜 정부지원금일까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220526160222217</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220525142101620"/>
         <updated>2022-05-25T05:28:27.034Z</updated>
         <content type="html"><![CDATA[핵심요약오세훈 "지난 1년간 보류·폐기된 공약 단 한 건도 없다" 홍보 당선 이후 폐기된 공약 있어, 지난해 시민에게 조정 승인 요청 공약 폐기 3건, 일부 폐기 2건, 변경 5건 총 12건 "선거 일부 공약, 검토 과정서 무리한 부분이 있었다""지난해 시민들께 약속드린 공약 189개 중 단 한 건도 보류하거나 폐기된 공약이 없다". 지난 17일 관훈토론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 미국에선 응답률 15% 이하 여론조사는 발표 못 하게 한다?]]></title>
-        <id>https://v.daum.net/v/20220525121509170</id>
-        <link href="https://v.daum.net/v/20220525121509170"/>
-        <updated>2022-05-25T03:50:57.183Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 인천 계양을 국회의원 보궐선거에 출마한 더불어민주당 이재명 후보는 24일 KBS 라디오 '최경영의 최강시사'에서 "ARS(전화자동응답) 조사는 응답률이 1∼2%대에 불과해 정확도가 매우 떨어지고 적극적인 사람들만 받는다"며 "미국에서 10%인가 15% 이하 응답률 여론조사는 발표를 못 하게 하고 있다. 워낙 악용이 많이 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 상장폐지된 내 주식, 가치는 0원?]]></title>
-        <id>https://v.daum.net/v/20220525060030237</id>
-        <link href="https://v.daum.net/v/20220525060030237"/>
-        <updated>2022-05-26T10:26:30.945Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 고정삼 기자] 최근 상장사들이 자진 상장폐지에 나서면서 상장폐지 이후 주주들이 보유하고 있던 주식 향방에 관심이 높아지고 있다. 온라인상에서는 상장폐지가 확정되면 보유하고 있던 주식을 더 이상 거래할 방법이 없어 한순간에 평가금액이 '0'원으로 전락하는 것 아니냐는 우려도 나온다. 하지만 상장폐지가 기업의 소멸을 의미하는 것이 아니기 때문에]]></content>
     </entry>
 </feed>
