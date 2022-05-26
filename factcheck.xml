@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-26T05:28:05.580Z</updated>
+    <updated>2022-05-26T06:31:45.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 정은경, 퇴임하며 "백신 접종 위해 국민 속였다" 고백?]]></title>
+        <id>https://v.daum.net/v/20220526145008617</id>
+        <link href="https://v.daum.net/v/20220526145008617"/>
+        <updated>2022-05-26T06:30:43.098Z</updated>
+        <content type="html"><![CDATA[지난 17일 퇴임한 정은경 전 질병관리청장은 2020년 1월 국내 첫 코로나19 환자가 발생한 이후 2년 4개월 동안 'K-방역'을 이끌었습니다. 전대미문의 코로나19 상황에서 머리가 하얘질 정도로 고군분투했기에 정 청장의 퇴임은 언론매체들의 주목을 받기에 충분했습니다. 그런데 퇴임 후 인터넷 공간에서는 돌연  '정은경 양심 고별사'라는 제목의 게시물이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 21대 빼곤 국회의장·법사위원장 소속정당 한 번도 같지 않았다?]]></title>
         <id>https://v.daum.net/v/20220526121442904</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220524204707078"/>
         <updated>2022-05-24T12:49:35.141Z</updated>
         <content type="html"><![CDATA[[앵커] 검찰 고위직에 법무부 장관 그리고 국무총리까지 지낸 황교안 전 자유한국당 대표가 '선거조작설'을 주장하고 있습니다. 또 '부정선거 방지 꿀팁'이라는 신문 광고에도 등장했습니다. 특히 이 광고는 팩트체크를 하지 않을 수가 없습니다. 이지은 기자, 광고 내용부터 볼까요? [기자] 황교안 전 총리가 대표로 있는 부정선거 방지대라는 단체에서 낸 광고입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원전 대개 80년, 100년 쓴다" 박형준 주장 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220523220301809</id>
-        <link href="https://v.daum.net/v/20220523220301809"/>
-        <updated>2022-05-24T02:05:54.726Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 소속인 박형준 부산시장이 6.1지방선거 후보자 등록일인 12일 부산시의회에서 출마선언을 하고 있다.    ⓒ 김보성  &nbsp; [검증대상] 박형준 부산시장 후보 "세계 원전 대개 80년, 100년 쓴다" 박형준 국민의힘 부산시장 후보는 지난 13일 &lt;오마이뉴스&gt; 인터뷰에서 고리원자력발전소 2호기 계속 운전 문제와 관련]]></content>
     </entry>
 </feed>
