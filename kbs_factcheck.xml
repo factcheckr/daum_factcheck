@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-05-30T12:48:17.129Z</updated>
+    <updated>2022-05-30T13:47:18.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은?]]></title>
+        <id>https://v.daum.net/v/20220530221003286</id>
+        <link href="https://v.daum.net/v/20220530221003286"/>
+        <updated>2022-05-30T13:46:45.730Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은?]]></title>
         <id>https://v.daum.net/v/20220530194309477</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220505083153849"/>
         <updated>2022-05-05T01:57:29.839Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3차 접종하고 확진된 사람도 '4차 접종' 해야 한다?]]></title>
-        <id>https://v.daum.net/v/20220505070022891</id>
-        <link href="https://v.daum.net/v/20220505070022891"/>
-        <updated>2022-05-04T22:25:05.997Z</updated>
-        <content type="html"><![CDATA[코로나19 백신 4차 접종자가 240만 명을 넘었습니다(2022.05.04. 0시 기준 2,440,981명). 4차 접종은 지난 2월 14일부터 요양병원 환자와 면역저하자 등을 대상으로 먼저 실시되다가 지난달 14일 60세 이상 가운데 3차 접종 후 120일이 지난 사람으로 접종 대상이 확대됐습니다. 지난달 25일부터는 본격적인 예약 접종이 이뤄졌고,]]></content>
     </entry>
 </feed>
