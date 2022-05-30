@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-29T23:25:17.914Z</updated>
+    <updated>2022-05-30T02:11:24.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 인기식지 않는 '포켓몬 빵' sns에 재판매는 불법?]]></title>
+        <id>https://v.daum.net/v/20220530090600285</id>
+        <link href="https://v.daum.net/v/20220530090600285"/>
+        <updated>2022-05-30T02:10:04.828Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 인기식지 않는 '포켓몬 빵' sn]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 선거운동 유세차량 '소음 규제' 못 한다?]]></title>
         <id>https://v.daum.net/v/20220528201739725</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220526082937195"/>
         <updated>2022-05-26T02:11:22.360Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] "김경수 공약이행률 100%?"..매니페스토 기준은?]]></title>
-        <id>https://v.daum.net/v/20220525215824176</id>
-        <link href="https://v.daum.net/v/20220525215824176"/>
-        <updated>2022-05-25T13:56:12.965Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 공약이행률과 관련한 팩트체크, 심층취재팀 윤경재 기자입니다. [리포트] 지난 16일 더불어민주당 양문석 경남지사 후보가 "김경수 전 경남지사의 공약이행률은 100%다"라고 말했습니다. 지난]]></content>
     </entry>
 </feed>
