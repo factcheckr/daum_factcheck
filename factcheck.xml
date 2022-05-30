@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-30T10:31:31.852Z</updated>
+    <updated>2022-05-30T11:23:19.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리']]></title>
+        <id>https://v.daum.net/v/20220530195423654</id>
+        <link href="https://v.daum.net/v/20220530195423654"/>
+        <updated>2022-05-30T11:22:02.547Z</updated>
+        <content type="html"><![CDATA[[앵커] 바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다. 이지은 기자가 팩트체크를 해왔습니다. 소셜미디어에 이 내용을 쓴 거죠? [기자] "김포공항과 인천공항은 고속전철로 10여 분 거리, 33.5㎞다"라고 썼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 창원 제조업 경기 'V 반등' vs 'L 침체', 사실은?]]></title>
+        <id>https://v.daum.net/v/20220530194309477</id>
+        <link href="https://v.daum.net/v/20220530194309477"/>
+        <updated>2022-05-30T11:22:02.550Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 남녀고용평등법 개정안은 '민주당 페미법'?]]></title>
         <id>https://v.daum.net/v/20220530181906581</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220526160222217"/>
         <updated>2022-05-26T07:23:41.929Z</updated>
         <content type="html"><![CDATA[‘긴급생활 안정자금’, ‘방역지원금’, ‘상생소비 지원금’&nbsp;신청 대상이라며 오는 문자는 진짜로 정부지원금 안내문자일까? 은행이나 저축은행 등 금융회사 명의로&nbsp;정책자금 신청대상인데도&nbsp;현재까지 신청하지 않은 것으로 확인된다면서 인터넷주소(URL)를 첨부한 문자를 보면 얼핏 솔깃해지기도 한다. 그러나 이렇게 오는 인터넷주소를 클릭하거나 전화상담을 걸어선 안된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 정은경, 퇴임하며 "백신 접종 위해 국민 속였다" 고백?]]></title>
-        <id>https://v.daum.net/v/20220526145008617</id>
-        <link href="https://v.daum.net/v/20220526145008617"/>
-        <updated>2022-05-26T06:30:43.098Z</updated>
-        <content type="html"><![CDATA[지난 17일 퇴임한 정은경 전 질병관리청장은 2020년 1월 국내 첫 코로나19 환자가 발생한 이후 2년 4개월 동안 'K-방역'을 이끌었습니다. 전대미문의 코로나19 상황에서 머리가 하얘질 정도로 고군분투했기에 정 청장의 퇴임은 언론매체들의 주목을 받기에 충분했습니다. 그런데 퇴임 후 인터넷 공간에서는 돌연  '정은경 양심 고별사'라는 제목의 게시물이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 21대 빼곤 국회의장·법사위원장 소속정당 한 번도 같지 않았다?]]></title>
-        <id>https://v.daum.net/v/20220526121442904</id>
-        <link href="https://v.daum.net/v/20220526121442904"/>
-        <updated>2022-05-26T03:53:46.080Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 제21대 국회의 후반기 원 구성을 둘러싼 여야 간 신경전이 날카롭다. 법률안에 대한 체계·자구 심사 권한을 내세워 주요 법안 처리의 향배를 좌우해온 법제사법위원회 위원장을 어느 당이 맡을지가 관건이다. 국민의힘 김기현 공동선대위원장은 25일 MBC 라디오 인터뷰에서 "국회 상임위원장을 의석에 따라 배분하기 시작한 게 DJ(김]]></content>
     </entry>
 </feed>
