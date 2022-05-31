@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-05-31T11:22:29.698Z</updated>
+    <updated>2022-05-31T12:48:06.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지방선거 투입된 나랏돈 대선의 2.7배]]></title>
+        <id>https://v.daum.net/v/20220531210610634</id>
+        <link href="https://v.daum.net/v/20220531210610634"/>
+        <updated>2022-05-31T12:47:15.639Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 선거를 치를 때마다 많은 나랏돈을 쓰게 되는데요. 특히 내일(1일)로 다가온 지방선거 같은 경우는 더욱 그렇습니다. 왜 그런지, SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀이 분석했습니다. 이경원 기자입니다. &lt;기자&gt; 선거를 앞두고 후보 등록이 끝나면, 국회의원 배출한 정당들 중심으로 선거 보조금을 받습니다. 선거일 보름 전쯤에 줍니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지자체장, 40만 명 인사권 '쥐락펴락']]></title>
         <id>https://v.daum.net/v/20220526212406743</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220408160000734"/>
         <updated>2022-04-08T07:22:56.621Z</updated>
         <content type="html"><![CDATA[문재인 대통령의 부인 김정숙 여사의 의상 비용을 둘러싼 논란이 불거졌습니다. 시민단체 한국납세자연맹은 김 여사의 옷값을 비롯한 의전 비용이 국가 예산인 특수활동비, 특활비에서 지출됐을 거라는 의구심을 제기했고, 지난 2019년 특활비 사용 내역을 공개하라며 소송을 냈습니다. 최근 법원은 공개하라고 판결했지만, 청와대는 불복해 항소했습니다. 국민의힘과 보수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴, 전범 재판 법정에 세울 수 있을까]]></title>
-        <id>https://v.daum.net/v/20220406174807113</id>
-        <link href="https://v.daum.net/v/20220406174807113"/>
-        <updated>2022-04-06T09:24:37.672Z</updated>
-        <content type="html"><![CDATA[우크라이나 수도 키이우 근처에서 참혹하게 숨진 민간인들 시신 수백 구가 수습됐습니다. 러시아군이 점령했던 '부차'라는 지역입니다. 옷이 벗겨지거나 손이 묶이고, 고문을 당한 흔적이 뚜렷한 시신들도 상당수로 알려졌는데, 국제 사회는 러시아가 민간을 학살한 명백한 증거라며 분노하고 있습니다. 물론, 러시아는 영상이 조작됐다며 학살을 부인하고 있습니다. 바이든]]></content>
     </entry>
 </feed>

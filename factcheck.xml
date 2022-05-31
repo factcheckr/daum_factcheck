@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-31T11:22:29.700Z</updated>
+    <updated>2022-05-31T12:48:06.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스AS] 임금피크제로 청년 채용 늘어난다?..거짓말이었다]]></title>
+        <title type="html"><![CDATA[[사실은] 지방선거 투입된 나랏돈 대선의 2.7배]]></title>
+        <id>https://v.daum.net/v/20220531210610634</id>
+        <link href="https://v.daum.net/v/20220531210610634"/>
+        <updated>2022-05-31T12:47:05.090Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 선거를 치를 때마다 많은 나랏돈을 쓰게 되는데요. 특히 내일(1일)로 다가온 지방선거 같은 경우는 더욱 그렇습니다. 왜 그런지, SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀이 분석했습니다. 이경원 기자입니다. &lt;기자&gt; 선거를 앞두고 후보 등록이 끝나면, 국회의원 배출한 정당들 중심으로 선거 보조금을 받습니다. 선거일 보름 전쯤에 줍니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 임금피크제가 청년 채용 늘린다?..거짓말이었다]]></title>
         <id>https://v.daum.net/v/20220531161601091</id>
         <link href="https://v.daum.net/v/20220531161601091"/>
         <updated>2022-05-31T08:40:04.546Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220530090406216"/>
         <updated>2022-05-30T09:27:40.097Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. '원숭이 두창' 핵심만 팩트체크 ◇ 김양원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 선거운동 유세차량 '소음 규제' 못 한다?]]></title>
-        <id>https://v.daum.net/v/20220528201739725</id>
-        <link href="https://v.daum.net/v/20220528201739725"/>
-        <updated>2022-05-28T11:20:55.532Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 지방선거가 코앞으로 다가오면서 거리에선 후보들과 유세차량들도 쉽게 볼 수 있죠. 그런데 유세차량 소리가 너무 커서 스트레스를 받는다는 불만도 많이 제기되고 있습니다. 유세차량 소리에 기준은 없는지, 또 소음을 단속할 방법은 없는지, 홍지호 기자가 사실확인에서 알아봤습니다. 【 기자 】 6.1 지방선거 선거운동이 시작되면서 인]]></content>
     </entry>
 </feed>
