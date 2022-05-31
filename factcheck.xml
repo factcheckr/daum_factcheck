@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-05-31T07:36:35.579Z</updated>
+    <updated>2022-05-31T08:42:24.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 임금피크제로 청년 채용 늘어난다?..거짓말이었다]]></title>
+        <id>https://v.daum.net/v/20220531161601091</id>
+        <link href="https://v.daum.net/v/20220531161601091"/>
+        <updated>2022-05-31T08:40:04.546Z</updated>
+        <content type="html"><![CDATA[“임금피크제는 장년층 고용 안정과 기업의 신규채용 여력 확보를 위해 꼭 필요합니다.” 2015년 박근혜 정부는 공공부문 임금피크제 도입 취지를 이렇게 설명했다. 2016년(300인 이상)~2017년(300인 미만) 법적 정년을 55살에서 60살로 연장하고 반드시 지키도록 의무화하는 일명 ‘정년연장법’(고용상 연령차별금지 및 고령자고용촉진에 관한 법률) 시행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 창원 제조업 'V 반등' vs 'L 침체'..사실은?]]></title>
         <id>https://v.daum.net/v/20220531083148616</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220528201739725"/>
         <updated>2022-05-28T11:20:55.532Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 지방선거가 코앞으로 다가오면서 거리에선 후보들과 유세차량들도 쉽게 볼 수 있죠. 그런데 유세차량 소리가 너무 커서 스트레스를 받는다는 불만도 많이 제기되고 있습니다. 유세차량 소리에 기준은 없는지, 또 소음을 단속할 방법은 없는지, 홍지호 기자가 사실확인에서 알아봤습니다. 【 기자 】 6.1 지방선거 선거운동이 시작되면서 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 지자체장, 40만 명 인사권 '쥐락펴락']]></title>
-        <id>https://v.daum.net/v/20220526212406743</id>
-        <link href="https://v.daum.net/v/20220526212406743"/>
-        <updated>2022-05-26T12:46:48.811Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 내일(27일)부터 지방선거 사전투표가 이뤄지는데, 이번에는 우리가 뽑는 지역 일꾼 지방자치단체장들이 얼마나 막대한 인사권을 행사하는 자리인지 살펴보겠습니다. SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀의 연속 보도, 이경원 기자입니다. &lt;기자&gt; 서울시청 소속 공무원, 최근 통계 기준으로 1만 1천여 명입니다. 이들에 대한 인사권, 당]]></content>
     </entry>
 </feed>
