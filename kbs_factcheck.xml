@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-05-31T02:09:14.164Z</updated>
+    <updated>2022-05-31T03:55:09.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창원 제조업 'V 반등' vs 'L 침체'..사실은?]]></title>
+        <id>https://v.daum.net/v/20220531083148616</id>
+        <link href="https://v.daum.net/v/20220531083148616"/>
+        <updated>2022-05-31T03:54:38.346Z</updated>
+        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은?]]></title>
         <id>https://v.daum.net/v/20220530221003286</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220512120101920"/>
         <updated>2022-05-12T03:48:16.054Z</updated>
         <content type="html"><![CDATA["출산율이 사망률을 웃돌게 하지 않으면 일본은 결국 사라질 것이다. 그런 일은 우리 세상에 큰 손실이 될 것이다." 미국 전기차 업체 테슬라 최고경영자인 일론 머스크가 최근 자신의 트위터를 통해 주장한 내용입니다. 해당 트윗은 지난해 일본의 인구가 64만 명 넘게 감소해 1950년 이후 가장 감소 폭이 컸고 11년 연속 확대되고 있다는 교도통신 기사를 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중·대선거구 늘어도 "군소 정당에 불리"..사실은?]]></title>
-        <id>https://v.daum.net/v/20220505083153849</id>
-        <link href="https://v.daum.net/v/20220505083153849"/>
-        <updated>2022-05-05T01:57:29.839Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
 </feed>
