@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-02T08:32:35.275Z</updated>
+    <updated>2022-06-02T09:29:18.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국 동포 밀집 지역만 민주당 후보가 당선됐다고?]]></title>
+        <id>https://v.daum.net/v/20220602180511846</id>
+        <link href="https://v.daum.net/v/20220602180511846"/>
+        <updated>2022-06-02T09:28:17.881Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 국민의힘이 6·1 지방선거에서 '압승'을 거둔 가운데 일부 인터넷 커뮤니티에 "경기도 지역 득표를 보니 조선족 밀집 지역만 파란색(더불어민주당)"이라는 글이 올라왔다. 앞서 작년에는 청와대 국민청원 게시판에 "외국인 선거권의 80%를 중국 국적자들이 소유하고 있다고 한다"며 지방선거 투표권을 국내 거주 외]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 지방선거 투입된 나랏돈 대선의 2.7배]]></title>
         <id>https://v.daum.net/v/20220531210610634</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220530090600285"/>
         <updated>2022-05-30T02:10:04.828Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 인기식지 않는 '포켓몬 빵' sn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '원숭이 두창' 핵심만 팩트체크]]></title>
-        <id>https://v.daum.net/v/20220530090406216</id>
-        <link href="https://v.daum.net/v/20220530090406216"/>
-        <updated>2022-05-30T09:27:40.097Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. '원숭이 두창' 핵심만 팩트체크 ◇ 김양원]]></content>
     </entry>
 </feed>
