@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-06-04T23:23:33.762Z</updated>
+    <updated>2022-06-05T02:14:05.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선과 지선 85일, 민심은 얼마나 변했을까]]></title>
+        <id>https://v.daum.net/v/20220605090300302</id>
+        <link href="https://v.daum.net/v/20220605090300302"/>
+        <updated>2022-06-05T02:11:18.457Z</updated>
+        <content type="html"><![CDATA[제8회 전국동시지방선거가 막을 내렸습니다. 국민의힘이 17개 시·도 광역단체장 가운데 12곳을 차지했습니다. '국민의힘 압승'이라는 평가가 나왔습니다. 더불민주당은 호남과 제주를 제외한 대부분 지역을 국민의힘에 내줬습니다. 다만, 최대 승부처로 꼽혔던 경기지사의 경우 막판 대역전을 통해 체면치레를 했습니다. 특히, 이번 선거는 지난 3월 대통령 선거가 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지방선거 투입된 나랏돈 대선의 2.7배]]></title>
         <id>https://v.daum.net/v/20220531210610634</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220412102100316"/>
         <updated>2022-04-12T01:49:04.145Z</updated>
         <content type="html"><![CDATA[대통령직인수위원회가 '여성가족부 폐지'를 포함한 정부 조직 개편을 새 정부 출범 이후로 미루기로 했습니다. 새 정부의 내각 인선은 기존 정부 조직을 기준으로 이뤄지고 있습니다. 지난 10일, 윤석열 정부 첫 여성가족부 장관에는 박근혜 정부 청와대 고용복지수석을 지낸 김현숙 당선인 정책특보가 발탁됐습니다. 어제, 국민의힘 권성동 원내대표는 "여가부 폐지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깜깜이' 특수활동비 40% 줄었다, 사실은?]]></title>
-        <id>https://v.daum.net/v/20220408160000734</id>
-        <link href="https://v.daum.net/v/20220408160000734"/>
-        <updated>2022-04-08T07:22:56.621Z</updated>
-        <content type="html"><![CDATA[문재인 대통령의 부인 김정숙 여사의 의상 비용을 둘러싼 논란이 불거졌습니다. 시민단체 한국납세자연맹은 김 여사의 옷값을 비롯한 의전 비용이 국가 예산인 특수활동비, 특활비에서 지출됐을 거라는 의구심을 제기했고, 지난 2019년 특활비 사용 내역을 공개하라며 소송을 냈습니다. 최근 법원은 공개하라고 판결했지만, 청와대는 불복해 항소했습니다. 국민의힘과 보수]]></content>
     </entry>
 </feed>

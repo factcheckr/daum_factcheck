@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-04T23:23:33.764Z</updated>
+    <updated>2022-06-05T02:14:04.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 대선과 지선 85일, 민심은 얼마나 변했을까]]></title>
+        <id>https://v.daum.net/v/20220605090300302</id>
+        <link href="https://v.daum.net/v/20220605090300302"/>
+        <updated>2022-06-05T02:11:06.398Z</updated>
+        <content type="html"><![CDATA[제8회 전국동시지방선거가 막을 내렸습니다. 국민의힘이 17개 시·도 광역단체장 가운데 12곳을 차지했습니다. '국민의힘 압승'이라는 평가가 나왔습니다. 더불민주당은 호남과 제주를 제외한 대부분 지역을 국민의힘에 내줬습니다. 다만, 최대 승부처로 꼽혔던 경기지사의 경우 막판 대역전을 통해 체면치레를 했습니다. 특히, 이번 선거는 지난 3월 대통령 선거가 치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] '희망고문'된 손실보상 소급적용..왜 안 될까?]]></title>
         <id>https://v.daum.net/v/20220603101031053</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220530194309477"/>
         <updated>2022-05-30T11:22:02.550Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 남녀고용평등법 개정안은 '민주당 페미법'?]]></title>
-        <id>https://v.daum.net/v/20220530181906581</id>
-        <link href="https://v.daum.net/v/20220530181906581"/>
-        <updated>2022-05-30T09:27:40.090Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 5월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 남녀고용평등법 개정안은 '민주당]]></content>
     </entry>
 </feed>
