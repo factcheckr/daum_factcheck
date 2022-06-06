@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-06T11:20:13.817Z</updated>
+    <updated>2022-06-06T12:49:41.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 관세 0%로 내리면 수입 돼지고기값 20% 하락? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220606202007866</id>
+        <link href="https://v.daum.net/v/20220606202007866"/>
+        <updated>2022-06-06T12:48:38.252Z</updated>
+        <content type="html"><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 대선과 지선 85일, 민심은 얼마나 변했을까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220605090300302</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220530195423654"/>
         <updated>2022-05-30T11:22:02.547Z</updated>
         <content type="html"><![CDATA[[앵커] 바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다. 이지은 기자가 팩트체크를 해왔습니다. 소셜미디어에 이 내용을 쓴 거죠? [기자] "김포공항과 인천공항은 고속전철로 10여 분 거리, 33.5㎞다"라고 썼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 창원 제조업 경기 'V 반등' vs 'L 침체', 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220530194309477</id>
-        <link href="https://v.daum.net/v/20220530194309477"/>
-        <updated>2022-05-30T11:22:02.550Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선과 지선 85일, 민심은 얼마나 변했을까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;        ▲ &nbsp;이준석 국민의힘 대표가 13일 오후 서울 마포구 상암동 &lt;제이티비씨&gt;(JTBC)에서 박경석 전국장애인차별철폐연대(전장연) 상임공동대표와 ‘썰전라이브’ 생방송 일대일 토론을 하고 있다.    ⓒ 사진공동취재단  &nbsp; [검증대상] 저상버스 교체 기간 '10~11년'과 '5~7년' 사이 &nbsp;- 이준석 "시내버스가 어떻게 10년]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[관세 0%로 내리면 수입 돼지고기값 20% 하락? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220606202007866</id>
+        <link href="https://v.daum.net/v/20220606202007866"/>
+        <updated>2022-06-06T12:49:41.452Z</updated>
+        <content type="html"><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220530195423654</id>
         <link href="https://v.daum.net/v/20220530195423654"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220425195516964"/>
         <updated>2022-04-25T11:20:27.266Z</updated>
         <content type="html"><![CDATA[[앵커] 바로 팩트체크를 이어가겠습니다. 민주당이 문재인 정부의 총리 청문회 때에 비해서 3~4배나 많은 자료를 요구했다, 이게 국민의힘의 주장인데, 이지은 기자가 나와 있습니다. 이 주장, 확인해봤죠? [기자] 먼저 검증해볼 주장은 이겁니다. 발언부터 보시죠. [김미애/국민의힘 의원 : 총 1090여 건 요청되었고, (문재인 정부 때 총리 후보자들이) 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실수령액 외 아무것도 안 받았다더니..김앤장 고문 때 차량 받아 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220420201505491</id>
-        <link href="https://v.daum.net/v/20220420201505491"/>
-        <updated>2022-04-20T11:20:06.014Z</updated>
-        <content type="html"><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content>
     </entry>
 </feed>
