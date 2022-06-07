@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-07T11:21:15.517Z</updated>
+    <updated>2022-06-07T12:50:37.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스웨덴선 약속 없이 온 손님에게는 밥을 안준다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220607210206908</id>
+        <link href="https://v.daum.net/v/20220607210206908"/>
+        <updated>2022-06-07T12:48:34.074Z</updated>
+        <content type="html"><![CDATA[주한 스웨덴대사관은 지난 1일 인스타그램에 디저트와 찻잔이 놓인 식탁 사진과 함께 ‘스웨덴 게이트’와 관련한 설명을 올렸다. 대사관은 스웨덴 게이트에 대해 “스웨덴 사람들과의 ‘피카’(fika) 경험이 없어서 나온 말이 아닐까 싶다”며 여러 사람이 커피와 디저트를 즐기는 스웨덴의 피카 문화를 소개했다. 주한 스웨덴대사 인스타그램 캡처  “스웨덴 친구네]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일부터 공항 문 밤새 여는데..항공권 값은 언제쯤 떨어질까 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220607164511485</id>
+        <link href="https://v.daum.net/v/20220607164511485"/>
+        <updated>2022-06-07T12:48:34.074Z</updated>
+        <content type="html"><![CDATA[국토교통부가 8일부터 코로나19로 닫았던 항공 운항 규제를 풀면서 여행가고 싶은 마음에 불을 붙였다. 항공·여행업계는 유가가 급등하고 공급 대비 수요가 많은 휴가철까지는 항공권 가격이 여전히 비쌀 수 있다고 보지만, 운항 편수가 늘면 저가 상품을 포함해 소비자들의 항공권 선택권이 점차 다양해질 것으로 내다보고 있다. 8일부터 인천공항의 시간당 항공기 도착편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 관세 0%로 내리면 수입 돼지고기값 20% 하락?]]></title>
         <id>https://v.daum.net/v/20220606202007866</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220530221003286"/>
         <updated>2022-05-30T13:46:19.252Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김포-인천공항, 고속전철로 10여분 거리" 이재명 주장 '대체로 사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220530210300588</id>
-        <link href="https://v.daum.net/v/20220530210300588"/>
-        <updated>2022-05-30T12:47:13.959Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;더불어민주당 송영길 서울시장 후보(왼쪽 두번째), 이재명 인천 계양을 국회의원 후보(왼쪽 세번째)가 지난 27일 김포시 고촌읍 아라 김포여객터미널 아라마린센터 앞 수변광장에서 김포공항 이전 수도권 서부 대개발 정책협약 기자회견을 하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "김포공항-인천공항, 고속전철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리']]></title>
-        <id>https://v.daum.net/v/20220530195423654</id>
-        <link href="https://v.daum.net/v/20220530195423654"/>
-        <updated>2022-05-30T11:22:02.547Z</updated>
-        <content type="html"><![CDATA[[앵커] 바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다. 이지은 기자가 팩트체크를 해왔습니다. 소셜미디어에 이 내용을 쓴 거죠? [기자] "김포공항과 인천공항은 고속전철로 10여 분 거리, 33.5㎞다"라고 썼]]></content>
     </entry>
 </feed>
