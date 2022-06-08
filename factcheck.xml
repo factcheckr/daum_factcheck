@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-08T10:27:11.222Z</updated>
+    <updated>2022-06-08T11:19:59.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 민변으로 도배? 따져보니..]]></title>
+        <id>https://v.daum.net/v/20220608200709483</id>
+        <link href="https://v.daum.net/v/20220608200709483"/>
+        <updated>2022-06-08T11:18:59.716Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부의 요직에 검찰출신 인사들이 너무 많다는 비판이 일자, 윤석열 대통령이 과거엔 '민변' 출신 법조인들이 많았다고 반박했죠. 과연 이 민변 출신 인사들이 정부 요직에 얼마나 많았는지, 또 지금과 그때 상황이 비슷하고 다른 게 뭔지 확인해봤습니다. 현 정부의 검찰출신과 이전 정부의 민변 출신 인사.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 원숭이두창 확산은 사전에 계획된 음모다?]]></title>
         <id>https://v.daum.net/v/20220608070009587</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220531161601091"/>
         <updated>2022-05-31T08:40:04.546Z</updated>
         <content type="html"><![CDATA[“임금피크제는 장년층 고용 안정과 기업의 신규채용 여력 확보를 위해 꼭 필요합니다.” 2015년 박근혜 정부는 공공부문 임금피크제 도입 취지를 이렇게 설명했다. 2016년(300인 이상)~2017년(300인 미만) 법적 정년을 55살에서 60살로 연장하고 반드시 지키도록 의무화하는 일명 ‘정년연장법’(고용상 연령차별금지 및 고령자고용촉진에 관한 법률) 시행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 창원 제조업 'V 반등' vs 'L 침체'..사실은?]]></title>
-        <id>https://v.daum.net/v/20220531083148616</id>
-        <link href="https://v.daum.net/v/20220531083148616"/>
-        <updated>2022-05-31T02:07:01.141Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
     </entry>
 </feed>
