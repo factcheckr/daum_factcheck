@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-09T22:25:56.938Z</updated>
+    <updated>2022-06-09T23:23:07.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3년 만에 재개된 싸이 '흠뻑쇼', 왜 논란일까요 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220610060512725</id>
+        <link href="https://v.daum.net/v/20220610060512725"/>
+        <updated>2022-06-09T23:22:05.241Z</updated>
+        <content type="html"><![CDATA[최근 온라인에서 가수 싸이의 ‘흠뻑쇼’를 두고 논란이 일고 있습니다. 흠뻑쇼는 이름처럼 관객이 물에 흠뻑 젖은 채 즐기는 콘서트인데, 공연 때 사용되는 물이 수백톤에 달하는 것으로 알려지면서, 과도한 물 사용에 대한 비판과 함께 ‘환경을 생각하자’는 목소리가 나오는 상황입니다. 지난달 4일 싸이는 &lt;문화방송&gt;(MBC) 예능프로그램인 &lt;라디오스타&gt;에 출연해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "모든 정권 1년 차 특별사면 해왔다" 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220609202721296</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220606202007866"/>
         <updated>2022-06-06T12:48:38.252Z</updated>
         <content type="html"><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 대선과 지선 85일, 민심은 얼마나 변했을까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220605090300302</id>
-        <link href="https://v.daum.net/v/20220605090300302"/>
-        <updated>2022-06-05T02:11:06.398Z</updated>
-        <content type="html"><![CDATA[제8회 전국동시지방선거가 막을 내렸습니다. 국민의힘이 17개 시·도 광역단체장 가운데 12곳을 차지했습니다. '국민의힘 압승'이라는 평가가 나왔습니다. 더불민주당은 호남과 제주를 제외한 대부분 지역을 국민의힘에 내줬습니다. 다만, 최대 승부처로 꼽혔던 경기지사의 경우 막판 대역전을 통해 체면치레를 했습니다. 특히, 이번 선거는 지난 3월 대통령 선거가 치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["모든 정권 1년 차 특별사면 해왔다" 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
