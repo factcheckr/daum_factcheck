@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-10T20:23:53.414Z</updated>
+    <updated>2022-06-10T21:22:26.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[한번에 물 300t 펑펑..싸이 '흠뻑쇼' 나만 불편해? [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220610060512725</id>
