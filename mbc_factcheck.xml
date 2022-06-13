@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-06-13T02:14:07.685Z</updated>
+    <updated>2022-06-13T04:00:50.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["과거에는 민변 도배" 주장 따져보니..]]></title>
+        <id>https://v.daum.net/v/20220613120123157</id>
+        <link href="https://v.daum.net/v/20220613120123157"/>
+        <updated>2022-06-13T04:00:05.137Z</updated>
+        <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민변으로 도배? 따져보니..]]></title>
         <id>https://v.daum.net/v/20220608200709483</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220408132805255"/>
         <updated>2022-04-08T05:21:53.469Z</updated>
         <content type="html"><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 '논란'으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 단체의 정파성 까지 도마 위에 올랐습니다. 이들의 요구사항은 장애인 이동권 외에도 탈시설과 장애인활동지원을 위한 예산 편성 등이 있습니다. 이것이 얼마나 현실성이 있고 합리적인 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 잠금, 정말 못 푸나]]></title>
-        <id>https://v.daum.net/v/20220407200415105</id>
-        <link href="https://v.daum.net/v/20220407200415105"/>
-        <updated>2022-04-07T11:20:29.137Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
     </entry>
 </feed>

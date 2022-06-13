@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T02:14:07.700Z</updated>
+    <updated>2022-06-13T04:00:50.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] "과거에는 민변 도배" 주장 따져보니.. (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220613120123157</id>
+        <link href="https://v.daum.net/v/20220613120123157"/>
+        <updated>2022-06-13T03:59:42.870Z</updated>
+        <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 안전운임제, 해외에는 유사한 사례가 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220613103500587</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220608200709483"/>
         <updated>2022-06-08T11:18:59.716Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부의 요직에 검찰출신 인사들이 너무 많다는 비판이 일자, 윤석열 대통령이 과거엔 '민변' 출신 법조인들이 많았다고 반박했죠. 과연 이 민변 출신 인사들이 정부 요직에 얼마나 많았는지, 또 지금과 그때 상황이 비슷하고 다른 게 뭔지 확인해봤습니다. 현 정부의 검찰출신과 이전 정부의 민변 출신 인사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 원숭이두창 확산은 사전에 계획된 음모다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220608070009587</id>
-        <link href="https://v.daum.net/v/20220608070009587"/>
-        <updated>2022-06-07T22:21:56.199Z</updated>
-        <content type="html"><![CDATA["최근 전 세계적으로 퍼지고 있는 원숭이두창은 사전에 계획된 음모다" "계획에 따르면 향후 18개월간 30억 명이 감염되고 사망자는 최고 3억 명에 이른다" "지금 퍼지고 있는 바이러스는 일반 두창 바이러스보다 전염력과 살상력을 강화·조작한 것이다" 최근 인터넷 공간에서 글과 영상을 통해 퍼지고 있는 내용입니다. 계획된  시나리오에 따라 원숭이 두창이 올]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["모든 정권 1년 차 특별사면 해왔다" 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[대통령직인수위원회가 문재인 정부의 탄소 중립 정책이 오히려 온실가스 배출을 늘렸다며 대대적인 정책 전환을 예고했습니다. 문재인 정부는 2030년 온실가스 40% 감축과 2050년 탄소 중립을 추진해왔습니다. 이 과정에서 문재인 정부의 탈원전 정책에 대한 비판이 나왔습니다. 탈원전 정책으로 원전 가동률을 낮춘 2017년, 오히려 온실가스 배출량이 2.5%]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["과거에는 민변 도배" 주장 따져보니.. (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220613120123157</id>
+        <link href="https://v.daum.net/v/20220613120123157"/>
+        <updated>2022-06-13T04:00:05.137Z</updated>
+        <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[민변으로 도배? 따져보니.. (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220608200709483</id>
         <link href="https://v.daum.net/v/20220608200709483"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220408132805255"/>
         <updated>2022-04-08T05:21:35.395Z</updated>
         <content type="html"><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 '논란'으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 단체의 정파성 까지 도마 위에 올랐습니다. 이들의 요구사항은 장애인 이동권 외에도 탈시설과 장애인활동지원을 위한 예산 편성 등이 있습니다. 이것이 얼마나 현실성이 있고 합리적인 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 잠금, 정말 못 푸나 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220407200415105</id>
-        <link href="https://v.daum.net/v/20220407200415105"/>
-        <updated>2022-04-07T11:20:11.321Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 '고발사주' 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 비밀번호를 풀지 못했다는 겁니다. 당사자가 스스로 비밀번호를 알려주지 않는 이상 아이폰을 풀 방법은 정말 없는 건지, 확인해봤습니다. ◀ 리포트 ▶ 아이폰의 비밀]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원숭이두창 확산은 사전에 계획된 음모다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
