@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-13T20:27:27.661Z</updated>
+    <updated>2022-06-13T21:22:57.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 "검찰총장 공백기 후보추천위 구성엔 상당 기간 있었다"는데 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220614060313034</id>
+        <link href="https://v.daum.net/v/20220614060313034"/>
+        <updated>2022-06-13T21:21:52.667Z</updated>
+        <content type="html"><![CDATA[지난 13일 한동훈 법무부 장관이 정부과천청사로 출근하고 있는 모습.&nbsp;과천=연합뉴스  검찰 수장인 검찰총장 자리가&nbsp;한 달 넘게 공석이다. 제44대 검찰총장인 김오수 전 총장의 사직서가 지난달 6일 수리된 뒤 법무부는&nbsp;검찰총장후보추천위원회를 구성하지 않고 있다. 검찰청법에 따라&nbsp;법무부 장관이 제청할 검찰총장 후보자&nbsp;추천을 위해&nbsp;법무부에 검찰총장후보추천위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] "과거에는 민변 도배" 주장 따져보니..]]></title>
         <id>https://v.daum.net/v/20220613120123157</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608205803279"/>
         <updated>2022-06-08T12:47:22.857Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 대통령 집무실 용산 이전에 이어 추진하는 용산공원 부지 개방을 둘러싼 논란이 이어지고 있다. 정부는 주한미군으로부터 조기 반환받은 용산기지 일부 시설(약 50만㎡)을 오는 9월부터 임시 개방하기로 방침을 정하고, 앞서 오는 10~19일 열흘간 국민 의견 수렴 차원의 시범 개방을 계획하고 있다. 그러나 환경단체에선 해당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 민변으로 도배? 따져보니..]]></title>
-        <id>https://v.daum.net/v/20220608200709483</id>
-        <link href="https://v.daum.net/v/20220608200709483"/>
-        <updated>2022-06-08T11:18:59.716Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부의 요직에 검찰출신 인사들이 너무 많다는 비판이 일자, 윤석열 대통령이 과거엔 '민변' 출신 법조인들이 많았다고 반박했죠. 과연 이 민변 출신 인사들이 정부 요직에 얼마나 많았는지, 또 지금과 그때 상황이 비슷하고 다른 게 뭔지 확인해봤습니다. 현 정부의 검찰출신과 이전 정부의 민변 출신 인사.]]></content>
     </entry>
 </feed>
