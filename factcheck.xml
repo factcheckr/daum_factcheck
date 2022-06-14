@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-14T11:19:49.230Z</updated>
+    <updated>2022-06-14T12:46:18.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 욕설·고성 시위..집시법 강화가 답?]]></title>
+        <id>https://v.daum.net/v/20220614201908729</id>
+        <link href="https://v.daum.net/v/20220614201908729"/>
+        <updated>2022-06-14T12:45:10.795Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "권성동 '국회 패싱 방지법' 박근혜 땐 찬성, 지금은 반대?"]]></title>
         <id>https://v.daum.net/v/20220614172159231</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220609202721296"/>
         <updated>2022-06-09T12:48:29.818Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt;&nbsp; 이렇게 이명박 전 대통령 사면을 주장하고 있는 여당에서는 역대 대통령들이 집권 1년 차에 광복절을 맞아서 특별 사면을 해왔다는 이야기도 나왔습니다. 국민의힘 권성동 원내대표가 한 말인데 저희 팩트체크, 사실은 팀이 과거 정부의 특별사면을 분석해봤습니다.&nbsp; 이경원 기자입니다.&nbsp; &lt;기자&gt;&nbsp; [권선동/국민의힘 원내대표 : 모든 정권이 집권 1년 차 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 법무부 장관은 당연히 검사 출신이 했다?]]></title>
-        <id>https://v.daum.net/v/20220609180002274</id>
-        <link href="https://v.daum.net/v/20220609180002274"/>
-        <updated>2022-06-09T09:24:30.018Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령이 오는 10일로 취임 한 달을 맞는 가운데 사실상 구성이 마무리된 윤석열 정부 초대 내각과 대통령실에 검찰 출신 인사들이 편중됐다는 지적이 정치권 안팎에서 이어지고 있다. 이와 관련해 국민의힘 권성동 원내대표는 9일 CBS 라디오 '김현정의 뉴스쇼'에서 "대통령실에 검사가 많다고 하는데 과거에도 민정수석,]]></content>
     </entry>
 </feed>

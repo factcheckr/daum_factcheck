@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-06-14T11:19:49.236Z</updated>
+    <updated>2022-06-14T12:46:18.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[욕설·고성 시위..집시법 강화가 답?]]></title>
+        <id>https://v.daum.net/v/20220614201908729</id>
+        <link href="https://v.daum.net/v/20220614201908729"/>
+        <updated>2022-06-14T12:45:28.728Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["과거에는 민변 도배" 주장 따져보니..]]></title>
         <id>https://v.daum.net/v/20220613120123157</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220412195810538"/>
         <updated>2022-04-12T11:19:44.815Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 검찰의 권한, 다른 나라들은 어떤지에 대해 민주당과 검찰은 서로 다른 말을 합니다. [박홍근/ 더불어민주당 원내대표] "다른 선진 국가들과 달리 기소권 뿐만 아니라 수사권까지 가지고 있는 대한민국 검찰은 그 권한이 지나치게 과도해서 늘 논란의 중심에 있었습니다." [김오수/검찰총장] "검찰 수사를 제도적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애인 이동권, 장애인만을 위한 것일까?]]></title>
-        <id>https://v.daum.net/v/20220408132805255</id>
-        <link href="https://v.daum.net/v/20220408132805255"/>
-        <updated>2022-04-08T05:21:53.469Z</updated>
-        <content type="html"><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 '논란'으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 단체의 정파성 까지 도마 위에 올랐습니다. 이들의 요구사항은 장애인 이동권 외에도 탈시설과 장애인활동지원을 위한 예산 편성 등이 있습니다. 이것이 얼마나 현실성이 있고 합리적인 주]]></content>
     </entry>
 </feed>
