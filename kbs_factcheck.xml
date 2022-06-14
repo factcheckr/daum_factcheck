@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-06-14T07:25:19.016Z</updated>
+    <updated>2022-06-14T08:31:03.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["권성동, '국회 패싱 방지법' 박근혜 땐 찬성·지금은 반대?"]]></title>
+        <id>https://v.daum.net/v/20220614172159231</id>
+        <link href="https://v.daum.net/v/20220614172159231"/>
+        <updated>2022-06-14T08:30:27.539Z</updated>
+        <content type="html"><![CDATA["2015년도에 이것과 거의 유사한 유승민 국회법 개정 파동 그때, 권성동 의원께서는 이 법 찬성하셨고 또 의총에서 유승민 당시 원내대표를 지지하셨고 옹호하셨습니다." - 조응천 더불어민주당 의원(2022.06.13.) 더불어민주당 조응천 의원이 어제(13일) YTN 라디오에 출연해 자신이 추진하고 있는 '국회법 개정안'에 대해  한 말입니다. 조 의원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원숭이두창 확산은 사전에 계획된 음모다?]]></title>
         <id>https://v.daum.net/v/20220608070009587</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220518215403879"/>
         <updated>2022-05-24T02:06:22.773Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 지방선거 후보들의 발언을 검증하는 팩트체크. 지난주 KBS가 마련한 교육감 후보 토론회에서  경상남도교육청이 학생들에게 나눠준 '스마트 단말기'를 둔 논쟁이 있었습니다. "막대한 예산을 들인 스마트 단말기가 학습용으로 쓰이지 않고 있다"라는 김상권 후보의 지적에, 박종훈 후보는  "게임을 깔거나 오락을 하는 것은 불가능하다"라고 말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["교육청이 보급한 스마트 단말기는 게임 안 된다" 사실은?]]></title>
-        <id>https://v.daum.net/v/20220518193633887</id>
-        <link href="https://v.daum.net/v/20220518193633887"/>
-        <updated>2022-05-24T02:06:22.775Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 지방선거 후보자들의 발언을 검증하는 팩트체크, 지난주 KBS가 마련한 교육감 후보 토론회에서  경상남도교육청이 학생들에게 나눠준 '스마트 단말기'를 둔 논쟁이 있었습니다. "막대한 예산을 들인 스마트 단말기가 학습용으로 쓰이지 않고 있다"라는 김상권 후보의 지적에, 박종훈 후보는  "게임을 깔거나 오락을 하는 것은 불가능하다"라고]]></content>
     </entry>
 </feed>
