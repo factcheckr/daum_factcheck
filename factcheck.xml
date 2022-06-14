@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-14T16:38:00.131Z</updated>
+    <updated>2022-06-14T17:27:04.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[알고보니] 욕설·고성 시위..집시법 강화가 답?]]></title>
         <id>https://v.daum.net/v/20220614201908729</id>
