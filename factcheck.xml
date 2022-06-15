@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-15T11:22:03.343Z</updated>
+    <updated>2022-06-15T12:47:11.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다?]]></title>
+        <id>https://v.daum.net/v/20220615202506800</id>
+        <link href="https://v.daum.net/v/20220615202506800"/>
+        <updated>2022-06-15T12:46:02.637Z</updated>
+        <content type="html"><![CDATA[[앵커] '택시 합승' 서비스가 오늘(15일)부터 시행이 됐습니다. 택시대란을 잡으려고 정부가 추진을 하는 겁니다. 이에 대해서 여러 이야기들이 나오고 있습니다. 예를 들면, "차종에 따라 남녀 구분 없이 태워도 된다", "합승에 동의하지 않으면, 이제 웃돈을 내고 택시를 타야 한다", 이런 내용들입니다. 팩트체크를 바로 해보겠습니다. 이지은 기자, 일단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 민주화 이후 행안장관의 경찰 감독권은 없어졌다?]]></title>
         <id>https://v.daum.net/v/20220615175011142</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220613090301762"/>
         <updated>2022-06-13T02:12:52.255Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 11일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 尹정부 1기내각 인선, '검찰공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한달 교통비 14만원! 택시비? 아니고 '신분당선 전철요금']]></title>
-        <id>https://v.daum.net/v/20220613085804553</id>
-        <link href="https://v.daum.net/v/20220613085804553"/>
-        <updated>2022-06-13T02:12:52.256Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 11일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 한달 교통비 14만원! 택시비?]]></content>
     </entry>
 </feed>
