@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-14T23:23:09.840Z</updated>
+    <updated>2022-06-15T02:13:47.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 12일 북한이 쏜 방사포는 미사일에 준하지 않았다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220615101016668</id>
+        <link href="https://v.daum.net/v/20220615101016668"/>
+        <updated>2022-06-15T02:12:38.839Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령이 북한이 방사포를 발사한 당일 영화관을 찾아 영화를 관람한 것을 두고 정치권 안팎에서 논란이 불거졌다. 합동참모본부에 따르면 북한은 12일 오전 8시 7분부터 11시 3분까지 서해안 지역에서 서해상으로 방사포 5발가량을 쏜 것으로 알려졌다. 북한은 8∼10일 노동당 전원회의에서 남한을 겨냥해 '강 대 강,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 욕설·고성 시위..집시법 강화가 답? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220614201908729</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220610060512725"/>
         <updated>2022-06-09T23:22:05.241Z</updated>
         <content type="html"><![CDATA[최근 온라인에서 가수 싸이의 ‘흠뻑쇼’를 두고 논란이 일고 있습니다. 흠뻑쇼는 이름처럼 관객이 물에 흠뻑 젖은 채 즐기는 콘서트인데, 공연 때 사용되는 물이 수백톤에 달하는 것으로 알려지면서, 과도한 물 사용에 대한 비판과 함께 ‘환경을 생각하자’는 목소리가 나오는 상황입니다. 지난달 4일 싸이는 &lt;문화방송&gt;(MBC) 예능프로그램인 &lt;라디오스타&gt;에 출연해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "모든 정권 1년 차 특별사면 해왔다" 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220609202721296</id>
-        <link href="https://v.daum.net/v/20220609202721296"/>
-        <updated>2022-06-09T12:48:29.818Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt;&nbsp; 이렇게 이명박 전 대통령 사면을 주장하고 있는 여당에서는 역대 대통령들이 집권 1년 차에 광복절을 맞아서 특별 사면을 해왔다는 이야기도 나왔습니다. 국민의힘 권성동 원내대표가 한 말인데 저희 팩트체크, 사실은 팀이 과거 정부의 특별사면을 분석해봤습니다.&nbsp; 이경원 기자입니다.&nbsp; &lt;기자&gt;&nbsp; [권선동/국민의힘 원내대표 : 모든 정권이 집권 1년 차 8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['편중 인사 논란' 윤석열 정부, 文 정부와 비교하면? (다음 뉴스 ─ SBS 사실은)]]></title>
