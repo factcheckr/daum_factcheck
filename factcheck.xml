@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-16T02:29:38.590Z</updated>
+    <updated>2022-06-16T03:56:04.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 내각과 문재인 초대 내각 구성, 이렇게 달랐다   [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220616120901832</id>
+        <link href="https://v.daum.net/v/20220616120901832"/>
+        <updated>2022-06-16T03:54:55.421Z</updated>
+        <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  [검증대상]&nbsp;윤석열 내각·문재인 초기 내각과 비교&nbsp; 윤석열 정부는 취임 전 초대 내각 구성 과정에서 '서오남(서울대·50대·남성) 내각'이란 비판을 받았고, 금융감독원장을 비롯한 차관급과 대통령실 비서관 인선 과정에서도 '검찰 출신 편중 인사' 논란이 이어지고 있다.&nbsp; 그 뒤 교육부와 보건복지부 장관 후보자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]'로또 1등 50명' 조작 음모론, 사실일까]]></title>
+        <id>https://v.daum.net/v/20220616113911639</id>
+        <link href="https://v.daum.net/v/20220616113911639"/>
+        <updated>2022-06-16T03:54:55.422Z</updated>
+        <content type="html"><![CDATA[핵심요약로또 1등, 한주만에 2명→50명 역대급 당첨 2002년 12월 로또 발행 이래 '최다 기록' 50명 중 42명 '수동 당첨'…조작 음모론까지 45개 숫자 중 6개 번호조합이 1등으로 선택될&nbsp;확률은 814만분의 1. 살면서 번개 맞을 확률보다 낮은, 이 희박한 확률을 뚫고 일확천금을 거머쥔 이들에 대한 관심은 연일 뜨겁다. 최근 로또 1등 당첨자(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다?]]></title>
         <id>https://v.daum.net/v/20220615202506800</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220613120123157"/>
         <updated>2022-06-13T03:59:42.870Z</updated>
         <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 안전운임제, 해외에는 유사한 사례가 없다?]]></title>
-        <id>https://v.daum.net/v/20220613103500587</id>
-        <link href="https://v.daum.net/v/20220613103500587"/>
-        <updated>2022-06-13T02:12:52.252Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 민주노총 화물연대가 연장을 요구하는 안전운임제가 우리나라에서만 시행되는 제도라는 주장이 나왔다. 이준봉 화주협의회 사무국장은 8일 MBC라디오에 출연해 "안전운임제는 해외에서도 유사한 사례가 없는 제도로, 입법 시 예정한 대로 일몰되는 것이 타당하다고 생각한다"고 말했다. 반면 화물연대 측은 해외에서도 유사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 尹정부 1기내각 인선, '검찰공화국' 논란]]></title>
-        <id>https://v.daum.net/v/20220613090301762</id>
-        <link href="https://v.daum.net/v/20220613090301762"/>
-        <updated>2022-06-13T02:12:52.255Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 11일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 尹정부 1기내각 인선, '검찰공]]></content>
     </entry>
 </feed>
