@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-16T06:30:07.867Z</updated>
+    <updated>2022-06-16T07:22:59.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 취임 한 달 만에 지지율이 하락한 대통령은 없었다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220616153011571</id>
+        <link href="https://v.daum.net/v/20220616153011571"/>
+        <updated>2022-06-16T07:21:52.521Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 취임 한 달이 지난 윤석열 대통령의 국정 수행에 대한 긍정 평가가 50%를 밑도는 것으로 조사되면서 이른바 '허니문 효과'나 '컨벤션 효과'(정치적 이벤트 후 지지율이 상승하는 현상)가 미미하다는 지적이 나온다. 여론조사 전문기관 리얼미터가 7∼10일 전국 18세 이상 유권자 2천90명을 상대로 윤 대통령의 국정 수행 지지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 내각과 문재인 초대 내각 구성, 이렇게 달랐다   [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220616120901832</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220614060313034"/>
         <updated>2022-06-13T21:21:52.667Z</updated>
         <content type="html"><![CDATA[지난 13일 한동훈 법무부 장관이 정부과천청사로 출근하고 있는 모습.&nbsp;과천=연합뉴스  검찰 수장인 검찰총장 자리가&nbsp;한 달 넘게 공석이다. 제44대 검찰총장인 김오수 전 총장의 사직서가 지난달 6일 수리된 뒤 법무부는&nbsp;검찰총장후보추천위원회를 구성하지 않고 있다. 검찰청법에 따라&nbsp;법무부 장관이 대통령에게 제청할 검찰총장 후보자&nbsp;추천을 위해&nbsp;법무부에 검찰총]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "과거에는 민변 도배" 주장 따져보니.. (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220613120123157</id>
-        <link href="https://v.daum.net/v/20220613120123157"/>
-        <updated>2022-06-13T03:59:42.870Z</updated>
-        <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['편중 인사 논란' 윤석열 정부, 文 정부와 비교하면? (다음 뉴스 ─ SBS 사실은)]]></title>
