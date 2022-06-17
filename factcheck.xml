@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-17T04:40:09.920Z</updated>
+    <updated>2022-06-17T05:24:17.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 사람에게 상해 입힌 개, 계속 기를 수 있다?]]></title>
+        <id>https://v.daum.net/v/20220617141703898</id>
+        <link href="https://v.daum.net/v/20220617141703898"/>
+        <updated>2022-06-17T05:23:09.734Z</updated>
+        <content type="html"><![CDATA[사람이 개에게 물려 다쳤다는 이야기, 자주 들어보셨을 겁니다. 그런데 이웃집 개가 사람을 물었는데 이웃집이 계속 개를 키우려 한다면, 막을 수 있는 방법이 있을까요? 이웃집에서 키우는 풍산개 5마리에게 7살 아이가 물려 다쳤다는 내용이 최근 국회 국민동의청원 게시판에 올라왔습니다. 아이가 크게 다쳤는데도, 이웃집에서는 계속 개를 기르려 한다면서 피해자 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 사저 앞 집회, 법으로 막는다?]]></title>
         <id>https://v.daum.net/v/20220617115513917</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220614201908729"/>
         <updated>2022-06-14T12:45:10.795Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] "권성동 '국회 패싱 방지법' 박근혜 땐 찬성, 지금은 반대?"]]></title>
-        <id>https://v.daum.net/v/20220614172159231</id>
-        <link href="https://v.daum.net/v/20220614172159231"/>
-        <updated>2022-06-14T08:29:59.435Z</updated>
-        <content type="html"><![CDATA["2015년도에 이것과 거의 유사한 유승민 국회법 개정 파동 그때, 권성동 의원께서는 이 법 찬성하셨고 또 의총에서 유승민 당시 원내대표를 지지하셨고 옹호하셨습니다." - 조응천 더불어민주당 의원(2022.06.13.) 더불어민주당 조응천 의원이 어제(13일) YTN 라디오에 출연해 자신이 추진하고 있는 '국회법 개정안'에 대해  한 말입니다. 조 의원]]></content>
     </entry>
 </feed>
