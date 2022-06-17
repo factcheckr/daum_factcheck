@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-06-17T08:31:20.418Z</updated>
+    <updated>2022-06-17T09:25:18.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20220617175101048</id>
+        <link href="https://v.daum.net/v/20220617175101048"/>
+        <updated>2022-06-17T09:25:09.990Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;9일 국회의원회관에서 열린 국민의힘 서울시당 6.1 지방선거 당선자 대회 및 워크숍에서 성일종 정책위의장이 강연하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 성일종 국민의힘 정책위의장 "임대주택에서 정신질환자 나온다" 성일종 국민의힘 정책위의장이 지난 9일 지방선거 국민의힘 서울시당 당선자 대회에서 서울시의 임대주택]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김포-인천공항, 고속전철로 10여분 거리" 이재명 주장 '대체로 사실']]></title>
         <id>https://v.daum.net/v/20220530210300588</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220415191801642"/>
         <updated>2022-06-08T15:24:42.359Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;지난 13일 박경석 전국장애인차별철폐연대 상임공동대표와의 시사프로 ‘썰전라이브’ 일대일 토론을 앞두고 있는 이준석 국민의힘 대표의 모습    ⓒ 이희훈  &nbsp; [검증대상] "장애인 시설 만족해 탈시설 반대 많다"&nbsp;이준석 주장 지난 13일 오후, JTBC '썰전 라이브'에 박경석 전국장애인차별철폐연대(아래 전장연) 상임공동대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저상버스 교체 5~7년이면 된다" 이준석 발언은 '거짓']]></title>
-        <id>https://v.daum.net/v/20220415190006285</id>
-        <link href="https://v.daum.net/v/20220415190006285"/>
-        <updated>2022-06-08T15:24:42.360Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;        ▲ &nbsp;이준석 국민의힘 대표가 13일 오후 서울 마포구 상암동 &lt;제이티비씨&gt;(JTBC)에서 박경석 전국장애인차별철폐연대(전장연) 상임공동대표와 ‘썰전라이브’ 생방송 일대일 토론을 하고 있다.    ⓒ 사진공동취재단  &nbsp; [검증대상] 저상버스 교체 기간 '10~11년'과 '5~7년' 사이 &nbsp;- 이준석 "시내버스가 어떻게 10년]]></content>
     </entry>
 </feed>

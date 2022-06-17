@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-17T08:31:20.422Z</updated>
+    <updated>2022-06-17T09:25:18.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓'  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220617175101048</id>
+        <link href="https://v.daum.net/v/20220617175101048"/>
+        <updated>2022-06-17T09:24:18.624Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;9일 국회의원회관에서 열린 국민의힘 서울시당 6.1 지방선거 당선자 대회 및 워크숍에서 성일종 정책위의장이 강연하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 성일종 국민의힘 정책위의장 "임대주택에서 정신질환자 나온다" 성일종 국민의힘 정책위의장이 지난 9일 지방선거 국민의힘 서울시당 당선자 대회에서 서울시의 임대주택]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 사람에게 상해 입힌 개, 계속 기를 수 있다?]]></title>
         <id>https://v.daum.net/v/20220617141703898</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220615101016668"/>
         <updated>2022-06-15T02:12:38.839Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령이 북한이 방사포를 발사한 당일 영화관을 찾아 영화를 관람한 것을 두고 정치권 안팎에서 논란이 불거졌다. 합동참모본부에 따르면 북한은 12일 오전 8시 7분부터 11시 3분까지 서해안 지역에서 서해상으로 방사포 5발가량을 쏜 것으로 알려졌다. 북한은 8∼10일 노동당 전원회의에서 남한을 겨냥해 '강 대 강,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 욕설·고성 시위..집시법 강화가 답?]]></title>
-        <id>https://v.daum.net/v/20220614201908729</id>
-        <link href="https://v.daum.net/v/20220614201908729"/>
-        <updated>2022-06-14T12:45:10.795Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
     </entry>
 </feed>
