@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-18T02:07:17.513Z</updated>
+    <updated>2022-06-18T03:49:39.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문재인, 북 미사일 쏘는데 휴가" 언론보도 '사실반 거짓반' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220618113308232</id>
+        <link href="https://v.daum.net/v/20220618113308232"/>
+        <updated>2022-06-18T03:48:13.592Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령과 부인 김건희 여사가 12일 오후 서울 메가박스 성수점에서 제75회 칸 국제영화제 남우주연상(송강호) 수상작 영화 '브로커'를 관람한 뒤 이동하고 있다.    ⓒ 대통령실 제공  [검증대상] "문재인은 북한 미사일 쏘는데도 여름휴가 갔다" 윤석열 대통령의 '안보 내로남불' 논란이 뜨겁다. 합동참모본부가 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓'  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220617175101048</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220615175011142"/>
         <updated>2022-06-15T09:23:07.849Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 검경 수사권 조정으로 권한이 커진 경찰에 대한 통제를 위해 행정안전부 내 별도 조직(경찰국)을 만드는 방안을 검토하자 경찰 내부 반발이 확산하는 등 논란이 일고 있다. 울산경찰청장을 지낸 황운하 더불어민주당 의원은 14일 CBS 라디오에 출연해 "민주화 이후 장관 사무에서 치안 사무를 삭제해 (행안부) 장관은 치안 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 12일 북한이 쏜 방사포는 미사일에 준하지 않았다?]]></title>
-        <id>https://v.daum.net/v/20220615101016668</id>
-        <link href="https://v.daum.net/v/20220615101016668"/>
-        <updated>2022-06-15T02:12:38.839Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령이 북한이 방사포를 발사한 당일 영화관을 찾아 영화를 관람한 것을 두고 정치권 안팎에서 논란이 불거졌다. 합동참모본부에 따르면 북한은 12일 오전 8시 7분부터 11시 3분까지 서해안 지역에서 서해상으로 방사포 5발가량을 쏜 것으로 알려졌다. 북한은 8∼10일 노동당 전원회의에서 남한을 겨냥해 '강 대 강,]]></content>
     </entry>
 </feed>
