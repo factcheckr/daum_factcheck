@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-20T11:20:24.822Z</updated>
+    <updated>2022-06-20T12:47:13.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하태경 "해경 '서해 공무원 피살 사건' 조류 방향 말 바꿔".. 사실일까 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220620210130856</id>
+        <link href="https://v.daum.net/v/20220620210130856"/>
+        <updated>2022-06-20T12:46:19.973Z</updated>
+        <content type="html"><![CDATA[지난 2020년 9월 서해상에서 실종된 후 북한군 피격에 사망한 해양수산부 서해어업관리단 소속 공무원 이 씨가 탑승했던 어업지도선 ‘무궁화10호’의 모습. 연합뉴스  서해 피격 공무원 피살 사건 당시 조류의 방향은&nbsp;북쪽이었다? 국민의힘 하태경 의원은 지난 17일 CBS 라디오 김현정의 뉴스쇼에 출연해 이같이 주장했다. 조류의 방향은 그동안 북한군에 의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220620200707214</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220616120901832"/>
         <updated>2022-06-16T03:54:55.421Z</updated>
         <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  [검증대상]&nbsp;윤석열 내각·문재인 초기 내각과 비교&nbsp; 윤석열 정부는 취임 전 초대 내각 구성 과정에서 '서오남(서울대·50대·남성) 내각'이란 비판을 받았고, 금융감독원장을 비롯한 차관급과 대통령실 비서관 인선 과정에서도 '검찰 출신 편중 인사' 논란이 이어지고 있다.&nbsp; 그 뒤 교육부와 보건복지부 장관 후보자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]'로또 1등 50명' 조작 음모론, 사실일까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220616113911639</id>
-        <link href="https://v.daum.net/v/20220616113911639"/>
-        <updated>2022-06-16T03:54:55.422Z</updated>
-        <content type="html"><![CDATA[핵심요약로또 1등, 한주만에 2명→50명 역대급 당첨 2002년 12월 로또 발행 이래 '최다 기록' 50명 중 42명 '수동 당첨'…조작 음모론까지 45개 숫자 중 6개 번호조합이 1등으로 선택될&nbsp;확률은 814만분의 1. 살면서 번개 맞을 확률보다 낮은, 이 희박한 확률을 뚫고 일확천금을 거머쥔 이들에 대한 관심은 연일 뜨겁다. 최근 로또 1등 당첨자(]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['편중 인사 논란' 윤석열 정부, 文 정부와 비교하면? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -582,7 +582,7 @@
         <title type="html"><![CDATA["생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220620200707214</id>
         <link href="https://v.daum.net/v/20220620200707214"/>
-        <updated>2022-06-20T11:20:24.025Z</updated>
+        <updated>2022-06-20T11:19:25.640Z</updated>
         <content type="html"><![CDATA[[앵커] 당장 물가가 너무 뛰었구나 확 와닿는 게 점심 먹을 때죠. 밥 먹고 커피 한잔 사 마시면, 점심값이 만 원을 훌쩍 넘길 텐데요. 이렇다 보니까 정부가 '커피값 대책'을 내놨는데, 효과가 있을지 팩트체크 해보겠습니다. 이지은 기자, 커피는 하루에 몇 잔씩 마시기도 하잖아요? [기자] 네. 기호식품이라 줄이기도 쉽지 않죠. 시민들이 느끼는 커피값 부담]]></content>
     </entry>
     <entry>
