@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-06-20T10:33:20.026Z</updated>
+    <updated>2022-06-20T11:20:24.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["생두 부가세 면제"..커피값 정말 싸질까]]></title>
+        <id>https://v.daum.net/v/20220620200707214</id>
+        <link href="https://v.daum.net/v/20220620200707214"/>
+        <updated>2022-06-20T11:20:24.025Z</updated>
+        <content type="html"><![CDATA[[앵커] 당장 물가가 너무 뛰었구나 확 와닿는 게 점심 먹을 때죠. 밥 먹고 커피 한잔 사 마시면, 점심값이 만 원을 훌쩍 넘길 텐데요. 이렇다 보니까 정부가 '커피값 대책'을 내놨는데, 효과가 있을지 팩트체크 해보겠습니다. 이지은 기자, 커피는 하루에 몇 잔씩 마시기도 하잖아요? [기자] 네. 기호식품이라 줄이기도 쉽지 않죠. 시민들이 느끼는 커피값 부담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 42만원 꼴 '의원 세비'..반납 가능할까]]></title>
         <id>https://v.daum.net/v/20220616203408985</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220505202403495"/>
         <updated>2022-06-08T15:24:49.952Z</updated>
         <content type="html"><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[논란의 '호텔 만찬'..대관료만 500만 원]]></title>
-        <id>https://v.daum.net/v/20220427202205626</id>
-        <link href="https://v.daum.net/v/20220427202205626"/>
-        <updated>2022-06-08T15:24:49.953Z</updated>
-        <content type="html"><![CDATA[[앵커] 새 정부와 관련해서는 대통령 취임식 비용도 논란이 되고 있습니다. 민주당 측에서 혈세 33억 원을 들여 초호화 잔치를 벌인다고 주장하고 있어섭니다. 청와대 이전으로 기존 영빈관을 안 쓰고, 취임식 날 외빈만찬을 호텔에서 하기로 하면서 이런 논란은 더 커지고 있는데요. 팩트체크 이지은 기자와 짚어보겠습니다. 우선, 33억 원이라는 돈이 역대 취임식에]]></content>
     </entry>
 </feed>
