@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-21T04:48:33.092Z</updated>
+    <updated>2022-06-21T05:27:26.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] "성착취물 소지범 엄벌"..검찰에게 필요한 것]]></title>
+        <id>https://v.daum.net/v/20220621135004461</id>
+        <link href="https://v.daum.net/v/20220621135004461"/>
+        <updated>2022-06-21T05:26:24.880Z</updated>
+        <content type="html"><![CDATA[지난달 &lt;한겨레&gt;가 ‘엔(n)번방의 일반인 가담자들’ 378명 1심 판결문을 전수분석해 보도하고, 보름 만인 지난 7일 대검찰청이 디지털 성착취 범죄의 구조적 원인인 수요 범죄도 무겁게 처벌하겠다는 업무지시를 내렸다. 디지털 성범죄 사건에 대해 고민하는 여성계와 법조계 전문가들은 “수요 범죄를 심각하게 인지하겠다”는 태도 변화를 환영했다. 그러면서 그간 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다?]]></title>
         <id>https://v.daum.net/v/20220621105009459</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220617141703898"/>
         <updated>2022-06-17T05:23:09.734Z</updated>
         <content type="html"><![CDATA[사람이 개에게 물려 다쳤다는 이야기, 자주 들어보셨을 겁니다. 그런데 이웃집 개가 사람을 물었는데 이웃집이 계속 개를 키우려 한다면, 막을 수 있는 방법이 있을까요? 이웃집에서 키우는 풍산개 5마리에게 7살 아이가 물려 다쳤다는 내용이 최근 국회 국민동의청원 게시판에 올라왔습니다. 아이가 크게 다쳤는데도, 이웃집에서는 계속 개를 기르려 한다면서 피해자 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 사저 앞 집회, 법으로 막는다?]]></title>
-        <id>https://v.daum.net/v/20220617115513917</id>
-        <link href="https://v.daum.net/v/20220617115513917"/>
-        <updated>2022-06-17T03:58:59.921Z</updated>
-        <content type="html"><![CDATA[지난 4월부터 문재인 전 대통령의 경남 양산 사저 근처에서 보수단체와 유튜브들이 고성과 욕설 시위를 벌이고 있습니다. 이어 지난 14일부터는 윤석열 대통령의 서초동 자택 앞에서 확성기와 스피커를 동원한 '맞불' 집회가 열리기 시작했습니다. 주최측은 양산 시위가 끝날 때까지 서초동 시위를 이어가겠다고 밝혀 이번 주말에도 이어질 것으로예상됩니다. 한덕수 국무]]></content>
     </entry>
 </feed>
