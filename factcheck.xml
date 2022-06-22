@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-22T11:20:18.525Z</updated>
+    <updated>2022-06-22T12:47:24.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '20대에 주거 사다리'..가능한가?]]></title>
+        <id>https://v.daum.net/v/20220622202518207</id>
+        <link href="https://v.daum.net/v/20220622202518207"/>
+        <updated>2022-06-22T12:46:30.406Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 새 정부 경제정책방향이 발표됐습니다. 그 안엔 생애 최초로 주택을 사는 사람들, 특히 청년층에게 부동산 대출 규제 문턱을 낮추겠다는 내용이 담겼습니다. 이 내용 다룬 기사를 보면요, '20대 혹은 20대 맞벌이가 6억까지 대출받을 수 있다' 20대가 30대 보다 1억이나 대출 더 받는다는 식으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다?]]></title>
         <id>https://v.daum.net/v/20220622181009257</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220618113308232"/>
         <updated>2022-06-18T03:48:13.592Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령과 부인 김건희 여사가 12일 오후 서울 메가박스 성수점에서 제75회 칸 국제영화제 남우주연상(송강호) 수상작 영화 '브로커'를 관람한 뒤 이동하고 있다.    ⓒ 대통령실 제공  [검증대상] "문재인은 북한 미사일 쏘는데도 여름휴가 갔다" 윤석열 대통령의 '안보 내로남불' 논란이 뜨겁다. 합동참모본부가 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓'  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220617175101048</id>
-        <link href="https://v.daum.net/v/20220617175101048"/>
-        <updated>2022-06-17T09:24:18.624Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;9일 국회의원회관에서 열린 국민의힘 서울시당 6.1 지방선거 당선자 대회 및 워크숍에서 성일종 정책위의장이 강연하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 성일종 국민의힘 정책위의장 "임대주택에서 정신질환자 나온다" 성일종 국민의힘 정책위의장이 지난 9일 지방선거 국민의힘 서울시당 당선자 대회에서 서울시의 임대주택]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-06-22T11:20:18.522Z</updated>
+    <updated>2022-06-22T12:47:24.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['20대에 주거 사다리'..가능한가?]]></title>
+        <id>https://v.daum.net/v/20220622202518207</id>
+        <link href="https://v.daum.net/v/20220622202518207"/>
+        <updated>2022-06-22T12:46:46.199Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 새 정부 경제정책방향이 발표됐습니다. 그 안엔 생애 최초로 주택을 사는 사람들, 특히 청년층에게 부동산 대출 규제 문턱을 낮추겠다는 내용이 담겼습니다. 이 내용 다룬 기사를 보면요, '20대 혹은 20대 맞벌이가 6억까지 대출받을 수 있다' 20대가 30대 보다 1억이나 대출 더 받는다는 식으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사저 앞 집회, 법으로 막는다?]]></title>
         <id>https://v.daum.net/v/20220617115513917</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220422104910097"/>
         <updated>2022-04-22T02:07:10.311Z</updated>
         <content type="html"><![CDATA[윤석열 정부의 초기 내각 후보자들의 사외이사 경력이 주목받고 있습니다. 19명의 국무총리와 장관 후보자들 가운데 7명이 사외이사 경력을 갖고 있기 때문입니다. 전체의 3분의 1이 넘습니다. 이사로 몸담았던 기업에 유리한 정책을 펼칠 수 있다는 '이해충돌' 우려가 나옵니다. 사외이사는 '대주주 견제·감시' 목적 사외이사는 본래  대주주나 대표이사로부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최대 사외이사, 내각으로 직행?]]></title>
-        <id>https://v.daum.net/v/20220419201308892</id>
-        <link href="https://v.daum.net/v/20220419201308892"/>
-        <updated>2022-04-19T11:20:44.794Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부 첫 내각 후보자들 이런저런 잡음이 나오는데요. 그 중에 하나가 민간기업 사외이사 경력입니다. 국무총리와 장관 후보자 19명 중에 사외이사 출신이 7명이나 됩니다. 사외이사를 했다가 공직자가 되지 말라는 법은 없지만, 본인이 몸 담았던 기업으로 팔이 굽는 건 아닌지 이른바 '이해충돌'의 우려가 나옵]]></content>
     </entry>
 </feed>
