@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-22T08:34:30.346Z</updated>
+    <updated>2022-06-22T09:23:20.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다?]]></title>
+        <id>https://v.daum.net/v/20220622181009257</id>
+        <link href="https://v.daum.net/v/20220622181009257"/>
+        <updated>2022-06-22T09:22:18.894Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 국내에서 처음으로 원숭이두창 바이러스 확진자가 나오면서 지역 사회 전파 가능성에 대한 우려가 커지고 있다. 인터넷상에는 "동성애자가 아닌 일반인은 걸릴 일이 없다" "치료한 의사도 걸린 적이 있어 호흡기 전염 가능성도 크다더라" "악수나 손잡이 등으로도 옮겨지나" "화장실을 같이 써도 옮기나" 등 확인되지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] "성착취물 소지범 엄벌"..검찰에게 필요한 것]]></title>
         <id>https://v.daum.net/v/20220621135004461</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220617175101048"/>
         <updated>2022-06-17T09:24:18.624Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;9일 국회의원회관에서 열린 국민의힘 서울시당 6.1 지방선거 당선자 대회 및 워크숍에서 성일종 정책위의장이 강연하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] 성일종 국민의힘 정책위의장 "임대주택에서 정신질환자 나온다" 성일종 국민의힘 정책위의장이 지난 9일 지방선거 국민의힘 서울시당 당선자 대회에서 서울시의 임대주택]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 사람에게 상해 입힌 개, 계속 기를 수 있다?]]></title>
-        <id>https://v.daum.net/v/20220617141703898</id>
-        <link href="https://v.daum.net/v/20220617141703898"/>
-        <updated>2022-06-17T05:23:09.734Z</updated>
-        <content type="html"><![CDATA[사람이 개에게 물려 다쳤다는 이야기, 자주 들어보셨을 겁니다. 그런데 이웃집 개가 사람을 물었는데 이웃집이 계속 개를 키우려 한다면, 막을 수 있는 방법이 있을까요? 이웃집에서 키우는 풍산개 5마리에게 7살 아이가 물려 다쳤다는 내용이 최근 국회 국민동의청원 게시판에 올라왔습니다. 아이가 크게 다쳤는데도, 이웃집에서는 계속 개를 기르려 한다면서 피해자 부]]></content>
     </entry>
 </feed>
