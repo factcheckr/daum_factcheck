@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-23T05:28:05.853Z</updated>
+    <updated>2022-06-23T07:23:17.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["임기제 정무직, 정권 바뀌면 물러나야" 국힘 주장 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220623150602659</id>
+        <link href="https://v.daum.net/v/20220623150602659"/>
+        <updated>2022-06-23T07:22:19.486Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ 기자들과 질의응답하는 윤석열 대통령&nbsp;윤석열 대통령이 17일 서울 용산 대통령실청사로 출근하며 기자들의 질문에 답하고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "임기제 정무직도 정권 바뀌면 물러나야" 국힘 주장 전현희 국민권익위원장, 한상혁 방송통신위원장 등 문재인 정부에서 임명한 임기제 정무직 공무원을 향한 윤석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한국인 콩쿠르 입상자는 얼마나 되나요]]></title>
         <id>https://v.daum.net/v/20220623113301666</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220620200707214"/>
         <updated>2022-06-20T11:19:25.640Z</updated>
         <content type="html"><![CDATA[[앵커] 당장 물가가 너무 뛰었구나 확 와닿는 게 점심 먹을 때죠. 밥 먹고 커피 한잔 사 마시면, 점심값이 만 원을 훌쩍 넘길 텐데요. 이렇다 보니까 정부가 '커피값 대책'을 내놨는데, 효과가 있을지 팩트체크 해보겠습니다. 이지은 기자, 커피는 하루에 몇 잔씩 마시기도 하잖아요? [기자] 네. 기호식품이라 줄이기도 쉽지 않죠. 시민들이 느끼는 커피값 부담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 방역 완화에 '금값' 된 항공권..항공사가 비싸게 받는다?]]></title>
-        <id>https://v.daum.net/v/20220620175511687</id>
-        <link href="https://v.daum.net/v/20220620175511687"/>
-        <updated>2022-06-20T09:24:35.971Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 코로나19로 억눌렸던 여행 수요가 폭발하는 가운데 국제유가 급등세가 맞물리면서 항공권 가격이 고공행진을 하고 있다. 대한항공 홈페이지에 따르면 여름 성수기(7월 16일∼8월 7일) 인천∼파리 왕복 항공권은 20일 현재 기준으로 350만원 안팎이다. 항공 운임에 유류할증료 51만7천400원, 세금 등이 포함된 가격이다. 4]]></content>
     </entry>
 </feed>
