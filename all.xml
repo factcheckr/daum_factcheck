@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-23T10:27:22.911Z</updated>
+    <updated>2022-06-23T11:20:37.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220623200008055</id>
+        <link href="https://v.daum.net/v/20220623200008055"/>
+        <updated>2022-06-23T11:19:37.646Z</updated>
+        <content type="html"><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서해 공무원 피격 당시 남북통신선 3개 살아있었다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220623170017682</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220621060135412"/>
         <updated>2022-06-20T21:21:30.471Z</updated>
         <content type="html"><![CDATA[2020년 9월 일어난 ‘서해 공무원 피살 사건’을 놓고 여야 간 진실공방이 거셉니다. 여당인 국민의힘은 당시 문재인 정부가 희생된 공무원을 월북자로 둔갑시켜 사건을 왜곡했다면서 연일 진실규명을 촉구하고 있습니다. 당시 여당이었다가 이제 야당이 된 더불어민주당은 당시 군 첩보와 수사 내용 등을 종합적으로 검토해 월북으로 판단한 것이라는 입장을 고수하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하태경 "해경 '서해 공무원 피살 사건' 조류 방향 말 바꿔".. 사실일까 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220620210130856</id>
-        <link href="https://v.daum.net/v/20220620210130856"/>
-        <updated>2022-06-20T12:46:19.973Z</updated>
-        <content type="html"><![CDATA[서해 피격 공무원 피살 사건 당시 조류의 방향은&nbsp;북쪽이었다? 국민의힘 하태경 의원은 지난 17일 CBS 라디오 김현정의 뉴스쇼에 출연해 이같이 주장했다. 조류의 방향은 그동안 북한군에 의해 피격된 공무원 이모(당시 47세)씨가&nbsp;월북했을 것으로&nbsp;보는 주요 근거 중 하나였다. 앞서 해경은 사건에 대한 중간 수사결과를 발표하며 이씨가 실종된 2020년 9월2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국인 콩쿠르 입상자는 얼마나 되나요 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;4일 오전 서울 여의도 국회 앞에서 어린이날 100주년 ‘어린이차별철폐의 날’ 선포 기자회견에 참석한 어린이들이 차별금지법 제정을 촉구하며 ‘노키즈존 나빠요, 차별금지법 좋아요’라고 적힌 글씨에 색칠을 하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "노키즈존 리스트 공유하면 영업 방해" 사업자 주장 5월 5일 어린이날 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220623200008055</id>
+        <link href="https://v.daum.net/v/20220623200008055"/>
+        <updated>2022-06-23T11:20:36.784Z</updated>
+        <content type="html"><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220620200707214</id>
         <link href="https://v.daum.net/v/20220620200707214"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220509202003307"/>
         <updated>2022-05-09T11:21:17.487Z</updated>
         <content type="html"><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 오늘 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220505202403495</id>
-        <link href="https://v.daum.net/v/20220505202403495"/>
-        <updated>2022-05-05T12:48:58.197Z</updated>
-        <content type="html"><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content>
     </entry>
 </feed>

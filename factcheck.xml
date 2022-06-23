@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-23T10:27:22.904Z</updated>
+    <updated>2022-06-23T11:20:37.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?..괴담 따져보니]]></title>
+        <id>https://v.daum.net/v/20220623200008055</id>
+        <link href="https://v.daum.net/v/20220623200008055"/>
+        <updated>2022-06-23T11:19:37.646Z</updated>
+        <content type="html"><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서해 공무원 피격 당시 남북통신선 3개 살아있었다?]]></title>
         <id>https://v.daum.net/v/20220623170017682</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220621060135412"/>
         <updated>2022-06-20T21:21:30.471Z</updated>
         <content type="html"><![CDATA[2020년 9월 일어난 ‘서해 공무원 피살 사건’을 놓고 여야 간 진실공방이 거셉니다. 여당인 국민의힘은 당시 문재인 정부가 희생된 공무원을 월북자로 둔갑시켜 사건을 왜곡했다면서 연일 진실규명을 촉구하고 있습니다. 당시 여당이었다가 이제 야당이 된 더불어민주당은 당시 군 첩보와 수사 내용 등을 종합적으로 검토해 월북으로 판단한 것이라는 입장을 고수하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하태경 "해경 '서해 공무원 피살 사건' 조류 방향 말 바꿔".. 사실일까 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220620210130856</id>
-        <link href="https://v.daum.net/v/20220620210130856"/>
-        <updated>2022-06-20T12:46:19.973Z</updated>
-        <content type="html"><![CDATA[서해 피격 공무원 피살 사건 당시 조류의 방향은&nbsp;북쪽이었다? 국민의힘 하태경 의원은 지난 17일 CBS 라디오 김현정의 뉴스쇼에 출연해 이같이 주장했다. 조류의 방향은 그동안 북한군에 의해 피격된 공무원 이모(당시 47세)씨가&nbsp;월북했을 것으로&nbsp;보는 주요 근거 중 하나였다. 앞서 해경은 사건에 대한 중간 수사결과를 발표하며 이씨가 실종된 2020년 9월2]]></content>
     </entry>
 </feed>
