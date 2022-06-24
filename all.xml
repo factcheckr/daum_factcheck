@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-24T08:31:32.324Z</updated>
+    <updated>2022-06-24T09:24:03.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220624173349799</id>
+        <link href="https://v.daum.net/v/20220624173349799"/>
+        <updated>2022-06-24T09:22:54.415Z</updated>
+        <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회 수가 나흘 만에 200만을 넘겼습니다. 우승 이후 매일 관련 기사가 쏟아지고 있습니다. 한국이 음악 콩쿠르를 휩쓸고 있다며 'K-클래식'이라는 말까지 나왔습니다. 우리만 자화자찬하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '누리호 발사 성공' 항우연 월급이 최하위 수준? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220624144012690</id>
@@ -68,11 +75,11 @@
         <content type="html"><![CDATA[지난달 &lt;한겨레&gt;가 ‘엔(n)번방의 일반인 가담자들’ 378명 1심 판결문을 전수분석해 보도하고, 보름 만인 지난 7일 대검찰청이 디지털 성착취 범죄의 구조적 원인인 수요 범죄도 무겁게 처벌하겠다는 업무지시를 내렸다. 디지털 성범죄 사건에 대해 고민하는 여성계와 법조계 전문가들은 “수요 범죄를 심각하게 인지하겠다”는 태도 변화를 환영했다. 그러면서 그간 사]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220621105009459</id>
-        <link href="https://v.daum.net/v/20220621105009459"/>
-        <updated>2022-06-21T02:08:01.562Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 2년 전 서해 북단에서 북한군의 총격을 받고 숨진 해양수산부 공무원 사건이 대통령실 국가안보실의 정보공개청구 소송 항소 취하와 해양경찰의 수사 결과 번복으로 정치 쟁점화됐다. 문재인 정부 청와대에서 국정상황실장을 지낸 더불어민주당 윤건영 의원은 20일 CBS 라디오에 출연해 "월북 의사가 있고 없는 것이 남북 관계와 무슨 관]]></content>
+        <title type="html"><![CDATA[한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20220624173349799</id>
+        <link href="https://v.daum.net/v/20220624173349799"/>
+        <updated>2022-06-24T09:23:05.108Z</updated>
+        <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회 수가 나흘 만에 200만을 넘겼습니다. 우승 이후 매일 관련 기사가 쏟아지고 있습니다. 한국이 음악 콩쿠르를 휩쓸고 있다며 'K-클래식'이라는 말까지 나왔습니다. 우리만 자화자찬하]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["일하자"며 '월 3회 회의'..국회는 잘 지켰나 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://v.daum.net/v/20220503212414298"/>
         <updated>2022-05-03T12:49:38.637Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검수완박 마무리..누가 국회선진화법을 위반했나요? (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220503112419859</id>
-        <link href="https://v.daum.net/v/20220503112419859"/>
-        <updated>2022-05-03T03:54:33.877Z</updated>
-        <content type="html"><![CDATA[검찰 수사권 완전 박탈, 이른바 '검수완박' 법안 처리가 오늘(3일) 마무리됐습니다. 논란이 뜨겁습니다. 여야는 법안이 처리되는 과정에서 서로를 향해 국회선진화법을 짓밟았다고 주장하고 있습니다. 두 거대 정당 원내대표의 발언입니다. 정치의 영역이라 시시비비를 따지기 어려운 측면이 있지만, SBS 사실은팀은 사안의 중대성을 고려할 때 서로의 주장을 꼼꼼히]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['20대에 주거 사다리'..가능한가? (다음 뉴스 ─ MBC 알고보니)]]></title>
