@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-24T11:20:19.003Z</updated>
+    <updated>2022-06-24T12:49:45.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 법인세 내리면 담뱃세 오른다?]]></title>
+        <id>https://v.daum.net/v/20220624202210781</id>
+        <link href="https://v.daum.net/v/20220624202210781"/>
+        <updated>2022-06-24T12:48:36.387Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한국은 정말 콩쿠르 휩쓸고 있나요]]></title>
         <id>https://v.daum.net/v/20220624173349799</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220622181009257"/>
         <updated>2022-06-22T09:22:18.894Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 국내에서 처음으로 원숭이두창 바이러스 확진자가 나오면서 지역 사회 전파 가능성에 대한 우려가 커지고 있다. 인터넷상에는 "동성애자가 아닌 일반인은 걸릴 일이 없다" "치료한 의사도 걸린 적이 있어 호흡기 전염 가능성도 크다더라" "악수나 손잡이 등으로도 옮겨지나" "화장실을 같이 써도 옮기나" 등 확인되지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] "성착취물 소지범 엄벌"..검찰에게 필요한 것]]></title>
-        <id>https://v.daum.net/v/20220621135004461</id>
-        <link href="https://v.daum.net/v/20220621135004461"/>
-        <updated>2022-06-21T05:26:24.880Z</updated>
-        <content type="html"><![CDATA[지난달 &lt;한겨레&gt;가 ‘엔(n)번방의 일반인 가담자들’ 378명 1심 판결문을 전수분석해 보도하고, 보름 만인 지난 7일 대검찰청이 디지털 성착취 범죄의 구조적 원인인 수요 범죄도 무겁게 처벌하겠다는 업무지시를 내렸다. 디지털 성범죄 사건에 대해 고민하는 여성계와 법조계 전문가들은 “수요 범죄를 심각하게 인지하겠다”는 태도 변화를 환영했다. 그러면서 그간 사]]></content>
     </entry>
 </feed>

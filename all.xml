@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-24T11:20:19.014Z</updated>
+    <updated>2022-06-24T12:49:45.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 법인세 내리면 담뱃세 오른다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220624202210781</id>
+        <link href="https://v.daum.net/v/20220624202210781"/>
+        <updated>2022-06-24T12:48:36.387Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220624173349799</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220622181009257"/>
         <updated>2022-06-22T09:22:18.894Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 국내에서 처음으로 원숭이두창 바이러스 확진자가 나오면서 지역 사회 전파 가능성에 대한 우려가 커지고 있다. 인터넷상에는 "동성애자가 아닌 일반인은 걸릴 일이 없다" "치료한 의사도 걸린 적이 있어 호흡기 전염 가능성도 크다더라" "악수나 손잡이 등으로도 옮겨지나" "화장실을 같이 써도 옮기나" 등 확인되지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] "성착취물 소지범 엄벌"..검찰에게 필요한 것 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220621135004461</id>
-        <link href="https://v.daum.net/v/20220621135004461"/>
-        <updated>2022-06-21T05:26:24.880Z</updated>
-        <content type="html"><![CDATA[지난달 &lt;한겨레&gt;가 ‘엔(n)번방의 일반인 가담자들’ 378명 1심 판결문을 전수분석해 보도하고, 보름 만인 지난 7일 대검찰청이 디지털 성착취 범죄의 구조적 원인인 수요 범죄도 무겁게 처벌하겠다는 업무지시를 내렸다. 디지털 성범죄 사건에 대해 고민하는 여성계와 법조계 전문가들은 “수요 범죄를 심각하게 인지하겠다”는 태도 변화를 환영했다. 그러면서 그간 사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[법인세 내리면 담뱃세 오른다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220624202210781</id>
+        <link href="https://v.daum.net/v/20220624202210781"/>
+        <updated>2022-06-24T12:48:57.377Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['20대에 주거 사다리'..가능한가? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220622202518207</id>
         <link href="https://v.daum.net/v/20220622202518207"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220422203412338"/>
         <updated>2022-04-22T12:46:01.356Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신대로 숨진 80대 노모와 50대 아들이 기초생활보장수급 지원을 받지 못한 이유는 바로 이 80년 넘은 낡은 집 때문이었습니다. 그러면, 도대체 얼마나 가난해야 정부 지원을 받을 수 있었을지 따져봤습니다. ◀ 리포트 ▶ 해당 집의 등기부등본을 떼어봤습니다. 일제시대인 1937년에 지어진 목조주택]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['역대 최다' 사외이사 내각..'꿀알바'에서 장관 직행? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220422104910097</id>
-        <link href="https://v.daum.net/v/20220422104910097"/>
-        <updated>2022-04-22T02:06:54.156Z</updated>
-        <content type="html"><![CDATA[윤석열 정부의 초기 내각 후보자들의 사외이사 경력이 주목받고 있습니다. 19명의 국무총리와 장관 후보자들 가운데 7명이 사외이사 경력을 갖고 있기 때문입니다. 전체의 3분의 1이 넘습니다. 이사로 몸담았던 기업에 유리한 정책을 펼칠 수 있다는 '이해충돌' 우려가 나옵니다. 사외이사는 '대주주 견제·감시' 목적 사외이사는 본래  대주주나 대표이사로부터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["당시 국민의힘도 '월북' 수긍했다"..민주당 주장 따져보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
