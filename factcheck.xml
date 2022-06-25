@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-25T02:22:34.159Z</updated>
+    <updated>2022-06-25T03:55:42.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] '주 단위 초과근로 관리' 우리나라만?..해외 주요국 사례 보니]]></title>
+        <id>https://v.daum.net/v/20220625120206458</id>
+        <link href="https://v.daum.net/v/20220625120206458"/>
+        <updated>2022-06-25T03:54:42.965Z</updated>
+        <content type="html"><![CDATA[정부가 일주일에 최대 52시간까지만 일할 수 있게 한 '주 52시간제'를 향후 월 단위로도 넓혀 운용하는 방안을 검토하고 있습니다. 하루 8시간씩 5일간 40시간, 이에 더해 일주일에 최대 12시간 총 52시간까지만 일할 수 있게 한 게 현행 제도인데요. 앞으로는 노사 간 합의를 하면 연장근로 시간 계산을 지금의 주 단위가 아닌 월 단위로도 계산해 노동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 법인세 내리면 담뱃세 오른다?]]></title>
         <id>https://v.daum.net/v/20220624202210781</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220622202518207"/>
         <updated>2022-06-22T12:46:30.406Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 새 정부 경제정책방향이 발표됐습니다. 그 안엔 생애 최초로 주택을 사는 사람들, 특히 청년층에게 부동산 대출 규제 문턱을 낮추겠다는 내용이 담겼습니다. 이 내용 다룬 기사를 보면요, '20대 혹은 20대 맞벌이가 6억까지 대출받을 수 있다' 20대가 30대 보다 1억이나 대출 더 받는다는 식으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 원숭이두창은 동성애자만 걸린다? 호흡기로도 전파된다?]]></title>
-        <id>https://v.daum.net/v/20220622181009257</id>
-        <link href="https://v.daum.net/v/20220622181009257"/>
-        <updated>2022-06-22T09:22:18.894Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 국내에서 처음으로 원숭이두창 바이러스 확진자가 나오면서 지역 사회 전파 가능성에 대한 우려가 커지고 있다. 인터넷상에는 "동성애자가 아닌 일반인은 걸릴 일이 없다" "치료한 의사도 걸린 적이 있어 호흡기 전염 가능성도 크다더라" "악수나 손잡이 등으로도 옮겨지나" "화장실을 같이 써도 옮기나" 등 확인되지]]></content>
     </entry>
 </feed>
