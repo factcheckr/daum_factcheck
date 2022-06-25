@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-25T04:35:37.620Z</updated>
+    <updated>2022-06-25T05:21:10.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 결재 전 경찰 인사 발표 관행이었다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220625133545177</id>
+        <link href="https://v.daum.net/v/20220625133545177"/>
+        <updated>2022-06-25T05:20:15.154Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 경찰 치안감 인사 번복 사태를 둘러싼 논란이 기관 간의 진실공방으로 번진 모습이다. 윤석열 대통령은 지난 23일 출근길에 "경찰에서 행정안전부로 자체적으로 추천한 인사를 그냥 보직을 해버린 것"이라고 지적하면서 "중대한 국기문란"으로 간주했다. 인사권자인 대통령이 재가하지 않은 인사안을 발표한 경찰청에 책임이 있음을 강도 높]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] '주 단위 초과근로 관리' 우리나라만?..해외 주요국 사례 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220625120206458</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220623113301666"/>
         <updated>2022-06-23T03:57:50.202Z</updated>
         <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 18살이라는 어린 나이, 순수 국내파라는 개인적 스토리 때문만은 아닐 겁니다. 콩쿠르 연주 영상이 큰 인상을 남겼습니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회수가 사흘 만에 170만을 넘겼습니다.&nbsp; 피겨를 몰라도 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '20대에 주거 사다리'..가능한가? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220622202518207</id>
-        <link href="https://v.daum.net/v/20220622202518207"/>
-        <updated>2022-06-22T12:46:30.406Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 새 정부 경제정책방향이 발표됐습니다. 그 안엔 생애 최초로 주택을 사는 사람들, 특히 청년층에게 부동산 대출 규제 문턱을 낮추겠다는 내용이 담겼습니다. 이 내용 다룬 기사를 보면요, '20대 혹은 20대 맞벌이가 6억까지 대출받을 수 있다' 20대가 30대 보다 1억이나 대출 더 받는다는 식으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ SBS 사실은)]]></title>
