@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-27T02:13:12.858Z</updated>
+    <updated>2022-06-27T04:11:53.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로.." 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220627114217604</id>
+        <link href="https://v.daum.net/v/20220627114217604"/>
+        <updated>2022-06-27T04:09:41.345Z</updated>
+        <content type="html"><![CDATA[최근 이정식 고용노동부 장관이 '주 52시간제' 개편을 언급했습니다. 노동 시간 관리를 주 단위로 끊지 않고, 월 단위로 관리해서 탄력적으로 근무하게 하겠다는 게 핵심입니다. 지금은 노동자가 한 주에 52시간 넘게 일하면 사업주가 처벌을 받는데, 바쁜 주에는 52시간에 구애 받지 않고 몰아서 일하고, 덜 바쁜 주는 일을 덜해, 한 달 전체로 볼 때 한 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여야 정보공개 공방 '서해공무원 피격' SI정보 공개 가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220627085513034</id>
@@ -68,11 +75,11 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 국회는&nbsp;여전히 문만 열린 채 멈춰있습니다.&nbsp;그런데 1년 반 전부터 이른바 '일하는 국회법'이 시행되고 있지요. 의무적으로 회의를 열어서 법안 심의하라는 내용인데,&nbsp;국회가 이 법을 어기고 있는 건 아닌지, 이경원 기자가&nbsp;팩트체크 사실은 코너에서 따져봤습니다. &lt;기자&gt; 국회에서 법 만들거나 고칠 때, 의원 열 명 안팎이 모여 법안심사 소위원회라는 회의]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220623200008055</id>
-        <link href="https://v.daum.net/v/20220623200008055"/>
-        <updated>2022-06-23T11:19:37.646Z</updated>
-        <content type="html"><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있습]]></content>
+        <title type="html"><![CDATA["초과 노동, 한국만 1주일 단위로.." 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20220627114217604</id>
+        <link href="https://v.daum.net/v/20220627114217604"/>
+        <updated>2022-06-27T04:09:52.053Z</updated>
+        <content type="html"><![CDATA[최근 이정식 고용노동부 장관이 '주 52시간제' 개편을 언급했습니다. 노동 시간 관리를 주 단위로 끊지 않고, 월 단위로 관리해서 탄력적으로 근무하게 하겠다는 게 핵심입니다. 지금은 노동자가 한 주에 52시간 넘게 일하면 사업주가 처벌을 받는데, 바쁜 주에는 52시간에 구애 받지 않고 몰아서 일하고, 덜 바쁜 주는 일을 덜해, 한 달 전체로 볼 때 한 주]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국은 정말 콩쿠르 휩쓸고 있나요 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://v.daum.net/v/20220511205710891"/>
         <updated>2022-05-11T12:50:13.655Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 선거제도는 정치지형에 상당한 영향을 미치게 되죠. 보통 한 선거구에서 여러 명을 뽑는 중·대 선거구제에선 '작은 정당'이 유리하다고 하고, 이번 지방선거에서도 시의원, 군의원 선거가 이렇게 치러지는데, 정말로 작은 정당에 유리한 건지 알아봅니다. SBS 팩트체크 사실은 팀과 데이터저널리즘 마부작침 팀의 지방선거 연속보도, 이경원 기자입니다. &lt;기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 지자체장들이 다루는 예산, 무려 이 정도 (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220503212414298</id>
-        <link href="https://v.daum.net/v/20220503212414298"/>
-        <updated>2022-05-03T12:49:38.637Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 지방선거가 한 달 앞으로 다가왔습니다. SBS 팩트체크 사실은팀과 데이터저널리즘 마부작침팀은 지방선거가 얼마나 중요한지 짚어보는 연속 보도를 준비했습니다. 오늘(3일) 첫 순서로 지자체장들이 얼마만큼의 세금을 집행하는지 살펴보겠습니다. 이경원 기자입니다. &lt;기자&gt; 자동차 기름 넣을 때 내는 교통세, 주행세, 교육세, 모두 지방 재정으로 들어갑니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[법인세 내리면 담뱃세 오른다? (다음 뉴스 ─ MBC 알고보니)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-27T02:13:12.852Z</updated>
+    <updated>2022-06-27T04:11:53.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로.." 사실은?]]></title>
+        <id>https://v.daum.net/v/20220627114217604</id>
+        <link href="https://v.daum.net/v/20220627114217604"/>
+        <updated>2022-06-27T04:09:41.345Z</updated>
+        <content type="html"><![CDATA[최근 이정식 고용노동부 장관이 '주 52시간제' 개편을 언급했습니다. 노동 시간 관리를 주 단위로 끊지 않고, 월 단위로 관리해서 탄력적으로 근무하게 하겠다는 게 핵심입니다. 지금은 노동자가 한 주에 52시간 넘게 일하면 사업주가 처벌을 받는데, 바쁜 주에는 52시간에 구애 받지 않고 몰아서 일하고, 덜 바쁜 주는 일을 덜해, 한 달 전체로 볼 때 한 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여야 정보공개 공방 '서해공무원 피격' SI정보 공개 가능?]]></title>
         <id>https://v.daum.net/v/20220627085513034</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220623210910525"/>
         <updated>2022-06-23T12:48:56.270Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 국회는&nbsp;여전히 문만 열린 채 멈춰있습니다.&nbsp;그런데 1년 반 전부터 이른바 '일하는 국회법'이 시행되고 있지요. 의무적으로 회의를 열어서 법안 심의하라는 내용인데,&nbsp;국회가 이 법을 어기고 있는 건 아닌지, 이경원 기자가&nbsp;팩트체크 사실은 코너에서 따져봤습니다. &lt;기자&gt; 국회에서 법 만들거나 고칠 때, 의원 열 명 안팎이 모여 법안심사 소위원회라는 회의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?..괴담 따져보니]]></title>
-        <id>https://v.daum.net/v/20220623200008055</id>
-        <link href="https://v.daum.net/v/20220623200008055"/>
-        <updated>2022-06-23T11:19:37.646Z</updated>
-        <content type="html"><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있습]]></content>
     </entry>
 </feed>
