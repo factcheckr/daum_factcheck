@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-28T12:48:34.759Z</updated>
+    <updated>2022-06-28T13:44:56.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20220628203706464</id>
         <link href="https://v.daum.net/v/20220628203706464"/>
         <updated>2022-06-28T12:47:33.732Z</updated>
-        <content type="html"><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한끼당 7천원으로 1만원짜리 냉면 한 그릇도 못먹는다]]></content>
+        <content type="html"><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한 끼당 7천원으로 1만원짜리 냉면 한 그릇도 못 먹]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로.." 사실은?]]></title>
