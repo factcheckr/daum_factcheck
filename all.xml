@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-28T11:21:13.257Z</updated>
+    <updated>2022-06-28T12:48:34.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220628203706464</id>
+        <link href="https://v.daum.net/v/20220628203706464"/>
+        <updated>2022-06-28T12:47:33.732Z</updated>
+        <content type="html"><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한끼당 7천원으로 1만원짜리 냉면 한 그릇도 못먹는다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "초과 노동, 한국만 1주일 단위로.." 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220627114217604</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220624144012690"/>
         <updated>2022-06-24T06:29:27.784Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 한국형 발사체 누리호(KSLV-Ⅱ)의 2차 발사가 성공적으로 마무리되면서 누리호 연구 개발을 맡아 대한민국 과학기술사를 새로 쓴 한국항공우주연구원(항우연)의 노고에 대한 응원과 격려도 쏟아지고 있다. 이런 가운데 최근 인터넷상에서는 항우연 소속으로 추정되는 작성자가 직장인 익명 애플리케이션(앱)인 블라인드에 쓴 항우연의 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "일하자"며 '월 3회 회의'..국회는 잘 지켰나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220623210910525</id>
-        <link href="https://v.daum.net/v/20220623210910525"/>
-        <updated>2022-06-23T12:48:56.270Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 국회는&nbsp;여전히 문만 열린 채 멈춰있습니다.&nbsp;그런데 1년 반 전부터 이른바 '일하는 국회법'이 시행되고 있지요. 의무적으로 회의를 열어서 법안 심의하라는 내용인데,&nbsp;국회가 이 법을 어기고 있는 건 아닌지, 이경원 기자가&nbsp;팩트체크 사실은 코너에서 따져봤습니다. &lt;기자&gt; 국회에서 법 만들거나 고칠 때, 의원 열 명 안팎이 모여 법안심사 소위원회라는 회의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["초과 노동, 한국만 1주일 단위로.." 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;4일 오전 서울 여의도 국회 앞에서 어린이날 100주년 ‘어린이차별철폐의 날’ 선포 기자회견에 참석한 어린이들이 차별금지법 제정을 촉구하며 ‘노키즈존 나빠요, 차별금지법 좋아요’라고 적힌 글씨에 색칠을 하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "노키즈존 리스트 공유하면 영업 방해" 사업자 주장 5월 5일 어린이날 1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220628203706464</id>
+        <link href="https://v.daum.net/v/20220628203706464"/>
+        <updated>2022-06-28T12:48:34.106Z</updated>
+        <content type="html"><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한끼당 7천원으로 1만원짜리 냉면 한 그릇도 못먹는다]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220623200008055</id>
         <link href="https://v.daum.net/v/20220623200008055"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220511202315312"/>
         <updated>2022-05-11T12:50:13.661Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나왔습니다. 바로 팩트체크 해보죠. 이지은 기자, 정확히 어떤 주장인 거죠? [기자] 네. 지난주부터 소셜미디어에 돌고 있는 사진들인데, 먼저 보시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취임식에 '대선 경쟁자' 초청한 전례 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220509202003307</id>
-        <link href="https://v.daum.net/v/20220509202003307"/>
-        <updated>2022-05-09T11:21:17.487Z</updated>
-        <content type="html"><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 오늘 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (]]></content>
     </entry>
 </feed>
