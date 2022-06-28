@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-28T20:26:59.752Z</updated>
+    <updated>2022-06-28T21:20:45.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]1인당 전기사용량 '역대 최고, 세계 3위' 맞나]]></title>
+        <id>https://v.daum.net/v/20220629060328291</id>
+        <link href="https://v.daum.net/v/20220629060328291"/>
+        <updated>2022-06-28T21:19:22.476Z</updated>
+        <content type="html"><![CDATA[핵심요약지난해 국민 1인당 전기사용량 '역대 최고치'로 세계 3위 수준 '산업용' 전력 소비 포함된 데 문제 제기…누리꾼들 "한국이 제조업에 강한 탓" 가구당이 아닌 '1인당 전력소비량'은 국제 비교상 편의 위한 통계치 전문가 "가정에서 전기를 쓴 게 세계 3위 수준으로 많다고 보기엔 무리 있어" 지난해 국민 1인당 전기사용량이 '역대 최고치'를 기록하며,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실?]]></title>
         <id>https://v.daum.net/v/20220628203706464</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220624173349799"/>
         <updated>2022-06-24T09:22:54.415Z</updated>
         <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회 수가 나흘 만에 200만을 넘겼습니다. 우승 이후 매일 관련 기사가 쏟아지고 있습니다. 한국이 음악 콩쿠르를 휩쓸고 있다며 'K-클래식'이라는 말까지 나왔습니다. 우리만 자화자찬하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '누리호 발사 성공' 항우연 월급이 최하위 수준?]]></title>
-        <id>https://v.daum.net/v/20220624144012690</id>
-        <link href="https://v.daum.net/v/20220624144012690"/>
-        <updated>2022-06-24T06:29:27.784Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 한국형 발사체 누리호(KSLV-Ⅱ)의 2차 발사가 성공적으로 마무리되면서 누리호 연구 개발을 맡아 대한민국 과학기술사를 새로 쓴 한국항공우주연구원(항우연)의 노고에 대한 응원과 격려도 쏟아지고 있다. 이런 가운데 최근 인터넷상에서는 항우연 소속으로 추정되는 작성자가 직장인 익명 애플리케이션(앱)인 블라인드에 쓴 항우연의 ']]></content>
     </entry>
 </feed>
