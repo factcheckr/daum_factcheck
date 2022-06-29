@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-29T02:22:50.264Z</updated>
+    <updated>2022-06-29T04:10:32.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["검찰총장 공백 역대 최장".. 박주민 vs. <조선> 누가 맞나 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220629115404067</id>
+        <link href="https://v.daum.net/v/20220629115404067"/>
+        <updated>2022-06-29T04:09:28.939Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;&lt;조선일보&gt;는 6월 23일 팩트체크 기사 '尹정부 검찰총장, 47일 최장기 공석?... MB때 124일, 文때 88일'에서 "(22일 기준) 검찰총장 공석이 46일째로 역대 최장기”라는 박주민 더불어민주당 국회의원 주장은 "사실이 아닌 것으로 나타났다"고 보도했다.    ⓒ 조선일보  &nbsp; [검증대상] 박주민 "검찰총장 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]1인당 전기사용량 '역대 최고, 세계 3위' 맞나]]></title>
         <id>https://v.daum.net/v/20220629060328291</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220624202210781"/>
         <updated>2022-06-24T12:48:36.387Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한국은 정말 콩쿠르 휩쓸고 있나요]]></title>
-        <id>https://v.daum.net/v/20220624173349799</id>
-        <link href="https://v.daum.net/v/20220624173349799"/>
-        <updated>2022-06-24T09:22:54.415Z</updated>
-        <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회 수가 나흘 만에 200만을 넘겼습니다. 우승 이후 매일 관련 기사가 쏟아지고 있습니다. 한국이 음악 콩쿠르를 휩쓸고 있다며 'K-클래식'이라는 말까지 나왔습니다. 우리만 자화자찬하]]></content>
     </entry>
 </feed>
