@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-29T11:22:13.472Z</updated>
+    <updated>2022-06-29T12:51:04.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월세에 역전당한 전세.. 종말시대 온다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220629214128413</id>
+        <link href="https://v.daum.net/v/20220629214128413"/>
+        <updated>2022-06-29T12:50:01.854Z</updated>
+        <content type="html"><![CDATA[서울 시내 부동산 중개업소의 전월세 게시물 모습. 연합뉴스  “전세라는 것은 하나의 옛날 추억이 될 것입니다.” 2016년 2월 당시 박근혜 대통령은 국정과제 세미나에서 전세종말론을 언급했다. 1970년대 전체 임대차 거래 중 70%에 육박했던 전세 계약의 비중이 최근에는 절반 이하로 줄어들었다. 임대차 3법(전월세상한제·계약갱신청구권제·전월세신고제)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["검찰총장 공백 역대 최장".. 박주민 vs. <조선> 누가 맞나 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220629115404067</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220625120206458"/>
         <updated>2022-06-25T03:54:42.965Z</updated>
         <content type="html"><![CDATA[정부가 일주일에 최대 52시간까지만 일할 수 있게 한 '주 52시간제'를 향후 월 단위로도 넓혀 운용하는 방안을 검토하고 있습니다. 하루 8시간씩 5일간 40시간, 이에 더해 일주일에 최대 12시간 총 52시간까지만 일할 수 있게 한 게 현행 제도인데요. 앞으로는 노사 간 합의를 하면 연장근로 시간 계산을 지금의 주 단위가 아닌 월 단위로도 계산해 노동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 법인세 내리면 담뱃세 오른다?]]></title>
-        <id>https://v.daum.net/v/20220624202210781</id>
-        <link href="https://v.daum.net/v/20220624202210781"/>
-        <updated>2022-06-24T12:48:36.387Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
     </entry>
 </feed>
