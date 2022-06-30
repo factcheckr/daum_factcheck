@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-30T07:22:01.723Z</updated>
+    <updated>2022-06-30T08:33:31.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] MB의 577회 변호사 접견은 적은 것이다?]]></title>
+        <id>https://v.daum.net/v/20220630170436741</id>
+        <link href="https://v.daum.net/v/20220630170436741"/>
+        <updated>2022-06-30T08:32:24.135Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 이명박 전 대통령이 형집행정지로 풀려나면서 일각에서 특별사면으로 이어지는 것 아니냐는 관측이 나오는 가운데 이 전 대통령의 수감 기간 변호사 접견을 두고 특혜 논란이 불거졌다. 김윤덕 더불어민주당 의원은 법무부 자료를 토대로 분석한 결과 이달 13일 기준 이 전 대통령의 수감 기간 변호사 접견이 총 577회, 장소 변경 접]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IAEA 총장 "北 최근활동은 연쇄 핵실험 징후"? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220630153141307</id>
         <link href="https://v.daum.net/v/20220630153141307"/>
-        <updated>2022-06-30T07:20:52.224Z</updated>
+        <updated>2022-06-30T08:32:24.137Z</updated>
         <content type="html"><![CDATA[미국 전략국제문제연구소(CSIS)는 지난 15일(현지시간) 북한이 함경북도 길주군 풍계리 핵실험장의 3번 갱도 정비 완료에 이어 4번 갱도에서도 ‘새 건설 활동’이 관측된다고 밝혔다. 사진은 2018년 5월25일 폭파 직전 풍계리 핵실험장 4번 갱도의 입구 모습. 세계일보 자료사진  북한이 최근 함경북도 길주군 풍계리 핵실험장에서 ‘3번 갱도’ 정]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220627085103891"/>
         <updated>2022-06-27T02:11:06.007Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 25일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 40년만에 풀린 '택시 합승',]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대통령 결재 전 경찰 인사 발표 관행이었다?]]></title>
-        <id>https://v.daum.net/v/20220625133545177</id>
-        <link href="https://v.daum.net/v/20220625133545177"/>
-        <updated>2022-06-25T05:20:15.154Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 경찰 치안감 인사 번복 사태를 둘러싼 논란이 기관 간의 진실공방으로 번진 모습이다. 윤석열 대통령은 지난 23일 출근길에 "경찰에서 행정안전부로 자체적으로 추천한 인사를 그냥 보직을 해버린 것"이라고 지적하면서 "중대한 국기문란"으로 간주했다. 인사권자인 대통령이 재가하지 않은 인사안을 발표한 경찰청에 책임이 있음을 강도 높]]></content>
     </entry>
 </feed>
