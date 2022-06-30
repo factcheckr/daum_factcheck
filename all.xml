@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-30T06:31:13.927Z</updated>
+    <updated>2022-06-30T07:22:01.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[IAEA 총장 "北 최근활동은 연쇄 핵실험 징후"? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220630153141307</id>
+        <link href="https://v.daum.net/v/20220630153141307"/>
+        <updated>2022-06-30T07:20:52.224Z</updated>
+        <content type="html"><![CDATA[미국 전략국제문제연구소(CSIS)는 지난 15일(현지시간) 북한이 함경북도 길주군 풍계리 핵실험장의 3번 갱도 정비 완료에 이어 4번 갱도에서도 ‘새 건설 활동’이 관측된다고 밝혔다. 사진은 2018년 5월25일 폭파 직전 풍계리 핵실험장 4번 갱도의 입구 모습. 세계일보 자료사진  북한이 최근 함경북도 길주군 풍계리 핵실험장에서 ‘3번 갱도’ 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월세에 역전당한 전세.. 종말시대 온다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220629214128413</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220625133545177"/>
         <updated>2022-06-25T05:20:15.154Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 경찰 치안감 인사 번복 사태를 둘러싼 논란이 기관 간의 진실공방으로 번진 모습이다. 윤석열 대통령은 지난 23일 출근길에 "경찰에서 행정안전부로 자체적으로 추천한 인사를 그냥 보직을 해버린 것"이라고 지적하면서 "중대한 국기문란"으로 간주했다. 인사권자인 대통령이 재가하지 않은 인사안을 발표한 경찰청에 책임이 있음을 강도 높]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] '주 단위 초과근로 관리' 우리나라만?..해외 주요국 사례 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220625120206458</id>
-        <link href="https://v.daum.net/v/20220625120206458"/>
-        <updated>2022-06-25T03:54:42.965Z</updated>
-        <content type="html"><![CDATA[정부가 일주일에 최대 52시간까지만 일할 수 있게 한 '주 52시간제'를 향후 월 단위로도 넓혀 운용하는 방안을 검토하고 있습니다. 하루 8시간씩 5일간 40시간, 이에 더해 일주일에 최대 12시간 총 52시간까지만 일할 수 있게 한 게 현행 제도인데요. 앞으로는 노사 간 합의를 하면 연장근로 시간 계산을 지금의 주 단위가 아닌 월 단위로도 계산해 노동]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["초과 노동, 한국만 1주일 단위로.." 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
