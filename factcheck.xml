@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-30T20:26:35.841Z</updated>
+    <updated>2022-06-30T21:23:27.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 계속되는 토지보상비 갈등..버티는 게 유리하다?]]></title>
+        <id>https://v.daum.net/v/20220701060047636</id>
+        <link href="https://v.daum.net/v/20220701060047636"/>
+        <updated>2022-06-30T21:22:16.012Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 이영웅 기자] 3기 신도시 등 토지보상 문제를 놓고 사업시행자와 토지소유자간의 갈등이 매번 반복되고 있는 가운데 어떻게 해야 토지보상을 제대로 받을 수 있을지를 놓고 관심이 쏠린다. 더욱이 일부 커뮤니티에서는 토지 소유자들에게 토지보상비를 더 받으려면 버티라는 조언도 하고 있다. 결론적으로 말하자면, '버티면 보상금액을 더 높게 받을 수 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 1인당 전기 사용량이 세계 3위?]]></title>
         <id>https://v.daum.net/v/20220630204506104</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220627114217604"/>
         <updated>2022-06-27T04:09:41.345Z</updated>
         <content type="html"><![CDATA[최근 이정식 고용노동부 장관이 '주 52시간제' 개편을 언급했습니다. 노동 시간 관리를 주 단위로 끊지 않고, 월 단위로 관리해서 탄력적으로 근무하게 하겠다는 게 핵심입니다. 지금은 노동자가 한 주에 52시간 넘게 일하면 사업주가 처벌을 받는데, 바쁜 주에는 52시간에 구애 받지 않고 몰아서 일하고, 덜 바쁜 주는 일을 덜해, 한 달 전체로 볼 때 한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 여야 정보공개 공방 '서해공무원 피격' SI정보 공개 가능?]]></title>
-        <id>https://v.daum.net/v/20220627085513034</id>
-        <link href="https://v.daum.net/v/20220627085513034"/>
-        <updated>2022-06-27T02:11:06.004Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 25일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 여야 정보공개 공방 '서해공무원]]></content>
     </entry>
 </feed>
