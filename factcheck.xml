@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-30T10:32:38.131Z</updated>
+    <updated>2022-06-30T11:20:43.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한동훈 비즈니스석 출장 파격' 언론보도, 검증해보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220630194806173</id>
+        <link href="https://v.daum.net/v/20220630194806173"/>
+        <updated>2022-06-30T11:19:46.857Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(워싱턴=연합뉴스) 방미 일정에 나선 한동훈 법무부 장관이 29일(현지시간) 워싱턴 덜레서 국제공항에 도착해 취재진 앞에서 현안에 대해 답변하고 있다. 2022.6.30 [워싱턴 특파원단]    ⓒ 연합뉴스  &nbsp; [검증대상] "한동훈 미국 출장 '비즈니스석 이용' 파격" 언론 보도 한동훈 법무부장관이 지난 29일 미국 워]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] MB의 577회 변호사 접견은 적은 것이다?]]></title>
         <id>https://v.daum.net/v/20220630170436741</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220627085405993"/>
         <updated>2022-06-27T02:11:06.007Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 25일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 문재인 정부가 누리호 예산을 삭감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 40년만에 풀린 '택시 합승', 합승했다는 사람 없는 이유]]></title>
-        <id>https://v.daum.net/v/20220627085103891</id>
-        <link href="https://v.daum.net/v/20220627085103891"/>
-        <updated>2022-06-27T02:11:06.007Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 6월 25일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 40년만에 풀린 '택시 합승',]]></content>
     </entry>
 </feed>
