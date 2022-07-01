@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-06-30T23:24:01.575Z</updated>
+    <updated>2022-07-01T08:32:18.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은?]]></title>
+        <id>https://v.daum.net/v/20220701111800495</id>
+        <link href="https://v.daum.net/v/20220701111800495"/>
+        <updated>2022-07-01T08:31:10.651Z</updated>
+        <content type="html"><![CDATA[내년 최저임금이 시간당 9,620원으로 결정됐습니다. 올해 최저임금인 9,160원 보다 5.0% 높은 금액입니다. 월 환산액, 즉 월 노동시간 209시간을 기준으로 하면 201만 580원입니다. 최저임금을 심의·의결하는 최저임금위원회는 근로자 위원, 사용자 위원, 공익 위원, 각각 9명씩 27명으로 구성되는데, 노사 간 입장 차이가 워낙 클 때가 많아 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] '기상 망명' 부르는 날씨 정보..어디를 믿어야 할까?]]></title>
         <id>https://v.daum.net/v/20220701070044366</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220629060328291"/>
         <updated>2022-06-28T21:19:22.476Z</updated>
         <content type="html"><![CDATA[핵심요약지난해 국민 1인당 전기사용량 '역대 최고치'로 세계 3위 수준 '산업용' 전력 소비 포함된 데 문제 제기…누리꾼들 "한국이 제조업에 강한 탓" 가구당이 아닌 '1인당 전력소비량'은 국제 비교상 편의 위한 통계치 전문가 "가정에서 전기를 쓴 게 세계 3위 수준으로 많다고 보기엔 무리 있어" 지난해 국민 1인당 전기사용량이 '역대 최고치'를 기록하며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실?]]></title>
-        <id>https://v.daum.net/v/20220628203706464</id>
-        <link href="https://v.daum.net/v/20220628203706464"/>
-        <updated>2022-06-28T12:47:33.732Z</updated>
-        <content type="html"><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한 끼당 7천원으로 1만원짜리 냉면 한 그릇도 못 먹]]></content>
     </entry>
 </feed>
