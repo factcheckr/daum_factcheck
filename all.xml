@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-01T10:27:48.990Z</updated>
+    <updated>2022-07-01T11:20:52.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 중국 통한 수출 호황 끝나간다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220701201012932</id>
+        <link href="https://v.daum.net/v/20220701201012932"/>
+        <updated>2022-07-01T11:19:45.130Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 나토(NATO) 정상회담 기간에 나온 대통령 경제수석의 이른바 '탈중국' 발언으로 논란이 커지고 있습니다. [최상목/대통령실 경제수석] "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황의 시대는 끝나가고 있습니다." 우리 수출에서 가장 큰 비중을 차지하는 중국 수출, 정말 내리막인 상황일까요. 확인해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220701111800495</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220629115404067"/>
         <updated>2022-06-29T04:09:28.939Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;&lt;조선일보&gt;는 6월 23일 팩트체크 기사 '尹정부 검찰총장, 47일 최장기 공석?... MB때 124일, 文때 88일'에서 "(22일 기준) 검찰총장 공석이 46일째로 역대 최장기”라는 박주민 더불어민주당 국회의원 주장은 "사실이 아닌 것으로 나타났다"고 보도했다.    ⓒ 조선일보  &nbsp; [검증대상] 박주민 "검찰총장 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]1인당 전기사용량 '역대 최고, 세계 3위' 맞나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220629060328291</id>
-        <link href="https://v.daum.net/v/20220629060328291"/>
-        <updated>2022-06-28T21:19:22.476Z</updated>
-        <content type="html"><![CDATA[핵심요약지난해 국민 1인당 전기사용량 '역대 최고치'로 세계 3위 수준 '산업용' 전력 소비 포함된 데 문제 제기…누리꾼들 "한국이 제조업에 강한 탓" 가구당이 아닌 '1인당 전력소비량'은 국제 비교상 편의 위한 통계치 전문가 "가정에서 전기를 쓴 게 세계 3위 수준으로 많다고 보기엔 무리 있어" 지난해 국민 1인당 전기사용량이 '역대 최고치'를 기록하며,]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국의 최저임금은 OECD 3위" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&nbsp;   지난 3월, 워낙 큰 선거를 치러서 그런 걸까요. 지방 선거에 대한 관심이 덜 한 것 같습니다. 지방 선거는 대선이나 총선에 비해 정치적 치열함은 덜 할 수 있지만, 우리가 뽑는 지역의 대표들은 구체적인 정책을 내놓고 집행하는 주체입니다. 그만큼 우리 실생활에 큰 영향을 미칠 수 있습니다. 오는 6월 1일, 지방선거를 앞두고 SBS 뉴스의 팩]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[중국 통한 수출 호황 끝나간다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220701201012932</id>
+        <link href="https://v.daum.net/v/20220701201012932"/>
+        <updated>2022-07-01T11:20:04.169Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 나토(NATO) 정상회담 기간에 나온 대통령 경제수석의 이른바 '탈중국' 발언으로 논란이 커지고 있습니다. [최상목/대통령실 경제수석] "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황의 시대는 끝나가고 있습니다." 우리 수출에서 가장 큰 비중을 차지하는 중국 수출, 정말 내리막인 상황일까요. 확인해]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[법인세 내리면 담뱃세 오른다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220624202210781</id>
         <link href="https://v.daum.net/v/20220624202210781"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220426203712246"/>
         <updated>2022-04-26T12:48:51.113Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서보신 끔찍한 동물 학대, 강력히 막아야 할 이유는 또 있습니다. 바로 동물에 대한 폭력성이 사람을 향한 강력범죄로 이어질 가능성이 높다는 주장이 있기 때문인데요. 과연 이 주장의 근거가 뭔지 확인해봤습니다. ◀ 리포트 ▶ 각각 20명과 10명을 잔혹하게 살해한 연쇄살인범 유영철과 강호순의 공통점이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창신동 모자가 지원하지 못한 이유..'가난의 조건'은? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220422203412338</id>
-        <link href="https://v.daum.net/v/20220422203412338"/>
-        <updated>2022-04-22T12:46:01.356Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신대로 숨진 80대 노모와 50대 아들이 기초생활보장수급 지원을 받지 못한 이유는 바로 이 80년 넘은 낡은 집 때문이었습니다. 그러면, 도대체 얼마나 가난해야 정부 지원을 받을 수 있었을지 따져봤습니다. ◀ 리포트 ▶ 해당 집의 등기부등본을 떼어봤습니다. 일제시대인 1937년에 지어진 목조주택]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["당시 국민의힘도 '월북' 수긍했다"..민주당 주장 따져보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
