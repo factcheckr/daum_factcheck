@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-01T23:23:46.542Z</updated>
+    <updated>2022-07-02T02:19:39.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
+        <id>https://v.daum.net/v/20220702111506555</id>
+        <link href="https://v.daum.net/v/20220702111506555"/>
+        <updated>2022-07-02T02:18:30.678Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 윤석열 대통령이 스페인 마드리드에서 열린 북대서양조약기구(NATO·나토) 정상회의에 참석한 것을 계기로 우리나라 수출정책이 유럽 위주로 전환할 가능성이 커지고 있다. 최상목 대통령실 경제수석은 지난달 28일(현지시간) 마드리드에서 가진 브리핑에서 "중국 성장이 둔화하고 있고, 내수 중심의 전략으로 전환되고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 어나니머스가 권도형 심판?.."사칭 가능성 크다"]]></title>
         <id>https://v.daum.net/v/20220702061020841</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220630153141307"/>
         <updated>2022-06-30T08:32:24.137Z</updated>
         <content type="html"><![CDATA[미국 전략국제문제연구소(CSIS)는 지난 15일(현지시간) 북한이 함경북도 길주군 풍계리 핵실험장의 3번 갱도 정비 완료에 이어 4번 갱도에서도 ‘새 건설 활동’이 관측된다고 밝혔다. 사진은 2018년 5월25일 폭파 직전 풍계리 핵실험장 4번 갱도의 입구 모습. 세계일보 자료사진  북한이 최근 함경북도 길주군 풍계리 핵실험장에서 ‘3번 갱도’ 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월세에 역전당한 전세.. 종말시대 온다? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220629214128413</id>
-        <link href="https://v.daum.net/v/20220629214128413"/>
-        <updated>2022-06-29T12:50:01.854Z</updated>
-        <content type="html"><![CDATA[서울 시내 부동산 중개업소의 전월세 게시물 모습. 연합뉴스  “전세라는 것은 하나의 옛날 추억이 될 것입니다.” 2016년 2월 당시 박근혜 대통령은 국정과제 세미나에서 전세종말론을 언급했다. 1970년대 전체 임대차 거래 중 70%에 육박했던 전세 계약의 비중이 최근에는 절반 이하로 줄어들었다. 임대차 3법(전월세상한제·계약갱신청구권제·전월세신고제)]]></content>
     </entry>
 </feed>
