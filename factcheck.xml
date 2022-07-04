@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-04T10:39:22.577Z</updated>
+    <updated>2022-07-04T11:20:54.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]"우리나라 전기료 세계 최저"..얼마나 저렴할까]]></title>
+        <id>https://v.daum.net/v/20220704194108604</id>
+        <link href="https://v.daum.net/v/20220704194108604"/>
+        <updated>2022-07-04T11:19:49.603Z</updated>
+        <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
         <id>https://v.daum.net/v/20220702111506555</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220630170436741"/>
         <updated>2022-06-30T08:32:24.135Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 이명박 전 대통령이 형집행정지로 풀려나면서 일각에서 특별사면으로 이어지는 것 아니냐는 관측이 나오는 가운데 이 전 대통령의 수감 기간 변호사 접견을 두고 특혜 논란이 불거졌다. 김윤덕 더불어민주당 의원은 법무부 자료를 토대로 분석한 결과 이달 13일 기준 이 전 대통령의 수감 기간 변호사 접견이 총 577회, 장소 변경 접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA 총장 "北 최근활동은 연쇄 핵실험 징후"? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220630153141307</id>
-        <link href="https://v.daum.net/v/20220630153141307"/>
-        <updated>2022-06-30T08:32:24.137Z</updated>
-        <content type="html"><![CDATA[미국 전략국제문제연구소(CSIS)는 지난 15일(현지시간) 북한이 함경북도 길주군 풍계리 핵실험장의 3번 갱도 정비 완료에 이어 4번 갱도에서도 ‘새 건설 활동’이 관측된다고 밝혔다. 사진은 2018년 5월25일 폭파 직전 풍계리 핵실험장 4번 갱도의 입구 모습. 세계일보 자료사진  북한이 최근 함경북도 길주군 풍계리 핵실험장에서 ‘3번 갱도’ 정]]></content>
     </entry>
 </feed>

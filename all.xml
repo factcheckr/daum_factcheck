@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-04T10:39:22.581Z</updated>
+    <updated>2022-07-04T11:20:54.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]"우리나라 전기료 세계 최저"..얼마나 저렴할까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220704194108604</id>
+        <link href="https://v.daum.net/v/20220704194108604"/>
+        <updated>2022-07-04T11:19:49.603Z</updated>
+        <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220702111506555</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220630170436741"/>
         <updated>2022-06-30T08:32:24.135Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 이명박 전 대통령이 형집행정지로 풀려나면서 일각에서 특별사면으로 이어지는 것 아니냐는 관측이 나오는 가운데 이 전 대통령의 수감 기간 변호사 접견을 두고 특혜 논란이 불거졌다. 김윤덕 더불어민주당 의원은 법무부 자료를 토대로 분석한 결과 이달 13일 기준 이 전 대통령의 수감 기간 변호사 접견이 총 577회, 장소 변경 접]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA 총장 "北 최근활동은 연쇄 핵실험 징후"? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220630153141307</id>
-        <link href="https://v.daum.net/v/20220630153141307"/>
-        <updated>2022-06-30T08:32:24.137Z</updated>
-        <content type="html"><![CDATA[미국 전략국제문제연구소(CSIS)는 지난 15일(현지시간) 북한이 함경북도 길주군 풍계리 핵실험장의 3번 갱도 정비 완료에 이어 4번 갱도에서도 ‘새 건설 활동’이 관측된다고 밝혔다. 사진은 2018년 5월25일 폭파 직전 풍계리 핵실험장 4번 갱도의 입구 모습. 세계일보 자료사진  북한이 최근 함경북도 길주군 풍계리 핵실험장에서 ‘3번 갱도’ 정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국의 최저임금은 OECD 3위" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[삼성전자의 반도체 핵심기술이 중국으로 넘어간 정황이 최근 검찰 수사를 통해 드러났습니다. 액체도 기체도 아닌 상태의 '초임계 이산화탄소'로 반도체 기판을 세정해 불량률을 최소화하는 기술입니다. 삼성전자 자회사인 '세메스'가 2018년 세계 최초로 개발해 관련 장비를 삼성전자에만 납품해왔는데, 세메스를 퇴직한 연구원들이 협력사 관계자들과 함께 초임계 세정]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["우리나라 전기료 세계 최저"..얼마나 저렴할까 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220704194108604</id>
+        <link href="https://v.daum.net/v/20220704194108604"/>
+        <updated>2022-07-04T11:20:27.062Z</updated>
+        <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220113201757064</id>
         <link href="https://v.daum.net/v/20220113201757064"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20211228201403149"/>
         <updated>2022-01-02T15:35:29.824Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 창경궁에서 시작합니다. 고궁에는 자연이 잘 보존돼 있어서 동물들이 서식지로 삼는 경우가 많은데요. 그런데 최근 온라인 커뮤니티에 창경궁에 살던 원앙이 고양이에게 잡아먹혀 자취를 감췄다는 글들이 올라오고 있습니다. 근거가 있는 얘기인지 스튜디오로 옮겨 알아봅니다. 이 글의 핵심은 천연기념물 원앙의 개체 수가 고양이의 공격 때문에 줄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔잎차로 백신 해독한다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211227195352389</id>
-        <link href="https://v.daum.net/v/20211227195352389"/>
-        <updated>2022-01-02T15:36:19.987Z</updated>
-        <content type="html"><![CDATA[팩트맨 시작합니다. 이번 주는&nbsp;권솔 기자 휴가로&nbsp;제가 대신 진행합니다. 최근 인터넷 커뮤니티에&nbsp;코로나19 백신에 든&nbsp;독성 물질을 솔잎차로&nbsp;해독한다는 글 많이 올라오고 있는데요. 하루 3잔에서 6잔 정도&nbsp;꾸준히 마시면&nbsp;혈전과 같은 백신 부작용,&nbsp;예방할 수 있다는 건데&nbsp;사실인지 알아봅니다. 수라민이라는 성분이&nbsp;솔잎차에 많이 들어있고&nbsp;부작용도&nbsp;예방]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인수위 '탈원전 탓' 주장 따져보니..환경단체들 "여러 데이터, 아전인수로 해석" (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
