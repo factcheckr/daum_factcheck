@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-04T11:20:54.216Z</updated>
+    <updated>2022-07-04T12:50:05.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상병수당 하루 4만3960원, 다른 나라보다 적다?]]></title>
+        <id>https://v.daum.net/v/20220704202807100</id>
+        <link href="https://v.daum.net/v/20220704202807100"/>
+        <updated>2022-07-04T12:49:00.253Z</updated>
+        <content type="html"><![CDATA[[앵커] 오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠. 그런데, 이에 대해서 여러 정보들이 난무해 있습니다. 다른 나라에 비해서 너무 약하다, 이런 얘기까지 하는데, 팩트체크를 해보겠습니다. 이지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]"우리나라 전기료 세계 최저"..얼마나 저렴할까]]></title>
         <id>https://v.daum.net/v/20220704194108604</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220630194806173"/>
         <updated>2022-06-30T11:19:46.857Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(워싱턴=연합뉴스) 방미 일정에 나선 한동훈 법무부 장관이 29일(현지시간) 워싱턴 덜레서 국제공항에 도착해 취재진 앞에서 현안에 대해 답변하고 있다. 2022.6.30 [워싱턴 특파원단]    ⓒ 연합뉴스  &nbsp; [검증대상] "한동훈 미국 출장 '비즈니스석 이용' 파격" 언론 보도 한동훈 법무부장관이 지난 29일 미국 워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] MB의 577회 변호사 접견은 적은 것이다?]]></title>
-        <id>https://v.daum.net/v/20220630170436741</id>
-        <link href="https://v.daum.net/v/20220630170436741"/>
-        <updated>2022-06-30T08:32:24.135Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 이명박 전 대통령이 형집행정지로 풀려나면서 일각에서 특별사면으로 이어지는 것 아니냐는 관측이 나오는 가운데 이 전 대통령의 수감 기간 변호사 접견을 두고 특혜 논란이 불거졌다. 김윤덕 더불어민주당 의원은 법무부 자료를 토대로 분석한 결과 이달 13일 기준 이 전 대통령의 수감 기간 변호사 접견이 총 577회, 장소 변경 접]]></content>
     </entry>
 </feed>
