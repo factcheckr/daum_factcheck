@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T09:24:19.867Z</updated>
+    <updated>2022-07-05T10:27:12.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 의사 면허는 '철통면허'? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220705191913839</id>
+        <link href="https://v.daum.net/v/20220705191913839"/>
+        <updated>2022-07-05T10:26:11.377Z</updated>
+        <content type="html"><![CDATA[“의사 면허는 철통면허”라는 말이 있습니다. 범죄를 저질러도 의사 면허가 유지되다 보니 그런 말이 생긴 겁니다. 2012년 환자에게 수면유도제 등을 불법 투여한 뒤 해당 환자가 사망하자 시신을 유기한 산부인과 의사 A씨. 최근 A 씨에게 다시 의사면허를 주라는 법원의 판결에 보건복지부가 항소하는 일이 있었습니다. 한 번 의사는 영원한 의사라는 말이 있는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 박지현, 비대위원장 임명시 피선거권 받았다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220705173008928</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220701111800495"/>
         <updated>2022-07-01T08:31:10.651Z</updated>
         <content type="html"><![CDATA[내년 최저임금이 시간당 9,620원으로 결정됐습니다. 올해 최저임금인 9,160원 보다 5.0% 높은 금액입니다. 월 환산액, 즉 월 노동시간 209시간을 기준으로 하면 201만 580원입니다. 최저임금을 심의·의결하는 최저임금위원회는 근로자 위원, 사용자 위원, 공익 위원, 각각 9명씩 27명으로 구성되는데, 노사 간 입장 차이가 워낙 클 때가 많아 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] '기상 망명' 부르는 날씨 정보..어디를 믿어야 할까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220701070044366</id>
-        <link href="https://v.daum.net/v/20220701070044366"/>
-        <updated>2022-06-30T22:23:04.147Z</updated>
-        <content type="html"><![CDATA[퇴근길 갑자기 쏟아진 비에 무방비로 서 있는 자신과 달리 여유롭게 우산을 꺼내 드는 사람들을 보며 문득 이런 생각을 해보신 적 있나요? '아침에 확인한 '어플'에선 비 온다는 소리 없었는데, 저 사람들은 어떻게 알고 우산을 챙겨왔지?' 이제 일기예보는 TV 방송뿐 아니라 스마트폰 어플이나 인터넷 등 다양한 경로로 접할 수 있는 세상이 됐습니다. 특히 요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
