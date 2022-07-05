@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T10:27:12.601Z</updated>
+    <updated>2022-07-05T11:22:31.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 촉법소년 흉악 범죄 최근 늘었다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220705201421085</id>
+        <link href="https://v.daum.net/v/20220705201421085"/>
+        <updated>2022-07-05T11:21:29.783Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 14살 미만의 학생은 범죄를 저질러도 처벌을 받지 않는 이른바 촉법소년입니다. 한동훈 법무부 장관도 촉법소년의 범죄가 점점 흉포화된다며 나이를 내리겠다고 했는데, 실제로 이런 범죄가 많이 늘었을까요? 홍지호 기자가 최근 10년간의 통계를 분석해봤습니다. 【 기자 】 만 10세 이상 14세 미만 청소년들을 '촉법소년'이라고 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 의사 면허는 '철통면허'? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220705191913839</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220701201012932"/>
         <updated>2022-07-01T11:19:45.130Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 나토(NATO) 정상회담 기간에 나온 대통령 경제수석의 이른바 '탈중국' 발언으로 논란이 커지고 있습니다. [최상목/대통령실 경제수석] "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황의 시대는 끝나가고 있습니다." 우리 수출에서 가장 큰 비중을 차지하는 중국 수출, 정말 내리막인 상황일까요. 확인해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "한국의 최저임금은 OECD 3위" 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220701111800495</id>
-        <link href="https://v.daum.net/v/20220701111800495"/>
-        <updated>2022-07-01T08:31:10.651Z</updated>
-        <content type="html"><![CDATA[내년 최저임금이 시간당 9,620원으로 결정됐습니다. 올해 최저임금인 9,160원 보다 5.0% 높은 금액입니다. 월 환산액, 즉 월 노동시간 209시간을 기준으로 하면 201만 580원입니다. 최저임금을 심의·의결하는 최저임금위원회는 근로자 위원, 사용자 위원, 공익 위원, 각각 9명씩 27명으로 구성되는데, 노사 간 입장 차이가 워낙 클 때가 많아 공]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
