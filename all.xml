@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T04:04:36.252Z</updated>
+    <updated>2022-07-05T05:27:26.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[사실은] 국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://v.daum.net/v/20220704194108604"/>
         <updated>2022-07-04T11:19:49.603Z</updated>
         <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "한국 최저임금 OECD 3위" 사실일까..팩트체크 해보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220703203905056</id>
+        <link href="https://v.daum.net/v/20220703203905056"/>
+        <updated>2022-07-05T05:26:24.336Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 내년 최저 임금은 올해보다 5% 오른 시간당 9,620원으로 결정됐습니다. 그러자 전국경제인연합회가 우리나라 최저 임금은 OECD 국가 가운데 3위라며 유감을 표했는데요. 정말 사실일지, 팩트체크 사실은 코너에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 한국 최저임금이 OECD 국가 중 3위라는 표현은, 노동자들의 '평균 임금'과 비교했을 때 최]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -68,18 +75,18 @@
         <content type="html"><![CDATA[[아이뉴스24 이영웅 기자] 3기 신도시 등 토지보상 문제를 놓고 사업시행자와 토지소유자간의 갈등이 매번 반복되고 있는 가운데 어떻게 해야 토지보상을 제대로 받을 수 있을지를 놓고 관심이 쏠린다. 더욱이 일부 커뮤니티에서는 토지 소유자들에게 토지보상비를 더 받으려면 버티라는 조언도 하고 있다. 결론적으로 말하자면, '버티면 보상금액을 더 높게 받을 수 있다]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 1인당 전기 사용량이 세계 3위? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220630204506104</id>
-        <link href="https://v.daum.net/v/20220630204506104"/>
-        <updated>2022-06-30T12:50:32.619Z</updated>
-        <content type="html"><![CDATA[[앵커] 내일(1일)부터 전기요금이 오르죠. 그런데 우리나라 국민 1인당 전기 사용량이 세계에서 3번째로 많다, 최상위권이다 이런 글들이 퍼지고 있습니다. 맞는 얘기인지, 팩트체크 해보지요. 이지은 기자, 사실입니까? [기자] 우선, 한국전력이 1인당 전기 사용량 세계 3위다 이렇게 공식 자료를 낸 건 없습니다. 다만 지난 4월에 발간한 자료를 통해, 1인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20220705113600520</id>
         <link href="https://v.daum.net/v/20220705113600520"/>
-        <updated>2022-07-05T04:02:47.683Z</updated>
+        <updated>2022-07-05T04:02:36.096Z</updated>
         <content type="html"><![CDATA[한 달 넘게 미뤄졌던 여야의 '원 구성' 협상이 어제 극적으로 타결됐습니다. 여야 모두가 참석한 본회의에서 더불어민주당 출신 김진표 의원이 국회의장으로 공식 선출됐습니다. 협상이 난항을 겪으며 국회가 공백 상태로 접어든 지 36일 만입니다. 여야는 국회의장 선출 말고도 빠른 시일 안에 법사위원장을 비롯한 상임위원장 선출을 위한 협상을 계속 이어가기로 했습]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["한국 최저임금 OECD 3위" 사실일까..팩트체크 해보니 (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20220703203905056</id>
+        <link href="https://v.daum.net/v/20220703203905056"/>
+        <updated>2022-07-05T05:26:33.129Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 내년 최저 임금은 올해보다 5% 오른 시간당 9,620원으로 결정됐습니다. 그러자 전국경제인연합회가 우리나라 최저 임금은 OECD 국가 가운데 3위라며 유감을 표했는데요. 정말 사실일지, 팩트체크 사실은 코너에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 한국 최저임금이 OECD 국가 중 3위라는 표현은, 노동자들의 '평균 임금'과 비교했을 때 최]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국의 최저임금은 OECD 3위" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://v.daum.net/v/20220526212406743"/>
         <updated>2022-05-26T12:46:48.811Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 내일(27일)부터 지방선거 사전투표가 이뤄지는데, 이번에는 우리가 뽑는 지역 일꾼 지방자치단체장들이 얼마나 막대한 인사권을 행사하는 자리인지 살펴보겠습니다. SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀의 연속 보도, 이경원 기자입니다. &lt;기자&gt; 서울시청 소속 공무원, 최근 통계 기준으로 1만 1천여 명입니다. 이들에 대한 인사권, 당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5·18 왜곡 처벌법 시행됐지만..유언비어 여전 (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220518210022733</id>
-        <link href="https://v.daum.net/v/20220518210022733"/>
-        <updated>2022-05-24T02:06:05.166Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 지난해부터 5.18민주화운동을 왜곡하는 허위사실을 유포하면 처벌하도록 하는 법이 시행되고 있는데요. 그 뒤 상황이 어떻게 달라졌는지 알아봤습니다. 팩트체크 코너, &lt;사실은&gt; 팀 이경원 기자입니다. &lt;기자&gt; 매년 5월 5·18 관련 유언비어가 쏟아졌고, [유튜브 영상물 (2020년 5월) : 간첩 사범들, 이런 애들 다 광주에 풀어서 혼란을 야기시키]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 통한 수출 호황 끝나간다? (다음 뉴스 ─ MBC 알고보니)]]></title>

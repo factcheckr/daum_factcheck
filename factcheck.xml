@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-05T04:04:36.243Z</updated>
+    <updated>2022-07-05T05:27:26.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20220704194108604"/>
         <updated>2022-07-04T11:19:49.603Z</updated>
         <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "한국 최저임금 OECD 3위" 사실일까..팩트체크 해보니]]></title>
+        <id>https://v.daum.net/v/20220703203905056</id>
+        <link href="https://v.daum.net/v/20220703203905056"/>
+        <updated>2022-07-05T05:26:24.336Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 내년 최저 임금은 올해보다 5% 오른 시간당 9,620원으로 결정됐습니다. 그러자 전국경제인연합회가 우리나라 최저 임금은 OECD 국가 가운데 3위라며 유감을 표했는데요. 정말 사실일지, 팩트체크 사실은 코너에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 한국 최저임금이 OECD 국가 중 3위라는 표현은, 노동자들의 '평균 임금'과 비교했을 때 최]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220701060047636"/>
         <updated>2022-06-30T21:22:16.012Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 이영웅 기자] 3기 신도시 등 토지보상 문제를 놓고 사업시행자와 토지소유자간의 갈등이 매번 반복되고 있는 가운데 어떻게 해야 토지보상을 제대로 받을 수 있을지를 놓고 관심이 쏠린다. 더욱이 일부 커뮤니티에서는 토지 소유자들에게 토지보상비를 더 받으려면 버티라는 조언도 하고 있다. 결론적으로 말하자면, '버티면 보상금액을 더 높게 받을 수 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 1인당 전기 사용량이 세계 3위?]]></title>
-        <id>https://v.daum.net/v/20220630204506104</id>
-        <link href="https://v.daum.net/v/20220630204506104"/>
-        <updated>2022-06-30T12:50:32.619Z</updated>
-        <content type="html"><![CDATA[[앵커] 내일(1일)부터 전기요금이 오르죠. 그런데 우리나라 국민 1인당 전기 사용량이 세계에서 3번째로 많다, 최상위권이다 이런 글들이 퍼지고 있습니다. 맞는 얘기인지, 팩트체크 해보지요. 이지은 기자, 사실입니까? [기자] 우선, 한국전력이 1인당 전기 사용량 세계 3위다 이렇게 공식 자료를 낸 건 없습니다. 다만 지난 4월에 발간한 자료를 통해, 1인]]></content>
     </entry>
 </feed>
