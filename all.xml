@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T21:23:57.445Z</updated>
+    <updated>2022-07-05T22:23:43.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220706070205081</id>
+        <link href="https://v.daum.net/v/20220706070205081"/>
+        <updated>2022-07-05T22:22:31.849Z</updated>
+        <content type="html"><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다” - 이기일 보건복지부 차관(중앙방역대책본부회의, 2022.06.22.) 연일 30도가 넘는 불볕 더위가 이어지며 본격적인 여름이 시작됐습니다. 이달 말이면 학생들이 방학에 들어가고 직장인들도 여름 휴가철을 맞이할 텐데요, 그런데 방학과 휴가를 마냥 반길 상황만은 아닐 듯합니다. 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 연세대 청소노동자 월급 3백만 원 넘는다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220706055401196</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220702111506555"/>
         <updated>2022-07-02T02:18:30.678Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 윤석열 대통령이 스페인 마드리드에서 열린 북대서양조약기구(NATO·나토) 정상회의에 참석한 것을 계기로 우리나라 수출정책이 유럽 위주로 전환할 가능성이 커지고 있다. 최상목 대통령실 경제수석은 지난달 28일(현지시간) 마드리드에서 가진 브리핑에서 "중국 성장이 둔화하고 있고, 내수 중심의 전략으로 전환되고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 어나니머스가 권도형 심판?.."사칭 가능성 크다" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220702061020841</id>
-        <link href="https://v.daum.net/v/20220702061020841"/>
-        <updated>2022-07-01T21:20:19.375Z</updated>
-        <content type="html"><![CDATA[[앵커] 최근 세계적인 해커집단인 어나니머스가 루나 폭락 사태의 장본인인 권도형 테라폼랩스 대표를 심판하겠다고 경고했다는 언론 보도가 잇달았는데요. 그런데 YTN이 확인해 보니, 경고 영상을 올린 계정에서는 또 다른 암호 화폐를 홍보하고 있었습니다. 팩트와이, 신지원 기자입니다. [기자] [유튜브 '어나니머스' : 우리가 할 수 있는 유일한 일은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서보신 끔찍한 동물 학대, 강력히 막아야 할 이유는 또 있습니다. 바로 동물에 대한 폭력성이 사람을 향한 강력범죄로 이어질 가능성이 높다는 주장이 있기 때문인데요. 과연 이 주장의 근거가 뭔지 확인해봤습니다. ◀ 리포트 ▶ 각각 20명과 10명을 잔혹하게 살해한 연쇄살인범 유영철과 강호순의 공통점이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220706070205081</id>
+        <link href="https://v.daum.net/v/20220706070205081"/>
+        <updated>2022-07-05T22:23:06.107Z</updated>
+        <content type="html"><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다” - 이기일 보건복지부 차관(중앙방역대책본부회의, 2022.06.22.) 연일 30도가 넘는 불볕 더위가 이어지며 본격적인 여름이 시작됐습니다. 이달 말이면 학생들이 방학에 들어가고 직장인들도 여름 휴가철을 맞이할 텐데요, 그런데 방학과 휴가를 마냥 반길 상황만은 아닐 듯합니다. 코로나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["당시 국민의힘도 '월북' 수긍했다"..민주당 주장 따져보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220621060135412</id>
         <link href="https://v.daum.net/v/20220621060135412"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220519083603907"/>
         <updated>2022-05-24T02:05:54.748Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산업기술 중국에 넘겨도 솜방망이 처벌"..왜? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220519070053176</id>
-        <link href="https://v.daum.net/v/20220519070053176"/>
-        <updated>2022-05-24T02:06:22.771Z</updated>
-        <content type="html"><![CDATA[삼성전자의 반도체 핵심기술이 중국으로 넘어간 정황이 최근 검찰 수사를 통해 드러났습니다. 액체도 기체도 아닌 상태의 '초임계 이산화탄소'로 반도체 기판을 세정해 불량률을 최소화하는 기술입니다. 삼성전자 자회사인 '세메스'가 2018년 세계 최초로 개발해 관련 장비를 삼성전자에만 납품해왔는데, 세메스를 퇴직한 연구원들이 협력사 관계자들과 함께 초임계 세정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우리나라 전기료 세계 최저"..얼마나 저렴할까 (다음 뉴스 ─ 채널A 팩트맨)]]></title>

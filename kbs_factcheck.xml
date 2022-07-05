@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-07-05T21:23:57.438Z</updated>
+    <updated>2022-07-05T22:23:43.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나?]]></title>
+        <id>https://v.daum.net/v/20220706070205081</id>
+        <link href="https://v.daum.net/v/20220706070205081"/>
+        <updated>2022-07-05T22:23:06.107Z</updated>
+        <content type="html"><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다” - 이기일 보건복지부 차관(중앙방역대책본부회의, 2022.06.22.) 연일 30도가 넘는 불볕 더위가 이어지며 본격적인 여름이 시작됐습니다. 이달 말이면 학생들이 방학에 들어가고 직장인들도 여름 휴가철을 맞이할 텐데요, 그런데 방학과 휴가를 마냥 반길 상황만은 아닐 듯합니다. 코로나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당시 국민의힘도 '월북' 수긍했다"..민주당 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20220621060135412</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220519083603907"/>
         <updated>2022-05-24T02:06:22.767Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산업기술 중국에 넘겨도 솜방망이 처벌"..왜?]]></title>
-        <id>https://v.daum.net/v/20220519070053176</id>
-        <link href="https://v.daum.net/v/20220519070053176"/>
-        <updated>2022-05-24T02:06:22.771Z</updated>
-        <content type="html"><![CDATA[삼성전자의 반도체 핵심기술이 중국으로 넘어간 정황이 최근 검찰 수사를 통해 드러났습니다. 액체도 기체도 아닌 상태의 '초임계 이산화탄소'로 반도체 기판을 세정해 불량률을 최소화하는 기술입니다. 삼성전자 자회사인 '세메스'가 2018년 세계 최초로 개발해 관련 장비를 삼성전자에만 납품해왔는데, 세메스를 퇴직한 연구원들이 협력사 관계자들과 함께 초임계 세정]]></content>
     </entry>
 </feed>
