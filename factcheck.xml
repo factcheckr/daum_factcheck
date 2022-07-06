@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-06T02:29:02.310Z</updated>
+    <updated>2022-07-06T04:11:30.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220706122700717</id>
+        <link href="https://v.daum.net/v/20220706122700717"/>
+        <updated>2022-07-06T04:10:27.113Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;연세대학교 청소ㆍ경비노동자들이 5일 오전 서울 서대문구 연세대학교 백양로에서 집회를 열고 임금인상과 정년퇴직자 인원 충원, 샤워실 설치 등을 요구하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "연세대 청소 노동자 월급 300만~400만원" 고소 학생 주장 연세대학교 캠퍼스에서 집회를 진행한 청소·경비 노동자들을 상대로 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 연세대 청소노동자 월급 3백만 원 넘는다?]]></title>
         <id>https://v.daum.net/v/20220706102213573</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220704194108604"/>
         <updated>2022-07-04T11:19:49.603Z</updated>
         <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "한국 최저임금 OECD 3위" 사실일까..팩트체크 해보니]]></title>
-        <id>https://v.daum.net/v/20220703203905056</id>
-        <link href="https://v.daum.net/v/20220703203905056"/>
-        <updated>2022-07-05T05:26:24.336Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 내년 최저 임금은 올해보다 5% 오른 시간당 9,620원으로 결정됐습니다. 그러자 전국경제인연합회가 우리나라 최저 임금은 OECD 국가 가운데 3위라며 유감을 표했는데요. 정말 사실일지, 팩트체크 사실은 코너에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 한국 최저임금이 OECD 국가 중 3위라는 표현은, 노동자들의 '평균 임금'과 비교했을 때 최]]></content>
     </entry>
 </feed>
