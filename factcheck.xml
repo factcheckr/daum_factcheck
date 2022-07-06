@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-06T07:23:06.832Z</updated>
+    <updated>2022-07-06T08:31:21.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 119 신고해도 위치추적 안 된다?]]></title>
+        <id>https://v.daum.net/v/20220706165804797</id>
+        <link href="https://v.daum.net/v/20220706165804797"/>
+        <updated>2022-07-06T08:30:14.687Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 서울 가양역 인근에서 20대 여성이 실종돼 경찰이 수사에 나선 가운데, 실종자가 실종 당일 119에 신고를 했다는 사실이 주목을 받고 있다. 지난달 27일 저녁 가족·지인들과 연락이 두절된 후 현재까지 행방이 묘연한 직장인 김가을 씨는 실종 당일 밤 '언니가 쓰러져있을지 모른다'며 119에 신고했고, 구급대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220706122700717</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220704202807100"/>
         <updated>2022-07-04T12:49:00.253Z</updated>
         <content type="html"><![CDATA[[앵커] 오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠. 그런데, 이에 대해서 여러 정보들이 난무해 있습니다. 다른 나라에 비해서 너무 약하다, 이런 얘기까지 하는데, 팩트체크를 해보겠습니다. 이지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]"우리나라 전기료 세계 최저"..얼마나 저렴할까]]></title>
-        <id>https://v.daum.net/v/20220704194108604</id>
-        <link href="https://v.daum.net/v/20220704194108604"/>
-        <updated>2022-07-04T11:19:49.603Z</updated>
-        <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
     </entry>
 </feed>
