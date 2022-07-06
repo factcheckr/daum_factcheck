@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-05T23:25:52.086Z</updated>
+    <updated>2022-07-06T02:29:02.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 연세대 청소노동자 월급 3백만 원 넘는다?]]></title>
+        <id>https://v.daum.net/v/20220706102213573</id>
+        <link href="https://v.daum.net/v/20220706102213573"/>
+        <updated>2022-07-06T02:27:59.650Z</updated>
+        <content type="html"><![CDATA[[앵커] 대학생들이 학내 청소 노동자들의 집회가 너무 시끄러워 고통받는다며 손해 배상 소송을 내 논란이 일고 있습니다. 자신들이 낸 등록금으로 청소 노동자가 한 달 3∼4백만 원에 이르는 월급을 받는다는 주장도 했는데요. 사실인지 팩트체크했습니다. 박희재 기자입니다. [기자] 청소 노동자들의 요구는, 최저임금 수준인 시급을 4백 원 올리고 샤워실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나?]]></title>
         <id>https://v.daum.net/v/20220706070205081</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220703203905056"/>
         <updated>2022-07-05T05:26:24.336Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 내년 최저 임금은 올해보다 5% 오른 시간당 9,620원으로 결정됐습니다. 그러자 전국경제인연합회가 우리나라 최저 임금은 OECD 국가 가운데 3위라며 유감을 표했는데요. 정말 사실일지, 팩트체크 사실은 코너에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 한국 최저임금이 OECD 국가 중 3위라는 표현은, 노동자들의 '평균 임금'과 비교했을 때 최]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국 통한 수출 호황 시대 끝나가고 있다?]]></title>
-        <id>https://v.daum.net/v/20220702111506555</id>
-        <link href="https://v.daum.net/v/20220702111506555"/>
-        <updated>2022-07-02T02:18:30.678Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 윤석열 대통령이 스페인 마드리드에서 열린 북대서양조약기구(NATO·나토) 정상회의에 참석한 것을 계기로 우리나라 수출정책이 유럽 위주로 전환할 가능성이 커지고 있다. 최상목 대통령실 경제수석은 지난달 28일(현지시간) 마드리드에서 가진 브리핑에서 "중국 성장이 둔화하고 있고, 내수 중심의 전략으로 전환되고]]></content>
     </entry>
 </feed>
