@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-06T10:29:26.303Z</updated>
+    <updated>2022-07-06T11:33:20.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]'파출소 습격' 공기화살총, 누구나 구매 가능?]]></title>
+        <id>https://v.daum.net/v/20220706194211653</id>
+        <link href="https://v.daum.net/v/20220706194211653"/>
+        <updated>2022-07-06T11:32:15.655Z</updated>
+        <content type="html"><![CDATA[[기자] 파출소에 화살총을 쏘고 달아난 남성, 어제 보도해드렸죠. 은행을 털기 전, 시험 삼아 쐈다는 건데요. 이 화살총, 해외 직구로 구입했다고 진술했습니다. 한눈에도 위협적인 이런 총, 누구든지 사서 들여올 수 있는 것인지 알아봅니다. 범행에 쓰인 이 총, 독일 회사가 만든 공기화살총이었는데요. 제조사 설명을 보면 화살 25발을 연속으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 119 신고해도 위치추적 안 된다?]]></title>
         <id>https://v.daum.net/v/20220706165804797</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220705113600520"/>
         <updated>2022-07-05T04:02:36.096Z</updated>
         <content type="html"><![CDATA[한 달 넘게 미뤄졌던 여야의 '원 구성' 협상이 어제 극적으로 타결됐습니다. 여야 모두가 참석한 본회의에서 더불어민주당 출신 김진표 의원이 국회의장으로 공식 선출됐습니다. 협상이 난항을 겪으며 국회가 공백 상태로 접어든 지 36일 만입니다. 여야는 국회의장 선출 말고도 빠른 시일 안에 법사위원장을 비롯한 상임위원장 선출을 위한 협상을 계속 이어가기로 했습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 상병수당 하루 4만3960원, 다른 나라보다 적다?]]></title>
-        <id>https://v.daum.net/v/20220704202807100</id>
-        <link href="https://v.daum.net/v/20220704202807100"/>
-        <updated>2022-07-04T12:49:00.253Z</updated>
-        <content type="html"><![CDATA[[앵커] 오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠. 그런데, 이에 대해서 여러 정보들이 난무해 있습니다. 다른 나라에 비해서 너무 약하다, 이런 얘기까지 하는데, 팩트체크를 해보겠습니다. 이지]]></content>
     </entry>
 </feed>
