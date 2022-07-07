@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-07T06:31:49.639Z</updated>
+    <updated>2022-07-07T07:23:47.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[보험료는 내국인이 내고, 혜택은 외국인이 받는다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220707155948369</id>
+        <link href="https://v.daum.net/v/20220707155948369"/>
+        <updated>2022-07-07T07:22:53.558Z</updated>
+        <content type="html"><![CDATA[“건강보험료는 내국인이 내고, 혜택은&nbsp;외국인이 받아간다.” 정부가 오는 9월부터 시행되는 건보료 부과체계 2차 개편안을 발표하자 외국인들의 건보 ‘먹튀’(먹고 튀기) 논란이 다시 불거졌다.&nbsp;지역가입자의 부담은&nbsp;낮추고, 건보료 납부&nbsp;여력이 있는 피부양자의 무임승차를 방지하는 게 개편안의 골자다. 피부양자의 소득 기준을 높이는 내용이 개편안에 담기자&nbsp;일각에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220707120011415</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220705201421085"/>
         <updated>2022-07-05T11:21:29.783Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 14살 미만의 학생은 범죄를 저질러도 처벌을 받지 않는 이른바 촉법소년입니다. 한동훈 법무부 장관도 촉법소년의 범죄가 점점 흉포화된다며 나이를 내리겠다고 했는데, 실제로 이런 범죄가 많이 늘었을까요? 홍지호 기자가 최근 10년간의 통계를 분석해봤습니다. 【 기자 】 만 10세 이상 14세 미만 청소년들을 '촉법소년'이라고 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 의사 면허는 '철통면허'? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220705191913839</id>
-        <link href="https://v.daum.net/v/20220705191913839"/>
-        <updated>2022-07-05T10:26:11.377Z</updated>
-        <content type="html"><![CDATA[“의사 면허는 철통면허”라는 말이 있습니다. 범죄를 저질러도 의사 면허가 유지되다 보니 그런 말이 생긴 겁니다. 2012년 환자에게 수면유도제 등을 불법 투여한 뒤 해당 환자가 사망하자 시신을 유기한 산부인과 의사 A씨. 최근 A 씨에게 다시 의사면허를 주라는 법원의 판결에 보건복지부가 항소하는 일이 있었습니다. 한 번 의사는 영원한 의사라는 말이 있는데]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요? (다음 뉴스 ─ SBS 사실은)]]></title>
