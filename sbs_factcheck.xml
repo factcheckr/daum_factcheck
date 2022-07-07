@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-07-07T07:23:47.175Z</updated>
+    <updated>2022-07-07T08:32:02.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준?]]></title>
+        <id>https://v.daum.net/v/20220707173012770</id>
+        <link href="https://v.daum.net/v/20220707173012770"/>
+        <updated>2022-07-07T08:31:14.619Z</updated>
+        <content type="html"><![CDATA[지난 4일(현지시간) 미국 시카고 근처 하이랜드파크가 피로 물들었습니다. 독립기념일 행사 중에 시민을 향한 무차별 총격 사건이 벌어졌기 때문입니다. 6명이 사망하고 31명이 다쳤습니다. 총격 용의자는 22살 남성인 로버트 크리모 3세. 범행 동기는 수사 중입니다. 하이랜드파크 총격 용의자&nbsp;로버트 크리모 3세. 지난 5월에는 텍사스와 뉴욕주에서도 총기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회 '개점 휴업', 이번이 유독 길었나요?]]></title>
         <id>https://v.daum.net/v/20220705113600520</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220531210610634"/>
         <updated>2022-05-31T12:47:15.639Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 선거를 치를 때마다 많은 나랏돈을 쓰게 되는데요. 특히 내일(1일)로 다가온 지방선거 같은 경우는 더욱 그렇습니다. 왜 그런지, SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀이 분석했습니다. 이경원 기자입니다. &lt;기자&gt; 선거를 앞두고 후보 등록이 끝나면, 국회의원 배출한 정당들 중심으로 선거 보조금을 받습니다. 선거일 보름 전쯤에 줍니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지자체장, 40만 명 인사권 '쥐락펴락']]></title>
-        <id>https://v.daum.net/v/20220526212406743</id>
-        <link href="https://v.daum.net/v/20220526212406743"/>
-        <updated>2022-05-26T12:46:58.985Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 내일(27일)부터 지방선거 사전투표가 이뤄지는데, 이번에는 우리가 뽑는 지역 일꾼 지방자치단체장들이 얼마나 막대한 인사권을 행사하는 자리인지 살펴보겠습니다. SBS 팩트체크 '사실은'팀과 데이터저널리즘 '마부작침'팀의 연속 보도, 이경원 기자입니다. &lt;기자&gt; 서울시청 소속 공무원, 최근 통계 기준으로 1만 1천여 명입니다. 이들에 대한 인사권, 당]]></content>
     </entry>
 </feed>
