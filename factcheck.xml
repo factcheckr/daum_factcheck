@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-07T11:21:47.717Z</updated>
+    <updated>2022-07-07T12:59:25.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 주식·코인 투자빚 서울 가서 탕감받는다?]]></title>
+        <id>https://v.daum.net/v/20220707202215216</id>
+        <link href="https://v.daum.net/v/20220707202215216"/>
+        <updated>2022-07-07T12:58:28.483Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 몇 년 새 2, 30대 청년층의 주식과 가상화폐 투자가 급증하면서, 최근엔 청년층이 개인파산이나 회생절차를 밟는 사례가 늘고 있습니다. 이런 상황에서 서울회생법원이 주식, 가상화폐 투자 손실금은 변제액을 정할 때 고려하지 않는다는 지원 방안을 내놨는데요. 빚내서 투자하는 '빚투'를 조장한다. '먹튀'를 조장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 에어컨 전기료 아끼려면..계속 틀어야? 껐다 켜야?]]></title>
         <id>https://v.daum.net/v/20220707200907945</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220706122700717"/>
         <updated>2022-07-06T04:10:27.113Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;연세대학교 청소ㆍ경비노동자들이 5일 오전 서울 서대문구 연세대학교 백양로에서 집회를 열고 임금인상과 정년퇴직자 인원 충원, 샤워실 설치 등을 요구하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "연세대 청소 노동자 월급 300만~400만원" 고소 학생 주장 연세대학교 캠퍼스에서 집회를 진행한 청소·경비 노동자들을 상대로 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 연세대 청소노동자 월급 3백만 원 넘는다?]]></title>
-        <id>https://v.daum.net/v/20220706102213573</id>
-        <link href="https://v.daum.net/v/20220706102213573"/>
-        <updated>2022-07-06T02:27:59.650Z</updated>
-        <content type="html"><![CDATA[[앵커] 대학생들이 학내 청소 노동자들의 집회가 너무 시끄러워 고통받는다며 손해 배상 소송을 내 논란이 일고 있습니다. 자신들이 낸 등록금으로 청소 노동자가 한 달 3∼4백만 원에 이르는 월급을 받는다는 주장도 했는데요. 사실인지 팩트체크했습니다. 박희재 기자입니다. [기자] 청소 노동자들의 요구는, 최저임금 수준인 시급을 4백 원 올리고 샤워실]]></content>
     </entry>
 </feed>
