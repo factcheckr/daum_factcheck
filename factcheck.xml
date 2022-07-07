@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-07T10:28:54.648Z</updated>
+    <updated>2022-07-07T11:21:47.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 에어컨 전기료 아끼려면..계속 틀어야? 껐다 켜야?]]></title>
+        <id>https://v.daum.net/v/20220707200907945</id>
+        <link href="https://v.daum.net/v/20220707200907945"/>
+        <updated>2022-07-07T11:20:39.989Z</updated>
+        <content type="html"><![CDATA[[앵커] 일찍 찾아온 습하고 더운 날씨 때문에 집집마다 에어컨 켜면서도 전기요금이 걱정이실 텐데요. 조금이라도 요금을 아끼려면 계속 켜두는 게 나은지, 아니면 껐다 켰다 하는 게 좋은지 헷갈립니다. 지금부터 팩트체크 이지은 기자가 자세하게 알려드리겠습니다. 이지은 기자, 둘 중에 뭐가 맞습니까? [기자] 맞기도 하고, 틀리기도 합니다. 에어컨 종류가 뭐냐에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 美 총기 사고 희생자, 전쟁 희생자 수준?]]></title>
         <id>https://v.daum.net/v/20220707173012770</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220706102213573"/>
         <updated>2022-07-06T02:27:59.650Z</updated>
         <content type="html"><![CDATA[[앵커] 대학생들이 학내 청소 노동자들의 집회가 너무 시끄러워 고통받는다며 손해 배상 소송을 내 논란이 일고 있습니다. 자신들이 낸 등록금으로 청소 노동자가 한 달 3∼4백만 원에 이르는 월급을 받는다는 주장도 했는데요. 사실인지 팩트체크했습니다. 박희재 기자입니다. [기자] 청소 노동자들의 요구는, 최저임금 수준인 시급을 4백 원 올리고 샤워실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나?]]></title>
-        <id>https://v.daum.net/v/20220706070205081</id>
-        <link href="https://v.daum.net/v/20220706070205081"/>
-        <updated>2022-07-05T22:22:31.849Z</updated>
-        <content type="html"><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다” - 이기일 보건복지부 차관(중앙방역대책본부회의, 2022.06.22.) 연일 30도가 넘는 불볕 더위가 이어지며 본격적인 여름이 시작됐습니다. 이달 말이면 학생들이 방학에 들어가고 직장인들도 여름 휴가철을 맞이할 텐데요, 그런데 방학과 휴가를 마냥 반길 상황만은 아닐 듯합니다. 코로나]]></content>
     </entry>
 </feed>

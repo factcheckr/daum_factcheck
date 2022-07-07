@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-07-07T10:28:54.647Z</updated>
+    <updated>2022-07-07T11:21:47.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에어컨 전기료 아끼려면..계속 틀어야? 껐다 켜야?]]></title>
+        <id>https://v.daum.net/v/20220707200907945</id>
+        <link href="https://v.daum.net/v/20220707200907945"/>
+        <updated>2022-07-07T11:21:47.030Z</updated>
+        <content type="html"><![CDATA[[앵커] 일찍 찾아온 습하고 더운 날씨 때문에 집집마다 에어컨 켜면서도 전기요금이 걱정이실 텐데요. 조금이라도 요금을 아끼려면 계속 켜두는 게 나은지, 아니면 껐다 켰다 하는 게 좋은지 헷갈립니다. 지금부터 팩트체크 이지은 기자가 자세하게 알려드리겠습니다. 이지은 기자, 둘 중에 뭐가 맞습니까? [기자] 맞기도 하고, 틀리기도 합니다. 에어컨 종류가 뭐냐에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상병수당 하루 4만3960원, 다른 나라보다 적다?]]></title>
         <id>https://v.daum.net/v/20220704202807100</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220524204707078"/>
         <updated>2022-06-08T15:24:49.943Z</updated>
         <content type="html"><![CDATA[[앵커] 검찰 고위직에 법무부 장관 그리고 국무총리까지 지낸 황교안 전 자유한국당 대표가 '선거조작설'을 주장하고 있습니다. 또 '부정선거 방지 꿀팁'이라는 신문 광고에도 등장했습니다. 특히 이 광고는 팩트체크를 하지 않을 수가 없습니다. 이지은 기자, 광고 내용부터 볼까요? [기자] 황교안 전 총리가 대표로 있는 부정선거 방지대라는 단체에서 낸 광고입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 국가 울릴때 '가슴에 손'..예우 규정 어겼다?]]></title>
-        <id>https://v.daum.net/v/20220523202105517</id>
-        <link href="https://v.daum.net/v/20220523202105517"/>
-        <updated>2022-06-08T15:24:49.947Z</updated>
-        <content type="html"><![CDATA[[앵커] 이틀 전, 윤석열 대통령이 바이든 대통령과 환영 만찬을 가졌는데, 당시 윤 대통령이 미국 국가가 연주될 때 가슴에 손을 올린 걸 놓고 논란입니다. 규정에 맞지 않는다, 이런 지적인데요. 팩트체크 해보겠습니다. 이지은 기자, 정확히 어떤 상황이었습니까? [기자] 만찬이 시작되기 전입니다. 식순에 따라 먼저 미국 국가가 연주됐는데요. 당시 상황을 영상]]></content>
     </entry>
 </feed>
