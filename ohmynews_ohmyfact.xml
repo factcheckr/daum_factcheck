@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-07-07T02:26:32.689Z</updated>
+    <updated>2022-07-07T04:09:12.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20220707120011415</id>
+        <link href="https://v.daum.net/v/20220707120011415"/>
+        <updated>2022-07-07T04:09:03.521Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령 당선 이후 주간 단위 직무 수행 평가. (자료 출처 : 한국갤럽 자체 조사. 매주 화~목 조사. 유효표본 약 1000명. 표본오차 3.1% 포인트 (95% 신뢰수준). 중앙선거여론조사심의위원회 및 한국갤럼 홈페이지 참조)    ⓒ 김시연  &nbsp; [검증대상] "윤석열보다 노태우 데드크로스가 더 빨랐다" 언론 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20220706122700717</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220519180000937"/>
         <updated>2022-06-08T15:24:42.343Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] &nbsp;        ▲ &nbsp;19일 주요 인터넷 커뮤니티와 소셜미디어에는 구글과 달리 네이버, 다음 등 국내 포털 사이트에서 ‘용산 차막힘’을 검색하면 변기 사진만 뜬다는 지적이 잇달았다. 사진은 18일 오후 6시경 딴지일보 페이스북 계정으로 올라온 사진.    ⓒ 딴지일보 페이스북  &nbsp;&nbsp; [검증대상] "윤석열 출퇴근 때문에 '용산 차막힘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["총리·국정원장 없어 NSC 소집 안 했다" 언론 보도 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20220514193907876</id>
-        <link href="https://v.daum.net/v/20220514193907876"/>
-        <updated>2022-06-08T15:24:42.344Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;김성한 대통령실 국가안보실장은 12일 오후 북한 미사일 발사 직후 안보상황점검회의를 주재했다.    ⓒ 인수위사진취재단  &nbsp; [검증대상] "총리·국정원장 공석이라 NSC 소집 안 했다" 일부 언론 보도&nbsp; 북한이 12일 오후 6시 29분쯤 평양 순안 일대에서 동해상으로 단거리 탄도미사일 세 발을 발사했다. 윤석열 정부 출]]></content>
     </entry>
 </feed>

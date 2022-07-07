@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-07T02:26:32.689Z</updated>
+    <updated>2022-07-07T04:09:12.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220707120011415</id>
+        <link href="https://v.daum.net/v/20220707120011415"/>
+        <updated>2022-07-07T04:08:09.082Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령 당선 이후 주간 단위 직무 수행 평가. (자료 출처 : 한국갤럽 자체 조사. 매주 화~목 조사. 유효표본 약 1000명. 표본오차 3.1% 포인트 (95% 신뢰수준). 중앙선거여론조사심의위원회 및 한국갤럼 홈페이지 참조)    ⓒ 김시연  &nbsp; [검증대상] "윤석열보다 노태우 데드크로스가 더 빨랐다" 언론 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다?]]></title>
         <id>https://v.daum.net/v/20220707095007555</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220705191913839"/>
         <updated>2022-07-05T10:26:11.377Z</updated>
         <content type="html"><![CDATA[“의사 면허는 철통면허”라는 말이 있습니다. 범죄를 저질러도 의사 면허가 유지되다 보니 그런 말이 생긴 겁니다. 2012년 환자에게 수면유도제 등을 불법 투여한 뒤 해당 환자가 사망하자 시신을 유기한 산부인과 의사 A씨. 최근 A 씨에게 다시 의사면허를 주라는 법원의 판결에 보건복지부가 항소하는 일이 있었습니다. 한 번 의사는 영원한 의사라는 말이 있는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 박지현, 비대위원장 임명시 피선거권 받았다?]]></title>
-        <id>https://v.daum.net/v/20220705173008928</id>
-        <link href="https://v.daum.net/v/20220705173008928"/>
-        <updated>2022-07-05T09:23:20.999Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 피선거권이 없다는 이유로 더불어민주당 대표 출마가 무산된 박지현 전 민주당 비상대책위원장이 "이미 피선거권이 있다"며 민주당 지도부를 향해 명확한 유권해석을 요구하고 나섰다. 박 전 비대위원장은 5일 페이스북에 "4월 1일 중앙위원회에서 투표를 통해 84.4%의 찬성을 얻어 비대위원장, 즉 임시 당 대표로 선출됐다"며 "당]]></content>
     </entry>
 </feed>
