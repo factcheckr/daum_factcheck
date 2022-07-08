@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-08T07:22:52.573Z</updated>
+    <updated>2022-07-08T08:33:37.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "韓, 전기·물 전 세계서 제일 물 쓰듯이 쓰는 나라"]]></title>
+        <id>https://v.daum.net/v/20220708170155275</id>
+        <link href="https://v.daum.net/v/20220708170155275"/>
+        <updated>2022-07-08T08:32:21.108Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 정호영 기자] 안철수 국민의힘 의원은 7일 공개된 중앙일보 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 무엇가를 찾아 자발적인 시민사회 운동 같은 게 필요한 때"라고 주장했다. 고(高)물가·고금리 등 국가적 경제 위기 상황이 심상치 않다고 판단, 전 국민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다?]]></title>
         <id>https://v.daum.net/v/20220708115508657</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220707095007555"/>
         <updated>2022-07-07T02:25:29.221Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라의 올 상반기 무역수지가 역대 최대 적자를 기록하면서 '탈(脫) 중국론'을 둘러싼 논란이 커지고 있다. 최상목 대통령실 경제수석은 지난달 말 북대서양조약기구(NATO·나토) 정상회의가 열린 스페인 마드리드에서 가진 언론 브리핑에서 "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황 시대는 끝나가고 있다"며 중국 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]'파출소 습격' 공기화살총, 누구나 구매 가능?]]></title>
-        <id>https://v.daum.net/v/20220706194211653</id>
-        <link href="https://v.daum.net/v/20220706194211653"/>
-        <updated>2022-07-06T11:32:15.655Z</updated>
-        <content type="html"><![CDATA[[기자] 파출소에 화살총을 쏘고 달아난 남성, 어제 보도해드렸죠. 은행을 털기 전, 시험 삼아 쐈다는 건데요. 이 화살총, 해외 직구로 구입했다고 진술했습니다. 한눈에도 위협적인 이런 총, 누구든지 사서 들여올 수 있는 것인지 알아봅니다. 범행에 쓰인 이 총, 독일 회사가 만든 공기화살총이었는데요. 제조사 설명을 보면 화살 25발을 연속으로]]></content>
     </entry>
 </feed>
