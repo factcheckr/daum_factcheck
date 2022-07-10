@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-10T06:28:55.669Z</updated>
+    <updated>2022-07-10T07:23:44.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 횡단보도 근처에서 누가 뛰어와도 차 세워야 하나요?]]></title>
+        <id>https://v.daum.net/v/20220710150502634</id>
+        <link href="https://v.daum.net/v/20220710150502634"/>
+        <updated>2022-07-10T07:22:22.359Z</updated>
+        <content type="html"><![CDATA[12일부터 횡단보도 앞에서는 차량을 완전히 정지했다가 보행자가 없는지 살펴본 뒤 출발해야 한다. 전방 좌우를 살피는데 3초면 충분하다. 어기면 범칙금 6만원(승용차 기준)과 벌점 10점이 부과된다. 경찰청 설명을 종합하면, 개정 도로교통법에 따라 보행자가 횡단보도를 ‘건너려고 할 때’에도 운전자는 일시정지해야 할 의무가 생겼다. 기존에는 보행자가 횡단보도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리가 전기·물 전세계에서 제일 팡팡 쓴다?]]></title>
         <id>https://v.daum.net/v/20220710113008483</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220707155948369"/>
         <updated>2022-07-07T07:22:53.558Z</updated>
         <content type="html"><![CDATA[“건강보험료는 내국인이 내고, 혜택은&nbsp;외국인이 받아간다.” 정부가 오는 9월부터 시행되는 건보료 부과체계 2차 개편안을 발표하자 외국인들의 건보 ‘먹튀’(먹고 튀기) 논란이 다시 불거졌다.&nbsp;지역가입자의 부담은&nbsp;낮추고, 건보료 납부&nbsp;여력이 있는 피부양자의 무임승차를 방지하는 게 개편안의 골자다. 피부양자의 소득 기준을 높이는 내용이 개편안에 담기자&nbsp;일각에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열보다 노태우 데드크로스 더 빨라" 보도는 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220707120011415</id>
-        <link href="https://v.daum.net/v/20220707120011415"/>
-        <updated>2022-07-07T04:08:09.082Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령 당선 이후 주간 단위 직무 수행 평가. 7월 1주 조사에서 부정 평가(49%)가 긍정평가(37%)를 앞서는 데드크로스가 발생했다.(자료 출처 : 한국갤럽 자체 조사. 매주 화~목 조사. 유효표본 약 1000명. 표본오차 3.1% 포인트 (95% 신뢰수준). 중앙선거여론조사심의위원회 및 한국갤럽 홈페이지 참조]]></content>
     </entry>
 </feed>
