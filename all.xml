@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-10T02:28:21.177Z</updated>
+    <updated>2022-07-10T03:55:03.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리가 전기·물 전세계에서 제일 팡팡 쓴다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220710113008483</id>
+        <link href="https://v.daum.net/v/20220710113008483"/>
+        <updated>2022-07-10T03:54:00.178Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 안철수 국회의원이 최근 언론 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 팡팡 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 뭔가를 찾아서 자발적인 시민사회 운동 같은 게 필요한 때"라고 말했다. 닥쳐온 경제위기를 극복하기 위한 방안을 묻는 질문에 1997년 외환위기 당시 금 모으기 운동과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "韓, 전기·물 전 세계서 제일 물 쓰듯이 쓰는 나라" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220708170155275</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220707120011415"/>
         <updated>2022-07-07T04:08:09.082Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령 당선 이후 주간 단위 직무 수행 평가. 7월 1주 조사에서 부정 평가(49%)가 긍정평가(37%)를 앞서는 데드크로스가 발생했다.(자료 출처 : 한국갤럽 자체 조사. 매주 화~목 조사. 유효표본 약 1000명. 표본오차 3.1% 포인트 (95% 신뢰수준). 중앙선거여론조사심의위원회 및 한국갤럽 홈페이지 참조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220707095007555</id>
-        <link href="https://v.daum.net/v/20220707095007555"/>
-        <updated>2022-07-07T02:25:29.221Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라의 올 상반기 무역수지가 역대 최대 적자를 기록하면서 '탈(脫) 중국론'을 둘러싼 논란이 커지고 있다. 최상목 대통령실 경제수석은 지난달 말 북대서양조약기구(NATO·나토) 정상회의가 열린 스페인 마드리드에서 가진 언론 브리핑에서 "지난 20년간 우리가 누려왔던 중국을 통한 수출 호황 시대는 끝나가고 있다"며 중국 대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준? (다음 뉴스 ─ SBS 사실은)]]></title>
