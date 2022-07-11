@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-11T21:31:26.240Z</updated>
+    <updated>2022-07-11T22:24:04.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 자진사퇴 안 하면 '알박기'?..역대 정부 살펴보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220712070023195</id>
+        <link href="https://v.daum.net/v/20220712070023195"/>
+        <updated>2022-07-11T22:22:48.642Z</updated>
+        <content type="html"><![CDATA[윤석열 정부가 출범한 지 두 달이 지났습니다. 정권이 교체되면서 여당이 된 국민의힘은 연일 문재인 정부 때 임명된 뒤 임기가 남은 장관급 인사와 공공기관장들의 자진 사퇴를 촉구하고 있습니다. 새 정부의 국정 운영에 걸림돌이 되고 있다는 이유에섭니다. 지난달 14일 한덕수 국무총리 주재로 열린 국무회의가 대표적인 사례입니다. 전현희 국민권익위원장과 한상혁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수입소고기, 물가 끌어올렸다? 비율 따져 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220711201707818</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220708115508657"/>
         <updated>2022-07-08T04:02:10.532Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령의 북대서양조약기구(NATO·나토) 정상회의 순방에 대통령실 인사비서관의 부인이 동행한 데 이어 윤 대통령의 '외가 6촌'인 최모씨가 부속실에서 선임행정관으로 일하는 사실이 알려지며 논란이 커지고 있다. 한 인터넷 커뮤니티에는 최근 공무원 행동강령에서 가족 채용 제한 등의 조항이 삭제된 것과 최씨의 채용을 연관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 외국인 건보 '먹튀' 방치? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220708060300767</id>
-        <link href="https://v.daum.net/v/20220708060300767"/>
-        <updated>2022-07-07T21:20:32.826Z</updated>
-        <content type="html"><![CDATA[한 시민이 서울 영등포구 국민건강보험공단 영등포남부지사를 방문하고 있다. 연합뉴스  “건강보험료는 내국인이 내고, 혜택은 외국인이 받아간다.” 정부가 오는 9월부터 시행되는 건보료 부과체계 2차 개편안을 발표하자 외국인들의 건보 ‘먹튀’(먹고 튀기) 논란이 다시 불거졌다. 지역가입자의 부담은 낮추고, 건보료 납부 여력이 있는 피부양자의 무임승차를 방지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[자진사퇴 안 하면 '알박기'?..역대 정부 살펴보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220712070023195</id>
+        <link href="https://v.daum.net/v/20220712070023195"/>
+        <updated>2022-07-11T22:23:22.238Z</updated>
+        <content type="html"><![CDATA[윤석열 정부가 출범한 지 두 달이 지났습니다. 정권이 교체되면서 여당이 된 국민의힘은 연일 문재인 정부 때 임명된 뒤 임기가 남은 장관급 인사와 공공기관장들의 자진 사퇴를 촉구하고 있습니다. 새 정부의 국정 운영에 걸림돌이 되고 있다는 이유에섭니다. 지난달 14일 한덕수 국무총리 주재로 열린 국무회의가 대표적인 사례입니다. 전현희 국민권익위원장과 한상혁]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220706070205081</id>
         <link href="https://v.daum.net/v/20220706070205081"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220525194103134"/>
         <updated>2022-05-25T11:22:01.634Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 오늘은 심층취재팀과 공약이행률을, 팩트체크해보겠습니다. 윤경재 기자, 자치단체장이 공약을 얼마만큼 이행했는지가 어떻게 발표되는지 알려주시죠. [기자] 가장 공신력 있고 많이 인용되는 곳이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생 스마트 단말기 '게임 논란'..사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220519083603907</id>
-        <link href="https://v.daum.net/v/20220519083603907"/>
-        <updated>2022-05-24T02:05:54.748Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] 윤경재 기자 (economy@kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[들어본 노랜데..8마디 같으면 표절? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
