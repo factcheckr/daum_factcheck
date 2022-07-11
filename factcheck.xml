@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-11T12:52:40.181Z</updated>
+    <updated>2022-07-11T13:47:12.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수입소고기, 물가 끌어올렸다? 비율 따져 보니]]></title>
         <id>https://v.daum.net/v/20220711201707818</id>
         <link href="https://v.daum.net/v/20220711201707818"/>
         <updated>2022-07-11T11:19:07.084Z</updated>
-        <content type="html"><![CDATA[[앵커] 바로 팩트체크 해보겠습니다. 이지은 기자가 나와 있습니다. 정부는 축산물의 물가상승 기여도가 높다라고 보고 이런 정책을 펴고 있는거고, 반대로 축산 농가들은 아니다, 기여도가 낮다고 주장하는데 뭐가 맞는 겁니까. [기자] 어디에 초점을 맞추느냐에 따라 다릅니다. 우선 정부가 낸 자료를 보면, 돼지고기와 수입소고기의 경우, 물가기여도가 각각 0.22]]></content>
+        <content type="html"><![CDATA[[앵커] 바로 팩트체크 해보겠습니다. 이지은 기자가 나와 있습니다. 정부는 축산물의 물가상승 기여도가 높다라고 보고 이런 정책을 펴고 있는 거고, 반대로 축산 농가들은 아니다, 기여도가 낮다고 주장하는데 뭐가 맞는 겁니까. [기자] 어디에 초점을 맞추느냐에 따라 다릅니다. 우선 정부가 낸 자료를 보면, 돼지고기와 수입소고기의 경우, 물가 기여도가 각각 0.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]들어본 노랜데..8마디 같으면 표절?]]></title>
