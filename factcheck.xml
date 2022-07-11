@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-10T23:24:39.729Z</updated>
+    <updated>2022-07-11T02:17:50.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대유행 예고 BA.5 변이 팩트체크]]></title>
+        <id>https://v.daum.net/v/20220711090407329</id>
+        <link href="https://v.daum.net/v/20220711090407329"/>
+        <updated>2022-07-11T02:16:26.554Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 코로나 확진된 적 있어도 BA.5 변이 재감염된]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 가장 효과높은 모기퇴치기는? 초음파 vs LED vs 모기팔찌]]></title>
+        <id>https://v.daum.net/v/20220711090300280</id>
+        <link href="https://v.daum.net/v/20220711090300280"/>
+        <updated>2022-07-11T02:16:26.558Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 가장 효과높은 모기퇴치기는? 초음파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 횡단보도 근처에서 누가 뛰어와도 차 세워야 하나요?]]></title>
         <id>https://v.daum.net/v/20220710150502634</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220707173012770"/>
         <updated>2022-07-07T08:31:05.078Z</updated>
         <content type="html"><![CDATA[지난 4일(현지시간) 미국 시카고 근처 하이랜드파크가 피로 물들었습니다. 독립기념일 행사 중에 시민을 향한 무차별 총격 사건이 벌어졌기 때문입니다. 6명이 사망하고 31명이 다쳤습니다. 총격 용의자는 22살 남성인 로버트 크리모 3세. 범행 동기는 수사 중입니다. 하이랜드파크 총격 용의자&nbsp;로버트 크리모 3세. 지난 5월에는 텍사스와 뉴욕주에서도 총기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동이 겨냥한 여가부 '버터나이프 크루', 정말 문제적일까 [페:트체크]]]></title>
-        <id>https://v.daum.net/v/20220707170004627</id>
-        <link href="https://v.daum.net/v/20220707170004627"/>
-        <updated>2022-07-07T08:31:05.080Z</updated>
-        <content type="html"><![CDATA[편집자주 한국일보 허스펙티브의 '페:트체크'는 페미니즘 관점을 더한 신개념 팩트체크 코너입니다. 젠더 렌즈를 통해 팩트의 사각지대를 밝힙니다. "여가부의 세금낭비성 사업을 살펴 조치를 취하겠다." 여당 원내대표가 1년 예산 4억5,000만 원짜리 여성가족부 사업을 직격했다. 지난 4일, 권성동 국민의힘 원내대표는 페이스북에 '성평등 문화 추진단 버터나이프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보험료는 내국인이 내고, 혜택은 외국인이 받는다? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220707155948369</id>
-        <link href="https://v.daum.net/v/20220707155948369"/>
-        <updated>2022-07-07T07:22:53.558Z</updated>
-        <content type="html"><![CDATA[“건강보험료는 내국인이 내고, 혜택은&nbsp;외국인이 받아간다.” 정부가 오는 9월부터 시행되는 건보료 부과체계 2차 개편안을 발표하자 외국인들의 건보 ‘먹튀’(먹고 튀기) 논란이 다시 불거졌다.&nbsp;지역가입자의 부담은&nbsp;낮추고, 건보료 납부&nbsp;여력이 있는 피부양자의 무임승차를 방지하는 게 개편안의 골자다. 피부양자의 소득 기준을 높이는 내용이 개편안에 담기자&nbsp;일각에]]></content>
     </entry>
 </feed>
