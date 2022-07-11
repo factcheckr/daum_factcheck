@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-07-11T10:37:29.482Z</updated>
+    <updated>2022-07-11T11:20:25.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 출근길 발언, 지지율에 영향미쳤나]]></title>
+        <id>https://v.daum.net/v/20220711195208331</id>
+        <link href="https://v.daum.net/v/20220711195208331"/>
+        <updated>2022-07-11T11:19:30.478Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘부터 중단한 대통령의 출근길 약식 기자회견. 대통령실은 코로나19 재확산 때문이다, 반면 여러 언론들은 급락한 대통령 지지율을 이유로 꼽고 있습니다. 정제되지 않은 발언이 논란을 일으켜 지지율이 하락했다는 건데요. 이런 해석이 얼마나 정확한 건지 확인해봤습니다. ◀ 리포트 ▶ 취임 초기 윤대통령의 출근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식·코인 투자빚 서울 가서 탕감받는다?]]></title>
         <id>https://v.daum.net/v/20220707202215216</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220505101007434"/>
         <updated>2022-05-05T01:57:22.377Z</updated>
         <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OECD가 '검수완박' 우려"..당사자에게 연락해 봤더니]]></title>
-        <id>https://v.daum.net/v/20220428140004426</id>
-        <link href="https://v.daum.net/v/20220428140004426"/>
-        <updated>2022-04-28T05:45:02.890Z</updated>
-        <content type="html"><![CDATA[검찰의 직접 수사 범위를 부패와 경제 범죄 등으로 제한하는 검찰개혁안이 추진 중입니다. 현재 이를 위한 검찰청법과 형사소송법 개정안이 국회 본회의에 상정됐고 여야의 대치가 극한으로 치닫고 있습니다. 이런 가운데 법무부발로 지난 26일 경제협력개발기구(OECD) 산하 반부패기구가 현재 입법이 추진되고 있는 법안에 대한 우려를 전달했다는 소식이 전해졌습니다.]]></content>
     </entry>
 </feed>
