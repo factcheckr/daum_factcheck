@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-11T11:20:25.076Z</updated>
+    <updated>2022-07-11T12:52:40.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수입소고기, 물가 끌어올렸다? 비율 따져 보니]]></title>
         <id>https://v.daum.net/v/20220711201707818</id>
@@ -17,7 +17,7 @@
         <id>https://v.daum.net/v/20220711201125716</id>
         <link href="https://v.daum.net/v/20220711201125716"/>
         <updated>2022-07-11T11:19:07.086Z</updated>
-        <content type="html"><![CDATA[[기자] 가수 유희열 씨가 영화 음악계의 거장으로 꼽히는 사카모토 류이치의 곡을 표절했다는 의혹이 불거졌는데요. 노래 8마디가 비슷하면 표절이다, 논란이 분분한데 사실인지 알아봅니다. 표절을 무 자르듯 기계적으로 판단할 수 있는 기준은 없습니다. 후렴구 8마디가 표절 기준이었던 것은 1997년까지였습니다. 당시 문화체육부 산하 공연윤리심의위원회]]></content>
+        <content type="html"><![CDATA[[기자] 가수 유희열 씨가 영화 음악계의 거장으로 꼽히는 사카모토 류이치의 곡을 표절했다는 의혹이 불거졌는데요. 노래 8마디가 비슷하면 표절이다, 논란이 분분한데 사실인지 알아봅니다. 표절을 무 자르듯 기계적으로 판단할 수 있는 기준은 없습니다. 후렴구 8마디가 표절 기준이었던 것은 1997년까지였습니다. 당시 문화체육부 산하 공연윤리심의위원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 대통령 출근길 발언, 지지율에 영향미쳤나]]></title>
