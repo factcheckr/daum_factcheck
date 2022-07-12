@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-11T23:24:08.783Z</updated>
+    <updated>2022-07-12T02:28:28.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓'  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220712105101256</id>
+        <link href="https://v.daum.net/v/20220712105101256"/>
+        <updated>2022-07-12T02:27:29.740Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;안철수 국민의힘 의원은 7월 5일 중앙일보 인터뷰에서 “우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라”라며 자발적인 시민사회 운동을 제안했다. 사진은 지난 6월 14일 서울 여의도 국회에서 열린 국민의힘 의원총회 발언 모습.    ⓒ 공동취재사진  &nbsp; [검증대상] "우리가 전기·물 세계에서 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 자진사퇴 안 하면 '알박기'?..역대 정부 살펴보니]]></title>
         <id>https://v.daum.net/v/20220712070023195</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220708170155275"/>
         <updated>2022-07-08T08:32:21.108Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 정호영 기자] 안철수 국민의힘 의원은 7일 공개된 중앙일보 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 무언가를 찾아 자발적인 시민사회 운동 같은 게 필요한 때"라고 주장했다. 고(高)물가·고금리 등 국가적 경제 위기 상황이 심상치 않다고 판단, 전 국민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다?]]></title>
-        <id>https://v.daum.net/v/20220708115508657</id>
-        <link href="https://v.daum.net/v/20220708115508657"/>
-        <updated>2022-07-08T04:02:10.532Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령의 북대서양조약기구(NATO·나토) 정상회의 순방에 대통령실 인사비서관의 부인이 동행한 데 이어 윤 대통령의 '외가 6촌'인 최모씨가 부속실에서 선임행정관으로 일하는 사실이 알려지며 논란이 커지고 있다. 한 인터넷 커뮤니티에는 최근 공무원 행동강령에서 가족 채용 제한 등의 조항이 삭제된 것과 최씨의 채용을 연관]]></content>
     </entry>
 </feed>
