@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-12T08:42:48.947Z</updated>
+    <updated>2022-07-12T09:30:01.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220712181103296</id>
+        <link href="https://v.daum.net/v/20220712181103296"/>
+        <updated>2022-07-12T09:29:01.402Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 성일종 정책위의장이 12일 KBS 라디오와의 인터뷰에서 "2008년 금융위기 때 이명박 정부와 미국의 사이가 굉장히 좋아 한미 통화스와프를 맺게 된 건데, 문재인 정부 들어와서 한미 관계가 나쁘니까 종료가 됐다. 국가적 손실"이라고 말했다. 다음 주 재닛 옐런 미국 재무장관 방한 때 한미 통화스와프가 가능하겠냐는 질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓'  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220712105101256</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220710113008483"/>
         <updated>2022-07-10T03:54:00.178Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 안철수 국회의원이 최근 언론 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 펑펑 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 뭔가를 찾아서 자발적인 시민사회 운동 같은 게 필요한 때"라고 말했다. 닥쳐온 경제위기를 극복하기 위한 방안을 묻는 질문에 1997년 외환위기 당시 금 모으기 운동과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "韓, 전기·물 전 세계서 제일 물 쓰듯이 쓰는 나라" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220708170155275</id>
-        <link href="https://v.daum.net/v/20220708170155275"/>
-        <updated>2022-07-08T08:32:21.108Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 정호영 기자] 안철수 국민의힘 의원은 7일 공개된 중앙일보 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 무언가를 찾아 자발적인 시민사회 운동 같은 게 필요한 때"라고 주장했다. 고(高)물가·고금리 등 국가적 경제 위기 상황이 심상치 않다고 판단, 전 국민]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준? (다음 뉴스 ─ SBS 사실은)]]></title>
