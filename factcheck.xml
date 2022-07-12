@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-12T09:30:01.899Z</updated>
+    <updated>2022-07-12T10:28:00.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다?]]></title>
         <id>https://v.daum.net/v/20220712181103296</id>
