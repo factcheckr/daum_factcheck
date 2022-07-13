@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-13T10:31:24.776Z</updated>
+    <updated>2022-07-13T11:21:48.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜?]]></title>
+        <id>https://v.daum.net/v/20220713194659892</id>
+        <link href="https://v.daum.net/v/20220713194659892"/>
+        <updated>2022-07-13T11:20:48.949Z</updated>
+        <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합)]]></title>
         <id>https://v.daum.net/v/20220713143929220</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220711090407329"/>
         <updated>2022-07-11T02:16:26.554Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 코로나 확진된 적 있어도 BA.5 변이 재감염된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 가장 효과높은 모기퇴치기는? 초음파 vs LED vs 모기팔찌]]></title>
-        <id>https://v.daum.net/v/20220711090300280</id>
-        <link href="https://v.daum.net/v/20220711090300280"/>
-        <updated>2022-07-11T02:16:26.558Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 가장 효과높은 모기퇴치기는? 초음파]]></content>
     </entry>
 </feed>

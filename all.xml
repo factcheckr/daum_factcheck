@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-13T10:31:24.786Z</updated>
+    <updated>2022-07-13T11:21:48.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220713194659892</id>
+        <link href="https://v.daum.net/v/20220713194659892"/>
+        <updated>2022-07-13T11:20:48.949Z</updated>
+        <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220713143929220</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220711090407329"/>
         <updated>2022-07-11T02:16:26.554Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 코로나 확진된 적 있어도 BA.5 변이 재감염된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 가장 효과높은 모기퇴치기는? 초음파 vs LED vs 모기팔찌 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220711090300280</id>
-        <link href="https://v.daum.net/v/20220711090300280"/>
-        <updated>2022-07-11T02:16:26.558Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 가장 효과높은 모기퇴치기는? 초음파]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 오늘은 심층취재팀과 공약이행률을, 팩트체크해보겠습니다. 윤경재 기자, 자치단체장이 공약을 얼마만큼 이행했는지가 어떻게 발표되는지 알려주시죠. [기자] 가장 공신력 있고 많이 인용되는 곳이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220713194659892</id>
+        <link href="https://v.daum.net/v/20220713194659892"/>
+        <updated>2022-07-13T11:21:23.213Z</updated>
+        <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[들어본 노랜데..8마디 같으면 표절? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220711201125716</id>
         <link href="https://v.daum.net/v/20220711201125716"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20220103200506557"/>
         <updated>2022-01-03T11:19:24.665Z</updated>
         <content type="html"><![CDATA[자영업자 온라인 커뮤니티에 올라온 게시물입니다. "백신 미접종자에게 과태료를 물리는 법안이 두 건이나 발의됐다"며 분노하는 내용인데요. 전국 곳곳의 맘카페 등에서도 국회 입법예고 사이트 주소를 공유하면서, 반대 의견을 냈다는 인증사진을 올리고 있습니다. 백신을 맞지 않으면 과태료를 내게 된다는 내용, 사실인지 확인해봅니다. 결론부터 말씀드리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해부터 '호텔 어메니티' 사라진다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211230195956883</id>
-        <link href="https://v.daum.net/v/20211230195956883"/>
-        <updated>2022-01-02T15:35:29.820Z</updated>
-        <content type="html"><![CDATA[2021년도 이제 하루 남았습니다. 내년은 임인년, 검은 호랑이해죠. 새해부터 바뀌는 것 중엔 실생활과 밀접한 재활용 제도도 있는데요. 무엇이 어떻게 바뀌는지 스튜디오에서 자세히 알아봅니다. 호텔 같은 숙박시설엔 샴푸나 바디워시, 로션 같은 편의용품을 작은 일회용기에 담아 비치해 둡니다. 이걸 '어메니티'라고 부르는데요. 유명 브랜드 제품을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인수위 '탈원전 탓' 주장 따져보니..환경단체들 "여러 데이터, 아전인수로 해석" (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
