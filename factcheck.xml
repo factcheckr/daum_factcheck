@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-12T23:25:28.931Z</updated>
+    <updated>2022-07-13T02:18:49.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정?]]></title>
+        <id>https://v.daum.net/v/20220713094506155</id>
+        <link href="https://v.daum.net/v/20220713094506155"/>
+        <updated>2022-07-13T02:17:36.703Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다?]]></title>
         <id>https://v.daum.net/v/20220712181103296</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220710150502634"/>
         <updated>2022-07-10T07:22:22.359Z</updated>
         <content type="html"><![CDATA[12일부터 횡단보도 앞에서는 차량을 완전히 정지했다가 보행자가 없는지 살펴본 뒤 출발해야 한다. 전방 좌우를 살피는데 3초면 충분하다. 어기면 범칙금 6만원(승용차 기준)과 벌점 10점이 부과된다. 경찰청 설명을 종합하면, 개정 도로교통법에 따라 보행자가 횡단보도를 ‘건너려고 할 때’에도 운전자는 일시정지해야 할 의무가 생겼다. 기존에는 보행자가 횡단보도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리가 전기·물 전세계에서 제일 펑펑 쓴다?]]></title>
-        <id>https://v.daum.net/v/20220710113008483</id>
-        <link href="https://v.daum.net/v/20220710113008483"/>
-        <updated>2022-07-10T03:54:00.178Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 안철수 국회의원이 최근 언론 인터뷰에서 "우리가 전기·물 모두 전 세계에서 제일 펑펑 쓰는 나라"라며 "이제는 전기요금도 오르니까 전기를 아껴 쓴다든지 뭔가를 찾아서 자발적인 시민사회 운동 같은 게 필요한 때"라고 말했다. 닥쳐온 경제위기를 극복하기 위한 방안을 묻는 질문에 1997년 외환위기 당시 금 모으기 운동과]]></content>
     </entry>
 </feed>
