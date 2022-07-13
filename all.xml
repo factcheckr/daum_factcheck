@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-13T05:27:37.924Z</updated>
+    <updated>2022-07-13T06:32:18.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220713143929220</id>
+        <link href="https://v.daum.net/v/20220713143929220"/>
+        <updated>2022-07-13T06:31:18.714Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220713094506155</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220711090300280"/>
         <updated>2022-07-11T02:16:26.558Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 가장 효과높은 모기퇴치기는? 초음파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 횡단보도 근처에서 누가 뛰어와도 차 세워야 하나요? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220710150502634</id>
-        <link href="https://v.daum.net/v/20220710150502634"/>
-        <updated>2022-07-10T07:22:22.359Z</updated>
-        <content type="html"><![CDATA[12일부터 횡단보도 앞에서는 차량을 완전히 정지했다가 보행자가 없는지 살펴본 뒤 출발해야 한다. 전방 좌우를 살피는데 3초면 충분하다. 어기면 범칙금 6만원(승용차 기준)과 벌점 10점이 부과된다. 경찰청 설명을 종합하면, 개정 도로교통법에 따라 보행자가 횡단보도를 ‘건너려고 할 때’에도 운전자는 일시정지해야 할 의무가 생겼다. 기존에는 보행자가 횡단보도]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 총기 사고 희생자, 전쟁 희생자 수준? (다음 뉴스 ─ SBS 사실은)]]></title>
