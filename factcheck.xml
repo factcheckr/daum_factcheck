@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-13T23:25:26.084Z</updated>
+    <updated>2022-07-14T02:27:19.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220714100302382</id>
+        <link href="https://v.daum.net/v/20220714100302382"/>
+        <updated>2022-07-14T02:26:12.603Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;서울광장퀴어행사반대서명운동을 벌인 종교 단체 관계자들이 지난 7일 오후 서울시청 앞에서 오는 16일 예정된 서울광장 퀴어행사 중단 촉구 및 오세훈 시장 규탄 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "WHO, 퀴어퍼레이드서 원숭이두창 확산경고" 퀴어축제 반대단체 주장 '서울광장 퀴어행사반대 서명운동' 참]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜?]]></title>
         <id>https://v.daum.net/v/20220713194659892</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220711195208331"/>
         <updated>2022-07-11T11:19:07.087Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘부터 중단한 대통령의 출근길 약식 기자회견. 대통령실은 코로나19 재확산 때문이다, 반면 여러 언론들은 급락한 대통령 지지율을 이유로 꼽고 있습니다. 정제되지 않은 발언이 논란을 일으켜 지지율이 하락했다는 건데요. 이런 해석이 얼마나 정확한 건지 확인해봤습니다. ◀ 리포트 ▶ 취임 초기 윤대통령의 출근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대유행 예고 BA.5 변이 팩트체크]]></title>
-        <id>https://v.daum.net/v/20220711090407329</id>
-        <link href="https://v.daum.net/v/20220711090407329"/>
-        <updated>2022-07-11T02:16:26.554Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 9일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. 코로나 확진된 적 있어도 BA.5 변이 재감염된]]></content>
     </entry>
 </feed>

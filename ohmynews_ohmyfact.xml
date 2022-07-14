@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-07-13T23:25:26.079Z</updated>
+    <updated>2022-07-14T02:27:19.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20220714100302382</id>
+        <link href="https://v.daum.net/v/20220714100302382"/>
+        <updated>2022-07-14T02:27:08.541Z</updated>
+        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;서울광장퀴어행사반대서명운동을 벌인 종교 단체 관계자들이 지난 7일 오후 서울시청 앞에서 오는 16일 예정된 서울광장 퀴어행사 중단 촉구 및 오세훈 시장 규탄 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "WHO, 퀴어퍼레이드서 원숭이두창 확산경고" 퀴어축제 반대단체 주장 '서울광장 퀴어행사반대 서명운동' 참]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20220712105101256</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220526115401116"/>
         <updated>2022-06-08T15:24:42.338Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;국민의힘 성일종 정책위의장이 지난 6일 오전 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.    ⓒ 공동취재사진  &nbsp; &nbsp; [검증대상] 국민의힘 "1회용 컵 보증금제로 외식 물가 상승" 환경부는 지난 20일 오는 6월 10일 시행 예정이었던 '1회용 컵 보증금제'를 6개월 유예했다. 여당에서 시행 유예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원전 대개 80년, 100년 쓴다" 박형준 주장 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20220523220301809</id>
-        <link href="https://v.daum.net/v/20220523220301809"/>
-        <updated>2022-06-08T15:24:42.341Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 소속인 박형준 부산시장이 6.1지방선거 후보자 등록일인 12일 부산시의회에서 출마선언을 하고 있다.    ⓒ 김보성  &nbsp; [검증대상] 박형준 부산시장 후보 "세계 원전 대개 80년, 100년 쓴다" 박형준 국민의힘 부산시장 후보는 지난 13일 &lt;오마이뉴스&gt; 인터뷰에서 고리원자력발전소 2호기 계속 운전 문제와 관련]]></content>
     </entry>
 </feed>
