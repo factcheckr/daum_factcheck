@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-14T10:28:41.932Z</updated>
+    <updated>2022-07-14T11:21:29.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '도로 위 흉기' 판스프링, 경찰은 단속 권한 없다?]]></title>
+        <id>https://v.daum.net/v/20220714201303482</id>
+        <link href="https://v.daum.net/v/20220714201303482"/>
+        <updated>2022-07-14T11:20:29.016Z</updated>
+        <content type="html"><![CDATA[[앵커] 나흘 전, 고속도로를 달리던 차량에 갑자기 쇳덩이가 날아와서 앞 유리가 다 부서진 사고가 있었습니다. 운전자들은 경찰이 왜 이런 거 철저하게 단속하지 않는지, 또 사고를 낸 화물차를 찾기 힘들다는 거는 왜 그런 건지, 불만을 토로하는데요. 팩트체크로 따져보겠습니다. 이지은 기자, 우선 정확히 어떤 일이었습니까? [기자] 영상부터 보시죠. 지난 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 국내서 3D 프린터로 '완전 총' 만들 수 있을까?]]></title>
         <id>https://v.daum.net/v/20220714191102266</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220712181103296"/>
         <updated>2022-07-12T09:29:01.402Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 성일종 정책위의장이 12일 KBS 라디오와의 인터뷰에서 "2008년 금융위기 때 이명박 정부와 미국의 사이가 굉장히 좋아 한미 통화스와프를 맺게 된 건데, 문재인 정부 들어와서 한미 관계가 나쁘니까 종료가 됐다. 국가적 손실"이라고 말했다. 다음 주 재닛 옐런 미국 재무장관 방한 때 한미 통화스와프가 가능하겠냐는 질]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓'  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220712105101256</id>
-        <link href="https://v.daum.net/v/20220712105101256"/>
-        <updated>2022-07-12T02:27:29.740Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;안철수 국민의힘 의원은 7월 5일 중앙일보 인터뷰에서 “우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라”라며 자발적인 시민사회 운동을 제안했다. 사진은 지난 6월 14일 서울 여의도 국회에서 열린 국민의힘 의원총회 발언 모습.    ⓒ 공동취재사진  &nbsp; [검증대상] "우리가 전기·물 세계에서 제]]></content>
     </entry>
 </feed>
