@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-15T04:22:15.478Z</updated>
+    <updated>2022-07-15T05:45:29.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '북송 어민 자필 귀순의사 표명' 정부가 숨겼다?]]></title>
+        <id>https://v.daum.net/v/20220715141511246</id>
+        <link href="https://v.daum.net/v/20220715141511246"/>
+        <updated>2022-07-15T05:44:26.864Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 하태경 국회의원은 14일 CBS 라디오와의 인터뷰에서 2019년 북한으로 강제 송환된 탈북자 2명에 대해 "귀순 의향서에 마지막 사인까지 있었던 사실은 (정부 당국이) 숨겼다"고 말했다. 당시 문재인 정부가 탈북자들의 귀순 의사에 진정성이 없다는 판단을 내리기 위해 자필로 귀순 의사를 밝힌 사실을 은폐했다는 의미다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 북송 두고 범죄인 · 준외국인 논란..법 따져보니]]></title>
         <id>https://v.daum.net/v/20220714202405629</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20220713143929220</id>
         <link href="https://v.daum.net/v/20220713143929220"/>
         <updated>2022-07-13T06:31:18.714Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권은 적정?]]></title>
-        <id>https://v.daum.net/v/20220713094506155</id>
-        <link href="https://v.daum.net/v/20220713094506155"/>
-        <updated>2022-07-13T02:17:36.703Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
     </entry>
 </feed>
