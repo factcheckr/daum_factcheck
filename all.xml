@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-15T10:28:27.187Z</updated>
+    <updated>2022-07-15T11:20:23.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 공영방송 기자들, 질문하지 말라? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220715200112136</id>
+        <link href="https://v.daum.net/v/20220715200112136"/>
+        <updated>2022-07-15T11:19:22.628Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 국민의힘 권성동 당대표 직무대행이 연일 특정 언론을 향해 날을 세우고 있습니다. 공영방송 기자의 질문을 막는가 하면, [권성동/국민의힘 당대표 직무대행] "됐어요. (KBS·MBC) 두 분은 이제 질문 그만하시고 다른 분 질문 받겠습니다." 특정 매체를 공개적으로 비난했습니다. "어느 방송이시죠?" (한겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '북송 어민 자필 귀순의사 표명' 정부가 숨겼다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220715141511246</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220713194659892"/>
         <updated>2022-07-13T11:20:48.949Z</updated>
         <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220713143929220</id>
-        <link href="https://v.daum.net/v/20220713143929220"/>
-        <updated>2022-07-13T06:31:18.714Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북송 두고 범죄인 · 준외국인 논란..법 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt;&nbsp; 이렇게 이명박 전 대통령 사면을 주장하고 있는 여당에서는 역대 대통령들이 집권 1년 차에 광복절을 맞아서 특별 사면을 해왔다는 이야기도 나왔습니다. 국민의힘 권성동 원내대표가 한 말인데 저희 팩트체크, 사실은 팀이 과거 정부의 특별사면을 분석해봤습니다.&nbsp; 이경원 기자입니다.&nbsp; &lt;기자&gt;&nbsp; [권선동/국민의힘 원내대표 : 모든 정권이 집권 1년 차 8]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[공영방송 기자들, 질문하지 말라? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220715200112136</id>
+        <link href="https://v.daum.net/v/20220715200112136"/>
+        <updated>2022-07-15T11:19:40.187Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 국민의힘 권성동 당대표 직무대행이 연일 특정 언론을 향해 날을 세우고 있습니다. 공영방송 기자의 질문을 막는가 하면, [권성동/국민의힘 당대표 직무대행] "됐어요. (KBS·MBC) 두 분은 이제 질문 그만하시고 다른 분 질문 받겠습니다." 특정 매체를 공개적으로 비난했습니다. "어느 방송이시죠?" (한겨]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대통령 출근길 발언, 지지율에 영향미쳤나 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220711195208331</id>
         <link href="https://v.daum.net/v/20220711195208331"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220513201607916"/>
         <updated>2022-05-24T02:06:13.947Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한동훈 법무부 장관 후보자의 장녀가 지난해 12월 '전기전자공학자협회'의 온라인 콘퍼런스에 낸 5장짜리 기고문입니다. '건강관리 향상을 위한 고급 컴퓨터 기술의 적용'이란 제목입니다. 표절 의혹이 제기되자 한 후보자는 이렇게 해명했습니다. [한동훈/법무부장관 후보자(인사청문회, 지난 9일)] "우리나라 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여가부 폐지 압도적? 여론조사 따져보니.. (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220505101007434</id>
-        <link href="https://v.daum.net/v/20220505101007434"/>
-        <updated>2022-05-05T01:57:06.717Z</updated>
-        <content type="html"><![CDATA[윤석열 정부의 110대 국정과제에서 '여성가족부 폐지'가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 '한줄 공약'이었기 때문입니다. 비교적 최근인 지난달 권성동 국민의힘 원내대표는 한 라디오 인터뷰에서 "여가부 폐지는 시대정신이자 당선인이 여러 차례 공언했던 핵심 공약"이라면서 "폐지 수순을 밟는 것은 명확하다"고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자진사퇴 안 하면 '알박기'?..역대 정부 살펴보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>

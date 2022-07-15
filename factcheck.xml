@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-15T10:28:27.164Z</updated>
+    <updated>2022-07-15T11:20:23.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 공영방송 기자들, 질문하지 말라?]]></title>
+        <id>https://v.daum.net/v/20220715200112136</id>
+        <link href="https://v.daum.net/v/20220715200112136"/>
+        <updated>2022-07-15T11:19:22.628Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 국민의힘 권성동 당대표 직무대행이 연일 특정 언론을 향해 날을 세우고 있습니다. 공영방송 기자의 질문을 막는가 하면, [권성동/국민의힘 당대표 직무대행] "됐어요. (KBS·MBC) 두 분은 이제 질문 그만하시고 다른 분 질문 받겠습니다." 특정 매체를 공개적으로 비난했습니다. "어느 방송이시죠?" (한겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '북송 어민 자필 귀순의사 표명' 정부가 숨겼다?]]></title>
         <id>https://v.daum.net/v/20220715141511246</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220713194659892"/>
         <updated>2022-07-13T11:20:48.949Z</updated>
         <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합)]]></title>
-        <id>https://v.daum.net/v/20220713143929220</id>
-        <link href="https://v.daum.net/v/20220713143929220"/>
-        <updated>2022-07-13T06:31:18.714Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로 아제르바이잔 수도 바쿠에 긴급 착륙하며 탑승객이 큰 불안을 겪는 일이 발생했다. 대한항공은 바쿠 현지에서 탑승객에게 호텔 숙박과 식사를 제공했으며, 이후 탑승객의 이메일로 추후 항공권 예매시 사용할 수 있는 24만]]></content>
     </entry>
 </feed>
