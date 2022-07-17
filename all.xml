@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-16T23:23:40.749Z</updated>
+    <updated>2022-07-17T02:26:22.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 대한민국은 진짜로 '양성 평등 후진국'일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220717090023236</id>
+        <link href="https://v.daum.net/v/20220717090023236"/>
+        <updated>2022-07-17T02:25:22.303Z</updated>
+        <content type="html"><![CDATA["대한민국의 성 평등 수준이 세계 146개 나라 중 99위에 불과하다." 최근 여러 매체에서 우리나라의 성 평등 수준이 전 세계 하위권이라는 기사가 쏟아졌습니다. 세계경제포럼(WEF)이 현지시간으로 13일 내놓은 세계 젠더 격차 보고서(Global Gender Gap Report 2022) 내용을 전한 기사들입니다. 보고서에 따르면 한국은 젠더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서울 생활비가 홍콩보다 비싸다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220716114506524</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220714164313484"/>
         <updated>2022-07-14T08:29:53.253Z</updated>
         <content type="html"><![CDATA[형법에선 14세가 되지 않은 청소년들을 '형사미성년자'로 정의하며 이들의 범죄 행위를 벌하지 않는다고 규정합니다. 다만, 소년법에 따라 10세 이상 14세 미만 소년들이 법령에 어긋나는 행동을 하면 법원의 판단에 따라 '보호처분'을 받습니다. 소년법 적용을 받는 이 청소년들을 '촉법소년'이라고 부릅니다. 범법행위를 한 촉법소년들이 형사처벌을 받는 것은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["文 정부, 탈북 선원 귀순 의사 없었다" 주장은 거짓말? [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220714163040003</id>
-        <link href="https://v.daum.net/v/20220714163040003"/>
-        <updated>2022-07-14T08:29:53.258Z</updated>
-        <content type="html"><![CDATA["흉악범 북송이 정당했다면 왜 귀순 의사가 없었다고 거짓말을 했느냐." 권성동 국민의힘 원내대표 겸 대표 직무대행은 14일 최고위원회의에서 이렇게 말했다. 2019년 11월 탈북 선원 2명의 북송 사건 당시 문재인 정부와 더불어민주당의 조치는 부적절했다는 비판이다. 16명을 살해하고 넘어온 흉악범을 도저히 우리 국민으로 받을 수는 없었다는 민주당의 반]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북송 두고 범죄인 · 준외국인 논란..법 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한동훈 법무부 장관 후보자의 장녀가 지난해 12월 '전기전자공학자협회'의 온라인 콘퍼런스에 낸 5장짜리 기고문입니다. '건강관리 향상을 위한 고급 컴퓨터 기술의 적용'이란 제목입니다. 표절 의혹이 제기되자 한 후보자는 이렇게 해명했습니다. [한동훈/법무부장관 후보자(인사청문회, 지난 9일)] "우리나라 ']]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대한민국은 진짜로 '양성 평등 후진국'일까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220717090023236</id>
+        <link href="https://v.daum.net/v/20220717090023236"/>
+        <updated>2022-07-17T02:25:49.463Z</updated>
+        <content type="html"><![CDATA["대한민국의 성 평등 수준이 세계 146개 나라 중 99위에 불과하다." 최근 여러 매체에서 우리나라의 성 평등 수준이 전 세계 하위권이라는 기사가 쏟아졌습니다. 세계경제포럼(WEF)이 현지시간으로 13일 내놓은 세계 젠더 격차 보고서(Global Gender Gap Report 2022) 내용을 전한 기사들입니다. 보고서에 따르면 한국은 젠더]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자진사퇴 안 하면 '알박기'?..역대 정부 살펴보니 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220712070023195</id>
         <link href="https://v.daum.net/v/20220712070023195"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220525215824176"/>
         <updated>2022-05-25T13:56:12.965Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 공약이행률과 관련한 팩트체크, 심층취재팀 윤경재 기자입니다. [리포트] 지난 16일 더불어민주당 양문석 경남지사 후보가 "김경수 전 경남지사의 공약이행률은 100%다"라고 말했습니다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김경수 공약이행률 100%?"..매니페스토 기준은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220525194103134</id>
-        <link href="https://v.daum.net/v/20220525194103134"/>
-        <updated>2022-05-25T11:22:01.634Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 6·1 지방선거가 일주일 앞으로 다가왔습니다. 선거전이 치열해지면서 전·현직 단체장이  얼마나 공약을 실천했느냐를 둔 공방이 잇따르고 있습니다. 오늘은 심층취재팀과 공약이행률을, 팩트체크해보겠습니다. 윤경재 기자, 자치단체장이 공약을 얼마만큼 이행했는지가 어떻게 발표되는지 알려주시죠. [기자] 가장 공신력 있고 많이 인용되는 곳이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
