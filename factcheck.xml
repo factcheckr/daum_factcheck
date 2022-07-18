@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-18T12:50:03.523Z</updated>
+    <updated>2022-07-18T13:51:26.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울, 택시가 부족해 귀가 전쟁? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220718220123582</id>
+        <link href="https://v.daum.net/v/20220718220123582"/>
+        <updated>2022-07-18T13:50:27.055Z</updated>
+        <content type="html"><![CDATA[사진=연합뉴스  “밤에 택시 잡기가 하늘의 별 따기예요. 서울시가 택시 공급을 늘린 게 맞나요?” 신종 코로나바이러스 감염증(코로나19)에 따른 사회적 거리두기가 해제된 후 서울시의 ‘택시 대란’이 계속되고 있다. 시가 개인택시 부제를 일시 해제하고, 심야전용택시 운영시간을 늘리는 등 택시 승차난 해소 대책을 시행 중이지만 시민 체감도는 낮다. 밤마다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]'깔따구 유충' 수돗물, 끓여 먹으면 괜찮다?]]></title>
         <id>https://v.daum.net/v/20220718195000608</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220714191102266"/>
         <updated>2022-07-14T10:27:29.943Z</updated>
         <content type="html"><![CDATA[일본 아베 피살로 본 불법 사제총기 위험성 3D 프린팅 기술보단 사각지대 관리가 본질일본에서 아베 신조 전 총리가 유세 중 피격당해 숨지는 사건이 발생하면서 불법으로 제작된 사제 총기에 대한 우려가 커지고 있다. 이번에 사용된 총의 일부가 3차원(D) 프린터를 이용해 만든 수제품인 것으로 밝혀져 ‘모방 범죄’ 가능성도 배제할 수 없는 상황이다. 도면만 있으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 유류세 내렸는데, 기름값은 그대로다?]]></title>
-        <id>https://v.daum.net/v/20220714170647415</id>
-        <link href="https://v.daum.net/v/20220714170647415"/>
-        <updated>2022-07-14T08:29:53.253Z</updated>
-        <content type="html"><![CDATA[기름값이 치솟으면서 정부는 유류세 인하 정책을 추진하고 있습니다. 지난해 11월에 20% 인하했고, 지난 5월에는 10%, 지난 1일에는 7%를 추가로 인하했습니다. 윤석열 대통령은 최근 또 유류세 추가 인하 방침을 밝혔습니다. 그런데 유류세를 내려도 기름값은 별로 변하지 않았다, 왜 그런지 알아봐달라는 팩트체크 요청이 들어왔습니다. 일단 팩트부터 알아봤습]]></content>
     </entry>
 </feed>
