@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-18T10:29:29.292Z</updated>
+    <updated>2022-07-18T11:21:17.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]'깔따구 유충' 수돗물, 끓여 먹으면 괜찮다?]]></title>
+        <id>https://v.daum.net/v/20220718195000608</id>
+        <link href="https://v.daum.net/v/20220718195000608"/>
+        <updated>2022-07-18T11:20:14.110Z</updated>
+        <content type="html"><![CDATA[수돗물 필터, 자세히 들여다보니 뭔가가 꼬물거리죠. 경남 창원의 가정집에서 발견된 유충입니다. [박선애 / 경남 창원시 진해구] "깔따구 나온다 그러니까. 건강 생각하면 불안하긴 한데. 생수를 자꾸 시켜 먹으면 돈이 많이 들어가니까." 시민들의 불안에도 창원시는 수돗물을 끓여 마시면 괜찮다고 안내했는데요. 정말 마셔도 괜찮은지 따져봅니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 대한민국은 진짜로 '양성 평등 후진국'일까?]]></title>
         <id>https://v.daum.net/v/20220717090023236</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220714170647415"/>
         <updated>2022-07-14T08:29:53.253Z</updated>
         <content type="html"><![CDATA[기름값이 치솟으면서 정부는 유류세 인하 정책을 추진하고 있습니다. 지난해 11월에 20% 인하했고, 지난 5월에는 10%, 지난 1일에는 7%를 추가로 인하했습니다. 윤석열 대통령은 최근 또 유류세 추가 인하 방침을 밝혔습니다. 그런데 유류세를 내려도 기름값은 별로 변하지 않았다, 왜 그런지 알아봐달라는 팩트체크 요청이 들어왔습니다. 일단 팩트부터 알아봤습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 촉법소년 흉악범죄 최근 들어 늘었다?..통계로 확인해보니]]></title>
-        <id>https://v.daum.net/v/20220714164313484</id>
-        <link href="https://v.daum.net/v/20220714164313484"/>
-        <updated>2022-07-14T08:29:53.253Z</updated>
-        <content type="html"><![CDATA[형법에선 14세가 되지 않은 청소년들을 '형사미성년자'로 정의하며 이들의 범죄 행위를 벌하지 않는다고 규정합니다. 다만, 소년법에 따라 10세 이상 14세 미만 소년들이 법령에 어긋나는 행동을 하면 법원의 판단에 따라 '보호처분'을 받습니다. 소년법 적용을 받는 이 청소년들을 '촉법소년'이라고 부릅니다. 범법행위를 한 촉법소년들이 형사처벌을 받는 것은]]></content>
     </entry>
 </feed>

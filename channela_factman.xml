@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-07-18T10:29:29.381Z</updated>
+    <updated>2022-07-18T11:21:17.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['깔따구 유충' 수돗물, 끓여 먹으면 괜찮다?]]></title>
+        <id>https://v.daum.net/v/20220718195000608</id>
+        <link href="https://v.daum.net/v/20220718195000608"/>
+        <updated>2022-07-18T11:20:50.407Z</updated>
+        <content type="html"><![CDATA[수돗물 필터, 자세히 들여다보니 뭔가가 꼬물거리죠. 경남 창원의 가정집에서 발견된 유충입니다. [박선애 / 경남 창원시 진해구] "깔따구 나온다 그러니까. 건강 생각하면 불안하긴 한데. 생수를 자꾸 시켜 먹으면 돈이 많이 들어가니까." 시민들의 불안에도 창원시는 수돗물을 끓여 마시면 괜찮다고 안내했는데요. 정말 마셔도 괜찮은지 따져봅니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜?]]></title>
         <id>https://v.daum.net/v/20220713194659892</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220104200253853"/>
         <updated>2022-01-04T11:19:50.110Z</updated>
         <content type="html"><![CDATA[차를 몰고 교차로에서 우회전하다가 횡단보도를 건너는 행인과 마주칠 때 많은데요. 올해부터 우회전 단속이 강화됐다는 보도가 나오고 있는데 운전자 입장에서 뭐가 바뀌고 뭘 조심해야 하는지 팩트맨이 확인해 봅니다. 우회전할 때 횡단보도를 만나면 운전자는 어떻게 해야 할까요? 신호등이 무슨 색이든, 보행자가 있든 없든, 무조건 일단정지가 원칙입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신미접종자, 과태료 낸다?]]></title>
-        <id>https://v.daum.net/v/20220103200506557</id>
-        <link href="https://v.daum.net/v/20220103200506557"/>
-        <updated>2022-01-03T11:20:18.175Z</updated>
-        <content type="html"><![CDATA[자영업자 온라인 커뮤니티에 올라온 게시물입니다. "백신 미접종자에게 과태료를 물리는 법안이 두 건이나 발의됐다"며 분노하는 내용인데요. 전국 곳곳의 맘카페 등에서도 국회 입법예고 사이트 주소를 공유하면서, 반대 의견을 냈다는 인증사진을 올리고 있습니다. 백신을 맞지 않으면 과태료를 내게 된다는 내용, 사실인지 확인해봅니다. 결론부터 말씀드리]]></content>
     </entry>
 </feed>
