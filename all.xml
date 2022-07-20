@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-20T02:19:41.881Z</updated>
+    <updated>2022-07-20T04:04:11.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[사실은] 국회의원 토론王은 누구일까요? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[국회의원 토론王은 누구일까요? (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20220720104500982</id>
         <link href="https://v.daum.net/v/20220720104500982"/>
-        <updated>2022-07-20T02:18:43.651Z</updated>
+        <updated>2022-07-20T02:18:32.071Z</updated>
         <content type="html"><![CDATA[국회의원 임기는 4년입니다. 보통 첫 2년을 전반기, 그 이후를 후반기로 부릅니다. 편의상 그렇게 부르는 건 아니고, 2년 주기로 국회를 이끌어 가는 주요 보직이 바뀝니다. 국회의장과 부의장, 상임위원장 등입니다. 물론 여야 간의 협상을 통해 이뤄집니다. 이를 '원 구성 협상'이라고 부릅니다. 뉴스에서 많이 보셨겠지만, 지금 원 구성 협상이 잘 안 되고]]></content>
     </entry>
     <entry>
@@ -498,7 +498,7 @@
         <title type="html"><![CDATA["공공기관 28도인데 윤 대통령 21도에서 회의" 검증해보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220720095701747</id>
         <link href="https://v.daum.net/v/20220720095701747"/>
-        <updated>2022-07-20T02:19:32.017Z</updated>
+        <updated>2022-07-20T02:18:32.071Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 윤석열 대통령이 14일 오전 서울 중구 서민금융통합지원센터에서 열린 제2차 비상경제민생회의를 주재하고 있다. 윤 대통령 오른쪽 에어컨 상단에 '21도'로 표시돼 있다(빨간색 원).  2022.7.14 [대통령실통신사진기자단]    ⓒ 연합뉴스  [검증대상] "윤 대통령, 공공기관 적정온도 28℃보다 낮은 21℃에서 회의]]></content>
     </entry>
     <entry>
