@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-07-20T10:28:32.875Z</updated>
+    <updated>2022-07-20T11:26:35.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영상 안 찍혔다"..불법촬영 기준은?]]></title>
+        <id>https://v.daum.net/v/20220720195359770</id>
+        <link href="https://v.daum.net/v/20220720195359770"/>
+        <updated>2022-07-20T11:26:07.756Z</updated>
+        <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요. 길]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['깔따구 유충' 수돗물, 끓여 먹으면 괜찮다?]]></title>
         <id>https://v.daum.net/v/20220718195000608</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220105195757272"/>
         <updated>2022-01-05T11:19:59.783Z</updated>
         <content type="html"><![CDATA['택시 먹튀'라는 말 들어보셨습니까. 택시 요금을 안 내고 도망가는 걸 뜻합니다. 어떤 상황인지 확인해봅니다. ▲택시 탑승한 10대 여성들 [현장음] 목적지에 도착했습니다. [택시 기사] "7만 3천5백 원이에요." ['택시 먹튀' 청소년] "아니 내가 카드를 잃어버렸거든? 한 번만 빌려주면 안 돼? 아이 ○○ 내일까지 갚는다고. 카드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[횡단보도 우회전 단속, 깐깐해진다?]]></title>
-        <id>https://v.daum.net/v/20220104200253853</id>
-        <link href="https://v.daum.net/v/20220104200253853"/>
-        <updated>2022-01-04T11:19:50.110Z</updated>
-        <content type="html"><![CDATA[차를 몰고 교차로에서 우회전하다가 횡단보도를 건너는 행인과 마주칠 때 많은데요. 올해부터 우회전 단속이 강화됐다는 보도가 나오고 있는데 운전자 입장에서 뭐가 바뀌고 뭘 조심해야 하는지 팩트맨이 확인해 봅니다. 우회전할 때 횡단보도를 만나면 운전자는 어떻게 해야 할까요? 신호등이 무슨 색이든, 보행자가 있든 없든, 무조건 일단정지가 원칙입니다]]></content>
     </entry>
 </feed>
