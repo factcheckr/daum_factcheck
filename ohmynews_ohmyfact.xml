@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-07-19T23:25:26.587Z</updated>
+    <updated>2022-07-20T02:19:41.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["공공기관 28도인데 윤 대통령 21도에서 회의" 검증해보니]]></title>
+        <id>https://v.daum.net/v/20220720095701747</id>
+        <link href="https://v.daum.net/v/20220720095701747"/>
+        <updated>2022-07-20T02:19:32.017Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 윤석열 대통령이 14일 오전 서울 중구 서민금융통합지원센터에서 열린 제2차 비상경제민생회의를 주재하고 있다. 윤 대통령 오른쪽 에어컨 상단에 '21도'로 표시돼 있다(빨간색 원).  2022.7.14 [대통령실통신사진기자단]    ⓒ 연합뉴스  [검증대상] "윤 대통령, 공공기관 적정온도 28℃보다 낮은 21℃에서 회의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20220714100302382</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220530210300588"/>
         <updated>2022-06-08T15:24:42.333Z</updated>
         <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;더불어민주당 송영길 서울시장 후보(왼쪽 두번째), 이재명 인천 계양을 국회의원 후보(왼쪽 세번째)가 지난 27일 김포시 고촌읍 아라 김포여객터미널 아라마린센터 앞 수변광장에서 김포공항 이전 수도권 서부 대개발 정책협약 기자회견을 하고 있다.    ⓒ 국회사진취재단  &nbsp; [검증대상] "김포공항-인천공항, 고속전철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1회용컵 보증금 때문에 물가 상승" 국힘 주장 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20220526115401116</id>
-        <link href="https://v.daum.net/v/20220526115401116"/>
-        <updated>2022-06-08T15:24:42.338Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;국민의힘 성일종 정책위의장이 지난 6일 오전 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.    ⓒ 공동취재사진  &nbsp; &nbsp; [검증대상] 국민의힘 "1회용 컵 보증금제로 외식 물가 상승" 환경부는 지난 20일 오는 6월 10일 시행 예정이었던 '1회용 컵 보증금제'를 6개월 유예했다. 여당에서 시행 유예]]></content>
     </entry>
 </feed>
