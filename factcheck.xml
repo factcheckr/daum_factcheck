@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-21T23:26:48.363Z</updated>
+    <updated>2022-07-22T02:24:09.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 음악 표절 기준..판결로 살펴봤습니다]]></title>
+        <id>https://v.daum.net/v/20220722110612859</id>
+        <link href="https://v.daum.net/v/20220722110612859"/>
+        <updated>2022-07-22T02:22:55.327Z</updated>
+        <content type="html"><![CDATA[음악계가 표절 논란으로 몸살을 앓고 있습니다. 그 시작은 가수 겸 음반제작자인 유희열 씨가 지난해 9월 발표한 '아주 사적인 밤'이, 일본 대중음악의 거장 사카모토 류이치의 '아쿠아'와 유사하다는 의혹이었습니다. 유희열 씨는 "무의식 중에 기억 속에 남아 있던 유사한 진행 방식으로 곡을 쓰게 됐다"고 유사성을 인정했고, 사카모토가 "법적 조치가 필요한 수준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당장에라도 금지" 개미들 성토.. 공매도, 진짜로 나쁠까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220721170157430</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220720084009803"/>
         <updated>2022-07-20T02:18:32.071Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 글로벌 물가 상승세와 미국 연방준비제도(Fed·연준)의 가파른 긴축 기조, 우크라이나 전쟁 장기화 등으로 달러화 강세가 이어지고 있다. 이런 가운데 추미애 전 법무부 장관은 19일 페이스북에서 "정부가 무능하고 부패할수록 부자들이 이용해 먹기는 더 쉬워진다"며 "블룸버그는 한국을 채무불이행이 가능한 국가로 보고 있다"고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '4억 주택 기준' 금리전환 대책, 수도권 역차별?]]></title>
-        <id>https://v.daum.net/v/20220719202305487</id>
-        <link href="https://v.daum.net/v/20220719202305487"/>
-        <updated>2022-07-19T12:49:10.742Z</updated>
-        <content type="html"><![CDATA[[앵커] 물가 잡으려고 한국은행이 금리를 계속 올리자 대출금리도 같이 뜁니다. 대출받아 집 산 사람들 부담이 더 늘어날 테니, 정부는 날마다 뛸 변동금리를 낮은 고정금리로 바꿔주겠다고 했습니다. 그런데 수도권에 있는 사람들을 중심으로 오히려 이건 역차별이다, 하는 불만이 터져 나온다고 하는데요. 팩트체크 해보죠. 이지은 기자, 우선 정부가 발표한 내용이 정]]></content>
     </entry>
 </feed>
