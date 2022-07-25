@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-25T10:29:19.176Z</updated>
+    <updated>2022-07-25T11:22:51.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]전장연 "엘리베이터 없는 경찰서, 불법"..사실은?]]></title>
+        <id>https://v.daum.net/v/20220725195354910</id>
+        <link href="https://v.daum.net/v/20220725195354910"/>
+        <updated>2022-07-25T11:21:44.867Z</updated>
+        <content type="html"><![CDATA[[윤국현 / 서울 종로경찰서 지능팀장] "80년대 초반에 신축이 되서 엘리베이터 설치가 안 돼있는 경찰서예요." [박경석 / 전국장애인차별철폐연대 공동대표] "법에 의해서 정당하게 장애인들에게 제공해야 될 편의시설이 갖춰지지 않은…" 장애인 예산을 편성해달라며 지하철을 막은 전국장애인차별철폐연대. 엘리베이터 없는 경찰서는 불법이라며 경찰 조사도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["경찰서장회의, 12·12 쿠데타에 준한다" 이상민 장관 발언은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220725192102281</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220720195359770"/>
         <updated>2022-07-20T11:25:29.019Z</updated>
         <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 사람 문 반려동물, 안락사 가능하다?]]></title>
-        <id>https://v.daum.net/v/20220720193854498</id>
-        <link href="https://v.daum.net/v/20220720193854498"/>
-        <updated>2022-07-20T11:25:29.021Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 얼마전 울산에서 어린이가 개에게 물려 크게 다치는 사고가 있었는데, 경찰이 이 개를 안락사 시키려 했지만, 검찰이 제동을 걸었습니다. 개물림 사고는 해마다 2천 건 넘게 일어나는데, 개가 사람을 물어 다쳤다면 그 개를 안락사를 시킬 수 없는 걸까요? 김태림 기자가 확인해 봤습니다. 【 기자 】 최근 울산에서 개가]]></content>
     </entry>
 </feed>
