@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-25T21:22:18.332Z</updated>
+    <updated>2022-07-25T22:23:35.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 정부의 '탈(脫) 탈원전' 정책..에너지법 개정 없인 불가능?]]></title>
+        <id>https://v.daum.net/v/20220726070048732</id>
+        <link href="https://v.daum.net/v/20220726070048732"/>
+        <updated>2022-07-25T22:22:30.281Z</updated>
+        <content type="html"><![CDATA[윤석열 정부는 전 정부의 '탈원전 정책'을 벗어나는 이른바  '탈(脫) 탈원전' 정책을 추진하고 있습니다. 윤 대통령이 후보 시절 SNS를 통해 '탈원전 백지화, 원전 최강국 건설'이라는 한 줄 공약을 밝힌 이후로 줄곧 탈(脫) 탈원전을 위한 행보에 나서고 있는데요. 지난 21일 열린 국회 교섭단체 대표연설에서 권성동 국민의힘 대표 직무대행 겸 원내대표는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다]]></title>
         <id>https://v.daum.net/v/20220725213201592</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220722110612859"/>
         <updated>2022-07-22T02:22:55.327Z</updated>
         <content type="html"><![CDATA[음악계가 표절 논란으로 몸살을 앓고 있습니다. 그 시작은 가수 겸 음반 제작자인 유희열 씨가 지난해 9월 발표한 '아주 사적인 밤'이, 일본 대중음악의 거장 사카모토 류이치의 '아쿠아'와 유사하다는 의혹이었습니다. 유희열 씨는 "무의식 중에 기억 속에 남아 있던 유사한 진행 방식으로 곡을 쓰게 됐다"고 유사성을 인정했고, 사카모토가 "법적 조치가 필요한 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["당장에라도 금지" 개미들 성토.. 공매도, 진짜로 나쁠까 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220721170157430</id>
-        <link href="https://v.daum.net/v/20220721170157430"/>
-        <updated>2022-07-21T08:29:47.694Z</updated>
-        <content type="html"><![CDATA[금리상승과 각종 대내외 악재로 주가가 추락하면서 공매도(주식을 빌려서 판 이후 주가가 하락하면 다시 사들여 갚고 차익을 얻는 매매 기법)를&nbsp;둘러싼 논란이 커지고 있다. 개미들은 공매도를 증시 하락의 원인으로 지목하면서 성토를 하고 있다.&nbsp; 금융당국도 개미들의 원성이 높아가자 관련 규제를 검토하겠다는 입장을 내놨다.&nbsp;김주현 금융위원장은 11일 취임 기자간]]></content>
     </entry>
 </feed>
