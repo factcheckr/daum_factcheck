@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-25T07:24:33.050Z</updated>
+    <updated>2022-07-25T08:33:25.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이한열·전태일·박종철도 못받은 유공자 대우..'운동권 셀프보상' '신분세습법' 비판은 타당한가[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20220725170744378</id>
+        <link href="https://v.daum.net/v/20220725170744378"/>
+        <updated>2022-07-25T08:32:25.141Z</updated>
+        <content type="html"><![CDATA[여야가 과거 민주화운동 희생자를 국가유공자로 지정해 예우하는 ‘민주유공자법’의 제정을 놓고 연일 정면 충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”며 2년 만에 다시 입법에 나선 반면 국민의힘은 해당 법안이 대입 특별전형과 공무원·공기업 임용 가산점 등을 주는 ‘셀프 특혜’ ‘신분세습법’이라고 반대하고 있다. 일각에서는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 코로나 변이 재유행..확진자 대응요령 달라진 점은?]]></title>
         <id>https://v.daum.net/v/20220725094913542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220720161320858"/>
         <updated>2022-07-20T07:22:38.546Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 이재용 기자] "쉽게 찾아 바로 쓰는 방법, 1만원부터 부담 없이 단기카드대출을 이용해보세요!" 자금 융통이 어려운 요즘 신용카드사에서 오는 현금서비스(단기카드대출) 광고 문자는 가뭄에 단비 같이 느껴진다. 하지만 덥석 현금서비스를 받기엔 영 찝찝하다. 이자 폭탄을 감수해야 할 뿐만 아니라 신용점수가 크게 떨어진다는 말들 때문이다. 또 행여나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우회전 일시정지 차량에 경적 울리면 범칙금 4만원?]]></title>
-        <id>https://v.daum.net/v/20220720151842261</id>
-        <link href="https://v.daum.net/v/20220720151842261"/>
-        <updated>2022-07-20T06:30:08.026Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 횡단보도 앞 일시 정지 의무를 확대한 새 도로교통법이 12일부터 시행된 가운데 곳곳에서는 바뀐 규정을 놓고 혼선이 빚어지고 있다. 인터넷상에는 새 규정이 여전히 헷갈린다는 반응과 함께 '횡단보도 우회전 클랙슨 범칙금 4만원' '우회전 일단 멈춤시 경적 울리는 뒤차 범칙금 4만원' 등의 내용을 담은 글들도 확산하고 있다. 이]]></content>
     </entry>
 </feed>
