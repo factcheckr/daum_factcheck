@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-25T14:24:08.856Z</updated>
+    <updated>2022-07-25T15:28:08.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다]]></title>
+        <id>https://v.daum.net/v/20220725213201592</id>
+        <link href="https://v.daum.net/v/20220725213201592"/>
+        <updated>2022-07-25T15:26:54.951Z</updated>
+        <content type="html"><![CDATA[고 이한열·박종철·전태일 등 민주화 상징적 인물들 지정 유공 예상 대상자 829명 중 “현역 정치인 단 1명도 없어” 여야가 민주화운동 희생자를 국가유공자로 예우하는 ‘민주유공자법’ 제정을 놓고 정면충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”고 주장하는 반면 국민의힘은 대입 특별전형과 공무원·공기업 임용 가산점 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]전장연 "엘리베이터 없는 경찰서, 불법"..사실은?]]></title>
         <id>https://v.daum.net/v/20220725195354910</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220721170157430"/>
         <updated>2022-07-21T08:29:47.694Z</updated>
         <content type="html"><![CDATA[금리상승과 각종 대내외 악재로 주가가 추락하면서 공매도(주식을 빌려서 판 이후 주가가 하락하면 다시 사들여 갚고 차익을 얻는 매매 기법)를&nbsp;둘러싼 논란이 커지고 있다. 개미들은 공매도를 증시 하락의 원인으로 지목하면서 성토를 하고 있다.&nbsp; 금융당국도 개미들의 원성이 높아가자 관련 규제를 검토하겠다는 입장을 내놨다.&nbsp;김주현 금융위원장은 11일 취임 기자간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]"영상 안 찍혔다"..불법촬영 기준은?]]></title>
-        <id>https://v.daum.net/v/20220720195359770</id>
-        <link href="https://v.daum.net/v/20220720195359770"/>
-        <updated>2022-07-20T11:25:29.019Z</updated>
-        <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요.]]></content>
     </entry>
 </feed>
