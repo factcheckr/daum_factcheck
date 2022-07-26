@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-07-26T11:21:21.177Z</updated>
+    <updated>2022-07-26T12:51:01.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털성범죄 남성피해자가 20%?]]></title>
+        <id>https://v.daum.net/v/20220726202514195</id>
+        <link href="https://v.daum.net/v/20220726202514195"/>
+        <updated>2022-07-26T12:50:20.460Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 인하대학교 성폭행 추락사 사건에 대해 김현숙 여성가족부 장관이 한 발언입니다. "그건 안전의 문제다" "남녀를 나눠 젠더갈등을 증폭시키는 건 바람직하지 않다"면서 "디지털성범죄의 남성 피해자 비율이 20%를 넘는다"는 통계를 그 근거로 제시했습니다. 과연 이 수치가 맞는 건지, 또 발언의 취지에 적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공영방송 기자들, 질문하지 말라?]]></title>
         <id>https://v.daum.net/v/20220715200112136</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220517202514840"/>
         <updated>2022-05-24T02:06:13.946Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 집무실 용산 이전과 함께 시작된 윤석열 대통령의 출퇴근길,  교통 통제가 이슈가 되고 있지만, 기자들과 거의 매일 얼굴을 맞대고 문답을 주고받는 모습도 우리나라에선 처음 보게된 낯선 풍경입니다. [윤석열 대통령 (오늘)] (임명 절차대로 진행할 계획이신지 궁금합니다.) "검토해 보겠습니다." 대통령의 소통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['표절률' 낮으면 표절 아니다?]]></title>
-        <id>https://v.daum.net/v/20220513201607916</id>
-        <link href="https://v.daum.net/v/20220513201607916"/>
-        <updated>2022-05-24T02:06:13.947Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한동훈 법무부 장관 후보자의 장녀가 지난해 12월 '전기전자공학자협회'의 온라인 콘퍼런스에 낸 5장짜리 기고문입니다. '건강관리 향상을 위한 고급 컴퓨터 기술의 적용'이란 제목입니다. 표절 의혹이 제기되자 한 후보자는 이렇게 해명했습니다. [한동훈/법무부장관 후보자(인사청문회, 지난 9일)] "우리나라 ']]></content>
     </entry>
 </feed>
