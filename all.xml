@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T10:30:39.863Z</updated>
+    <updated>2022-07-26T11:21:21.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 총경들이 '위수지역' 이탈? 장관 발언 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220726194805096</id>
+        <link href="https://v.daum.net/v/20220726194805096"/>
+        <updated>2022-07-26T11:20:16.325Z</updated>
+        <content type="html"><![CDATA[[앵커] 여기서 바로 이상민 장관의 '쿠데타 발언'을 팩트체크하겠습니다. 두 가지인데, 총경들이 위수지역을 이탈한 건지, 무기도 소지할 수 있는 건지입니다. 결론은 사실에 근거하지 않은 주장입니다. 이지은 팩트체커입니다. [기자] 이상민 행안부 장관은 지난 23일 회의에 모인 총경들의 위수지역 이탈을 지적했습니다. [이상민/행정안전부 장관 (어제 / 대정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220726183002109</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220725094912540"/>
         <updated>2022-07-25T02:19:04.004Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 23일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '사랑해'라고 말했더니 양파가 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]대한민국이 인신매매 방지 '2류 국가'? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220723080600701</id>
-        <link href="https://v.daum.net/v/20220723080600701"/>
-        <updated>2022-07-22T23:24:19.753Z</updated>
-        <content type="html"><![CDATA[20년 만에 2등급으로 강등…노동착취 등 인신매매 근절 노력 부족CBS 주말 뉴스쇼 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (토요일 07:00~08:55) ■ 진행 : 조태임 기자 ■ 패널 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 '모아모아 팩트체크'입니다. 오늘도 팩트체크 전문 미디어 뉴스톱 선정수 기자와 함께]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 표절 기준..판결로 살펴봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -498,7 +498,7 @@
         <title type="html"><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220726183002109</id>
         <link href="https://v.daum.net/v/20220726183002109"/>
-        <updated>2022-07-26T10:30:30.979Z</updated>
+        <updated>2022-07-26T10:29:40.293Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;&lt;주간조선&gt;은 7월 26일 오전 11시 46분쯤 &lt;‘대기발령’ 류삼영, 논란 1시간 만에 삭제한 사진보니...&gt; 기사에서 류삼영 전 울산중부경찰서장(총경)이 지난 2019년 조국 전 법무부 장관 수호 집회에 참석했다며 사진과 함께 보도했다. 하지만 사진 속 인물은 류 총경이 아닌 다른 경찰 간부였다. 26일 오후 4시]]></content>
     </entry>
     <entry>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;TBS의 라디오 토크쇼 '김어준의 뉴스공장'    ⓒ TBS 유튜브  &nbsp; 김어준 "대통령들 백화점 공개 쇼핑 안 했다" vs. &lt;중앙&gt; "외국은 달라" 윤석열 대통령 부부가 취임 후 첫 주말인 지난 5월 14일 신세계백화점 강남점과 서울 종로구 광장시장 등에서 쇼핑한 것을 시작으로 주말마다 '사적' 행보를 이어가고 있다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[총경들이 '위수지역' 이탈? 장관 발언 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220726194805096</id>
+        <link href="https://v.daum.net/v/20220726194805096"/>
+        <updated>2022-07-26T11:21:20.563Z</updated>
+        <content type="html"><![CDATA[[앵커] 여기서 바로 이상민 장관의 '쿠데타 발언'을 팩트체크하겠습니다. 두 가지인데, 총경들이 위수지역을 이탈한 건지, 무기도 소지할 수 있는 건지입니다. 결론은 사실에 근거하지 않은 주장입니다. 이지은 팩트체커입니다. [기자] 이상민 행안부 장관은 지난 23일 회의에 모인 총경들의 위수지역 이탈을 지적했습니다. [이상민/행정안전부 장관 (어제 / 대정부]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['4억 주택 기준' 금리전환 대책, 수도권 역차별? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220719202305487</id>
         <link href="https://v.daum.net/v/20220719202305487"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220615202506800"/>
         <updated>2022-06-15T12:46:02.637Z</updated>
         <content type="html"><![CDATA[[앵커] '택시 합승' 서비스가 오늘(15일)부터 시행이 됐습니다. 택시대란을 잡으려고 정부가 추진을 하는 겁니다. 이에 대해서 여러 이야기들이 나오고 있습니다. 예를 들면, "차종에 따라 남녀 구분 없이 태워도 된다", "합승에 동의하지 않으면, 이제 웃돈을 내고 택시를 타야 한다", 이런 내용들입니다. 팩트체크를 바로 해보겠습니다. 이지은 기자, 일단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관세 0%로 내리면 수입 돼지고기값 20% 하락? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220606202007866</id>
-        <link href="https://v.daum.net/v/20220606202007866"/>
-        <updated>2022-06-06T12:48:38.252Z</updated>
-        <content type="html"><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content>
     </entry>
 </feed>

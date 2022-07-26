@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-26T10:30:39.836Z</updated>
+    <updated>2022-07-26T11:21:21.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 총경들이 '위수지역' 이탈? 장관 발언 따져보니]]></title>
+        <id>https://v.daum.net/v/20220726194805096</id>
+        <link href="https://v.daum.net/v/20220726194805096"/>
+        <updated>2022-07-26T11:20:16.325Z</updated>
+        <content type="html"><![CDATA[[앵커] 여기서 바로 이상민 장관의 '쿠데타 발언'을 팩트체크하겠습니다. 두 가지인데, 총경들이 위수지역을 이탈한 건지, 무기도 소지할 수 있는 건지입니다. 결론은 사실에 근거하지 않은 주장입니다. 이지은 팩트체커입니다. [기자] 이상민 행안부 장관은 지난 23일 회의에 모인 총경들의 위수지역 이탈을 지적했습니다. [이상민/행정안전부 장관 (어제 / 대정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220726183002109</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220725094912540"/>
         <updated>2022-07-25T02:19:04.004Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 23일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '사랑해'라고 말했더니 양파가 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]대한민국이 인신매매 방지 '2류 국가'?]]></title>
-        <id>https://v.daum.net/v/20220723080600701</id>
-        <link href="https://v.daum.net/v/20220723080600701"/>
-        <updated>2022-07-22T23:24:19.753Z</updated>
-        <content type="html"><![CDATA[20년 만에 2등급으로 강등…노동착취 등 인신매매 근절 노력 부족CBS 주말 뉴스쇼 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (토요일 07:00~08:55) ■ 진행 : 조태임 기자 ■ 패널 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 '모아모아 팩트체크'입니다. 오늘도 팩트체크 전문 미디어 뉴스톱 선정수 기자와 함께]]></content>
     </entry>
 </feed>
