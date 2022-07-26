@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-26T19:21:06.105Z</updated>
+    <updated>2022-07-26T20:25:32.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세습 특혜 논란 '민주유공자법', 대입·취업 혜택 있지만 기존 국가유공자법과 같은 수준 [팩트파인더]]]></title>
+        <id>https://v.daum.net/v/20220727043041439</id>
+        <link href="https://v.daum.net/v/20220727043041439"/>
+        <updated>2022-07-26T20:24:32.007Z</updated>
+        <content type="html"><![CDATA[민주화운동으로 사망하거나 행방불명 또는 장해 판정을 받은 것으로 인정된 이들을 국가유공자로 예우하는 민주유공자법 제정을 놓고 여야가 엇갈린 주장을 내놓고 있다. 여당은 "운동권 자녀를 위한 현대판 음서제도"라고 비판하는 반면, 야당은 "4·19나 5·18 희생자가 유공자로 예우받는 만큼 전태일, 박종철, 이한열 열사 같은 민주화의 상징적 인물도 유공자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "경찰 독립된 나라 어디에도 없다"..따져보니]]></title>
         <id>https://v.daum.net/v/20220726210014026</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220725192102281"/>
         <updated>2022-07-25T10:28:09.872Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이상민 행정안전부 장관이 25일 오전 정부서울청사에서 행안부 경찰국 신설과 관련한 경찰 집단반발에 대한 입장을 밝히고 있다.    ⓒ 권우성  &nbsp; [검증대상] "경찰서장회의, 12.12 쿠데타에 준하는 상황" 이상민 장관 발언 &nbsp;"경찰 총수인 경찰청장 직무대행자가 해산 명령을 내렸는데도 그걸 정면으로 위반했다. 군으로 치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이한열·전태일·박종철도 못받은 유공자 대우..'운동권 셀프보상' '신분세습법' 비판은 타당한가[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20220725170744378</id>
-        <link href="https://v.daum.net/v/20220725170744378"/>
-        <updated>2022-07-25T08:32:25.141Z</updated>
-        <content type="html"><![CDATA[여야가 과거 민주화운동 희생자를 국가유공자로 지정해 예우하는 ‘민주유공자법’의 제정을 놓고 연일 정면 충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”며 2년 만에 다시 입법에 나선 반면 국민의힘은 해당 법안이 대입 특별전형과 공무원·공기업 임용 가산점 등을 주는 ‘셀프 특혜’ ‘신분세습법’이라고 반대하고 있다. 일각에서는]]></content>
     </entry>
 </feed>
