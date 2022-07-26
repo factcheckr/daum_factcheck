@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T07:23:44.257Z</updated>
+    <updated>2022-07-26T08:30:18.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 민주유공자 예우법은 '운동권 신분 세습법'인가 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220726161506824</id>
+        <link href="https://v.daum.net/v/20220726161506824"/>
+        <updated>2022-07-26T08:29:06.025Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 입법을 추진 중인 ‘민주유공자 예우에 관한 법률안’(민주유공자법)을 두고 여야 간 공방이 뜨겁다. 민주화운동으로 사망하거나 다친 이들에게 유공자 예우를 하는 이 법안에 대해 국민의힘은 “운동권 신분 세습법”이라고 공격하고 민주당은 “민주열사에 대한 명예훼손이자 사실 왜곡”이라며 맞서고 있다. 이 법이 제정되면 새롭게 민주유공자로 지정될 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 정부의 '탈(脫) 탈원전' 정책..에너지법 개정 없인 불가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220726070048732</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220722132710154"/>
         <updated>2022-07-22T05:31:56.924Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조선일보는 7월 20일 사설 '세계 최다 한국 공영방송들, 세금 먹는 하마 아닌가'에서 "한국은 공영방송 천국이다. KBS1·2와 MBC, EBS, KTV, 연합뉴스TV, YTN, 국회방송, 아리랑 TV 등이 모두 공영이다. 정부가 홈쇼핑 채널까지 운영한다. 중국·러시아 등 전체주의 국가를 제외하고 세계에 이런 나라가 없]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 음악 표절 기준..판결로 살펴봤습니다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220722110612859</id>
-        <link href="https://v.daum.net/v/20220722110612859"/>
-        <updated>2022-07-22T02:22:55.327Z</updated>
-        <content type="html"><![CDATA[음악계가 표절 논란으로 몸살을 앓고 있습니다. 그 시작은 가수 겸 음반 제작자인 유희열 씨가 지난해 9월 발표한 '아주 사적인 밤'이, 일본 대중음악의 거장 사카모토 류이치의 '아쿠아'와 유사하다는 의혹이었습니다. 유희열 씨는 "무의식 중에 기억 속에 남아 있던 유사한 진행 방식으로 곡을 쓰게 됐다"고 유사성을 인정했고, 사카모토가 "법적 조치가 필요한 수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악 표절 기준..판결로 살펴봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
