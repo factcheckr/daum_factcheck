@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-26T09:25:11.220Z</updated>
+    <updated>2022-07-26T10:30:39.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["류삼영 총경이 조국 집회 참석" 주장은 '새빨간 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220726183002109</id>
+        <link href="https://v.daum.net/v/20220726183002109"/>
+        <updated>2022-07-26T10:29:40.293Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;&lt;주간조선&gt;은 7월 26일 오전 11시 46분쯤 &lt;‘대기발령’ 류삼영, 논란 1시간 만에 삭제한 사진보니...&gt; 기사에서 류삼영 전 울산중부경찰서장(총경)이 지난 2019년 조국 전 법무부 장관 수호 집회에 참석했다며 사진과 함께 보도했다. 하지만 사진 속 인물은 류 총경이 아닌 다른 경찰 간부였다. 26일 오후 4시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 민주유공자 예우법은 '운동권 신분 세습법'인가]]></title>
         <id>https://v.daum.net/v/20220726161506824</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[윤석열 정부는 전 정부의 '탈원전 정책'을 벗어나는 이른바  '탈(脫) 탈원전' 정책을 추진하고 있습니다. 윤 대통령이 후보 시절 SNS를 통해 '탈원전 백지화, 원전 최강국 건설'이라는 한 줄 공약을 밝힌 이후로 줄곧 탈(脫) 탈원전을 위한 행보에 나서고 있는데요. 지난 21일 열린 국회 교섭단체 대표연설에서 권성동 국민의힘 대표 직무대행 겸 원내대표는]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다]]></title>
+        <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다[팩트체크]]]></title>
         <id>https://v.daum.net/v/20220725213201592</id>
         <link href="https://v.daum.net/v/20220725213201592"/>
         <updated>2022-07-25T15:26:54.951Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220723080600701"/>
         <updated>2022-07-22T23:24:19.753Z</updated>
         <content type="html"><![CDATA[20년 만에 2등급으로 강등…노동착취 등 인신매매 근절 노력 부족CBS 주말 뉴스쇼 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (토요일 07:00~08:55) ■ 진행 : 조태임 기자 ■ 패널 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 '모아모아 팩트체크'입니다. 오늘도 팩트체크 전문 미디어 뉴스톱 선정수 기자와 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국 공영방송, 세계 최다' <조선> 사설, '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220722132710154</id>
-        <link href="https://v.daum.net/v/20220722132710154"/>
-        <updated>2022-07-22T05:31:56.924Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조선일보는 7월 20일 사설 '세계 최다 한국 공영방송들, 세금 먹는 하마 아닌가'에서 "한국은 공영방송 천국이다. KBS1·2와 MBC, EBS, KTV, 연합뉴스TV, YTN, 국회방송, 아리랑 TV 등이 모두 공영이다. 정부가 홈쇼핑 채널까지 운영한다. 중국·러시아 등 전체주의 국가를 제외하고 세계에 이런 나라가 없]]></content>
     </entry>
 </feed>
