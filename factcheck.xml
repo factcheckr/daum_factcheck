@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-27T11:21:24.663Z</updated>
+    <updated>2022-07-27T12:53:09.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://v.daum.net/v/20220727194710008</id>
         <link href="https://v.daum.net/v/20220727194710008"/>
         <updated>2022-07-27T11:20:22.251Z</updated>
-        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난해]]></content>
+        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정부 직제 개편안 입법예고 기간은 통상 5일?]]></title>
