@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T23:24:23.754Z</updated>
+    <updated>2022-07-27T02:28:01.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 정부 직제 개편안 입법예고 기간은 통상 5일? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220727104248017</id>
+        <link href="https://v.daum.net/v/20220727104248017"/>
+        <updated>2022-07-27T02:26:56.796Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 행정안전부 내에 경찰국을 신설하는 내용의 시행령 개정안이 국무회의를 통과해 다음달 시행될 예정인 가운데 졸속입법이라는 비판이 수그러들지 않고 있다. 경찰국 신설을 골자로 하는 '행정안전부와 그 소속기관 직제 일부개정안'(대통령령)은 지난 16일부터 19일까지 입법예고된 뒤 21일 차관회의, 26일 국무회의를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜 논란 '민주유공자법', 대입·취업 혜택 있지만 기존 국가유공자법과 같은 수준 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220727043041439</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220725195354910"/>
         <updated>2022-07-25T11:21:44.867Z</updated>
         <content type="html"><![CDATA[[윤국현 / 서울 종로경찰서 지능팀장] "80년대 초반에 신축이 되서 엘리베이터 설치가 안 돼있는 경찰서예요." [박경석 / 전국장애인차별철폐연대 공동대표] "법에 의해서 정당하게 장애인들에게 제공해야 될 편의시설이 갖춰지지 않은…" 장애인 예산을 편성해달라며 지하철을 막은 전국장애인차별철폐연대. 엘리베이터 없는 경찰서는 불법이라며 경찰 조사도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경찰서장회의, 12·12 쿠데타에 준한다" 이상민 장관 발언은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220725192102281</id>
-        <link href="https://v.daum.net/v/20220725192102281"/>
-        <updated>2022-07-25T10:28:09.872Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이상민 행정안전부 장관이 25일 오전 정부서울청사에서 행안부 경찰국 신설과 관련한 경찰 집단반발에 대한 입장을 밝히고 있다.    ⓒ 권우성  &nbsp; [검증대상] "경찰서장회의, 12.12 쿠데타에 준하는 상황" 이상민 장관 발언 &nbsp;"경찰 총수인 경찰청장 직무대행자가 해산 명령을 내렸는데도 그걸 정면으로 위반했다. 군으로 치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["경찰 독립된 나라 어디에도 없다"..따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
