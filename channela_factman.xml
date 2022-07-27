@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-07-27T10:30:07.550Z</updated>
+    <updated>2022-07-27T11:21:24.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목에 거는 선풍기, 발암 전자파 내뿜는다?]]></title>
+        <id>https://v.daum.net/v/20220727194710008</id>
+        <link href="https://v.daum.net/v/20220727194710008"/>
+        <updated>2022-07-27T11:20:58.286Z</updated>
+        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전장연 "엘리베이터 없는 경찰서, 불법"..사실은?]]></title>
         <id>https://v.daum.net/v/20220725195354910</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220110195757178"/>
         <updated>2022-01-10T11:20:35.190Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 반려견 키우는 분들이 많이 찾는 한강공원에서 시작합니다. 제 손에 들려있는 목줄, 이렇게 늘리면 4m 정도까지 늘어나는데요. 당장 다음 달부터 반려견 목줄 길이가 제한된다고 하는데 기준이 뭔지 확인해봅니다. 결론부터 말씀드리면 목줄이나 가슴줄 길이, 2m로 제한됩니다. 그동안에는 '타인에게 해를 주지 않는 정도'로만 정해져 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-나이 탓?..헷갈리는 방역패스 기준]]></title>
-        <id>https://v.daum.net/v/20220106200358803</id>
-        <link href="https://v.daum.net/v/20220106200358803"/>
-        <updated>2022-01-06T11:19:55.259Z</updated>
-        <content type="html"><![CDATA[저는 해가 바뀌어 서른한 살이 됐는데요. 약국에서 받은 약 봉투에는 이렇게 29세, 만 나이가 적혀있습니다. 나이를 세는 방법이 여럿이다 보니 일어나는 일인데요. 방역패스 적용이나 백신 접종 여부에도 영향을 미치는 나이 셈법, 스튜디오로 옮겨 정리해 봅니다. 나이를 세는 법 3가지입니다. 먼저 태어날 땐 0세였다가 ▲생일을 맞을 때마다 1]]></content>
     </entry>
 </feed>

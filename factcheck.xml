@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-27T10:30:07.565Z</updated>
+    <updated>2022-07-27T11:21:24.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]목에 거는 선풍기, 발암 전자파 내뿜는다?]]></title>
+        <id>https://v.daum.net/v/20220727194710008</id>
+        <link href="https://v.daum.net/v/20220727194710008"/>
+        <updated>2022-07-27T11:20:22.251Z</updated>
+        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정부 직제 개편안 입법예고 기간은 통상 5일?]]></title>
         <id>https://v.daum.net/v/20220727104248017</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220725213201592"/>
         <updated>2022-07-25T15:26:54.951Z</updated>
         <content type="html"><![CDATA[고 이한열·박종철·전태일 등 민주화 상징적 인물들 지정 유공 예상 대상자 829명 중 “현역 정치인 단 1명도 없어” 여야가 민주화운동 희생자를 국가유공자로 예우하는 ‘민주유공자법’ 제정을 놓고 정면충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”고 주장하는 반면 국민의힘은 대입 특별전형과 공무원·공기업 임용 가산점 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]전장연 "엘리베이터 없는 경찰서, 불법"..사실은?]]></title>
-        <id>https://v.daum.net/v/20220725195354910</id>
-        <link href="https://v.daum.net/v/20220725195354910"/>
-        <updated>2022-07-25T11:21:44.867Z</updated>
-        <content type="html"><![CDATA[[윤국현 / 서울 종로경찰서 지능팀장] "80년대 초반에 신축이 되서 엘리베이터 설치가 안 돼있는 경찰서예요." [박경석 / 전국장애인차별철폐연대 공동대표] "법에 의해서 정당하게 장애인들에게 제공해야 될 편의시설이 갖춰지지 않은…" 장애인 예산을 편성해달라며 지하철을 막은 전국장애인차별철폐연대. 엘리베이터 없는 경찰서는 불법이라며 경찰 조사도]]></content>
     </entry>
 </feed>
