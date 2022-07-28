@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-28T09:26:12.552Z</updated>
+    <updated>2022-07-28T10:28:47.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 훈련소 입소 후 코로나 확진돼 귀가하면 복무기간 안 빼준다?]]></title>
         <id>https://v.daum.net/v/20220728175005594</id>
