@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-28T11:22:23.314Z</updated>
+    <updated>2022-07-28T12:54:01.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220728202608602</id>
+        <link href="https://v.daum.net/v/20220728202608602"/>
+        <updated>2022-07-28T12:53:02.086Z</updated>
+        <content type="html"><![CDATA[[앵커] 크게 오른 물가 탓에 팍팍한 살림 꾸려나가다 보면, 매달 나가는 통신비도 적잖은 부담인데요. 정부가 이런 가계 부담을 줄여보겠다면서 5G 중간요금제 도입 계획을 발표했습니다. 그런데, 도입 전부터 불만들이 나옵니다. 팩트체크해보겠습니다. 이지은 기자, 중간요금제라는 게 뭔가요? [기자] 음식에 빗대서 설명을 해드리겠습니다. 안 앵커가 냉면집에 갔습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 훈련소 입소 후 코로나 확진돼 귀가하면 복무기간 안 빼준다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220728175005594</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220726161506824"/>
         <updated>2022-07-26T08:29:06.025Z</updated>
         <content type="html"><![CDATA[더불어민주당이 입법을 추진 중인 ‘민주유공자 예우에 관한 법률안’(민주유공자법)을 두고 여야 간 공방이 뜨겁다. 민주화운동으로 사망하거나 다친 이들에게 유공자 예우를 하는 이 법안에 대해 국민의힘은 “운동권 신분 세습법”이라고 공격하고 민주당은 “민주열사에 대한 명예훼손이자 사실 왜곡”이라며 맞서고 있다. 이 법이 제정되면 새롭게 민주유공자로 지정될 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 정부의 '탈(脫) 탈원전' 정책..에너지법 개정 없인 불가능? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220726070048732</id>
-        <link href="https://v.daum.net/v/20220726070048732"/>
-        <updated>2022-07-25T22:22:30.281Z</updated>
-        <content type="html"><![CDATA[윤석열 정부는 전 정부의 '탈원전 정책'을 벗어나는 이른바  '탈(脫) 탈원전' 정책을 추진하고 있습니다. 윤 대통령이 후보 시절 SNS를 통해 '탈원전 백지화, 원전 최강국 건설'이라는 한 줄 공약을 밝힌 이후로 줄곧 탈(脫) 탈원전을 위한 행보에 나서고 있는데요. 지난 21일 열린 국회 교섭단체 대표연설에서 권성동 국민의힘 대표 직무대행 겸 원내대표는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["경찰 독립된 나라 어디에도 없다"..따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;TBS의 라디오 토크쇼 '김어준의 뉴스공장'    ⓒ TBS 유튜브  &nbsp; 김어준 "대통령들 백화점 공개 쇼핑 안 했다" vs. &lt;중앙&gt; "외국은 달라" 윤석열 대통령 부부가 취임 후 첫 주말인 지난 5월 14일 신세계백화점 강남점과 서울 종로구 광장시장 등에서 쇼핑한 것을 시작으로 주말마다 '사적' 행보를 이어가고 있다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220728202608602</id>
+        <link href="https://v.daum.net/v/20220728202608602"/>
+        <updated>2022-07-28T12:54:00.334Z</updated>
+        <content type="html"><![CDATA[[앵커] 크게 오른 물가 탓에 팍팍한 살림 꾸려나가다 보면, 매달 나가는 통신비도 적잖은 부담인데요. 정부가 이런 가계 부담을 줄여보겠다면서 5G 중간요금제 도입 계획을 발표했습니다. 그런데, 도입 전부터 불만들이 나옵니다. 팩트체크해보겠습니다. 이지은 기자, 중간요금제라는 게 뭔가요? [기자] 음식에 빗대서 설명을 해드리겠습니다. 안 앵커가 냉면집에 갔습]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[총경들이 '위수지역' 이탈? 장관 발언 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220726194805096</id>
         <link href="https://v.daum.net/v/20220726194805096"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20220616203408985"/>
         <updated>2022-06-16T12:46:51.220Z</updated>
         <content type="html"><![CDATA[[앵커] 국회가 임기 하반기 상임위원장 배분 문제를 놓고 여야가 싸우면서 개점휴업 상태를 이어가고 있습니다. 지난달 30일 0시를 기해서 사실상 업무 공백 상태인데요. 보시는 것처럼, 국회 상임위 홈페이지도 '위원회 구성 전'이라며 멈춰서있습니다. 이렇다 보니 국회의원들 사이에서도 세비, 그러니까 월급 반납해야 하는 거 아니냐 하는 의견이 나오는데 바로 팩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220615202506800</id>
-        <link href="https://v.daum.net/v/20220615202506800"/>
-        <updated>2022-06-15T12:46:02.637Z</updated>
-        <content type="html"><![CDATA[[앵커] '택시 합승' 서비스가 오늘(15일)부터 시행이 됐습니다. 택시대란을 잡으려고 정부가 추진을 하는 겁니다. 이에 대해서 여러 이야기들이 나오고 있습니다. 예를 들면, "차종에 따라 남녀 구분 없이 태워도 된다", "합승에 동의하지 않으면, 이제 웃돈을 내고 택시를 타야 한다", 이런 내용들입니다. 팩트체크를 바로 해보겠습니다. 이지은 기자, 일단]]></content>
     </entry>
 </feed>
