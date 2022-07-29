@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-07-29T10:29:33.010Z</updated>
+    <updated>2022-07-29T11:21:40.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 대통령실 직원 깜깜이, 유독 우리나라만?]]></title>
+        <id>https://v.daum.net/v/20220729195817198</id>
+        <link href="https://v.daum.net/v/20220729195817198"/>
+        <updated>2022-07-29T11:20:37.129Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령과 여당 대표 대행의 문자에 등장하는 강기훈이라는 이름. 며칠이 지나서야 대통령실 행정관으로 드러나 또 사적채용 논란이 일고 있습니다. 처음이 아니죠. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지. 줄줄이 사적채용 논란을 빚어왔죠. 하지만 대통령실은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나?]]></title>
         <id>https://v.daum.net/v/20220728202608602</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220726183002109"/>
         <updated>2022-07-26T10:29:40.293Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;&lt;주간조선&gt;은 7월 26일 오전 11시 46분쯤 &lt;‘대기발령’ 류삼영, 논란 1시간 만에 삭제한 사진보니...&gt; 기사에서 류삼영 전 울산중부경찰서장(총경)이 지난 2019년 조국 전 법무부 장관 수호 집회에 참석했다며 사진과 함께 보도했다. 하지만 사진 속 인물은 류 총경이 아닌 다른 경찰 간부였다. 26일 오후 4시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 민주유공자 예우법은 '운동권 신분 세습법'인가]]></title>
-        <id>https://v.daum.net/v/20220726161506824</id>
-        <link href="https://v.daum.net/v/20220726161506824"/>
-        <updated>2022-07-26T08:29:06.025Z</updated>
-        <content type="html"><![CDATA[더불어민주당이 입법을 추진 중인 ‘민주유공자 예우에 관한 법률안’(민주유공자법)을 두고 여야 간 공방이 뜨겁다. 민주화운동으로 사망하거나 다친 이들에게 유공자 예우를 하는 이 법안에 대해 국민의힘은 “운동권 신분 세습법”이라고 공격하고 민주당은 “민주열사에 대한 명예훼손이자 사실 왜곡”이라며 맞서고 있다. 이 법이 제정되면 새롭게 민주유공자로 지정될 수]]></content>
     </entry>
 </feed>

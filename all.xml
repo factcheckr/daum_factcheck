@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-29T10:29:33.027Z</updated>
+    <updated>2022-07-29T11:21:40.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 대통령실 직원 깜깜이, 유독 우리나라만? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220729195817198</id>
+        <link href="https://v.daum.net/v/20220729195817198"/>
+        <updated>2022-07-29T11:20:37.129Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령과 여당 대표 대행의 문자에 등장하는 강기훈이라는 이름. 며칠이 지나서야 대통령실 행정관으로 드러나 또 사적채용 논란이 일고 있습니다. 처음이 아니죠. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지. 줄줄이 사적채용 논란을 빚어왔죠. 하지만 대통령실은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220728202608602</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220726183002109"/>
         <updated>2022-07-26T10:29:40.293Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;&lt;주간조선&gt;은 7월 26일 오전 11시 46분쯤 &lt;‘대기발령’ 류삼영, 논란 1시간 만에 삭제한 사진보니...&gt; 기사에서 류삼영 전 울산중부경찰서장(총경)이 지난 2019년 조국 전 법무부 장관 수호 집회에 참석했다며 사진과 함께 보도했다. 하지만 사진 속 인물은 류 총경이 아닌 다른 경찰 간부였다. 26일 오후 4시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 민주유공자 예우법은 '운동권 신분 세습법'인가 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220726161506824</id>
-        <link href="https://v.daum.net/v/20220726161506824"/>
-        <updated>2022-07-26T08:29:06.025Z</updated>
-        <content type="html"><![CDATA[더불어민주당이 입법을 추진 중인 ‘민주유공자 예우에 관한 법률안’(민주유공자법)을 두고 여야 간 공방이 뜨겁다. 민주화운동으로 사망하거나 다친 이들에게 유공자 예우를 하는 이 법안에 대해 국민의힘은 “운동권 신분 세습법”이라고 공격하고 민주당은 “민주열사에 대한 명예훼손이자 사실 왜곡”이라며 맞서고 있다. 이 법이 제정되면 새롭게 민주유공자로 지정될 수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["경찰 독립된 나라 어디에도 없다"..따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 그가 결선에서 연주한 라흐마니노프 피아노 협주곡 3번 영상은 입소문을 타고 유튜브 조회 수가 나흘 만에 200만을 넘겼습니다. 우승 이후 매일 관련 기사가 쏟아지고 있습니다. 한국이 음악 콩쿠르를 휩쓸고 있다며 'K-클래식'이라는 말까지 나왔습니다. 우리만 자화자찬하]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대통령실 직원 깜깜이, 유독 우리나라만? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220729195817198</id>
+        <link href="https://v.daum.net/v/20220729195817198"/>
+        <updated>2022-07-29T11:20:56.041Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령과 여당 대표 대행의 문자에 등장하는 강기훈이라는 이름. 며칠이 지나서야 대통령실 행정관으로 드러나 또 사적채용 논란이 일고 있습니다. 처음이 아니죠. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지. 줄줄이 사적채용 논란을 빚어왔죠. 하지만 대통령실은]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[디지털성범죄 남성피해자가 20%? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220726202514195</id>
         <link href="https://v.daum.net/v/20220726202514195"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220608200709483"/>
         <updated>2022-06-08T11:18:59.716Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부의 요직에 검찰출신 인사들이 너무 많다는 비판이 일자, 윤석열 대통령이 과거엔 '민변' 출신 법조인들이 많았다고 반박했죠. 과연 이 민변 출신 인사들이 정부 요직에 얼마나 많았는지, 또 지금과 그때 상황이 비슷하고 다른 게 뭔지 확인해봤습니다. 현 정부의 검찰출신과 이전 정부의 민변 출신 인사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출퇴근 대통령의 소통..다른 나라는? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220517202514840</id>
-        <link href="https://v.daum.net/v/20220517202514840"/>
-        <updated>2022-05-24T02:06:13.946Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 집무실 용산 이전과 함께 시작된 윤석열 대통령의 출퇴근길,  교통 통제가 이슈가 되고 있지만, 기자들과 거의 매일 얼굴을 맞대고 문답을 주고받는 모습도 우리나라에선 처음 보게된 낯선 풍경입니다. [윤석열 대통령 (오늘)] (임명 절차대로 진행할 계획이신지 궁금합니다.) "검토해 보겠습니다." 대통령의 소통]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부의 '탈(脫) 탈원전' 정책..에너지법 개정 없인 불가능? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
