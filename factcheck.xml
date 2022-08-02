@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-02T11:21:41.377Z</updated>
+    <updated>2022-08-02T12:53:01.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체난 완화 조짐에도.. 신차 주문하면 2024년 출고? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220802214123607</id>
+        <link href="https://v.daum.net/v/20220802214123607"/>
+        <updated>2022-08-02T12:51:58.111Z</updated>
+        <content type="html"><![CDATA[코로나19 대유행 이후 이어져온 차량용 반도체 공급난이 다소&nbsp;완화되는&nbsp;기미를 보이고 있지만 출고 지연이&nbsp;계속되는 데 대해 의문을&nbsp;품고 있는 소비자들이 많다. 여전히 일부 모델의 경우 대기 기간이 최소 1년 반씩 걸려 현재 주문하면 2024년에 받을 수 있는 것으로 확인됐다. 반도체 수급이 어느정도 풀리더라도 당장 국내 소비자들이 체감하기까지는 다소 시간이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '휴가 사유' 회사에 꼭 알려야 한다?]]></title>
         <id>https://v.daum.net/v/20220802195653649</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220730080305987"/>
         <updated>2022-07-29T23:23:27.286Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (토요일 07:00~08:55) ■ 진행 : 조태임 앵커 ■ 패널 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 팩트체크가 준비돼 있나요? ◆ 선정수 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 대통령실 직원 깜깜이, 유독 우리나라만?]]></title>
-        <id>https://v.daum.net/v/20220729195817198</id>
-        <link href="https://v.daum.net/v/20220729195817198"/>
-        <updated>2022-07-29T11:20:37.129Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령과 여당 대표 대행의 문자에 등장하는 강기훈이라는 이름. 며칠이 지나서야 대통령실 행정관으로 드러나 또 사적채용 논란이 일고 있습니다. 처음이 아니죠. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지. 줄줄이 사적채용 논란을 빚어왔죠. 하지만 대통령실은]]></content>
     </entry>
 </feed>
