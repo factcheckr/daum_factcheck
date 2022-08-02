@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-02T19:20:40.884Z</updated>
+    <updated>2022-08-02T20:27:26.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[반도체난 완화 조짐에도.. 신차 주문하면 2024년 출고? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220802214123607</id>
