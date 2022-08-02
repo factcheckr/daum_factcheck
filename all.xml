@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-02T10:31:03.574Z</updated>
+    <updated>2022-08-02T11:21:41.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '휴가 사유' 회사에 꼭 알려야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220802195653649</id>
+        <link href="https://v.daum.net/v/20220802195653649"/>
+        <updated>2022-08-02T11:20:36.331Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 본격적인 여름 휴가철이 시작되면서 잠시 일터를 떠나시는 분들, 많을 겁니다. 그런데 휴가 사유를 적어내야 하는 직장도 적지 않은데, 회사에 휴가 사유를 꼭 알려야 하는 걸까요?. 사실확인에서 홍지호 기자가 알아봤습니다. 【 기자 】 최근 온라인 커뮤니티에 '솔직한 휴가 사유'라는 제목의 글이 올라와 화제가 됐습니다. 휴가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 北에서 살인 등 중범죄 저지른 탈북자 국내서 처벌한 적 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220802154644703</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220729195817198"/>
         <updated>2022-07-29T11:20:37.129Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 대통령과 여당 대표 대행의 문자에 등장하는 강기훈이라는 이름. 며칠이 지나서야 대통령실 행정관으로 드러나 또 사적채용 논란이 일고 있습니다. 처음이 아니죠. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지. 줄줄이 사적채용 논란을 빚어왔죠. 하지만 대통령실은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220728202608602</id>
-        <link href="https://v.daum.net/v/20220728202608602"/>
-        <updated>2022-07-28T12:53:02.086Z</updated>
-        <content type="html"><![CDATA[[앵커] 크게 오른 물가 탓에 팍팍한 살림 꾸려나가다 보면, 매달 나가는 통신비도 적잖은 부담인데요. 정부가 이런 가계 부담을 줄여보겠다면서 5G 중간요금제 도입 계획을 발표했습니다. 그런데, 도입 전부터 불만들이 나옵니다. 팩트체크해보겠습니다. 이지은 기자, 중간요금제라는 게 뭔가요? [기자] 음식에 빗대서 설명을 해드리겠습니다. 안 앵커가 냉면집에 갔습]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 '저소득층' 발언, 출구조사로 살펴봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
