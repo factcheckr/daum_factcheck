@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-02T22:26:39.624Z</updated>
+    <updated>2022-08-02T23:25:24.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['손풍기' 써도 될까?..정부-환경단체 전자파 안전 문제 '핑퐁' [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220803050507817</id>
+        <link href="https://v.daum.net/v/20220803050507817"/>
+        <updated>2022-08-02T23:24:30.765Z</updated>
+        <content type="html"><![CDATA[최근 휴대용 선풍기에서 나오는 전자파가 인체에 안전한 수준인지를 두고 과학기술정보통신부와 환경단체 사이에 공방이 오가고 있습니다. 환경보건시민센터(시민센터)는 지난달 26일 휴대용 선풍기의 전자파를 측정한 결과 발암 위험성이 우려된다고 발표했습니다. 이에 과기정통부는 지난 1일 휴대용 선풍기에서 나오는 전자파는 인체보호기준을 충족한다고 반박했습니다. 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체난 완화 조짐에도.. 신차 주문하면 2024년 출고? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220802214123607</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220731090000363"/>
         <updated>2022-07-31T02:32:07.760Z</updated>
         <content type="html"><![CDATA[한동훈 법무부 장관이 문재인 정부 당시 북송된 탈북 어민에 대해 "한국 사법 시스템에서도 당연히 단죄가 가능하다"고 말했습니다. 최근 국회 대정부 질문에 나온 발언입니다. 그러면서 "탈북민이 한국 입국 이전, 중국에서 저지른 성폭력 범죄에 대해 대한민국이 수사해 법원에서 징역형을 처벌 받은 사례가 있다"고 근거를 들었습니다. 사실 처벌 선례 여부는 북]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]모든 아파트 신축 현장에는 '똥방'이 있다?]]></title>
-        <id>https://v.daum.net/v/20220730080305987</id>
-        <link href="https://v.daum.net/v/20220730080305987"/>
-        <updated>2022-07-29T23:23:27.286Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (토요일 07:00~08:55) ■ 진행 : 조태임 앵커 ■ 패널 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 팩트체크가 준비돼 있나요? ◆ 선정수 &gt;]]></content>
     </entry>
 </feed>
