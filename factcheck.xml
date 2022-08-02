@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-02T02:35:35.713Z</updated>
+    <updated>2022-08-02T04:40:44.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 이재명 '저소득층' 발언, 출구조사로 살펴봤습니다]]></title>
+        <id>https://v.daum.net/v/20220802120009039</id>
+        <link href="https://v.daum.net/v/20220802120009039"/>
+        <updated>2022-08-02T04:39:41.650Z</updated>
+        <content type="html"><![CDATA[더불어민주당 당 대표 후보인 이재명 의원이 "저소득층에서 국민의힘 지지가 많다"고 말해 논란이 일었습니다.&nbsp;국민의힘은 '국민 분열', '전형적인 편가르기'라며 공격 수위를 높였습니다. 민주당 내부에서도 비판이 나왔습니다. 당 대표 경쟁 후보 박용진 의원은 "검찰 탓, 언론 탓, 유권자 탓으로 남 탓 하면, 어떻게 이기는 민주당의 길을 갈 수 있는가"고 말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 만 5·6세 동급생 섞여 수업..한 반에 몇 명 늘어날까]]></title>
         <id>https://v.daum.net/v/20220801200404556</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220728175005594"/>
         <updated>2022-07-28T09:25:15.896Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 신종 코로나바이러스 감염증(코로나19)이 재확산세를 보이는 가운데 충남 논산의 육군훈련소에서도 집단 감염이 발생, 수백명의 확진자가 무더기로 나왔다. 이런 가운데 훈련소에서 입영 장정 중 코로나19 확진자를 귀가 조치했다는 사실이 알려지며 인터넷상에서는 "입소대에서 귀가 조치 후 재입대하면 기존 복무 기간은 안 빼준다" "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]목에 거는 선풍기, 발암 전자파 내뿜는다?]]></title>
-        <id>https://v.daum.net/v/20220727194710008</id>
-        <link href="https://v.daum.net/v/20220727194710008"/>
-        <updated>2022-07-27T11:20:22.251Z</updated>
-        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난]]></content>
     </entry>
 </feed>
