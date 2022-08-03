@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-03T10:29:00.608Z</updated>
+    <updated>2022-08-03T11:21:17.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]긴급상황 생겨도 알뜰폰은 위치추적 불가?]]></title>
+        <id>https://v.daum.net/v/20220803195753573</id>
+        <link href="https://v.daum.net/v/20220803195753573"/>
+        <updated>2022-08-03T11:20:24.325Z</updated>
+        <content type="html"><![CDATA[그제 밤, 30대 여성이 울산에 있는 자신의 집에서 살해당하는 사건이 있었습니다. 범인은 채팅 앱으로 만난 남성이었는데요. 여성은 숨지기 전 경찰에 신고 전화를 했는데 경찰은 알뜰폰이라 위치 추적에 실패했다고 설명합니다. 이유가 뭔지 알아봅니다. 신고 전화가 갑자기 끊긴 뒤, 여성의 휴대전화 전원도 꺼졌는데요. 이때 경찰이 확인할 수 있었던 것]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 과도한 노출은 처벌 대상이다?]]></title>
+        <id>https://v.daum.net/v/20220803193453140</id>
+        <link href="https://v.daum.net/v/20220803193453140"/>
+        <updated>2022-08-03T11:20:24.328Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 얼마 전 빗속에서 남녀 커플이 과도한 노출 차림으로 오토바이 질주를 한 영상이 공개되면서 경찰이 내사에 들어갔습니다. 이렇듯 도심에서 이뤄진 과도한 신체 노출은 처벌 대상인지, 또 어떤 기준이 있는지 이시열 기자가 사실확인에서 살펴봤습니다. 【 기자 】 도심 빗속에서 상의를 벗은 채 오토바이를 타고 있는 한 남성. 최근 SNS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] '고학력·고소득' 민주, '저학력·저소득' 국힘 지지?]]></title>
         <id>https://v.daum.net/v/20220803143532757</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220801195555460"/>
         <updated>2022-08-01T11:20:49.499Z</updated>
         <content type="html"><![CDATA[요새 전세 보증금을 돌려받지 못해 피해 보는 분들, 많죠. 주말 계약을 조심해라, 금요일에 계약하면 안심할 수 있다, 말들이 많은데 사실인지 알아봅니다. 대출이 껴 있는 집을 사거나 세입자가 있는 집을 사면 그만큼 구매자가 낼 돈은 줄어들죠. 하지만 집값이 떨어지면, 대출금이나 보증금을 돌려주지 못할 위험도 있는데요. 이런 전셋집, 깡통 전세라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] SNS 화제..휴가갈 때 '휴가사유' 회사에 말해야할까?]]></title>
-        <id>https://v.daum.net/v/20220801091009856</id>
-        <link href="https://v.daum.net/v/20220801091009856"/>
-        <updated>2022-08-01T02:29:19.724Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 7월 30일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] SNS 화제..휴가갈 때 '휴가사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저학력·저소득층이 국민의힘 지지?.. 소득보다는 연령이 큰 영향 미쳐 [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20220801080002129</id>
-        <link href="https://v.daum.net/v/20220801080002129"/>
-        <updated>2022-07-31T23:23:59.089Z</updated>
-        <content type="html"><![CDATA["저학력, 저소득층이 국민의힘 지지를 많이 한다. 안타까운 현실인데, 그게 언론 때문이다." 더불어민주당 당권주자인 이재명 의원의 최근 발언이다. 국민의힘은 물론 당내에서도 비판의 목소리가 잦아들지 않고 있다. 파장이 커지자 이 의원은 지난달 30일 “일부 언론이 제 발언의 앞뒤를 자르고 왜곡해 공격한다”고 해명에 나섰다. 동시에 지난 대선에서 저소]]></content>
     </entry>
 </feed>
