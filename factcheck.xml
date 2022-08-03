@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-02T23:25:24.179Z</updated>
+    <updated>2022-08-03T02:22:29.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['손풍기' 써도 될까?..정부-환경단체 전자파 안전 문제 '핑퐁' [뉴스AS]]]></title>
+        <title type="html"><![CDATA['손풍기' 써도 될까?..정부-환경단체 전자파 문제 '핑퐁' [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220803050507817</id>
         <link href="https://v.daum.net/v/20220803050507817"/>
         <updated>2022-08-02T23:24:30.765Z</updated>
