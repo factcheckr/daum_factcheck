@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-05T08:30:14.309Z</updated>
+    <updated>2022-08-05T09:25:06.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 물가 상승률이 32.5%? 천정부지 치솟던 그 시절]]></title>
+        <id>https://v.daum.net/v/20220805180910625</id>
+        <link href="https://v.daum.net/v/20220805180910625"/>
+        <updated>2022-08-05T09:24:13.118Z</updated>
+        <content type="html"><![CDATA[지난달 소비자 물가가 예상대로 6% 넘게 올랐습니다. 전년 동월 대비 소비자 물가 인상률 수치입니다. 물가 상승률이 두 달 연속 6%대를 기록한 건 외환위기 때 이후 23년 8개월 만입니다. 2월 3.7%에서 넉 달 만에 6%로 가파르게 올라선 뒤로는 내려올 줄 모르고 버티고 있는 겁니다. 부문별로는 전기 가스 수도요금이 별도 집계를 시작한 2010년 이후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["펠로시에 외교 결례, 국회의장 탓" 하태경 주장 따져보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220805115700289</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803050507817"/>
         <updated>2022-08-02T23:24:30.765Z</updated>
         <content type="html"><![CDATA[최근 휴대용 선풍기에서 나오는 전자파가 인체에 안전한 수준인지를 두고 과학기술정보통신부와 환경단체 사이에 공방이 오가고 있습니다. 환경보건시민센터(시민센터)는 지난달 26일 휴대용 선풍기의 전자파를 측정한 결과 발암 위험성이 우려된다고 발표했습니다. 이에 과기정통부는 지난 1일 휴대용 선풍기에서 나오는 전자파는 인체보호기준을 충족한다고 반박했습니다. 이에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체난 완화 조짐에도.. 신차 주문하면 2024년 출고? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220802214123607</id>
-        <link href="https://v.daum.net/v/20220802214123607"/>
-        <updated>2022-08-02T12:51:58.111Z</updated>
-        <content type="html"><![CDATA[코로나19 대유행 이후 이어져온 차량용 반도체 공급난이 다소&nbsp;완화되는&nbsp;기미를 보이고 있지만 출고 지연이&nbsp;계속되는 데 대해 의문을&nbsp;품고 있는 소비자들이 많다. 여전히 일부 모델의 경우 대기 기간이 최소 1년 반씩 걸려 현재 주문하면 2024년에 받을 수 있는 것으로 확인됐다. 반도체 수급이 어느정도 풀리더라도 당장 국내 소비자들이 체감하기까지는 다소 시간이]]></content>
     </entry>
 </feed>
