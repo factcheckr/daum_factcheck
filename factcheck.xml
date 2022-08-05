@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-05T02:13:33.493Z</updated>
+    <updated>2022-08-05T04:08:53.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["펠로시에 외교 결례, 국회의장 탓" 하태경 주장 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220805115700289</id>
+        <link href="https://v.daum.net/v/20220805115700289"/>
+        <updated>2022-08-05T04:07:41.716Z</updated>
+        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;김진표 국회의장과 낸시 펠로시 미국 하원의장이 4일 서울 여의도 국회에서 공동언론 발표를 통해 회담 결과를 발표하고 있다.    ⓒ 공동취재사진  &nbsp; &nbsp; [검증대상] "펠로시 의장에 외교 결례, 국회의장 책임" 하태경·국힘 주장 "낸시 펠로시 미 하원의장 방한, 한국 국회가 이토록 냉대해도 괜찮은가?" '미국 권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은][D리포트] "펠로시만 타이완 간 것 아니다"..중국은 대체 왜?]]></title>
         <id>https://v.daum.net/v/20220804175413737</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220802214123607"/>
         <updated>2022-08-02T12:51:58.111Z</updated>
         <content type="html"><![CDATA[코로나19 대유행 이후 이어져온 차량용 반도체 공급난이 다소&nbsp;완화되는&nbsp;기미를 보이고 있지만 출고 지연이&nbsp;계속되는 데 대해 의문을&nbsp;품고 있는 소비자들이 많다. 여전히 일부 모델의 경우 대기 기간이 최소 1년 반씩 걸려 현재 주문하면 2024년에 받을 수 있는 것으로 확인됐다. 반도체 수급이 어느정도 풀리더라도 당장 국내 소비자들이 체감하기까지는 다소 시간이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '휴가 사유' 회사에 꼭 알려야 한다?]]></title>
-        <id>https://v.daum.net/v/20220802195653649</id>
-        <link href="https://v.daum.net/v/20220802195653649"/>
-        <updated>2022-08-02T11:20:36.331Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 본격적인 여름 휴가철이 시작되면서 잠시 일터를 떠나시는 분들, 많을 겁니다. 그런데 휴가 사유를 적어내야 하는 직장도 적지 않은데, 회사에 휴가 사유를 꼭 알려야 하는 걸까요?. 사실확인에서 홍지호 기자가 알아봤습니다. 【 기자 】 최근 온라인 커뮤니티에 '솔직한 휴가 사유'라는 제목의 글이 올라와 화제가 됐습니다. 휴가]]></content>
     </entry>
 </feed>
