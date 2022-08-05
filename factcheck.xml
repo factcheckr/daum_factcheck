@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-05T22:24:15.740Z</updated>
+    <updated>2022-08-05T23:25:18.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]목걸이 선풍기 전자파가 암 유발?]]></title>
+        <id>https://v.daum.net/v/20220806080308544</id>
+        <link href="https://v.daum.net/v/20220806080308544"/>
+        <updated>2022-08-05T23:24:24.580Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (토요일 07:00~08:55) ■ 진행 : 조태임 앵커 ■ 패널 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 요즘 정말 너무 더워요. 한낮에 길을 조금만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 물가 상승률이 32.5%? 천정부지 치솟던 그 시절]]></title>
         <id>https://v.daum.net/v/20220805180910625</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803143532757"/>
         <updated>2022-08-03T05:43:20.277Z</updated>
         <content type="html"><![CDATA[“고학력·고소득자들 소위 부자라고 불리는 분들이 우리(민주당) 지지자가 더 많습니다. 저학력에 저소득층이 국힘 지지자가 많아요. 참 안타까운 현실인데...” - 이재명 더불어민주당 의원 / 2022.07.29. 유튜브 라이브 방송 발언 이재명 민주당 의원의 이 주장, 지난 주말 내내 논란이 됐습니다. 이재명 의원은 이 발언 이후 부자 감세와 서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손풍기' 써도 될까?..정부-환경단체 전자파 문제 '핑퐁' [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220803050507817</id>
-        <link href="https://v.daum.net/v/20220803050507817"/>
-        <updated>2022-08-02T23:24:30.765Z</updated>
-        <content type="html"><![CDATA[최근 휴대용 선풍기에서 나오는 전자파가 인체에 안전한 수준인지를 두고 과학기술정보통신부와 환경단체 사이에 공방이 오가고 있습니다. 환경보건시민센터(시민센터)는 지난달 26일 휴대용 선풍기의 전자파를 측정한 결과 발암 위험성이 우려된다고 발표했습니다. 이에 과기정통부는 지난 1일 휴대용 선풍기에서 나오는 전자파는 인체보호기준을 충족한다고 반박했습니다. 이에]]></content>
     </entry>
 </feed>
