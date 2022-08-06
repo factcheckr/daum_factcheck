@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-08-06T02:11:15.372Z</updated>
+    <updated>2022-08-06T03:49:08.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['깜깜이' 대통령실 직원 명단, 우리만 비공개 왜?]]></title>
+        <id>https://v.daum.net/v/20220806113112697</id>
+        <link href="https://v.daum.net/v/20220806113112697"/>
+        <updated>2022-08-06T03:48:21.333Z</updated>
+        <content type="html"><![CDATA[얼마 전 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 언론사 카메라에 포착돼 파장이 일었습니다. 이후 강 씨가 강경우파 정당인 '자유의새벽당' 출신이며, 현재 대통령 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 대통령실의 이런 논란은 이게 다가 아닙니다. 윤석열 대통령의 40년 지기의 아들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 직원 깜깜이, 유독 우리나라만?]]></title>
         <id>https://v.daum.net/v/20220729195817198</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220613120123157"/>
         <updated>2022-06-13T04:00:05.137Z</updated>
         <content type="html"><![CDATA[새 정부의 주요 직책에 검찰 출신 인사가 지나치게 많다는 지적이 이어지고 있습니다. 윤석열 정부의 요직에 임명된 검찰 출신 인사는 최대 15명으로 거론됩니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주도지사를 지낸 원희룡 국토부 장관의 경우 정치인 이력이 두드러지기 때문에 이들을 제외할 경우 13명으로 정리할 수 있습니다. 이들은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민변으로 도배? 따져보니..]]></title>
-        <id>https://v.daum.net/v/20220608200709483</id>
-        <link href="https://v.daum.net/v/20220608200709483"/>
-        <updated>2022-06-08T11:19:17.603Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 새 정부의 요직에 검찰출신 인사들이 너무 많다는 비판이 일자, 윤석열 대통령이 과거엔 '민변' 출신 법조인들이 많았다고 반박했죠. 과연 이 민변 출신 인사들이 정부 요직에 얼마나 많았는지, 또 지금과 그때 상황이 비슷하고 다른 게 뭔지 확인해봤습니다. 현 정부의 검찰출신과 이전 정부의 민변 출신 인사.]]></content>
     </entry>
 </feed>

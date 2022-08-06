@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-06T02:11:15.357Z</updated>
+    <updated>2022-08-06T03:49:08.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '깜깜이' 대통령실 직원 명단, 우리만 비공개 왜?]]></title>
+        <id>https://v.daum.net/v/20220806113112697</id>
+        <link href="https://v.daum.net/v/20220806113112697"/>
+        <updated>2022-08-06T03:48:02.682Z</updated>
+        <content type="html"><![CDATA[얼마 전 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 언론사 카메라에 포착돼 파장이 일었습니다. 이후 강 씨가 강경우파 정당인 '자유의새벽당' 출신이며, 현재 대통령 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 대통령실의 이런 논란은 이게 다가 아닙니다. 윤석열 대통령의 40년 지기의 아들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] '○○○ 열애'..유명인 사생활 보도, 어디까지 허용?]]></title>
         <id>https://v.daum.net/v/20220806100101693</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803195753573"/>
         <updated>2022-08-03T11:20:24.325Z</updated>
         <content type="html"><![CDATA[그제 밤, 30대 여성이 울산에 있는 자신의 집에서 살해당하는 사건이 있었습니다. 범인은 채팅 앱으로 만난 남성이었는데요. 여성은 숨지기 전 경찰에 신고 전화를 했는데 경찰은 알뜰폰이라 위치 추적에 실패했다고 설명합니다. 이유가 뭔지 알아봅니다. 신고 전화가 갑자기 끊긴 뒤, 여성의 휴대전화 전원도 꺼졌는데요. 이때 경찰이 확인할 수 있었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 과도한 노출은 처벌 대상이다?]]></title>
-        <id>https://v.daum.net/v/20220803193453140</id>
-        <link href="https://v.daum.net/v/20220803193453140"/>
-        <updated>2022-08-03T11:20:24.328Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 얼마 전 빗속에서 남녀 커플이 과도한 노출 차림으로 오토바이 질주를 한 영상이 공개되면서 경찰이 내사에 들어갔습니다. 이렇듯 도심에서 이뤄진 과도한 신체 노출은 처벌 대상인지, 또 어떤 기준이 있는지 이시열 기자가 사실확인에서 살펴봤습니다. 【 기자 】 도심 빗속에서 상의를 벗은 채 오토바이를 타고 있는 한 남성. 최근 SNS]]></content>
     </entry>
 </feed>
