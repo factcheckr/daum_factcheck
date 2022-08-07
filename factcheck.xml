@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-07T22:24:18.706Z</updated>
+    <updated>2022-08-07T23:23:40.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 온 태국 관광객 나흘새 60% 입국 퇴짜, 왜? [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220808070505209</id>
+        <link href="https://v.daum.net/v/20220808070505209"/>
+        <updated>2022-08-07T23:22:35.064Z</updated>
+        <content type="html"><![CDATA[코로나19 이후 오랜만에 외국 단체 관광객들이 직항편으로 제주도로 들어오고 있습니다. 그런데 최근 제주도에 도착한 태국인들이 제주국제공항 밖으로 나와보지도 못한 채 다시 돌아가는 일이 벌어지고 있습니다. 한두 명이 아니라 수 명에서 많게는 100여명이 넘는 태국인들의 입국이 불허되고 있습니다. 지난 2일 제주항공 전세기를 이용해 태국에서 제주로 들어온 18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '깜깜이' 대통령실 직원 명단, 우리만 비공개 왜?]]></title>
         <id>https://v.daum.net/v/20220806113112697</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803203534190"/>
         <updated>2022-08-03T12:51:08.896Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고 하고 있는데요. 팩트체크 해보죠. 이지은 기자, 정말 그렇습니까. [기자] 국가기관이 공사 계약을 맺는 경우, 원래 공개가 원칙입니다. 국가계약법에 따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]긴급상황 생겨도 알뜰폰은 위치추적 불가?]]></title>
-        <id>https://v.daum.net/v/20220803195753573</id>
-        <link href="https://v.daum.net/v/20220803195753573"/>
-        <updated>2022-08-03T11:20:24.325Z</updated>
-        <content type="html"><![CDATA[그제 밤, 30대 여성이 울산에 있는 자신의 집에서 살해당하는 사건이 있었습니다. 범인은 채팅 앱으로 만난 남성이었는데요. 여성은 숨지기 전 경찰에 신고 전화를 했는데 경찰은 알뜰폰이라 위치 추적에 실패했다고 설명합니다. 이유가 뭔지 알아봅니다. 신고 전화가 갑자기 끊긴 뒤, 여성의 휴대전화 전원도 꺼졌는데요. 이때 경찰이 확인할 수 있었던]]></content>
     </entry>
 </feed>
