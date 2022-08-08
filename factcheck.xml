@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-08T15:29:43.352Z</updated>
+    <updated>2022-08-08T16:36:34.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트맨]공 주우려다 익사..위험한 골프장 연못?]]></title>
         <id>https://v.daum.net/v/20220808194300304</id>
