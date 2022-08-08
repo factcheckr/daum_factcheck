@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-08T10:28:41.035Z</updated>
+    <updated>2022-08-08T11:20:59.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]공 주우려다 익사..위험한 골프장 연못?]]></title>
+        <id>https://v.daum.net/v/20220808194300304</id>
+        <link href="https://v.daum.net/v/20220808194300304"/>
+        <updated>2022-08-08T11:19:52.251Z</updated>
+        <content type="html"><![CDATA[골프장에 출동한 소방차, 무슨 일이 벌어진 걸까요. 지난 4월 전남 순천의 한 골프장에서 50대 여성이 공을 주우려다 연못에 빠져 숨졌습니다. 경찰은 최근 캐디를 입건하고 중대시민재해를 일으킨 혐의로 골프장 대표를 추가 입건하는 방안을 검토하고 있습니다. 골프장 연못, 한번 빠지면 얼마나 위험한지 알아봅니다. 골프장 연못은 보통 '워터 해저드']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주 온 태국 관광객 나흘새 60% 입국 퇴짜, 왜? [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220808070505209</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220804102505128"/>
         <updated>2022-08-04T02:09:37.311Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 유경민 인턴기자 = 포스코 광양제철소에서 2년 넘게 일한 협력업체 직원들을 포스코가 직접 고용해야 한다는 대법원 판결이 나오면서 파견근로에 관한 규제를 완화해야 한다는 목소리가 나온다. 원청업체가 2년 이상 근무한 파견근로자를 직고용하게 한 '파견근로자 보호 등에 관한 법률'(파견법) 규정을 완화해 다른 나라처럼 파견 업무와 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"..판단 기준은?]]></title>
-        <id>https://v.daum.net/v/20220803203534190</id>
-        <link href="https://v.daum.net/v/20220803203534190"/>
-        <updated>2022-08-03T12:51:08.896Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고 하고 있는데요. 팩트체크 해보죠. 이지은 기자, 정말 그렇습니까. [기자] 국가기관이 공사 계약을 맺는 경우, 원래 공개가 원칙입니다. 국가계약법에 따라]]></content>
     </entry>
 </feed>
