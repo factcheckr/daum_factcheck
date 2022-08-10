@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-10T16:38:08.450Z</updated>
+    <updated>2022-08-10T17:30:02.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다"]]></title>
         <id>https://v.daum.net/v/20220810203054509</id>
