@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-10T11:21:05.265Z</updated>
+    <updated>2022-08-10T12:46:03.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다"]]></title>
+        <id>https://v.daum.net/v/20220810203054509</id>
+        <link href="https://v.daum.net/v/20220810203054509"/>
+        <updated>2022-08-10T12:45:05.107Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영한다며 대대적으로 홍보한 사실이 확인됐습니다. 그런데도 이번에 왜 이랬던 건지 팩트체크 해보죠. 이지은 기자, 이게 구체적으로 어떤 시스템인가요? []]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["강남 물난리는 빗물펌프장 반대탓" 주장은 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220809185100164</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220804175413737"/>
         <updated>2022-08-05T02:12:33.294Z</updated>
         <content type="html"><![CDATA[낸시 펠로시 미 하원의장의 타이완 방문에 대해 중국이 강력히 반발하고 있습니다. 백악관 국가안보회의 존 커비 전략소통조정관은 중국을 자극할 의도가 없다고 선을 그으면서도, [존 커비 / 미 백악관 국가안보회의 조정관 : 미국은 전에도 말했듯이 타이완의 독립을 지지하지 않습니다. 미국은 타이완관계법에 따라 타이완의 자기 방어를 지원하는 겁니다.] CNN과의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대통령이 휴가 중에 방한한 인사를 만나는 것은 적절치 않다?]]></title>
-        <id>https://v.daum.net/v/20220804173013758</id>
-        <link href="https://v.daum.net/v/20220804173013758"/>
-        <updated>2022-08-04T08:33:48.686Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 유경민 인턴기자 = 미국 의회의 1인자이자 국가 의전 서열 3위인 낸시 펠로시 하원 의장이 미국 하원 의장으로는 20년 만에 한국을 방문했지만, 휴가 중인 윤석열 대통령과 별도 면담 일정이 잡히지 않은 것을 두고 각종 추측이 쏟아지며 논란이 불거졌다. 대통령실에서 윤 대통령이 4일 오후 펠로시 의장과 전화 통화를 했다고 밝혔지]]></content>
     </entry>
 </feed>
