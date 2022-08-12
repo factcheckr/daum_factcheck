@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-12T07:22:57.609Z</updated>
+    <updated>2022-08-12T08:30:28.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 반지하는 처음에 안보 목적으로 생겨났다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220812172503822</id>
+        <link href="https://v.daum.net/v/20220812172503822"/>
+        <updated>2022-08-12T08:29:21.711Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 집중호우로 인해 반지하 주택이 침수되면서 일가족이 숨졌다는 안타까운 소식이 전해진 가운데, 우리나라에 유독 반지하 주택이 많은 이유를 설명한 한 건축학과 교수의 영상이 재조명되고 있다. 유현준 홍익대 건축학과 교수는 작년 9월 유튜브 채널 '셜록현준'에서 "우리나라에 반지하가 많은 이유는 의무적으로 만들어야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220812134737973</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220806113112697"/>
         <updated>2022-08-06T03:48:02.682Z</updated>
         <content type="html"><![CDATA[얼마 전 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 언론사 카메라에 포착돼 파장이 일었습니다. 이후 강 씨가 강경우파 정당인 '자유의새벽당' 출신이며, 현재 대통령 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 대통령실의 이런 논란은 이게 다가 아닙니다. 윤석열 대통령의 40년 지기의 아들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] '○○○ 열애'..유명인 사생활 보도, 어디까지 허용? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220806100101693</id>
-        <link href="https://v.daum.net/v/20220806100101693"/>
-        <updated>2022-08-06T02:10:24.094Z</updated>
-        <content type="html"><![CDATA[지난달 25일, '피겨여왕' 김연아의 열애 소식이 언론을 통해 알려지면서 큰 화제가 됐습니다. 유명인의 열애설 등 사생활은 대중의 흥미를 부르는 관심사이기에 한 언론매체에서 김연아의 결혼 소식을 보도한 이후 타 매체에서도 관련 소식들이 잇따라 쏟아졌습니다. 사실, 유명인의 사생활은 국민의 알 권리를 위해 보도해야 한다는 입장과 사생활 보호를 위해 보도해서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
