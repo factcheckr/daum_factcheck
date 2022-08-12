@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-12T04:40:13.657Z</updated>
+    <updated>2022-08-12T05:25:25.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220812134737973</id>
+        <link href="https://v.daum.net/v/20220812134737973"/>
+        <updated>2022-08-12T05:24:25.122Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 9일 발달장애 가족이 침수로 고립돼 사망한 서울 관악구 신림동 수해 현장을 점검하고 있다.    ⓒ 서울시 제공  [검증대상] "수방 예산 삭감, 민주당 시의회 탓" 서울시 주장 최근 기록적인 폭우로 많은 피해가 발생한 서울시 수방·치수 관련 예산이 지난해보다 896억 원 줄었다는 비판이 일자, 시가 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시 수방 예산 삭감은 민주당 다수인 시의회 탓? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220812060348720</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220806100101693"/>
         <updated>2022-08-06T02:10:24.094Z</updated>
         <content type="html"><![CDATA[지난달 25일, '피겨여왕' 김연아의 열애 소식이 언론을 통해 알려지면서 큰 화제가 됐습니다. 유명인의 열애설 등 사생활은 대중의 흥미를 부르는 관심사이기에 한 언론매체에서 김연아의 결혼 소식을 보도한 이후 타 매체에서도 관련 소식들이 잇따라 쏟아졌습니다. 사실, 유명인의 사생활은 국민의 알 권리를 위해 보도해야 한다는 입장과 사생활 보호를 위해 보도해서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]목걸이 선풍기 전자파가 암 유발?]]></title>
-        <id>https://v.daum.net/v/20220806080308544</id>
-        <link href="https://v.daum.net/v/20220806080308544"/>
-        <updated>2022-08-05T23:24:24.580Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (토요일 07:00~08:55) ■ 진행 : 조태임 앵커 ■ 패널 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 요즘 정말 너무 더워요. 한낮에 길을 조금만]]></content>
     </entry>
 </feed>

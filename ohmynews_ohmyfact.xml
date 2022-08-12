@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-08-12T04:40:13.657Z</updated>
+    <updated>2022-08-12T05:25:25.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20220812134737973</id>
+        <link href="https://v.daum.net/v/20220812134737973"/>
+        <updated>2022-08-12T05:25:16.041Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 9일 발달장애 가족이 침수로 고립돼 사망한 서울 관악구 신림동 수해 현장을 점검하고 있다.    ⓒ 서울시 제공  [검증대상] "수방 예산 삭감, 민주당 시의회 탓" 서울시 주장 최근 기록적인 폭우로 많은 피해가 발생한 서울시 수방·치수 관련 예산이 지난해보다 896억 원 줄었다는 비판이 일자, 시가 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["강남 물난리는 빗물펌프장 반대탓" 주장은 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20220809185100164</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220630194806173"/>
         <updated>2022-06-30T11:20:35.258Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(워싱턴=연합뉴스) 방미 일정에 나선 한동훈 법무부 장관이 29일(현지시간) 워싱턴 덜레서 국제공항에 도착해 취재진 앞에서 현안에 대해 답변하고 있다. 2022.6.30 [워싱턴 특파원단]    ⓒ 연합뉴스  &nbsp; [검증대상] "한동훈 미국 출장 '비즈니스석 이용' 파격" 언론 보도 한동훈 법무부장관이 지난 29일 미국 워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["검찰총장 공백 역대 최장".. 박주민 vs. <조선> 누가 맞나]]></title>
-        <id>https://v.daum.net/v/20220629115404067</id>
-        <link href="https://v.daum.net/v/20220629115404067"/>
-        <updated>2022-06-29T04:10:23.112Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;&lt;조선일보&gt;는 6월 23일 팩트체크 기사 '尹정부 검찰총장, 47일 최장기 공석?... MB때 124일, 文때 88일'에서 "(22일 기준) 검찰총장 공석이 46일째로 역대 최장기”라는 박주민 더불어민주당 국회의원 주장은 "사실이 아닌 것으로 나타났다"고 보도했다.    ⓒ 조선일보  &nbsp; [검증대상] 박주민 "검찰총장 공]]></content>
     </entry>
 </feed>
