@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-12T22:25:51.180Z</updated>
+    <updated>2022-08-12T23:24:12.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크] 건축법에 '반지하'는 없다?]]></title>
+        <id>https://v.daum.net/v/20220813072701240</id>
+        <link href="https://v.daum.net/v/20220813072701240"/>
+        <updated>2022-08-12T23:23:05.342Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼모아모아 팩트체크 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘 팩트체크할 주제는 "건축법상 반지하는 거주공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니]]></title>
         <id>https://v.daum.net/v/20220812203606586</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220809185100164"/>
         <updated>2022-08-09T10:28:43.005Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;KBS는 지난 2013년 12월 9일(‘학부모들 반발에 갈 곳 없는 빗물펌프장’) 당시 대치초등학교 학부모들이 학교 앞 빗물펌프장 건립에 반대했다고 보도했다.    ⓒ KBS  &nbsp; [검증내용] "강남 물난리, 학부모들 빗물펌프장 반대한 탓" 누리꾼 주장 "침수피해 심한 강남에 빗물 펌프장이 부족한 이유"(8월 8일 더쿠)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]공 주우려다 익사..위험한 골프장 연못?]]></title>
-        <id>https://v.daum.net/v/20220808194300304</id>
-        <link href="https://v.daum.net/v/20220808194300304"/>
-        <updated>2022-08-08T11:19:52.251Z</updated>
-        <content type="html"><![CDATA[골프장에 출동한 소방차, 무슨 일이 벌어진 걸까요. 지난 4월 전남 순천의 한 골프장에서 50대 여성이 공을 주우려다 연못에 빠져 숨졌습니다. 경찰은 최근 캐디를 입건하고 중대시민재해를 일으킨 혐의로 골프장 대표를 추가 입건하는 방안을 검토하고 있습니다. 골프장 연못, 한번 빠지면 얼마나 위험한지 알아봅니다. 골프장 연못은 보통 '워터 해저]]></content>
     </entry>
 </feed>
