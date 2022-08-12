@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-12T11:21:25.582Z</updated>
+    <updated>2022-08-12T12:48:14.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니]]></title>
+        <id>https://v.daum.net/v/20220812203606586</id>
+        <link href="https://v.daum.net/v/20220812203606586"/>
+        <updated>2022-08-12T12:47:19.793Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 서울시가 수해 방지 예산을 많이 줄였기 때문에 비 피해가 더 커진 거라는 주장이 최근 나왔습니다. 그 책임을 놓고 여야가 공방을 벌이고 있는데, 과연 맞는 말인지, 이경원 기자가 예산안을 자세히 들여다봤습니다. &lt;기자&gt; [박홍근/더불어민주당 원내대표 (지난 10일) : 서울시가 집중 호우 대비를 위한 수방·치수 예산을 900억 원이나 삭감한 것이…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 강남 알짜 빌딩, '노는 땅'이라 판다?]]></title>
+        <id>https://v.daum.net/v/20220812202515447</id>
+        <link href="https://v.daum.net/v/20220812202515447"/>
+        <updated>2022-08-12T12:47:19.795Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 정부가, 나라가 갖고 있는 땅과 건물을 민간에 적극적으로 팔겠다는 발표한 것을 두고 오늘도 여야 간에 공방이 벌어졌는데요. [추경호/기획재정부 장관 (지난 8일)] "국유재산 중 생산적으로 활용되지 않고 있는 유휴·저활용 재산을 향후 5년간 총 16조원 + a 규모로 매각하고.." 놀고 있거나 활용도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 반지하 주택은 안보 목적으로 생겨났다?]]></title>
         <id>https://v.daum.net/v/20220812172503822</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220808194300304"/>
         <updated>2022-08-08T11:19:52.251Z</updated>
         <content type="html"><![CDATA[골프장에 출동한 소방차, 무슨 일이 벌어진 걸까요. 지난 4월 전남 순천의 한 골프장에서 50대 여성이 공을 주우려다 연못에 빠져 숨졌습니다. 경찰은 최근 캐디를 입건하고 중대시민재해를 일으킨 혐의로 골프장 대표를 추가 입건하는 방안을 검토하고 있습니다. 골프장 연못, 한번 빠지면 얼마나 위험한지 알아봅니다. 골프장 연못은 보통 '워터 해저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 온 태국 관광객 나흘새 60% 입국 퇴짜, 왜? [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220808070505209</id>
-        <link href="https://v.daum.net/v/20220808070505209"/>
-        <updated>2022-08-07T23:22:35.064Z</updated>
-        <content type="html"><![CDATA[코로나19 이후 오랜만에 외국 단체 관광객들이 직항편으로 제주도로 들어오고 있습니다. 그런데 최근 제주도에 도착한 태국인들이 제주국제공항 밖으로 나와보지도 못한 채 다시 돌아가는 일이 벌어지고 있습니다. 한두 명이 아니라 수 명에서 많게는 100여명이 넘는 태국인들의 입국이 불허되고 있습니다. 지난 2일 제주항공 전세기를 이용해 태국에서 제주로 들어온 18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '깜깜이' 대통령실 직원 명단, 우리만 비공개 왜?]]></title>
-        <id>https://v.daum.net/v/20220806113112697</id>
-        <link href="https://v.daum.net/v/20220806113112697"/>
-        <updated>2022-08-06T03:48:02.682Z</updated>
-        <content type="html"><![CDATA[얼마 전 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 언론사 카메라에 포착돼 파장이 일었습니다. 이후 강 씨가 강경우파 정당인 '자유의새벽당' 출신이며, 현재 대통령 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 대통령실의 이런 논란은 이게 다가 아닙니다. 윤석열 대통령의 40년 지기의 아들]]></content>
     </entry>
 </feed>
