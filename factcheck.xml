@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-15T09:25:21.595Z</updated>
+    <updated>2022-08-15T10:28:59.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전기차로 개조한 쏘나타' 3년 뒤에 탈 수 있다고요? [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220815180503259</id>
+        <link href="https://v.daum.net/v/20220815180503259"/>
+        <updated>2022-08-15T10:28:02.706Z</updated>
+        <content type="html"><![CDATA[최근 출시되는 전기차는 대부분 스포츠실용차(SUV)다. 배터리값 하락이 더딘 터라 전기차 가격이 비싼 수준에 머물다 보니, 완성차 업체들은 수익성이 높은 에스유브이 위주로 전기차를 출시한다. 소비자들은 현대자동차그룹이 쏘나타·그랜저 등 세단 전기차를 언제 출시할지 관심이 많다. 하지만 이르면 2025년, 현대차가 세단 전기차를 내놓지 않아도 쏘나타·그랜저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 국가부채 'D4' 개념은 안철수가 만들어냈다?]]></title>
         <id>https://v.daum.net/v/20220815172216722</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812060348720"/>
         <updated>2022-08-11T21:22:36.187Z</updated>
         <content type="html"><![CDATA[“서울시 수방&nbsp;예산을 삭감한 것은 민주당이 거의 독점하다시피&nbsp;한 서울시의회다.” 지난 8일 서울 서초구 진흥아파트 인근 도로가 침수돼 차량이 물에 잠겨 있다. 뉴스1  국민의힘 양금희 원내대변인은 전날(10일)&nbsp;‘민주당은 물&nbsp;폭탄 거짓선동을 즉각 중단하라’라는 논평을 내며 이같이 말했다. 이는 지난 9일 서울시가 내놓은 설명자료에 나온&nbsp;“작년 절대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 서울시의회가 수해방지 예산 줄였다?]]></title>
-        <id>https://v.daum.net/v/20220812052214100</id>
-        <link href="https://v.daum.net/v/20220812052214100"/>
-        <updated>2022-08-11T20:24:44.801Z</updated>
-        <content type="html"><![CDATA[[앵커] 기록적인 폭우에, 서울 곳곳에서 물난리가 발생한 가운데 올해 서울시의 수해방지 예산이 큰 폭으로 줄어 피해가 컸다는 비판이 제기됐습니다. 서울시가 해명 과정에서 시의회의 예산 삭감 탓을 했는데, 맞는 말인지 따져봤습니다. 팩트와이, 박희재 기자입니다. [기자] 서울 수해 발생 이튿날. 서울시가 수해방지 예산을 줄여 피해를 키웠다는 언론보]]></content>
     </entry>
 </feed>
