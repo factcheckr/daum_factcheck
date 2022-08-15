@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-14T23:23:54.705Z</updated>
+    <updated>2022-08-15T02:27:11.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 국가부채 'D4' 개념은 안철수가 만들어냈다?]]></title>
+        <id>https://v.daum.net/v/20220815091306355</id>
+        <link href="https://v.daum.net/v/20220815091306355"/>
+        <updated>2022-08-15T02:26:08.704Z</updated>
+        <content type="html"><![CDATA[[앵커] 지난 대선 당시, 안철수 후보가 국가부채 관련 자신의 발언을 지적한 연구원을 고발한 사건이 최근 기소의견으로 검찰에 넘어가 논란이 일고 있습니다. 안 후보가 'D4(디포)'라는 존재하지 않는 국가부채 개념을 만들었다는 연구원의 발언이 문제가 된 건데, 연구원이 틀린 말을 했던 건지, 박희재 기자가 팩트체크했습니다. [기자] [안철수 / 당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 위암 치료는 우리나라가 세계 1등이다?]]></title>
         <id>https://v.daum.net/v/20220814091005123</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220811171005988"/>
         <updated>2022-08-11T08:28:39.096Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 윤석열 대통령이 지난 9일 기록적인 폭우로 침수 사망사고가 발생한 서울 관악구 신림동의 사고 현장을 돌아본 뒤 '국가하천, 지방하천, 지류 전반의 수위를 모니터할 수 있는 시스템을 개발하라'고 한화진 환경부 장관에게 지시했다. 관련 내용이 보도되자 인터넷에선 "수위 모니터 시스템은 이미 구축돼 있다" "수위 모니터 시스템이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 서울시, 3년 전 홍보한 '1시간 전 침수경보'는 가동됐나?]]></title>
-        <id>https://v.daum.net/v/20220810203054509</id>
-        <link href="https://v.daum.net/v/20220810203054509"/>
-        <updated>2022-08-10T12:45:05.107Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영한다며 대대적으로 홍보한 사실이 확인됐습니다. 그런데도 이번에 왜 이랬던 건지 팩트체크 해보죠. 이지은 기자, 이게 구체적으로 어떤 시스템인가요? []]></content>
     </entry>
 </feed>
