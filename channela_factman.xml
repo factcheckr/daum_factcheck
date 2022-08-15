@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-08-15T10:28:59.472Z</updated>
+    <updated>2022-08-15T11:20:56.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비 안오면 오보?..날씨 예측 기준 따져보니]]></title>
+        <id>https://v.daum.net/v/20220815201302497</id>
+        <link href="https://v.daum.net/v/20220815201302497"/>
+        <updated>2022-08-15T11:20:29.963Z</updated>
+        <content type="html"><![CDATA[[임이자 / 국민의힘 의원 ] "기상청도 맨날 오보청, 구라청, 지겹게 들었죠? 지난 5년 동안?" [유희동 / 기상청장] "예. 그렇습니다." [임이자 / 국민의힘 의원] "정신 바짝 차리고 하시기 바랍니다." (지난 8일, 국회 환경노동위원회 기상청 업무보고 中) 기상청장이 국회에서 호된 질책을 받았습니다. 기상청 예보, 정말 자주 틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공 주우려다 익사..위험한 골프장 연못?]]></title>
         <id>https://v.daum.net/v/20220808194300304</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220704194108604"/>
         <updated>2022-07-04T11:20:27.062Z</updated>
         <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타벅스, 한국만 올랐다?]]></title>
-        <id>https://v.daum.net/v/20220113201757064</id>
-        <link href="https://v.daum.net/v/20220113201757064"/>
-        <updated>2022-01-13T11:20:51.848Z</updated>
-        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스]]></content>
     </entry>
 </feed>

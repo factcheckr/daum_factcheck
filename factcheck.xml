@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-15T10:28:59.474Z</updated>
+    <updated>2022-08-15T11:20:56.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]비 안오면 오보?..날씨 예측 기준 따져보니]]></title>
+        <id>https://v.daum.net/v/20220815201302497</id>
+        <link href="https://v.daum.net/v/20220815201302497"/>
+        <updated>2022-08-15T11:19:54.584Z</updated>
+        <content type="html"><![CDATA[[임이자 / 국민의힘 의원 ] "기상청도 맨날 오보청, 구라청, 지겹게 들었죠? 지난 5년 동안?" [유희동 / 기상청장] "예. 그렇습니다." [임이자 / 국민의힘 의원] "정신 바짝 차리고 하시기 바랍니다." (지난 8일, 국회 환경노동위원회 기상청 업무보고 中) 기상청장이 국회에서 호된 질책을 받았습니다. 기상청 예보, 정말 자주 틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전기차로 개조한 쏘나타' 3년 뒤에 탈 수 있다고요? [뉴스AS]]]></title>
         <id>https://v.daum.net/v/20220815180503259</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812134737973"/>
         <updated>2022-08-12T05:24:25.122Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 9일 발달장애 가족이 침수로 고립돼 사망한 서울 관악구 신림동 수해 현장을 점검하고 있다.    ⓒ 서울시 제공  [검증대상] "수방 예산 삭감, 민주당 시의회 탓" 서울시 주장 최근 기록적인 폭우로 많은 피해가 발생한 서울시 수방·치수 관련 예산이 지난해보다 896억 원 줄었다는 비판이 일자, 시가 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 수방 예산 삭감은 민주당 다수인 시의회 탓? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220812060348720</id>
-        <link href="https://v.daum.net/v/20220812060348720"/>
-        <updated>2022-08-11T21:22:36.187Z</updated>
-        <content type="html"><![CDATA[“서울시 수방&nbsp;예산을 삭감한 것은 민주당이 거의 독점하다시피&nbsp;한 서울시의회다.” 지난 8일 서울 서초구 진흥아파트 인근 도로가 침수돼 차량이 물에 잠겨 있다. 뉴스1  국민의힘 양금희 원내대변인은 전날(10일)&nbsp;‘민주당은 물&nbsp;폭탄 거짓선동을 즉각 중단하라’라는 논평을 내며 이같이 말했다. 이는 지난 9일 서울시가 내놓은 설명자료에 나온&nbsp;“작년 절대]]></content>
     </entry>
 </feed>

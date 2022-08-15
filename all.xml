@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-15T10:28:59.400Z</updated>
+    <updated>2022-08-15T11:20:56.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]비 안오면 오보?..날씨 예측 기준 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220815201302497</id>
+        <link href="https://v.daum.net/v/20220815201302497"/>
+        <updated>2022-08-15T11:19:54.584Z</updated>
+        <content type="html"><![CDATA[[임이자 / 국민의힘 의원 ] "기상청도 맨날 오보청, 구라청, 지겹게 들었죠? 지난 5년 동안?" [유희동 / 기상청장] "예. 그렇습니다." [임이자 / 국민의힘 의원] "정신 바짝 차리고 하시기 바랍니다." (지난 8일, 국회 환경노동위원회 기상청 업무보고 中) 기상청장이 국회에서 호된 질책을 받았습니다. 기상청 예보, 정말 자주 틀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전기차로 개조한 쏘나타' 3년 뒤에 탈 수 있다고요? [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220815180503259</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220812134737973"/>
         <updated>2022-08-12T05:24:25.122Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 9일 발달장애 가족이 침수로 고립돼 사망한 서울 관악구 신림동 수해 현장을 점검하고 있다.    ⓒ 서울시 제공  [검증대상] "수방 예산 삭감, 민주당 시의회 탓" 서울시 주장 최근 기록적인 폭우로 많은 피해가 발생한 서울시 수방·치수 관련 예산이 지난해보다 896억 원 줄었다는 비판이 일자, 시가 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 수방 예산 삭감은 민주당 다수인 시의회 탓? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220812060348720</id>
-        <link href="https://v.daum.net/v/20220812060348720"/>
-        <updated>2022-08-11T21:22:36.187Z</updated>
-        <content type="html"><![CDATA[“서울시 수방&nbsp;예산을 삭감한 것은 민주당이 거의 독점하다시피&nbsp;한 서울시의회다.” 지난 8일 서울 서초구 진흥아파트 인근 도로가 침수돼 차량이 물에 잠겨 있다. 뉴스1  국민의힘 양금희 원내대변인은 전날(10일)&nbsp;‘민주당은 물&nbsp;폭탄 거짓선동을 즉각 중단하라’라는 논평을 내며 이같이 말했다. 이는 지난 9일 서울시가 내놓은 설명자료에 나온&nbsp;“작년 절대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[지난 17일 퇴임한 정은경 전 질병관리청장은 2020년 1월 국내 첫 코로나19 환자가 발생한 이후 2년 4개월 동안 'K-방역'을 이끌었습니다. 전대미문의 코로나19 상황에서 머리가 하얘질 정도로 고군분투했기에 정 청장의 퇴임은 언론매체들의 주목을 받기에 충분했습니다. 그런데 퇴임 후 인터넷 공간에서는 돌연  '정은경 양심 고별사'라는 제목의 게시물이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비 안오면 오보?..날씨 예측 기준 따져보니 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220815201302497</id>
+        <link href="https://v.daum.net/v/20220815201302497"/>
+        <updated>2022-08-15T11:20:29.963Z</updated>
+        <content type="html"><![CDATA[[임이자 / 국민의힘 의원 ] "기상청도 맨날 오보청, 구라청, 지겹게 들었죠? 지난 5년 동안?" [유희동 / 기상청장] "예. 그렇습니다." [임이자 / 국민의힘 의원] "정신 바짝 차리고 하시기 바랍니다." (지난 8일, 국회 환경노동위원회 기상청 업무보고 中) 기상청장이 국회에서 호된 질책을 받았습니다. 기상청 예보, 정말 자주 틀]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공 주우려다 익사..위험한 골프장 연못? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220808194300304</id>
         <link href="https://v.daum.net/v/20220808194300304"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20220704194108604"/>
         <updated>2022-07-04T11:19:49.603Z</updated>
         <content type="html"><![CDATA[[정은희 / 서울 종로구] "(전기료가) 좀 비싸긴 비싼 것 같아요. 쓴 것에 비해서…." [김대곤 / 경기 이천시] "엄청 비싼 것 같은데요. 40만 원도 내고. 여름엔 에어컨 쓰니까." 오늘 같은 찜통 더위! 에어컨, 선풍기 없이 이겨내기 쉽지 않죠. 이번 달부터는 전기요금까지 올랐습니다. "우리나라 요금이 세계에서 가장 저렴하다"는 말이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타벅스, 한국만 올랐다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20220113201757064</id>
-        <link href="https://v.daum.net/v/20220113201757064"/>
-        <updated>2022-01-13T11:19:54.007Z</updated>
-        <content type="html"><![CDATA[[리포트] 오늘 팩트맨은 스타벅스 매장에서 시작합니다. 오늘 매장 찾으신 분 중에 음료 가격이 올라서 당황한 분도 계실 겁니다. 아메리카노, 카페 라떼 같은 대표 메뉴 가격이 400원씩 올랐는데요. 일부에서 우리나라 스타벅스 가격이 세계에서 가장 비싸고, 유일하다는 값이 올랐다는 주장이 나오는데, 사실인지 확인해봅니다. Q. 먼저 스타벅스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
