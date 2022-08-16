@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-16T10:26:50.884Z</updated>
+    <updated>2022-08-16T11:20:28.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트맨]비 안오면 오보?..날씨 예측 기준 따져보니]]></title>
         <id>https://v.daum.net/v/20220815201302497</id>
