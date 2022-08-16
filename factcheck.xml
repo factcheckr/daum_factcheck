@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-16T11:20:28.969Z</updated>
+    <updated>2022-08-16T12:44:06.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나]]></title>
+        <id>https://v.daum.net/v/20220816203034416</id>
+        <link href="https://v.daum.net/v/20220816203034416"/>
+        <updated>2022-08-16T12:42:56.986Z</updated>
+        <content type="html"><![CDATA[[앵커] '침수 예상 지도'라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도가 실제로 들어가 보면 사이트마다 정보가 다르게 나오거나 아예 알아볼 수도 없게 되어있습니다. 보라고 만든 거냔 얘기까지 나오는데 정말 그런지, 팩트체크해 보겠습니다. 이지은 기자, 이 지도를 보여주는 사이트가 하나로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]비 안오면 오보?..날씨 예측 기준 따져보니]]></title>
         <id>https://v.daum.net/v/20220815201302497</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812172503822"/>
         <updated>2022-08-12T08:29:21.711Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 집중호우로 인해 반지하 주택이 침수되면서 일가족이 숨졌다는 안타까운 소식이 전해진 가운데, 우리나라에 유독 반지하 주택이 많은 이유를 설명한 한 건축학과 교수의 영상이 재조명되고 있다. 유현준 홍익대 건축학과 교수는 작년 9월 유튜브 채널 '셜록현준'에서 "우리나라에 반지하가 많은 이유는 의무적으로 만들어야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220812134737973</id>
-        <link href="https://v.daum.net/v/20220812134737973"/>
-        <updated>2022-08-12T05:24:25.122Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 9일 발달장애 가족이 침수로 고립돼 사망한 서울 관악구 신림동 수해 현장을 점검하고 있다.    ⓒ 서울시 제공  [검증대상] "수방 예산 삭감, 민주당 시의회 탓" 서울시 주장 최근 기록적인 폭우로 많은 피해가 발생한 서울시 수방·치수 관련 예산이 지난해보다 896억 원 줄었다는 비판이 일자, 시가 그]]></content>
     </entry>
 </feed>
