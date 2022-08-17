@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-17T10:29:42.710Z</updated>
+    <updated>2022-08-17T11:21:38.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]가양역 실종은 '가출'? 실종수사 기준은?]]></title>
+        <id>https://v.daum.net/v/20220817195759549</id>
+        <link href="https://v.daum.net/v/20220817195759549"/>
+        <updated>2022-08-17T11:20:13.456Z</updated>
+        <content type="html"><![CDATA[[기자] 오늘 팩트맨은 서울 지하철 9호선, 가양역에서 시작합니다. 지난 5일 이곳에서 25살 남성 이정우 씨가 마지막으로 목격된 뒤 연락이 끊겼습니다. 가족들은 실종이라 주장하지만 경찰은 가출로 판단하는데요. 실종과 가출 판단 기준이 뭔지, 경찰 대응은 어떻게 달라지는지 따져봅니다. 누군가가 사라졌다, 찾아달라는 신고가 접수되면 경찰은 우선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다?]]></title>
         <id>https://v.daum.net/v/20220817163005955</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812203606586"/>
         <updated>2022-08-12T12:47:19.793Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 서울시가 수해 방지 예산을 많이 줄였기 때문에 비 피해가 더 커진 거라는 주장이 최근 나왔습니다. 그 책임을 놓고 여야가 공방을 벌이고 있는데, 과연 맞는 말인지, 이경원 기자가 예산안을 자세히 들여다봤습니다. &lt;기자&gt; [박홍근/더불어민주당 원내대표 (지난 10일) : 서울시가 집중 호우 대비를 위한 수방·치수 예산을 900억 원이나 삭감한 것이…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 강남 알짜 빌딩, '노는 땅'이라 판다?]]></title>
-        <id>https://v.daum.net/v/20220812202515447</id>
-        <link href="https://v.daum.net/v/20220812202515447"/>
-        <updated>2022-08-12T12:47:19.795Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 정부가, 나라가 갖고 있는 땅과 건물을 민간에 적극적으로 팔겠다는 발표한 것을 두고 오늘도 여야 간에 공방이 벌어졌는데요. [추경호/기획재정부 장관 (지난 8일)] "국유재산 중 생산적으로 활용되지 않고 있는 유휴·저활용 재산을 향후 5년간 총 16조원 + a 규모로 매각하고.." 놀고 있거나 활용도]]></content>
     </entry>
 </feed>
