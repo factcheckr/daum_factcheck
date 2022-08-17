@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-17T22:25:20.582Z</updated>
+    <updated>2022-08-17T23:26:00.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220818080003239</id>
+        <link href="https://v.daum.net/v/20220818080003239"/>
+        <updated>2022-08-17T23:24:50.743Z</updated>
+        <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]가양역 실종은 '가출'? 실종수사 기준은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220817195759549</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220813072701240"/>
         <updated>2022-08-12T23:23:05.342Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼모아모아 팩트체크 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘 팩트체크할 주제는 "건축법상 반지하는 거주공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220812203606586</id>
-        <link href="https://v.daum.net/v/20220812203606586"/>
-        <updated>2022-08-12T12:47:19.793Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 서울시가 수해 방지 예산을 많이 줄였기 때문에 비 피해가 더 커진 거라는 주장이 최근 나왔습니다. 그 책임을 놓고 여야가 공방을 벌이고 있는데, 과연 맞는 말인지, 이경원 기자가 예산안을 자세히 들여다봤습니다. &lt;기자&gt; [박홍근/더불어민주당 원내대표 (지난 10일) : 서울시가 집중 호우 대비를 위한 수방·치수 예산을 900억 원이나 삭감한 것이…]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220818080003239</id>
+        <link href="https://v.daum.net/v/20220818080003239"/>
+        <updated>2022-08-17T23:25:22.026Z</updated>
+        <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['고학력·고소득' 민주, '저학력·저소득' 국힘 지지? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220803143532757</id>
         <link href="https://v.daum.net/v/20220803143532757"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220530194309477"/>
         <updated>2022-05-30T11:22:02.550Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은경, 퇴임하며 "백신 접종 위해 국민 속였다" 고백? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220526145008617</id>
-        <link href="https://v.daum.net/v/20220526145008617"/>
-        <updated>2022-05-26T06:30:43.098Z</updated>
-        <content type="html"><![CDATA[지난 17일 퇴임한 정은경 전 질병관리청장은 2020년 1월 국내 첫 코로나19 환자가 발생한 이후 2년 4개월 동안 'K-방역'을 이끌었습니다. 전대미문의 코로나19 상황에서 머리가 하얘질 정도로 고군분투했기에 정 청장의 퇴임은 언론매체들의 주목을 받기에 충분했습니다. 그런데 퇴임 후 인터넷 공간에서는 돌연  '정은경 양심 고별사'라는 제목의 게시물이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가양역 실종은 '가출'? 실종수사 기준은? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-17T22:25:20.565Z</updated>
+    <updated>2022-08-17T23:26:00.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다?]]></title>
+        <id>https://v.daum.net/v/20220818080003239</id>
+        <link href="https://v.daum.net/v/20220818080003239"/>
+        <updated>2022-08-17T23:24:50.743Z</updated>
+        <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]가양역 실종은 '가출'? 실종수사 기준은?]]></title>
         <id>https://v.daum.net/v/20220817195759549</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220813072701240"/>
         <updated>2022-08-12T23:23:05.342Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼모아모아 팩트체크 ■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘 팩트체크할 주제는 "건축법상 반지하는 거주공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니]]></title>
-        <id>https://v.daum.net/v/20220812203606586</id>
-        <link href="https://v.daum.net/v/20220812203606586"/>
-        <updated>2022-08-12T12:47:19.793Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 서울시가 수해 방지 예산을 많이 줄였기 때문에 비 피해가 더 커진 거라는 주장이 최근 나왔습니다. 그 책임을 놓고 여야가 공방을 벌이고 있는데, 과연 맞는 말인지, 이경원 기자가 예산안을 자세히 들여다봤습니다. &lt;기자&gt; [박홍근/더불어민주당 원내대표 (지난 10일) : 서울시가 집중 호우 대비를 위한 수방·치수 예산을 900억 원이나 삭감한 것이…]]></content>
     </entry>
 </feed>
