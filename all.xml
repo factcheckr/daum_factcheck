@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-17T07:23:17.194Z</updated>
+    <updated>2022-08-17T08:32:06.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220817163005955</id>
+        <link href="https://v.daum.net/v/20220817163005955"/>
+        <updated>2022-08-17T08:31:00.784Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 이준석 전 대표가 16일 MBC 라디오와의 인터뷰에서 윤석열 대통령 국정운영 지지율과 관련해 "어떤 여론조사는 60대, 70대 따로 조사하고 어떤 조사는 60대 이상으로 묶는데 결과가 극명하게 다르다"고 말했다. 그러면서 "지지율이 20%대로 나오는 것들은 보통 60대랑 70대를 분리해서 조사하는 경우가 많고, 지지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220816203034416</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220812202515447"/>
         <updated>2022-08-12T12:47:19.795Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 정부가, 나라가 갖고 있는 땅과 건물을 민간에 적극적으로 팔겠다는 발표한 것을 두고 오늘도 여야 간에 공방이 벌어졌는데요. [추경호/기획재정부 장관 (지난 8일)] "국유재산 중 생산적으로 활용되지 않고 있는 유휴·저활용 재산을 향후 5년간 총 16조원 + a 규모로 매각하고.." 놀고 있거나 활용도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 반지하 주택은 안보 목적으로 생겨났다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220812172503822</id>
-        <link href="https://v.daum.net/v/20220812172503822"/>
-        <updated>2022-08-12T08:29:21.711Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 집중호우로 인해 반지하 주택이 침수되면서 일가족이 숨졌다는 안타까운 소식이 전해진 가운데, 우리나라에 유독 반지하 주택이 많은 이유를 설명한 한 건축학과 교수의 영상이 재조명되고 있다. 유현준 홍익대 건축학과 교수는 작년 9월 유튜브 채널 '셜록현준'에서 "우리나라에 반지하가 많은 이유는 의무적으로 만들어야]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
