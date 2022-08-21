@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-20T23:23:55.749Z</updated>
+    <updated>2022-08-21T02:24:24.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 尹의 노동개혁 구상.."독일처럼 초당파적으로"?]]></title>
+        <id>https://v.daum.net/v/20220821085212196</id>
+        <link href="https://v.daum.net/v/20220821085212196"/>
+        <updated>2022-08-21T02:23:19.640Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 지난주 취임 100일 기자회견에서 노동개혁은 초당적으로 해결해야 할 문제라며 독일의 사례를 예로 들었습니다. 정권을 초월한 개혁의 필요성을 강조한 것인데요, 과연 우리나라 현실에 적용할 수 있는 사례인지, 신지원 기자가 짚어봤습니다. [기자] 협상 타결에도 불씨는 여전한 대우조선해양 하청노조 파업 사태. 본사 점검을 불사한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]매일 만지는 항균 필름, 코로나 억제 효과 있을까]]></title>
         <id>https://v.daum.net/v/20220820080327568</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220815180503259"/>
         <updated>2022-08-15T10:28:02.706Z</updated>
         <content type="html"><![CDATA[최근 출시되는 전기차는 대부분 스포츠실용차(SUV)다. 배터리값 하락이 더딘 터라 전기차 가격이 비싼 수준에 머물다 보니, 완성차 업체들은 수익성이 높은 에스유브이 위주로 전기차를 출시한다. 소비자들은 현대자동차그룹이 쏘나타·그랜저 등 세단 전기차를 언제 출시할지 관심이 많다. 하지만 이르면 2025년, 현대차가 세단 전기차를 내놓지 않아도 쏘나타·그랜저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 국가부채 'D4' 개념은 안철수가 만들어냈다?]]></title>
-        <id>https://v.daum.net/v/20220815172216722</id>
-        <link href="https://v.daum.net/v/20220815172216722"/>
-        <updated>2022-08-15T08:30:22.826Z</updated>
-        <content type="html"><![CDATA[[앵커] 지난 대선 당시, 안철수 후보가 대표로 있던 국민의당이 국가부채 관련 안 후보의 발언을 지적한 연구원을 고발한 사건이 최근 기소의견으로 검찰에 넘어가 논란이 일고 있습니다. 안 후보가 'D4(디포)'라는 존재하지 않는 국가부채 개념을 만들었다는 연구원의 발언이 문제가 된 건데, 연구원이 틀린 말을 했던 건지, 박희재 기자가 팩트체크했습니다.]]></content>
     </entry>
 </feed>
