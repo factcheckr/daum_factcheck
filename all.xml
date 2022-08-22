@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-22T20:25:31.962Z</updated>
+    <updated>2022-08-22T21:22:08.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[취업난에도 외면 당하는 부사관.. 최저임금도 못 받는다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220823060224533</id>
+        <link href="https://v.daum.net/v/20220823060224533"/>
+        <updated>2022-08-22T21:21:13.422Z</updated>
+        <content type="html"><![CDATA[군의 전문성을 높이고 장교와 병사를 이어주는 역할을 맡는 부사관에 대해 급여 등 처우가 좋지 않고, 지원자도 당국의 예상치를 밑돌고 있다는 주장이 온라인 등에서 나오고 있다. 이 같은 인식은 사실일까. 2021년 8월 27일 전북 익산시 육군부사관학교에서 열린 '21-2기 부사관 임관식'에서 신임 부사관들이 경례하고 있다. 연합뉴스  결론부터 말하자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]강남 '비키니 오토바이'는 '과다 노출'? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220822194854858</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220818111008142"/>
         <updated>2022-08-18T02:34:27.782Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 온라인상에서는 26년 전 시험관 시술로 낳은 아들의 유전자가 남편의 유전자와 일치하지 않는다는 황당한 사실을 접한 50대 여성 A씨의 사연이 이슈가 됐다. A씨는 17일 CBS 라디오 '김현정의 뉴스쇼'에서 "아이가 5살쯤 검사를 했는데 소아과에서 '아이가 A형인 거 알고 계시죠'라고 했다. (우리 부부는) 둘 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220818080003239</id>
-        <link href="https://v.daum.net/v/20220818080003239"/>
-        <updated>2022-08-17T23:24:50.743Z</updated>
-        <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
