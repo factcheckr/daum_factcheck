@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-23T20:26:19.494Z</updated>
+    <updated>2022-08-23T21:22:45.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20220824060208017</id>
+        <link href="https://v.daum.net/v/20220824060208017"/>
+        <updated>2022-08-23T21:21:45.076Z</updated>
+        <content type="html"><![CDATA[서울 도심의 상징 종로구 광화문광장이 공사 시작 1년9개월 만인 지난 6일 재개장했다. 광장이 개방한 반가움도 잠시 이날 오전 이곳을 지나던 한 마을버스 기사는 “도로가 줄어 아침마다 정체가 말도 못한다”고 불만을 토로했다. 광화문 앞 세종대로는 광장 재구조화 과정에서 광장 서측 도로가 사라지면서 왕복 10∼12차로에서 왕복 7∼9차로로 3개 차로가 줄었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 출범 100일까지 내각 완성 못한 건 尹정부가 처음?]]></title>
         <id>https://v.daum.net/v/20220823121506537</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220820080327568"/>
         <updated>2022-08-19T23:23:27.594Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 &lt;모아모아 팩트체크&gt;■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 팩트체크 할 주제는 '항균필름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]오세훈표 '빗물터널', 강남엔 뚫을 곳 없다?]]></title>
-        <id>https://v.daum.net/v/20220818122709267</id>
-        <link href="https://v.daum.net/v/20220818122709267"/>
-        <updated>2022-08-18T04:24:03.975Z</updated>
-        <content type="html"><![CDATA[핵심요약강남 역대급 물난리에 복원된 '지하 빗물터널 건설 계획' "2호선·신분당선 등 강남 대심도엔 여유 공간 없다" 주장의 진실은? 인명 피해 발생한 재난 이용한 '정치적 레토릭' 지적도 오세훈 서울시장이 최근 강남지역 폭우 피해 이후 '대심도 빗물저류배수시설(이하 '대심도 빗물터널') 재추진'에 나선 가운데, 누리꾼들 사이에서 "강남 일대는 다수 노선의]]></content>
     </entry>
 </feed>
