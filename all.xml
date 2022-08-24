@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-24T04:38:34.974Z</updated>
+    <updated>2022-08-24T05:48:30.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 국민 90%가 '검수원복 시행령'을 문제없다고 본다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220824142005155</id>
+        <link href="https://v.daum.net/v/20220824142005155"/>
+        <updated>2022-08-24T05:47:34.995Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 검찰의 수사권을 확대하기 위한 법무부의 '검수원복(검찰 수사권 원상복구)' 시행령 개정안에 대해 국민 10명 중 9명이 문제없다고 본다는 주장이 나왔다. 국민의힘 유상범 의원은 지난 22일 국회 법제사법위원회 전체회의에서 "(검수원복 시행령 개정안을 두고) 민주당은 국회 입법권에 대한 시행령 쿠데타라는 말까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220824060208017</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220821085212196"/>
         <updated>2022-08-21T02:23:19.640Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령이 지난주 취임 100일 기자회견에서 노동개혁은 초당적으로 해결해야 할 문제라며 독일의 사례를 예로 들었습니다. 정권을 초월한 개혁의 필요성을 강조한 것인데요, 과연 우리나라 현실에 적용할 수 있는 사례인지, 신지원 기자가 짚어봤습니다. [기자] 협상 타결에도 불씨는 여전한 대우조선해양 하청노조 파업 사태. 본사 점검을 불사한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]매일 만지는 항균 필름, 코로나 억제 효과 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220820080327568</id>
-        <link href="https://v.daum.net/v/20220820080327568"/>
-        <updated>2022-08-19T23:23:27.594Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 &lt;모아모아 팩트체크&gt;■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 팩트체크 할 주제는 '항균필름]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
