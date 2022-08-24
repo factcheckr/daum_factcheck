@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-24T06:33:20.176Z</updated>
+    <updated>2022-08-24T07:23:49.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220824153902293</id>
+        <link href="https://v.daum.net/v/20220824153902293"/>
+        <updated>2022-08-24T07:22:54.591Z</updated>
+        <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  &nbsp; [검증대상] 코로나 대유행에도 한국은 가정폭력 감소? 경찰청은 지난 6월 2021 &lt;사회적 약자 보호 치안백서&gt;를 발간했다. 경찰청은 사회적 약자를 향한 범죄의 유형으로 아동학대, 학교폭력, 성폭력, 가정폭력, 스토킹 등으로 분류했다. 그중 코로나 대유행의 영향으로 가정 내 구성원 체류 시간이 길어지면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]'소보로빵 비누'는 불법이다?]]></title>
         <id>https://v.daum.net/v/20220824152736811</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822095700826"/>
         <updated>2022-08-22T02:22:24.012Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김양원 PD(이하 김양원)&gt; 지난 한 주간 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한때 시스루룩 벌주더니..이젠 비키니가 '부끄럽다'는 경찰 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220821151509416</id>
-        <link href="https://v.daum.net/v/20220821151509416"/>
-        <updated>2022-08-21T12:40:34.277Z</updated>
-        <content type="html"><![CDATA[지난달 31일 상의를 벗은 남성과 비키니 수영복을 입은 여성이 오토바이를 탄 채 서울 강남 일대를 질주하다 경찰에 최근 입건됐다. 유튜브와 인스타그램 구독자를 높이려는 의도로 알려졌다. 서울 강남경찰서가 밝힌 혐의는 경범죄처벌법상 과다노출이다. 이들이 실제 처벌될 수 있는지 알아봤다. 노출 사건은 시대 변화에 따라 인식도 달라진다. 이 때문에 처벌 가능성을]]></content>
     </entry>
 </feed>

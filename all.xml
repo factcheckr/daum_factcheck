@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-24T06:33:20.188Z</updated>
+    <updated>2022-08-24T07:23:49.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220824153902293</id>
+        <link href="https://v.daum.net/v/20220824153902293"/>
+        <updated>2022-08-24T07:22:54.591Z</updated>
+        <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  &nbsp; [검증대상] 코로나 대유행에도 한국은 가정폭력 감소? 경찰청은 지난 6월 2021 &lt;사회적 약자 보호 치안백서&gt;를 발간했다. 경찰청은 사회적 약자를 향한 범죄의 유형으로 아동학대, 학교폭력, 성폭력, 가정폭력, 스토킹 등으로 분류했다. 그중 코로나 대유행의 영향으로 가정 내 구성원 체류 시간이 길어지면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]'소보로빵 비누'는 불법이다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220824152736811</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220822095700826"/>
         <updated>2022-08-22T02:22:24.012Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김양원 PD(이하 김양원)&gt; 지난 한 주간 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한때 시스루룩 벌주더니..이젠 비키니가 '부끄럽다'는 경찰 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220821151509416</id>
-        <link href="https://v.daum.net/v/20220821151509416"/>
-        <updated>2022-08-21T12:40:34.277Z</updated>
-        <content type="html"><![CDATA[지난달 31일 상의를 벗은 남성과 비키니 수영복을 입은 여성이 오토바이를 탄 채 서울 강남 일대를 질주하다 경찰에 최근 입건됐다. 유튜브와 인스타그램 구독자를 높이려는 의도로 알려졌다. 서울 강남경찰서가 밝힌 혐의는 경범죄처벌법상 과다노출이다. 이들이 실제 처벌될 수 있는지 알아봤다. 노출 사건은 시대 변화에 따라 인식도 달라진다. 이 때문에 처벌 가능성을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 내년 최저임금이 1만원으로 인상되면 최대 30만개 일자리가 줄어들 수 있다는 연구 결과가 나왔다. 코로나19 사태로 자영업자·소상공인이 어려운 상황에서 최저임금을 인상하면 노동 수요와 저임금 노동자의 일자리가 감소할 수 있다는 것이다. 일각에서는 최저임금이 크게 인상된 2018~2019년 고용 상황이 나쁘지 않았다는 반박도 나온다. 최저임금]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20220824153902293</id>
+        <link href="https://v.daum.net/v/20220824153902293"/>
+        <updated>2022-08-24T07:23:41.254Z</updated>
+        <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  &nbsp; [검증대상] 코로나 대유행에도 한국은 가정폭력 감소? 경찰청은 지난 6월 2021 &lt;사회적 약자 보호 치안백서&gt;를 발간했다. 경찰청은 사회적 약자를 향한 범죄의 유형으로 아동학대, 학교폭력, 성폭력, 가정폭력, 스토킹 등으로 분류했다. 그중 코로나 대유행의 영향으로 가정 내 구성원 체류 시간이 길어지면서]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20220812134737973</id>
         <link href="https://v.daum.net/v/20220812134737973"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20220706122700717"/>
         <updated>2022-07-06T04:10:27.113Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;연세대학교 청소ㆍ경비노동자들이 5일 오전 서울 서대문구 연세대학교 백양로에서 집회를 열고 임금인상과 정년퇴직자 인원 충원, 샤워실 설치 등을 요구하고 있다.    ⓒ 유성호  &nbsp; [검증대상] "연세대 청소 노동자 월급 300만~400만원" 고소 학생 주장 연세대학교 캠퍼스에서 집회를 진행한 청소·경비 노동자들을 상대로 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한동훈 비즈니스석 출장 파격' 언론보도, 검증해보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220630194806173</id>
-        <link href="https://v.daum.net/v/20220630194806173"/>
-        <updated>2022-06-30T11:19:46.857Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(워싱턴=연합뉴스) 방미 일정에 나선 한동훈 법무부 장관이 29일(현지시간) 워싱턴 덜레서 국제공항에 도착해 취재진 앞에서 현안에 대해 답변하고 있다. 2022.6.30 [워싱턴 특파원단]    ⓒ 연합뉴스  &nbsp; [검증대상] "한동훈 미국 출장 '비즈니스석 이용' 파격" 언론 보도 한동훈 법무부장관이 지난 29일 미국 워]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['침수 예상 지도' 이번 폭우에 얼마나 정확했나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
