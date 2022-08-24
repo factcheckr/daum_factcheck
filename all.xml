@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-24T21:22:03.860Z</updated>
+    <updated>2022-08-24T22:25:37.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] '대통령 취임식 초청자 명단' 폐기해도 문제 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220825070020027</id>
+        <link href="https://v.daum.net/v/20220825070020027"/>
+        <updated>2022-08-24T22:24:31.283Z</updated>
+        <content type="html"><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이) 개인정보라고 이미 다 파기를 했다, 그게 팩트입니다. 저한테는. 그런데 자꾸 거짓말 하신다고 그러니...” -김대기 대통령 비서실장 / 23일 국회 운영위원회 발언 지난 23일 국회에서 열린 운영위원회 전체회의에  김대기 대통령 비서실장이 출석했습니다. 김 실장은 윤석열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 강제 폐차로 '침수차 거래' 막는다? 법적 기준 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220824202505412</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220822194854858"/>
         <updated>2022-08-22T11:20:43.497Z</updated>
         <content type="html"><![CDATA[웨딩드레스를 입고 경찰서에 온 여성, 무슨 일일까요. 지난달 31일, 서울 강남구로 가보죠. 웃통을 벗은 남성, 비키니 입은 여성이 오토바이를 타는데요. 경찰이 과다노출 혐의로 입건하자 드레스를 입고 조사를 받으러 온 겁니다. 아예 나체로 돌아다닌 것도 아닌데 과다노출 혐의, 적용할 수 있을지 논란이 이어지는데요. 결론부터 말씀드리면 두 남녀,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 10년 전에도 '100년 만의 물폭탄'..공식기록은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220822171445003</id>
-        <link href="https://v.daum.net/v/20220822171445003"/>
-        <updated>2022-08-22T08:31:29.767Z</updated>
-        <content type="html"><![CDATA['100년 만의 물폭탄' 10년 전인 2011년 7월, 언론에 등장한 표현입니다. 당시 중부지방 폭우를 가리켜 '100년 만의 물폭탄'이라는 말이 나왔습니다. 그런데 이 말이 지난 8일 다시 등장했습니다. 집중호우로 집이 물에 잠기기도 하고, 비 피해가 심각하자 나타난 표현입니다. '100년 만의 폭우'가 10년 만에 등장한 셈인데요. 자주 쓰이다보니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['대통령 취임식 초청자 명단' 폐기해도 문제 없다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220825070020027</id>
+        <link href="https://v.daum.net/v/20220825070020027"/>
+        <updated>2022-08-24T22:25:01.309Z</updated>
+        <content type="html"><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이) 개인정보라고 이미 다 파기를 했다, 그게 팩트입니다. 저한테는. 그런데 자꾸 거짓말 하신다고 그러니...” -김대기 대통령 비서실장 / 23일 국회 운영위원회 발언 지난 23일 국회에서 열린 운영위원회 전체회의에  김대기 대통령 비서실장이 출석했습니다. 김 실장은 윤석열]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220818080003239</id>
         <link href="https://v.daum.net/v/20220818080003239"/>
@@ -317,13 +324,6 @@
         <id>https://v.daum.net/v/20220530221003286</id>
         <link href="https://v.daum.net/v/20220530221003286"/>
         <updated>2022-05-30T13:46:19.252Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220530194309477</id>
-        <link href="https://v.daum.net/v/20220530194309477"/>
-        <updated>2022-05-30T11:22:02.550Z</updated>
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
     </entry>
     <entry>
