@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-24T05:48:30.977Z</updated>
+    <updated>2022-08-24T06:33:20.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]'소보로빵 비누'는 불법이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220824152736811</id>
+        <link href="https://v.daum.net/v/20220824152736811"/>
+        <updated>2022-08-24T06:32:26.904Z</updated>
+        <content type="html"><![CDATA[핵심요약최근 온라인 커뮤니티상에 소보로빵을 닮은 '튀소비누'를 두고 논란이 일고 있습니다. 자칫 식품으로 오인해 먹을 수도 있고, '화장품법'에 위반될 소지가 있다는 주장도 나오고 있는데요. 이 제품이 어떻게 정상 판매되고 있을까요. 핵심은 이 제품이 화장비누가 아닌, 주방비누라는 점에 있습니다. '대전의 문화'라고 불리는 한 빵집이 있다. 1956년 대전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 국민 90%가 '검수원복 시행령'을 문제없다고 본다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220824142005155</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220821151509416"/>
         <updated>2022-08-21T12:40:34.277Z</updated>
         <content type="html"><![CDATA[지난달 31일 상의를 벗은 남성과 비키니 수영복을 입은 여성이 오토바이를 탄 채 서울 강남 일대를 질주하다 경찰에 최근 입건됐다. 유튜브와 인스타그램 구독자를 높이려는 의도로 알려졌다. 서울 강남경찰서가 밝힌 혐의는 경범죄처벌법상 과다노출이다. 이들이 실제 처벌될 수 있는지 알아봤다. 노출 사건은 시대 변화에 따라 인식도 달라진다. 이 때문에 처벌 가능성을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 尹의 노동개혁 구상.."독일처럼 초당파적으로"? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220821085212196</id>
-        <link href="https://v.daum.net/v/20220821085212196"/>
-        <updated>2022-08-21T02:23:19.640Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 지난주 취임 100일 기자회견에서 노동개혁은 초당적으로 해결해야 할 문제라며 독일의 사례를 예로 들었습니다. 정권을 초월한 개혁의 필요성을 강조한 것인데요, 과연 우리나라 현실에 적용할 수 있는 사례인지, 신지원 기자가 짚어봤습니다. [기자] 협상 타결에도 불씨는 여전한 대우조선해양 하청노조 파업 사태. 본사 점검을 불사한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물가 상승률이 32.5%? 천정부지 치솟던 그 시절 (다음 뉴스 ─ SBS 사실은)]]></title>
