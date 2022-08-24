@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-24T11:21:41.818Z</updated>
+    <updated>2022-08-24T12:49:03.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 강제 폐차로 '침수차 거래' 막는다? 법적 기준 보니]]></title>
+        <id>https://v.daum.net/v/20220824202505412</id>
+        <link href="https://v.daum.net/v/20220824202505412"/>
+        <updated>2022-08-24T12:48:01.305Z</updated>
+        <content type="html"><![CDATA[[앵커] 이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 "침수차는 강제로 폐차시켜야 한다"고도 주장합니다. 그럴 수 있는지, 바로 팩트체크 해보겠습니다. 이지은 기자, 완전 침수차는 무조건 폐차시켜라, 이렇게 할 수 있습니까? [기자] 결론부터 말씀드리면 어렵습니다. 소관 부서인 국토부에는 현재 명확한 '폐차 기준'이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]'대화 녹음 금지법' 논란..녹음 처벌 기준은?]]></title>
         <id>https://v.daum.net/v/20220824195254913</id>
         <link href="https://v.daum.net/v/20220824195254913"/>
         <updated>2022-08-24T11:20:39.183Z</updated>
-        <content type="html"><![CDATA[[보이스피싱범] "서울중앙지방검찰청 첨단범죄수사팀의 팀장을 맡고 있는 김민수 검사예요." 일명 김민수 검사로 알려진 보이스피싱범의 목소리입니다. 범죄 입증에 이런 녹음 파일은 중요한 증거로 쓰이죠. 그런데 앞으로 이런 대화 녹음을 모두 처벌하자는 법안이 나와서 논란이 일고 있는데요. 녹음, 처벌의 경계선은 어디인지 짚어봅니다. 현행법에 따르면]]></content>
+        <content type="html"><![CDATA[[보이스피싱범] "서울중앙지방검찰청 첨단범죄수사팀의 팀장을 맡고 있는 김민수 검사예요." 일명 김민수 검사로 알려진 보이스피싱범의 목소리입니다. 범죄 입증에 이런 녹음 파일은 중요한 증거로 쓰이죠. 그런데 앞으로 이런 대화 녹음을 모두 처벌하자는 법안이 나와서 논란이 일고 있는데요. 녹음, 처벌의 경계선은 어디인지 짚어봅니다. 현행법에 따르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 [오마이팩트]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822171445003"/>
         <updated>2022-08-22T08:31:29.767Z</updated>
         <content type="html"><![CDATA['100년 만의 물폭탄' 10년 전인 2011년 7월, 언론에 등장한 표현입니다. 당시 중부지방 폭우를 가리켜 '100년 만의 물폭탄'이라는 말이 나왔습니다. 그런데 이 말이 지난 8일 다시 등장했습니다. 집중호우로 집이 물에 잠기기도 하고, 비 피해가 심각하자 나타난 표현입니다. '100년 만의 폭우'가 10년 만에 등장한 셈인데요. 자주 쓰이다보니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 부산 해수욕장에 해파리 떼가 나타났다?]]></title>
-        <id>https://v.daum.net/v/20220822105400285</id>
-        <link href="https://v.daum.net/v/20220822105400285"/>
-        <updated>2022-08-22T02:22:24.010Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.◆ 송영훈&gt; 지난 6일 부산 기장군 해수욕장 앞바다에]]></content>
     </entry>
 </feed>
