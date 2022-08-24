@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-24T10:29:38.310Z</updated>
+    <updated>2022-08-24T11:21:41.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]'대화 녹음 금지법' 논란..녹음 처벌 기준은?]]></title>
+        <id>https://v.daum.net/v/20220824195254913</id>
+        <link href="https://v.daum.net/v/20220824195254913"/>
+        <updated>2022-08-24T11:20:39.183Z</updated>
+        <content type="html"><![CDATA[[보이스피싱범] "서울중앙지방검찰청 첨단범죄수사팀의 팀장을 맡고 있는 김민수 검사예요." 일명 김민수 검사로 알려진 보이스피싱범의 목소리입니다. 범죄 입증에 이런 녹음 파일은 중요한 증거로 쓰이죠. 그런데 앞으로 이런 대화 녹음을 모두 처벌하자는 법안이 나와서 논란이 일고 있는데요. 녹음, 처벌의 경계선은 어디인지 짚어봅니다. 현행법에 따르면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220824153902293</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822105400285"/>
         <updated>2022-08-22T02:22:24.010Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.◆ 송영훈&gt; 지난 6일 부산 기장군 해수욕장 앞바다에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국, 코로나19 확진자수 세계최고! 치명률은 세계 최저?]]></title>
-        <id>https://v.daum.net/v/20220822095700826</id>
-        <link href="https://v.daum.net/v/20220822095700826"/>
-        <updated>2022-08-22T02:22:24.012Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 8월 20일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김양원 PD(이하 김양원)&gt; 지난 한 주간 있]]></content>
     </entry>
 </feed>
