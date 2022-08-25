@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-25T08:32:55.820Z</updated>
+    <updated>2022-08-25T09:26:01.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["OECD에서 한국만 입국 전 코로나19 검사" 보도는 '대체로 사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220825173301591</id>
+        <link href="https://v.daum.net/v/20220825173301591"/>
+        <updated>2022-08-25T09:24:39.353Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 7월 15일 인천시 남동구 남동구청 안심 선별진료소에서 한 시민이 검체 검사를 기다리고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "OECD에서 한국만 입국 전 코로나19 검사 의무" 언론 보도 일본 정부가 24일 코로나19 백신 3차 접종자에게 입국 전 음성확인서 제출을 면제하겠다고 발표하자, 국내 언론은 경제협력]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령 취임식 초청 명단 파기는 위법?]]></title>
         <id>https://v.daum.net/v/20220825170305374</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220824060208017"/>
         <updated>2022-08-23T21:21:45.076Z</updated>
         <content type="html"><![CDATA[서울 도심의 상징 종로구 광화문광장이 공사 시작 1년9개월 만인 지난 6일 재개장했다. 광장이 개방한 반가움도 잠시 이날 오전 이곳을 지나던 한 마을버스 기사는 “도로가 줄어 아침마다 정체가 말도 못한다”고 불만을 토로했다. 광화문 앞 세종대로는 광장 재구조화 과정에서 광장 서측 도로가 사라지면서 왕복 10∼12차로에서 왕복 7∼9차로로 3개 차로가 줄었다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 출범 100일까지 내각 완성 못한 건 尹정부가 처음?]]></title>
-        <id>https://v.daum.net/v/20220823121506537</id>
-        <link href="https://v.daum.net/v/20220823121506537"/>
-        <updated>2022-08-23T04:47:43.934Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 김종인 전 국민의힘 비상대책위원장은 지난 20일 TV조선 시사프로그램에서 윤석열 정부에 대해 "취임 100일이 됐는데 내각도 완성하지 못하는 이런 정부는 처음 봤다"고 말했다. 그러면서 "의원 내각제를 하는 영국의 대처 회고록을 보면 '수상이 되면 24시간 이내에 조각을 완료해야 한다. 그래야만 국민이 정부를 믿고 따라간다']]></content>
     </entry>
 </feed>
