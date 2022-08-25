@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-25T10:29:23.088Z</updated>
+    <updated>2022-08-25T11:24:23.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인]"'심심', '유선상' 몰라요"..실질 문맹률 75%?]]></title>
+        <id>https://v.daum.net/v/20220825194252877</id>
+        <link href="https://v.daum.net/v/20220825194252877"/>
+        <updated>2022-08-25T11:23:23.351Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 최근 '심심한 사과'를 심심하다는 의미로 알아듣고, '유선상'이란 말을 사람 이름으로 잘못 이해하면서 해프닝을 넘어 논란도 일었죠. 심지어 단어의 정확한 뜻을 이해한다는 의미의 문해력이 떨어진다는 '실질 문맹률'이 75%나 된다는 주장까지 나왔습니다. 정말 우리의 실질 문맹률이 이리 심각할까요? 이상협 기자가 사실확인에서 살]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["OECD에서 한국만 입국 전 코로나19 검사" 보도는 '대체로 사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220825173301591</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220824142005155"/>
         <updated>2022-08-24T05:47:34.995Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 검찰의 수사권을 확대하기 위한 법무부의 '검수원복(검찰 수사권 원상복구)' 시행령 개정안에 대해 국민 10명 중 9명이 문제없다고 본다는 주장이 나왔다. 국민의힘 유상범 의원은 지난 22일 국회 법제사법위원회 전체회의에서 "(검수원복 시행령 개정안을 두고) 민주당은 국회 입법권에 대한 시행령 쿠데타라는 말까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20220824060208017</id>
-        <link href="https://v.daum.net/v/20220824060208017"/>
-        <updated>2022-08-23T21:21:45.076Z</updated>
-        <content type="html"><![CDATA[서울 도심의 상징 종로구 광화문광장이 공사 시작 1년9개월 만인 지난 6일 재개장했다. 광장이 개방한 반가움도 잠시 이날 오전 이곳을 지나던 한 마을버스 기사는 “도로가 줄어 아침마다 정체가 말도 못한다”고 불만을 토로했다. 광화문 앞 세종대로는 광장 재구조화 과정에서 광장 서측 도로가 사라지면서 왕복 10∼12차로에서 왕복 7∼9차로로 3개 차로가 줄었다]]></content>
     </entry>
 </feed>
