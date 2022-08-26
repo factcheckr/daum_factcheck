@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-08-26T11:21:56.007Z</updated>
+    <updated>2022-08-26T12:48:53.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[활발한 여사님 행보..제2부속실 불필요?]]></title>
+        <id>https://v.daum.net/v/20220826202507823</id>
+        <link href="https://v.daum.net/v/20220826202507823"/>
+        <updated>2022-08-26T12:48:05.555Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 김건희 여사의 팬클럽을 통해 대통령의 일정이나 집무실 사진 등이 공개되면서 논란이 일고 있습니다. 윤석열 대통령은 후보 시절 '조용한 내조'를 내세우며, 제2부속실을 폐지하고, 역할도 축소하겠다고 했습니다. 김 여사 본인도 '아내 역할에만 충실하겠다'고 말했었죠. 당시에 했던 이런 말들이 잘 지켜지고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남 알짜 빌딩, '노는 땅'이라 판다?]]></title>
         <id>https://v.daum.net/v/20220812202515447</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220617115513917"/>
         <updated>2022-06-17T03:59:18.791Z</updated>
         <content type="html"><![CDATA[지난 4월부터 문재인 전 대통령의 경남 양산 사저 근처에서 보수단체와 유튜브들이 고성과 욕설 시위를 벌이고 있습니다. 이어 지난 14일부터는 윤석열 대통령의 서초동 자택 앞에서 확성기와 스피커를 동원한 '맞불' 집회가 열리기 시작했습니다. 주최측은 양산 시위가 끝날 때까지 서초동 시위를 이어가겠다고 밝혀 이번 주말에도 이어질 것으로예상됩니다. 한덕수 국무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[욕설·고성 시위..집시법 강화가 답?]]></title>
-        <id>https://v.daum.net/v/20220614201908729</id>
-        <link href="https://v.daum.net/v/20220614201908729"/>
-        <updated>2022-06-14T12:45:28.728Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 '표현의 자유'라는 대원칙 때문인데요. 정도가 심해지자 최근에는 법을 바꿔서라도 제한해야하는 거 아니냐는 주장이 힘을 얻고, 구체적 법개정안까지 나와있습니다. 이런 움직]]></content>
     </entry>
 </feed>
