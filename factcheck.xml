@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-26T22:25:03.877Z</updated>
+    <updated>2022-08-26T23:25:17.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]쌀값 폭락..쌀로 빵 만들면 가격 안정된다?]]></title>
+        <id>https://v.daum.net/v/20220827080301455</id>
+        <link href="https://v.daum.net/v/20220827080301455"/>
+        <updated>2022-08-26T23:24:22.113Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 요즘 날씨가 너무 좋아요. 가을이 훌쩍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 활발한 여사님 행보..제2부속실 불필요?]]></title>
         <id>https://v.daum.net/v/20220826202507823</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220824153902293"/>
         <updated>2022-08-24T07:22:54.591Z</updated>
         <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  &nbsp; [검증대상] 코로나 대유행에도 한국은 가정폭력 감소? 경찰청은 지난 6월 2021 &lt;사회적 약자 보호 치안백서&gt;를 발간했다. 경찰청은 사회적 약자를 향한 범죄의 유형으로 아동학대, 학교폭력, 성폭력, 가정폭력, 스토킹 등으로 분류했다. 그중 코로나 대유행의 영향으로 가정 내 구성원 체류 시간이 길어지면서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]'소보로빵 비누'는 불법이다?]]></title>
-        <id>https://v.daum.net/v/20220824152736811</id>
-        <link href="https://v.daum.net/v/20220824152736811"/>
-        <updated>2022-08-24T06:32:26.904Z</updated>
-        <content type="html"><![CDATA[핵심요약최근 온라인 커뮤니티상에 소보로빵을 닮은 '튀소비누'를 두고 논란이 일고 있습니다. 자칫 식품으로 오인해 먹을 수도 있고, '화장품법'에 위반될 소지가 있다는 주장도 나오고 있는데요. 이 제품이 어떻게 정상 판매되고 있을까요. 핵심은 이 제품이 화장비누가 아닌, 주방비누라는 점에 있습니다. '대전의 문화'라고 불리는 한 빵집이 있다. 1956년 대전]]></content>
     </entry>
 </feed>
