@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-08-29T10:29:23.439Z</updated>
+    <updated>2022-08-29T11:23:19.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담뱃갑에 '꽁초 젖병' 새기면 흡연율 하락?]]></title>
+        <id>https://v.daum.net/v/20220829201759328</id>
+        <link href="https://v.daum.net/v/20220829201759328"/>
+        <updated>2022-08-29T11:22:55.358Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 서울 도심의 흡연 부스 앞에서 시작합니다. 담배꽁초가 가득 든 젖병을 아기에게 물리는 모습, 오는 12월부터 담뱃갑에 새겨질 흡연 경고 그림입니다. 갈수록 충격의 강도를 더하는 흡연 경고 그림, 지난 2016년 도입돼 2년마다 바뀌는데요. 정말 흡연율을 떨어뜨리는지 따져봅니다. 경고 그림은 2001년 캐나다에서 처음 도입돼 지금은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대화 녹음 금지법' 논란..녹음 처벌 기준은?]]></title>
         <id>https://v.daum.net/v/20220824195254913</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220718195000608"/>
         <updated>2022-07-18T11:20:50.407Z</updated>
         <content type="html"><![CDATA[수돗물 필터, 자세히 들여다보니 뭔가가 꼬물거리죠. 경남 창원의 가정집에서 발견된 유충입니다. [박선애 / 경남 창원시 진해구] "깔따구 나온다 그러니까. 건강 생각하면 불안하긴 한데. 생수를 자꾸 시켜 먹으면 돈이 많이 들어가니까." 시민들의 불안에도 창원시는 수돗물을 끓여 마시면 괜찮다고 안내했는데요. 정말 마셔도 괜찮은지 따져봅니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 죽었는데..'마포 연인 폭행치사' 7년형, 왜?]]></title>
-        <id>https://v.daum.net/v/20220713194659892</id>
-        <link href="https://v.daum.net/v/20220713194659892"/>
-        <updated>2022-07-13T11:21:23.213Z</updated>
-        <content type="html"><![CDATA[[기자] 지난해 7월 남자친구에게 네 차례 폭행을 당한 뒤 숨진 고 황예진 씨. 법원은 1심에 이어 오늘 항소심에서도 가해자 이모 씨에게 징역 7년 형을 선고했습니다. 유족들은 솜방망이 처벌이라며 눈물을 흘렸습니다. [황예진 씨 어머니] "굉장히 마음이 아픕니다. 살인죄가 외국에서는 되는데 우리나라에선 왜 안되는지…" 징역 7년 형이 어떤 판]]></content>
     </entry>
 </feed>
