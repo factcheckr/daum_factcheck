@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-08-30T08:32:41.767Z</updated>
+    <updated>2022-08-30T09:25:17.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실은] 군대 사진 SNS 올리면..군기 교육? 휴가 제한?]]></title>
         <id>https://v.daum.net/v/20220830172413105</id>
