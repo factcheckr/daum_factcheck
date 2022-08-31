@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-31T10:28:38.483Z</updated>
+    <updated>2022-08-31T11:21:57.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]생생한 '은행 강도 몽타주', 어떻게 그렸나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220831201055264</id>
+        <link href="https://v.daum.net/v/20220831201055264"/>
+        <updated>2022-08-31T11:20:59.190Z</updated>
+        <content type="html"><![CDATA[대전 국민은행 강도살인 사건, 21년 만에 피의자가 드러났죠. 2001년 경찰이 만든 몽타주와 실제 얼굴, 똑 닮아서 놀랍다는 반응이 나오는데요. 범인 잡는 몽타주, 어떻게 만드는지 알아봅니다. 몽타주(montage)는 프랑스어로 '조립한다'는 의미의 몽테(monter)에서 유래했는데요. 범인을 본 사람들에게 이목구비의 특징을 물어보고, 각각 합]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 논란된 광화문 '일장기 그림'..작품 의도 알아보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220830184908643</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220825170305374"/>
         <updated>2022-08-25T08:31:49.634Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 김대기 대통령 비서실장은 23일 국회 운영위원회에 출석해 "윤석열 대통령 취임식 참석자 명단을 알려고 했지만 모른다"며 "저희도 팩트가 궁금해서 취임식준비위원회에 물어보니 개인정보라고 이미 다 파기를 했다고 했다"고 밝혔다. 윤 대통령 부인 김건희 여사가 극우 유튜버들을 취임식에 초청했는지를 묻는 야당 의원 질의에 대한 답변]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 제네바 협약에서 민방위복을 노란색으로 정해놨다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220825094518774</id>
-        <link href="https://v.daum.net/v/20220825094518774"/>
-        <updated>2022-08-25T02:33:11.461Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 정부가 17년 만에 기존 노란색 민방위복의 개편을 추진하면서 온라인을 중심으로 갑론을박이 벌어지고 있다. 일부 인터넷 커뮤니티와 블로그 등에서는 "민방위복은 제네바 협약에 따라 노란색으로 정해진 것" "민방위복이 노란색인 것은 눈에 잘 띈다는 특징도 있지만 더 중요한 것은 제네바 협약에 따른 세계 공통이기 때문" 등의 글]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군대 사진 SNS 올리면..군기 교육? 휴가 제한? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[생생한 '은행 강도 몽타주', 어떻게 그렸나 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220831201055264</id>
+        <link href="https://v.daum.net/v/20220831201055264"/>
+        <updated>2022-08-31T11:21:32.088Z</updated>
+        <content type="html"><![CDATA[대전 국민은행 강도살인 사건, 21년 만에 피의자가 드러났죠. 2001년 경찰이 만든 몽타주와 실제 얼굴, 똑 닮아서 놀랍다는 반응이 나오는데요. 범인 잡는 몽타주, 어떻게 만드는지 알아봅니다. 몽타주(montage)는 프랑스어로 '조립한다'는 의미의 몽테(monter)에서 유래했는데요. 범인을 본 사람들에게 이목구비의 특징을 물어보고, 각각 합]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[담뱃갑에 '꽁초 젖병' 새기면 흡연율 하락? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220829201759328</id>
         <link href="https://v.daum.net/v/20220829201759328"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20220720195359770"/>
         <updated>2022-07-20T11:25:29.019Z</updated>
         <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깔따구 유충' 수돗물, 끓여 먹으면 괜찮다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20220718195000608</id>
-        <link href="https://v.daum.net/v/20220718195000608"/>
-        <updated>2022-07-18T11:20:14.110Z</updated>
-        <content type="html"><![CDATA[수돗물 필터, 자세히 들여다보니 뭔가가 꼬물거리죠. 경남 창원의 가정집에서 발견된 유충입니다. [박선애 / 경남 창원시 진해구] "깔따구 나온다 그러니까. 건강 생각하면 불안하긴 한데. 생수를 자꾸 시켜 먹으면 돈이 많이 들어가니까." 시민들의 불안에도 창원시는 수돗물을 끓여 마시면 괜찮다고 안내했는데요. 정말 마셔도 괜찮은지 따져봅니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>

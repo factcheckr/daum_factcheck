@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-08-31T10:28:38.475Z</updated>
+    <updated>2022-08-31T11:21:56.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생생한 '은행 강도 몽타주', 어떻게 그렸나]]></title>
+        <id>https://v.daum.net/v/20220831201055264</id>
+        <link href="https://v.daum.net/v/20220831201055264"/>
+        <updated>2022-08-31T11:21:32.088Z</updated>
+        <content type="html"><![CDATA[대전 국민은행 강도살인 사건, 21년 만에 피의자가 드러났죠. 2001년 경찰이 만든 몽타주와 실제 얼굴, 똑 닮아서 놀랍다는 반응이 나오는데요. 범인 잡는 몽타주, 어떻게 만드는지 알아봅니다. 몽타주(montage)는 프랑스어로 '조립한다'는 의미의 몽테(monter)에서 유래했는데요. 범인을 본 사람들에게 이목구비의 특징을 물어보고, 각각 합]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[담뱃갑에 '꽁초 젖병' 새기면 흡연율 하락?]]></title>
         <id>https://v.daum.net/v/20220829201759328</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220720195359770"/>
         <updated>2022-07-20T11:26:07.756Z</updated>
         <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깔따구 유충' 수돗물, 끓여 먹으면 괜찮다?]]></title>
-        <id>https://v.daum.net/v/20220718195000608</id>
-        <link href="https://v.daum.net/v/20220718195000608"/>
-        <updated>2022-07-18T11:20:50.407Z</updated>
-        <content type="html"><![CDATA[수돗물 필터, 자세히 들여다보니 뭔가가 꼬물거리죠. 경남 창원의 가정집에서 발견된 유충입니다. [박선애 / 경남 창원시 진해구] "깔따구 나온다 그러니까. 건강 생각하면 불안하긴 한데. 생수를 자꾸 시켜 먹으면 돈이 많이 들어가니까." 시민들의 불안에도 창원시는 수돗물을 끓여 마시면 괜찮다고 안내했는데요. 정말 마셔도 괜찮은지 따져봅니다.]]></content>
     </entry>
 </feed>
