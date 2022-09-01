@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-01T10:28:18.185Z</updated>
+    <updated>2022-09-01T11:23:38.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 월 27만 원 노인일자리, 용돈벌이 허드렛일? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220901201911446</id>
+        <link href="https://v.daum.net/v/20220901201911446"/>
+        <updated>2022-09-01T11:21:44.778Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 '모두 허리띠를 졸라매야 한다'고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나로 공공형 노인일자리를 6만개 줄이고 대신 민간 채용을 유도하기로 했습니다. [추경호/기획재정부 장관(8월 25일)] "직접적인 단순 노무형 일자리는 소폭 줄이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220901051805230</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220825194252877"/>
         <updated>2022-08-25T11:23:23.351Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 '심심한 사과'를 심심하다는 의미로 알아듣고, '유선상'이란 말을 사람 이름으로 잘못 이해하면서 해프닝을 넘어 논란도 일었죠. 심지어 단어의 정확한 뜻을 이해한다는 의미의 문해력이 떨어진다는 '실질 문맹률'이 75%나 된다는 주장까지 나왔습니다. 정말 우리의 실질 문맹률이 이리 심각할까요? 이상협 기자가 사실확인에서 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OECD에서 한국만 입국 전 코로나19 검사" 보도는 '대체로 사실' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220825173301591</id>
-        <link href="https://v.daum.net/v/20220825173301591"/>
-        <updated>2022-08-25T09:24:39.353Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 7월 15일 인천시 남동구 남동구청 안심 선별진료소에서 한 시민이 검체 검사를 기다리고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "OECD에서 한국만 입국 전 코로나19 검사 의무" 언론 보도 일본 정부가 24일 코로나19 백신 3차 접종자에게 입국 전 음성확인서 제출을 면제하겠다고 발표하자, 국내 언론은 경제협력]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군대 사진 SNS 올리면..군기 교육? 휴가 제한? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[기름값이 치솟으면서 정부는 유류세 인하 정책을 추진하고 있습니다. 지난해 11월에 20% 인하했고, 지난 5월에는 10%, 지난 1일에는 7%를 추가로 인하했습니다. 윤석열 대통령은 최근 또 유류세 추가 인하 방침을 밝혔습니다. 그런데 유류세를 내려도 기름값은 별로 변하지 않았다, 왜 그런지 알아봐달라는 팩트체크 요청이 들어왔습니다. 일단 팩트부터 알아봤습]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[월 27만 원 노인일자리, 용돈벌이 허드렛일? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220901201911446</id>
+        <link href="https://v.daum.net/v/20220901201911446"/>
+        <updated>2022-09-01T11:22:02.105Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 '모두 허리띠를 졸라매야 한다'고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나로 공공형 노인일자리를 6만개 줄이고 대신 민간 채용을 유도하기로 했습니다. [추경호/기획재정부 장관(8월 25일)] "직접적인 단순 노무형 일자리는 소폭 줄이고]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[활발한 여사님 행보..제2부속실 불필요? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220826202507823</id>
         <link href="https://v.daum.net/v/20220826202507823"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220622202518207"/>
         <updated>2022-06-22T12:46:30.406Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 새 정부 경제정책방향이 발표됐습니다. 그 안엔 생애 최초로 주택을 사는 사람들, 특히 청년층에게 부동산 대출 규제 문턱을 낮추겠다는 내용이 담겼습니다. 이 내용 다룬 기사를 보면요, '20대 혹은 20대 맞벌이가 6억까지 대출받을 수 있다' 20대가 30대 보다 1억이나 대출 더 받는다는 식으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사저 앞 집회, 법으로 막는다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220617115513917</id>
-        <link href="https://v.daum.net/v/20220617115513917"/>
-        <updated>2022-06-17T03:58:59.921Z</updated>
-        <content type="html"><![CDATA[지난 4월부터 문재인 전 대통령의 경남 양산 사저 근처에서 보수단체와 유튜브들이 고성과 욕설 시위를 벌이고 있습니다. 이어 지난 14일부터는 윤석열 대통령의 서초동 자택 앞에서 확성기와 스피커를 동원한 '맞불' 집회가 열리기 시작했습니다. 주최측은 양산 시위가 끝날 때까지 서초동 시위를 이어가겠다고 밝혀 이번 주말에도 이어질 것으로예상됩니다. 한덕수 국무]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['대통령 취임식 초청자 명단' 폐기해도 문제 없다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>

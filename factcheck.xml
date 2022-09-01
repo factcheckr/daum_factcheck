@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-01T10:28:18.159Z</updated>
+    <updated>2022-09-01T11:23:38.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 월 27만 원 노인일자리, 용돈벌이 허드렛일?]]></title>
+        <id>https://v.daum.net/v/20220901201911446</id>
+        <link href="https://v.daum.net/v/20220901201911446"/>
+        <updated>2022-09-01T11:21:44.778Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 '모두 허리띠를 졸라매야 한다'고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나로 공공형 노인일자리를 6만개 줄이고 대신 민간 채용을 유도하기로 했습니다. [추경호/기획재정부 장관(8월 25일)] "직접적인 단순 노무형 일자리는 소폭 줄이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220901051805230</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220825194252877"/>
         <updated>2022-08-25T11:23:23.351Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 '심심한 사과'를 심심하다는 의미로 알아듣고, '유선상'이란 말을 사람 이름으로 잘못 이해하면서 해프닝을 넘어 논란도 일었죠. 심지어 단어의 정확한 뜻을 이해한다는 의미의 문해력이 떨어진다는 '실질 문맹률'이 75%나 된다는 주장까지 나왔습니다. 정말 우리의 실질 문맹률이 이리 심각할까요? 이상협 기자가 사실확인에서 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OECD에서 한국만 입국 전 코로나19 검사" 보도는 '대체로 사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220825173301591</id>
-        <link href="https://v.daum.net/v/20220825173301591"/>
-        <updated>2022-08-25T09:24:39.353Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 7월 15일 인천시 남동구 남동구청 안심 선별진료소에서 한 시민이 검체 검사를 기다리고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "OECD에서 한국만 입국 전 코로나19 검사 의무" 언론 보도 일본 정부가 24일 코로나19 백신 3차 접종자에게 입국 전 음성확인서 제출을 면제하겠다고 발표하자, 국내 언론은 경제협력]]></content>
     </entry>
 </feed>
