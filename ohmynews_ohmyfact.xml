@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-09-02T10:28:30.504Z</updated>
+    <updated>2022-09-02T11:23:20.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20220902194800645</id>
+        <link href="https://v.daum.net/v/20220902194800645"/>
+        <updated>2022-09-02T11:23:09.866Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(과천=연합뉴스) 신준희 기자 = 한동훈 법무부 장관이 31일 오후 정부과천청사 법무부에서 론스타 국제투자분쟁(ISDS) 사건 판정 관련 브리핑을 하고 있다. 2022.8.31 [공동취재]    ⓒ 연합뉴스  &nbsp; [검증대상] "한국 정부가 론스타에 95% 승소" 법무부 주장 &nbsp;"결론적으로 론스타 측 청구금액 약 46.8억]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20220901051805230</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220714100302382"/>
         <updated>2022-07-14T02:27:08.541Z</updated>
         <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;서울광장퀴어행사반대서명운동을 벌인 종교 단체 관계자들이 지난 7일 오후 서울시청 앞에서 오는 16일 예정된 서울광장 퀴어행사 중단 촉구 및 오세훈 시장 규탄 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "WHO, 퀴어퍼레이드서 원숭이두창 확산경고" 퀴어축제 반대단체 주장 '서울광장 퀴어행사반대 서명운동' 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전기·물 세계에서 제일 펑펑 쓴다" 안철수 발언 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20220712105101256</id>
-        <link href="https://v.daum.net/v/20220712105101256"/>
-        <updated>2022-07-12T02:28:18.887Z</updated>
-        <content type="html"><![CDATA[[김시연, 김예진 기자] ▲ &nbsp;안철수 국민의힘 의원은 7월 5일 중앙일보 인터뷰에서 “우리가 전기·물 모두 전 세계에서 제일 펑펑 물 쓰듯이 쓰는 나라”라며 자발적인 시민사회 운동을 제안했다. 사진은 지난 6월 14일 서울 여의도 국회에서 열린 국민의힘 의원총회 발언 모습.    ⓒ 공동취재사진  &nbsp; [검증대상] "우리가 전기·물 세계에서 제]]></content>
     </entry>
 </feed>

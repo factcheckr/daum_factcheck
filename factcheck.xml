@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-02T10:28:30.501Z</updated>
+    <updated>2022-09-02T11:23:20.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220902194800645</id>
+        <link href="https://v.daum.net/v/20220902194800645"/>
+        <updated>2022-09-02T11:22:15.862Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(과천=연합뉴스) 신준희 기자 = 한동훈 법무부 장관이 31일 오후 정부과천청사 법무부에서 론스타 국제투자분쟁(ISDS) 사건 판정 관련 브리핑을 하고 있다. 2022.8.31 [공동취재]    ⓒ 연합뉴스  &nbsp; [검증대상] "한국 정부가 론스타에 95% 승소" 법무부 주장 &nbsp;"결론적으로 론스타 측 청구금액 약 46.8억]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 고가 장신구 착용하고 출국할 땐 신고해야 한다?]]></title>
         <id>https://v.daum.net/v/20220902102008978</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220827080301455"/>
         <updated>2022-08-26T23:24:22.113Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 요즘 날씨가 너무 좋아요. 가을이 훌쩍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 활발한 여사님 행보..제2부속실 불필요?]]></title>
-        <id>https://v.daum.net/v/20220826202507823</id>
-        <link href="https://v.daum.net/v/20220826202507823"/>
-        <updated>2022-08-26T12:47:43.539Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 김건희 여사의 팬클럽을 통해 대통령의 일정이나 집무실 사진 등이 공개되면서 논란이 일고 있습니다. 윤석열 대통령은 후보 시절 '조용한 내조'를 내세우며, 제2부속실을 폐지하고, 역할도 축소하겠다고 했습니다. 김 여사 본인도 '아내 역할에만 충실하겠다'고 말했었죠. 당시에 했던 이런 말들이 잘 지켜지고]]></content>
     </entry>
 </feed>
