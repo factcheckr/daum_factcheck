@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-01T23:27:24.702Z</updated>
+    <updated>2022-09-02T02:36:49.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 고가 장신구 착용하고 출국할 땐 신고해야 한다?]]></title>
+        <id>https://v.daum.net/v/20220902102008978</id>
+        <link href="https://v.daum.net/v/20220902102008978"/>
+        <updated>2022-09-02T02:35:53.460Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령의 부인 김건희 여사가 북대서양조약기구(NATO·나토) 순방시 착용했던 고가의 장신구를 둘러싸고 정치권 안팎에서 진실 공방이 이어지고 있다. 해당 장신구가 재산 신고 내역에서 빠져 있다는 야당의 문제 제기에 대통령실은 "장신구 3점 중 2점은 지인에게 빌렸다. 1점은 소상공인에게 구입한 것으로 금액이 신고 대상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 월 27만 원 노인일자리, 용돈벌이 허드렛일?]]></title>
         <id>https://v.daum.net/v/20220901201911446</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220826202507823"/>
         <updated>2022-08-26T12:47:43.539Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 김건희 여사의 팬클럽을 통해 대통령의 일정이나 집무실 사진 등이 공개되면서 논란이 일고 있습니다. 윤석열 대통령은 후보 시절 '조용한 내조'를 내세우며, 제2부속실을 폐지하고, 역할도 축소하겠다고 했습니다. 김 여사 본인도 '아내 역할에만 충실하겠다'고 말했었죠. 당시에 했던 이런 말들이 잘 지켜지고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인]"'심심', '유선상' 몰라요"..실질 문맹률 75%?]]></title>
-        <id>https://v.daum.net/v/20220825194252877</id>
-        <link href="https://v.daum.net/v/20220825194252877"/>
-        <updated>2022-08-25T11:23:23.351Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 최근 '심심한 사과'를 심심하다는 의미로 알아듣고, '유선상'이란 말을 사람 이름으로 잘못 이해하면서 해프닝을 넘어 논란도 일었죠. 심지어 단어의 정확한 뜻을 이해한다는 의미의 문해력이 떨어진다는 '실질 문맹률'이 75%나 된다는 주장까지 나왔습니다. 정말 우리의 실질 문맹률이 이리 심각할까요? 이상협 기자가 사실확인에서 살]]></content>
     </entry>
 </feed>
