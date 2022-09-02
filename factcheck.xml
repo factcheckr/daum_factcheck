@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-02T22:25:53.140Z</updated>
+    <updated>2022-09-02T23:25:48.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]소비자 기만 '그린워싱 주의보'..친환경 석탄발전이 가능?]]></title>
+        <id>https://v.daum.net/v/20220903080300497</id>
+        <link href="https://v.daum.net/v/20220903080300497"/>
+        <updated>2022-09-02T23:24:45.081Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 그린워싱을 주제로 갖고 오셨는데]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 김건희 여사 일정, 직전 영부인과 비교해보니..]]></title>
+        <id>https://v.daum.net/v/20220903080005425</id>
+        <link href="https://v.daum.net/v/20220903080005425"/>
+        <updated>2022-09-02T23:24:45.082Z</updated>
+        <content type="html"><![CDATA[최근 김건희 여사의 팬클럽을 통해 기밀 사항인 대통령의 외부 일정이 공개되면서 논란이 일었습니다. 같은 날, 김 여사가 수해 현장에서 비공개 봉사활동을 해온 사실이 언론에 뒤늦게 공개되기도 했습니다. 대통령과 대통령 부인의 공식적인 일정과 행사가 공적으로 관리되지 못하고, 또 사후적으로라도 투명하게 공개되거나 기록으로 남겨지지 않는다는 비판이 제기됐습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20220902194800645</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220829201759328"/>
         <updated>2022-08-29T11:22:21.069Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 서울 도심의 흡연 부스 앞에서 시작합니다. 담배꽁초가 가득 든 젖병을 아기에게 물리는 모습, 오는 12월부터 담뱃갑에 새겨질 흡연 경고 그림입니다. 갈수록 충격의 강도를 더하는 흡연 경고 그림, 지난 2016년 도입돼 2년마다 바뀌는데요. 정말 흡연율을 떨어뜨리는지 따져봅니다. 경고 그림은 2001년 캐나다에서 처음 도입돼 지금은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 엇갈린 국민의힘 '비상상황'..과거에는?]]></title>
-        <id>https://v.daum.net/v/20220829100917768</id>
-        <link href="https://v.daum.net/v/20220829100917768"/>
-        <updated>2022-08-29T02:37:45.202Z</updated>
-        <content type="html"><![CDATA[국민의힘 비상대책위원회 전환의 효력을 정지해달라며 이준석 전 대표가 낸 가처분 신청을 법원이 받아들였습니다. 지도부의 정당성을 부정하는 법원 결정에 국민의힘은 혼란 속으로 빠져들었습니다.&nbsp; 비대위 체제는 당이 위기에 처해 있을 때 임시로 구성하는 당 지도부입니다. 위기를 극복하기 위한 '돌파구' 역할을 했습니다. 하지만 재판부는 국민의힘에 비대위를 둘 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]쌀값 폭락..쌀로 빵 만들면 가격 안정된다?]]></title>
-        <id>https://v.daum.net/v/20220827080301455</id>
-        <link href="https://v.daum.net/v/20220827080301455"/>
-        <updated>2022-08-26T23:24:22.113Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 요즘 날씨가 너무 좋아요. 가을이 훌쩍]]></content>
     </entry>
 </feed>
