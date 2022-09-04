@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-03T23:25:31.345Z</updated>
+    <updated>2022-09-04T02:35:16.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쓰레기집' 방치된 14살..미리 발견할 순 없었을까 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220904111502873</id>
+        <link href="https://v.daum.net/v/20220904111502873"/>
+        <updated>2022-09-04T02:34:10.296Z</updated>
+        <content type="html"><![CDATA[지난 2일 오후 서울 강남구 신사동 가로수길 곳곳에 있는 식당과 카페 유리창 너머로 여유롭게 웃음짓는 이들의 얼굴이 보였다. 이들의 얼굴을 지나쳐 300m가량 떨어진 주택가엔 중학생 ㄱ군(14)의 집이 있다. 주변엔 식당이 많지만 그는 몇달째 편의점 음식으로 끼니를 때웠다. 집은 쓰레기로 가득찼다. 어머니 40대 여성 ㄴ씨는 지난해 집에 들어오지 않는 날이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 尹정부 첫 복지예산안은 다정한 예산?]]></title>
+        <id>https://v.daum.net/v/20220904104007153</id>
+        <link href="https://v.daum.net/v/20220904104007153"/>
+        <updated>2022-09-04T02:34:10.302Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 윤석열 정부의 첫 예산안을 둘러싼 여야의 신경전이 가열되고 있다. 국민의힘 송언석 원내수석부대표는 지난 2일 MBC 라디오와의 인터뷰에서 "기초수급자, 노인, 장애인, 아동 등 취약계층 관련 핵심적인 복지지출을 무려 12%나 증액을 시켰다"며 "비정한 예산이 아니라 다정한 예산이라고 생각한다"고 말했다. 그러자 더불어민주당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]소비자 기만 '그린워싱 주의보'..친환경 석탄발전이 가능?]]></title>
         <id>https://v.daum.net/v/20220903080300497</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220830184908643"/>
         <updated>2022-08-30T10:26:35.679Z</updated>
         <content type="html"><![CDATA[어젯밤부터 인터넷 공간에서 논란이 된 사진이 있습니다. 최근 새로 단장한 광화문광장 버스정류장에 설치된 미술작품입니다. 일단 한번 보시죠. 일제강점기로 보이는 광화문의 모습입니다. 하늘 부위에 그려진 살구색 원이 우선 눈길을 사로잡습니다. 그 앞으로는 산이 펼쳐져 있고 두루미가 날아갑니다. 경복궁 정문 앞을 가로막고 서 있는 건 일제강점기에 세워진 조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 군대 사진 SNS 올리면..군기 교육? 휴가 제한?]]></title>
-        <id>https://v.daum.net/v/20220830172413105</id>
-        <link href="https://v.daum.net/v/20220830172413105"/>
-        <updated>2022-08-30T08:31:34.564Z</updated>
-        <content type="html"><![CDATA[군 내부 사진 유출이 잇따르고 있습니다. 최근에는 총기와 장갑차 사진이 SNS에 올라와 논란이 됐습니다. 보안 문제가 도마 위에 올랐습니다. 군사기밀을 유출하면 당연히 징역형도 가능합니다. SBS 팩트체크 사실은팀이 군사법원 판결문을 확인해보니, 방산업체에 군사기밀을 알려주거나, 해외 인터넷 사이트에 기밀을 올린 간부들이 군사법원에서 징역형을 선고받기도 했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]담뱃갑에 '꽁초 젖병' 새기면 흡연율 하락?]]></title>
-        <id>https://v.daum.net/v/20220829201759328</id>
-        <link href="https://v.daum.net/v/20220829201759328"/>
-        <updated>2022-08-29T11:22:21.069Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 서울 도심의 흡연 부스 앞에서 시작합니다. 담배꽁초가 가득 든 젖병을 아기에게 물리는 모습, 오는 12월부터 담뱃갑에 새겨질 흡연 경고 그림입니다. 갈수록 충격의 강도를 더하는 흡연 경고 그림, 지난 2016년 도입돼 2년마다 바뀌는데요. 정말 흡연율을 떨어뜨리는지 따져봅니다. 경고 그림은 2001년 캐나다에서 처음 도입돼 지금은]]></content>
     </entry>
 </feed>
