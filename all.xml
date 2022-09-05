@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-05T10:28:26.897Z</updated>
+    <updated>2022-09-05T11:23:47.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]피해 큰 '최악의 태풍', 이름도 영구제명? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220905194202356</id>
+        <link href="https://v.daum.net/v/20220905194202356"/>
+        <updated>2022-09-05T11:22:46.054Z</updated>
+        <content type="html"><![CDATA[11호 태풍 힌남노가 북상하면서 이곳 서울 한강에도 비바람이 몰아치고 있는데요. 그런데 힌남노, 원래 이름이 녹텐이었다는데 이름이 왜 바꾼 것인지, 바꾸는 이유는 무엇인지 스튜디오에서 알아봅니다. 태풍 이름은 우리나라, 중국 등 태풍위원회 14개 국가가 미리 정하는데요. 한 나라 당 10개씩, 모두 140개 이름이 제출돼 있고요. 태풍이 생기면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한국의 법인세, OECD 평균보다 많이 높나요? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220905095700221</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220902194800645"/>
         <updated>2022-09-02T11:22:15.862Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(과천=연합뉴스) 신준희 기자 = 한동훈 법무부 장관이 31일 오후 정부과천청사 법무부에서 론스타 국제투자분쟁(ISDS) 사건 판정 관련 브리핑을 하고 있다. 2022.8.31 [공동취재]    ⓒ 연합뉴스  &nbsp; [검증대상] "한국 정부가 론스타에 95% 승소" 법무부 주장 &nbsp;"결론적으로 론스타 측 청구금액 약 46.8억]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 고가 장신구 착용하고 출국할 땐 신고해야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220902102008978</id>
-        <link href="https://v.daum.net/v/20220902102008978"/>
-        <updated>2022-09-02T02:35:53.460Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령의 부인 김건희 여사가 북대서양조약기구(NATO·나토) 순방시 착용했던 고가의 장신구를 둘러싸고 정치권 안팎에서 진실 공방이 이어지고 있다. 해당 장신구가 재산 신고 내역에서 빠져 있다는 야당의 문제 제기에 대통령실은 "장신구 3점 중 2점은 지인에게 빌렸다. 1점은 소상공인에게 구입한 것으로 금액이 신고 대상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국의 법인세, OECD 평균보다 많이 높나요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피해 큰 '최악의 태풍', 이름도 영구제명? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220905194202356</id>
+        <link href="https://v.daum.net/v/20220905194202356"/>
+        <updated>2022-09-05T11:23:21.150Z</updated>
+        <content type="html"><![CDATA[11호 태풍 힌남노가 북상하면서 이곳 서울 한강에도 비바람이 몰아치고 있는데요. 그런데 힌남노, 원래 이름이 녹텐이었다는데 이름이 왜 바꾼 것인지, 바꾸는 이유는 무엇인지 스튜디오에서 알아봅니다. 태풍 이름은 우리나라, 중국 등 태풍위원회 14개 국가가 미리 정하는데요. 한 나라 당 10개씩, 모두 140개 이름이 제출돼 있고요. 태풍이 생기면]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[생생한 '은행 강도 몽타주', 어떻게 그렸나 (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220831201055264</id>
         <link href="https://v.daum.net/v/20220831201055264"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20220725195354910"/>
         <updated>2022-07-25T11:21:44.867Z</updated>
         <content type="html"><![CDATA[[윤국현 / 서울 종로경찰서 지능팀장] "80년대 초반에 신축이 되서 엘리베이터 설치가 안 돼있는 경찰서예요." [박경석 / 전국장애인차별철폐연대 공동대표] "법에 의해서 정당하게 장애인들에게 제공해야 될 편의시설이 갖춰지지 않은…" 장애인 예산을 편성해달라며 지하철을 막은 전국장애인차별철폐연대. 엘리베이터 없는 경찰서는 불법이라며 경찰 조사도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영상 안 찍혔다"..불법촬영 기준은? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20220720195359770</id>
-        <link href="https://v.daum.net/v/20220720195359770"/>
-        <updated>2022-07-20T11:25:29.019Z</updated>
-        <content type="html"><![CDATA[인하대 성폭행 사망사건의 피의자, 범행 당시 불법촬영을 시도한 사실도 드러났죠. 영상은 제대로 안 찍히고 음성만 기록됐지만 경찰은 불법촬영 혐의 적용을 검토 중인데요. 영상이 안 찍힌 상황에서도 불법촬영이 성립할지, 판례를 통해 살펴봅니다. 결론부터 말씀드리면 녹화가 제대로 안 됐어도 불법촬영, 인정될 수 있습니다. 지난 2017년 일인데요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
