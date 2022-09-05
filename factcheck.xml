@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-05T12:49:39.327Z</updated>
+    <updated>2022-09-05T13:49:23.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 피해규모·지역따라 다르다..소상공인 수해지원 어떻게?]]></title>
+        <id>https://v.daum.net/v/20220905220434528</id>
+        <link href="https://v.daum.net/v/20220905220434528"/>
+        <updated>2022-09-05T13:48:10.685Z</updated>
+        <content type="html"><![CDATA[[앵커] 지난달 집중호우에 이어 이번 태풍까지, 추석을 앞둔 소상공인들의 한숨도 깊습니다. 제주와 남부 지역은 물론 지난 달에 이미 비 피해를 입었던 수도권과 강원 지역도 걱정인데요. 수해를 입었을 경우 지원을 받는 대상이 피해 규모 뿐 아니라 지역에 따라 달라지는데, 여기에 대한 여당 관계자의 말도 현실과 조금 다르다고 합니다. 팩트체크로 따져보겠습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]피해 큰 '최악의 태풍', 이름도 영구제명?]]></title>
         <id>https://v.daum.net/v/20220905194202356</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220903080005425"/>
         <updated>2022-09-02T23:24:45.082Z</updated>
         <content type="html"><![CDATA[최근 김건희 여사의 팬클럽을 통해 기밀 사항인 대통령의 외부 일정이 공개되면서 논란이 일었습니다. 같은 날, 김 여사가 수해 현장에서 비공개 봉사활동을 해온 사실이 언론에 뒤늦게 공개되기도 했습니다. 대통령과 대통령 부인의 공식적인 일정과 행사가 공적으로 관리되지 못하고, 또 사후적으로라도 투명하게 공개되거나 기록으로 남겨지지 않는다는 비판이 제기됐습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20220902194800645</id>
-        <link href="https://v.daum.net/v/20220902194800645"/>
-        <updated>2022-09-02T11:22:15.862Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(과천=연합뉴스) 신준희 기자 = 한동훈 법무부 장관이 31일 오후 정부과천청사 법무부에서 론스타 국제투자분쟁(ISDS) 사건 판정 관련 브리핑을 하고 있다. 2022.8.31 [공동취재]    ⓒ 연합뉴스  &nbsp; [검증대상] "한국 정부가 론스타에 95% 승소" 법무부 주장 &nbsp;"결론적으로 론스타 측 청구금액 약 46.8억]]></content>
     </entry>
 </feed>
