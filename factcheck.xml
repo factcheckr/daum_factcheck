@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-06T11:22:36.947Z</updated>
+    <updated>2022-09-06T12:53:41.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
+        <id>https://v.daum.net/v/20220906203905207</id>
+        <link href="https://v.daum.net/v/20220906203905207"/>
+        <updated>2022-09-06T12:52:43.993Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 과거 사례를 돌아보면 지금까지 우리나라에 큰 피해를 줬던 태풍은 대부분 가을쯤 찾아왔습니다. 그럼 여름보다 가을 태풍이 피해 규모가 정말 큰 건지, 저희 사실은 팀이 최근 약 20년 동안 태풍을 분석해서 계산해 봤습니다. 그 내용, 이경원 기자가 전해드립니다. &lt;기자&gt; 세부적인 피해 집계 데이터 활용이 가능한 최근 20년여 기간, 세계에서 발생한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['은퇴자 지갑털기?'..연금 170만원인데 건보료 무임승차라뇨 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20220906050502854</id>
+        <link href="https://v.daum.net/v/20220906050502854"/>
+        <updated>2022-09-06T12:52:43.995Z</updated>
+        <content type="html"><![CDATA[‘은퇴자 지갑털기’ ‘은퇴자 날벼락’ 건강보험료 2단계 부과체계 개편의 일환으로 이달부터 정부의 건강보험료 피부양자 소득 요건이 강화된 것을 두고 보수 언론과 커뮤니티에서 나오는 표현이다. 약 27만여명이 피부양자 자격을 잃고 건보료를 내게 됐는데, 상당수가 연금소득에 의지하는 은퇴자이기에 부담이 크다는 지적이다. 하지만 이번 개편은 경제적 여력이 있음에도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 기후변화가 힌남노 '역대 최강'으로 만들었다?]]></title>
         <id>https://v.daum.net/v/20220905233116456</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220904111502873"/>
         <updated>2022-09-04T02:34:10.296Z</updated>
         <content type="html"><![CDATA[2일 오후 서울 강남구 신사동 가로수길 곳곳에 있는 식당과 카페 유리창 너머로 여유롭게 웃음짓는 이들의 얼굴이 보였다. 이들의 얼굴을 지나쳐 300m가량 떨어진 주택가엔 중학생 ㄱ군(14)의 집이 있다. 주변엔 식당이 많지만 그는 몇달째 편의점 음식으로 끼니를 때웠다. 집은 쓰레기로 가득찼다. 어머니 ㄴ씨는 지난해 집에 들어오지 않는 날이 잦아지더니 올해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 尹정부 첫 복지예산안은 다정한 예산?]]></title>
-        <id>https://v.daum.net/v/20220904104007153</id>
-        <link href="https://v.daum.net/v/20220904104007153"/>
-        <updated>2022-09-04T02:34:10.302Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 윤석열 정부의 첫 예산안을 둘러싼 여야의 신경전이 가열되고 있다. 국민의힘 송언석 원내수석부대표는 지난 2일 MBC 라디오와의 인터뷰에서 "기초수급자, 노인, 장애인, 아동 등 취약계층 관련 핵심적인 복지지출을 무려 12%나 증액을 시켰다"며 "비정한 예산이 아니라 다정한 예산이라고 생각한다"고 말했다. 그러자 더불어민주당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]소비자 기만 '그린워싱 주의보'..친환경 석탄발전이 가능?]]></title>
-        <id>https://v.daum.net/v/20220903080300497</id>
-        <link href="https://v.daum.net/v/20220903080300497"/>
-        <updated>2022-09-02T23:24:45.081Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 그린워싱을 주제로 갖고 오셨는데]]></content>
     </entry>
 </feed>

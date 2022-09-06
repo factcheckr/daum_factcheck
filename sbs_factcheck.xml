@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-09-06T11:22:36.943Z</updated>
+    <updated>2022-09-06T12:53:41.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
+        <id>https://v.daum.net/v/20220906203905207</id>
+        <link href="https://v.daum.net/v/20220906203905207"/>
+        <updated>2022-09-06T12:52:53.425Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 과거 사례를 돌아보면 지금까지 우리나라에 큰 피해를 줬던 태풍은 대부분 가을쯤 찾아왔습니다. 그럼 여름보다 가을 태풍이 피해 규모가 정말 큰 건지, 저희 사실은 팀이 최근 약 20년 동안 태풍을 분석해서 계산해 봤습니다. 그 내용, 이경원 기자가 전해드립니다. &lt;기자&gt; 세부적인 피해 집계 데이터 활용이 가능한 최근 20년여 기간, 세계에서 발생한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 법인세, OECD 평균보다 많이 높나요?]]></title>
         <id>https://v.daum.net/v/20220905095700221</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220719100900394"/>
         <updated>2022-07-19T02:31:34.234Z</updated>
         <content type="html"><![CDATA[국회의원 임기는 4년입니다. 보통 첫 2년을 전반기, 그 이후를 후반기로 부릅니다. 편의상 그렇게 부르는 건 아니고, 2년 주기로 국회를 이끌어 가는 주요 보직이 바뀝니다. 국회의장과 부의장, 상임위원장 등입니다. 물론 여야 간의 협상을 통해 이뤄집니다. 이를 '원 구성 협상'이라고 부릅니다. 뉴스에서 많이 보셨겠지만, 지금 원 구성 협상이 잘 안 되고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북송 두고 범죄인 · 준외국인 논란..법 따져보니]]></title>
-        <id>https://v.daum.net/v/20220714202405629</id>
-        <link href="https://v.daum.net/v/20220714202405629"/>
-        <updated>2022-07-14T12:52:49.270Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 보신 것처럼 이번 논란 쉽게 마무리되기는 어려워 보이는데, 저희 팩트체크 '사실은'팀에서 관련법을 기준으로 여야 양쪽의 주장을 하나씩 짚어보겠습니다. 이경원 기자입니다. &lt;기자&gt; [강인선/대통령실 대변인 : 만약 귀순 의사를 밝혔음에도 강제로 북송을 했다면 이는 국제법과 헌법을 모두 위반한….] 유엔 고문방지협약은 개인을 고문 위험 국가로 추방하는]]></content>
     </entry>
 </feed>
