@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-07T20:31:14.580Z</updated>
+    <updated>2022-09-07T21:24:57.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 명절 고속도로 통행료 면제하면 도로공사 부채 가중된다?]]></title>
+        <id>https://v.daum.net/v/20220908060035109</id>
+        <link href="https://v.daum.net/v/20220908060035109"/>
+        <updated>2022-09-07T21:23:47.659Z</updated>
+        <content type="html"><![CDATA['민족 대이동'이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞이하는 첫 명절입니다. 정부는 추석 민생대책의 하나로 추석 연휴 나흘간 전국 고속도로 통행료를 면제하기로 했습니다. 언뜻 보면 좋기만 한 정책 같은데 누리꾼 반응은 다소 갈립니다. 해당 기사들에 달린 댓글을 보면 "명절 고속도로 통행료 면제가 한국도로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]포항 주차장엔 차수판 없었다..이유는?]]></title>
         <id>https://v.daum.net/v/20220907195854062</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220905194202356"/>
         <updated>2022-09-05T11:22:46.054Z</updated>
         <content type="html"><![CDATA[11호 태풍 힌남노가 북상하면서 이곳 서울 한강에도 비바람이 몰아치고 있는데요. 그런데 힌남노, 원래 이름이 녹텐이었다는데 이름이 왜 바꾼 것인지, 바꾸는 이유는 무엇인지 스튜디오에서 알아봅니다. 태풍 이름은 우리나라, 중국 등 태풍위원회 14개 국가가 미리 정하는데요. 한 나라 당 10개씩, 모두 140개 이름이 제출돼 있고요. 태풍이 생기면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한국의 법인세, OECD 평균보다 많이 높나요?]]></title>
-        <id>https://v.daum.net/v/20220905095700221</id>
-        <link href="https://v.daum.net/v/20220905095700221"/>
-        <updated>2022-09-05T02:37:45.666Z</updated>
-        <content type="html"><![CDATA[윤석열 정부가 법인세 최고세율 25%를 22%로 되돌리는 감세안을 추진하고 있습니다. 22%는 문재인 정부 출범 이전 수치입니다. 윤석열 정부 첫 정기국회의 핵심 쟁점이 될 전망입니다. 윤석열 대통령의 대선 공약이기도 했습니다. 이재명 대표 체제 출범 직후인 지난 1일, 한덕수 국무총리가 이 대표의 당선을 축하해온 자리에서 법인세 공방이 이어졌습니다. 대]]></content>
     </entry>
 </feed>

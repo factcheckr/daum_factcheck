@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-07T20:31:14.591Z</updated>
+    <updated>2022-09-07T21:24:57.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 명절 고속도로 통행료 면제하면 도로공사 부채 가중된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220908060035109</id>
+        <link href="https://v.daum.net/v/20220908060035109"/>
+        <updated>2022-09-07T21:23:47.659Z</updated>
+        <content type="html"><![CDATA['민족 대이동'이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞이하는 첫 명절입니다. 정부는 추석 민생대책의 하나로 추석 연휴 나흘간 전국 고속도로 통행료를 면제하기로 했습니다. 언뜻 보면 좋기만 한 정책 같은데 누리꾼 반응은 다소 갈립니다. 해당 기사들에 달린 댓글을 보면 "명절 고속도로 통행료 면제가 한국도로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]포항 주차장엔 차수판 없었다..이유는? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220907195854062</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220905194202356"/>
         <updated>2022-09-05T11:22:46.054Z</updated>
         <content type="html"><![CDATA[11호 태풍 힌남노가 북상하면서 이곳 서울 한강에도 비바람이 몰아치고 있는데요. 그런데 힌남노, 원래 이름이 녹텐이었다는데 이름이 왜 바꾼 것인지, 바꾸는 이유는 무엇인지 스튜디오에서 알아봅니다. 태풍 이름은 우리나라, 중국 등 태풍위원회 14개 국가가 미리 정하는데요. 한 나라 당 10개씩, 모두 140개 이름이 제출돼 있고요. 태풍이 생기면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한국의 법인세, OECD 평균보다 많이 높나요? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220905095700221</id>
-        <link href="https://v.daum.net/v/20220905095700221"/>
-        <updated>2022-09-05T02:37:45.666Z</updated>
-        <content type="html"><![CDATA[윤석열 정부가 법인세 최고세율 25%를 22%로 되돌리는 감세안을 추진하고 있습니다. 22%는 문재인 정부 출범 이전 수치입니다. 윤석열 정부 첫 정기국회의 핵심 쟁점이 될 전망입니다. 윤석열 대통령의 대선 공약이기도 했습니다. 이재명 대표 체제 출범 직후인 지난 1일, 한덕수 국무총리가 이 대표의 당선을 축하해온 자리에서 법인세 공방이 이어졌습니다. 대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 리포트 ▶ 알고보니 시작합니다. 새 정부가 14년만에 법인세 감세를 다시 추진하기로 했습니다. 세금을 깎아준만큼 기업들엔 여유자금이 생기고 이를 투자하도록 유도해 경제를 활성화키겠다는 건데요. 하지만 이른바 '부자감세' 논란과 함께, 항간에선 담뱃값이 또 오르는 거 아니냐는 우려까지 나오고 있는데요. 왜 이런 우려가 나오는 지, 정말]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[명절 고속도로 통행료 면제하면 도로공사 부채 가중된다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20220908060035109</id>
+        <link href="https://v.daum.net/v/20220908060035109"/>
+        <updated>2022-09-07T21:24:16.728Z</updated>
+        <content type="html"><![CDATA['민족 대이동'이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞이하는 첫 명절입니다. 정부는 추석 민생대책의 하나로 추석 연휴 나흘간 전국 고속도로 통행료를 면제하기로 했습니다. 언뜻 보면 좋기만 한 정책 같은데 누리꾼 반응은 다소 갈립니다. 해당 기사들에 달린 댓글을 보면 "명절 고속도로 통행료 면제가 한국도로]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['대통령 취임식 초청자 명단' 폐기해도 문제 없다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20220825070020027</id>
         <link href="https://v.daum.net/v/20220825070020027"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220531083148616"/>
         <updated>2022-05-31T02:07:01.141Z</updated>
         <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원 제조업 경기 'V 반등' vs 'L 침체', 사실은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220530221003286</id>
-        <link href="https://v.daum.net/v/20220530221003286"/>
-        <updated>2022-05-30T13:46:19.252Z</updated>
-        <content type="html"><![CDATA[[KBS 창원] [앵커] 창원시장 후보들이 제조업 경기를 놓고 벌인 '알파벳 논쟁'을 짚어봅니다. 현 시장인 더불어민주당 허성무 후보는 'V'자 반등에 성공했다고, 국민의힘 홍남표 후보는 급격한 추락 뒤 침체한 'L'자형 어려움을 겪고 있다고 주장했는데요. 어떤 진단이 맞는지, 팩트체크했습니다. 심층기획팀, 이대완 기자입니다. [리포트] 지난 24일 열린]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포항 주차장엔 차수판 없었다..이유는? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
