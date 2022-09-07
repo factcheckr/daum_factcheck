@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-07T05:02:49.746Z</updated>
+    <updated>2022-09-07T07:01:43.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 내년 9급 1호봉 급여는 수당 포함 200만원을 넘지 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220907154827618</id>
+        <link href="https://v.daum.net/v/20220907154827618"/>
+        <updated>2022-09-07T07:00:33.863Z</updated>
+        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 정부가 8월 30일 국무회의에서 내년도 예산안을 의결하며 2023년 공무원 임금을 1.7% 인상하겠다고 밝혔다. 이날 한덕수 국무총리는 “최근 수년간 지나친 확장적 재정 운용으로 국가 채무가 5년 새 폭증했다”며 정부가 사실상 긴축 재정에 돌입할 것이라고 말했다. 공직사회는 즉각 반발하며 이번 임금 인상안 결정을 두고 정부와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220906203905207</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220904155124789"/>
         <updated>2022-09-04T07:22:32.284Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 윤석열 정부의 첫 예산안을 둘러싼 여야의 신경전이 가열되고 있다. 국민의힘 송언석 원내수석부대표는 지난 2일 MBC 라디오와의 인터뷰에서 "기초수급자, 노인, 장애인, 아동 등 취약계층 관련 핵심적인 복지지출을 무려 12%나 증액을 시켰다"며 "비정한 예산이 아니라 다정한 예산이라고 생각한다"고 말했다. 그러자 더불어민주당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남 한복판 '쓰레기집'..홀로 남겨진14살, 아무도 모른다 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220904111502873</id>
-        <link href="https://v.daum.net/v/20220904111502873"/>
-        <updated>2022-09-04T02:34:10.296Z</updated>
-        <content type="html"><![CDATA[2일 오후 서울 강남구 신사동 가로수길 곳곳에 있는 식당과 카페 유리창 너머로 여유롭게 웃음짓는 이들의 얼굴이 보였다. 이들의 얼굴을 지나쳐 300m가량 떨어진 주택가엔 중학생 ㄱ군(14)의 집이 있다. 주변엔 식당이 많지만 그는 몇달째 편의점 음식으로 끼니를 때웠다. 집은 쓰레기로 가득찼다. 어머니 ㄴ씨는 지난해 집에 들어오지 않는 날이 잦아지더니 올해]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ SBS 사실은)]]></title>
