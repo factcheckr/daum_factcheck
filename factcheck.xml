@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-07T09:26:41.156Z</updated>
+    <updated>2022-09-07T10:31:31.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20220907183601172</id>
+        <link href="https://v.daum.net/v/20220907183601172"/>
+        <updated>2022-09-07T10:30:25.730Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최영갑 성균관 의례정립위원회 위원장(왼쪽 두 번째)이 5일 서울 중구 한국프레스센터에서 '차례 간소화' 방안을 발표 후 간소화 방안대로 차린 차례상을 지켜보고 있다. 2022.9.5 [성균관 의례정립위원회 제공]    ⓒ 연합뉴스  [검증대상] "차례상에 전 빠져도 되고, '홍동백서' 등 근거 없다" 성균관 발표 &nbsp;"기름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 내년 공공임대주택 공급물량 줄지 않는다?]]></title>
         <id>https://v.daum.net/v/20220907164506524</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220905091016156"/>
         <updated>2022-09-05T02:37:45.668Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 3일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 변기세정제? 탈취제? 포털에 올라온]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나 확진으로 생긴 면역, 1년 유지..그럼 4차 접종은?]]></title>
-        <id>https://v.daum.net/v/20220905090901096</id>
-        <link href="https://v.daum.net/v/20220905090901096"/>
-        <updated>2022-09-05T02:37:45.672Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 3일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 코로나 확진으로 생긴 면역, 1년]]></content>
     </entry>
 </feed>

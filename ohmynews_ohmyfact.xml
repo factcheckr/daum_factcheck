@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-09-07T09:26:41.162Z</updated>
+    <updated>2022-09-07T10:31:31.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실']]></title>
+        <id>https://v.daum.net/v/20220907183601172</id>
+        <link href="https://v.daum.net/v/20220907183601172"/>
+        <updated>2022-09-07T10:31:22.279Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최영갑 성균관 의례정립위원회 위원장(왼쪽 두 번째)이 5일 서울 중구 한국프레스센터에서 '차례 간소화' 방안을 발표 후 간소화 방안대로 차린 차례상을 지켜보고 있다. 2022.9.5 [성균관 의례정립위원회 제공]    ⓒ 연합뉴스  [검증대상] "차례상에 전 빠져도 되고, '홍동백서' 등 근거 없다" 성균관 발표 &nbsp;"기름]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["론스타에 95% 승소" 법무부 주장은 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20220902194800645</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220720095701747"/>
         <updated>2022-07-20T02:19:32.017Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 윤석열 대통령이 14일 오전 서울 중구 서민금융통합지원센터에서 열린 제2차 비상경제민생회의를 주재하고 있다. 윤 대통령 오른쪽 에어컨 상단에 '21도'로 표시돼 있다(빨간색 원).  2022.7.14 [대통령실통신사진기자단]    ⓒ 연합뉴스  [검증대상] "윤 대통령, 공공기관 적정온도 28℃보다 낮은 21℃에서 회의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["WHO가 퀴어퍼레이드 원숭이두창 확산 경고" 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20220714100302382</id>
-        <link href="https://v.daum.net/v/20220714100302382"/>
-        <updated>2022-07-14T02:27:08.541Z</updated>
-        <content type="html"><![CDATA[[김예진 기자] ▲ &nbsp;서울광장퀴어행사반대서명운동을 벌인 종교 단체 관계자들이 지난 7일 오후 서울시청 앞에서 오는 16일 예정된 서울광장 퀴어행사 중단 촉구 및 오세훈 시장 규탄 기자회견을 하고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "WHO, 퀴어퍼레이드서 원숭이두창 확산경고" 퀴어축제 반대단체 주장 '서울광장 퀴어행사반대 서명운동' 참]]></content>
     </entry>
 </feed>
