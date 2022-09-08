@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-08T04:44:46.757Z</updated>
+    <updated>2022-09-08T06:06:31.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경관 지키려 마린시티에 차수벽 설치 안했다?]]></title>
+        <id>https://v.daum.net/v/20220908145542962</id>
+        <link href="https://v.daum.net/v/20220908145542962"/>
+        <updated>2022-09-08T06:05:27.374Z</updated>
+        <content type="html"><![CDATA[(부산=연합뉴스) 손형주 기자 = 제11호 태풍 '힌남노' 내습을 계기로 태풍만 오면 방파제를 넘은 파도(월파) 피해를 되풀이하는 부산 해운대구 마린시티를 두고 논란이 뜨겁다. 힌남노가 지나간 하루 뒤인 8일에도 온라인상에는 마산항이 2ｍ 높이의 기립식 차수벽을 세워 태풍 피해를 막은 것과 비교하며 마린시티 주민과 상가들이 경관을 지키려는 욕심에 방재시설]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 명절 고속도로 통행료 면제하면 도로공사 부채 가중된다?]]></title>
         <id>https://v.daum.net/v/20220908060035109</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220905220434528"/>
         <updated>2022-09-05T13:48:10.685Z</updated>
         <content type="html"><![CDATA[[앵커] 지난달 집중호우에 이어 이번 태풍까지, 추석을 앞둔 소상공인들의 한숨도 깊습니다. 제주와 남부 지역은 물론 지난 달에 이미 비 피해를 입었던 수도권과 강원 지역도 걱정인데요. 수해를 입었을 경우 지원을 받는 대상이 피해 규모 뿐 아니라 지역에 따라 달라지는데, 여기에 대한 여당 관계자의 말도 현실과 조금 다르다고 합니다. 팩트체크로 따져보겠습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]피해 큰 '최악의 태풍', 이름도 영구제명?]]></title>
-        <id>https://v.daum.net/v/20220905194202356</id>
-        <link href="https://v.daum.net/v/20220905194202356"/>
-        <updated>2022-09-05T11:22:46.054Z</updated>
-        <content type="html"><![CDATA[11호 태풍 힌남노가 북상하면서 이곳 서울 한강에도 비바람이 몰아치고 있는데요. 그런데 힌남노, 원래 이름이 녹텐이었다는데 이름이 왜 바꾼 것인지, 바꾸는 이유는 무엇인지 스튜디오에서 알아봅니다. 태풍 이름은 우리나라, 중국 등 태풍위원회 14개 국가가 미리 정하는데요. 한 나라 당 10개씩, 모두 140개 이름이 제출돼 있고요. 태풍이 생기면]]></content>
     </entry>
 </feed>
