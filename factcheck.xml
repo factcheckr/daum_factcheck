@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-09T22:27:21.978Z</updated>
+    <updated>2022-09-09T23:30:03.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
+        <id>https://v.daum.net/v/20220910080008067</id>
+        <link href="https://v.daum.net/v/20220910080008067"/>
+        <updated>2022-09-09T23:29:04.269Z</updated>
+        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
+        <id>https://v.daum.net/v/20220910075821039</id>
+        <link href="https://v.daum.net/v/20220910075821039"/>
+        <updated>2022-09-09T23:29:04.270Z</updated>
+        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 우리나라만 전기차 우대 안 한다?]]></title>
+        <id>https://v.daum.net/v/20220910073411836</id>
+        <link href="https://v.daum.net/v/20220910073411836"/>
+        <updated>2022-09-09T23:29:04.273Z</updated>
+        <content type="html"><![CDATA[[앵커] 미국에서 생산하거나 조립한 전기차에만 보조금을 지원해주는 '인플레이션 감축법' 이후 다른 나라들의 보조금 정책에도 관심이 높아지고 있습니다. 중국이나 일본 등 해외에서는 자기 나라 기업에 유리한 보조금 정책을 펼치고 있는데, 우리만 외국산 전기차에 보조금을 퍼주고 있다는 주장이 나오는데요, 맞는 말인지, 신지원 기자가 펙트체크했습니다. [기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] '심정지'인데 '구조'라고? 구조 뜻도 모르는 언론?]]></title>
         <id>https://v.daum.net/v/20220909090059543</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220907154827618"/>
         <updated>2022-09-07T07:00:33.863Z</updated>
         <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 정부가 8월 30일 국무회의에서 내년도 예산안을 의결하며 2023년 공무원 임금을 1.7% 인상하겠다고 밝혔다. 이날 한덕수 국무총리는 “최근 수년간 지나친 확장적 재정 운용으로 국가 채무가 5년 새 폭증했다”며 정부가 사실상 긴축 재정에 돌입할 것이라고 말했다. 공직사회는 즉각 반발하며 이번 임금 인상안 결정을 두고 정부와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
-        <id>https://v.daum.net/v/20220906203905207</id>
-        <link href="https://v.daum.net/v/20220906203905207"/>
-        <updated>2022-09-06T12:52:43.993Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 과거 사례를 돌아보면 지금까지 우리나라에 큰 피해를 줬던 태풍은 대부분 가을쯤 찾아왔습니다. 그럼 여름보다 가을 태풍이 피해 규모가 정말 큰 건지, 저희 사실은 팀이 최근 약 20년 동안 태풍을 분석해서 계산해 봤습니다. 그 내용, 이경원 기자가 전해드립니다. &lt;기자&gt; 세부적인 피해 집계 데이터 활용이 가능한 최근 20년여 기간, 세계에서 발생한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은퇴자 지갑털기?'..연금 170만원인데 건보료 무임승차라뇨 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20220906050502854</id>
-        <link href="https://v.daum.net/v/20220906050502854"/>
-        <updated>2022-09-06T12:52:43.995Z</updated>
-        <content type="html"><![CDATA[‘은퇴자 지갑털기’ ‘은퇴자 날벼락’ 건강보험료 2단계 부과체계 개편의 일환으로 이달부터 정부의 건강보험료 피부양자 소득 요건이 강화된 것을 두고 보수 언론과 커뮤니티에서 나오는 표현이다. 약 27만여명이 피부양자 자격을 잃고 건보료를 내게 됐는데, 상당수가 연금소득에 의지하는 은퇴자이기에 부담이 크다는 지적이다. 하지만 이번 개편은 경제적 여력이 있음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 기후변화가 힌남노 '역대 최강'으로 만들었다?]]></title>
-        <id>https://v.daum.net/v/20220905233116456</id>
-        <link href="https://v.daum.net/v/20220905233116456"/>
-        <updated>2022-09-05T15:26:51.934Z</updated>
-        <content type="html"><![CDATA[[앵커] 인터넷을 중심으로 기후변화가 태풍 '힌남노'를 역대 최강으로 만들었다는 주장이 나오고 있습니다. 바닷물 온도가 높아져 태풍의 강도가 세졌다는 건데요. 맞는 말인지, 박희재 기자가 따져봤습니다. [기자] 20년 전, 우리나라를 쑥대밭으로 만들었던 태풍 루사의 발생 위치입니다. 적도에서 그리 멀지 않은 위도 16도 부근으로, 태풍이 흔히 발]]></content>
     </entry>
 </feed>
