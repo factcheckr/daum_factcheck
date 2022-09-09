@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-08T23:29:20.200Z</updated>
+    <updated>2022-09-09T02:42:26.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] '심정지'인데 '구조'라고? 구조 뜻도 모르는 언론?]]></title>
+        <id>https://v.daum.net/v/20220909090059543</id>
+        <link href="https://v.daum.net/v/20220909090059543"/>
+        <updated>2022-09-09T02:41:21.079Z</updated>
+        <content type="html"><![CDATA[제11호 태풍 '힌남노'는 한반도를 할퀴고 지나가면서 곳곳에 생채기를 냈습니다. 태풍 피해가 막바지에 달했던 지난 6일에는 경북 포항의 아파트 주민들이 지하주차장에 댄 차를 빼러 갔다가 물이 차면서 실종됐다는 안타까운 소식도 있었습니다. 다음 날(7일) 오전,  각 언론매체들은 실종자 수색 결과와 관련한 기사들을 잇따라 내놓았는데요. 그런데 이 기사들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경관 지키려 마린시티에 차수벽 설치 안했다?]]></title>
         <id>https://v.daum.net/v/20220908145542962</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220905233116456"/>
         <updated>2022-09-05T15:26:51.934Z</updated>
         <content type="html"><![CDATA[[앵커] 인터넷을 중심으로 기후변화가 태풍 '힌남노'를 역대 최강으로 만들었다는 주장이 나오고 있습니다. 바닷물 온도가 높아져 태풍의 강도가 세졌다는 건데요. 맞는 말인지, 박희재 기자가 따져봤습니다. [기자] 20년 전, 우리나라를 쑥대밭으로 만들었던 태풍 루사의 발생 위치입니다. 적도에서 그리 멀지 않은 위도 16도 부근으로, 태풍이 흔히 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 피해규모·지역따라 다르다..소상공인 수해지원 어떻게?]]></title>
-        <id>https://v.daum.net/v/20220905220434528</id>
-        <link href="https://v.daum.net/v/20220905220434528"/>
-        <updated>2022-09-05T13:48:10.685Z</updated>
-        <content type="html"><![CDATA[[앵커] 지난달 집중호우에 이어 이번 태풍까지, 추석을 앞둔 소상공인들의 한숨도 깊습니다. 제주와 남부 지역은 물론 지난 달에 이미 비 피해를 입었던 수도권과 강원 지역도 걱정인데요. 수해를 입었을 경우 지원을 받는 대상이 피해 규모 뿐 아니라 지역에 따라 달라지는데, 여기에 대한 여당 관계자의 말도 현실과 조금 다르다고 합니다. 팩트체크로 따져보겠습니다.]]></content>
     </entry>
 </feed>
