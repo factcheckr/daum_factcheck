@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-12T10:30:59.386Z</updated>
+    <updated>2022-09-12T11:24:15.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]뻥 뚫린 도로가 갑자기 막힌다..'유령 정체' 원인은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220912195702257</id>
+        <link href="https://v.daum.net/v/20220912195702257"/>
+        <updated>2022-09-12T11:23:12.245Z</updated>
+        <content type="html"><![CDATA[[기자] 팩트맨, 고속도로에서 시작합니다. 추석 연휴 귀성길, 귀경길 정체가 심했죠. 그런데 갑자기 잘 달리다가 이유 없이 막히는 경험들, 한 번씩 해보셨을 겁니다. 원인을 알 수 없는 유령 정체, 왜 생기는 건지 스튜디오에서 알아봅니다. 2008년 일본 연구진이 촬영한 실험 영상을 보죠. 원형 도로를 따라 차량 22대가 시속 30km로 달립]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 국회 통과한 특검법안은 모두 여야 합의였다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220912091506137</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220907195854062"/>
         <updated>2022-09-07T11:22:37.566Z</updated>
         <content type="html"><![CDATA[[앵커] 오늘 팩트맨은 서울 강남역에서 시작합니다. 지난달 내린 집중 호우에 이곳 일대가 물에 잠겼었죠. 하지만 차수판을 설치한 건물은 침수 피해를 피할 수 있었는데요. 태풍 힌남노가 상륙했을 때 지하 주차장이 물에 잠긴 포항 아파트처럼 차수판 없는 건물, 여전히 많습니다. 그 이유가 뭔지 스튜디오에서 알아봅니다. 결론부터 말씀드리면 설치 의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220907183601172</id>
-        <link href="https://v.daum.net/v/20220907183601172"/>
-        <updated>2022-09-07T10:30:25.730Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최영갑 성균관 의례정립위원회 위원장(왼쪽 두 번째)이 5일 서울 중구 한국프레스센터에서 '차례 간소화' 방안을 발표 후 간소화 방안대로 차린 차례상을 지켜보고 있다. 2022.9.5 [성균관 의례정립위원회 제공]    ⓒ 연합뉴스  [검증대상] "차례상에 전 빠져도 되고, '홍동백서' 등 근거 없다" 성균관 발표 &nbsp;"기름]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[[KBS 창원] 이대완 기자 (bigbowl@kbs.co.kr)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뻥 뚫린 도로가 갑자기 막힌다..'유령 정체' 원인은? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20220912195702257</id>
+        <link href="https://v.daum.net/v/20220912195702257"/>
+        <updated>2022-09-12T11:23:48.928Z</updated>
+        <content type="html"><![CDATA[[기자] 팩트맨, 고속도로에서 시작합니다. 추석 연휴 귀성길, 귀경길 정체가 심했죠. 그런데 갑자기 잘 달리다가 이유 없이 막히는 경험들, 한 번씩 해보셨을 겁니다. 원인을 알 수 없는 유령 정체, 왜 생기는 건지 스튜디오에서 알아봅니다. 2008년 일본 연구진이 촬영한 실험 영상을 보죠. 원형 도로를 따라 차량 22대가 시속 30km로 달립]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[포항 주차장엔 차수판 없었다..이유는? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20220907195854062</id>
         <link href="https://v.daum.net/v/20220907195854062"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20220801195555460"/>
         <updated>2022-08-01T11:20:49.499Z</updated>
         <content type="html"><![CDATA[요새 전세 보증금을 돌려받지 못해 피해 보는 분들, 많죠. 주말 계약을 조심해라, 금요일에 계약하면 안심할 수 있다, 말들이 많은데 사실인지 알아봅니다. 대출이 껴 있는 집을 사거나 세입자가 있는 집을 사면 그만큼 구매자가 낼 돈은 줄어들죠. 하지만 집값이 떨어지면, 대출금이나 보증금을 돌려주지 못할 위험도 있는데요. 이런 전셋집, 깡통 전세라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목에 거는 선풍기, 발암 전자파 내뿜는다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20220727194710008</id>
-        <link href="https://v.daum.net/v/20220727194710008"/>
-        <updated>2022-07-27T11:20:22.251Z</updated>
-        <content type="html"><![CDATA[찌는 듯한 무더위에 이렇게 목에 거는 선풍기, 많이들 쓰시죠. 그런데 선풍기에서 암을 일으킬 수 있는 전자파가 나온다는 시민단체 발표가 최근 있었는데, 정말 걱정해야 하는 건지 확인해 봤습니다. 시민단체 조사 결과 4개 제품에서 최대 421mG(밀리가우스)의 전자파가 측정됐습니다. 고압 송전선이나 헤어 드라이기보다 높은 수치인데요. 그런데 지난]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
