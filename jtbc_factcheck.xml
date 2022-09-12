@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2022-09-12T11:24:15.297Z</updated>
+    <updated>2022-09-12T12:56:52.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['멋대로' 예약 취소한 숙박업소..제재할 방법 없다?]]></title>
+        <id>https://v.daum.net/v/20220912214434159</id>
+        <link href="https://v.daum.net/v/20220912214434159"/>
+        <updated>2022-09-12T12:56:51.884Z</updated>
+        <content type="html"><![CDATA[[앵커] 숙박업소들이 성수기 요금 정도로만 올린 것인지, 일방적으로 취소해도 문제가 없는 것인지 바로 팩트체크를 해보겠습니다. 이지은 기자, 팩트체크팀에서도 직접 확인해봤을 텐데, 어느 정도였나요? [기자] 먼저 부산 지역 5성급 호텔들을 알아봤습니다. 일부 호텔의 경우 성수기 요금보다 다소 비싼 것으로 파악됐습니다. 먼저 롯데호텔은 BTS 공연이 있는 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피해규모·지역따라 다르다..소상공인 수해지원 어떻게?]]></title>
         <id>https://v.daum.net/v/20220905220434528</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220711201707818"/>
         <updated>2022-07-11T11:20:24.483Z</updated>
         <content type="html"><![CDATA[[앵커] 바로 팩트체크 해보겠습니다. 이지은 기자가 나와 있습니다. 정부는 축산물의 물가상승 기여도가 높다라고 보고 이런 정책을 펴고 있는 거고, 반대로 축산 농가들은 아니다, 기여도가 낮다고 주장하는데 뭐가 맞는 겁니까. [기자] 어디에 초점을 맞추느냐에 따라 다릅니다. 우선 정부가 낸 자료를 보면, 돼지고기와 수입소고기의 경우, 물가 기여도가 각각 0.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어컨 전기료 아끼려면..계속 틀어야? 껐다 켜야?]]></title>
-        <id>https://v.daum.net/v/20220707200907945</id>
-        <link href="https://v.daum.net/v/20220707200907945"/>
-        <updated>2022-07-07T11:21:47.030Z</updated>
-        <content type="html"><![CDATA[[앵커] 일찍 찾아온 습하고 더운 날씨 때문에 집집마다 에어컨 켜면서도 전기요금이 걱정이실 텐데요. 조금이라도 요금을 아끼려면 계속 켜두는 게 나은지, 아니면 껐다 켰다 하는 게 좋은지 헷갈립니다. 지금부터 팩트체크 이지은 기자가 자세하게 알려드리겠습니다. 이지은 기자, 둘 중에 뭐가 맞습니까? [기자] 맞기도 하고, 틀리기도 합니다. 에어컨 종류가 뭐냐에]]></content>
     </entry>
 </feed>
