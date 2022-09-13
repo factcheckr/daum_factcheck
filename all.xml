@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-13T20:28:42.880Z</updated>
+    <updated>2022-09-13T21:24:55.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 일본군에 살해당한 위안부 피해자 1명도 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220914052805475</id>
+        <link href="https://v.daum.net/v/20220914052805475"/>
+        <updated>2022-09-13T21:23:50.043Z</updated>
+        <content type="html"><![CDATA[[앵커] 일본도 아니고, 국내의 극우단체가 꾸준하게 소녀상 철거를 요구하고 있습니다. 연휴 기간에는 반일단체와 충돌을 빚기도 했는데요, 위안부 문제는 노인을 앞세운 사기극일 뿐이라는 이들의 주장, 어떤 근거로 하는 말인지 신지원 기자가 팩트체크했습니다. [기자] 추석 연휴 기간, 평화의 소녀상이 설치된 옛 일본대사관 앞이 아수라장이 됐습니다. 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 동시에 시행된 '검수완박' 법안 vs '검수원복' 시행령 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220913095700063</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220910073411836"/>
         <updated>2022-09-09T23:29:04.273Z</updated>
         <content type="html"><![CDATA[[앵커] 미국에서 생산하거나 조립한 전기차에만 보조금을 지원해주는 '인플레이션 감축법' 이후 다른 나라들의 보조금 정책에도 관심이 높아지고 있습니다. 중국이나 일본 등 해외에서는 자기 나라 기업에 유리한 보조금 정책을 펼치고 있는데, 우리만 외국산 전기차에 보조금을 퍼주고 있다는 주장이 나오는데요, 맞는 말인지, 신지원 기자가 펙트체크했습니다. [기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] '심정지'인데 '구조'라고? 구조 뜻도 모르는 언론? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220909090059543</id>
-        <link href="https://v.daum.net/v/20220909090059543"/>
-        <updated>2022-09-09T02:41:21.079Z</updated>
-        <content type="html"><![CDATA[제11호 태풍 '힌남노'는 한반도를 할퀴고 지나가면서 곳곳에 생채기를 냈습니다. 태풍 피해가 막바지에 달했던 지난 6일에는 경북 포항의 아파트 주민들이 지하주차장에 댄 차를 빼러 갔다가 물이 차면서 실종됐다는 안타까운 소식도 있었습니다. 다음 날(7일) 오전,  각 언론매체들은 실종자 수색 결과와 관련한 기사들을 잇따라 내놓았는데요. 그런데 이 기사들]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ SBS 사실은)]]></title>
