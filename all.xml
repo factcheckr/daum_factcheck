@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-12T23:29:57.705Z</updated>
+    <updated>2022-09-13T02:44:27.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 동시에 시행된 '검수완박' 법안 vs '검수원복' 시행령 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220913095700063</id>
+        <link href="https://v.daum.net/v/20220913095700063"/>
+        <updated>2022-09-13T02:43:23.093Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 동시에 시행된 '검수완박' 법안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '그린', '에코', '녹색', '천연' 붙어 있어도 친환경제품은 아니라고? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220913091304320</id>
+        <link href="https://v.daum.net/v/20220913091304320"/>
+        <updated>2022-09-13T02:43:23.094Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '그린', '에코', '녹색',]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '멋대로' 예약 취소한 숙박업소..제재할 방법 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220912214434159</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20220909090059543"/>
         <updated>2022-09-09T02:41:21.079Z</updated>
         <content type="html"><![CDATA[제11호 태풍 '힌남노'는 한반도를 할퀴고 지나가면서 곳곳에 생채기를 냈습니다. 태풍 피해가 막바지에 달했던 지난 6일에는 경북 포항의 아파트 주민들이 지하주차장에 댄 차를 빼러 갔다가 물이 차면서 실종됐다는 안타까운 소식도 있었습니다. 다음 날(7일) 오전,  각 언론매체들은 실종자 수색 결과와 관련한 기사들을 잇따라 내놓았는데요. 그런데 이 기사들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 경관 지키려 마린시티에 차수벽 설치 안했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220908145542962</id>
-        <link href="https://v.daum.net/v/20220908145542962"/>
-        <updated>2022-09-08T06:05:27.374Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 손형주 기자 = 제11호 태풍 '힌남노' 내습을 계기로 태풍만 오면 방파제를 넘은 파도(월파) 피해를 되풀이하는 부산 해운대구 마린시티를 두고 논란이 뜨겁다. 힌남노가 지나간 하루 뒤인 8일에도 온라인상에는 마산항이 2ｍ 높이의 기립식 차수벽을 세워 태풍 피해를 막은 것과 비교하며 마린시티 주민과 상가들이 경관을 지키려는 욕심에 방재시설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 명절 고속도로 통행료 면제하면 도로공사 부채 가중된다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220908060035109</id>
-        <link href="https://v.daum.net/v/20220908060035109"/>
-        <updated>2022-09-07T21:23:47.659Z</updated>
-        <content type="html"><![CDATA['민족 대이동'이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞이하는 첫 명절입니다. 정부는 추석 민생대책의 하나로 추석 연휴 나흘간 전국 고속도로 통행료를 면제하기로 했습니다. 언뜻 보면 좋기만 한 정책 같은데 누리꾼 반응은 다소 갈립니다. 해당 기사들에 달린 댓글을 보면 "명절 고속도로 통행료 면제가 한국도로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배? (다음 뉴스 ─ SBS 사실은)]]></title>
