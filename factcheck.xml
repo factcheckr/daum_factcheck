@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-14T08:34:32.117Z</updated>
+    <updated>2022-09-14T09:30:18.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] "저소득층 재난지원금 추가지급 신청" 문자, 사기입니다]]></title>
+        <id>https://v.daum.net/v/20220914174017959</id>
+        <link href="https://v.daum.net/v/20220914174017959"/>
+        <updated>2022-09-14T09:29:15.241Z</updated>
+        <content type="html"><![CDATA[최근 '저소득층에게 재난지원금을 추가로 지급한다'는 내용의 문자가 돌고 있습니다. 정부가 코로나19 재확산과 소비자 물가 상승 등 생계비 부담이 가중되자 저소득·취약계층 가구에 이른바 '한시 생활안정지원금'을 지급하기로 했는데 대상자로 선정됐으니 빨리 신청하라는 내용입니다. 신청 마감 시한은 내일(15일) 18시까지로 돼 있습니다. 문자 내용을 보면 재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 일본군에 살해당한 위안부 피해자 1명도 없다?]]></title>
         <id>https://v.daum.net/v/20220914052805475</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220910075821039"/>
         <updated>2022-09-09T23:29:04.270Z</updated>
         <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 우리나라만 전기차 우대 안 한다?]]></title>
-        <id>https://v.daum.net/v/20220910073411836</id>
-        <link href="https://v.daum.net/v/20220910073411836"/>
-        <updated>2022-09-09T23:29:04.273Z</updated>
-        <content type="html"><![CDATA[[앵커] 미국에서 생산하거나 조립한 전기차에만 보조금을 지원해주는 '인플레이션 감축법' 이후 다른 나라들의 보조금 정책에도 관심이 높아지고 있습니다. 중국이나 일본 등 해외에서는 자기 나라 기업에 유리한 보조금 정책을 펼치고 있는데, 우리만 외국산 전기차에 보조금을 퍼주고 있다는 주장이 나오는데요, 맞는 말인지, 신지원 기자가 펙트체크했습니다. [기]]></content>
     </entry>
 </feed>
