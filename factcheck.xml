@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-14T10:30:49.177Z</updated>
+    <updated>2022-09-14T11:24:45.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]바닷물 차올라서 한강 수변무대에 고립?]]></title>
+        <id>https://v.daum.net/v/20220914195250017</id>
+        <link href="https://v.daum.net/v/20220914195250017"/>
+        <updated>2022-09-14T11:23:37.755Z</updated>
+        <content type="html"><![CDATA[[기자] 팩트맨, 반포 한강공원에서 시작합니다. 그제 밤 이 무대 주변이 갑자기 침수되면서 시민들이 대피하는 소동이 벌어졌는데요. 비도 안 왔는데 강물이 갑자기 불어난 이유, 스튜디오에서 알아보겠습니다. 팩트맨팀이 어젯밤 촬영한 영상부터 보죠. 밤 10시쯤부터 물이 차오르더니, 30분 만에 무대 객석 계단 4개가 물에 잠겼습니다. 무대 높이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] "저소득층 재난지원금 추가지급 신청" 문자, 사기입니다]]></title>
         <id>https://v.daum.net/v/20220914174017959</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220910080008067"/>
         <updated>2022-09-09T23:29:04.269Z</updated>
         <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
-        <id>https://v.daum.net/v/20220910075821039</id>
-        <link href="https://v.daum.net/v/20220910075821039"/>
-        <updated>2022-09-09T23:29:04.270Z</updated>
-        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "]]></content>
     </entry>
 </feed>
