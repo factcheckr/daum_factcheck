@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-14T11:24:45.446Z</updated>
+    <updated>2022-09-14T12:55:10.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 가을 태풍 많다? 윈디가 더 정확하다? '둘다 X']]></title>
+        <id>https://v.daum.net/v/20220914202836674</id>
+        <link href="https://v.daum.net/v/20220914202836674"/>
+        <updated>2022-09-14T12:54:05.988Z</updated>
+        <content type="html"><![CDATA[[앵커] 오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 '무이파'의 오른편에 회오리치는 커다란 구름대가 있는데요. 13호 태풍 '므르복'에 이어 오늘 공식 발생한 14호 태풍 '난마돌'입니다. 난마돌은 '매우 강'까지 세력을 키울 수 있는데, 다음 주 중반쯤 남해안 일대를 중심으로 우리나라에 직간접적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]바닷물 차올라서 한강 수변무대에 고립?]]></title>
         <id>https://v.daum.net/v/20220914195250017</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220910225003709"/>
         <updated>2022-09-10T14:23:23.012Z</updated>
         <content type="html"><![CDATA[[앵커] 미국에서 생산하거나 조립한 전기차에만 보조금을 지원해주는 '인플레이션 감축법' 이후 다른 나라들의 보조금 정책에도 관심이 높아지고 있습니다. 중국이나 일본 등 해외에서는 자기 나라 기업에 유리한 보조금 정책을 펼치고 있는데, 우리만 외국산 전기차에 보조금을 퍼주고 있다는 주장이 나오는데요, 맞는 말인지, 신지원 기자가 펙트체크했습니다. [기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
-        <id>https://v.daum.net/v/20220910080008067</id>
-        <link href="https://v.daum.net/v/20220910080008067"/>
-        <updated>2022-09-09T23:29:04.269Z</updated>
-        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "공]]></content>
     </entry>
 </feed>
