@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-15T09:28:01.102Z</updated>
+    <updated>2022-09-15T10:30:53.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 여왕 애도를 거부하는 사람들.. 대체 왜?]]></title>
+        <id>https://v.daum.net/v/20220915183915033</id>
+        <link href="https://v.daum.net/v/20220915183915033"/>
+        <updated>2022-09-15T10:29:47.908Z</updated>
+        <content type="html"><![CDATA[영국 최장기 군주, 엘리자베스 2세에 대한 추모 열기가 뜨겁습니다. 하지만, 이웃 나라 아일랜드에서는 축제 분위기가 포착됐습니다. "리지(여왕의 애칭)가 관짝에 들어갔다"(Lizzy’s in a box)는 비아냥, 축제 때나 있을 법한 차량들의 단체 경적 소리도 나왔습니다. 아일랜드의 반영 감정, 바로 8백 년에 걸친 식민 지배 역사가 자리 잡고 있습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예대금리차 비교공시, 억울한 은행 있다? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20220915133727618</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220913095700063"/>
         <updated>2022-09-14T13:56:57.558Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 동시에 시행된 '검수완박' 법안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '그린', '에코', '녹색', '천연' 붙어 있어도 친환경제품은 아니라고?]]></title>
-        <id>https://v.daum.net/v/20220913091304320</id>
-        <link href="https://v.daum.net/v/20220913091304320"/>
-        <updated>2022-09-14T13:56:57.560Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '그린', '에코', '녹색',]]></content>
     </entry>
 </feed>
