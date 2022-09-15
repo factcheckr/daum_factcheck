@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-09-14T23:28:53.652Z</updated>
+    <updated>2022-09-15T02:51:11.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여왕을 둘러싼 소문들, 전격 팩트체크!]]></title>
+        <id>https://v.daum.net/v/20220914181526992</id>
+        <link href="https://v.daum.net/v/20220914181526992"/>
+        <updated>2022-09-15T02:50:21.411Z</updated>
+        <content type="html"><![CDATA[엘리자베스 2세는 무함마드 후손이다? 남편이었던 필립 공은 나치와 관련 있다? 엘리자베스 2세는 생전 수많은 소문에 시달렸습니다. 재위 기간도 영국 역사상 가장 길었던 데다, 영국 왕실은 세계 로얄 패밀리의 상징과도 같아, 그만큼 주목도도 컸기 때문입니다. 엘리자베스 2세와 왕실 가족들의 일거수 일투족은 늘 많은 관심을 받았고, 그만큼 수많은 뉴스가 만들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
         <id>https://v.daum.net/v/20220906203905207</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220720104500982"/>
         <updated>2022-07-20T02:18:43.651Z</updated>
         <content type="html"><![CDATA[국회의원 임기는 4년입니다. 보통 첫 2년을 전반기, 그 이후를 후반기로 부릅니다. 편의상 그렇게 부르는 건 아니고, 2년 주기로 국회를 이끌어가는 주요 보직이 바뀝니다. 국회의장과 부의장, 상임위원장 등입니다. 물론 여야 간의 협상을 통해 이뤄집니다. 이를 '원 구성 협상'이라고 부릅니다. 뉴스에서 많이 보셨겠지만, 지금 원 구성 협상이 잘 안 되고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전반기 국회 성적표 공개..발언王은 누구?]]></title>
-        <id>https://v.daum.net/v/20220719100900394</id>
-        <link href="https://v.daum.net/v/20220719100900394"/>
-        <updated>2022-07-19T02:31:34.234Z</updated>
-        <content type="html"><![CDATA[국회의원 임기는 4년입니다. 보통 첫 2년을 전반기, 그 이후를 후반기로 부릅니다. 편의상 그렇게 부르는 건 아니고, 2년 주기로 국회를 이끌어 가는 주요 보직이 바뀝니다. 국회의장과 부의장, 상임위원장 등입니다. 물론 여야 간의 협상을 통해 이뤄집니다. 이를 '원 구성 협상'이라고 부릅니다. 뉴스에서 많이 보셨겠지만, 지금 원 구성 협상이 잘 안 되고]]></content>
     </entry>
 </feed>
