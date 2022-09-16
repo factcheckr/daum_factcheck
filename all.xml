@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T10:31:01.042Z</updated>
+    <updated>2022-09-16T11:24:17.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 이전비 496억 원이라더니..얼마까지 늘었나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220916195220324</id>
+        <link href="https://v.daum.net/v/20220916195220324"/>
+        <updated>2022-09-16T11:23:06.183Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 여왕 애도를 거부하는 사람들.. 대체 왜? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220915183915033</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220914052805475"/>
         <updated>2022-09-13T21:23:50.043Z</updated>
         <content type="html"><![CDATA[[앵커] 일본도 아니고, 국내의 극우단체가 꾸준하게 소녀상 철거를 요구하고 있습니다. 연휴 기간에는 반일단체와 충돌을 빚기도 했는데요, 위안부 문제는 노인을 앞세운 사기극일 뿐이라는 이들의 주장, 어떤 근거로 하는 말인지 신지원 기자가 팩트체크했습니다. [기자] 추석 연휴 기간, 평화의 소녀상이 설치된 옛 일본대사관 앞이 아수라장이 됐습니다. 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 동시에 시행된 '검수완박' 법안 vs '검수원복' 시행령 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220913095700063</id>
-        <link href="https://v.daum.net/v/20220913095700063"/>
-        <updated>2022-09-13T02:43:23.093Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 동시에 시행된 '검수완박' 법안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여왕 애도를 거부하는 사람들.. 대체 왜? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[음악계가 표절 논란으로 몸살을 앓고 있습니다. 그 시작은 가수 겸 음반 제작자인 유희열 씨가 지난해 9월 발표한 '아주 사적인 밤'이, 일본 대중음악의 거장 사카모토 류이치의 '아쿠아'와 유사하다는 의혹이었습니다. 유희열 씨는 "무의식 중에 기억 속에 남아 있던 유사한 진행 방식으로 곡을 쓰게 됐다"고 유사성을 인정했고, 사카모토가 "법적 조치가 필요한 수]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이전비 496억 원이라더니..얼마까지 늘었나 (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20220916195220324</id>
+        <link href="https://v.daum.net/v/20220916195220324"/>
+        <updated>2022-09-16T11:23:27.535Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['세금 축내는 노인 알바'?.."우리 쌀값인데요" (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20220910080008067</id>
         <link href="https://v.daum.net/v/20220910080008067"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220711195208331"/>
         <updated>2022-07-11T11:19:07.087Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘부터 중단한 대통령의 출근길 약식 기자회견. 대통령실은 코로나19 재확산 때문이다, 반면 여러 언론들은 급락한 대통령 지지율을 이유로 꼽고 있습니다. 정제되지 않은 발언이 논란을 일으켜 지지율이 하락했다는 건데요. 이런 해석이 얼마나 정확한 건지 확인해봤습니다. ◀ 리포트 ▶ 취임 초기 윤대통령의 출근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식·코인 투자빚 서울 가서 탕감받는다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220707202215216</id>
-        <link href="https://v.daum.net/v/20220707202215216"/>
-        <updated>2022-07-07T12:58:28.483Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 몇 년 새 2, 30대 청년층의 주식과 가상화폐 투자가 급증하면서, 최근엔 청년층이 개인파산이나 회생절차를 밟는 사례가 늘고 있습니다. 이런 상황에서 서울회생법원이 주식, 가상화폐 투자 손실금은 변제액을 정할 때 고려하지 않는다는 지원 방안을 내놨는데요. 빚내서 투자하는 '빚투'를 조장한다. '먹튀'를 조장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["저소득층 재난지원금 추가지급 신청" 문자, 사기입니다 (다음 뉴스 ─ KBS 팩트체크K)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2022-09-16T10:31:01.025Z</updated>
+    <updated>2022-09-16T11:24:17.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이전비 496억 원이라더니..얼마까지 늘었나]]></title>
+        <id>https://v.daum.net/v/20220916195220324</id>
+        <link href="https://v.daum.net/v/20220916195220324"/>
+        <updated>2022-09-16T11:23:27.535Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
         <id>https://v.daum.net/v/20220910080008067</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220711195208331"/>
         <updated>2022-07-11T11:19:30.478Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘부터 중단한 대통령의 출근길 약식 기자회견. 대통령실은 코로나19 재확산 때문이다, 반면 여러 언론들은 급락한 대통령 지지율을 이유로 꼽고 있습니다. 정제되지 않은 발언이 논란을 일으켜 지지율이 하락했다는 건데요. 이런 해석이 얼마나 정확한 건지 확인해봤습니다. ◀ 리포트 ▶ 취임 초기 윤대통령의 출근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식·코인 투자빚 서울 가서 탕감받는다?]]></title>
-        <id>https://v.daum.net/v/20220707202215216</id>
-        <link href="https://v.daum.net/v/20220707202215216"/>
-        <updated>2022-07-07T12:58:46.592Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 몇 년 새 2, 30대 청년층의 주식과 가상화폐 투자가 급증하면서, 최근엔 청년층이 개인파산이나 회생절차를 밟는 사례가 늘고 있습니다. 이런 상황에서 서울회생법원이 주식, 가상화폐 투자 손실금은 변제액을 정할 때 고려하지 않는다는 지원 방안을 내놨는데요. 빚내서 투자하는 '빚투'를 조장한다. '먹튀'를 조장]]></content>
     </entry>
 </feed>

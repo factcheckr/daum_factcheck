@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-09-16T10:31:01.028Z</updated>
+    <updated>2022-09-16T11:24:17.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 이전비 496억 원이라더니..얼마까지 늘었나]]></title>
+        <id>https://v.daum.net/v/20220916195220324</id>
+        <link href="https://v.daum.net/v/20220916195220324"/>
+        <updated>2022-09-16T11:23:06.183Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 여왕 애도를 거부하는 사람들.. 대체 왜?]]></title>
         <id>https://v.daum.net/v/20220915183915033</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220914052805475"/>
         <updated>2022-09-14T13:56:57.557Z</updated>
         <content type="html"><![CDATA[[앵커] 일본도 아니고, 국내의 극우단체가 꾸준하게 소녀상 철거를 요구하고 있습니다. 연휴 기간에는 반일단체와 충돌을 빚기도 했는데요, 위안부 문제는 노인을 앞세운 사기극일 뿐이라는 이들의 주장, 어떤 근거로 하는 말인지 신지원 기자가 팩트체크했습니다. [기자] 추석 연휴 기간, 평화의 소녀상이 설치된 옛 일본대사관 앞이 아수라장이 됐습니다. 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 동시에 시행된 '검수완박' 법안 vs '검수원복' 시행령]]></title>
-        <id>https://v.daum.net/v/20220913095700063</id>
-        <link href="https://v.daum.net/v/20220913095700063"/>
-        <updated>2022-09-14T13:56:57.558Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 9월 10일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 동시에 시행된 '검수완박' 법안]]></content>
     </entry>
 </feed>
