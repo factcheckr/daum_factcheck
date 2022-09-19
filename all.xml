@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-19T20:30:36.381Z</updated>
+    <updated>2022-09-19T21:27:06.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 국내 전기차 보조금, 테슬라가 쓸어간다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20220920060411490</id>
+        <link href="https://v.daum.net/v/20220920060411490"/>
+        <updated>2022-09-19T21:25:58.602Z</updated>
+        <content type="html"><![CDATA[[앵커] 미국이 이른바 '전기차 보조금 차별 정책'을 강행하자, 국내에선 '퍼주다 당했다'는 비판의 목소리가 높습니다. 우리가 차별당하는 동안, 미국산 전기차인 테슬라는 국내 보조금을 싹쓸이하고 있다는 건데요, 맞는 말인지, 신지원 기자가 따져봤습니다. [기자] '국민 혈세가 테슬라로 흘러들어간다' '전기차 보조금, 테슬라가 싹쓸이한다' 미국에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 장병 전투화 310억-내복 95억 예산 삭감? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20220919203905781</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20220915133727618"/>
         <updated>2022-09-15T04:53:45.864Z</updated>
         <content type="html"><![CDATA[올해 8월말부터&nbsp;은행연합회 홈페이지&nbsp;소비자포털에 시중은행들의 예대금리차를 비교 공시하고있지만 일부 억울한 은행들도 있다는 얘기가 나오고 있다.&nbsp;중저신용자들이나 서민대출 비중이 높은 신한은행 등이 예대금리차가 많이 나는 것처럼 보여 마치 이자장사에 골몰하고 있는 것처럼 비친다는 것이다. 실제로 신한은행은&nbsp;“햇살론 등 서민지원대출에 가장 적극적으로 지원하고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["민주당이 지류·지천 계획 반대해 참극" 권성동 주장 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20220915102400902</id>
-        <link href="https://v.daum.net/v/20220915102400902"/>
-        <updated>2022-09-15T02:50:07.590Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ 원내대책회의 주재한 권성동&nbsp;권성동 국민의힘 원내대표가 지난 13일 서울 여의도 국회에서 열린 원내대책회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] "MB때 민주당이 지류·지천 종합정비계획 반대해 참극" 지난 13일 권성동 국민의힘 원내대표는 당 원내대책회의에서 태풍 '힌남노'로 인한 포항·경주 일대의 피해를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여왕 애도를 거부하는 사람들.. 대체 왜? (다음 뉴스 ─ SBS 사실은)]]></title>
