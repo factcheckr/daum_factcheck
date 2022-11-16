@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-16T22:24:35.491Z</updated>
+    <updated>2022-11-16T23:25:16.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 문재인 前대통령이 풍산개 키우는 데 지금도 법적 문제 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221117081811742</id>
+        <link href="https://v.daum.net/v/20221117081811742"/>
+        <updated>2022-11-16T23:23:52.656Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 문재인 전 대통령이 북한 김정은 국무위원장으로부터 선물 받은 풍산개를 정부에 반환한 것을 두고 논란이 이어지고 있다. 국민의힘 양금희 수석대변인은 지난 10일 논평을 통해 "퇴임 대통령은 (관련 법 조문상의) '기관'에 속하므로 (문 전 대통령이) 현재 풍산개를 기르는 데 어떤 법적 문제도 존재하지 않는다"고 밝혔다. 그러면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]ADHD 치료제 먹으면 공부가 잘 된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221116195454626</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221114050016647"/>
         <updated>2022-11-16T17:34:14.600Z</updated>
         <content type="html"><![CDATA[13일 오전 서울 용산구 이태원 참사 현장에서 경찰들이 근무하고 있다. /뉴스1   [파이낸셜뉴스] 이태원 참사 피해자들이 국가에 대한 손해배상 집단 소송을 제기하려는 움직임을 보이는 가운데 경찰과 지자체 대응 부실 등이 참사의 핵심 원인으로 지목되면서 과연 어디까지 국가가 배상해야 하는 가에 관심이 쏠리고 있다. 13일 굿로이어스 공익제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수입 없는 1020, 국민연금 가입 5배 폭증… 얼마나 더 받나 [fn 팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221113183948455</id>
-        <link href="https://v.daum.net/v/20221113183948455"/>
-        <updated>2022-11-16T17:34:14.601Z</updated>
-        <content type="html"><![CDATA[#. 고등학교 3학년 아들을 둔 직장인 A씨(50대)는 최근 아들이 국민연금공단으로부터 받은 안내장을 보고 고민에 빠졌다. 18세 이상이라면 소득이 없어도 가입할 수 있는 '임의가입'에 대한 내용이었다. 노후를 준비하며 아쉬움이 많았던 그는 자녀만큼은 한 살이라도 빨리 가입시키는 게 도움이 될지 고민하고 있다. 나이가 어린 1020세대 자녀를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선제적 개입' 권한이 없다? (다음 뉴스 ─ SBS 사실은)]]></title>
