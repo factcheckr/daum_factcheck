@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2022-11-17T02:03:27.078Z</updated>
+    <updated>2022-11-17T03:46:15.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나경원 "문재인 탈원전으로 석탄발전 늘었다" 발언 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20221117114501804</id>
+        <link href="https://v.daum.net/v/20221117114501804"/>
+        <updated>2022-11-17T03:46:03.200Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ 라디오 인터뷰에 응한 나경원&nbsp;16일, KBS라디오 &lt;최경영의 최강시사&gt;와의 전화 인터뷰에 응한 나경원 기후환경대사가 문재인 정부의 탈원전 정책이 석탄 발전을 늘렸다고 주장하고 있다.    ⓒ KBS1라디오  &nbsp; [검증 대상] 나경원 "문재인 정부 때 원전을 안 하면서 석탄발전을 더 많이 했다"&nbsp; "오히려 문재인 정부 때 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["공공임대주택 예산, 삭감 아닌 정상화" 국힘 주장은 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20221115204804521</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220825173301591"/>
         <updated>2022-11-16T17:35:28.082Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 7월 15일 인천시 남동구 남동구청 안심 선별진료소에서 한 시민이 검체 검사를 기다리고 있다.    ⓒ 연합뉴스  &nbsp; [검증대상] "OECD에서 한국만 입국 전 코로나19 검사 의무" 언론 보도 일본 정부가 24일 코로나19 백신 3차 접종자에게 입국 전 음성확인서 제출을 면제하겠다고 발표하자, 국내 언론은 경제협력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니]]></title>
-        <id>https://v.daum.net/v/20220824153902293</id>
-        <link href="https://v.daum.net/v/20220824153902293"/>
-        <updated>2022-11-16T17:35:28.083Z</updated>
-        <content type="html"><![CDATA[[김예진, 고정미 기자] ⓒ 고정미  &nbsp; [검증대상] 코로나 대유행에도 한국은 가정폭력 감소? 경찰청은 지난 6월 2021 &lt;사회적 약자 보호 치안백서&gt;를 발간했다. 경찰청은 사회적 약자를 향한 범죄의 유형으로 아동학대, 학교폭력, 성폭력, 가정폭력, 스토킹 등으로 분류했다. 그중 코로나 대유행의 영향으로 가정 내 구성원 체류 시간이 길어지면서]]></content>
     </entry>
 </feed>
