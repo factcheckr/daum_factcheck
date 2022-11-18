@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-18T21:22:06.594Z</updated>
+    <updated>2022-11-18T22:24:43.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 과거 국정조사서 실질적으로 진상을 규명한 사례가 없다?]]></title>
+        <id>https://v.daum.net/v/20221119071107431</id>
+        <link href="https://v.daum.net/v/20221119071107431"/>
+        <updated>2022-11-18T22:23:15.880Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 이태원 참사에 대한 국정조사 실시를 놓고 여야가 평행선을 그리고 있다. 야권은 지난 9일 이태원 참사 국정조사 요구서를 제출했지만 여당인 국민의힘은 경찰 수사 결과를 지켜보는 것이 우선이라며 반대 입장을 고수하고 있다. 이런 가운데 윤상현 국민의힘 의원은 15일 CBS 라디오 '김현정의 뉴스쇼'에 출연해 "]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나경원 "문재인 탈원전으로 석탄발전 늘었다" 발언 '대체로 거짓'  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20221117114501804</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221114140732359"/>
         <updated>2022-11-16T17:34:14.596Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국회의 내년도 정부 예산안 심사가 본격화되면서 대통령실의 용산 이전 비용을 둘러싼 논란이 다시 커지고 있다. 김대기 대통령비서실장은 지난주 국회 운영위원회에서 대통령실 이전 비용에 대해 "500억원 정도 되는 걸로 보고 있다"며 경호부대 이전 등 부대비용까지 포함해야 한다는 지적에는 "견강부회 아닌가"라고 답변했다. 반면 더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文 대통령 풍산개 '파양' 논란, 사실은? [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20221114134935693</id>
-        <link href="https://v.daum.net/v/20221114134935693"/>
-        <updated>2022-11-16T17:34:14.596Z</updated>
-        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 문재인 전 대통령이 김정은 북한 국무위원장으로부터 선물 받아 키우던 풍산개 ‘곰이’와 ‘송강’을 8일 행정안전부에 반환한 것을 놓고 정치권에서 치열한 설전이 이어지고 있습니다. 대통령실이 문 전 대통령 측이 제기한 ‘정부 책임론’에 대해 “사실과 다르다”고 반박한 데 이어 문 전 대통령도 페이스북에 “이제 그만들 하라”면서]]></content>
     </entry>
 </feed>
