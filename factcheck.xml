@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-19T23:24:02.533Z</updated>
+    <updated>2022-11-20T02:07:59.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 코로나 XBB 변이는 델타보다 5배 독하고 치명적일까?]]></title>
+        <id>https://v.daum.net/v/20221120090222365</id>
+        <link href="https://v.daum.net/v/20221120090222365"/>
+        <updated>2022-11-20T02:07:02.254Z</updated>
+        <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹정부가 낸 법안 처리 0건…역대 정권 비교해보니[노컷체크]]]></title>
         <id>https://v.daum.net/v/20221119090301293</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221115070047963"/>
         <updated>2022-11-16T17:34:14.590Z</updated>
         <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]전자팔찌 끊은 김봉현, 붙잡혀도 ‘솜방망이’ 처벌?]]></title>
-        <id>https://v.daum.net/v/20221114193855023</id>
-        <link href="https://v.daum.net/v/20221114193855023"/>
-        <updated>2022-11-16T17:34:14.595Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 팔당대교에서 시작합니다. 사흘 전 김봉현 전 회장은 이곳에서 전자팔찌를 끊고 사라졌습니다. 범죄자들이 출소 후 착용하는 전자발찌와 달리, 팔찌는 훼손해도 처벌이 어려운데요. 이유가 뭔지 스튜디오에서 알아봅니다. 전자팔찌와 전자발찌의 차이부터 살펴보죠. 발찌는 범죄를 저지르고 출소한 사람들의 재범을 막기 위해 채우는데요. 팔찌는]]></content>
     </entry>
 </feed>

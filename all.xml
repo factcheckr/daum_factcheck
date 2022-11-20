@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-19T23:24:02.552Z</updated>
+    <updated>2022-11-20T02:07:59.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 코로나 XBB 변이는 델타보다 5배 독하고 치명적일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221120090222365</id>
+        <link href="https://v.daum.net/v/20221120090222365"/>
+        <updated>2022-11-20T02:07:02.254Z</updated>
+        <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹정부가 낸 법안 처리 0건…역대 정권 비교해보니[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221119090301293</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221115070047963"/>
         <updated>2022-11-16T17:34:14.590Z</updated>
         <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]전자팔찌 끊은 김봉현, 붙잡혀도 ‘솜방망이’ 처벌? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221114193855023</id>
-        <link href="https://v.daum.net/v/20221114193855023"/>
-        <updated>2022-11-16T17:34:14.595Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 팔당대교에서 시작합니다. 사흘 전 김봉현 전 회장은 이곳에서 전자팔찌를 끊고 사라졌습니다. 범죄자들이 출소 후 착용하는 전자발찌와 달리, 팔찌는 훼손해도 처벌이 어려운데요. 이유가 뭔지 스튜디오에서 알아봅니다. 전자팔찌와 전자발찌의 차이부터 살펴보죠. 발찌는 범죄를 저지르고 출소한 사람들의 재범을 막기 위해 채우는데요. 팔찌는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선제적 개입' 권한이 없다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 '모두 허리띠를 졸라매야 한다'고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나로 공공형 노인일자리를 6만개 줄이고 대신 민간 채용을 유도하기로 했습니다. [추경호/기획재정부 장관(8월 25일)] "직접적인 단순 노무형 일자리는 소폭 줄이고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코로나 XBB 변이는 델타보다 5배 독하고 치명적일까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20221120090222365</id>
+        <link href="https://v.daum.net/v/20221120090222365"/>
+        <updated>2022-11-20T02:07:27.984Z</updated>
+        <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[문 전 대통령이 퇴임 전 법 바꿔 연금 비과세 혜택 누린다고? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20221115070047963</id>
         <link href="https://v.daum.net/v/20221115070047963"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220712070023195"/>
         <updated>2022-11-16T17:34:52.528Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 출범한 지 두 달이 지났습니다. 정권이 교체되면서 여당이 된 국민의힘은 연일 문재인 정부 때 임명된 뒤 임기가 남은 장관급 인사와 공공기관장들의 자진 사퇴를 촉구하고 있습니다. 새 정부의 국정 운영에 걸림돌이 되고 있다는 이유에섭니다. 지난달 14일 한덕수 국무총리 주재로 열린 국무회의가 대표적인 사례입니다. 전현희 국민권익위원장과 한상혁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가철 앞두고 고개드는 코로나19..7월 '재유행' 오나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220706070205081</id>
-        <link href="https://v.daum.net/v/20220706070205081"/>
-        <updated>2022-11-16T17:34:52.528Z</updated>
-        <content type="html"><![CDATA[“올해 여름은 코로나 재유행의 도화선이 될 수 있는 중요한 시기입니다” - 이기일 보건복지부 차관(중앙방역대책본부회의, 2022.06.22.) 연일 30도가 넘는 불볕 더위가 이어지며 본격적인 여름이 시작됐습니다. 이달 말이면 학생들이 방학에 들어가고 직장인들도 여름 휴가철을 맞이할 텐데요, 그런데 방학과 휴가를 마냥 반길 상황만은 아닐 듯합니다. 코로나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ADHD 치료제 먹으면 공부가 잘 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
