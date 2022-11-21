@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-21T02:04:25.287Z</updated>
+    <updated>2022-11-21T03:54:19.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 보수정권이 집권하면 경제성장률 떨어진다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221121110712749</id>
+        <link href="https://v.daum.net/v/20221121110712749"/>
+        <updated>2022-11-21T03:51:18.765Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 11월 19일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 보수정권이 집권하면 경제성장률]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '함부로 CPR하지 마라' 성추행으로 고소당할라? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221121110606712</id>
+        <link href="https://v.daum.net/v/20221121110606712"/>
+        <updated>2022-11-21T03:51:18.766Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 11월 19일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '함부로 CPR하지 마라' 성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 코로나 XBB 변이는 델타보다 5배 독하고 치명적일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221120090222365</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20221115204804521"/>
         <updated>2022-11-16T17:34:14.589Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;지난 3일 국민의힘이 배포한 '2023년 예산안 관련 민주당의 국민선동사례' 중 '공공임대주택 예산이 감소됐다?(국토부)' 페이지.    ⓒ 국민의힘  [검증 대상] 국민의힘 "공공임대주택 예산, 삭감 아닌 정상화" 윤석열 정부가 2023년도 예산안을 확정한 가운데 공공임대주택 예산 삭감 여부를 두고 여야가 강하게 대립하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이태원 참사' 희생자 명단 공개, 법적 처벌 가능할까[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221115153333351</id>
-        <link href="https://v.daum.net/v/20221115153333351"/>
-        <updated>2022-11-16T17:34:14.589Z</updated>
-        <content type="html"><![CDATA[[이데일리 이용성 기자] 진보 성향의 인터넷 매체 ‘시민언론 민들레’가 10.29 ‘이태원 참사’ 유족의 동의 없이 희생자 명단을 공개해 파문이 일고 있다. 정치권에서는 연일 “명백한 2차 가해”라며 비판의 수위를 높이고 있다. 시민사회계에서도 해당 언론사에 도의적 책임에 대한 비난과 함께 법적 책임까지 묻겠다며 공분이 일고 있다. 고발장까지 줄줄이 접수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 문 전 대통령이 퇴임 전 법 바꿔 연금 비과세 혜택 누린다고? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221115070047963</id>
-        <link href="https://v.daum.net/v/20221115070047963"/>
-        <updated>2022-11-16T17:34:14.590Z</updated>
-        <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선제적 개입' 권한이 없다? (다음 뉴스 ─ SBS 사실은)]]></title>
