@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-22T20:24:11.039Z</updated>
+    <updated>2022-11-22T21:22:41.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 전기차, 정말 화재에 취약할까?]]></title>
+        <id>https://v.daum.net/v/20221123060047815</id>
+        <link href="https://v.daum.net/v/20221123060047815"/>
+        <updated>2022-11-22T21:19:27.154Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 김종성 기자] "전기차 계약했는데 화재 때문에 불안해서 못 사겠다." 지난 9월 대전의 한 아울렛에서 화재가 발생해 8명의 사상자가 나오는 안타까운 일이 벌어졌다. 당시 화재가 지하주차장에서 시작됐다는 사실이 알려지며 많은 언론사들이 전기차 화재가 원인으로 추정된다는 보도를 쏟아냈다. 이에 각종 온라인 커뮤니티와 소셜네트워크서비스(SNS) 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “전기차 타면 멀미나요”…전기차의 특성이 원인]]></title>
         <id>https://v.daum.net/v/20221122195700374</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221117102114424"/>
         <updated>2022-11-17T02:01:53.908Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 대통령경호처(이하 경호처)가 경호구역에서 경호업무를 수행하는 군·경찰 등을 지휘·감독할 수 있게 관련 시행령 개정을 추진하면서 논란이 일고 있다. 경호처가 지난 9일 입법예고를 한 '대통령 등의 경호에 관한 법률(이하 대통령경호법) 시행령' 개정안을 보면 "(경호)처장은 경호업무를 효율적으로 수행하기 위해 필요한 경우 경호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 문재인 前대통령이 풍산개 키우는 데 지금도 법적 문제 없다?]]></title>
-        <id>https://v.daum.net/v/20221117081811742</id>
-        <link href="https://v.daum.net/v/20221117081811742"/>
-        <updated>2022-11-16T23:23:52.656Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 문재인 전 대통령이 북한 김정은 국무위원장으로부터 선물 받은 풍산개를 정부에 반환한 것을 두고 논란이 이어지고 있다. 국민의힘 양금희 수석대변인은 지난 10일 논평을 통해 "퇴임 대통령은 (관련 법 조문상의) '기관'에 속하므로 (문 전 대통령이) 현재 풍산개를 기르는 데 어떤 법적 문제도 존재하지 않는다"고 밝혔다. 그러면]]></content>
     </entry>
 </feed>
