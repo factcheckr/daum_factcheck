@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-22T12:48:32.795Z</updated>
+    <updated>2022-11-22T13:37:02.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “전기차 타면 멀미나요”…전기차의 특성이 원인 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221122195700374</id>
+        <link href="https://v.daum.net/v/20221122195700374"/>
+        <updated>2022-11-22T11:20:38.127Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 요즘 전기차를 흔하게 볼 수 있죠? 늘어난 전기차만큼 전기차를 탄 후 멀미를 호소하는 사람도 함께 늘고 있는데요. 실제로 전기차가 멀미에 더 취약한지 실험을 통해 알아봤습니다. 팩트체크K 충북, 한성원 기자입니다. [리포트] 자동차 시장에서 전기차는 급속히 늘고 있습니다. 전기차 등록대수는 지난 9월 처음으로 34만 대를 넘어섰는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명에 대한 검찰 수사상황 유출, 피의사실 공표죄 해당할까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221122112205038</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221117081811742"/>
         <updated>2022-11-16T23:23:52.656Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 문재인 전 대통령이 북한 김정은 국무위원장으로부터 선물 받은 풍산개를 정부에 반환한 것을 두고 논란이 이어지고 있다. 국민의힘 양금희 수석대변인은 지난 10일 논평을 통해 "퇴임 대통령은 (관련 법 조문상의) '기관'에 속하므로 (문 전 대통령이) 현재 풍산개를 기르는 데 어떤 법적 문제도 존재하지 않는다"고 밝혔다. 그러면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]ADHD 치료제 먹으면 공부가 잘 된다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221116195454626</id>
-        <link href="https://v.daum.net/v/20221116195454626"/>
-        <updated>2022-11-16T17:34:14.588Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 학원가에서 시작합니다. 매년 입시철이면 주의력결핍 과다행동장애, 즉 ADHD 치료제가 논란이 됩니다. 일부 학부모들 사이에선 '공부 잘하는 약'으로 입소문도 나 있는 약인데요. 정말 공부에 도움이 되는지, 건강에 문제는 없는 약인지 따져봅니다. ADHD 치료제가 엉뚱하게도 공부 잘하는 약으로 입소문을 탄 것은 2000년대 초반으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선제적 개입' 권한이 없다? (다음 뉴스 ─ SBS 사실은)]]></title>
