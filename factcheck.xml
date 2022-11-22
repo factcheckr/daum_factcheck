@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-22T10:27:03.281Z</updated>
+    <updated>2022-11-22T11:21:13.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명에 대한 검찰 수사상황 유출, 피의사실 공표죄 해당할까]]></title>
         <id>https://v.daum.net/v/20221122112205038</id>
