@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-24T02:58:58.312Z</updated>
+    <updated>2022-11-24T03:33:52.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20221124120310713</id>
+        <link href="https://v.daum.net/v/20221124120310713"/>
+        <updated>2022-11-24T03:32:40.187Z</updated>
+        <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;지난 19일 오후 서울 중구 숭례문과 서울시청사이에서 촛불행동 주최로 '김건희 특검·윤석열 퇴진 촛불대행진 집회가 열리고 있다.    ⓒ 이희훈  &nbsp; [검증 대상] "11월 19일 촛불집회, 경찰 추산 2만5천명-주최측 추산 20만명" 지난 19일 서울 숭례문 인근에서 열린 '김건희 특검·윤석열 퇴진 촛불대행진 집회'(주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라에도 '빈곤 포르노' 가이드라인이 있다?]]></title>
         <id>https://v.daum.net/v/20221124103745479</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221119090301293"/>
         <updated>2022-11-19T01:58:09.709Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 과거 국정조사서 실질적으로 진상을 규명한 사례가 없다?]]></title>
-        <id>https://v.daum.net/v/20221119071107431</id>
-        <link href="https://v.daum.net/v/20221119071107431"/>
-        <updated>2022-11-18T22:23:15.880Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 이태원 참사에 대한 국정조사 실시를 놓고 여야가 평행선을 그리고 있다. 야권은 지난 9일 이태원 참사 국정조사 요구서를 제출했지만 여당인 국민의힘은 경찰 수사 결과를 지켜보는 것이 우선이라며 반대 입장을 고수하고 있다. 이런 가운데 윤상현 국민의힘 의원은 15일 CBS 라디오 '김현정의 뉴스쇼'에 출연해 "]]></content>
     </entry>
 </feed>
