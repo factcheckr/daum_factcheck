@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-24T10:25:36.947Z</updated>
+    <updated>2022-11-24T11:19:16.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 과속·과적 감소? 사고 되레 증가? 안전운임제 쟁점은]]></title>
+        <id>https://v.daum.net/v/20221124201345399</id>
+        <link href="https://v.daum.net/v/20221124201345399"/>
+        <updated>2022-11-24T11:18:07.941Z</updated>
+        <content type="html"><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것 처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떴습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20221124120310713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221120090222365"/>
         <updated>2022-11-20T02:07:02.254Z</updated>
         <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹정부가 낸 법안 처리 0건…역대 정권 비교해보니[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20221119090301293</id>
-        <link href="https://v.daum.net/v/20221119090301293"/>
-        <updated>2022-11-19T01:58:09.709Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정]]></content>
     </entry>
 </feed>
