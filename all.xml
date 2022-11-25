@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-25T04:28:21.864Z</updated>
+    <updated>2022-11-25T05:21:19.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대통령 배우자가 외교 활동 중 타인의 팔짱을 낀 적이 없다? [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221125132841743</id>
+        <link href="https://v.daum.net/v/20221125132841743"/>
+        <updated>2022-11-25T05:20:04.835Z</updated>
+        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 최근 윤석열 대통령의 배우자 김건희 여사가 조 바이든 미국 대통령과 사진 촬영 도중 팔짱을 낀 것을 두고 논란이 일었습니다. 야권 일부가 김 여사의 팔짱에 대해 “불편하다”는 기색을 내비친 반면, 여권에서는 “문제없다”며 이를 일축했습니다. 윤 대통령 부부는 12일 오후(현지시간) ‘동남아시아국가연합(ASEAN)+3’ 의장국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 과속·과적 감소? 사고 되레 증가? 안전운임제 쟁점은 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221124201345399</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221121110606712"/>
         <updated>2022-11-21T03:51:18.766Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 11월 19일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '함부로 CPR하지 마라' 성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 코로나 XBB 변이는 델타보다 5배 독하고 치명적일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221120090222365</id>
-        <link href="https://v.daum.net/v/20221120090222365"/>
-        <updated>2022-11-20T02:07:02.254Z</updated>
-        <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선제적 개입' 권한이 없다? (다음 뉴스 ─ SBS 사실은)]]></title>
