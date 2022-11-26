@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-25T23:23:13.072Z</updated>
+    <updated>2022-11-26T01:47:44.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]키즈 콘텐츠에 거대 젤리 먹방? 규제 사각지대 무방비 노출]]></title>
+        <id>https://v.daum.net/v/20221126090301132</id>
+        <link href="https://v.daum.net/v/20221126090301132"/>
+        <updated>2022-11-26T01:46:22.573Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수(뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령 배우자가 외교 활동 중 타인의 팔짱을 낀 적이 없다? [팩트체크]]]></title>
         <id>https://v.daum.net/v/20221125132841743</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221121110712749"/>
         <updated>2022-11-21T03:51:18.765Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 11월 19일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 보수정권이 집권하면 경제성장률]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '함부로 CPR하지 마라' 성추행으로 고소당할라?]]></title>
-        <id>https://v.daum.net/v/20221121110606712</id>
-        <link href="https://v.daum.net/v/20221121110606712"/>
-        <updated>2022-11-21T03:51:18.766Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 11월 19일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '함부로 CPR하지 마라' 성]]></content>
     </entry>
 </feed>
