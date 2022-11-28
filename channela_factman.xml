@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-11-28T11:20:52.176Z</updated>
+    <updated>2022-11-28T12:42:47.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 찾아간 더탐사, 주거 침입이다?]]></title>
+        <id>https://v.daum.net/v/20221128200153229</id>
+        <link href="https://v.daum.net/v/20221128200153229"/>
+        <updated>2022-11-28T12:42:23.937Z</updated>
+        <content type="html"><![CDATA[[앵커] 한동훈 법무부 장관, 유튜브 채널 더탐사 관계자 5명을 주거침입 혐의로 고소했는데요. 더탐사는 주거침입이 아니라고 맞섭니다. 집안에 들어가지는 않았지만, 주거침입 성립할지 판례를 통해 짚어봅니다. 더탐사는 한 장관이 사는 주상복합 아파트 공동현관을 거쳐, 엘리베이터를 타고 현관문 앞까지 갔는데요. 복도나 엘리베이터 같은 공용공간에 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유동규도 남욱도…자정 ‘땡’하면 출소하는 이유?]]></title>
         <id>https://v.daum.net/v/20221123195349815</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221017200053372"/>
         <updated>2022-11-16T17:35:04.963Z</updated>
         <content type="html"><![CDATA[팩트맨, 이번 주는 휴가를 떠난 정현우 기자 대신 제가 전해드립니다. 요즘 가장 인기 있는 과일 중에 하나가 바로 이 샤인머스캣이죠. 씨도 없고 당도가 높아 특히 아이들이 좋아하는데요. 샤인머스캣을 비롯한 씨 없는 포도,&nbsp;아이들의 성조숙증을 유발할 수 있다는 말이 널리 퍼지고 있습니다. [김유주 / 서울 종로구] "저는 아기에게 먹일 때 껍질을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["실탄 없는 F-35A는 공갈포"..사실은?]]></title>
-        <id>https://v.daum.net/v/20221012200156276</id>
-        <link href="https://v.daum.net/v/20221012200156276"/>
-        <updated>2022-11-16T17:35:04.963Z</updated>
-        <content type="html"><![CDATA[우리 공군의 최첨단 스텔스 전투기 F-35A, 2018년 1호기를 시작으로 올해 초까지 40대가 도입됐습니다. 지난 8일 북한 전투기와 폭격기 12대가 내려와 위협 비행을 하자, F-35A가 출격했죠. 기관총에 실탄 없이 훈련용 교탄만 장전했다며 공갈포 아니냐는 보도가 나왔는데요. 사실인지 확인해봅니다. 우선 실탄의 유무를 떠나 F-35A의 역할]]></content>
     </entry>
 </feed>
