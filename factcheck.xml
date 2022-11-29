@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-29T04:28:43.171Z</updated>
+    <updated>2022-11-29T05:21:38.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합)]]></title>
+        <id>https://v.daum.net/v/20221129141243450</id>
+        <link href="https://v.daum.net/v/20221129141243450"/>
+        <updated>2022-11-29T05:20:28.116Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 29일 화물연대 파업에 대해 업무개시명령 내린 가운데 정부의 이런 조치가 국제노동기구(ILO) 협약에서 금지한 '강제노동'에 해당한다는 주장이 나오고 있다. 윤석열 대통령은 이날 "(파업으로) 시멘트, 철강 등 물류가 중단돼서 전국의 건설과 생산 현장이 멈췄고, 우리 산업 기반이 초토화될 수 있는 상황"이라며 "정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?]]></title>
         <id>https://v.daum.net/v/20221129101110801</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221123060047815"/>
         <updated>2022-11-22T21:19:27.154Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 김종성 기자] "전기차 계약했는데 화재 때문에 불안해서 못 사겠다." 지난 9월 대전의 한 아울렛에서 화재가 발생해 8명의 사상자가 나오는 안타까운 일이 벌어졌다. 당시 화재가 지하주차장에서 시작됐다는 사실이 알려지며 많은 언론사들이 전기차 화재가 원인으로 추정된다는 보도를 쏟아냈다. 이에 각종 온라인 커뮤니티와 소셜네트워크서비스(SNS) 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “전기차 타면 멀미나요”…전기차의 특성이 원인]]></title>
-        <id>https://v.daum.net/v/20221122195700374</id>
-        <link href="https://v.daum.net/v/20221122195700374"/>
-        <updated>2022-11-22T13:35:58.843Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 요즘 전기차를 흔하게 볼 수 있죠? 늘어난 전기차만큼 전기차를 탄 후 멀미를 호소하는 사람도 함께 늘고 있는데요. 실제로 전기차가 멀미에 더 취약한지 실험을 통해 알아봤습니다. 팩트체크K 충북, 한성원 기자입니다. [리포트] 자동차 시장에서 전기차는 급속히 늘고 있습니다. 전기차 등록대수는 지난 9월 처음으로 34만 대를 넘어섰는데]]></content>
     </entry>
 </feed>
