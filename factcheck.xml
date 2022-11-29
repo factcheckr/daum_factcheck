@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-28T23:24:22.504Z</updated>
+    <updated>2022-11-29T01:50:23.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?]]></title>
+        <id>https://v.daum.net/v/20221129101110801</id>
+        <link href="https://v.daum.net/v/20221129101110801"/>
+        <updated>2022-11-29T01:48:48.554Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 29일 화물연대 파업에 대해 업무개시명령의 발동을 검토하는 가운데 정부의 이런 조치가 국제노동기구(ILO) 협약에서 금지한 '강제노동'에 해당한다는 주장이 제기됐다. 윤석열 대통령은 지난 14일 밤 페이스북에 올린 글에서 화물연대가 "무책임한 운송 거부를 지속한다면 정부는 업무개시명령을 포함해 여러 대책을 검토할 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]한동훈 찾아간 더탐사, 주거 침입이다?]]></title>
         <id>https://v.daum.net/v/20221128200153229</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221122195700374"/>
         <updated>2022-11-22T13:35:58.843Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 요즘 전기차를 흔하게 볼 수 있죠? 늘어난 전기차만큼 전기차를 탄 후 멀미를 호소하는 사람도 함께 늘고 있는데요. 실제로 전기차가 멀미에 더 취약한지 실험을 통해 알아봤습니다. 팩트체크K 충북, 한성원 기자입니다. [리포트] 자동차 시장에서 전기차는 급속히 늘고 있습니다. 전기차 등록대수는 지난 9월 처음으로 34만 대를 넘어섰는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명에 대한 검찰 수사상황 유출, 피의사실 공표죄 해당할까]]></title>
-        <id>https://v.daum.net/v/20221122112205038</id>
-        <link href="https://v.daum.net/v/20221122112205038"/>
-        <updated>2022-11-22T03:42:03.272Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이재명 더불어민주당 대표의 측근들에 대한 검찰 수사를 놓고 '피의사실 공표' 논란이 일고 있다. 더불어민주당은 지난 11일 정진상 당 대표실 정무조정실장과 김용 민주연구원 부원장의 수사를 맡은 서울중앙지검 엄희준·강백신 부장검사를 피의사실 공표 혐의로 고위공직자범죄수사처(이하 공수처)에 고발했다. 이어 지난 19일엔 '대장]]></content>
     </entry>
 </feed>
