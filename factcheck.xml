@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-29T11:20:52.138Z</updated>
+    <updated>2022-11-29T12:42:27.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아르헨 꺾은 사우디, 포상으로 롤스로이스 받을까 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20221129203128559</id>
+        <link href="https://v.daum.net/v/20221129203128559"/>
+        <updated>2022-11-29T12:41:32.628Z</updated>
+        <content type="html"><![CDATA[지난&nbsp;22일(현지시간) 카타르 루사일 스타디움에서 열린 2022 카타르 월드컵 조별리그 C조 1차전에서 사우디아라비아 축구&nbsp;대표팀이 ‘월드컵 우승 후보’로 꼽히는 아르헨티나 축구&nbsp;대표팀을 2대 1로 꺾는 이변이 발생했다. 이에&nbsp;무함마드 빈 살만 사우디아라비아 왕세자가 자국 대표팀 선수들에게&nbsp;롤스로이스 자동차 1대씩을 선물할 것이라는 언론 보도가 나왔다. 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합)]]></title>
         <id>https://v.daum.net/v/20221129141243450</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221123195349815"/>
         <updated>2022-11-23T11:18:46.223Z</updated>
         <content type="html"><![CDATA[대장동 사건으로 구속됐던 인물들, 차례로 풀려나고 있죠. 보신 것처럼 구속 기간이 끝나는 당일 새벽 0시가 지나자마자 석방되는데요. 이렇게 한밤중에 나오는 이유, 알아봅니다. 대장동 사건 핵심 인물 김만배 씨도 원칙적으로는 내일 밤까지 구치소에 있어야 하지만, 지금부터 약 4시간 반쯤 뒤면 풀려날 예정입니다. 우리 법에서는 교도소나 구치소에 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 전기차, 정말 화재에 취약할까?]]></title>
-        <id>https://v.daum.net/v/20221123060047815</id>
-        <link href="https://v.daum.net/v/20221123060047815"/>
-        <updated>2022-11-22T21:19:27.154Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 김종성 기자] "전기차 계약했는데 화재 때문에 불안해서 못 사겠다." 지난 9월 대전의 한 아울렛에서 화재가 발생해 8명의 사상자가 나오는 안타까운 일이 벌어졌다. 당시 화재가 지하주차장에서 시작됐다는 사실이 알려지며 많은 언론사들이 전기차 화재가 원인으로 추정된다는 보도를 쏟아냈다. 이에 각종 온라인 커뮤니티와 소셜네트워크서비스(SNS) 등]]></content>
     </entry>
 </feed>
