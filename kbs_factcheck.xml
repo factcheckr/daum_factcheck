@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2022-11-30T20:25:35.815Z</updated>
+    <updated>2022-11-30T21:21:25.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파업 부른 안전운임제, 교통안전 개선 효과 있나? 없나?]]></title>
+        <id>https://v.daum.net/v/20221201060505010</id>
+        <link href="https://v.daum.net/v/20221201060505010"/>
+        <updated>2022-11-30T21:20:42.102Z</updated>
+        <content type="html"><![CDATA[정부가 29일, 파업 중인 화물연대 측 시멘트 운송 차량에 대해 '업무개시명령'을 발동하면서 양측 간 극한 대치가 이어지고 있습니다. 안전운임제 3년 연장과 대상 범위 확대 불가를 고수하는 정부와 안전운임제 영구 도입과 대상 확대를 촉구하는 화물연대 간 입장이 한 치의 양보 없이 맞서면서 2004년 관련법 제정 이후 첫 업무개시명령이라는  초유의 상황까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“전기차 타면 멀미나요”…전기차의 특성이 원인]]></title>
         <id>https://v.daum.net/v/20221122195700374</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220726070048732"/>
         <updated>2022-11-16T17:34:52.522Z</updated>
         <content type="html"><![CDATA[윤석열 정부는 전 정부의 '탈원전 정책'을 벗어나는 이른바  '탈(脫) 탈원전' 정책을 추진하고 있습니다. 윤 대통령이 후보 시절 SNS를 통해 '탈원전 백지화, 원전 최강국 건설'이라는 한 줄 공약을 밝힌 이후로 줄곧 탈(脫) 탈원전을 위한 행보에 나서고 있는데요. 지난 21일 열린 국회 교섭단체 대표연설에서 권성동 국민의힘 대표 직무대행 겸 원내대표는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국은 진짜로 '양성 평등 후진국'일까?]]></title>
-        <id>https://v.daum.net/v/20220717090023236</id>
-        <link href="https://v.daum.net/v/20220717090023236"/>
-        <updated>2022-11-16T17:34:52.524Z</updated>
-        <content type="html"><![CDATA["대한민국의 성 평등 수준이 세계 146개 나라 중 99위에 불과하다." 최근 여러 매체에서 우리나라의 성 평등 수준이 전 세계 하위권이라는 기사가 쏟아졌습니다. 세계경제포럼(WEF)이 현지시간으로 13일 내놓은 세계 젠더 격차 보고서(Global Gender Gap Report 2022) 내용을 전한 기사들입니다. 보고서에 따르면 한국은 젠더]]></content>
     </entry>
 </feed>
