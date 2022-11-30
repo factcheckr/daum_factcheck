@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-11-30T10:26:25.486Z</updated>
+    <updated>2022-11-30T11:20:49.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 안전운임제 품목 확대는 '고소득 화물기사' 수입 증대 목적?]]></title>
+        <id>https://v.daum.net/v/20221130200504987</id>
+        <link href="https://v.daum.net/v/20221130200504987"/>
+        <updated>2022-11-30T11:18:44.795Z</updated>
+        <content type="html"><![CDATA[[앵커] 안전운임제의 대상을 자동차 운반차나 곡물 운반차 등으로 확대하는 지 여부가 이번 파업의 쟁점 중 하나입니다. 정부는 해당 화물은 이미 소득이 높아서 안전 운임제가 필요 없다고 하고, 화물연대는 그러지 않다는 입장입니다. 누구 말이 맞는지 윤영탁 기자가 팩트체크 해봤습니다. [기자] 완성차를 실어나르는 화물차 노동자와 곡물 운반 노동자의 임금입니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]“어젯밤 서울에 첫눈?”…기상 관측 기준은?]]></title>
+        <id>https://v.daum.net/v/20221130195650792</id>
+        <link href="https://v.daum.net/v/20221130195650792"/>
+        <updated>2022-11-30T11:18:44.802Z</updated>
+        <content type="html"><![CDATA[어젯밤 서울기상관측소 모습입니다. 잘 보이지는 않지만 먼지처럼 약하게 눈발이 흩날리는데요. 올 들어 서울에 내린 공식 첫눈입니다. 지난해보다 19일 늦게 내렸죠. 내가 사는 곳에는 눈이 안 왔다며 의아해하시는 분들도 많을 텐데요. 첫눈, 어떤 기준으로 정하는지 알아봅니다. 서울의 경우 종로구 송월동에 있는 관측소에서 직원 눈에 직접 관측돼야 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아르헨 꺾은 사우디, 포상으로 롤스로이스 받을까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20221129203128559</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221124120310713"/>
         <updated>2022-11-24T03:32:40.187Z</updated>
         <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;지난 19일 오후 서울 중구 숭례문과 서울시청사이에서 촛불행동 주최로 '김건희 특검·윤석열 퇴진 촛불대행진 집회가 열리고 있다.    ⓒ 이희훈  &nbsp; [검증 대상] "11월 19일 촛불집회, 경찰 추산 2만5천명-주최측 추산 20만명" 지난 19일 서울 숭례문 인근에서 열린 '김건희 특검·윤석열 퇴진 촛불대행진 집회'(주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에도 '빈곤 포르노' 가이드라인이 있다?]]></title>
-        <id>https://v.daum.net/v/20221124103745479</id>
-        <link href="https://v.daum.net/v/20221124103745479"/>
-        <updated>2022-11-24T01:55:05.260Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 윤석열 대통령의 동남아 순방 때 동행한 김건희 여사가 캄보디아 프놈펜의 심장질환 소년 집을 방문해 촬영한 사진을 둘러싼 논란이 이어지고 있다. 대통령실은 22일 김 여사가 심장병 소년을 안고서 찍은 사진을 '빈곤 포르노'라고 비판하며 촬영 당시 조명까지 사용했다는 의혹을 제기한 더불어민주당 장경태 최고의원을 허위사실 유포에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]유동규도 남욱도…자정 ‘땡’하면 출소하는 이유?]]></title>
-        <id>https://v.daum.net/v/20221123195349815</id>
-        <link href="https://v.daum.net/v/20221123195349815"/>
-        <updated>2022-11-23T11:18:46.223Z</updated>
-        <content type="html"><![CDATA[대장동 사건으로 구속됐던 인물들, 차례로 풀려나고 있죠. 보신 것처럼 구속 기간이 끝나는 당일 새벽 0시가 지나자마자 석방되는데요. 이렇게 한밤중에 나오는 이유, 알아봅니다. 대장동 사건 핵심 인물 김만배 씨도 원칙적으로는 내일 밤까지 구치소에 있어야 하지만, 지금부터 약 4시간 반쯤 뒤면 풀려날 예정입니다. 우리 법에서는 교도소나 구치소에 1]]></content>
     </entry>
 </feed>
