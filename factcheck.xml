@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-01T20:22:21.718Z</updated>
+    <updated>2022-12-01T21:20:13.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "민주노총 탈퇴 직후 포스코 주가 급등"...사실일까?]]></title>
+        <id>https://v.daum.net/v/20221202055215565</id>
+        <link href="https://v.daum.net/v/20221202055215565"/>
+        <updated>2022-12-01T21:17:49.085Z</updated>
+        <content type="html"><![CDATA[[앵커] 지난달 30일 포스코 노동조합 중 한 곳인 포스코지회 포항지부가 민주노총 탈퇴를 투표로 결의했습니다. 같은 날 포스코 계열사의 주가가 상한가에 오르면서 투표 결과가 반영됐다는 분석 기사가 많았고 원희룡 장관까지 이런 해석에 힘을 실었는데요. 사실인지 한동오 기자가 따져봤습니다. [기자] "포스코 노조의 민주노총 탈퇴 직후 주가 급등은 개미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "민주노총 탈퇴 직후 포스코 주가 급등"...사실일까?]]></title>
+        <id>https://v.daum.net/v/20221202054605465</id>
+        <link href="https://v.daum.net/v/20221202054605465"/>
+        <updated>2022-12-01T21:17:49.086Z</updated>
+        <content type="html"><![CDATA[[앵커] 지난달 30일 포스코 노동조합 중 한 곳인 포스코지회 포항지부가 민주노총 탈퇴를 투표로 결의했습니다. 같은 날 포스코 계열사의 주가가 상한가에 오르면서 투표 결과가 반영됐다는 분석 기사가 많았고 원희룡 장관까지 이런 해석에 힘을 실었는데요. 사실인지 한동오 기자가 따져봤습니다. [기자] "포스코 노조의 민주노총 탈퇴 직후 주가 급등은 개미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 파업 쟁점 '안전운임제' 시행하는 나라 없다?]]></title>
         <id>https://v.daum.net/v/20221201195808979</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221129203128559"/>
         <updated>2022-11-29T12:41:32.628Z</updated>
         <content type="html"><![CDATA[지난&nbsp;22일(현지시간) 카타르 루사일 스타디움에서 열린 2022 카타르 월드컵 조별리그 C조 1차전에서 사우디아라비아 축구&nbsp;대표팀이 ‘월드컵 우승 후보’로 꼽히는 아르헨티나 축구&nbsp;대표팀을 2대 1로 꺾는 이변이 발생했다. 이에&nbsp;무함마드 빈 살만 사우디아라비아 왕세자가 자국 대표팀 선수들에게&nbsp;롤스로이스 자동차 1대씩을 선물할 것이라는 언론 보도가 나왔다. 과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?(종합)]]></title>
-        <id>https://v.daum.net/v/20221129141243450</id>
-        <link href="https://v.daum.net/v/20221129141243450"/>
-        <updated>2022-11-29T05:20:28.116Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 29일 화물연대 파업에 대해 업무개시명령 내린 가운데 정부의 이런 조치가 국제노동기구(ILO) 협약에서 금지한 '강제노동'에 해당한다는 주장이 나오고 있다. 윤석열 대통령은 이날 "(파업으로) 시멘트, 철강 등 물류가 중단돼서 전국의 건설과 생산 현장이 멈췄고, 우리 산업 기반이 초토화될 수 있는 상황"이라며 "정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화물연대에 업무개시명령은 강제노동 금지한 ILO 협약 위반?]]></title>
-        <id>https://v.daum.net/v/20221129101110801</id>
-        <link href="https://v.daum.net/v/20221129101110801"/>
-        <updated>2022-11-29T01:48:48.554Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 29일 화물연대 파업에 대해 업무개시명령의 발동을 검토하는 가운데 정부의 이런 조치가 국제노동기구(ILO) 협약에서 금지한 '강제노동'에 해당한다는 주장이 제기됐다. 윤석열 대통령은 지난 14일 밤 페이스북에 올린 글에서 화물연대가 "무책임한 운송 거부를 지속한다면 정부는 업무개시명령을 포함해 여러 대책을 검토할 수]]></content>
     </entry>
 </feed>
