@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-03T01:38:41.568Z</updated>
+    <updated>2022-12-03T02:41:05.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크] 尹, '범죄 기반 쟁의' 경고…화물연대 파업 불법인가?]]></title>
+        <id>https://v.daum.net/v/20221203103901684</id>
+        <link href="https://v.daum.net/v/20221203103901684"/>
+        <updated>2022-12-03T02:39:59.272Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt;정부는 화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다?]]></title>
         <id>https://v.daum.net/v/20221203072306807</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221201060505010"/>
         <updated>2022-11-30T21:20:05.726Z</updated>
         <content type="html"><![CDATA[정부가 29일, 파업 중인 화물연대 측 시멘트 운송 차량에 대해 '업무개시명령'을 발동하면서 양측 간 극한 대치가 이어지고 있습니다. 안전운임제 3년 연장과 대상 범위 확대 불가를 고수하는 정부와 안전운임제 영구 도입과 대상 확대를 촉구하는 화물연대 간 입장이 한 치의 양보 없이 맞서면서 2004년 관련법 제정 이후 첫 업무개시명령이라는  초유의 상황까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김의겸이 쏘아올린 ‘청담동 술자리’ 의혹, 첼리스트의 ‘거짓말’로 가닥 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20221201060301955</id>
-        <link href="https://v.daum.net/v/20221201060301955"/>
-        <updated>2022-11-30T21:20:05.727Z</updated>
-        <content type="html"><![CDATA[“7월19일 밤, 그날 술자리를 가신 기억이 있으십니까. 청담동 고급스러운 바였습니다. 그랜드 피아노가 있었고 첼로가 있었습니다. 제보 내용에 따르면 김앤장 변호사 30명과 윤석열 대통령도 청담동 바에 합류했습니다. 기억나십니까?”(더불어민주당 김의겸 의원) 더불어민주당 김의겸 의원이 지난 24일 국회에서 열린 의원총회에 참석해 자리에 앉아 있다. 연]]></content>
     </entry>
 </feed>
