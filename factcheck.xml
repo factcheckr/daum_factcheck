@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-05T01:45:14.145Z</updated>
+    <updated>2022-12-05T02:47:42.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "금투세는 개미학살법"? 권성동 발언 팩트체크]]></title>
+        <id>https://v.daum.net/v/20221205112814497</id>
+        <link href="https://v.daum.net/v/20221205112814497"/>
+        <updated>2022-12-05T02:46:23.496Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 3일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "금투세는 개미학살법"? 권성동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크] 尹, '범죄 기반 쟁의' 경고…화물연대 파업 불법인가?]]></title>
         <id>https://v.daum.net/v/20221203103901684</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221201111257856"/>
         <updated>2022-12-01T08:29:25.307Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 2022 카타르 월드컵 조별리그 E조 2차전 일본과 코스타리카 경기가 열린 지난달 27일 알라이얀의 아흐마드 빈 알리 스타디움에서 '욱일기'(旭日旗)를 내걸고 응원하는 일본 관중을 국제축구연맹(FIFA)에서 제지했다는 보도가 주목을 받고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 파업 부른 안전운임제, 교통안전 개선 효과 있나? 없나?]]></title>
-        <id>https://v.daum.net/v/20221201060505010</id>
-        <link href="https://v.daum.net/v/20221201060505010"/>
-        <updated>2022-11-30T21:20:05.726Z</updated>
-        <content type="html"><![CDATA[정부가 29일, 파업 중인 화물연대 측 시멘트 운송 차량에 대해 '업무개시명령'을 발동하면서 양측 간 극한 대치가 이어지고 있습니다. 안전운임제 3년 연장과 대상 범위 확대 불가를 고수하는 정부와 안전운임제 영구 도입과 대상 확대를 촉구하는 화물연대 간 입장이 한 치의 양보 없이 맞서면서 2004년 관련법 제정 이후 첫 업무개시명령이라는  초유의 상황까지]]></content>
     </entry>
 </feed>
