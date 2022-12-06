@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T20:22:13.781Z</updated>
+    <updated>2022-12-06T21:19:36.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221207054616212</id>
+        <link href="https://v.daum.net/v/20221207054616212"/>
+        <updated>2022-12-06T21:18:24.596Z</updated>
+        <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '국회선진화법' 이후엔 항상 정기국회 내 예산안 처리했다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221205154104948</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221201195808979"/>
         <updated>2022-12-01T11:18:30.885Z</updated>
         <content type="html"><![CDATA[[앵커] 여러 차례 보도해드린 것처럼 이번 파업의 핵심 쟁점은 안전운임제입니다. 화물운임에 대한 일종의 최저임금제 같은 건데, 정부와 경제단체는 전 세계적으로 유례를 찾기 힘든 제도라고 했습니다. 정말로 그런 건지, 성화선 기자가 팩트체크해보겠습니다. [기자] 원희룡 국토교통부 장관의 발언부터 들어보시겠습니다. [원희룡/국토교통부 장관 (지난 11월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 인플레이션 정점 지났나… 물가상승세는 끝났나 [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221201180129775</id>
-        <link href="https://v.daum.net/v/20221201180129775"/>
-        <updated>2022-12-01T09:21:57.161Z</updated>
-        <content type="html"><![CDATA[최근 급등했던 물가가 정점을 지났다는 의견이 많아지고 있다. 국내외 주요 중앙은행이 고금리 정책을 이어지면서 기대인플레이션율도 하락했다는 말이 나온다. 과연 그럴까. 사진=EPA연합뉴스  ◆물가상승 정점은 지났다→대체로 사실 1일 영국 경제매체 파이낸셜타임스(FT)에 따르면 복수의 이코노미스트들은 글로벌 인플레이션 완화 신호가 뚜렷해지고 있다는 의견을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1무 1패 하고도 16강 진출한 경우는? (다음 뉴스 ─ SBS 사실은)]]></title>
