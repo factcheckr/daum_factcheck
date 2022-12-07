@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2022-12-07T10:24:19.331Z</updated>
+    <updated>2022-12-07T11:18:14.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교통사고 내고 20미터만 벗어나도 뺑소니?]]></title>
+        <id>https://v.daum.net/v/20221207195448519</id>
+        <link href="https://v.daum.net/v/20221207195448519"/>
+        <updated>2022-12-07T11:17:47.458Z</updated>
+        <content type="html"><![CDATA[앞서 보신 청담동 초등학생 사망사건 현장입니다. 가해자 집과는 불과 20여 미터밖에 떨어져 있지 않은데요. 가해자 진술대로 현장에 금방 돌아왔다면 뺑소니가 아닌 걸까요? 정확한 뺑소니의 기준, 스튜디오에서 알아봅니다. 뺑소니, 정확히는 도주차량죄인데요. 가중처벌 대상입니다. 특히 차로 사람을 숨지게 한 뒤 달아나는 것은 징역 5년 이상,&nbsp;혹은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“어젯밤 서울에 첫눈?”…기상 관측 기준은?]]></title>
         <id>https://v.daum.net/v/20221130195650792</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221024202348062"/>
         <updated>2022-11-16T17:35:04.960Z</updated>
         <content type="html"><![CDATA[[넷플릭스 영화 '수리남'] "진짜 마약상이 된 것처럼 행동해야 합니다." 최근 인기를 끌었던 한국인 마약상의 검거 실화를 다룬 영화입니다. 영화 속 주인공, 우리나라로 마약을 들여오려 했지만 결국 실패했죠. 최근 국내에서 마약 범죄가 급증해 마약청정국 지위까지 잃었다는 말이 나오는데요. 사실인지 확인해봅니다. 마약청정국의 개념, 결론부터 말씀드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마약 검출' 피할 수 있다고?]]></title>
-        <id>https://v.daum.net/v/20221019194853533</id>
-        <link href="https://v.daum.net/v/20221019194853533"/>
-        <updated>2022-11-16T17:35:04.961Z</updated>
-        <content type="html"><![CDATA[최근 젊은층을 중심으로 마약 범죄가 급격히 늘고 있죠. 일각에서는 전신 제모를 하거나 수액을 맞으면 마약 검사에 안 걸릴 수 있다며, 검사 회피 방법들이 공유되기도 하는데요. 마약 검출 피하는 방법, 과연 있을까요? 짚어보겠습니다. 먼저 제모나 탈색, 염색을 하면 검출이 안된다는 말, 사실일까요? 최근 마약 투약 혐의 등으로 구속된 작곡가 돈]]></content>
     </entry>
 </feed>
