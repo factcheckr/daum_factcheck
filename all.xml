@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T01:47:45.800Z</updated>
+    <updated>2022-12-07T02:54:34.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 소주 맛, 제조공장에 따라 달거나 쓰다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221207105514821</id>
+        <link href="https://v.daum.net/v/20221207105514821"/>
+        <updated>2022-12-07T02:53:23.100Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = '인생이 쓰면 소주가 달다'는 애주가들의 지론은 실제 근거가 있는 과학적 발언일까? 주류업계의 대목인 연말을 앞두고 인터넷 커뮤니티를 중심으로 진로하이트의 소주 '참이슬'이 제조 공장에 따라 맛이 다르다는 주장이 확산하고 있다. 참이슬에 붙은 제품 라벨을 보면 'F1'(Factory 1), 'F2' 등으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221207054616212</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221202054605465"/>
         <updated>2022-12-01T21:17:49.086Z</updated>
         <content type="html"><![CDATA[[앵커] 지난달 30일 포스코 노동조합 중 한 곳인 포스코지회 포항지부가 민주노총 탈퇴를 투표로 결의했습니다. 같은 날 포스코 계열사의 주가가 상한가에 오르면서 투표 결과가 반영됐다는 분석 기사가 많았고 원희룡 장관까지 이런 해석에 힘을 실었는데요. 사실인지 한동오 기자가 따져봤습니다. [기자] "포스코 노조의 민주노총 탈퇴 직후 주가 급등은 개미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 파업 쟁점 '안전운임제' 시행하는 나라 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221201195808979</id>
-        <link href="https://v.daum.net/v/20221201195808979"/>
-        <updated>2022-12-01T11:18:30.885Z</updated>
-        <content type="html"><![CDATA[[앵커] 여러 차례 보도해드린 것처럼 이번 파업의 핵심 쟁점은 안전운임제입니다. 화물운임에 대한 일종의 최저임금제 같은 건데, 정부와 경제단체는 전 세계적으로 유례를 찾기 힘든 제도라고 했습니다. 정말로 그런 건지, 성화선 기자가 팩트체크해보겠습니다. [기자] 원희룡 국토교통부 장관의 발언부터 들어보시겠습니다. [원희룡/국토교통부 장관 (지난 11월 24일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1무 1패 하고도 16강 진출한 경우는? (다음 뉴스 ─ SBS 사실은)]]></title>
