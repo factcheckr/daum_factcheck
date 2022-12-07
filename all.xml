@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T14:20:15.216Z</updated>
+    <updated>2022-12-07T15:22:34.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221207232206004</id>
+        <link href="https://v.daum.net/v/20221207232206004"/>
+        <updated>2022-12-07T15:21:31.295Z</updated>
+        <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221207210908827</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221203103901684"/>
         <updated>2022-12-03T02:39:59.272Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt;정부는 화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221203072306807</id>
-        <link href="https://v.daum.net/v/20221203072306807"/>
-        <updated>2022-12-02T23:20:33.993Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 민주노총 공공운수노조 화물연대본부(화물연대)의 파업(집단 운송거부) 사태가 점차 장기화하는 가운데 정부가 업무개시명령을 내리며 업무 복귀를 압박하고 있다. 이런 와중에 화물연대가 안전운임제 적용 확대를 요구한 품목에 종사하는 화물차 운전자들의 소득 수준을 놓고 논란이 일고 있다. 화물연대는 컨테이너와 시멘트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
