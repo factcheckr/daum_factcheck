@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-07T12:39:44.641Z</updated>
+    <updated>2022-12-07T13:28:43.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20221207195448519"/>
         <updated>2022-12-07T11:17:11.417Z</updated>
         <content type="html"><![CDATA[앞서 보신 청담동 초등학생 사망사건 현장입니다. 가해자 집과는 불과 20여 미터밖에 떨어져 있지 않은데요. 가해자 진술대로 현장에 금방 돌아왔다면 뺑소니가 아닌 걸까요? 정확한 뺑소니의 기준, 스튜디오에서 알아봅니다. 뺑소니, 정확히는 도주차량죄인데요. 가중처벌 대상입니다. 특히 차로 사람을 숨지게 한 뒤 달아나는 것은 징역 5년 이상,&nbsp;혹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 20대가 ‘영끌’해서 집을 샀다고? 다 틀렸다!]]></title>
+        <id>https://v.daum.net/v/20221207164517513</id>
+        <link href="https://v.daum.net/v/20221207164517513"/>
+        <updated>2022-12-07T13:27:32.377Z</updated>
+        <content type="html"><![CDATA[통계청과 한국은행·금융감독원이 지난 1일 발표한 ‘2022년 가계금융복지조사’ 결과는 뒷말을 낳았다. 이 통계는 전국 2만여 표본가구 조사를 통해 국내 가계의 살림살이 형편을 보여주는 대표 지표다. 이번 조사에서 가구주 나이가 만 15∼29살인 가구의 올해 3월 말 기준 가구당 평균 부채가 5014만원으로 1년 전보다 41.2%(1464만원) 급증한 것으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 취임 후 야당 회동 無…예전엔 어땠나 [팩트체크]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221203072306807"/>
         <updated>2022-12-02T23:20:33.993Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 민주노총 공공운수노조 화물연대본부(화물연대)의 파업(집단 운송거부) 사태가 점차 장기화하는 가운데 정부가 업무개시명령을 내리며 업무 복귀를 압박하고 있다. 이런 와중에 화물연대가 안전운임제 적용 확대를 요구한 품목에 종사하는 화물차 운전자들의 소득 수준을 놓고 논란이 일고 있다. 화물연대는 컨테이너와 시멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 화물차 '안전운임제' 효과 있다? 없다? 따져보니]]></title>
-        <id>https://v.daum.net/v/20221202195506817</id>
-        <link href="https://v.daum.net/v/20221202195506817"/>
-        <updated>2022-12-02T11:15:41.544Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 정부와 화물연대의 극한 대립. 바로 화물차 기사들에게 최소 운송료를 보장해주는 '안전운임제' 때문이죠. 이 제도가 효과가 있다 없다를 두고 양측이 평행선을 달리고 있는데, 자세히 따져보겠습니다. 정부와 여당은 안전운임제가 실시된 이후 오히려 교통사고가 늘었다며 효과가 없다고 주장합니다. [김정재/국민의힘 의원]]]></content>
     </entry>
 </feed>
