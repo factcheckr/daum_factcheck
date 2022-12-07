@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-12-07T11:18:14.357Z</updated>
+    <updated>2022-12-07T12:39:44.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니]]></title>
+        <id>https://v.daum.net/v/20221207210908827</id>
+        <link href="https://v.daum.net/v/20221207210908827"/>
+        <updated>2022-12-07T12:38:43.703Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 화물연대 파업의 중심에는&nbsp;안전운임제가 있습니다. 수출입 컨테이너와 시멘트&nbsp;화물차 기사들에게&nbsp;최소 운임을 보장하는 걸로&nbsp;연말이면&nbsp;법적 효력이 없어지는데,&nbsp;그럼 법을 고칠 수 있는 국회는&nbsp;지난 6월 파업 이후&nbsp;뭘 하고 있던 걸까요. 팩트체크 사실은 코너, 이경원 기자가 짚어봤습니다. &lt;기자&gt; 화물연대의 파업은 올해만 두 번째입니다. 지난 6월에도 했는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1무 1패 하고도 16강 진출한 경우는?]]></title>
         <id>https://v.daum.net/v/20221205103602343</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220929204205550"/>
         <updated>2022-11-16T17:34:27.950Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 파업 이후에 손해배상 소송으로 어려움을 겪는 노동자들의 현실과 '노란봉투법'을 둘러싼 쟁점 짚어봤습니다. 이번에는 다른 나라들의 관련 상황도 알아보겠습니다. 팩트체크 '사실은'팀, 이경원 기자입니다. &lt;기자&gt; 선진국 어떤지 살펴보겠습니다. 노동권이 발달했다고 알려진 독일, 프랑스, 영국 같은 유럽 국가들, 불법 파업에 대한 손해배상 청구가 얼마든지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인들 옷 살 돈 깎았다? 누구 말이 맞을까]]></title>
-        <id>https://v.daum.net/v/20220922180313842</id>
-        <link href="https://v.daum.net/v/20220922180313842"/>
-        <updated>2022-11-16T17:34:27.951Z</updated>
-        <content type="html"><![CDATA[군 장병 전투화 310억 원 삭감, 축구화 21억 원 삭감, 내복 95억 원 삭감, 팬티 5억 원, 양말 4억 원 삭감… 최근, 더불어민주당 서영교 의원이 주장한 내용입니다. 서 의원은 "일선 군 장병을 위한 피복 예산을 깎았다"면서 '비정한 예산'이라고 비판했습니다. 그런데 국민의힘에서는 '가짜뉴스로 군 사기를 저해하는 민주당이 비정하다'는 제목의 논평을]]></content>
     </entry>
 </feed>

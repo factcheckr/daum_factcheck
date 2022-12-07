@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-07T11:18:14.361Z</updated>
+    <updated>2022-12-07T12:39:44.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니]]></title>
+        <id>https://v.daum.net/v/20221207210908827</id>
+        <link href="https://v.daum.net/v/20221207210908827"/>
+        <updated>2022-12-07T12:38:31.824Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 화물연대 파업의 중심에는&nbsp;안전운임제가 있습니다. 수출입 컨테이너와 시멘트&nbsp;화물차 기사들에게&nbsp;최소 운임을 보장하는 걸로&nbsp;연말이면&nbsp;법적 효력이 없어지는데,&nbsp;그럼 법을 고칠 수 있는 국회는&nbsp;지난 6월 파업 이후&nbsp;뭘 하고 있던 걸까요. 팩트체크 사실은 코너, 이경원 기자가 짚어봤습니다. &lt;기자&gt; 화물연대의 파업은 올해만 두 번째입니다. 지난 6월에도 했는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]교통사고 내고 20미터만 벗어나도 뺑소니?]]></title>
         <id>https://v.daum.net/v/20221207195448519</id>
         <link href="https://v.daum.net/v/20221207195448519"/>
         <updated>2022-12-07T11:17:11.417Z</updated>
-        <content type="html"><![CDATA[앞서 보신 청담동 초등학생 사망사건 현장입니다. 가해자 집과는 불과 20여 미터밖에 떨어져 있지 않은데요. 가해자 진술대로 현장에 금방 돌아왔다면 뺑소니가 아닌 걸까요? 정확한 뺑소니의 기준, 스튜디오에서 알아봅니다. 뺑소니, 정확히는 도주차량죄인데요. 가중처벌 대상입니다. 특히 차로 사람을 숨지게 한 뒤 달아나는 것은 징역 5년 이상,&nbsp;혹은]]></content>
+        <content type="html"><![CDATA[앞서 보신 청담동 초등학생 사망사건 현장입니다. 가해자 집과는 불과 20여 미터밖에 떨어져 있지 않은데요. 가해자 진술대로 현장에 금방 돌아왔다면 뺑소니가 아닌 걸까요? 정확한 뺑소니의 기준, 스튜디오에서 알아봅니다. 뺑소니, 정확히는 도주차량죄인데요. 가중처벌 대상입니다. 특히 차로 사람을 숨지게 한 뒤 달아나는 것은 징역 5년 이상,&nbsp;혹]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 취임 후 야당 회동 無…예전엔 어땠나 [팩트체크]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221202195506817"/>
         <updated>2022-12-02T11:15:41.544Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 정부와 화물연대의 극한 대립. 바로 화물차 기사들에게 최소 운송료를 보장해주는 '안전운임제' 때문이죠. 이 제도가 효과가 있다 없다를 두고 양측이 평행선을 달리고 있는데, 자세히 따져보겠습니다. 정부와 여당은 안전운임제가 실시된 이후 오히려 교통사고가 늘었다며 효과가 없다고 주장합니다. [김정재/국민의힘 의원]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닥사가 위믹스 거래 종료 지원 결정 권한 있나 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20221202160132365</id>
-        <link href="https://v.daum.net/v/20221202160132365"/>
-        <updated>2022-12-02T07:18:58.149Z</updated>
-        <content type="html"><![CDATA[국내 가상자산거래소들로 구성된&nbsp;‘디지털자산 거래소 공동협의체(DAXA·닥사)’가&nbsp;게임업체 위메이드가 발행한 가상화폐 위믹스의 거래지원 중지(상장폐지)를 결정한 것을 놓고 공방이 거세다. 위메이드는 즉각 반발하며 법원에 가처분 신청을 냈고, 공정거래위원회 제소도 준비 중이다. 별개로 이번 결정을 닥사가 주도한 것을 놓고 과연 적절하냐는 지적도 나온다. 민간업]]></content>
     </entry>
 </feed>
