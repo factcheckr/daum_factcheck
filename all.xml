@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-08T07:19:43.464Z</updated>
+    <updated>2022-12-08T08:27:40.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] 최대 2살 어려지는 ‘만 나이’ 통일, 내년 시행되면 뭐가 달라지나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221208165444939</id>
+        <link href="https://v.daum.net/v/20221208165444939"/>
+        <updated>2022-12-08T08:26:29.241Z</updated>
+        <content type="html"><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방식에 따라 1~2살까지 차이가 났던 우리나라 특유의 나이 계산법이 국제적으로 통용되는 '만 나이'로 일원화되는 것입니다. 만 나이는 태어난 해를 0살로 보고 정확하게 1년이 지날 때마다 한살씩 더하는 방식입니다. 국회는 오늘(7일) 오후 열린 본회의에서 만 나이 사용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 미국·영국선 주소지 없어도 사회보장급여 신청할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221208113507590</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221207054616212"/>
         <updated>2022-12-06T21:18:24.596Z</updated>
         <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '국회선진화법' 이후엔 항상 정기국회 내 예산안 처리했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221205154104948</id>
-        <link href="https://v.daum.net/v/20221205154104948"/>
-        <updated>2022-12-05T07:19:01.279Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 내년도 예산안이 연내에 처리될 수 있을까. 일단 법정 시한(2일)은 이미 지났다. 여야가 팽팽하게 맞서고 있어 사태가 장기화할 수 있다는 전망까지 나온다. 여야는 정기국회 회기 마지막 날인 9일을 예산안 처리의 '2차 데드라인'으로 잡고 협상을 진행 중이다. 이를 위해 국민의힘과 더불어민주당은 양당 정책위의장과 예산결산특별]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
