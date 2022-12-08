@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T23:22:22.640Z</updated>
+    <updated>2022-12-08T01:43:52.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나가 들여온 '문자·카톡 행정'…문자 업무개시명령도 효력? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221208072127410</id>
+        <link href="https://v.daum.net/v/20221208072127410"/>
+        <updated>2022-12-08T01:42:36.044Z</updated>
+        <content type="html"><![CDATA[(세종=연합뉴스) 박초롱 기자 = 화물연대 파업 과정에서 정부는 시멘트 화물차 기사 778명(7일 기준)에게 업무개시명령서를 발부했다. 이 중 464명에 대해선 등기우편으로 명령서를 보냈고, 264명에게는 문자메시지로 전송했다. 사진으로 찍은 명령서를 메시지로 보내는 방식이다. 나머지는 정부가 확보한 주소나 전화번호에 오류가 있어 현장조사를 통해 화물차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221207232206004</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221205112814497"/>
         <updated>2022-12-05T02:46:23.496Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 3일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] "금투세는 개미학살법"? 권성동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크] 尹, '범죄 기반 쟁의' 경고…화물연대 파업 불법인가? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221203103901684</id>
-        <link href="https://v.daum.net/v/20221203103901684"/>
-        <updated>2022-12-03T02:39:59.272Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt;정부는 화]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
