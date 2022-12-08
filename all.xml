@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-08T22:21:15.259Z</updated>
+    <updated>2022-12-08T23:23:53.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] ILO 개입 “가짜뉴스”라는 주호영이 틀렸다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221209050535096</id>
+        <link href="https://v.daum.net/v/20221209050535096"/>
+        <updated>2022-12-08T23:22:48.552Z</updated>
+        <content type="html"><![CDATA[국제노동기구(ILO)가 민주노총 전국공공운수사회서비스노조 화물연대 본부(화물연대) 파업에 대한 정부의 업무개시명령 등 정부 대응에 대해 지난 2일 ‘개입’ 결정을 한 가운데, 주호영 국민의힘 원내대표가 “우리나라가 국제노동기구 규범을 위반해서 국제적 문제가 되는 듯 가짜뉴스가 생산되고 있다”고 말했다. 정부가 지난 4일 “화물연대 파업에 대한 의견을 요청한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 최대 2살 어려지는 ‘만 나이’ 통일, 내년 시행되면 뭐가 달라지나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221208165444939</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221207150850899"/>
         <updated>2022-12-07T06:26:53.477Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = '인생이 쓰면 소주가 달다'는 애주가들의 지론은 실제 근거가 있는 과학적 발언일까? 주류업계의 대목인 연말을 앞두고 인터넷 커뮤니티를 중심으로 하이트진로의 소주 '참이슬'이 제조 공장에 따라 맛이 다르다는 주장이 확산하고 있다. 참이슬에 붙은 제품 라벨을 보면 'F1'(Factory 1), 'F2' 등으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221207054616212</id>
-        <link href="https://v.daum.net/v/20221207054616212"/>
-        <updated>2022-12-06T21:18:24.596Z</updated>
-        <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
