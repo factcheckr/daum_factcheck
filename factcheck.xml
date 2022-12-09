@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-09T01:47:38.126Z</updated>
+    <updated>2022-12-09T02:51:28.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 최대 2살 어려지는 ‘만 나이’ 통일, 내년 시행되면 뭐가 달라지나?]]></title>
         <id>https://v.daum.net/v/20221208165444939</id>
