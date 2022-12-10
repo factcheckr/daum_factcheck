@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-10T20:22:04.981Z</updated>
+    <updated>2022-12-10T21:18:25.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "법무부장관은 좀처럼 소송 안 했다?"...최근 장관 10명 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221211060410271</id>
+        <link href="https://v.daum.net/v/20221211060410271"/>
+        <updated>2022-12-10T21:17:21.777Z</updated>
+        <content type="html"><![CDATA[[앵커] 한동훈 법무부 장관이 이른바 '청담동 술자리' 의혹을 제기한 김의겸 더불어민주당 의원을 고소하고 민사소송도 냈는데요. 김 의원은 과거 법무부 장관들은 좀처럼 소송을 하지 않았다고 주장했습니다. 한동오 기자가 따져봤습니다. [기자] 김의겸 의원이 지난 6일 SNS에 올린 글입니다. 법무부 장관은 검사 인사권을 쥐고 있고 검사는 경찰 수사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]그 많던 멧돼지는 어디에…3년 동안 27만 마리 사살 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221210090301290</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221207164517513"/>
         <updated>2022-12-07T13:27:32.377Z</updated>
         <content type="html"><![CDATA[통계청과 한국은행·금융감독원이 지난 1일 발표한 ‘2022년 가계금융복지조사’ 결과는 뒷말을 낳았다. 이 통계는 전국 2만여 표본가구 조사를 통해 국내 가계의 살림살이 형편을 보여주는 대표 지표다. 이번 조사에서 가구주 나이가 만 15∼29살인 가구의 올해 3월 말 기준 가구당 평균 부채가 5014만원으로 1년 전보다 41.2%(1464만원) 급증한 것으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 취임 후 야당 회동 無…예전엔 어땠나 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221207161824661</id>
-        <link href="https://v.daum.net/v/20221207161824661"/>
-        <updated>2022-12-07T08:26:48.266Z</updated>
-        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 윤석열 대통령이 지난달 25일 한남동 관저에서 국민의힘 지도부와 저녁 만찬을 가진 것을 두고 야권에서 강도 높은 비판이 제기되고 있습니다. 윤 대통령이 지난 5월 취임했지만 아직까지도 영수회담을 하거나 야당 지도부와 회동한 적이 없다는 것이 비판의 골자입니다. 더불어민주당과 정의당 소속 야권 인사들은 여소야대 형국에서 윤 대]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
