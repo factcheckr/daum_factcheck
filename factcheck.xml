@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-09T23:22:54.969Z</updated>
+    <updated>2022-12-10T01:42:54.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크] 그 많던 멧돼지는 어디에…3년 동안 27만 마리 사살]]></title>
+        <id>https://v.daum.net/v/20221210090301290</id>
+        <link href="https://v.daum.net/v/20221210090301290"/>
+        <updated>2022-12-10T01:42:06.227Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt; 유사 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대전, 실내마스크 의무화 먼저 푼다는데…마스크 언제 벗나]]></title>
         <id>https://v.daum.net/v/20221209161043509</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221207161824661"/>
         <updated>2022-12-07T08:26:48.266Z</updated>
         <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 윤석열 대통령이 지난달 25일 한남동 관저에서 국민의힘 지도부와 저녁 만찬을 가진 것을 두고 야권에서 강도 높은 비판이 제기되고 있습니다. 윤 대통령이 지난 5월 취임했지만 아직까지도 영수회담을 하거나 야당 지도부와 회동한 적이 없다는 것이 비판의 골자입니다. 더불어민주당과 정의당 소속 야권 인사들은 여소야대 형국에서 윤 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 소주 맛, 제조공장에 따라 달거나 쓰다?(종합)]]></title>
-        <id>https://v.daum.net/v/20221207150850899</id>
-        <link href="https://v.daum.net/v/20221207150850899"/>
-        <updated>2022-12-07T06:26:53.477Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = '인생이 쓰면 소주가 달다'는 애주가들의 지론은 실제 근거가 있는 과학적 발언일까? 주류업계의 대목인 연말을 앞두고 인터넷 커뮤니티를 중심으로 하이트진로의 소주 '참이슬'이 제조 공장에 따라 맛이 다르다는 주장이 확산하고 있다. 참이슬에 붙은 제품 라벨을 보면 'F1'(Factory 1), 'F2' 등으로]]></content>
     </entry>
 </feed>
