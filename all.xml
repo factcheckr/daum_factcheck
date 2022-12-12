@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-12T11:19:27.837Z</updated>
+    <updated>2022-12-12T12:41:44.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221212211802018</id>
+        <link href="https://v.daum.net/v/20221212211802018"/>
+        <updated>2022-12-12T12:40:30.221Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ 부산에서 열린 국민의힘 현장 비상대책위&nbsp;국민의힘 정진석 비상대책위원장이 12일 부산 동구 부산항국제전시컨벤션센터에서 열린 현장 비상대책위원회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] 정진석 "민주당의 산업은행 부산 이전 반대는 민노총 탓" "지금, 한국산업은행법 국회 정무위에 계류 중이다. 민주당의 협조를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 유족 지원에 시민단체는 안돼? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221212201013296</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221207232206004"/>
         <updated>2022-12-07T15:21:31.295Z</updated>
         <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221207210908827</id>
-        <link href="https://v.daum.net/v/20221207210908827"/>
-        <updated>2022-12-07T12:38:31.824Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 화물연대 파업의 중심에는&nbsp;안전운임제가 있습니다. 수출입 컨테이너와 시멘트&nbsp;화물차 기사들에게&nbsp;최소 운임을 보장하는 걸로&nbsp;연말이면&nbsp;법적 효력이 없어지는데,&nbsp;그럼 법을 고칠 수 있는 국회는&nbsp;지난 6월 파업 이후&nbsp;뭘 하고 있던 걸까요. 팩트체크 사실은 코너, 이경원 기자가 짚어봤습니다. &lt;기자&gt; 화물연대의 파업은 올해만 두 번째입니다. 지난 6월에도 했는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핵심 쟁점은 '안전운임제'…국회 뭐 했나 들여다보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -162,7 +162,7 @@
         <title type="html"><![CDATA[유족 지원에 시민단체는 안돼? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20221212201013296</id>
         <link href="https://v.daum.net/v/20221212201013296"/>
-        <updated>2022-12-12T11:18:47.686Z</updated>
+        <updated>2022-12-12T11:18:29.289Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 10.29 참사 42일 만에 만들어진 유가족과 시민단체들의 모임에 대해 여권의 반응이 노골적입니다. "시민단체가 조직적으로 정부를 압박해서는 안된다", "시민단체가 지원금을 횡령할 가능성이 있다"며 사실상 손을 떼라는 주장을 하고 있는데요. 이런 주장이 맞는 건지, 과거 국내에서 발생한 참사, 그리고 해외에선 어떻게]]></content>
     </entry>
     <entry>
@@ -330,7 +330,7 @@
         <title type="html"><![CDATA[스피커로 층간소음 복수, 스토킹으로 처벌? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20221212195254084</id>
         <link href="https://v.daum.net/v/20221212195254084"/>
-        <updated>2022-12-12T11:19:02.967Z</updated>
+        <updated>2022-12-12T11:18:29.299Z</updated>
         <content type="html"><![CDATA[[기자] 우리 집 바닥에서 이런 소음이 종일 들려온다면 어떨까요? 층간소음에 복수하는 소음이라며 인터넷에 올라온 음원 파일입니다. 이런 파일을 윗집을 향해 스피커로 틀면 처벌된다는데, 근거가 뭔지 살펴봅니다. 윗집에서 층간소음을 일으킨다 생각한 40대 부부, 집 천장에 저음을 재생하는 우퍼 스피커를 달았는데요. 그리고는 방금 들으신 가정 소음]]></content>
     </entry>
     <entry>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 내년 최저임금이 1만원으로 인상되면 최대 30만개 일자리가 줄어들 수 있다는 연구 결과가 나왔다. 코로나19 사태로 자영업자·소상공인이 어려운 상황에서 최저임금을 인상하면 노동 수요와 저임금 노동자의 일자리가 감소할 수 있다는 것이다. 일각에서는 최저임금이 크게 인상된 2018~2019년 고용 상황이 나쁘지 않았다는 반박도 나온다. 최저임금]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20221212211802018</id>
+        <link href="https://v.daum.net/v/20221212211802018"/>
+        <updated>2022-12-12T12:41:33.590Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ 부산에서 열린 국민의힘 현장 비상대책위&nbsp;국민의힘 정진석 비상대책위원장이 12일 부산 동구 부산항국제전시컨벤션센터에서 열린 현장 비상대책위원회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] 정진석 "민주당의 산업은행 부산 이전 반대는 민노총 탓" "지금, 한국산업은행법 국회 정무위에 계류 중이다. 민주당의 협조를]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지난주 촛불집회, 경찰측 "2만5천"-주최측 "20만"... 검증해보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20221124120310713</id>
         <link href="https://v.daum.net/v/20221124120310713"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20220902194800645"/>
         <updated>2022-11-16T17:35:28.080Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;(과천=연합뉴스) 신준희 기자 = 한동훈 법무부 장관이 31일 오후 정부과천청사 법무부에서 론스타 국제투자분쟁(ISDS) 사건 판정 관련 브리핑을 하고 있다. 2022.8.31 [공동취재]    ⓒ 연합뉴스  &nbsp; [검증대상] "한국 정부가 론스타에 95% 승소" 법무부 주장 &nbsp;"결론적으로 론스타 측 청구금액 약 46.8억]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220901051805230</id>
-        <link href="https://v.daum.net/v/20220901051805230"/>
-        <updated>2022-11-16T17:35:28.081Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;주요 언론은 올해 초까지 임대차3법 시행 2년이 되는 8월 전세대란을 경고했지만, 막상 8월이 되자 전세가격이 떨어지고 매물이 늘면서 오히려 '역전세난'을 우려하고 있다. 사진은 SBS 뉴스 8월 26일 보도 '8월 전세대란은 어디로?…세입자 찾기 '비상''    ⓒ SBS  &nbsp; &nbsp;[검증대상] "임대차3법 때문에 전셋값]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파업 쟁점 '안전운임제' 시행하는 나라 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
