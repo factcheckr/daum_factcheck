@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-12T23:23:39.754Z</updated>
+    <updated>2022-12-13T01:49:38.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "文 정부 때는 평균 5조 감액" 사실은?]]></title>
+        <id>https://v.daum.net/v/20221213101248605</id>
+        <link href="https://v.daum.net/v/20221213101248605"/>
+        <updated>2022-12-13T01:48:33.527Z</updated>
+        <content type="html"><![CDATA[정기국회 회기 내에 예산안 처리가 무산됐습니다. 지난 2014년 국회 선진화법 도입 이후 처음입니다. 물론, 여야가 이견을 좁히지 못했기 때문입니다. 주요 쟁점 가운데 하나는 정부에서 제출한 예산안을 얼마나 깎을 것인가의 문제입니다. 정부와 여당은 "건전 재정 기조로 이미 작게 편성한 예산이라 크게 감액할 수 없다"는 입장이지만, 민주당은 "불법적이고 불]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20221212211802018</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221208072127410"/>
         <updated>2022-12-08T01:42:36.044Z</updated>
         <content type="html"><![CDATA[(세종=연합뉴스) 박초롱 기자 = 화물연대 파업 과정에서 정부는 시멘트 화물차 기사 778명(7일 기준)에게 업무개시명령서를 발부했다. 이 중 464명에 대해선 등기우편으로 명령서를 보냈고, 264명에게는 문자메시지로 전송했다. 사진으로 찍은 명령서를 메시지로 보내는 방식이다. 나머지는 정부가 확보한 주소나 전화번호에 오류가 있어 현장조사를 통해 화물차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '노란봉투법' 반대 80% vs 찬성 79%...정반대 설문조사 뭐가 맞나?]]></title>
-        <id>https://v.daum.net/v/20221207232206004</id>
-        <link href="https://v.daum.net/v/20221207232206004"/>
-        <updated>2022-12-07T15:21:31.295Z</updated>
-        <content type="html"><![CDATA[[앵커] 노동조합의 쟁의행위에 손해배상 책임을 제한하는 이른바 '노란봉투법'을 둘러싸고 조사 주체가 어딘지에 따라 정반대의 설문 결과가 나오고 있습니다. 법안 반대가 80%에 달하는 조사도 있는 반면, 찬성이 79%에 이른다는 결과도 있는데요. 왜 이렇게 차이가 나고 뭐가 맞는 건지, 한동오 기자가 따져봤습니다. [기자] [이동근 / 한국경영자총협]]></content>
     </entry>
 </feed>
