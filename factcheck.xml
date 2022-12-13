@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-13T20:23:13.760Z</updated>
+    <updated>2022-12-13T21:20:38.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]중대재해 예방에 핼러윈 대비 못했다…서울시 주장, 진실은?]]></title>
+        <id>https://v.daum.net/v/20221214061203993</id>
+        <link href="https://v.daum.net/v/20221214061203993"/>
+        <updated>2022-12-13T21:18:33.139Z</updated>
+        <content type="html"><![CDATA[핵심요약"예견의 실패" 오세훈 서울특별시장이 핼러윈 참사를 두고 한 말입니다. 오 시장은 "많은 인파가 일시에 몰릴 수 있다는 사실을 인식하지는 못했던 것"이라며 '실패'를 일부 인정했습니다. '예견의 실패'는 어디서 비롯한 걸까요. 오 시장은 중대재해 예방에 집중하느라 다른 재난에 신경 쓸 여력이 분산된 탓이었다고 합니다. 핼러윈 참사를 대비하지 못한 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "文 정부 때는 평균 5조 감액" 사실은?]]></title>
         <id>https://v.daum.net/v/20221213101248605</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221208113507590"/>
         <updated>2022-12-08T02:48:49.110Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 서울 서대문구 모녀 사망 사건 등 생활고에 시달리던 취약계층이 국가 지원을 받지 못한 채 세상을 떠나는 사건이 잇따르면서 '복지 사각지대'에 대한 관심이 커지고 있다. 정성철 빈곤사회연대 사무국장은 지난주 MBC 라디오와의 인터뷰에서 "복지제도가 필요한 사람들을 복지제도가 환영하지 않는 (것이) 문제"라며 "한국 같은 경우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나가 들여온 '문자·카톡 행정'…문자 업무개시명령도 효력?]]></title>
-        <id>https://v.daum.net/v/20221208072127410</id>
-        <link href="https://v.daum.net/v/20221208072127410"/>
-        <updated>2022-12-08T01:42:36.044Z</updated>
-        <content type="html"><![CDATA[(세종=연합뉴스) 박초롱 기자 = 화물연대 파업 과정에서 정부는 시멘트 화물차 기사 778명(7일 기준)에게 업무개시명령서를 발부했다. 이 중 464명에 대해선 등기우편으로 명령서를 보냈고, 264명에게는 문자메시지로 전송했다. 사진으로 찍은 명령서를 메시지로 보내는 방식이다. 나머지는 정부가 확보한 주소나 전화번호에 오류가 있어 현장조사를 통해 화물차]]></content>
     </entry>
 </feed>
