@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-14T12:41:30.300Z</updated>
+    <updated>2022-12-14T13:30:11.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[사실은] "'52시간제', 최대 연 단위로 개편" 따져봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://v.daum.net/v/20221211060410271"/>
         <updated>2022-12-10T21:17:21.777Z</updated>
         <content type="html"><![CDATA[[앵커] 한동훈 법무부 장관이 이른바 '청담동 술자리' 의혹을 제기한 김의겸 더불어민주당 의원을 고소하고 민사소송도 냈는데요. 김 의원은 과거 법무부 장관들은 좀처럼 소송을 하지 않았다고 주장했습니다. 한동오 기자가 따져봤습니다. [기자] 김의겸 의원이 지난 6일 SNS에 올린 글입니다. 법무부 장관은 검사 인사권을 쥐고 있고 검사는 경찰 수사를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'52시간제', 최대 연 단위로 개편" 따져봤더니 (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20221214202106520</id>
+        <link href="https://v.daum.net/v/20221214202106520"/>
+        <updated>2022-12-14T12:39:28.798Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 정부가 추진하려는 노동정책의 밑그림이 최근 나왔습니다. 지금은 일하는 시간을 일주일 단위로 계산해서 52시간을 넘지 못하도록 하고 있는데, 앞으로는 계산하는 기준을 한 달, 아니면 일 년 이렇게 더 늘리겠다는 것입니다. 발표가 나온 뒤에 과연 올바른 방향인지 논란도 이어지고 있는데, 그럼 다른 나라들은 어떻게 하고 있는지 저희가 팩트체크 사실은 코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文 정부 때는 평균 5조 감액" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://v.daum.net/v/20221007184231552"/>
         <updated>2022-11-16T17:34:27.948Z</updated>
         <content type="html"><![CDATA[노벨상의 계절입니다. 분야별로 영광의 수상자가 발표되고 있습니다. 그런데 이 영광의 노벨상 메달을 판 사람이 있다고 합니다. 무슨 일이 있었을까요. 지난해 노벨 평화상 수상자, 러시아의 독립 언론 '노바야 가제타'의 편집장 드미트리 무라토프의 이야기입니다. 무라토프는 서슬 퍼런 푸틴 정권 아래서 유일하게 권력을 비판하는 신문을 만들었다는 평가를 받았습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["선진국 파업 손해배상 제한 없다" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20220930112100387</id>
-        <link href="https://v.daum.net/v/20220930112100387"/>
-        <updated>2022-11-16T17:34:27.949Z</updated>
-        <content type="html"><![CDATA[최근 대우조선해양이 임금 인상 등을 이유로 51일 동안 파업을 벌였던 노동조합에 손해액을 물어내라고 소송을 제기했습니다. 청구 규모가 470억 원에 달했습니다.&nbsp; 노사는 어렵사리 합의를 이뤘지만, 대우조선해양은 민형사상 책임을 물어 앞으로 불법파업을 막기 위한 취지라고 설명했습니다. 앞서 하이트진로 역시 파업 노동자를 상대로 27억 원이 넘는 손해배상 소]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유족 지원에 시민단체는 안돼? (다음 뉴스 ─ MBC 알고보니)]]></title>
