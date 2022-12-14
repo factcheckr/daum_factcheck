@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-13T23:22:55.990Z</updated>
+    <updated>2022-12-14T01:48:18.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] ‘주 최대 80.5시간 근무’ 보도가 “왜곡”이라니요 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221214090504228</id>
+        <link href="https://v.daum.net/v/20221214090504228"/>
+        <updated>2022-12-14T01:46:18.271Z</updated>
+        <content type="html"><![CDATA[윤석열 정부 노동시장 개혁 방안 마련을 위한 전문가 집단 미래노동시장연구회(이하 연구회)가 &lt;한겨레&gt; 13일치 보도 ‘연장근로 몰아치기 가능하게…재계 요구대로 ‘노동개악’’에 대해 즉각 반박자료를 냈다. 연장근로시간 관리 단위를 현재 주 단위에서 월·분기·반기·연 단위로 변경하면 ‘1주 최대 80.5시간 근무가 가능하다’는 보도 내용에 대해 “극단적 상황을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]중대재해 예방에 핼러윈 대비 못했다…서울시 주장, 진실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221214061203993</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221208165444939"/>
         <updated>2022-12-08T08:26:29.241Z</updated>
         <content type="html"><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방식에 따라 1~2살까지 차이가 났던 우리나라 특유의 나이 계산법이 국제적으로 통용되는 '만 나이'로 일원화되는 것입니다. 만 나이는 태어난 해를 0살로 보고 정확하게 1년이 지날 때마다 한살씩 더하는 방식입니다. 국회는 오늘(7일) 오후 열린 본회의에서 만 나이 사용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 미국·영국선 주소지 없어도 사회보장급여 신청할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221208113507590</id>
-        <link href="https://v.daum.net/v/20221208113507590"/>
-        <updated>2022-12-08T02:48:49.110Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 서울 서대문구 모녀 사망 사건 등 생활고에 시달리던 취약계층이 국가 지원을 받지 못한 채 세상을 떠나는 사건이 잇따르면서 '복지 사각지대'에 대한 관심이 커지고 있다. 정성철 빈곤사회연대 사무국장은 지난주 MBC 라디오와의 인터뷰에서 "복지제도가 필요한 사람들을 복지제도가 환영하지 않는 (것이) 문제"라며 "한국 같은 경우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文 정부 때는 평균 5조 감액" 사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
