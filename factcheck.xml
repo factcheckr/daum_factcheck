@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-14T09:21:25.404Z</updated>
+    <updated>2022-12-14T10:23:43.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]김경수의 옥중편지…가석방·사면, 거부 가능?]]></title>
+        <id>https://v.daum.net/v/20221214192210489</id>
+        <link href="https://v.daum.net/v/20221214192210489"/>
+        <updated>2022-12-14T10:22:38.802Z</updated>
+        <content type="html"><![CDATA[[기자] 앞서 보신 것처럼, 옥중 편지까지 쓴 김경수 전 경남지사. 가석방을 원치 않는다는데요. 본인이 싫다는데도 가석방 혹은 사면, 가능한지 따져봅니다. 가석방은 심사를 거쳐 형기가 끝나기 전 조건부로 풀어주는 것입니다. 김 전 지사는 형기 70%를 채웠고, 지난 9월부터 심사 대상인데요. 핵심은 반성 여부입니다. 형법에선 뉘우침이 뚜렷한 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 화물연대 파업 때문에 11월 수출액이 감소했다?]]></title>
         <id>https://v.daum.net/v/20221214151249963</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221210090301290"/>
         <updated>2022-12-10T01:42:06.227Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt; 유사 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대전, 실내마스크 의무화 먼저 푼다는데…마스크 언제 벗나]]></title>
-        <id>https://v.daum.net/v/20221209161043509</id>
-        <link href="https://v.daum.net/v/20221209161043509"/>
-        <updated>2022-12-09T07:18:24.185Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 코로나19 사태로 마스크 착용이 의무화된 지 약 2년 만에 실내 마스크 해제 논의가 급물살을 타고 있다. 지난 9월 실외 마스크 착용 의무가 이미 해제된 데 이어 실내에서도 마스크를 벗자는 것이다. 실내 마스크 해제 논의에 본격적으로 불을 지핀 것은 대전시다. 대전시는 2일 전국 지방자치단체 중 처음으로 실]]></content>
     </entry>
 </feed>
