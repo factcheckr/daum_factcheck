@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-14T05:21:28.397Z</updated>
+    <updated>2022-12-14T06:27:46.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 화물연대 파업 때문에 11월 수출액이 감소했다?]]></title>
+        <id>https://v.daum.net/v/20221214151249963</id>
+        <link href="https://v.daum.net/v/20221214151249963"/>
+        <updated>2022-12-14T06:26:47.126Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라 수출액이 지난해에 이어 올해에도 사상 최대를 경신했다는 정부 발표가 나왔으나 무역 전망은 밝지 않다. 지난달까지 8개월 연속으로 무역수지가 적자 행진을 지속하면서 적자 폭이 역대 최대로 커진 데다, 경제 버팀목인 수출마저 부진에 빠졌기 때문이다. 윤석열 대통령은 이달 초 11월 수출입 통계가 공개된 직후 "화물연대(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] ‘주 최대 80.5시간 근무’ 보도가 “왜곡”이라니요]]></title>
         <id>https://v.daum.net/v/20221214090504228</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221209161043509"/>
         <updated>2022-12-09T07:18:24.185Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 코로나19 사태로 마스크 착용이 의무화된 지 약 2년 만에 실내 마스크 해제 논의가 급물살을 타고 있다. 지난 9월 실외 마스크 착용 의무가 이미 해제된 데 이어 실내에서도 마스크를 벗자는 것이다. 실내 마스크 해제 논의에 본격적으로 불을 지핀 것은 대전시다. 대전시는 2일 전국 지방자치단체 중 처음으로 실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] 최대 2살 어려지는 ‘만 나이’ 통일, 내년 시행되면 뭐가 달라지나?]]></title>
-        <id>https://v.daum.net/v/20221208165444939</id>
-        <link href="https://v.daum.net/v/20221208165444939"/>
-        <updated>2022-12-08T08:26:29.241Z</updated>
-        <content type="html"><![CDATA[내년 6월부터 민법과 행정 분야에서 나이를 따질 때 '만 나이'로 통일됩니다. 계산하는 방식에 따라 1~2살까지 차이가 났던 우리나라 특유의 나이 계산법이 국제적으로 통용되는 '만 나이'로 일원화되는 것입니다. 만 나이는 태어난 해를 0살로 보고 정확하게 1년이 지날 때마다 한살씩 더하는 방식입니다. 국회는 오늘(7일) 오후 열린 본회의에서 만 나이 사용]]></content>
     </entry>
 </feed>
