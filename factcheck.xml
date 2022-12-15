@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-15T09:21:56.965Z</updated>
+    <updated>2022-12-15T10:27:14.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 정부 건강보험 정책은 보장성 축소한 첫 사례다?]]></title>
         <id>https://v.daum.net/v/20221215145107407</id>
