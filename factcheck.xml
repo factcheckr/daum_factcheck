@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-15T05:21:31.180Z</updated>
+    <updated>2022-12-15T06:28:03.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열 정부 건강보험 정책은 보장성 축소한 첫 사례다?]]></title>
+        <id>https://v.daum.net/v/20221215145107407</id>
+        <link href="https://v.daum.net/v/20221215145107407"/>
+        <updated>2022-12-15T06:26:54.169Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 지난 8일 내놓은 국민건강보험 정책이 이례적으로 보장성을 축소하는 대책이라는 지적이 일고 있다. 진보 성향의 인도주의실천의사협의회 등 6개 단체가 모인 보건의료단체연합의 정형준 정책위원장은 지난 12일 TBS 라디오 '김어준의 뉴스공장'에 출연해 "역대 어떤 정부도 이런 (건강보험의) 보장성을 늘리겠다는 계획을 발표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "'52시간제', 최대 연 단위로 개편" 따져봤더니]]></title>
         <id>https://v.daum.net/v/20221214202106520</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221212195254084"/>
         <updated>2022-12-12T11:18:29.299Z</updated>
         <content type="html"><![CDATA[[기자] 우리 집 바닥에서 이런 소음이 종일 들려온다면 어떨까요? 층간소음에 복수하는 소음이라며 인터넷에 올라온 음원 파일입니다. 이런 파일을 윗집을 향해 스피커로 틀면 처벌된다는데, 근거가 뭔지 살펴봅니다. 윗집에서 층간소음을 일으킨다 생각한 40대 부부, 집 천장에 저음을 재생하는 우퍼 스피커를 달았는데요. 그리고는 방금 들으신 가정 소음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "법무부장관은 좀처럼 소송 안 했다?"...최근 장관 10명 따져보니]]></title>
-        <id>https://v.daum.net/v/20221211060410271</id>
-        <link href="https://v.daum.net/v/20221211060410271"/>
-        <updated>2022-12-10T21:17:21.777Z</updated>
-        <content type="html"><![CDATA[[앵커] 한동훈 법무부 장관이 이른바 '청담동 술자리' 의혹을 제기한 김의겸 더불어민주당 의원을 고소하고 민사소송도 냈는데요. 김 의원은 과거 법무부 장관들은 좀처럼 소송을 하지 않았다고 주장했습니다. 한동오 기자가 따져봤습니다. [기자] 김의겸 의원이 지난 6일 SNS에 올린 글입니다. 법무부 장관은 검사 인사권을 쥐고 있고 검사는 경찰 수사를]]></content>
     </entry>
 </feed>
