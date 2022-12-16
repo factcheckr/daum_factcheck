@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-16T14:22:02.175Z</updated>
+    <updated>2022-12-16T15:23:09.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니(종합)]]></title>
+        <id>https://v.daum.net/v/20221217000911616</id>
+        <link href="https://v.daum.net/v/20221217000911616"/>
+        <updated>2022-12-16T15:21:55.529Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 국회의 내년도 정부 예산안 심사에서 '법인세 인하'가 막판 최대 쟁점으로 떠오르면서 예산안 처리가 진통을 겪고 있다. 법인세 인하는 윤석열 대통령이 대선 당시 공약한 사안이다. 정부·여당은 과세표준(실제 기업이 벌어들인 소득에서 지출한 비용이나 공제 등을 제외한 것으로, 세금 부과의 기준이 됨) 3천억원 초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "우리만 주 단위로 관리" 고용노동부 장관 발언 따져보니]]></title>
         <id>https://v.daum.net/v/20221216202306222</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221213101248605"/>
         <updated>2022-12-13T01:48:33.527Z</updated>
         <content type="html"><![CDATA[정기국회 회기 내에 예산안 처리가 무산됐습니다. 지난 2014년 국회 선진화법 도입 이후 처음입니다. 물론, 여야가 이견을 좁히지 못했기 때문입니다. 주요 쟁점 가운데 하나는 정부에서 제출한 예산안을 얼마나 깎을 것인가의 문제입니다. 정부와 여당은 "건전 재정 기조로 이미 작게 편성한 예산이라 크게 감액할 수 없다"는 입장이지만, 민주당은 "불법적이고 불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 산업은행 이전 반대는 민주노총 탓? 정진석 발언은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20221212211802018</id>
-        <link href="https://v.daum.net/v/20221212211802018"/>
-        <updated>2022-12-12T12:40:30.221Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ 부산에서 열린 국민의힘 현장 비상대책위&nbsp;국민의힘 정진석 비상대책위원장이 12일 부산 동구 부산항국제전시컨벤션센터에서 열린 현장 비상대책위원회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] 정진석 "민주당의 산업은행 부산 이전 반대는 민노총 탓" "지금, 한국산업은행법 국회 정무위에 계류 중이다. 민주당의 협조를]]></content>
     </entry>
 </feed>
