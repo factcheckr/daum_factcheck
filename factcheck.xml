@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-16T11:17:41.103Z</updated>
+    <updated>2022-12-16T12:36:19.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "우리만 주 단위로 관리" 고용노동부 장관 발언 따져보니]]></title>
+        <id>https://v.daum.net/v/20221216202306222</id>
+        <link href="https://v.daum.net/v/20221216202306222"/>
+        <updated>2022-12-16T12:35:22.724Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 내세운 노동시장 개편의 핵심은 주 52시간제를 바꾸는 겁니다. 팩트체크를 해보겠습니다. 박민규 기자, 어제(15일) 국정과제 점검 회의에서도 언급이 있었죠. [기자] 네, 고용노동부 이정식 장관 발언이 있었는데요. 먼저 들어보시죠. [이정식/고용노동부 장관 (어제) : 근로시간은 우리나라가 거의 유일하게 글로벌 스탠더드에 맞지 않게, 세계적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국 법인세, 다른 나라들보다 더 높다?…실효세율로 따져보니]]></title>
         <id>https://v.daum.net/v/20221216165611453</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221212211802018"/>
         <updated>2022-12-12T12:40:30.221Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ 부산에서 열린 국민의힘 현장 비상대책위&nbsp;국민의힘 정진석 비상대책위원장이 12일 부산 동구 부산항국제전시컨벤션센터에서 열린 현장 비상대책위원회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] 정진석 "민주당의 산업은행 부산 이전 반대는 민노총 탓" "지금, 한국산업은행법 국회 정무위에 계류 중이다. 민주당의 협조를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 유족 지원에 시민단체는 안돼?]]></title>
-        <id>https://v.daum.net/v/20221212201013296</id>
-        <link href="https://v.daum.net/v/20221212201013296"/>
-        <updated>2022-12-12T11:18:29.289Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 10.29 참사 42일 만에 만들어진 유가족과 시민단체들의 모임에 대해 여권의 반응이 노골적입니다. "시민단체가 조직적으로 정부를 압박해서는 안된다", "시민단체가 지원금을 횡령할 가능성이 있다"며 사실상 손을 떼라는 주장을 하고 있는데요. 이런 주장이 맞는 건지, 과거 국내에서 발생한 참사, 그리고 해외에선 어떻게]]></content>
     </entry>
 </feed>
