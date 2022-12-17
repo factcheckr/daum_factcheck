@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-17T13:22:43.899Z</updated>
+    <updated>2022-12-17T14:17:27.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '마약 청정국' 표현 대체 어디에서 나왔을까?]]></title>
+        <id>https://v.daum.net/v/20221217222508702</id>
+        <link href="https://v.daum.net/v/20221217222508702"/>
+        <updated>2022-12-17T14:16:20.205Z</updated>
+        <content type="html"><![CDATA[[앵커] 그제(15일) 열린 국정과제 점검회의에서 윤석열 대통령과 한동훈 법무부장관은 우리나라가 이제 더는 '마약 청정국'이 아니라는 점을 강조했습니다. 최근 법무부 보도자료에도 등장하고 언론을 통해서도 자주 볼 수 있는 표현인데, '마약 청정국'은 어떤 개념이고 어디서 나온 기준인지 신호 기자가 알아봤습니다. [기자] 윤석열 대통령과 한동훈 법무부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]한동훈 밝힌 촉법소년 '만 13세' 근거는 어디서?]]></title>
         <id>https://v.daum.net/v/20221217090302676</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214151249963"/>
         <updated>2022-12-14T06:26:47.126Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라 수출액이 지난해에 이어 올해에도 사상 최대를 경신했다는 정부 발표가 나왔으나 무역 전망은 밝지 않다. 지난달까지 8개월 연속으로 무역수지가 적자 행진을 지속하면서 적자 폭이 역대 최대로 커진 데다, 경제 버팀목인 수출마저 부진에 빠졌기 때문이다. 윤석열 대통령은 이달 초 11월 수출입 통계가 공개된 직후 "화물연대(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] ‘주 최대 80.5시간 근무’ 보도가 “왜곡”이라니요]]></title>
-        <id>https://v.daum.net/v/20221214090504228</id>
-        <link href="https://v.daum.net/v/20221214090504228"/>
-        <updated>2022-12-14T01:46:18.271Z</updated>
-        <content type="html"><![CDATA[윤석열 정부 노동시장 개혁 방안 마련을 위한 전문가 집단 미래노동시장연구회(이하 연구회)가 &lt;한겨레&gt; 13일치 보도 ‘연장근로 몰아치기 가능하게…재계 요구대로 ‘노동개악’’에 대해 즉각 반박자료를 냈다. 연장근로시간 관리 단위를 현재 주 단위에서 월·분기·반기·연 단위로 변경하면 ‘1주 최대 80.5시간 근무가 가능하다’는 보도 내용에 대해 “극단적 상황을]]></content>
     </entry>
 </feed>
