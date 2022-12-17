@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-16T23:20:34.677Z</updated>
+    <updated>2022-12-17T01:36:10.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]한동훈 밝힌 촉법소년 '만 13세' 근거는 어디서?]]></title>
+        <id>https://v.daum.net/v/20221217090302676</id>
+        <link href="https://v.daum.net/v/20221217090302676"/>
+        <updated>2022-12-17T01:35:08.013Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '마약 청정국' 표현 대체 어디에서 나왔을까?]]></title>
         <id>https://v.daum.net/v/20221217072807948</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214090504228"/>
         <updated>2022-12-14T01:46:18.271Z</updated>
         <content type="html"><![CDATA[윤석열 정부 노동시장 개혁 방안 마련을 위한 전문가 집단 미래노동시장연구회(이하 연구회)가 &lt;한겨레&gt; 13일치 보도 ‘연장근로 몰아치기 가능하게…재계 요구대로 ‘노동개악’’에 대해 즉각 반박자료를 냈다. 연장근로시간 관리 단위를 현재 주 단위에서 월·분기·반기·연 단위로 변경하면 ‘1주 최대 80.5시간 근무가 가능하다’는 보도 내용에 대해 “극단적 상황을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]중대재해 예방에 핼러윈 대비 못했다…서울시 주장, 진실은?]]></title>
-        <id>https://v.daum.net/v/20221214061203993</id>
-        <link href="https://v.daum.net/v/20221214061203993"/>
-        <updated>2022-12-13T21:18:33.139Z</updated>
-        <content type="html"><![CDATA[핵심요약"예견의 실패" 오세훈 서울특별시장이 핼러윈 참사를 두고 한 말입니다. 오 시장은 "많은 인파가 일시에 몰릴 수 있다는 사실을 인식하지는 못했던 것"이라며 '실패'를 일부 인정했습니다. '예견의 실패'는 어디서 비롯한 걸까요. 오 시장은 중대재해 예방에 집중하느라 다른 재난에 신경 쓸 여력이 분산된 탓이었다고 합니다. 핼러윈 참사를 대비하지 못한 배]]></content>
     </entry>
 </feed>
