@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-18T08:25:34.781Z</updated>
+    <updated>2022-12-18T09:19:13.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[보류... [사실확인] 경찰의 상급자·정책 공개비판, '품위유지 의무' 위반 아니다?]]></title>
+        <title type="html"><![CDATA[[사실확인] '상사-조직 비판' 언론 인터뷰, '공무원 품위 유지 의무' 위반이다?]]></title>
         <id>https://v.daum.net/v/20221218160130644</id>
         <link href="https://v.daum.net/v/20221218160130644"/>
         <updated>2022-12-18T07:16:46.859Z</updated>
