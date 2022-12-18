@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-17T23:20:08.826Z</updated>
+    <updated>2022-12-18T01:39:13.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 한국의 건강보험 보장률이 OECD 최저 수준이라고? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221218090156141</id>
+        <link href="https://v.daum.net/v/20221218090156141"/>
+        <updated>2022-12-18T01:37:56.004Z</updated>
+        <content type="html"><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5년 간 보장성 강화에 20조원을 넘게 쏟아 부었지만, 정부가 의료 남용과 건강보험 무임승차를 방치하면서 대다수 국민에게 그 부담이 전가되고 있습니다." - 윤석열 대통령 12월 13일 국무회의 발언 윤 대통령이 건강보험 보장률을 70%까지 끌어올리기로 한 전 정부의 정책, 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '마약 청정국' 표현 대체 어디에서 나왔을까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221217222508702</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221214192210489"/>
         <updated>2022-12-14T10:22:38.802Z</updated>
         <content type="html"><![CDATA[[기자] 앞서 보신 것처럼, 옥중 편지까지 쓴 김경수 전 경남지사. 가석방을 원치 않는다는데요. 본인이 싫다는데도 가석방 혹은 사면, 가능한지 따져봅니다. 가석방은 심사를 거쳐 형기가 끝나기 전 조건부로 풀어주는 것입니다. 김 전 지사는 형기 70%를 채웠고, 지난 9월부터 심사 대상인데요. 핵심은 반성 여부입니다. 형법에선 뉘우침이 뚜렷한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화물연대 파업 때문에 11월 수출액이 감소했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221214151249963</id>
-        <link href="https://v.daum.net/v/20221214151249963"/>
-        <updated>2022-12-14T06:26:47.126Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라 수출액이 지난해에 이어 올해에도 사상 최대를 경신했다는 정부 발표가 나왔으나 무역 전망은 밝지 않다. 지난달까지 8개월 연속으로 무역수지가 적자 행진을 지속하면서 적자 폭이 역대 최대로 커진 데다, 경제 버팀목인 수출마저 부진에 빠졌기 때문이다. 윤석열 대통령은 이달 초 11월 수출입 통계가 공개된 직후 "화물연대(]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["'52시간제', 최대 연 단위로 개편" 따져봤더니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한국의 건강보험 보장률이 OECD 최저 수준이라고? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20221218090156141</id>
+        <link href="https://v.daum.net/v/20221218090156141"/>
+        <updated>2022-12-18T01:38:31.552Z</updated>
+        <content type="html"><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5년 간 보장성 강화에 20조원을 넘게 쏟아 부었지만, 정부가 의료 남용과 건강보험 무임승차를 방치하면서 대다수 국민에게 그 부담이 전가되고 있습니다." - 윤석열 대통령 12월 13일 국무회의 발언 윤 대통령이 건강보험 보장률을 70%까지 끌어올리기로 한 전 정부의 정책, 이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[파업 부른 안전운임제, 교통안전 개선 효과 있나? 없나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20221201060505010</id>
         <link href="https://v.daum.net/v/20221201060505010"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220803143532757"/>
         <updated>2022-11-16T17:34:52.521Z</updated>
         <content type="html"><![CDATA[“고학력·고소득자들 소위 부자라고 불리는 분들이 우리(민주당) 지지자가 더 많습니다. 저학력에 저소득층이 국힘 지지자가 많아요. 참 안타까운 현실인데...” - 이재명 더불어민주당 의원 / 2022.07.29. 유튜브 라이브 방송 발언 이재명 민주당 의원의 이 주장, 지난 주말 내내 논란이 됐습니다. 이재명 의원은 이 발언 이후 부자 감세와 서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부의 '탈(脫) 탈원전' 정책..에너지법 개정 없인 불가능? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220726070048732</id>
-        <link href="https://v.daum.net/v/20220726070048732"/>
-        <updated>2022-11-16T17:34:52.522Z</updated>
-        <content type="html"><![CDATA[윤석열 정부는 전 정부의 '탈원전 정책'을 벗어나는 이른바  '탈(脫) 탈원전' 정책을 추진하고 있습니다. 윤 대통령이 후보 시절 SNS를 통해 '탈원전 백지화, 원전 최강국 건설'이라는 한 줄 공약을 밝힌 이후로 줄곧 탈(脫) 탈원전을 위한 행보에 나서고 있는데요. 지난 21일 열린 국회 교섭단체 대표연설에서 권성동 국민의힘 대표 직무대행 겸 원내대표는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김경수의 옥중편지…가석방·사면, 거부 가능? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

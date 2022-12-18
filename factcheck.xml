@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-17T23:20:08.774Z</updated>
+    <updated>2022-12-18T01:39:13.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 한국의 건강보험 보장률이 OECD 최저 수준이라고?]]></title>
+        <id>https://v.daum.net/v/20221218090156141</id>
+        <link href="https://v.daum.net/v/20221218090156141"/>
+        <updated>2022-12-18T01:37:56.004Z</updated>
+        <content type="html"><![CDATA["국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급합니다. 지난 5년 간 보장성 강화에 20조원을 넘게 쏟아 부었지만, 정부가 의료 남용과 건강보험 무임승차를 방치하면서 대다수 국민에게 그 부담이 전가되고 있습니다." - 윤석열 대통령 12월 13일 국무회의 발언 윤 대통령이 건강보험 보장률을 70%까지 끌어올리기로 한 전 정부의 정책, 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '마약 청정국' 표현 대체 어디에서 나왔을까?]]></title>
         <id>https://v.daum.net/v/20221217222508702</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214192210489"/>
         <updated>2022-12-14T10:22:38.802Z</updated>
         <content type="html"><![CDATA[[기자] 앞서 보신 것처럼, 옥중 편지까지 쓴 김경수 전 경남지사. 가석방을 원치 않는다는데요. 본인이 싫다는데도 가석방 혹은 사면, 가능한지 따져봅니다. 가석방은 심사를 거쳐 형기가 끝나기 전 조건부로 풀어주는 것입니다. 김 전 지사는 형기 70%를 채웠고, 지난 9월부터 심사 대상인데요. 핵심은 반성 여부입니다. 형법에선 뉘우침이 뚜렷한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화물연대 파업 때문에 11월 수출액이 감소했다?]]></title>
-        <id>https://v.daum.net/v/20221214151249963</id>
-        <link href="https://v.daum.net/v/20221214151249963"/>
-        <updated>2022-12-14T06:26:47.126Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라 수출액이 지난해에 이어 올해에도 사상 최대를 경신했다는 정부 발표가 나왔으나 무역 전망은 밝지 않다. 지난달까지 8개월 연속으로 무역수지가 적자 행진을 지속하면서 적자 폭이 역대 최대로 커진 데다, 경제 버팀목인 수출마저 부진에 빠졌기 때문이다. 윤석열 대통령은 이달 초 11월 수출입 통계가 공개된 직후 "화물연대(]]></content>
     </entry>
 </feed>
