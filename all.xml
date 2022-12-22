@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-22T10:23:55.554Z</updated>
+    <updated>2022-12-22T11:17:59.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정” (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221222195728416</id>
+        <link href="https://v.daum.net/v/20221222195728416"/>
+        <updated>2022-12-22T11:16:44.085Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 최근 괴산 지진을 계기로 한반도가 더는  '지진의 안전 지대'가 아니라는 우려가 커지고 있는데요. 그동안 정부가  외부에 공개하지 않았던 지진 조사 보고서 전문을  KBS가 단독 입수했습니다. 이 보고서에는 전국의 활성단층이 20곳 이상으로 추정됐고, 충청권도 예외는 아니었습니다. 팩트체크K 충북, 이정훈 기자입니다. [리포트] 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221222142703798</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221219113302470"/>
         <updated>2022-12-19T02:38:48.715Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 17일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 주차장에서 자리맡기, 민폐? v]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '상사-조직 비판' 언론 인터뷰, '공무원 품위 유지 의무' 위반이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221218160130644</id>
-        <link href="https://v.daum.net/v/20221218160130644"/>
-        <updated>2022-12-18T07:16:46.859Z</updated>
-        <content type="html"><![CDATA[행정안전부 내 경찰국 신설에 반대하며 지난 7월 23일 '전국 경찰서장 회의'를 주도한 류삼영 총경(전 울산중부경찰서장)에 대해 경찰청 중앙징계위원회가 정직 3개월의 중징계를 의결했습니다. 류 총경은 앞서 MBN 등 언론에 징계위가 문제 삼은 혐의는 "경찰서장 회의 해산 명령을 불복한, '복종 의무' 위반과 22차례 언론 인터뷰와 2차례 기자회견으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "20조 재정 낭비", 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20221222195728416</id>
+        <link href="https://v.daum.net/v/20221222195728416"/>
+        <updated>2022-12-22T11:17:18.588Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 최근 괴산 지진을 계기로 한반도가 더는  '지진의 안전 지대'가 아니라는 우려가 커지고 있는데요. 그동안 정부가  외부에 공개하지 않았던 지진 조사 보고서 전문을  KBS가 단독 입수했습니다. 이 보고서에는 전국의 활성단층이 20곳 이상으로 추정됐고, 충청권도 예외는 아니었습니다. 팩트체크K 충북, 이정훈 기자입니다. [리포트] 2]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한국의 건강보험 보장률이 OECD 최저 수준이라고? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20221218090156141</id>
         <link href="https://v.daum.net/v/20221218090156141"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220818080003239"/>
         <updated>2022-11-16T17:34:52.519Z</updated>
         <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고학력·고소득' 민주, '저학력·저소득' 국힘 지지? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220803143532757</id>
-        <link href="https://v.daum.net/v/20220803143532757"/>
-        <updated>2022-11-16T17:34:52.521Z</updated>
-        <content type="html"><![CDATA[“고학력·고소득자들 소위 부자라고 불리는 분들이 우리(민주당) 지지자가 더 많습니다. 저학력에 저소득층이 국힘 지지자가 많아요. 참 안타까운 현실인데...” - 이재명 더불어민주당 의원 / 2022.07.29. 유튜브 라이브 방송 발언 이재명 민주당 의원의 이 주장, 지난 주말 내내 논란이 됐습니다. 이재명 의원은 이 발언 이후 부자 감세와 서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도로에 쌓인 눈보다 ‘어는 비’가 위험하다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
