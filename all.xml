@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-24T19:16:00.830Z</updated>
+    <updated>2022-12-24T20:20:24.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '빌라왕' 급사, 전세금 다 돌려받을 방법 있다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221225050011299</id>
+        <link href="https://v.daum.net/v/20221225050011299"/>
+        <updated>2022-12-24T20:19:22.776Z</updated>
+        <content type="html"><![CDATA[서울 롯데월드타워 서울스카이에서 바라본 송파구 빌라촌 모습. /뉴시스      [파이낸셜뉴스] 지난 10월 주택 1139채를 보유해 '빌라왕'으로 불린 40대 임대업자 김모씨가 갑자기 사망하면서 수 백여명에 달하는 임차인들이 보증금을 돌려 받을 수 있는지에 관심이 집중되고 있다. 임차인들이 받아야할 보증금은 적게는 1억원 이하에서 많게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]야당 때 반대했던 대체공휴일…여당 되자 추진? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221224090305189</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221219203806515"/>
         <updated>2022-12-19T12:37:34.254Z</updated>
         <content type="html"><![CDATA[[앵커] 일본이 지난주에 국가안보전략을 개정하면서 '반격 능력' 보유를 공식 선언했습니다. 관련해서 정제윤 기자와 좀 더 짚어보겠습니다. 정제윤 기자, 일본은 원래 헌법상 공격을 못하게 돼있지 않습니까? [기자] 일본은 2차 대전 패망 후 만든 평화헌법상 공격은 못하고 방어만 할 수 있게 되어있습니다. 그런데, 이번에 적 기지를 공격할 수 있는 능력을 보유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 내가 낸 기부금, 엉뚱한 데 쓰인다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221219194854981</id>
-        <link href="https://v.daum.net/v/20221219194854981"/>
-        <updated>2022-12-19T11:16:52.710Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 해마다 연말이면 추운 날씨에 고통받는 어려운 이웃을 한 번 더 생각하게 되죠. 그런데 막상 기부하려다가도 혹시 내가 낸 기부금이 엉뚱한 데 쓰이지는 않을까 망설여지는 경험 한번씩은 있으실텐요. 내가 낸 기부금이 실제로 얼마나 전달되지, 이규연 기자가 확인해봤습니다. 【 기자 】 요즘 거리에서 모금 활동 중인 종소리와 '빨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "20조 재정 낭비", 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
