@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-25T22:19:31.808Z</updated>
+    <updated>2022-12-25T23:21:02.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '문 케어'가 20조 낭비 부른 정책? 내역 직접 따져 보니]]></title>
+        <id>https://v.daum.net/v/20221226073906345</id>
+        <link href="https://v.daum.net/v/20221226073906345"/>
+        <updated>2022-12-25T23:19:57.606Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 문재인 정부 건강보험 보장성 강화 정책인 '문재인 케어' 논란이 계속되고 있습니다. 정부 여당은 문재인 케어에 20조 원 넘는 돈이 낭비됐다고 주장하고 있는데, 팩트체크 사실은팀이 구체적 내역을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령 (지난 13일, 국무회의) :&nbsp;보장성 강화에 20조 원을 넘게 쏟아 부었지만, 인기영합적 포퓰리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 문재인 케어에 20조 원 낭비? 하나씩 따져보니]]></title>
         <id>https://v.daum.net/v/20221225205106078</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221222072306127"/>
         <updated>2022-12-21T23:21:32.338Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 국민의힘이 내년 3월 전당대회를 앞두고 당 대표 선출 규정을 개정하기로 하면서 이를 둘러싸고 당내 갈등이 불거지고 있다. 국민의힘 비상대책위원회는 지난 19일 차기 당 대표와 최고위원을 선출할 때 당원 선거인단 투표를 100% 적용하는 내용 등을 담은 당헌·당규 개정안을 만장일치로 의결했다. 그동안엔 당원투표 70%, 일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]도로에 쌓인 눈보다 ‘어는 비’가 위험하다?]]></title>
-        <id>https://v.daum.net/v/20221221194248672</id>
-        <link href="https://v.daum.net/v/20221221194248672"/>
-        <updated>2022-12-21T11:16:43.250Z</updated>
-        <content type="html"><![CDATA[팩트맨, 경부고속도로 서울요금소에서 시작합니다. 오늘 수도권에 눈이 내렸지만, 고속도로는 바로 녹아서 지금은 노면이 젖어있는 상태인데요. 남부지방은 눈 대신 비가 내렸죠. 이렇게 추운 날 내린 비는 눈 만큼이나 위험할 수 있다는데, 왜 그런지 스튜디오로 옮겨 알아봅니다. 이른바 '어는 비'는 기온이 0도에서 영하 5도 사이에 비가 내릴 때 생성됩]]></content>
     </entry>
 </feed>
