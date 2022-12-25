@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-25T07:17:51.573Z</updated>
+    <updated>2022-12-25T08:24:44.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한겨울에 경매 넘어간 전셋집…'빌라왕'보증금 누가 돌려주나 [fn팩트체크]]]></title>
+        <id>https://v.daum.net/v/20221225170203674</id>
+        <link href="https://v.daum.net/v/20221225170203674"/>
+        <updated>2022-12-25T08:23:32.261Z</updated>
+        <content type="html"><![CDATA[주택 1139채를 보유해 '빌라왕'으로 불린 40대 임대업자 김모씨가 갑자기 사망하면서 임차인들이 보증금을 돌려받을 길이 막막해졌다. 재산 관계가 복잡해 상속절차를 개시하기까지도 시일이 걸릴 수밖에 없는 상황이다. 사진은 서울 롯데월드타워 서울스카이에서 바라본 송파구 빌라촌 모습. 뉴시스          지난 23일 오후 전세 사기 피해자들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '빌라왕' 급사, 전세금 다 돌려받을 방법 있다]]></title>
         <id>https://v.daum.net/v/20221225050011299</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221221143904759"/>
         <updated>2022-12-21T06:24:41.350Z</updated>
         <content type="html"><![CDATA[최근 건강보험 보장률을 70%까지 끌어올리는 문재인 정부의 의료정책, 이른바 '문재인 케어'가 도마 위에 올랐습니다. 시작은 지난 13일, 윤석열 대통령의 국무회의 발언입니다. &nbsp;   국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급하다. 지난 정부 5년간 보장성 강화에 20조 원을 넘게 쏟아 부었지만, 정부가 의료 남용과 건보 무임승차를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '반격능력' 공식화한 일본…한반도 선제공격 가능?]]></title>
-        <id>https://v.daum.net/v/20221219203806515</id>
-        <link href="https://v.daum.net/v/20221219203806515"/>
-        <updated>2022-12-19T12:37:34.254Z</updated>
-        <content type="html"><![CDATA[[앵커] 일본이 지난주에 국가안보전략을 개정하면서 '반격 능력' 보유를 공식 선언했습니다. 관련해서 정제윤 기자와 좀 더 짚어보겠습니다. 정제윤 기자, 일본은 원래 헌법상 공격을 못하게 돼있지 않습니까? [기자] 일본은 2차 대전 패망 후 만든 평화헌법상 공격은 못하고 방어만 할 수 있게 되어있습니다. 그런데, 이번에 적 기지를 공격할 수 있는 능력을 보유]]></content>
     </entry>
 </feed>
