@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-25T11:16:36.464Z</updated>
+    <updated>2022-12-25T12:36:28.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 문재인 케어에 20조 원 낭비? 하나씩 따져보니]]></title>
+        <id>https://v.daum.net/v/20221225205106078</id>
+        <link href="https://v.daum.net/v/20221225205106078"/>
+        <updated>2022-12-25T12:34:28.361Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 지난 정부에서 추진한 건강보험 보장성 강화 정책이 건보 재정을 파탄시켰다며 윤석열 정부가 개혁을 추진하고 있습니다. 20조 원 넘는 돈이 낭비됐다는 것이 지금 정부의 주장인데, 과연 맞는 말인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령/지난 13일, 국무회의 : 보장성 강화에 20조 원을 넘게 쏟아부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한겨울에 경매 넘어간 전셋집…'빌라왕' 보증금 누가 돌려주나 [fn팩트체크]]]></title>
         <id>https://v.daum.net/v/20221225170203674</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221221194248672"/>
         <updated>2022-12-21T11:16:43.250Z</updated>
         <content type="html"><![CDATA[팩트맨, 경부고속도로 서울요금소에서 시작합니다. 오늘 수도권에 눈이 내렸지만, 고속도로는 바로 녹아서 지금은 노면이 젖어있는 상태인데요. 남부지방은 눈 대신 비가 내렸죠. 이렇게 추운 날 내린 비는 눈 만큼이나 위험할 수 있다는데, 왜 그런지 스튜디오로 옮겨 알아봅니다. 이른바 '어는 비'는 기온이 0도에서 영하 5도 사이에 비가 내릴 때 생성됩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 윤 대통령 "20조 재정 낭비", 따져보니]]></title>
-        <id>https://v.daum.net/v/20221221143904759</id>
-        <link href="https://v.daum.net/v/20221221143904759"/>
-        <updated>2022-12-21T06:24:41.350Z</updated>
-        <content type="html"><![CDATA[최근 건강보험 보장률을 70%까지 끌어올리는 문재인 정부의 의료정책, 이른바 '문재인 케어'가 도마 위에 올랐습니다. 시작은 지난 13일, 윤석열 대통령의 국무회의 발언입니다. &nbsp;   국민 건강을 지키는 최후 보루인 건강보험에 대한 정상화가 시급하다. 지난 정부 5년간 보장성 강화에 20조 원을 넘게 쏟아 부었지만, 정부가 의료 남용과 건보 무임승차를]]></content>
     </entry>
 </feed>
