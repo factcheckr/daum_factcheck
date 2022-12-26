@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-26T20:21:09.857Z</updated>
+    <updated>2022-12-26T21:17:55.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] 주휴수당 폐지되면 내 월급은 얼마나 줄어들까?]]></title>
+        <id>https://v.daum.net/v/20221227060027475</id>
+        <link href="https://v.daum.net/v/20221227060027475"/>
+        <updated>2022-12-26T21:16:52.770Z</updated>
+        <content type="html"><![CDATA[정부 자문기구인 '미래노동시장연구회'(이하 미노연)가 최근 주 52시간제 연장근로 기준을 확대하는 등의 노동시장 개혁안을 공개했습니다. 하나같이 우리 삶에 직접적으로 영향을 미치는 민감한 사안이다 보니 개혁안 공개 후 논란이 이어지고 있습니다. 그중 하나가 주휴수당 폐지안입니다. 미노연은 미래지향적 노동법제를 마련해야 한다면서 정부에 주휴수당 폐지를 권고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]뚜껑 닫으면 ‘노로 바이러스’ 안 걸린다?]]></title>
         <id>https://v.daum.net/v/20221226201058623</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221222195728416"/>
         <updated>2022-12-22T11:16:44.085Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 최근 괴산 지진을 계기로 한반도가 더는  '지진의 안전 지대'가 아니라는 우려가 커지고 있는데요. 그동안 정부가  외부에 공개하지 않았던 지진 조사 보고서 전문을  KBS가 단독 입수했습니다. 이 보고서에는 전국의 활성단층이 20곳 이상으로 추정됐고, 충청권도 예외는 아니었습니다. 팩트체크K 충북, 이정훈 기자입니다. [리포트] 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20221222142703798</id>
-        <link href="https://v.daum.net/v/20221222142703798"/>
-        <updated>2022-12-22T06:25:29.403Z</updated>
-        <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;국민의힘 정진석 비상대책위원장이 21일 오전 서울 여의도 국회 의원회관에서 열린 '국민공감' 2차 공부 모임에서 인사말을 하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] "박근혜 때 정규직-비정규직 임금격차 10만~20만원도 안 났다" 윤석열 대통령이 '노동개혁'을 '3대 개혁' 중 1순위로 꼽으면서 집권여당 국민의힘]]></content>
     </entry>
 </feed>
