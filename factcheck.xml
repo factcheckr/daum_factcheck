@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-26T04:25:36.212Z</updated>
+    <updated>2022-12-26T05:19:28.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "여론조사로 당 대표 선출하는 나라 없다" 사실은?]]></title>
+        <id>https://v.daum.net/v/20221226141200325</id>
+        <link href="https://v.daum.net/v/20221226141200325"/>
+        <updated>2022-12-26T05:18:28.557Z</updated>
+        <content type="html"><![CDATA[국민의힘 전국위원회가 차기 당 대표를 여론조사 없이 100% 당원 투표를 통해 선출하는 내용의 당헌 개정안을 지난주 통과시켰습니다. 원래는 당원 투표 70%, 일반 국민 여론조사 30%로 당 대표로 뽑았었는데, 여론조사 반영 기준으로 당원 투표 100%로 선출하겠다는 겁니다. 2004년 한나라당 시절 당 대표 경선에 국민 여론조사를 도입한 이후 18년 만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '문 케어'가 20조 낭비 부른 정책? 내역 직접 따져 보니]]></title>
         <id>https://v.daum.net/v/20221226073906345</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221222080530765"/>
         <updated>2022-12-22T01:37:20.696Z</updated>
         <content type="html"><![CDATA[한덕수 국무총리와 국민의 힘, 일부 보수언론이 합심해 제기하는 노동조합 회계 불투명성 논란은 이른바 ‘노동개혁’ 국면에서 정부가 주도권을 쥐고 가려는 의제 설정이라는 게 노동계와 전문가들의 시각이다. 일부 단위노조의 회계가 불투명한 사례로 거론될 뿐, 노조 전반의 회계 비리가 드러난 일도 없는 상황에서 정부가 느닷없이 문제를 제기하고 나섰기 때문이다. 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국민의힘서 전당대회 앞두고 룰 개정, 과거에도 있었다?]]></title>
-        <id>https://v.daum.net/v/20221222072306127</id>
-        <link href="https://v.daum.net/v/20221222072306127"/>
-        <updated>2022-12-21T23:21:32.338Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 국민의힘이 내년 3월 전당대회를 앞두고 당 대표 선출 규정을 개정하기로 하면서 이를 둘러싸고 당내 갈등이 불거지고 있다. 국민의힘 비상대책위원회는 지난 19일 차기 당 대표와 최고위원을 선출할 때 당원 선거인단 투표를 100% 적용하는 내용 등을 담은 당헌·당규 개정안을 만장일치로 의결했다. 그동안엔 당원투표 70%, 일반]]></content>
     </entry>
 </feed>
