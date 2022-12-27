@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-27T07:22:24.288Z</updated>
+    <updated>2022-12-27T08:27:51.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 노인 지하철 무임승차...지자체장이 중단 가능한가]]></title>
+        <id>https://v.daum.net/v/20221227165525309</id>
+        <link href="https://v.daum.net/v/20221227165525309"/>
+        <updated>2022-12-27T08:24:56.556Z</updated>
+        <content type="html"><![CDATA[정부가 내년에 지하철 무임수송 손실분을 지원하지 않기로 하면서 노인 지하철 무임승차 제도 유지 여부가 '뜨거운 감자'로 다시 떠올랐다./사진=뉴시스   [파이낸셜뉴스] 노인 복지법에 근거한 '노인 지하철 무임승차'를 지방자치단체장의 결정으로 중단할 수 있을까. 정부가 내년에 지하철 무임수송 손실분을 지원하지 않기로 하면서 노인 지하철 무임승차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 주휴수당 폐지되면 내 월급은 얼마나 줄어들까?]]></title>
         <id>https://v.daum.net/v/20221227060027475</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221222204754389"/>
         <updated>2022-12-22T12:40:42.428Z</updated>
         <content type="html"><![CDATA[[앵커] 이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다. 박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요? [기자] 네 맞습니다. 여당에서는 민주노총 조합비가 연간 1700억이라면서 이런 말도 나왔는데요. 우선 들어보시죠. [주호영/국민의힘 원내대표 (지난 20일) : 정부로부터, 또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정”]]></title>
-        <id>https://v.daum.net/v/20221222195728416</id>
-        <link href="https://v.daum.net/v/20221222195728416"/>
-        <updated>2022-12-22T11:16:44.085Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 최근 괴산 지진을 계기로 한반도가 더는  '지진의 안전 지대'가 아니라는 우려가 커지고 있는데요. 그동안 정부가  외부에 공개하지 않았던 지진 조사 보고서 전문을  KBS가 단독 입수했습니다. 이 보고서에는 전국의 활성단층이 20곳 이상으로 추정됐고, 충청권도 예외는 아니었습니다. 팩트체크K 충북, 이정훈 기자입니다. [리포트] 2]]></content>
     </entry>
 </feed>
