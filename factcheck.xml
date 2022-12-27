@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2022-12-27T09:21:09.398Z</updated>
+    <updated>2022-12-27T10:22:12.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손실 키우는 노인 무임승차… 지자체장이 ‘스톱’ 할 수 있다 [fn 팩트체크]]]></title>
+        <id>https://v.daum.net/v/20221227180716561</id>
+        <link href="https://v.daum.net/v/20221227180716561"/>
+        <updated>2022-12-27T10:21:06.830Z</updated>
+        <content type="html"><![CDATA[정부가 내년에 지하철 무임수송 손실분을 지원하지 않기로 하면서 노인 지하철 무임승차 제도 유지 여부가 '뜨거운 감자'로 다시 떠올랐다. 뉴시스    노인 복지법에 근거한 '노인 지하철 무임승차'를 지방자치단체장의 결정으로 중단할 수 있을까. 정부가 내년에 지하철 무임수송 손실분을 지원하지 않기로 하면서 노인 지하철 무임승차 제도 유지 여부가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 노인 지하철 무임승차...지자체장이 중단 가능한가]]></title>
         <id>https://v.daum.net/v/20221227165525309</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221224090305189"/>
         <updated>2022-12-24T01:25:57.946Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; &nbsp;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 노조, 수십억 지원 받고 감사는 안 받는다?]]></title>
-        <id>https://v.daum.net/v/20221222204754389</id>
-        <link href="https://v.daum.net/v/20221222204754389"/>
-        <updated>2022-12-22T12:40:42.428Z</updated>
-        <content type="html"><![CDATA[[앵커] 이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다. 박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요? [기자] 네 맞습니다. 여당에서는 민주노총 조합비가 연간 1700억이라면서 이런 말도 나왔는데요. 우선 들어보시죠. [주호영/국민의힘 원내대표 (지난 20일) : 정부로부터, 또]]></content>
     </entry>
 </feed>
