@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T10:22:41.186Z</updated>
+    <updated>2022-12-28T11:17:46.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221228195853420</id>
+        <link href="https://v.daum.net/v/20221228195853420"/>
+        <updated>2022-12-28T11:16:44.629Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 채널A 사옥에서 시작합니다. 요즘 날씨가 춥고 건조하죠. 겨울철 이런 작은 가습기, 사무실에 두고 쓰시는 분들 많은데요. 이렇게 작은 가습기도 과연 효과가 있는지, 어떻게 써야 건강을 해치지 않는지 스튜디오에서 알아봅니다. 텀블러 크기의 소형 가습기, 분무량이 한 시간에 100ml인데요. 가습 효과를 보려면 공간의 넓이는 어느 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 네이버가 클라우드에 저장한 내 사진을 들여다본다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221228153632439</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221225205106078"/>
         <updated>2022-12-25T12:34:28.361Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지난 정부에서 추진한 건강보험 보장성 강화 정책이 건보 재정을 파탄시켰다며 윤석열 정부가 개혁을 추진하고 있습니다. 20조 원 넘는 돈이 낭비됐다는 것이 지금 정부의 주장인데, 과연 맞는 말인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령/지난 13일, 국무회의 : 보장성 강화에 20조 원을 넘게 쏟아부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한겨울에 경매 넘어간 전셋집…'빌라왕' 보증금 누가 돌려주나 [fn팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221225170203674</id>
-        <link href="https://v.daum.net/v/20221225170203674"/>
-        <updated>2022-12-25T08:23:32.261Z</updated>
-        <content type="html"><![CDATA[주택 1139채를 보유해 '빌라왕'으로 불린 40대 임대업자 김모씨가 갑자기 사망하면서 임차인들이 보증금을 돌려받을 길이 막막해졌다. 재산 관계가 복잡해 상속절차를 개시하기까지도 시일이 걸릴 수밖에 없는 상황이다. 사진은 서울 롯데월드타워 서울스카이에서 바라본 송파구 빌라촌 모습. 뉴시스          지난 23일 오후 전세 사기 피해자들이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특별사면은 임기 초에 '유독' 많았을까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -327,6 +327,13 @@
         <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20221228195853420</id>
+        <link href="https://v.daum.net/v/20221228195853420"/>
+        <updated>2022-12-28T11:17:20.290Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 채널A 사옥에서 시작합니다. 요즘 날씨가 춥고 건조하죠. 겨울철 이런 작은 가습기, 사무실에 두고 쓰시는 분들 많은데요. 이렇게 작은 가습기도 과연 효과가 있는지, 어떻게 써야 건강을 해치지 않는지 스튜디오에서 알아봅니다. 텀블러 크기의 소형 가습기, 분무량이 한 시간에 100ml인데요. 가습 효과를 보려면 공간의 넓이는 어느 정]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뚜껑 닫으면 ‘노로 바이러스’ 안 걸린다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20221226201058623</id>
         <link href="https://v.daum.net/v/20221226201058623"/>
@@ -402,13 +409,6 @@
         <link href="https://v.daum.net/v/20221114193855023"/>
         <updated>2022-11-16T17:34:14.595Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 팔당대교에서 시작합니다. 사흘 전 김봉현 전 회장은 이곳에서 전자팔찌를 끊고 사라졌습니다. 범죄자들이 출소 후 착용하는 전자발찌와 달리, 팔찌는 훼손해도 처벌이 어려운데요. 이유가 뭔지 스튜디오에서 알아봅니다. 전자팔찌와 전자발찌의 차이부터 살펴보죠. 발찌는 범죄를 저지르고 출소한 사람들의 재범을 막기 위해 채우는데요. 팔찌는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘부재중 전화’ 계속 와도 스토킹은 아니다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20221109195954269</id>
-        <link href="https://v.daum.net/v/20221109195954269"/>
-        <updated>2022-11-16T17:35:04.957Z</updated>
-        <content type="html"><![CDATA[팩트맨, 인천지방법원에서 시작합니다. 사흘 전 이곳에서 내려진 판결이 논란입니다. 헤어진 연인에게 석 달간 반복적으로 전화한 남성에게 부재중 전화는 스토킹으로 볼 수 없다며 법원이 무죄를 선고한 건데요. 왜 이런 판결이 나왔는지 알아봅니다. 이 남성, 지난 3월부터 6월까지 헤어진 연인에게 집요하게 전화를 걸거나 문자를 보냈습니다. 지난 3월]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
