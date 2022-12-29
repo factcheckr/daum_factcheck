@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T23:20:50.005Z</updated>
+    <updated>2022-12-29T01:40:23.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한동훈, 노웅래 증거 공개 “당연한 임무”?…과거 장관은 달랐다 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221229100503699</id>
+        <link href="https://v.daum.net/v/20221229100503699"/>
+        <updated>2022-12-29T01:39:11.957Z</updated>
+        <content type="html"><![CDATA[28일 노웅래 더불어민주당 의원에 대한 체포동의안 부결 과정에서 한동훈 법무부 장관의 피의사실 공표 논란이 불거졌다. 한 장관이 특유의 말투로 “돈봉투 부스럭 거리는 소리” “돈을 주고 받는 현장이 이렇게까지 생생하게 녹음된 사건을 본 적이 없다” 등 매우 구체적인 수사 내용과 이에 대한 본인의 주관적 판단까지 언급하며 체포동의 요청 이유를 설명했기 때문이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221228195853420</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221226073906345"/>
         <updated>2022-12-25T23:19:57.606Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 문재인 정부 건강보험 보장성 강화 정책인 '문재인 케어' 논란이 계속되고 있습니다. 정부 여당은 문재인 케어에 20조 원 넘는 돈이 낭비됐다고 주장하고 있는데, 팩트체크 사실은팀이 구체적 내역을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령 (지난 13일, 국무회의) :&nbsp;보장성 강화에 20조 원을 넘게 쏟아 부었지만, 인기영합적 포퓰리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 문재인 케어에 20조 원 낭비? 하나씩 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221225205106078</id>
-        <link href="https://v.daum.net/v/20221225205106078"/>
-        <updated>2022-12-25T12:34:28.361Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 지난 정부에서 추진한 건강보험 보장성 강화 정책이 건보 재정을 파탄시켰다며 윤석열 정부가 개혁을 추진하고 있습니다. 20조 원 넘는 돈이 낭비됐다는 것이 지금 정부의 주장인데, 과연 맞는 말인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령/지난 13일, 국무회의 : 보장성 강화에 20조 원을 넘게 쏟아부]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특별사면은 임기 초에 '유독' 많았을까 (다음 뉴스 ─ SBS 사실은)]]></title>
