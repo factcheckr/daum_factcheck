@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-30T21:17:41.603Z</updated>
+    <updated>2022-12-30T22:20:57.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 한동훈의 '1,487자'는 역대 최장 설명...과거 체포동의안 이후 판결은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20221231070113907</id>
+        <link href="https://v.daum.net/v/20221231070113907"/>
+        <updated>2022-12-30T22:18:38.634Z</updated>
+        <content type="html"><![CDATA[[앵커] 사흘 전 한동훈 법무부 장관이 국회에서 한 노웅래 의원에 대한 체포동의안 설명. 분량 면에서도 역대 최장이었고 이례적으로 구체적인 증거 설명 때문에 피의사실 공표 논란까지 일고 있는데요. 과거 법무부 장관들의 체포동의 설명이 실제 판결 결과와 얼마나 같았는지, 한동오 기자가 따져봤습니다. [기자] [한동훈 / 법무부 장관 (지난 28일)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 당대표를 여론조사로 뽑는 나라가 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221230104332718</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221226201058623"/>
         <updated>2022-12-26T11:16:34.040Z</updated>
         <content type="html"><![CDATA[노로바이러스 환자가 한 달 새 두 배 넘게 늘었습니다. 감염되면 구토, 복통, 설사에 시달리는데요. 질병관리청은 예방을 위해 변기 뚜껑을 닫고 물을 내리라는데 이유가 뭔지 알아봅니다. 노로바이러스는 △오염된 음식이나 물, △감염된 사람의 분변이나 구토물에 의해 전염되는데요. 변기 물을 내릴 때 튀는 물방울로도 전염될 수 있습니다. 실험 영상을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "여론조사로 당 대표 선출하는 나라 없다" 사실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221226141200325</id>
-        <link href="https://v.daum.net/v/20221226141200325"/>
-        <updated>2022-12-26T05:18:28.557Z</updated>
-        <content type="html"><![CDATA[국민의힘 전국위원회가 차기 당 대표를 여론조사 없이 100% 당원 투표를 통해 선출하는 내용의 당헌 개정안을 지난주 통과시켰습니다. 원래는 당원 투표 70%, 일반 국민 여론조사 30%로 당 대표로 뽑았었는데, 여론조사 반영 기준으로 당원 투표 100%로 선출하겠다는 겁니다. 2004년 한나라당 시절 당 대표 경선에 국민 여론조사를 도입한 이후 18년 만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특별사면은 임기 초에 '유독' 많았을까 (다음 뉴스 ─ SBS 사실은)]]></title>
