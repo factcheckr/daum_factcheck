@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2022-12-30T23:20:35.924Z</updated>
+    <updated>2022-12-31T01:38:09.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20221231093900169</id>
+        <link href="https://v.daum.net/v/20221231093900169"/>
+        <updated>2022-12-31T01:37:21.039Z</updated>
+        <content type="html"><![CDATA[북한 무인기 도발과 관련해, 최근 정치권에서는 예산 논란이 불거졌습니다. 그 출발은 지난 27일 국무회의에서 윤석열 대통령의 발언입니다. 윤 대통령은 "지난 수년간 우리 군의 대비 태세와 훈련이 대단히 부족했음을 여실히 확인해준 사건"이라면서 "군용 무인기 도발에 대한 내년도 대응 전력 예산이 국회에서 50%나 삭감됐다"고 말했습니다. 국회 책임을 강조하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특별사면은 임기 초에 '유독' 많았을까]]></title>
         <id>https://v.daum.net/v/20221228095702171</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221025171509042"/>
         <updated>2022-11-16T17:34:27.942Z</updated>
         <content type="html"><![CDATA[지난 22일, 중국 베이징 인민대회당에서 열린 공산당 제20차 전국대표대회 폐막식. 젊은 수행원들이 여든 살의 후진타오 전 주석을 일으켜 세우려고 하고, 후 전 주석은 다시 자리에 앉으려고 합니다. 옆에 앉아 있던 시진핑 주석에게 뭔가 말을 건네는 후진타오 전 주석, 형식적으로 답하며 애써 외면하는 표정의 시진핑 주석… 후 주석은 리커창 총리의 어깨도 툭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국회가 카카오 논리대로 법안 폐기" 따져 보니..]]></title>
-        <id>https://v.daum.net/v/20221021142401359</id>
-        <link href="https://v.daum.net/v/20221021142401359"/>
-        <updated>2022-11-16T17:34:27.943Z</updated>
-        <content type="html"><![CDATA[카카오톡 먹통 사태와 관련해 정치권의 책임이 제기됐습니다. 2년 전, 이런 먹통 사태를 방지하기 위한 이른바 방송통신발전기본법 개정안이 국회에서 가로 막힌 사실이 알려지면서 공분이 일었습니다. 언론에서는 당시 회의록 발언을 소개하며, 데이터 재난에 대한 정치권의 안전불감증을 비판했습니다. 당시 법안에 유일하게 찬성했던 채이배 전 민주당 의원은 최근 한 라]]></content>
     </entry>
 </feed>
