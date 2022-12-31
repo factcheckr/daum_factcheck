@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-31T21:17:51.549Z</updated>
+    <updated>2022-12-31T22:18:58.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 6월부터 '만 나이'로 통일되면 정년 더 늦춰진다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230101071110632</id>
+        <link href="https://v.daum.net/v/20230101071110632"/>
+        <updated>2022-12-31T22:17:50.056Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 이아미 인턴기자 = 지난해 12월 27일 정부가 공포한 '만(滿) 나이 통일법'이 오는 6월 28일부터 시행된다. '만 나이 통일'은 국내에서 여러 가지 나이 계산법이 뒤섞여 쓰이면서 생기는 혼선과 각종 법적·행정적 분쟁을 해소하기 위해 추진한 윤석열 대통령의 대선 공약 중 하나다. 이처럼 나이 셈법이 만 나이로 통일된다는 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '유효 기한=5년' 지난 온누리상품권은 전통시장 가서 쓸 수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221231130005953</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221228095702171"/>
         <updated>2022-12-28T01:37:16.235Z</updated>
         <content type="html"><![CDATA[윤석열 대통령이 1,373명에 대한 특별사면을 단행했습니다. 이명박 전 대통령의 잔형 집행 면제와 복권이 이뤄졌습니다. 김경수 전 지사는 복권 없이 잔형 집행만 면제됐습니다. 법무부는 이 전 대통령을 비롯한 정치인들을 사면 대상에 포함한 이유에 대해 "새 정부 출범 첫해를 마무리하면서 범국민적 통합으로 하나 된 대한민국의 저력을 회복하는 계기를 마련하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시장이 노인 무임승차 중단 가능..할인율 변경은 불가능하다[fn팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221227180716561</id>
-        <link href="https://v.daum.net/v/20221227180716561"/>
-        <updated>2022-12-27T10:21:06.830Z</updated>
-        <content type="html"><![CDATA[서울시와 각 지방자치단체들이 65세 이상 노인 무임승차제에 따른 손실을 막기 위해 요금 인상 등의 대책을 강구중이다. 이를 두고 노인 무임승차제 폐지 또는 할인율 인하에 대한 목소리가 커지고 있다.    [파이낸셜뉴스] 오세훈 서울시장이 무임승차 손실 보전을 위해 내년 지하철 요금 인상을 추진중이다. 이에 따라 무임승차의 80%대를 차지 하는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
