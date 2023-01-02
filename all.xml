@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-02T07:19:09.397Z</updated>
+    <updated>2023-01-02T08:26:52.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '뇌 먹는 아메바', 뇌를 먹는다는 건 사실? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230102171616694</id>
+        <link href="https://v.daum.net/v/20230102171616694"/>
+        <updated>2023-01-02T08:25:40.414Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '뇌 먹는 아메바', 뇌를 먹는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 말많은 '신년특사', 무원칙·편파적·반성없는 사면이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230102170406340</id>
+        <link href="https://v.daum.net/v/20230102170406340"/>
+        <updated>2023-01-02T08:25:40.420Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 말많은 '신년특사', 무원칙·편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 6월부터 '만 나이'로 통일되면 정년 더 늦춰진다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230101071110632</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20221228195853420"/>
         <updated>2022-12-28T11:16:44.629Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 채널A 사옥에서 시작합니다. 요즘 날씨가 춥고 건조하죠. 겨울철 이런 작은 가습기, 사무실에 두고 쓰시는 분들 많은데요. 이렇게 작은 가습기도 과연 효과가 있는지, 어떻게 써야 건강을 해치지 않는지 스튜디오에서 알아봅니다. 텀블러 크기의 소형 가습기, 분무량이 한 시간에 100ml인데요. 가습 효과를 보려면 공간의 넓이는 어느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 네이버가 클라우드에 저장한 내 사진을 들여다본다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221228153632439</id>
-        <link href="https://v.daum.net/v/20221228153632439"/>
-        <updated>2022-12-28T07:18:00.947Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 포털사이트 네이버가 이용자들이 올린 사진을 이용해 국내외의 인기 포토존(사진 찍는 명소)을 선정해 공개하면서 일각에서 개인정보 침해 논란이 일고 있다. 네이버는 지난 19일 이용자들에게 제공하는 개인용 파일 저장 클라우드(인터넷을 통해 데이터·애플리케이션 등을 저장하거나 내려받아 이용하는 것) 서비스 '마이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 특별사면은 임기 초에 '유독' 많았을까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221228095702171</id>
-        <link href="https://v.daum.net/v/20221228095702171"/>
-        <updated>2022-12-28T01:37:16.235Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 1,373명에 대한 특별사면을 단행했습니다. 이명박 전 대통령의 잔형 집행 면제와 복권이 이뤄졌습니다. 김경수 전 지사는 복권 없이 잔형 집행만 면제됐습니다. 법무부는 이 전 대통령을 비롯한 정치인들을 사면 대상에 포함한 이유에 대해 "새 정부 출범 첫해를 마무리하면서 범국민적 통합으로 하나 된 대한민국의 저력을 회복하는 계기를 마련하는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
