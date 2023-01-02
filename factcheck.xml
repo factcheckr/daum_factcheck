@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-02T08:26:52.315Z</updated>
+    <updated>2023-01-02T09:21:26.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]한동훈 “젊은층 마약사법 급증” 발언은 ‘사실’, 10대 마약사범 크게 늘어]]></title>
+        <id>https://v.daum.net/v/20230102172704978</id>
+        <link href="https://v.daum.net/v/20230102172704978"/>
+        <updated>2023-01-02T09:19:23.204Z</updated>
+        <content type="html"><![CDATA[한동훈 법무부 장관은 2일 신년사에서 “젊은층에서 마약사범이 급증하는 등 마약범죄의 양상이 매우 우려할 만한 상황”이라고 밝혔다. 젊은층 마약사범이 급증했다는 말은 사실일까. 대검찰청 홈페이지에 공개된 ‘마약류 월간동향’에 따르면 한 장관의 발언은 사실로 평가된다. 이 자료를 분석해보면 지난 20년간 특히 10~20대 마약류사범의 비율은 큰 폭으로 늘었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '뇌 먹는 아메바', 뇌를 먹는다는 건 사실?]]></title>
         <id>https://v.daum.net/v/20230102171616694</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221229100503699"/>
         <updated>2022-12-29T01:39:11.957Z</updated>
         <content type="html"><![CDATA[28일 노웅래 더불어민주당 의원에 대한 체포동의안 부결 과정에서 한동훈 법무부 장관의 피의사실 공표 논란이 불거졌다. 한 장관이 특유의 말투로 “돈봉투 부스럭 거리는 소리” “돈을 주고 받는 현장이 이렇게까지 생생하게 녹음된 사건을 본 적이 없다” 등 매우 구체적인 수사 내용과 이에 대한 본인의 주관적 판단까지 언급하며 체포동의 요청 이유를 설명했기 때문이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]얼굴 앞 ‘미니 가습기’, 습도 조절 된다?]]></title>
-        <id>https://v.daum.net/v/20221228195853420</id>
-        <link href="https://v.daum.net/v/20221228195853420"/>
-        <updated>2022-12-28T11:16:44.629Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 채널A 사옥에서 시작합니다. 요즘 날씨가 춥고 건조하죠. 겨울철 이런 작은 가습기, 사무실에 두고 쓰시는 분들 많은데요. 이렇게 작은 가습기도 과연 효과가 있는지, 어떻게 써야 건강을 해치지 않는지 스튜디오에서 알아봅니다. 텀블러 크기의 소형 가습기, 분무량이 한 시간에 100ml인데요. 가습 효과를 보려면 공간의 넓이는 어느]]></content>
     </entry>
 </feed>
