@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-02T19:19:07.212Z</updated>
+    <updated>2023-01-02T20:21:25.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]금리상승기 법정최고금리 낮아지면 빚 부담 줄까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230103050011699</id>
+        <link href="https://v.daum.net/v/20230103050011699"/>
+        <updated>2023-01-02T20:20:05.484Z</updated>
+        <content type="html"><![CDATA[서울 용산구 서울역 인근에 제2금융권 간판이 나란히 걸려 있다. /뉴스1     [파이낸셜뉴스] 서민들의 이자 부담을 완화하기 위해 '대부업법' 및 '이자제한법' 상의 최고금리를 일원화하고 단계적으로 20%까지 인하하겠다.(정부 2017년 8월 '100대 국정과제') 기준금리 인상이 이어지는 가운데 정치권을 중심으로 법정최고금리를 또 다시 낮추]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]한동훈 “젊은층 마약사법 급증” 발언은 ‘사실’, 10대 마약사범 크게 늘어 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230102172704978</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221230104332718"/>
         <updated>2022-12-30T02:41:06.556Z</updated>
         <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 국민의힘이 내년 3월 8일 열릴 전당대회에서 차기 당대표를 ‘당원 투표 100%’ 방식으로 선출키로 확정한 것을 두고 당 내에서 갑론을박이 이어지고 있습니다. 국민의힘 비상대책위원회는 지난 19일 당대표 선출에서 당원 선거인단의 투표 결과 반영을 확대하는 내용의 당헌·당규 개정안을 만장일치로 의결했습니다. 국민의힘은 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈, 노웅래 증거 공개 “당연한 임무”?…이전 장관들과 달랐다 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221229100503699</id>
-        <link href="https://v.daum.net/v/20221229100503699"/>
-        <updated>2022-12-29T01:39:11.957Z</updated>
-        <content type="html"><![CDATA[28일 노웅래 더불어민주당 의원에 대한 체포동의안 부결 과정에서 한동훈 법무부 장관의 피의사실 공표 논란이 불거졌다. 한 장관이 특유의 말투로 “돈봉투 부스럭 거리는 소리” “돈을 주고 받는 현장이 이렇게까지 생생하게 녹음된 사건을 본 적이 없다” 등 매우 구체적인 수사 내용과 이에 대한 본인의 주관적 판단까지 언급하며 체포동의 요청 이유를 설명했기 때문이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
