@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-03T04:24:51.711Z</updated>
+    <updated>2023-01-03T05:19:15.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크]금리상승기 법정최고금리 낮아지면 빚 부담 줄까]]></title>
+        <title type="html"><![CDATA[[팩트체크]법정최고금리 낮아지면 취약차주 이자부담 줄어든다]]></title>
         <id>https://v.daum.net/v/20230103050011699</id>
         <link href="https://v.daum.net/v/20230103050011699"/>
         <updated>2023-01-02T20:20:05.484Z</updated>
