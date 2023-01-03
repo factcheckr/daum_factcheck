@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-03T11:17:39.231Z</updated>
+    <updated>2023-01-03T12:40:00.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나]]></title>
+        <id>https://v.daum.net/v/20230103204609085</id>
+        <link href="https://v.daum.net/v/20230103204609085"/>
+        <updated>2023-01-03T12:39:02.391Z</updated>
+        <content type="html"><![CDATA[[열차 탑승 안 됩니다. {타게 해주세요. 왜 못 타게 하냐고요}] [앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니]]></title>
         <id>https://v.daum.net/v/20230103182704078</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221231093900169"/>
         <updated>2022-12-31T01:37:10.718Z</updated>
         <content type="html"><![CDATA[북한 무인기 도발과 관련해, 최근 정치권에서는 예산 논란이 불거졌습니다. 그 출발은 지난 27일 국무회의에서 윤석열 대통령의 발언입니다. 윤 대통령은 "지난 수년간 우리 군의 대비 태세와 훈련이 대단히 부족했음을 여실히 확인해준 사건"이라면서 "군용 무인기 도발에 대한 내년도 대응 전력 예산이 국회에서 50%나 삭감됐다"고 말했습니다. 국회 책임을 강조하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]종이테이프의 배신? 종이로 분리 배출 안된다]]></title>
-        <id>https://v.daum.net/v/20221231090305830</id>
-        <link href="https://v.daum.net/v/20221231090305830"/>
-        <updated>2022-12-31T01:37:10.722Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요?` ◆]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-03T11:17:39.236Z</updated>
+    <updated>2023-01-03T12:40:00.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230103204609085</id>
+        <link href="https://v.daum.net/v/20230103204609085"/>
+        <updated>2023-01-03T12:39:02.391Z</updated>
+        <content type="html"><![CDATA[[열차 탑승 안 됩니다. {타게 해주세요. 왜 못 타게 하냐고요}] [앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230103182704078</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221231093900169"/>
         <updated>2022-12-31T01:37:10.718Z</updated>
         <content type="html"><![CDATA[북한 무인기 도발과 관련해, 최근 정치권에서는 예산 논란이 불거졌습니다. 그 출발은 지난 27일 국무회의에서 윤석열 대통령의 발언입니다. 윤 대통령은 "지난 수년간 우리 군의 대비 태세와 훈련이 대단히 부족했음을 여실히 확인해준 사건"이라면서 "군용 무인기 도발에 대한 내년도 대응 전력 예산이 국회에서 50%나 삭감됐다"고 말했습니다. 국회 책임을 강조하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]종이테이프의 배신? 종이로 분리 배출 안된다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221231090305830</id>
-        <link href="https://v.daum.net/v/20221231090305830"/>
-        <updated>2022-12-31T01:37:10.722Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요?` ◆]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최영갑 성균관 의례정립위원회 위원장(왼쪽 두 번째)이 5일 서울 중구 한국프레스센터에서 '차례 간소화' 방안을 발표 후 간소화 방안대로 차린 차례상을 지켜보고 있다. 2022.9.5 [성균관 의례정립위원회 제공]    ⓒ 연합뉴스  [검증대상] "차례상에 전 빠져도 되고, '홍동백서' 등 근거 없다" 성균관 발표 &nbsp;"기름]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전장연 시위 '강대강 대치', 왜 출구 못 찾나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230103204609085</id>
+        <link href="https://v.daum.net/v/20230103204609085"/>
+        <updated>2023-01-03T12:39:59.390Z</updated>
+        <content type="html"><![CDATA[[열차 탑승 안 됩니다. {타게 해주세요. 왜 못 타게 하냐고요}] [앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[노조, 수십억 지원 받고 감사는 안 받는다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20221222204754389</id>
         <link href="https://v.daum.net/v/20221222204754389"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20221017201306759"/>
         <updated>2022-11-16T17:35:39.768Z</updated>
         <content type="html"><![CDATA[[앵커] 카카오 먹통 사태로 입은 피해와 불편을 어디까지 보상받을 수 있는지 구체적인 사례별로 짚어보겠습니다. 김도훈 기자가 나와있습니다. 우선 택시 기사들의 피해가 상당히 컸죠? [기자] 그렇습니다. 우리나라 택시 호출앱 시장에서 카카오T 점유율, 약 90%에 달합니다. 지난 주말 내내 앱으로 택시 부르는 손님이 없어서 영업을 거의 하지 못했다는 기사들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전술핵' 들여올 수 있을까? 현실성 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221012203306679</id>
-        <link href="https://v.daum.net/v/20221012203306679"/>
-        <updated>2022-11-16T17:35:39.769Z</updated>
-        <content type="html"><![CDATA[[앵커] 전술핵 재배치 주장을 둘러싼 팩트를 바로 체크하겠습니다. 홍지용 기자가 나와 있습니다. 전술핵 들여오면 핵확산금지조약 위반이다 이런 주장도 나오는데 맞습니까? [기자] 그렇지 않습니다. 반드시 위반은 아닙니다. NPT 핵확산금지조약을 보면 핵무기를 국가 간에 주고받지 못하도록 규정하고 있습니다. 하지만 미국이 전술핵을 주한미군에 배치해서 직접 통제]]></content>
     </entry>
 </feed>
