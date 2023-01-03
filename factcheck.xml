@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-03T07:19:10.943Z</updated>
+    <updated>2023-01-03T08:26:39.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 초고속인터넷 속도, 글로벌 34위?…못 믿을 해외 업체 통계[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230103170008787</id>
+        <link href="https://v.daum.net/v/20230103170008787"/>
+        <updated>2023-01-03T08:25:28.008Z</updated>
+        <content type="html"><![CDATA[[이데일리 김현아 기자][이데일리 문승용 기자] 한국의 초고속인터넷 평균 속도가 ‘세계 34위’에 불과해 인터넷 강국이라는 명성에 먹칠을 했다는 보도가 잇따르고 있지만 신뢰하기 어려운 것으로 드러났다. 다수 언론은 3일 인터넷 속도 측정 사이트 ‘스피드 테스트’의 측정 결과를 인용해 지난해 11월 기준 한국 초고속인터넷 평균 속도는 다운로드 기준 171.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]법정최고금리 낮아지면 취약차주 이자부담 줄어든다]]></title>
         <id>https://v.daum.net/v/20230103050011699</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221231070113907"/>
         <updated>2022-12-30T22:18:38.634Z</updated>
         <content type="html"><![CDATA[[앵커] 사흘 전 한동훈 법무부 장관이 국회에서 한 노웅래 의원에 대한 체포동의안 설명. 분량 면에서도 역대 최장이었고 이례적으로 구체적인 증거 설명 때문에 피의사실 공표 논란까지 일고 있는데요. 과거 법무부 장관들의 체포동의 설명이 실제 판결 결과와 얼마나 같았는지, 한동오 기자가 따져봤습니다. [기자] [한동훈 / 법무부 장관 (지난 28일)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 당대표를 여론조사로 뽑는 나라가 없다?]]></title>
-        <id>https://v.daum.net/v/20221230104332718</id>
-        <link href="https://v.daum.net/v/20221230104332718"/>
-        <updated>2022-12-30T02:41:06.556Z</updated>
-        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 국민의힘이 내년 3월 8일 열릴 전당대회에서 차기 당대표를 ‘당원 투표 100%’ 방식으로 선출키로 확정한 것을 두고 당 내에서 갑론을박이 이어지고 있습니다. 국민의힘 비상대책위원회는 지난 19일 당대표 선출에서 당원 선거인단의 투표 결과 반영을 확대하는 내용의 당헌·당규 개정안을 만장일치로 의결했습니다. 국민의힘은 20일]]></content>
     </entry>
 </feed>
