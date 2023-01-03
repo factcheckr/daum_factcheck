@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-03T21:20:13.601Z</updated>
+    <updated>2023-01-03T22:20:34.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230104070001293</id>
+        <link href="https://v.daum.net/v/20230104070001293"/>
+        <updated>2023-01-03T22:19:33.563Z</updated>
+        <content type="html"><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다. (중략) 중·대선거구제를 통해서 대표성이 좀 더 강화되는 방안을 검토해볼 필요가 있다." - 윤석열 대통령 / 1월 2일 &lt;조선일보&gt; 신년 인터뷰 내용 윤석열 대통령이 새해 벽두부터 중·대선거구제 개편을 공론화했습니다. 선거구는 대표를 선출하는 지역적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 사라진 대통령실의 '컨트롤 타워' 기능...참사 두 달전 매뉴얼 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230103221320963</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230101071110632"/>
         <updated>2022-12-31T22:17:50.056Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 이아미 인턴기자 = 지난해 12월 27일 정부가 공포한 '만(滿) 나이 통일법'이 오는 6월 28일부터 시행된다. '만 나이 통일'은 국내에서 여러 가지 나이 계산법이 뒤섞여 쓰이면서 생기는 혼선과 각종 법적·행정적 분쟁을 해소하기 위해 추진한 윤석열 대통령의 대선 공약 중 하나다. 이처럼 나이 셈법이 만 나이로 통일된다는 소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '유효 기한=5년' 지난 온누리상품권은 전통시장 가서 쓸 수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221231130005953</id>
-        <link href="https://v.daum.net/v/20221231130005953"/>
-        <updated>2022-12-31T04:23:58.492Z</updated>
-        <content type="html"><![CDATA[#. 주부 유모(60)씨는 최근 이사를 준비하다 장롱 서랍에서 5만 원권 온누리상품권 두 장을 봤다. 연말을 맞아 가족 모임이 예정돼 있고 장 볼 일이 많았던 터라 온누리상품권 10만 원은 더 없이 반가웠다. 하지만 '뜻밖 횡재'의 기쁨도 잠시. 뒷면을 보니 유효 기한이 이미 1년 넘게 지나버렸다. 그런데 반전이 일어났다. 유씨는 "그냥 버리기 아까워]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
