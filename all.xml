@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-03T09:21:05.037Z</updated>
+    <updated>2023-01-03T10:22:41.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230103182704078</id>
+        <link href="https://v.daum.net/v/20230103182704078"/>
+        <updated>2023-01-03T10:21:36.058Z</updated>
+        <content type="html"><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다. (중략) 중·대선거구제를 통해서 대표성이 좀 더 강화되는 방안을 검토해볼 필요가 있다." - 윤석열 대통령 / 1월 2일 &lt;조선일보&gt; 신년 인터뷰 내용 윤석열 대통령이 새해 벽두부터 중·대선거구제 개편을 공론화했습니다. 선거구는 대표를 선출하는 지역적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 초고속인터넷 속도, 글로벌 34위?…못 믿을 해외 업체 통계[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230103170008787</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20221231090305830"/>
         <updated>2022-12-31T01:37:10.722Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요?` ◆]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 한동훈의 '1,487자'는 역대 최장 설명...과거 체포동의안 이후 판결은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221231070113907</id>
-        <link href="https://v.daum.net/v/20221231070113907"/>
-        <updated>2022-12-30T22:18:38.634Z</updated>
-        <content type="html"><![CDATA[[앵커] 사흘 전 한동훈 법무부 장관이 국회에서 한 노웅래 의원에 대한 체포동의안 설명. 분량 면에서도 역대 최장이었고 이례적으로 구체적인 증거 설명 때문에 피의사실 공표 논란까지 일고 있는데요. 과거 법무부 장관들의 체포동의 설명이 실제 판결 결과와 얼마나 같았는지, 한동오 기자가 따져봤습니다. [기자] [한동훈 / 법무부 장관 (지난 28일)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "국회가 무인기 예산 삭감" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
