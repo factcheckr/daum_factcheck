@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-04T04:23:48.344Z</updated>
+    <updated>2023-01-04T05:19:56.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 낮은 의료비 본인부담→과다 의료이용 등 도덕적 해이 발생?]]></title>
+        <id>https://v.daum.net/v/20230104135050451</id>
+        <link href="https://v.daum.net/v/20230104135050451"/>
+        <updated>2023-01-04T05:18:43.415Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 윤석열정부의 건강보험에 대한 인식은 팩트일까. 윤석열정부는 건강보험 보장성 강화정책이 재정 건전성을 위협한다고 주장한다. 또한 낮은 의료비 본인부담으로 과다 의료이용이 발생하고 이 때문에 도덕적 해이가 벌어지고 있다고 진단한다. 이런 인식을 토대로 정부는 2023년 건강보험 국고지원 예산을 20%에서 14.4% 수준으로 축소 편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니]]></title>
         <id>https://v.daum.net/v/20230104070001293</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230102170406340"/>
         <updated>2023-01-02T08:25:40.420Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 말많은 '신년특사', 무원칙·편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 6월부터 '만 나이'로 통일되면 정년 더 늦춰진다?]]></title>
-        <id>https://v.daum.net/v/20230101071110632</id>
-        <link href="https://v.daum.net/v/20230101071110632"/>
-        <updated>2022-12-31T22:17:50.056Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 이아미 인턴기자 = 지난해 12월 27일 정부가 공포한 '만(滿) 나이 통일법'이 오는 6월 28일부터 시행된다. '만 나이 통일'은 국내에서 여러 가지 나이 계산법이 뒤섞여 쓰이면서 생기는 혼선과 각종 법적·행정적 분쟁을 해소하기 위해 추진한 윤석열 대통령의 대선 공약 중 하나다. 이처럼 나이 셈법이 만 나이로 통일된다는 소]]></content>
     </entry>
 </feed>
