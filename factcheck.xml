@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-04T11:18:13.092Z</updated>
+    <updated>2023-01-04T12:39:24.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "신종변이, 복통·설사 유발"…전문가에 물어보니]]></title>
+        <id>https://v.daum.net/v/20230104205111583</id>
+        <link href="https://v.daum.net/v/20230104205111583"/>
+        <updated>2023-01-04T12:38:21.861Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이와 함께, 중국에서 퍼지고 있는 코로나 신종 변이가 복통과 설사를 유발한다는 이야기가 나오면서 우리 주식시장에서 제약회사 주가가 한때 요동치기도 했습니다. 정말로 신종 변이에 감염되면 그런 증상이 나타나는지, 저희 팩트 체크 사실은 팀에서 확인했습니다. 이경원 기자입니다. &lt;기자&gt; 어제(3일) 증권시장에서는 설사 완화약, 지사제를 만드는 한 제약]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁]]></title>
+        <id>https://v.daum.net/v/20230104202809164</id>
+        <link href="https://v.daum.net/v/20230104202809164"/>
+        <updated>2023-01-04T12:38:21.866Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 KTX 대체열차가 오고, 코레일 직원이 안내하는 등 헷갈린다는 경험담들을 SNS에 줄줄이 공유하고 있는데요. 이런 경험들이 사실인지, 또 왜 이런 일이 생긴 건지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 낮은 의료비 본인부담→과다 의료이용 등 도덕적 해이 발생?]]></title>
         <id>https://v.daum.net/v/20230104135050451</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230102172704978"/>
         <updated>2023-01-02T09:19:23.204Z</updated>
         <content type="html"><![CDATA[한동훈 법무부 장관은 2일 신년사에서 “젊은층에서 마약사범이 급증하는 등 마약범죄의 양상이 매우 우려할 만한 상황”이라고 밝혔다. 젊은층 마약사범이 급증했다는 말은 사실일까. 대검찰청 홈페이지에 공개된 ‘마약류 월간동향’에 따르면 한 장관의 발언은 사실로 평가된다. 이 자료를 분석해보면 지난 20년간 특히 10~20대 마약류사범의 비율은 큰 폭으로 늘었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '뇌 먹는 아메바', 뇌를 먹는다는 건 사실?]]></title>
-        <id>https://v.daum.net/v/20230102171616694</id>
-        <link href="https://v.daum.net/v/20230102171616694"/>
-        <updated>2023-01-02T08:25:40.414Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '뇌 먹는 아메바', 뇌를 먹는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 말많은 '신년특사', 무원칙·편파적·반성없는 사면이다?]]></title>
-        <id>https://v.daum.net/v/20230102170406340</id>
-        <link href="https://v.daum.net/v/20230102170406340"/>
-        <updated>2023-01-02T08:25:40.420Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2022년 12월 31일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 말많은 '신년특사', 무원칙·편]]></content>
     </entry>
 </feed>
