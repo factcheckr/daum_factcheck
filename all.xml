@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-06T07:18:00.505Z</updated>
+    <updated>2023-01-06T08:26:58.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 尹, 신년 기자회견을 패스한 유일한 대통령이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230106171325864</id>
+        <link href="https://v.daum.net/v/20230106171325864"/>
+        <updated>2023-01-06T08:25:57.958Z</updated>
+        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 윤석열 대통령이 신년사 발표로 계묘년 첫 업무를 시작했다. 윤 대통령은 지난 1일 오전 10시 용산 대통령실에서 열린 신년 인사회에서 “대한민국의 미래와 운명이 달린 노동·교육·연금 ‘3대 개혁’을 더 이상 미룰 수 없다”며 “위대한 국민 여러분과 함께 새로운 도약을 반드시 이뤄내겠다”고 말했다. 신년사는 이날 약 9분간 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230106101435817</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230103170008787"/>
         <updated>2023-01-03T08:25:28.008Z</updated>
         <content type="html"><![CDATA[[이데일리 김현아 기자][이데일리 문승용 기자] 한국의 초고속인터넷 평균 속도가 ‘세계 34위’에 불과해 인터넷 강국이라는 명성에 먹칠을 했다는 보도가 잇따르고 있지만 신뢰하기 어려운 것으로 드러났다. 다수 언론은 3일 인터넷 속도 측정 사이트 ‘스피드 테스트’의 측정 결과를 인용해 지난해 11월 기준 한국 초고속인터넷 평균 속도는 다운로드 기준 171.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]법정최고금리 낮아지면 취약차주 이자부담 줄어든다 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230103050011699</id>
-        <link href="https://v.daum.net/v/20230103050011699"/>
-        <updated>2023-01-02T20:20:05.484Z</updated>
-        <content type="html"><![CDATA[서울 용산구 서울역 인근에 제2금융권 간판이 나란히 걸려 있다. /뉴스1     [파이낸셜뉴스] 서민들의 이자 부담을 완화하기 위해 '대부업법' 및 '이자제한법' 상의 최고금리를 일원화하고 단계적으로 20%까지 인하하겠다.(정부 2017년 8월 '100대 국정과제') 기준금리 인상이 이어지는 가운데 정치권을 중심으로 법정최고금리를 또 다시 낮추]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신종변이, 복통·설사 유발"…전문가에 물어보니 (다음 뉴스 ─ SBS 사실은)]]></title>
