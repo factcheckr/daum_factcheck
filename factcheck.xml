@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-06T22:20:25.181Z</updated>
+    <updated>2023-01-06T23:20:22.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리?]]></title>
+        <id>https://v.daum.net/v/20230107072309975</id>
+        <link href="https://v.daum.net/v/20230107072309975"/>
+        <updated>2023-01-06T23:19:12.997Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 수그러들었던 국내 코로나19 확산에 대한 우려가 중국 내 코로나19 대유행을 계기로 다시 고개를 들고 있다. 중국은 3년간 유지해온 '제로 코로나' 정책을 지난달 초 '위드 코로나'(코로나와 공존) 정책으로 전환한 뒤 코로나19 감염자와 사망자가 폭증한 것으로 보도되고 있다. 새해 들어 한국을 비롯한 주요국들의 중국발 입국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 尹, 신년 기자회견을 패스한 유일한 대통령이다?]]></title>
         <id>https://v.daum.net/v/20230106171325864</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230103182704078"/>
         <updated>2023-01-03T10:21:36.058Z</updated>
         <content type="html"><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다. (중략) 중·대선거구제를 통해서 대표성이 좀 더 강화되는 방안을 검토해볼 필요가 있다." - 윤석열 대통령 / 1월 2일 &lt;조선일보&gt; 신년 인터뷰 내용 윤석열 대통령이 새해 벽두부터 중·대선거구제 개편을 공론화했습니다. 선거구는 대표를 선출하는 지역적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 초고속인터넷 속도, 글로벌 34위?…못 믿을 해외 업체 통계[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230103170008787</id>
-        <link href="https://v.daum.net/v/20230103170008787"/>
-        <updated>2023-01-03T08:25:28.008Z</updated>
-        <content type="html"><![CDATA[[이데일리 김현아 기자][이데일리 문승용 기자] 한국의 초고속인터넷 평균 속도가 ‘세계 34위’에 불과해 인터넷 강국이라는 명성에 먹칠을 했다는 보도가 잇따르고 있지만 신뢰하기 어려운 것으로 드러났다. 다수 언론은 3일 인터넷 속도 측정 사이트 ‘스피드 테스트’의 측정 결과를 인용해 지난해 11월 기준 한국 초고속인터넷 평균 속도는 다운로드 기준 171.]]></content>
     </entry>
 </feed>
