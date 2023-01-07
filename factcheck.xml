@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-06T23:20:22.299Z</updated>
+    <updated>2023-01-07T01:40:06.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '신현영 징계 요청'으로 본 '의원 징계'의 정치학]]></title>
+        <id>https://v.daum.net/v/20230107090301865</id>
+        <link href="https://v.daum.net/v/20230107090301865"/>
+        <updated>2023-01-07T01:39:07.851Z</updated>
+        <content type="html"><![CDATA[여야가 이태원 참사 국정조사 기간을 열흘 연장하기로 합의했습니다. 하지만, 기간만 합의됐을 뿐입니다. 국민의힘은 민주당 신현영 의원에 대한 증인 채택을 요구하고 있습니다. 의사 출신인 신 의원은 참사 당일 명지병원 재난 의료지원팀의 긴급출동차량, 닥터카에 중도 탑승해 현장으로 이동했습니다. 이 과정에서 신 의원의 배우자가 닥터카에 동승했고 비슷한 거리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리?]]></title>
         <id>https://v.daum.net/v/20230107072309975</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230103204609085"/>
         <updated>2023-01-03T12:39:02.391Z</updated>
         <content type="html"><![CDATA[[앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어가겠다고 했습니다. 취재기자와 함께 전장연의 주장을 팩트체크 해보겠습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니]]></title>
-        <id>https://v.daum.net/v/20230103182704078</id>
-        <link href="https://v.daum.net/v/20230103182704078"/>
-        <updated>2023-01-03T10:21:36.058Z</updated>
-        <content type="html"><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다. (중략) 중·대선거구제를 통해서 대표성이 좀 더 강화되는 방안을 검토해볼 필요가 있다." - 윤석열 대통령 / 1월 2일 &lt;조선일보&gt; 신년 인터뷰 내용 윤석열 대통령이 새해 벽두부터 중·대선거구제 개편을 공론화했습니다. 선거구는 대표를 선출하는 지역적]]></content>
     </entry>
 </feed>
