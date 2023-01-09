@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-09T22:20:52.983Z</updated>
+    <updated>2023-01-09T23:21:29.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230110072307790</id>
+        <link href="https://v.daum.net/v/20230110072307790"/>
+        <updated>2023-01-09T23:20:21.364Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령이 새해 벽두에 '중대선거구제'의 필요성을 언급하며 이 문제가 정치권의 화두로 떠올랐다. 윤 대통령은 연초 조선일보와 인터뷰에서 "소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다"며 "중대선거구제를 통해 대표성이 좀 더 강화되는 방안을 검토해 볼 필요가 있다"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "헝가리식 대출 탕감 정책이 결혼율 20% 올렸다"...사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230109181620317</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230104135050451"/>
         <updated>2023-01-04T05:18:43.415Z</updated>
         <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 윤석열정부의 건강보험에 대한 인식은 팩트일까. 윤석열정부는 건강보험 보장성 강화정책이 재정 건전성을 위협한다고 주장한다. 또한 낮은 의료비 본인부담으로 과다 의료이용이 발생하고 이 때문에 도덕적 해이가 벌어지고 있다고 진단한다. 이런 인식을 토대로 정부는 2023년 건강보험 국고지원 예산을 20%에서 14.4% 수준으로 축소 편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] 6.1지방선거에서 실험한 중·대선거구제, 그 결과 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230104070001293</id>
-        <link href="https://v.daum.net/v/20230104070001293"/>
-        <updated>2023-01-03T22:19:33.563Z</updated>
-        <content type="html"><![CDATA["소선거구제는 전부 아니면 전무로 가다 보니 선거가 너무 치열해지고 진영이 양극화되고 갈등이 깊어졌다. (중략) 중·대선거구제를 통해서 대표성이 좀 더 강화되는 방안을 검토해볼 필요가 있다." - 윤석열 대통령 / 1월 2일 &lt;조선일보&gt; 신년 인터뷰 내용 윤석열 대통령이 새해 벽두부터 중·대선거구제 개편을 공론화했습니다. 선거구는 대표를 선출하는 지역적]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['신현영 징계 요청'으로 본 '의원 징계'의 정치학 (다음 뉴스 ─ SBS 사실은)]]></title>
