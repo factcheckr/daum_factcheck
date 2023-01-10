@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-10T04:26:03.933Z</updated>
+    <updated>2023-01-10T05:20:11.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목조 건물은 화재시 더 위험하다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230110141620132</id>
+        <link href="https://v.daum.net/v/20230110141620132"/>
+        <updated>2023-01-10T05:18:59.733Z</updated>
+        <content type="html"><![CDATA[‘목재는 화재에 취약하다.&nbsp;내화성 입증된 철근콘크리트로 짓는 게 낫다.’ &nbsp; ‘목조 건물에서 불이 나면 대형 참사가 발생할 것이다. 목재야말로 건축 자재로서 최악이다….’ &nbsp; 지난해 11월 세계일보가&nbsp;보도한 ‘탄소중립 시대, 나무를 다시 생각한다’ 시리즈 기사에 대한 누리꾼&nbsp;반응이다. 목조 건축이&nbsp;탄소중립의 한 방법이라는 기사 내용에 안전 문제를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까?]]></title>
         <id>https://v.daum.net/v/20230110072307790</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230104202809164"/>
         <updated>2023-01-04T12:38:21.866Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 KTX 대체열차가 오고, 코레일 직원이 안내하는 등 헷갈린다는 경험담들을 SNS에 줄줄이 공유하고 있는데요. 이런 경험들이 사실인지, 또 왜 이런 일이 생긴 건지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 낮은 의료비 본인부담→과다 의료이용 등 도덕적 해이 발생?]]></title>
-        <id>https://v.daum.net/v/20230104135050451</id>
-        <link href="https://v.daum.net/v/20230104135050451"/>
-        <updated>2023-01-04T05:18:43.415Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 정종오 기자] 윤석열정부의 건강보험에 대한 인식은 팩트일까. 윤석열정부는 건강보험 보장성 강화정책이 재정 건전성을 위협한다고 주장한다. 또한 낮은 의료비 본인부담으로 과다 의료이용이 발생하고 이 때문에 도덕적 해이가 벌어지고 있다고 진단한다. 이런 인식을 토대로 정부는 2023년 건강보험 국고지원 예산을 20%에서 14.4% 수준으로 축소 편]]></content>
     </entry>
 </feed>
