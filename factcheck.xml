@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-10T22:21:56.873Z</updated>
+    <updated>2023-01-10T23:21:47.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈체크K] 가공식품에 표기된 영양정보는 믿을만한가?]]></title>
+        <id>https://v.daum.net/v/20230111080022758</id>
+        <link href="https://v.daum.net/v/20230111080022758"/>
+        <updated>2023-01-10T23:20:37.839Z</updated>
+        <content type="html"><![CDATA[최근 유명 사이트에서 1천만 개 넘게 팔렸다고 홍보한 닭가슴살 소시지의 영양성분이 제품에 표기된 내용과 크게 달라 판매가 전면 금지되는 일이 벌어졌습니다. 식품 관련 콘텐츠를 제작하는 한 유튜버가 해당 제품을 시험기관에 의뢰해 직접 영양성분을 분석해봤더니 탄수화물 함량이 표기된 수치의 8배, 당류와 지방·포화지방은 3~4배가량 많았고 단백질 함량은 오히려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목조 건물은 화재시 더 위험하다? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230110141620132</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230104205111583"/>
         <updated>2023-01-04T12:38:21.861Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 이와 함께, 중국에서 퍼지고 있는 코로나 신종 변이가 복통과 설사를 유발한다는 이야기가 나오면서 우리 주식시장에서 제약회사 주가가 한때 요동치기도 했습니다. 정말로 신종 변이에 감염되면 그런 증상이 나타나는지, 저희 팩트 체크 사실은 팀에서 확인했습니다. 이경원 기자입니다. &lt;기자&gt; 어제(3일) 증권시장에서는 설사 완화약, 지사제를 만드는 한 제약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁]]></title>
-        <id>https://v.daum.net/v/20230104202809164</id>
-        <link href="https://v.daum.net/v/20230104202809164"/>
-        <updated>2023-01-04T12:38:21.866Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 KTX 대체열차가 오고, 코레일 직원이 안내하는 등 헷갈린다는 경험담들을 SNS에 줄줄이 공유하고 있는데요. 이런 경험들이 사실인지, 또 왜 이런 일이 생긴 건지]]></content>
     </entry>
 </feed>
