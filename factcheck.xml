@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-11T05:20:31.322Z</updated>
+    <updated>2023-01-11T06:36:27.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[최근 확정된 2022 개정 교육과정에서 5·18 민주화운동이 빠진 사실이 알려지면서 논란이 일었습니다. 야당은 윤석열 대통령이 5·18 정신을 저버렸다며 반발했고, 여당은 2022 개정 교육과정이 문재인 정부에서 시작된 거라며 맞섰습니다. 이에 교육부는 지난주 5·18 민주화 운동을 비롯한 주요 역사적 사건이 교과서에 기술되도록 하겠다는 설명 자료를 배포]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이슈체크K] 가공식품에 표기된 영양정보는 믿을만한가?]]></title>
+        <title type="html"><![CDATA[[이슈체크K] 식품 영양정보, 믿고 먹어도 될까]]></title>
         <id>https://v.daum.net/v/20230111080022758</id>
         <link href="https://v.daum.net/v/20230111080022758"/>
         <updated>2023-01-10T23:20:37.839Z</updated>
