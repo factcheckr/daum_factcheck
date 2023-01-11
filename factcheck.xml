@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-10T23:21:47.167Z</updated>
+    <updated>2023-01-11T01:44:05.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 간소화된 교육과정…위안부도 빠졌다]]></title>
+        <id>https://v.daum.net/v/20230111094801873</id>
+        <link href="https://v.daum.net/v/20230111094801873"/>
+        <updated>2023-01-11T01:43:09.350Z</updated>
+        <content type="html"><![CDATA[최근 확정된 2022 개정 교육과정에서 5·18 민주화운동이 빠진 사실이 알려지면서 논란이 일었습니다. 야당은 윤석열 대통령이 5·18 정신을 저버렸다며 반발했고, 여당은 2022 개정 교육과정이 문재인 정부에서 시작된 거라며 맞섰습니다. 이에 교육부는 지난주 5·18 민주화 운동을 비롯한 주요 역사적 사건이 교과서에 기술되도록 하겠다는 설명 자료를 배포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 가공식품에 표기된 영양정보는 믿을만한가?]]></title>
         <id>https://v.daum.net/v/20230111080022758</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230106101435817"/>
         <updated>2023-01-06T01:43:28.204Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 새해부터 식품을 판매할 수 있는 기한이 종전의 '유통기한'에서 '소비기한'으로 바뀌면서 식품이 유통되는 기간이 더 길어졌다. 새로운 소비기한 표시제는 여전히 소비·섭취할 수 있는 식품이 불필요하게 폐기되는 것을 막아 환경 오염과 식량자원 낭비를 줄이자는 취지지만 유통되는 기간이 연장되면 변질된 음식을 먹게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "신종변이, 복통·설사 유발"…전문가에 물어보니]]></title>
-        <id>https://v.daum.net/v/20230104205111583</id>
-        <link href="https://v.daum.net/v/20230104205111583"/>
-        <updated>2023-01-04T12:38:21.861Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 이와 함께, 중국에서 퍼지고 있는 코로나 신종 변이가 복통과 설사를 유발한다는 이야기가 나오면서 우리 주식시장에서 제약회사 주가가 한때 요동치기도 했습니다. 정말로 신종 변이에 감염되면 그런 증상이 나타나는지, 저희 팩트 체크 사실은 팀에서 확인했습니다. 이경원 기자입니다. &lt;기자&gt; 어제(3일) 증권시장에서는 설사 완화약, 지사제를 만드는 한 제약]]></content>
     </entry>
 </feed>
