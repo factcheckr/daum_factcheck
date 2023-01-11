@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-11T07:20:06.137Z</updated>
+    <updated>2023-01-11T08:28:04.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘아파트 중개 담합’ 잠실은 ‘무죄’ 가락은 ‘유죄’…왜 달랐나 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230111150008814</id>
+        <link href="https://v.daum.net/v/20230111150008814"/>
+        <updated>2023-01-11T08:26:57.200Z</updated>
+        <content type="html"><![CDATA[‘중개담합’을 금지하는 공인중개사법이 시행되고 처음 검찰이 기소한 사건이 1심에서 엇갈린 결과가 나타났다. ‘잠사모’(잠실을 사랑하는 사람들의 부동산모임) 공인중개사들은 무죄를 받았지만, ‘가락회’ 공인중개사들은 유죄가 인정돼 실형이 선고됐다. 서울동부지검의 한 부서에서 수사해 기소한 사건의 운명은 왜 엇갈렸을까. 서울동부지법 형사11단독 정원 부장판사는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 간소화된 교육과정…위안부도 빠졌다 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230111094801873</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230106171325864"/>
         <updated>2023-01-06T08:25:57.958Z</updated>
         <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 윤석열 대통령이 신년사 발표로 계묘년 첫 업무를 시작했다. 윤 대통령은 지난 1일 오전 10시 용산 대통령실에서 열린 신년 인사회에서 “대한민국의 미래와 운명이 달린 노동·교육·연금 ‘3대 개혁’을 더 이상 미룰 수 없다”며 “위대한 국민 여러분과 함께 새로운 도약을 반드시 이뤄내겠다”고 말했다. 신년사는 이날 약 9분간 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230106101435817</id>
-        <link href="https://v.daum.net/v/20230106101435817"/>
-        <updated>2023-01-06T01:43:28.204Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 새해부터 식품을 판매할 수 있는 기한이 종전의 '유통기한'에서 '소비기한'으로 바뀌면서 식품이 유통되는 기간이 더 길어졌다. 새로운 소비기한 표시제는 여전히 소비·섭취할 수 있는 식품이 불필요하게 폐기되는 것을 막아 환경 오염과 식량자원 낭비를 줄이자는 취지지만 유통되는 기간이 연장되면 변질된 음식을 먹게]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간소화된 교육과정…위안부도 빠졌다 (다음 뉴스 ─ SBS 사실은)]]></title>
