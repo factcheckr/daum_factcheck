@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-01-12T07:19:39.396Z</updated>
+    <updated>2023-01-12T08:28:47.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반']]></title>
+        <id>https://v.daum.net/v/20230112164801382</id>
+        <link href="https://v.daum.net/v/20230112164801382"/>
+        <updated>2023-01-12T08:28:38.063Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;노동운동가 전태일 여동생 전순옥 한국가치패션연구소 대표.    ⓒ 남소연  &nbsp;&nbsp; [검증대상] "다른 나라 기업노조 전임자는 사용주가 월급 안준다" 전순옥 발언 노동운동가 전태일의 여동생이자 더불어민주당 제19대 국회의원(비례대표)을 지낸 전순옥 한국가치패션연구소 대표의 '노조 전임자 급여' 발언이 논란이 되고 있다. 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정진석 "박근혜 때 정규직-비정규직 격차 10~20만원도 안나" 거짓]]></title>
         <id>https://v.daum.net/v/20221222142703798</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220915102400902"/>
         <updated>2022-11-16T17:35:28.078Z</updated>
         <content type="html"><![CDATA[[박성우 기자] ▲ 원내대책회의 주재한 권성동&nbsp;권성동 국민의힘 원내대표가 지난 13일 서울 여의도 국회에서 열린 원내대책회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] "MB때 민주당이 지류·지천 종합정비계획 반대해 참극" 지난 13일 권성동 국민의힘 원내대표는 당 원내대책회의에서 태풍 '힌남노'로 인한 포항·경주 일대의 피해를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차례상 전 빠져도 되고 '홍동백서' 근거 없다" 주장은 '사실']]></title>
-        <id>https://v.daum.net/v/20220907183601172</id>
-        <link href="https://v.daum.net/v/20220907183601172"/>
-        <updated>2022-11-16T17:35:28.079Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최영갑 성균관 의례정립위원회 위원장(왼쪽 두 번째)이 5일 서울 중구 한국프레스센터에서 '차례 간소화' 방안을 발표 후 간소화 방안대로 차린 차례상을 지켜보고 있다. 2022.9.5 [성균관 의례정립위원회 제공]    ⓒ 연합뉴스  [검증대상] "차례상에 전 빠져도 되고, '홍동백서' 등 근거 없다" 성균관 발표 &nbsp;"기름]]></content>
     </entry>
 </feed>
