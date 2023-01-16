@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-16T21:18:27.881Z</updated>
+    <updated>2023-01-16T22:20:08.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다?]]></title>
+        <id>https://v.daum.net/v/20230117071110787</id>
+        <link href="https://v.daum.net/v/20230117071110787"/>
+        <updated>2023-01-16T22:19:04.975Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 윤석열 대통령이 취임한 지 8개월이 넘도록 대통령과 제1 야당 대표 간 회동이 성사되지 않으면서 여야 협치가 점점 더 요원해지는 것 아니냐는 우려가 나온다. 더불어민주당 상임고문인 문희상 전 국회의장은 13일 MBC 라디오 '김종배의 시선집중'에 출연해 "역대 대통령 중에 이렇게 야당과 대화 안 하는 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 발사 기술, ICBM과 유사하다 [fn팩트체크]]]></title>
         <id>https://v.daum.net/v/20230117050042085</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230111201906037"/>
         <updated>2023-01-11T12:39:43.084Z</updated>
         <content type="html"><![CDATA[[앵커] 이것 말고도 중국에서 몇 가지 주장을 하면서 반발을 하고 있는데요. 윤영탁 기자와 팩트체크 해보겠습니다. 윤영탁 기자, 중국이 우리 검사 방식에 문제가 있다라고 하는 건데, 오히려 정확도가 높아서 대부분의 나라들이 쓰고 있는 방식 아닙니까? [기자] 맞습니다. 우리는 '비인두 검사'로 코의 가장 안쪽에서 제일 밀도 높은 검체를 얻는 방식을 쓰고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아파트 중개 담합’ 잠실은 ‘무죄’ 가락은 ‘유죄’…왜 달랐나 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20230111150008814</id>
-        <link href="https://v.daum.net/v/20230111150008814"/>
-        <updated>2023-01-11T08:26:57.200Z</updated>
-        <content type="html"><![CDATA[‘중개담합’을 금지하는 공인중개사법이 시행되고 처음 검찰이 기소한 사건이 1심에서 엇갈린 결과가 나타났다. ‘잠사모’(잠실을 사랑하는 사람들의 부동산모임) 공인중개사들은 무죄를 받았지만, ‘가락회’ 공인중개사들은 유죄가 인정돼 실형이 선고됐다. 서울동부지검의 한 부서에서 수사해 기소한 사건의 운명은 왜 엇갈렸을까. 서울동부지법 형사11단독 정원 부장판사는]]></content>
     </entry>
 </feed>
