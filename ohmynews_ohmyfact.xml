@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-01-16T10:24:20.041Z</updated>
+    <updated>2023-01-16T11:18:11.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20230116194203754</id>
+        <link href="https://v.daum.net/v/20230116194203754"/>
+        <updated>2023-01-16T11:18:01.512Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;일부 언론은 '나트륨 섭취와 사망률이 관계가 없다'는 세브란스병원 연구팀 연구 결과를 보도하면서 "짜게 먹으면 일찍 죽는다'는 속설이나 괴담이 틀렸고, 심지어 "짜게 먹어도 오래 산다"고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "짜게 먹어도 오래 산다" 언론 보도 소금 등에 포함된 나트륨을 지나치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["노조전임자 임금, 한국만 회사가 준다?" 전순옥 발언 '사실반 거짓반']]></title>
         <id>https://v.daum.net/v/20230112164801382</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220921141535033"/>
         <updated>2023-01-15T11:16:38.751Z</updated>
         <content type="html"><![CDATA[[박성우, 김지현 기자] ▲ 엘리자베스 2세 여왕 장례식 향하는 윤석열 대통령 내외&nbsp;윤석열 대통령과 김건희 여사가 19일 엘리자베스 2세 여왕의 장례식에 참석하기 위해 런던의 한 호텔을 나서고 있다.    ⓒ 연합뉴스  [검증 대상] "영국 왕족 여성만 장례식장에서 검은 망사 모자 쓴다"&nbsp; 윤석열 대통령 부부의 엘리자베스 2세 영국 여왕 국장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["민주당이 지류·지천 계획 반대해 참극" 권성동 주장 '거짓']]></title>
-        <id>https://v.daum.net/v/20220915102400902</id>
-        <link href="https://v.daum.net/v/20220915102400902"/>
-        <updated>2023-01-15T11:16:38.752Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ 원내대책회의 주재한 권성동&nbsp;권성동 국민의힘 원내대표가 지난 13일 서울 여의도 국회에서 열린 원내대책회의에 참석하고 있다.    ⓒ 공동취재사진  &nbsp; [검증대상] "MB때 민주당이 지류·지천 종합정비계획 반대해 참극" 지난 13일 권성동 국민의힘 원내대표는 당 원내대책회의에서 태풍 '힌남노'로 인한 포항·경주 일대의 피해를]]></content>
     </entry>
 </feed>
