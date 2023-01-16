@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-15T23:21:39.668Z</updated>
+    <updated>2023-01-16T01:42:55.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경유차 타지마세요! 앞으로 서울엔 경유차 못다녀? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230116103709518</id>
+        <link href="https://v.daum.net/v/20230116103709518"/>
+        <updated>2023-01-16T01:40:48.289Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 14일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 경유차 타지마세요! 앞으로 서울엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자동차세 연납 할인폭 축소, 하반기에 재검토" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230114140032734</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230111080022758"/>
         <updated>2023-01-10T23:20:37.839Z</updated>
         <content type="html"><![CDATA[최근 유명 사이트에서 1천만 개 넘게 팔렸다고 홍보한 닭가슴살 소시지의 영양성분이 제품에 표기된 내용과 크게 달라 판매가 전면 금지되는 일이 벌어졌습니다. 식품 관련 콘텐츠를 제작하는 한 유튜버가 해당 제품을 시험기관에 의뢰해 직접 영양성분을 분석해봤더니 탄수화물 함량이 표기된 수치의 8배, 당류와 지방·포화지방은 3~4배가량 많았고 단백질 함량은 오히려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목조 건물은 화재시 더 위험하다? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230110141620132</id>
-        <link href="https://v.daum.net/v/20230110141620132"/>
-        <updated>2023-01-10T05:18:59.733Z</updated>
-        <content type="html"><![CDATA[‘목재는 화재에 취약하다.&nbsp;내화성 입증된 철근콘크리트로 짓는 게 낫다.’ &nbsp; ‘목조 건물에서 불이 나면 대형 참사가 발생할 것이다. 목재야말로 건축 자재로서 최악이다….’ &nbsp; 지난해 11월 세계일보가&nbsp;보도한 ‘탄소중립 시대, 나무를 다시 생각한다’ 시리즈 기사에 대한 누리꾼&nbsp;반응이다. 목조 건축이&nbsp;탄소중립의 한 방법이라는 기사 내용에 안전 문제를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사 왜곡 적극 대응 한다더니…'일본군 위안부' 삭제 (다음 뉴스 ─ SBS 사실은)]]></title>
