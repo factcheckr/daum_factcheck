@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-16T23:21:04.195Z</updated>
+    <updated>2023-01-17T01:42:06.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 이재명 "대통령제는 소선거구제와 친해" 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230117101329835</id>
+        <link href="https://v.daum.net/v/20230117101329835"/>
+        <updated>2023-01-17T01:40:55.392Z</updated>
+        <content type="html"><![CDATA[더불어민주당 이재명 대표가 최근 기자 간담회에서 "대통령제는 소선구제와 친하고 중대선거구제는 내각제와 친한 제도"라고 말했습니다. 앞서 윤석열 대통령은 사표 문제를 거론하며, "중대선거구제로의 선거 제도 개편이 필요하다"고 말한 바 있습니다. 윤 대통령의 발언에 선을 그은 것으로 읽혔습니다. 소선거구제는 우리가 국회의원 뽑을 때처럼, 한 곳에서 1등만 당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다?]]></title>
         <id>https://v.daum.net/v/20230117071110787</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230111211805944"/>
         <updated>2023-01-11T12:39:43.081Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 학생들 교과서를 만들 때&nbsp;교육부가 내놓은 교육과정이라는 게 그 지침이 되는데 최근 개정된 교육과정에 5·18 광주 민주화운동이 빠져서 논란이 된 데 이어 일본군 위안부 문제 역시 담겨있지 않은 것으로 확인됐습니다.&nbsp;팩트체크 사실은 팀이 그 내용을 분석했습니다.&nbsp; 이경원 기자입니다. &lt;기자&gt; 2024년 교과서부터 적용될 개정 교육과정에서 5·18이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 확진자 암실에 가뒀다? '중국 반발' 방역조치 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230111201906037</id>
-        <link href="https://v.daum.net/v/20230111201906037"/>
-        <updated>2023-01-11T12:39:43.084Z</updated>
-        <content type="html"><![CDATA[[앵커] 이것 말고도 중국에서 몇 가지 주장을 하면서 반발을 하고 있는데요. 윤영탁 기자와 팩트체크 해보겠습니다. 윤영탁 기자, 중국이 우리 검사 방식에 문제가 있다라고 하는 건데, 오히려 정확도가 높아서 대부분의 나라들이 쓰고 있는 방식 아닙니까? [기자] 맞습니다. 우리는 '비인두 검사'로 코의 가장 안쪽에서 제일 밀도 높은 검체를 얻는 방식을 쓰고 있]]></content>
     </entry>
 </feed>
