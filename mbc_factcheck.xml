@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-01-18T11:18:20.978Z</updated>
+    <updated>2023-01-18T12:39:05.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은?]]></title>
+        <id>https://v.daum.net/v/20230118201910359</id>
+        <link href="https://v.daum.net/v/20230118201910359"/>
+        <updated>2023-01-18T12:38:18.354Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 지방의 한 공공의료원이 의사를 구하기 위해 연봉 3억 6천만 원을 내걸었는데도 지원자조차 없다는 소식, 의사들에 대한 비난과 함께 지역 의료의 열악한 상황 등 여러 논란을 불러왔는데요. 왜 이런 일이 벌어지는 건지, 어떤 해결방안이 있을지 알아봤습니다. 연봉 3억 6천만 원에 내과 전문의 채용 공고를 낸 경남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁]]></title>
         <id>https://v.daum.net/v/20230104202809164</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220916195220324"/>
         <updated>2022-11-16T17:34:39.968Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세금 축내는 노인 알바'?.."우리 쌀값인데요"]]></title>
-        <id>https://v.daum.net/v/20220910080008067</id>
-        <link href="https://v.daum.net/v/20220910080008067"/>
-        <updated>2022-11-16T17:34:39.969Z</updated>
-        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "공]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T11:18:20.984Z</updated>
+    <updated>2023-01-18T12:39:05.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230118201910359</id>
+        <link href="https://v.daum.net/v/20230118201910359"/>
+        <updated>2023-01-18T12:37:58.373Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 지방의 한 공공의료원이 의사를 구하기 위해 연봉 3억 6천만 원을 내걸었는데도 지원자조차 없다는 소식, 의사들에 대한 비난과 함께 지역 의료의 열악한 상황 등 여러 논란을 불러왔는데요. 왜 이런 일이 벌어지는 건지, 어떤 해결방안이 있을지 알아봤습니다. 연봉 3억 6천만 원에 내과 전문의 채용 공고를 낸 경남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 이재명 "대통령제는 소선거구제와 친해" 따져 보니… (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230117101329835</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230112164801382"/>
         <updated>2023-01-12T08:27:42.905Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;노동운동가 전태일 여동생 전순옥 한국가치패션연구소 대표.    ⓒ 남소연  &nbsp;&nbsp; [검증대상] "다른 나라 기업노조 전임자는 사용주가 월급 안준다" 전순옥 발언 노동운동가 전태일의 여동생이자 더불어민주당 제19대 국회의원(비례대표)을 지낸 전순옥 한국가치패션연구소 대표의 '노조 전임자 급여' 발언이 논란이 되고 있다. 그는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 역사 왜곡 적극 대응 한다더니…'일본군 위안부' 삭제 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230111211805944</id>
-        <link href="https://v.daum.net/v/20230111211805944"/>
-        <updated>2023-01-11T12:39:43.081Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 학생들 교과서를 만들 때&nbsp;교육부가 내놓은 교육과정이라는 게 그 지침이 되는데 최근 개정된 교육과정에 5·18 광주 민주화운동이 빠져서 논란이 된 데 이어 일본군 위안부 문제 역시 담겨있지 않은 것으로 확인됐습니다.&nbsp;팩트체크 사실은 팀이 그 내용을 분석했습니다.&nbsp; 이경원 기자입니다. &lt;기자&gt; 2024년 교과서부터 적용될 개정 교육과정에서 5·18이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "대통령제는 소선거구제와 친해" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 정부가 추진하려는 노동정책의 밑그림이 최근 나왔습니다. 지금은 일하는 시간을 일주일 단위로 계산해서 52시간을 넘지 못하도록 하고 있는데, 앞으로는 계산하는 기준을 한 달, 아니면 일 년 이렇게 더 늘리겠다는 것입니다. 발표가 나온 뒤에 과연 올바른 방향인지 논란도 이어지고 있는데, 그럼 다른 나라들은 어떻게 하고 있는지 저희가 팩트체크 사실은 코]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230118201910359</id>
+        <link href="https://v.daum.net/v/20230118201910359"/>
+        <updated>2023-01-18T12:38:18.354Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 지방의 한 공공의료원이 의사를 구하기 위해 연봉 3억 6천만 원을 내걸었는데도 지원자조차 없다는 소식, 의사들에 대한 비난과 함께 지역 의료의 열악한 상황 등 여러 논란을 불러왔는데요. 왜 이런 일이 벌어지는 건지, 어떤 해결방안이 있을지 알아봤습니다. 연봉 3억 6천만 원에 내과 전문의 채용 공고를 낸 경남]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230104202809164</id>
         <link href="https://v.daum.net/v/20230104202809164"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220916195220324"/>
         <updated>2022-11-16T17:34:39.968Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 3월 윤석열 대통령이 발표한 집무실 이전 비용은 496억 원입니다. 그런데 영빈관을 새로 짓는 등 여러 부대 비용들이 눈덩이처럼 불어나고 있는데요. 발표 때보다 얼마나 돈이 더 들었는지, 앞으로 더 써야 할 돈은 얼마나 남았는지, 확인해보겠습니다. ◀ 리포트 ▶ 대통령실 이전 비용 496억 원. 우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세금 축내는 노인 알바'?.."우리 쌀값인데요" (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220910080008067</id>
-        <link href="https://v.daum.net/v/20220910080008067"/>
-        <updated>2022-11-16T17:34:39.969Z</updated>
-        <content type="html"><![CDATA[‘공공형 노인 일자리’ 축소 방침이 논란이 되고 있습니다. 그동안 “세금 축내는 노인 단기 알바 자리로 취업 통계를 부풀린다”는 일각의 비판을 받기도 했는데, 내년부터 6만 1천개의 공공형 노인 일자리를 없애겠다고 정부가 공개적으로 밝혔기 때문입니다. 2023년 예산안에 따르면, 줄어드는 공공형 노인 일자리는 전체 10% 수준으로 결코 적지 않습니다. "공]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
