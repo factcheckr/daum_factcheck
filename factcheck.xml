@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-20T23:21:24.775Z</updated>
+    <updated>2023-01-21T01:41:50.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[순천~여수 자동차전용도로, 고속도로처럼 통행료 낸다고?]]></title>
+        <id>https://v.daum.net/v/20230121090604998</id>
+        <link href="https://v.daum.net/v/20230121090604998"/>
+        <updated>2023-01-21T01:40:41.783Z</updated>
+        <content type="html"><![CDATA[국내 최대 석유화학산단이 위치한 전남 여수는 10만 이상 도시 중 고속도로가 연결되지 않은 유일한 곳이다. 새해들어 여수 지역 정치권에서는 고속도로 신설 논의가 활발하다. 여수 고속도로 신설에 대한 기대감도 있지만 지역의 각종 커뮤니티를 중심으로 우려의 목소리도 나온다. 행정구역상 구별되어 있지만 여수와 순천은 이미 하나의 경제 생활권인데 고속도로가 생길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]지자체 58곳 소아청소년과 0곳…병원 찾아 삼만리]]></title>
+        <id>https://v.daum.net/v/20230121090302950</id>
+        <link href="https://v.daum.net/v/20230121090302950"/>
+        <updated>2023-01-21T01:40:41.786Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 성균관 "차례상에 전 안 올려도 됩니다"…진짜?]]></title>
         <id>https://v.daum.net/v/20230120202405295</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230116103709518"/>
         <updated>2023-01-16T01:40:48.289Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 14일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 경유차 타지마세요! 앞으로 서울엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자동차세 연납 할인폭 축소, 하반기에 재검토"]]></title>
-        <id>https://v.daum.net/v/20230114140032734</id>
-        <link href="https://v.daum.net/v/20230114140032734"/>
-        <updated>2023-01-14T05:18:11.570Z</updated>
-        <content type="html"><![CDATA["10%였던 자동차세 선납 할인율이 왜 7%로 낮아졌나요?", "재벌 세금은 깎고, 서민 세금은 늘린 겁니까?", "국민 세금 올려서 부자감세에 보태려나 보네요." 매년 1월 이맘때쯤 각 가정으로 발송되는 자동차세 연납 고지서를 보고 많은 시민들이 놀랐는지, 최근 온라인 커뮤니티에는 이런 내용의 글이 부쩍 많아졌습니다. 자동차세는 매년 6월과 12월 두 차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]국수, 5분 이상 삶아야 중금속 안전?…비현실적 실험 설계]]></title>
-        <id>https://v.daum.net/v/20230114095400751</id>
-        <link href="https://v.daum.net/v/20230114095400751"/>
-        <updated>2023-01-14T01:35:23.883Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
     </entry>
 </feed>
