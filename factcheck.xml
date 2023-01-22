@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-22T01:47:49.235Z</updated>
+    <updated>2023-01-22T02:49:23.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "한국은 국회의원이 너무 많다" 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230122112700174</id>
+        <link href="https://v.daum.net/v/20230122112700174"/>
+        <updated>2023-01-22T02:48:13.530Z</updated>
+        <content type="html"><![CDATA[오는 3월, 국민의힘 전당 대회를 앞두고, 당 대표 출마를 선언한 조경태 의원이 '국회의원 감축'을 공약했습니다. 구체적으로는 비례대표제 폐지를 제안했습니다. &nbsp;   우리나라가 좀 국회의원 수가 너무 많습니다. 미국 같은 경우에는 유권자 수 63만 명당 1명이라면 우리는 아마 16만 명. 17만 명당 1명이기 때문에 미국 기준하면 우리는 82명이면 되거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[순천~여수 자동차전용도로, 고속도로처럼 통행료 낸다고?]]></title>
         <id>https://v.daum.net/v/20230121090604998</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230116194203754"/>
         <updated>2023-01-16T11:17:09.325Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;일부 언론은 '나트륨 섭취와 사망률이 관계가 없다'는 세브란스병원 연구팀 연구 결과를 보도하면서 "짜게 먹으면 일찍 죽는다'는 속설이나 괴담이 틀렸고, 심지어 "짜게 먹어도 오래 산다"고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "짜게 먹어도 오래 산다" 언론 보도 소금 등에 포함된 나트륨을 지나치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 경유차 타지마세요! 앞으로 서울엔 경유차 못다녀?]]></title>
-        <id>https://v.daum.net/v/20230116103709518</id>
-        <link href="https://v.daum.net/v/20230116103709518"/>
-        <updated>2023-01-16T01:40:48.289Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 14일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] 경유차 타지마세요! 앞으로 서울엔]]></content>
     </entry>
 </feed>
