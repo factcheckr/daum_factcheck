@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-22T22:19:49.071Z</updated>
+    <updated>2023-01-22T23:21:29.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 후불결제 서비스는 연체해도 신용점수 안 떨어진다?]]></title>
+        <id>https://v.daum.net/v/20230123072307672</id>
+        <link href="https://v.daum.net/v/20230123072307672"/>
+        <updated>2023-01-22T23:20:29.156Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = MZ 세대 사이에서 당장 돈이 없더라도 상품을 우선 구매한 뒤 일정 기간 후 대금을 갚는 '후불결제' 서비스가 인기를 끌고 있다. 후불결제는 일종의 디지털 외상 거래로, '먼저 사고 나중에 결제한다'(Buy Now, Pay Later)는 뜻에서 BNPL로도 불린다. 미국, 호주 등 해외에선 이미 대중적인 결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "한국은 국회의원이 너무 많다" 따져 보니…]]></title>
         <id>https://v.daum.net/v/20230122112700174</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230117050042085"/>
         <updated>2023-01-16T20:21:04.068Z</updated>
         <content type="html"><![CDATA[국내 기술로 제작된 한국형 최초 우주발사체 '누리호(KSLV-Ⅱ)'가 지난해 6월 전남 고흥 나로우주센터에서 발사되고 있다. 사진공동취재단     [파이낸셜뉴스] 최근 자체 핵무장론에 대한 논란이 가열되면서 한국형 우주발사체 '누리호'에 적용된 기술을 군사용 대륙간탄도미사일(ICBM) 개발에도 적용할 수 있는지 관심이 집중되고 있다. 누리호를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230116194203754</id>
-        <link href="https://v.daum.net/v/20230116194203754"/>
-        <updated>2023-01-16T11:17:09.325Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;일부 언론은 '나트륨 섭취와 사망률이 관계가 없다'는 세브란스병원 연구팀 연구 결과를 보도하면서 "짜게 먹으면 일찍 죽는다'는 속설이나 괴담이 틀렸고, 심지어 "짜게 먹어도 오래 산다"고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "짜게 먹어도 오래 산다" 언론 보도 소금 등에 포함된 나트륨을 지나치]]></content>
     </entry>
 </feed>
