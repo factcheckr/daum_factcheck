@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-24T08:27:00.101Z</updated>
+    <updated>2023-01-24T09:20:43.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 발사한 한국, 핵무장 기반 다졌다? 삑, 틀렸습니다 [fn팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230124180910245</id>
+        <link href="https://v.daum.net/v/20230124180910245"/>
+        <updated>2023-01-24T09:19:38.774Z</updated>
+        <content type="html"><![CDATA[국내 기술로 제작된 한국형 최초 우주발사체 '누리호(KSLV-Ⅱ)'가 지난해 6월 전남 고흥 나로우주센터에서 발사되고 있다. 연합뉴스            국방과학연구소(ADD)가 지난해 12월 국방과학연구소 종합시험장 인근 해상에서 우리 기술로 개발한 고체추진 우주발사체의 성능 검증을 위한 두 번째 비행시험에 성공했다. 국방부 제공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 후불결제 서비스는 연체해도 신용점수 안 떨어진다?]]></title>
         <id>https://v.daum.net/v/20230123072307672</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230117071110787"/>
         <updated>2023-01-16T22:19:04.975Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 윤석열 대통령이 취임한 지 8개월이 넘도록 대통령과 제1 야당 대표 간 회동이 성사되지 않으면서 여야 협치가 점점 더 요원해지는 것 아니냐는 우려가 나온다. 더불어민주당 상임고문인 문희상 전 국회의장은 13일 MBC 라디오 '김종배의 시선집중'에 출연해 "역대 대통령 중에 이렇게 야당과 대화 안 하는 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 발사 기술, ICBM과 유사하다 [fn팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230117050042085</id>
-        <link href="https://v.daum.net/v/20230117050042085"/>
-        <updated>2023-01-16T20:21:04.068Z</updated>
-        <content type="html"><![CDATA[국내 기술로 제작된 한국형 최초 우주발사체 '누리호(KSLV-Ⅱ)'가 지난해 6월 전남 고흥 나로우주센터에서 발사되고 있다. 사진공동취재단     [파이낸셜뉴스] 최근 자체 핵무장론에 대한 논란이 가열되면서 한국형 우주발사체 '누리호'에 적용된 기술을 군사용 대륙간탄도미사일(ICBM) 개발에도 적용할 수 있는지 관심이 집중되고 있다. 누리호를]]></content>
     </entry>
 </feed>
