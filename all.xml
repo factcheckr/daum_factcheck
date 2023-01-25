@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T06:26:01.305Z</updated>
+    <updated>2023-01-25T07:23:11.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[fn팩트체크] '촉법소년 만14→13세' 하향조정시 범죄예방 효과 있다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230125161026680</id>
+        <link href="https://v.daum.net/v/20230125161026680"/>
+        <updated>2023-01-25T07:22:03.409Z</updated>
+        <content type="html"><![CDATA[*재판매 및 DB 금지 /사진=뉴시스 [파이낸셜뉴스] 2020년 4월 29일 오전 0시 10분. A군(13)과 그의 친구 7명은 서울 양천구에서 훔친 렌터카를 몰고 대전으로 이동했다. 당연히 이들은 무면허 상태였고 훔친 차량에 대한 도난신고가 접수돼 전국에 수배가 내려진 상황이었다. 경찰 순찰차의 추격 사실을 알아챈 A군은 신호와 중앙선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 발사한 한국, 핵무장 기반 다졌다? 삑, 틀렸습니다 [fn팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230124180910245</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230117101329835"/>
         <updated>2023-01-17T01:40:55.392Z</updated>
         <content type="html"><![CDATA[더불어민주당 이재명 대표가 최근 기자 간담회에서 "대통령제는 소선구제와 친하고 중대선거구제는 내각제와 친한 제도"라고 말했습니다. 앞서 윤석열 대통령은 사표 문제를 거론하며, "중대선거구제로의 선거 제도 개편이 필요하다"고 말한 바 있습니다. 윤 대통령의 발언에 선을 그은 것으로 읽혔습니다. 소선거구제는 우리가 국회의원 뽑을 때처럼, 한 곳에서 1등만 당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230117071110787</id>
-        <link href="https://v.daum.net/v/20230117071110787"/>
-        <updated>2023-01-16T22:19:04.975Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 윤석열 대통령이 취임한 지 8개월이 넘도록 대통령과 제1 야당 대표 간 회동이 성사되지 않으면서 여야 협치가 점점 더 요원해지는 것 아니냐는 우려가 나온다. 더불어민주당 상임고문인 문희상 전 국회의장은 13일 MBC 라디오 '김종배의 시선집중'에 출연해 "역대 대통령 중에 이렇게 야당과 대화 안 하는 대통령]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국은 국회의원이 너무 많다" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
