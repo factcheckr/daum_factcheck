@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-26T21:18:55.864Z</updated>
+    <updated>2023-01-26T22:20:51.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230127070606446</id>
+        <link href="https://v.daum.net/v/20230127070606446"/>
+        <updated>2023-01-26T22:19:40.268Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 당권 주자인 김기현 의원이 25일 서울 여의도 국회 의원회관에서 열린 지속발전 가능한 폐기물 매립 및 친환경적 활용방안 토론회에서 축사를 하고 있다.    ⓒ 남소연  &nbsp; [검증대상] "난방비 폭등은 문재인 정부 탓" 김기현-성일종 의원 발언 올겨울 난방비 폭등으로 서민이 큰 고통을 겪고 있는 가운데, 여야 간에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 보일러 '외출 버튼' 누를까 말까? '난방비 아끼는 법']]></title>
         <id>https://v.daum.net/v/20230126200505247</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230120154720562"/>
         <updated>2023-01-20T07:19:09.993Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 쌀값 안정을 위해 과잉생산된 쌀을 정부가 의무적으로 매입(시장격리)하게 하는 '양곡관리법' 개정안을 둘러싼 논란이 커지고 있다. 더불어민주당이 정부 여당의 반대에도 개정안을 국회 본회에서 처리하겠다는 입장을 고수하는 가운데, 정황근 농림축산식품부 장관은 최근 언론 인터뷰에서 "단순히 남는 쌀을 사주는 정책은 농민에게 도움이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은?]]></title>
-        <id>https://v.daum.net/v/20230118201910359</id>
-        <link href="https://v.daum.net/v/20230118201910359"/>
-        <updated>2023-01-18T12:37:58.373Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 지방의 한 공공의료원이 의사를 구하기 위해 연봉 3억 6천만 원을 내걸었는데도 지원자조차 없다는 소식, 의사들에 대한 비난과 함께 지역 의료의 열악한 상황 등 여러 논란을 불러왔는데요. 왜 이런 일이 벌어지는 건지, 어떤 해결방안이 있을지 알아봤습니다. 연봉 3억 6천만 원에 내과 전문의 채용 공고를 낸 경남]]></content>
     </entry>
 </feed>
