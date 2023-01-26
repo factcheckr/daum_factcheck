@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-26T22:20:51.148Z</updated>
+    <updated>2023-01-26T23:22:21.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230127072308605</id>
+        <link href="https://v.daum.net/v/20230127072308605"/>
+        <updated>2023-01-26T23:21:15.007Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이재명 더불어민주당 대표가 기업들로부터 후원금을 받고 편의를 봐줬다는 이른바 '성남FC 후원금 의혹' 사건을 경찰이 무혐의 처분했는지의 진위를 두고 사건 당사자인 이재명 대표와 한동훈 법무부 장관 간 설전이 오갔다. 이 대표는 지난 10일 검찰의 소환 요구를 받고 수원지검 성남지청에 들어가기 전 포토라인에 서서 이번 소환조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230127070606446</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230120202405295"/>
         <updated>2023-01-20T12:39:01.620Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다. 그게 근거가 있는 이야기인 건지 저희 팩트 체크 사실은팀이 확인해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 성균관에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 남는 쌀 정부 매입 의무화하면 쌀값 떨어진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230120154720562</id>
-        <link href="https://v.daum.net/v/20230120154720562"/>
-        <updated>2023-01-20T07:19:09.993Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 쌀값 안정을 위해 과잉생산된 쌀을 정부가 의무적으로 매입(시장격리)하게 하는 '양곡관리법' 개정안을 둘러싼 논란이 커지고 있다. 더불어민주당이 정부 여당의 반대에도 개정안을 국회 본회에서 처리하겠다는 입장을 고수하는 가운데, 정황근 농림축산식품부 장관은 최근 언론 인터뷰에서 "단순히 남는 쌀을 사주는 정책은 농민에게 도움이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국은 국회의원이 너무 많다" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -498,7 +498,7 @@
         <title type="html"><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230127070606446</id>
         <link href="https://v.daum.net/v/20230127070606446"/>
-        <updated>2023-01-26T22:20:40.842Z</updated>
+        <updated>2023-01-26T22:19:40.268Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 당권 주자인 김기현 의원이 25일 서울 여의도 국회 의원회관에서 열린 지속발전 가능한 폐기물 매립 및 친환경적 활용방안 토론회에서 축사를 하고 있다.    ⓒ 남소연  &nbsp; [검증대상] "난방비 폭등은 문재인 정부 탓" 김기현-성일종 의원 발언 올겨울 난방비 폭등으로 서민이 큰 고통을 겪고 있는 가운데, 여야 간에]]></content>
     </entry>
     <entry>
