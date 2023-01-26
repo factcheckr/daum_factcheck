@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2023-01-26T10:22:55.184Z</updated>
+    <updated>2023-01-26T11:18:09.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보일러 '외출 버튼' 누를까 말까? '난방비 아끼는 법']]></title>
+        <id>https://v.daum.net/v/20230126200505247</id>
+        <link href="https://v.daum.net/v/20230126200505247"/>
+        <updated>2023-01-26T11:18:09.134Z</updated>
+        <content type="html"><![CDATA[[앵커] 날은 춥고, 난방비 부담은 커지면서 여기저기에서 난방비 줄이는 방법들이 나오는데요. 뭐가 맞는 건지, 저희가 팩트체크 해드리겠습니다. 경제산업부 김도훈 기자 나와있습니다. 가장 논란인 게 밖에 나갈 때 보일러 외출버튼을 트느냐 마느냐, 이거 어떻게 해야합니까? [기자] 네, 저희가 정부연구원과 관련협회 등의 전문가 의견을 들어봤는데요. 결론부터 말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[확진자 암실에 가뒀다? '중국 반발' 방역조치 살펴보니]]></title>
         <id>https://v.daum.net/v/20230111201906037</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221028203505794"/>
         <updated>2022-11-16T17:35:39.766Z</updated>
         <content type="html"><![CDATA[[앵커] 정부와 의사협회가 이렇게 서로 다른 얘길 하고 있는데, 이한주 기자와 팩트체크를 해보겠습니다. 이한주 기자, 의사 수가 모자란 건 맞습니까? [기자] 맞습니다. 우리나라 인구 1천명당 의사수는 2.5명입니다. 경제개발협력기구 OECD 기준으로 보면 우리나라보다 의사 수가 적은 곳은 멕시코 한 곳 뿐입니다. 의사협회도 이건 동의를 합니다. 하지만 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장]]></title>
-        <id>https://v.daum.net/v/20221026201345595</id>
-        <link href="https://v.daum.net/v/20221026201345595"/>
-        <updated>2022-11-16T17:35:39.767Z</updated>
-        <content type="html"><![CDATA[[앵커] 이처럼 기업들의 돈맥경화를 불러온 레고랜드 사태를 두고 주장이 엇갈립니다. 김진태 강원도지사는 개발회사, 그리고 채권단과 진실 공방을 벌이고 있습니다. 팩트체크를 해보겠습니다. 정원석 기자 나와 있습니다. 일단 강원도가 이번 사태를 두고 팩트체크 자료를 냈다고요? 어떤 내용입니까? [기자] 네, 레고랜드 개발사인 강원중도개발공사를 회생신청하기로 결]]></content>
     </entry>
 </feed>
