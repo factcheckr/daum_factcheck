@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-27T06:26:34.107Z</updated>
+    <updated>2023-01-27T07:21:15.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 민식이법 3년, 아이들은 아직도 스쿨존이 불안하다]]></title>
+        <id>https://v.daum.net/v/20230127160324378</id>
+        <link href="https://v.daum.net/v/20230127160324378"/>
+        <updated>2023-01-27T07:20:18.199Z</updated>
+        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 2019년 9월 11일 충남 아산의 한 스쿨존에서 횡단하던 김민식 군이 차에 치여 숨졌다. 사고 직후 각계에선 어린이 보호구역(스쿨존) 내 교통사고 처벌 기준에 대한 논의가 펼쳐졌다. 관련법을 손봐야 한다는 사회적 공감대가 형성되자 정치권도 재빠르게 움직였다. 그해 10월 발의된 ‘도로교통법·특정범죄 가중처벌 등에 관한 법률]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합)]]></title>
         <id>https://v.daum.net/v/20230127103021918</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230121090604998"/>
         <updated>2023-01-21T01:40:41.783Z</updated>
         <content type="html"><![CDATA[국내 최대 석유화학산단이 위치한 전남 여수는 10만 이상 도시 중 고속도로가 연결되지 않은 유일한 곳이다. 새해들어 여수 지역 정치권에서는 고속도로 신설 논의가 활발하다. 여수 고속도로 신설에 대한 기대감도 있지만 지역의 각종 커뮤니티를 중심으로 우려의 목소리도 나온다. 행정구역상 구별되어 있지만 여수와 순천은 이미 하나의 경제 생활권인데 고속도로가 생길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]지자체 58곳 소아청소년과 0곳…병원 찾아 삼만리]]></title>
-        <id>https://v.daum.net/v/20230121090302950</id>
-        <link href="https://v.daum.net/v/20230121090302950"/>
-        <updated>2023-01-21T01:40:41.786Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
     </entry>
 </feed>
