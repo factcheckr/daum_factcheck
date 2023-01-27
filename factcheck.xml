@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-27T21:18:13.203Z</updated>
+    <updated>2023-01-27T22:20:20.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴수 있을까]]></title>
+        <id>https://v.daum.net/v/20230128071105090</id>
+        <link href="https://v.daum.net/v/20230128071105090"/>
+        <updated>2023-01-27T22:19:21.686Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 설 연휴 마지막 날인 24일 오전 제주 지역에 폭설과 강풍이 몰아쳐 모든 항공편이 결항됐다. 휴가차 1박 2일로 제주를 방문했던 장모(26)씨는 "기상 상황이 좋지 않아 예상보다 1박을 더 하게 되면서 25일 밤 서울로 돌아왔다"며 "취소 항공편을 운 좋게 구해서 다행이지, 아니었다면 며칠 더 기다려야 했을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 난방비 폭등 네탓 공방‥확인해보니]]></title>
         <id>https://v.daum.net/v/20230127201311844</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230123072307672"/>
         <updated>2023-01-22T23:20:29.156Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = MZ 세대 사이에서 당장 돈이 없더라도 상품을 우선 구매한 뒤 일정 기간 후 대금을 갚는 '후불결제' 서비스가 인기를 끌고 있다. 후불결제는 일종의 디지털 외상 거래로, '먼저 사고 나중에 결제한다'(Buy Now, Pay Later)는 뜻에서 BNPL로도 불린다. 미국, 호주 등 해외에선 이미 대중적인 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "한국은 국회의원이 너무 많다" 따져 보니…]]></title>
-        <id>https://v.daum.net/v/20230122112700174</id>
-        <link href="https://v.daum.net/v/20230122112700174"/>
-        <updated>2023-01-22T02:48:13.530Z</updated>
-        <content type="html"><![CDATA[오는 3월, 국민의힘 전당 대회를 앞두고, 당 대표 출마를 선언한 조경태 의원이 '국회의원 감축'을 공약했습니다. 구체적으로는 비례대표제 폐지를 제안했습니다. &nbsp;   우리나라가 좀 국회의원 수가 너무 많습니다. 미국 같은 경우에는 유권자 수 63만 명당 1명이라면 우리는 아마 16만 명. 17만 명당 1명이기 때문에 미국 기준하면 우리는 82명이면 되거]]></content>
     </entry>
 </feed>
