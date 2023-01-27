@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-26T23:22:21.223Z</updated>
+    <updated>2023-01-27T01:46:09.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?(종합)]]></title>
+        <id>https://v.daum.net/v/20230127103021918</id>
+        <link href="https://v.daum.net/v/20230127103021918"/>
+        <updated>2023-01-27T01:45:05.859Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이재명 더불어민주당 대표가 기업들로부터 후원금을 받고 편의를 봐줬다는 이른바 '성남FC 후원금 의혹' 사건을 경찰이 무혐의 처분했는지의 진위를 두고 사건 당사자인 이재명 대표와 한동훈 법무부 장관 간 설전이 오갔다. 이 대표는 지난 10일 검찰의 소환 요구를 받고 수원지검 성남지청에 들어가기 전 포토라인에 서서 이번 소환조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경찰이 '성남FC 후원금 의혹' 불송치한 것은 무혐의 처분이다?]]></title>
         <id>https://v.daum.net/v/20230127072308605</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230121090302950"/>
         <updated>2023-01-21T01:40:41.786Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 성균관 "차례상에 전 안 올려도 됩니다"…진짜?]]></title>
-        <id>https://v.daum.net/v/20230120202405295</id>
-        <link href="https://v.daum.net/v/20230120202405295"/>
-        <updated>2023-01-20T12:39:01.620Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다. 그게 근거가 있는 이야기인 건지 저희 팩트 체크 사실은팀이 확인해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 성균관에]]></content>
     </entry>
 </feed>
