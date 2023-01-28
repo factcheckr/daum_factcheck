@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T23:20:41.108Z</updated>
+    <updated>2023-01-28T01:46:56.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]미국에서 불 붙은 '가스레인지 사용 금지' 논란…왜? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230128090305934</id>
+        <link href="https://v.daum.net/v/20230128090305934"/>
+        <updated>2023-01-28T01:42:57.286Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230128071105090</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230124180910245"/>
         <updated>2023-01-24T09:19:38.774Z</updated>
         <content type="html"><![CDATA[국내 기술로 제작된 한국형 최초 우주발사체 '누리호(KSLV-Ⅱ)'가 지난해 6월 전남 고흥 나로우주센터에서 발사되고 있다. 연합뉴스            국방과학연구소(ADD)가 지난해 12월 국방과학연구소 종합시험장 인근 해상에서 우리 기술로 개발한 고체추진 우주발사체의 성능 검증을 위한 두 번째 비행시험에 성공했다. 국방부 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 후불결제 서비스는 연체해도 신용점수 안 떨어진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230123072307672</id>
-        <link href="https://v.daum.net/v/20230123072307672"/>
-        <updated>2023-01-22T23:20:29.156Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = MZ 세대 사이에서 당장 돈이 없더라도 상품을 우선 구매한 뒤 일정 기간 후 대금을 갚는 '후불결제' 서비스가 인기를 끌고 있다. 후불결제는 일종의 디지털 외상 거래로, '먼저 사고 나중에 결제한다'(Buy Now, Pay Later)는 뜻에서 BNPL로도 불린다. 미국, 호주 등 해외에선 이미 대중적인 결]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국은 국회의원이 너무 많다" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
