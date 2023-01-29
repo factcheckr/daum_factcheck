@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-29T13:27:37.493Z</updated>
+    <updated>2023-01-29T14:18:17.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '횡재세' 전 세계 시행?...유럽과 미중일 따져보니]]></title>
+        <id>https://v.daum.net/v/20230129222823659</id>
+        <link href="https://v.daum.net/v/20230129222823659"/>
+        <updated>2023-01-29T14:17:15.924Z</updated>
+        <content type="html"><![CDATA[[앵커] 최근 난방비 폭탄으로 서민경제에 부담이 커진 가운데, 이른바 '횡재세'를 놓고 논란이 제기됐습니다. 지난해 원유가격 상승으로 최대 실적을 올린 국내 정유회사들한테서 추가로 세금을 걷어 국민 연료비 보전에 쓰자는 얘긴데요. '횡재세' 도입이 전 세계적 추세라는 야당 대표의 발언이 사실에 부합하는지 따져봤습니다. 신지원 기자입니다. [기자]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '횡재세' 전 세계 시행?...유럽과 미중일 따져보니]]></title>
         <id>https://v.daum.net/v/20230129183433586</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230127072308605"/>
         <updated>2023-01-26T23:21:15.007Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이재명 더불어민주당 대표가 기업들로부터 후원금을 받고 편의를 봐줬다는 이른바 '성남FC 후원금 의혹' 사건을 경찰이 무혐의 처분했는지의 진위를 두고 사건 당사자인 이재명 대표와 한동훈 법무부 장관 간 설전이 오갔다. 이 대표는 지난 10일 검찰의 소환 요구를 받고 수원지검 성남지청에 들어가기 전 포토라인에 서서 이번 소환조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230127070606446</id>
-        <link href="https://v.daum.net/v/20230127070606446"/>
-        <updated>2023-01-26T22:19:40.268Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 당권 주자인 김기현 의원이 25일 서울 여의도 국회 의원회관에서 열린 지속발전 가능한 폐기물 매립 및 친환경적 활용방안 토론회에서 축사를 하고 있다.    ⓒ 남소연  &nbsp; [검증대상] "난방비 폭등은 문재인 정부 탓" 김기현-성일종 의원 발언 올겨울 난방비 폭등으로 서민이 큰 고통을 겪고 있는 가운데, 여야 간에]]></content>
     </entry>
 </feed>
