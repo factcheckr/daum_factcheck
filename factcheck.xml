@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-30T19:17:16.751Z</updated>
+    <updated>2023-01-30T20:22:27.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명 "에너지기업 과도한 불로소득 챙겼다"...횡재세 내야할까]]></title>
+        <id>https://v.daum.net/v/20230131050025289</id>
+        <link href="https://v.daum.net/v/20230131050025289"/>
+        <updated>2023-01-30T20:21:18.448Z</updated>
+        <content type="html"><![CDATA[''       국내 휘발유·경유 가격의 '고공행진'이 계속된 지난해 3월 28일 서울의 한 주유소 유가정보판에 휘발유가 2590원, 경유가 2490원을 나타내고 있다. 최근들어 '난방비 폭탄' 이슈가 불거지면서 정유사에 대한 횡재세 도입 논란이 한창이다. /뉴스1     “에너지 관련 기업들이 과도한 불로소득, 과도한 영업이익을 취한 것에 대해서 전 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "문 정부가 안 올려서" vs "또 탓한다"…난방비 논란 살펴보니]]></title>
         <id>https://v.daum.net/v/20230130203606017</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230129100538079"/>
         <updated>2023-01-29T01:47:38.930Z</updated>
         <content type="html"><![CDATA[지난 26일 오후 5시30분쯤 서울 동대문구 청량리역 3층 맞이방 맞은편 대기의자에서 한 남성이 숨진 채 발견됐다. “옆자리에 앉은 사람이 의자에서 움직이지 않는다”는 시민의 신고로 출동한 역무원이 남성의 상태를 처음 확인했다. 남성의 죽음은 같은 날 오후 7시쯤 한 시민이 페이스북에 “청량리역에서 노숙인이 한파 속에서 동사했다”는 글과 함께 사진을 게시해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '횡재세' 전 세계 시행?...유럽과 미중일 따져보니]]></title>
-        <id>https://v.daum.net/v/20230129053722466</id>
-        <link href="https://v.daum.net/v/20230129053722466"/>
-        <updated>2023-01-28T21:16:45.336Z</updated>
-        <content type="html"><![CDATA[[앵커] 최근 난방비 폭탄으로 서민경제에 부담이 커진 가운데, 이른바 '횡재세'를 놓고 논란이 제기됐습니다. 지난해 원유가격 상승으로 최대 실적을 올린 국내 정유회사들한테서 추가로 세금을 걷어 국민 연료비 보전에 쓰자는 얘긴데요. '횡재세' 도입이 전 세계적 추세라는 야당 대표의 발언이 사실에 부합하는지 따져봤습니다. 신지원 기자입니다. [기자]]]></content>
     </entry>
 </feed>
