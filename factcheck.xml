@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-01-30T04:25:28.414Z</updated>
+    <updated>2023-01-30T05:21:30.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "문 정부만 요금 안 올려서…" 팩트체크 해보니]]></title>
+        <id>https://v.daum.net/v/20230130140300983</id>
+        <link href="https://v.daum.net/v/20230130140300983"/>
+        <updated>2023-01-30T05:19:21.326Z</updated>
+        <content type="html"><![CDATA[초강력 한파와 가스 요금 인상이 겹치면서 '난방비 폭탄'은 현실이 됐습니다. 여야는 책임 공방을 벌이고 있습니다. 여당은 문재인 정부가 사실상 '폭탄 돌리기'를 했다며, 야당은 정부 대책이 미흡한 결과라며 책임 떠넘기기에 바쁩니다. &nbsp;   "러시아 우크라이나 전쟁 여파로 LNG 가격이 폭등했지만, 문재인 정부는 주택용 가스 요금을 인상하지 않았다. 반면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] UAE 37조 오일머니..'양해각서'로 본 역대정부 세일즈 외교]]></title>
         <id>https://v.daum.net/v/20230130122106659</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230128071105090"/>
         <updated>2023-01-27T22:19:21.686Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 설 연휴 마지막 날인 24일 오전 제주 지역에 폭설과 강풍이 몰아쳐 모든 항공편이 결항됐다. 휴가차 1박 2일로 제주를 방문했던 장모(26)씨는 "기상 상황이 좋지 않아 예상보다 1박을 더 하게 되면서 25일 밤 서울로 돌아왔다"며 "취소 항공편을 운 좋게 구해서 다행이지, 아니었다면 며칠 더 기다려야 했을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 난방비 폭등 네탓 공방‥확인해보니]]></title>
-        <id>https://v.daum.net/v/20230127201311844</id>
-        <link href="https://v.daum.net/v/20230127201311844"/>
-        <updated>2023-01-27T11:17:46.663Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 난방비 폭등으로 인한 공방이 뜨겁습니다. 원인을 두고 '전 정부가 요금 인상을 억누른 탓이다', '탈원전 정책 때문이다' 부터 시작해서 '애초부터 원료를 비싸게 사온 잘못'이라는 주장까지 나오고 있는데요. 하나하나 따져보겠습니다. 먼저 난방 주연료인 국제 천연가스 가격이 폭등했는데, 전 정부가 요금 인상을 인위적으]]></content>
     </entry>
 </feed>
