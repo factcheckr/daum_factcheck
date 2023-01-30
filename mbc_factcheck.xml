@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-01-30T10:23:52.640Z</updated>
+    <updated>2023-01-30T11:18:29.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난방비 폭탄, 횡재세가 해법?]]></title>
+        <id>https://v.daum.net/v/20230130200414625</id>
+        <link href="https://v.daum.net/v/20230130200414625"/>
+        <updated>2023-01-30T11:17:40.112Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난방비 폭등 네탓 공방‥확인해보니]]></title>
         <id>https://v.daum.net/v/20230127201311844</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220930202215597"/>
         <updated>2022-11-16T17:34:39.967Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한국을 방문한 미국 해리스 부통령이 윤석열 대통령을 만난 자리에서 한국의 성평등 문제를 언급했는데, 대통령실은 '언급하지 않았다'고 부인했다가 백악관이 '언급했다'고 발표하자 다시 정정하는 일이 있었습니다. 미국 부통령이 짧은 방한기간 사이에 직접 얘기를 꺼낸 데다, 뉴욕타임스도 이를 기사화하기도 했는데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상 만남, '약식회담', '간담' 맞는 용어는?]]></title>
-        <id>https://v.daum.net/v/20220922201610926</id>
-        <link href="https://v.daum.net/v/20220922201610926"/>
-        <updated>2022-11-16T17:34:39.968Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 새벽 한미·한일 정상 간의 만남. 이를 두고 정상회담, 약식 회담, 회동, 또 일본에선 '간담'이라는 용어를 쓰는 등 여러 표현이 혼재되고 있는데요. 외교적인 만남을 규정하는 용어들엔 어떤 차이가 있는지, 이번 만남을 무엇으로 지칭하는 게 적절할지 알아봤습니다. ◀ 리포트 ▶ 대통령실이 공개한 한일 정상]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T10:23:52.665Z</updated>
+    <updated>2023-01-30T11:18:29.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 난방비 폭탄, 횡재세가 해법? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230130200414625</id>
+        <link href="https://v.daum.net/v/20230130200414625"/>
+        <updated>2023-01-30T11:17:17.896Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "문 정부만 요금 안 올려서…" 팩트체크 해보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230130140300983</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230128090305934"/>
         <updated>2023-01-28T01:42:57.286Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230128071105090</id>
-        <link href="https://v.daum.net/v/20230128071105090"/>
-        <updated>2023-01-27T22:19:21.686Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 설 연휴 마지막 날인 24일 오전 제주 지역에 폭설과 강풍이 몰아쳐 모든 항공편이 결항됐다. 휴가차 1박 2일로 제주를 방문했던 장모(26)씨는 "기상 상황이 좋지 않아 예상보다 1박을 더 하게 되면서 25일 밤 서울로 돌아왔다"며 "취소 항공편을 운 좋게 구해서 다행이지, 아니었다면 며칠 더 기다려야 했을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["문 정부만 요금 안 올려서…" 팩트체크 해보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 문재인 정부 건강보험 보장성 강화 정책인 '문재인 케어' 논란이 계속되고 있습니다. 정부 여당은 문재인 케어에 20조 원 넘는 돈이 낭비됐다고 주장하고 있는데, 팩트체크 사실은팀이 구체적 내역을 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; [윤석열 대통령 (지난 13일, 국무회의) :&nbsp;보장성 강화에 20조 원을 넘게 쏟아 부었지만, 인기영합적 포퓰리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[난방비 폭탄, 횡재세가 해법? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230130200414625</id>
+        <link href="https://v.daum.net/v/20230130200414625"/>
+        <updated>2023-01-30T11:17:40.112Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[난방비 폭등 네탓 공방‥확인해보니 (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230127201311844</id>
         <link href="https://v.daum.net/v/20230127201311844"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20220930202215597"/>
         <updated>2022-11-16T17:34:39.967Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한국을 방문한 미국 해리스 부통령이 윤석열 대통령을 만난 자리에서 한국의 성평등 문제를 언급했는데, 대통령실은 '언급하지 않았다'고 부인했다가 백악관이 '언급했다'고 발표하자 다시 정정하는 일이 있었습니다. 미국 부통령이 짧은 방한기간 사이에 직접 얘기를 꺼낸 데다, 뉴욕타임스도 이를 기사화하기도 했는데요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상 만남, '약식회담', '간담' 맞는 용어는? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220922201610926</id>
-        <link href="https://v.daum.net/v/20220922201610926"/>
-        <updated>2022-11-16T17:34:39.968Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 오늘 새벽 한미·한일 정상 간의 만남. 이를 두고 정상회담, 약식 회담, 회동, 또 일본에선 '간담'이라는 용어를 쓰는 등 여러 표현이 혼재되고 있는데요. 외교적인 만남을 규정하는 용어들엔 어떤 차이가 있는지, 이번 만남을 무엇으로 지칭하는 게 적절할지 알아봤습니다. ◀ 리포트 ▶ 대통령실이 공개한 한일 정상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
