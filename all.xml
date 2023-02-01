@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T01:58:33.792Z</updated>
+    <updated>2023-02-01T02:59:55.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] "난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230201105816117</id>
+        <link href="https://v.daum.net/v/20230201105816117"/>
+        <updated>2023-02-01T02:58:56.216Z</updated>
+        <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] "난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230201104306400</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230130121200384"/>
         <updated>2023-01-30T03:25:29.082Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] UAE발 여객기 승객, 메르스증세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '횡재세' 전 세계 시행?...유럽과 미중일 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230129222823659</id>
-        <link href="https://v.daum.net/v/20230129222823659"/>
-        <updated>2023-01-29T14:17:15.924Z</updated>
-        <content type="html"><![CDATA[[앵커] 최근 난방비 폭탄으로 서민경제에 부담이 커진 가운데, 이른바 '횡재세'를 놓고 논란이 제기됐습니다. 지난해 원유가격 상승으로 최대 실적을 올린 국내 정유회사들한테서 추가로 세금을 걷어 국민 연료비 보전에 쓰자는 얘긴데요. '횡재세' 도입이 전 세계적 추세라는 야당 대표의 발언이 사실에 부합하는지 따져봤습니다. 신지원 기자입니다. [기자]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["문 정부가 안 올려서" vs "또 탓한다"…난방비 논란 살펴보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[국민의힘 전국위원회가 차기 당 대표를 여론조사 없이 100% 당원 투표를 통해 선출하는 내용의 당헌 개정안을 지난주 통과시켰습니다. 원래는 당원 투표 70%, 일반 국민 여론조사 30%로 당 대표로 뽑았었는데, 여론조사 반영 기준으로 당원 투표 100%로 선출하겠다는 겁니다. 2004년 한나라당 시절 당 대표 경선에 국민 여론조사를 도입한 이후 18년 만]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230201105816117</id>
+        <link href="https://v.daum.net/v/20230201105816117"/>
+        <updated>2023-02-01T02:59:14.003Z</updated>
+        <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[난방비 폭탄, 횡재세가 해법? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230130200414625</id>
         <link href="https://v.daum.net/v/20230130200414625"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20221007202814772"/>
         <updated>2022-11-16T17:34:39.967Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 한 고등학생이 그린 '윤석열차'라는 이 만화 한 컷이 논란입니다. 작품이 지나치게 정치적이라면서 정부가 상을 수여한 공모전 주최측을 맹비난하고 나섰죠. [박보균/문화체육관광부 장관] "순수한 에술적 감수성으로 명성을 쌓은 중고생 만화공모전을 정치오염 공모전으로 변색시킨 만화진흥원에 대해서 (문제제기를 하는 겁니다)."]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 앞에서 문제제기?..성평등 지표 어떻길래 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20220930202215597</id>
-        <link href="https://v.daum.net/v/20220930202215597"/>
-        <updated>2022-11-16T17:34:39.967Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 한국을 방문한 미국 해리스 부통령이 윤석열 대통령을 만난 자리에서 한국의 성평등 문제를 언급했는데, 대통령실은 '언급하지 않았다'고 부인했다가 백악관이 '언급했다'고 발표하자 다시 정정하는 일이 있었습니다. 미국 부통령이 짧은 방한기간 사이에 직접 얘기를 꺼낸 데다, 뉴욕타임스도 이를 기사화하기도 했는데요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
