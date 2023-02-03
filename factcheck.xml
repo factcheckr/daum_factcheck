@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-03T02:54:05.593Z</updated>
+    <updated>2023-02-03T03:26:22.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230203121201342</id>
+        <link href="https://v.daum.net/v/20230203121201342"/>
+        <updated>2023-02-03T03:25:10.565Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 주택가격에 금리가 미치는 영향에 대한 언론 논조는 불과 1~2년 사이 정반대로 바뀌었다&nbsp;지난 2021년 1월 6일 “부동산값 급등, 저금리 아닌 정부 정책 탓”이라고 보도했던 &lt;국민일보&gt;는 지난 2022년 12월 13일에는 “정책도, 공급도 무의미… 2023년 부동산 시장, 금리에 달렸다”라고 보도했다.ⓒ 한국언론진흥재단 빅카인즈&nbsp; [검]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 노인 무임승차에 들어가는 비용, 얼마나 될까]]></title>
         <id>https://v.daum.net/v/20230202113904958</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230130122106659"/>
         <updated>2023-01-30T03:25:29.079Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] UAE 37조 오일머니..'양해각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '임플란트 38만원!' 광고한 치과, 찾아가보니]]></title>
-        <id>https://v.daum.net/v/20230130121614524</id>
-        <link href="https://v.daum.net/v/20230130121614524"/>
-        <updated>2023-01-30T03:25:29.081Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '임플란트 38만원!' 광고한 치]]></content>
     </entry>
 </feed>

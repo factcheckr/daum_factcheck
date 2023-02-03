@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T02:54:05.607Z</updated>
+    <updated>2023-02-03T03:26:22.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230203121201342</id>
+        <link href="https://v.daum.net/v/20230203121201342"/>
+        <updated>2023-02-03T03:25:10.565Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 주택가격에 금리가 미치는 영향에 대한 언론 논조는 불과 1~2년 사이 정반대로 바뀌었다&nbsp;지난 2021년 1월 6일 “부동산값 급등, 저금리 아닌 정부 정책 탓”이라고 보도했던 &lt;국민일보&gt;는 지난 2022년 12월 13일에는 “정책도, 공급도 무의미… 2023년 부동산 시장, 금리에 달렸다”라고 보도했다.ⓒ 한국언론진흥재단 빅카인즈&nbsp; [검]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 노인 무임승차에 들어가는 비용, 얼마나 될까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230202113904958</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230130122106659"/>
         <updated>2023-01-30T03:25:29.079Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] UAE 37조 오일머니..'양해각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '임플란트 38만원!' 광고한 치과, 찾아가보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230130121614524</id>
-        <link href="https://v.daum.net/v/20230130121614524"/>
-        <updated>2023-01-30T03:25:29.081Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 1월 28일 (토요일) ■ 진행 : 김양원 PD ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [팩트체크] '임플란트 38만원!' 광고한 치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노인 무임승차에 들어가는 비용, 얼마나 될까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 국민의힘 등 야권을 중심으로 정부가 ‘정치 방역’을 하고 있다는 비판이 이어지고 있다. 코로나19 4차 대유행 국면에서 민주노총이 지난 3일 서울 여의도와 종로 등지에서 조합원 8000여명이 참가한 대규모 집회를 열었는데, 이 집회에 대한 경찰 대응이 지난해 보수단체가 주최한 광복절 집회 때와 달리 미온적이라는 게 비판의 골자이다. “보수단체]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20230203121201342</id>
+        <link href="https://v.daum.net/v/20230203121201342"/>
+        <updated>2023-02-03T03:26:12.300Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 주택가격에 금리가 미치는 영향에 대한 언론 논조는 불과 1~2년 사이 정반대로 바뀌었다&nbsp;지난 2021년 1월 6일 “부동산값 급등, 저금리 아닌 정부 정책 탓”이라고 보도했던 &lt;국민일보&gt;는 지난 2022년 12월 13일에는 “정책도, 공급도 무의미… 2023년 부동산 시장, 금리에 달렸다”라고 보도했다.ⓒ 한국언론진흥재단 빅카인즈&nbsp; [검]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["난방비 폭등은 문재인 정부 탓" 국힘 주장 '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230127070606446</id>
         <link href="https://v.daum.net/v/20230127070606446"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20220930154209652"/>
         <updated>2023-01-15T11:16:38.748Z</updated>
         <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;윤석열 대통령이 지난 27일 세종시 아이누리 어린이집을 찾아 학부모, 보육 교직원, 관련 전문가들과 간담회를 하고 있다.    ⓒ 대통령실 제공  &nbsp;&nbsp; [검증 대상] "두 살 안 되는 애들은 집에만 있는 줄 알았다" "난 아주 어린 좀 영유아들은 집에서만 있는 줄 알았더니, 아기들도 여기 오는구나. 두 살 안 되는 애들도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세훈 "싱가포르 외국인 가사도우미 38만~76만원" '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20220929135702484</id>
-        <link href="https://v.daum.net/v/20220929135702484"/>
-        <updated>2023-01-15T11:16:38.749Z</updated>
-        <content type="html"><![CDATA[[박성우, 김지현 기자] ▲ &nbsp;오세훈 서울시장이 28일 오전 서울 중구 서울특별시청에서 열린 '더 맑은 서울 2030' 설명회에서 발언하고 있다.    ⓒ 연합뉴스  &nbsp; [검증 대상] "싱가포르의 외국인 가사 도우미는 월 38만~76만원 수준" 오세훈 서울시장이 "한국에서 육아 도우미를 고용하려면 월 200만~300만 원이 드는데 싱가포르의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보일러 '외출 버튼' 누를까 말까? '난방비 아끼는 법' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
