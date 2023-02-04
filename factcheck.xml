@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-04T19:16:58.091Z</updated>
+    <updated>2023-02-04T20:21:16.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 5인 미만 사업장도 유급휴가?…"코로나 겨우 버티는데…소상공인 줄폐업 할 것"]]></title>
+        <id>https://v.daum.net/v/20230205050010426</id>
+        <link href="https://v.daum.net/v/20230205050010426"/>
+        <updated>2023-02-04T20:20:06.973Z</updated>
+        <content type="html"><![CDATA[서울 서대문구 신촌거리의 상점에 '폐업 현수막'이 걸려 있다. /뉴스1 [파이낸셜뉴스] 코로나19 사태 이후 자영업자의 시름 소리는 이제 일상이 됐다. '직원보다 못 버는 사장, 아르바이트비도 줄 수 없는 나홀로 사장' 등의 언론 보도는 심심치 않게 볼 수 있다. 김상훈 국민의힘 의원도 지난해 "지난 정부 5년간 급격한 최저임금 인상과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] ‘엉터리 구직자’ 막겠다는 정부, 얼마나 되길래?]]></title>
         <id>https://v.daum.net/v/20230204090527442</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230131050025289"/>
         <updated>2023-01-30T20:21:18.448Z</updated>
         <content type="html"><![CDATA[국내 휘발유·경유 가격의 '고공행진'이 계속된 지난해 3월 28일 서울의 한 주유소 유가정보판에 휘발유가 2590원, 경유가 2490원을 나타내고 있다. 최근들어 '난방비 폭탄' 이슈가 불거지면서 정유사에 대한 횡재세 도입 논란이 한창이다. /뉴스1     “에너지 관련 기업들이 과도한 불로소득, 과도한 영업이익을 취한 것에 대해서 전 세계에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "문 정부가 안 올려서" vs "또 탓한다"…난방비 논란 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230130203606017</id>
-        <link href="https://v.daum.net/v/20230130203606017"/>
-        <updated>2023-01-30T12:40:36.559Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 난방비로 민심이 술렁이자 정치권 공방도 이어졌지요. 국민의힘은 다른 나라들이 가스비 올릴 때 문재인 정부가 안 올려서 그런 거다, 민주당은 또 전 정부 탓한다며 맞섰습니다. 그럼 실제 국제 가스 가격이 어땠는지, 그에 따른 여러 나라의 요금 인상은 어떤식으로 이뤄졌는지, 팩트체크 사실은 팀이 확인했습니다. 이경원 기자입니다. &lt;기자&gt; [주호영/국민]]></content>
     </entry>
 </feed>
