@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-06T15:23:29.639Z</updated>
+    <updated>2023-02-06T17:24:17.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
         <id>https://v.daum.net/v/20230206202805186</id>
