@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-06T05:21:12.018Z</updated>
+    <updated>2023-02-06T06:30:35.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 비동의 강간죄 도입되면 '동의 없었다' 피해자 진술만으로 유죄?]]></title>
+        <id>https://v.daum.net/v/20230206150715115</id>
+        <link href="https://v.daum.net/v/20230206150715115"/>
+        <updated>2023-02-06T06:28:22.148Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 여성가족부가 제3차 양성평등정책 기본계획을 발표한 지난달 26일 이른바 '비(非)동의 강간죄'가 화제로 떠올랐다. 여가부가 형법상 강간죄의 구성요건을 현재의 '폭행·협박'에서 '동의 여부'로 개정하는 방안을 검토하겠다며 비동의 강간죄의 도입을 시사했다가 법무부의 반대로 이를 철회하면서다. 권성동 국민의힘 의원도 이날 자신의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 5인 미만 사업장도 근로기준법 적용?…"코로나 겨우 버티는데…소상공인 줄폐업 할 것"]]></title>
         <id>https://v.daum.net/v/20230205050010426</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230201072308702"/>
         <updated>2023-02-01T01:55:41.973Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 일회용 마스크의 원료가 폐 손상을 일으킨다는 국내 연구진의 연구 결과가 최근 발표되면서 코로나19 사태 내내 써왔던 마스크로 인해 폐가 망가지는 것 아니냐는 불안감이 일고 있다. 화학물질의 독성을 평가·연구하는 정부출연연구기관인 안전성평가연구소(KIT)는 지난달 25일 산하조직인 인체유해인자 흡입독성연구단과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명 "에너지기업 과도한 불로소득 챙겼다"...횡재세 내야할까]]></title>
-        <id>https://v.daum.net/v/20230131050025289</id>
-        <link href="https://v.daum.net/v/20230131050025289"/>
-        <updated>2023-01-30T20:21:18.448Z</updated>
-        <content type="html"><![CDATA[국내 휘발유·경유 가격의 '고공행진'이 계속된 지난해 3월 28일 서울의 한 주유소 유가정보판에 휘발유가 2590원, 경유가 2490원을 나타내고 있다. 최근들어 '난방비 폭탄' 이슈가 불거지면서 정유사에 대한 횡재세 도입 논란이 한창이다. /뉴스1     “에너지 관련 기업들이 과도한 불로소득, 과도한 영업이익을 취한 것에 대해서 전 세계에서]]></content>
     </entry>
 </feed>
