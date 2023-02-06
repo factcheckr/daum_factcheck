@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-06T02:44:00.831Z</updated>
+    <updated>2023-02-06T03:23:35.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 5인 미만 사업장도 근로기준법 적용?…"코로나 겨우 버티는데…소상공인 줄폐업 할 것"]]></title>
         <id>https://v.daum.net/v/20230205050010426</id>
