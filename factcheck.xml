@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-07T16:30:22.176Z</updated>
+    <updated>2023-02-07T17:24:40.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 윤 대통령 '당비 300만 원'은 정해져 있는 것 아니다?...국민의힘 당규 봤더니]]></title>
+        <id>https://v.daum.net/v/20230208021315402</id>
+        <link href="https://v.daum.net/v/20230208021315402"/>
+        <updated>2023-02-07T17:22:24.396Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 당 대표 선거 과정에서 뜬금없이 대통령과 당 대표 등의 당비 납부 액수가 관심을 끌고 있습니다. 대통령이 당비를 300만 원이나 내는데 선거 과정에서 말도 못하냐는 대통령실 입장이 나온 뒤, 여당 정책위의장은 당에 대한 애정이 커서 당비를 많이 내는 것이라는 설명도 덧붙였는데요. 신호 기자가 국민의힘 당규를 살펴봤습니다. [기자]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '극단적 선택 방법' 검색만 해도 경찰이 찾아온다?...사실은]]></title>
         <id>https://v.daum.net/v/20230207140933329</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230203121201342"/>
         <updated>2023-02-03T03:25:10.565Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ 주택가격에 금리가 미치는 영향에 대한 언론 논조는 불과 1~2년 사이 정반대로 바뀌었다&nbsp;지난 2021년 1월 6일 “부동산값 급등, 저금리 아닌 정부 정책 탓”이라고 보도했던 &lt;국민일보&gt;는 지난 2022년 12월 13일에는 “정책도, 공급도 무의미… 2023년 부동산 시장, 금리에 달렸다”라고 보도했다.ⓒ 한국언론진흥재단 빅카인즈&nbsp; [검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 노인 무임승차에 들어가는 비용, 얼마나 될까]]></title>
-        <id>https://v.daum.net/v/20230202113904958</id>
-        <link href="https://v.daum.net/v/20230202113904958"/>
-        <updated>2023-02-02T02:48:34.945Z</updated>
-        <content type="html"><![CDATA[65세 이상 노인에 대한 지하철 무임승차 제도가 정치권 화두로 떠올랐습니다. 포문은 오세훈 서울시장이 열었습니다. 오 시장은 지난 30일 신년 기자 간담회에서 정부가 무임 수송 비용을 지원해줄 것을 요청했습니다. 다음 날, 국민의힘 주호영 원내대표도 공감을 나타냈습니다. &nbsp;   "서울 지하철 요금은 8년째 묶여 있다. 300원~400원 올린다고 하더라도]]></content>
     </entry>
 </feed>
