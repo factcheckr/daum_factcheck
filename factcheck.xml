@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-06T23:21:03.188Z</updated>
+    <updated>2023-02-07T01:43:26.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 지하철 노인 무임승차 비용부담, 정부 책임이냐 지자체 책임이냐]]></title>
+        <id>https://v.daum.net/v/20230207095943162</id>
+        <link href="https://v.daum.net/v/20230207095943162"/>
+        <updated>2023-02-07T01:41:19.939Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 서울시의 대중교통 요금 인상 발표와 맞물려 노인들의 지하철 무료이용을 둘러싼 해묵은 논란에 다시 불이 붙었다. 서울시가 4월 버스·지하철 요금을 300∼400원 인상한다고 예고한 뒤 지난주 오세훈 서울시장이 노인 지하철 무임승차로 생기는 운영 손실을 정부가 보전해준다면 교통요금 인상 폭을 낮출 수 있다고 언급하면서다. 그동안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
         <id>https://v.daum.net/v/20230206202805186</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230201105816117"/>
         <updated>2023-02-01T02:58:56.216Z</updated>
         <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "난방비 대란 2025년까지 지속될 것"]]></title>
-        <id>https://v.daum.net/v/20230201104306400</id>
-        <link href="https://v.daum.net/v/20230201104306400"/>
-        <updated>2023-02-01T01:55:41.957Z</updated>
-        <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네 탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰]]></content>
     </entry>
 </feed>
