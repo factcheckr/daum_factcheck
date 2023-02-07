@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-07T04:26:40.471Z</updated>
+    <updated>2023-02-07T05:19:57.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '극단적 선택 방법' 검색만 해도 경찰이 찾아온다?...사실은 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230207140933329</id>
+        <link href="https://v.daum.net/v/20230207140933329"/>
+        <updated>2023-02-07T05:18:31.638Z</updated>
+        <content type="html"><![CDATA[최근 MBN은 서울 용산경찰서가 국내 대형 포털 사이트를 압수수색했다는 보도를 전해드렸습니다. 지난해 5월 벌어졌던 ‘대통령실 실탄 분실’ 사건 때문이었는데요. 아직도 실탄을 가져간 사람이 누구인지 밝혀지지 않은 상황인데, 경찰이 포털에서 ‘실탄 분실’과 관련한 각종 검색 데이터를 확보해 범인을 추적하려 한거죠. 이 보도가 나온 뒤 온라인이 발칵 뒤집어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 지하철 노인 무임승차 비용부담, 정부 책임이냐 지자체 책임이냐 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230207095943162</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230202113904958"/>
         <updated>2023-02-02T02:48:34.945Z</updated>
         <content type="html"><![CDATA[65세 이상 노인에 대한 지하철 무임승차 제도가 정치권 화두로 떠올랐습니다. 포문은 오세훈 서울시장이 열었습니다. 오 시장은 지난 30일 신년 기자 간담회에서 정부가 무임 수송 비용을 지원해줄 것을 요청했습니다. 다음 날, 국민의힘 주호영 원내대표도 공감을 나타냈습니다. &nbsp;   "서울 지하철 요금은 8년째 묶여 있다. 300원~400원 올린다고 하더라도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230201105816117</id>
-        <link href="https://v.daum.net/v/20230201105816117"/>
-        <updated>2023-02-01T02:58:56.216Z</updated>
-        <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['무임승차' 얼마나 부담이길래…사회적 편익 가치는? (다음 뉴스 ─ SBS 사실은)]]></title>
