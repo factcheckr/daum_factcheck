@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-09T02:52:54.026Z</updated>
+    <updated>2023-02-09T03:26:30.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조국 ‘감찰 무마’ 유죄라면…윤 대통령 ‘감찰 방해 의혹’은? [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20230209120507933</id>
+        <link href="https://v.daum.net/v/20230209120507933"/>
+        <updated>2023-02-09T03:25:27.336Z</updated>
+        <content type="html"><![CDATA[조국 전 법무부 장관의 ‘유재수 감찰무마 의혹’ 관련 직권남용권리행사방해 혐의가 인정됐다. 법원은 조 전 장관이 정치권의 청탁을 받아 부당하게 유재수 전 부산시 경제부시장에 대한 감찰 중단을 지시했다고 판단했다. ‘직권을 남용해 감찰을 중단시켰다’는 구조는 윤석열 대통령이 검찰총장 시절 이른바 ‘&lt;채널에이(A)&gt; 사건’ 관련 감찰을 부당하게 중단시켰다는 ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 윤 대통령 '당비 300만 원'은 정해져 있는 것 아니다?...국민의힘 당규 봤더니]]></title>
         <id>https://v.daum.net/v/20230208021315402</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230203201523399"/>
         <updated>2023-02-03T11:17:45.954Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 그럼 65살 이상은 돈을 내지 않는 제도 때문에 서울 지하철 재정이 정말 얼마나 나빠진 건지 이 부분도 따져보겠습니다. 그리고 한 발 더 나가서 지하철의 적자를 줄이는 점에만 초점을 두는 게 과연 맞는 건지도 살펴보겠습니다. 저희 팩트체크 사실은 팀, 이경원 기자가 전하겠습니다. &lt;기자&gt; 서울 지하철의 최근 5년 치 데이터를 확인해 봤습니다. 쭉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["집값 폭등은 저금리 아닌 문재인 탓" 언론보도는 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230203121201342</id>
-        <link href="https://v.daum.net/v/20230203121201342"/>
-        <updated>2023-02-03T03:25:10.565Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ 주택가격에 금리가 미치는 영향에 대한 언론 논조는 불과 1~2년 사이 정반대로 바뀌었다&nbsp;지난 2021년 1월 6일 “부동산값 급등, 저금리 아닌 정부 정책 탓”이라고 보도했던 &lt;국민일보&gt;는 지난 2022년 12월 13일에는 “정책도, 공급도 무의미… 2023년 부동산 시장, 금리에 달렸다”라고 보도했다.ⓒ 한국언론진흥재단 빅카인즈&nbsp; [검]]></content>
     </entry>
 </feed>
