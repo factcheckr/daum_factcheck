@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-10T21:19:53.761Z</updated>
+    <updated>2023-02-10T22:21:41.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 2055년 국민연금 고갈되면, 한 푼도 못 받게 되나?]]></title>
+        <id>https://v.daum.net/v/20230211070047793</id>
+        <link href="https://v.daum.net/v/20230211070047793"/>
+        <updated>2023-02-10T22:20:26.426Z</updated>
+        <content type="html"><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것이라는 전망을 내놨습니다. '제5차 국민연금 재정추계'를 통해 내놓은 전망치입니다. 2040년에 정점(1,755조 원)을 찍은 뒤 빠르게 감소해 2055년에는 아예 소진된다는 건데, 저출산·고령화 심화와 경기 둔화 등의 영향으로 5년 전 이뤄졌던 '4차 재정추계' 때]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 무임승차 70세 상향은 위법한가?...'대구시 VS 서울시' 정반대 해석]]></title>
+        <id>https://v.daum.net/v/20230211055209141</id>
+        <link href="https://v.daum.net/v/20230211055209141"/>
+        <updated>2023-02-10T22:20:26.431Z</updated>
+        <content type="html"><![CDATA[[앵커] 지방자치단체에서 운영하는 지하철 사업의 적자가 누적되고 있는 가운데 대구시가 현재 65세 이상인 무임승차 연령 기준을 70세로 높이겠다는 방침을 밝혔습니다. 노인단체는 위법 행위라고 반발하고 있고 서울시 역시 대구시와 반대되는 법률 해석을 내놓고 있는데요. 무임승차 연령 기준을 높이는 정책이 위법한지 적법한지 한동오 기자가 따져봤습니다. []]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 정당 국고보조금은 세계적으로 드문 제도다?]]></title>
         <id>https://v.daum.net/v/20230210142614746</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230205050010426"/>
         <updated>2023-02-04T20:20:06.973Z</updated>
         <content type="html"><![CDATA[서울 서대문구 신촌거리의 상점에 '폐업 현수막'이 걸려 있다. /뉴스1 [파이낸셜뉴스] 코로나19 사태 이후 자영업자의 시름 소리는 이제 일상이 됐다. '직원보다 못 버는 사장, 아르바이트비도 줄 수 없는 나홀로 사장' 등의 언론 보도는 심심치 않게 볼 수 있다. 김상훈 국민의힘 의원도 지난해 "지난 정부 5년간 급격한 최저임금 인상과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크K] ‘엉터리 구직자’ 막겠다는 정부, 얼마나 되길래?]]></title>
-        <id>https://v.daum.net/v/20230204090527442</id>
-        <link href="https://v.daum.net/v/20230204090527442"/>
-        <updated>2023-02-04T01:41:00.115Z</updated>
-        <content type="html"><![CDATA[정부가 최근 실업급여 제도를 대폭 손보겠다고 밝혔습니다. 실업급여 수급 기준을 강화하고 현금(급여) 지원보다 재취업 촉진 서비스를 강화하는 쪽으로 무게중심을 옮기겠다는 구상입니다. 실업급여는 고용보험에 가입한 노동자가 실직해 재취업 활동을 하는 동안 정부가 소정의 급여를 지급하는 제도입니다. 실업으로 인한 생계불안을 줄이고 재취업 기회를 지원해 노동시장이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]여성민방위 논란…'전시･재난교육 민방위가 답?']]></title>
-        <id>https://v.daum.net/v/20230204090301381</id>
-        <link href="https://v.daum.net/v/20230204090301381"/>
-        <updated>2023-02-04T01:41:00.120Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. &nbsp;오늘은 어떤 주제를 준비했나요? ◆ 선정수 &gt; 유력]]></content>
     </entry>
 </feed>

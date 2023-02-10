@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2023-02-10T21:19:53.759Z</updated>
+    <updated>2023-02-10T22:21:41.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2055년 국민연금 고갈되면, 한 푼도 못 받게 되나?]]></title>
+        <id>https://v.daum.net/v/20230211070047793</id>
+        <link href="https://v.daum.net/v/20230211070047793"/>
+        <updated>2023-02-10T22:20:59.018Z</updated>
+        <content type="html"><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것이라는 전망을 내놨습니다. '제5차 국민연금 재정추계'를 통해 내놓은 전망치입니다. 2040년에 정점(1,755조 원)을 찍은 뒤 빠르게 감소해 2055년에는 아예 소진된다는 건데, 저출산·고령화 심화와 경기 둔화 등의 영향으로 5년 전 이뤄졌던 '4차 재정추계' 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북 미공개 활성단층 보고서 단독 입수…“전국 20여 곳 활성단층 추정”]]></title>
         <id>https://v.daum.net/v/20221222195728416</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220825070020027"/>
         <updated>2022-11-16T17:34:52.518Z</updated>
         <content type="html"><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이) 개인정보라고 이미 다 파기를 했다, 그게 팩트입니다. 저한테는. 그런데 자꾸 거짓말 하신다고 그러니...” -김대기 대통령 비서실장 / 23일 국회 운영위원회 발언 지난 23일 국회에서 열린 운영위원회 전체회의에  김대기 대통령 비서실장이 출석했습니다. 김 실장은 윤석열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다?]]></title>
-        <id>https://v.daum.net/v/20220818080003239</id>
-        <link href="https://v.daum.net/v/20220818080003239"/>
-        <updated>2022-11-16T17:34:52.519Z</updated>
-        <content type="html"><![CDATA[최근 기자에게  전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는 주장인데요. 카톡뿐 아니라 인터넷 게시판 등에도 퍼져있는 내용입니다. 실제로 충전 중이던 휴대폰에 감전되거나 심할 경우 목숨까지 잃었다는 소식이 국내외 언론 보도를 통해 알려지기도 했습니다. 인터넷 공간에서 유포 글 내용이 "도시 괴담에 불과하다"]]></content>
     </entry>
 </feed>
