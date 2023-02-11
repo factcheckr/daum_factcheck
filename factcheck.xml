@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-10T23:22:07.850Z</updated>
+    <updated>2023-02-11T01:39:37.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크] 챗GPT로 팩트체크도 가능할까?]]></title>
+        <id>https://v.daum.net/v/20230211090301865</id>
+        <link href="https://v.daum.net/v/20230211090301865"/>
+        <updated>2023-02-11T01:38:33.336Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 2055년 국민연금 고갈되면, 한 푼도 못 받게 되나?]]></title>
         <id>https://v.daum.net/v/20230211070047793</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230206150715115"/>
         <updated>2023-02-06T06:28:22.148Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 여성가족부가 제3차 양성평등정책 기본계획을 발표한 지난달 26일 이른바 '비(非)동의 강간죄'가 화제로 떠올랐다. 여가부가 형법상 강간죄의 구성요건을 현재의 '폭행·협박'에서 '동의 여부'로 개정하는 방안을 검토하겠다며 비동의 강간죄의 도입을 시사했다가 법무부의 반대로 이를 철회하면서다. 권성동 국민의힘 의원도 이날 자신의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 5인 미만 사업장도 근로기준법 적용?…"코로나 겨우 버티는데…소상공인 줄폐업 할 것"]]></title>
-        <id>https://v.daum.net/v/20230205050010426</id>
-        <link href="https://v.daum.net/v/20230205050010426"/>
-        <updated>2023-02-04T20:20:06.973Z</updated>
-        <content type="html"><![CDATA[서울 서대문구 신촌거리의 상점에 '폐업 현수막'이 걸려 있다. /뉴스1 [파이낸셜뉴스] 코로나19 사태 이후 자영업자의 시름 소리는 이제 일상이 됐다. '직원보다 못 버는 사장, 아르바이트비도 줄 수 없는 나홀로 사장' 등의 언론 보도는 심심치 않게 볼 수 있다. 김상훈 국민의힘 의원도 지난해 "지난 정부 5년간 급격한 최저임금 인상과]]></content>
     </entry>
 </feed>
