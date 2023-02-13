@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-13T05:21:09.470Z</updated>
+    <updated>2023-02-13T06:28:07.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 챗GPT가 쓴 추리소설을 책으로 출판하면 저작권법 위반일까?]]></title>
+        <id>https://v.daum.net/v/20230213142808397</id>
+        <link href="https://v.daum.net/v/20230213142808397"/>
+        <updated>2023-02-13T06:26:55.339Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 대화형 인공지능(AI) '챗GPT'가 사람이 쓴 글과 구분하기 힘들 만큼 자연스러운 문서 작성 능력을 선보이며 전 세계적으로 폭발적인 관심을 불러일으키고 있다. 지금까지 AI가 쓴 글은 문맥이 부자연스럽거나 어색해 사람, 특히 성인이 쓴 글과 구분이 대체로 쉬웠지만 비약적으로 발전한 챗GPT의 역량은 AI가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대중교통 노인 무임승차, 정말 국가적 손해일까?]]></title>
         <id>https://v.daum.net/v/20230213125704901</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230207095943162"/>
         <updated>2023-02-07T01:41:19.939Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 서울시의 대중교통 요금 인상 발표와 맞물려 노인들의 지하철 무료이용을 둘러싼 해묵은 논란에 다시 불이 붙었다. 서울시가 4월 버스·지하철 요금을 300∼400원 인상한다고 예고한 뒤 지난주 오세훈 서울시장이 노인 지하철 무임승차로 생기는 운영 손실을 정부가 보전해준다면 교통요금 인상 폭을 낮출 수 있다고 언급하면서다. 그동안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
-        <id>https://v.daum.net/v/20230206202805186</id>
-        <link href="https://v.daum.net/v/20230206202805186"/>
-        <updated>2023-02-06T12:59:42.332Z</updated>
-        <content type="html"><![CDATA[[앵커] "기상 관측용 풍선이 실수로 미국까지 날아간거다" 이게 지금 중국의 입장인건데요, 하나하나 다시 따져보겠습니다. 윤샘이나 기자가 나와 있습니다. 이 풍선이, 중국 정부 말대로 정말로 기상관측용일 가능성이 있습니까? [기자] 지금 보시는 이 물체, 최근 며칠간 전 세계가 숨죽이고 지켜본 풍선입니다. 외형과 제원만 보면 기상 관측용과는 일단 거리가 좀]]></content>
     </entry>
 </feed>
