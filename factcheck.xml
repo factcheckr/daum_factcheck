@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-13T03:28:23.091Z</updated>
+    <updated>2023-02-13T04:27:15.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대중교통 노인 무임승차, 정말 국가적 손해일까?]]></title>
+        <id>https://v.daum.net/v/20230213125704901</id>
+        <link href="https://v.daum.net/v/20230213125704901"/>
+        <updated>2023-02-13T04:26:05.441Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 2월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스탑 팩트체커 [팩트체크] 대중교통 노인 무임승차, 정말 국가적 손해일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크] 챗GPT로 팩트체크도 가능할까?]]></title>
         <id>https://v.daum.net/v/20230211090301865</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230206202805186"/>
         <updated>2023-02-06T12:59:42.332Z</updated>
         <content type="html"><![CDATA[[앵커] "기상 관측용 풍선이 실수로 미국까지 날아간거다" 이게 지금 중국의 입장인건데요, 하나하나 다시 따져보겠습니다. 윤샘이나 기자가 나와 있습니다. 이 풍선이, 중국 정부 말대로 정말로 기상관측용일 가능성이 있습니까? [기자] 지금 보시는 이 물체, 최근 며칠간 전 세계가 숨죽이고 지켜본 풍선입니다. 외형과 제원만 보면 기상 관측용과는 일단 거리가 좀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 비동의 강간죄 도입되면 '동의 없었다' 피해자 진술만으로 유죄?]]></title>
-        <id>https://v.daum.net/v/20230206150715115</id>
-        <link href="https://v.daum.net/v/20230206150715115"/>
-        <updated>2023-02-06T06:28:22.148Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 여성가족부가 제3차 양성평등정책 기본계획을 발표한 지난달 26일 이른바 '비(非)동의 강간죄'가 화제로 떠올랐다. 여가부가 형법상 강간죄의 구성요건을 현재의 '폭행·협박'에서 '동의 여부'로 개정하는 방안을 검토하겠다며 비동의 강간죄의 도입을 시사했다가 법무부의 반대로 이를 철회하면서다. 권성동 국민의힘 의원도 이날 자신의]]></content>
     </entry>
 </feed>
