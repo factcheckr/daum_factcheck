@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-14T19:18:59.771Z</updated>
+    <updated>2023-02-14T20:23:58.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '라돈침대 사태' 5년…'안전 인증' 없어도 안전하다?]]></title>
+        <id>https://v.daum.net/v/20230215050012995</id>
+        <link href="https://v.daum.net/v/20230215050012995"/>
+        <updated>2023-02-14T20:22:45.994Z</updated>
+        <content type="html"><![CDATA[지난 2018년 10월 '라돈침대 사태'로 충남 당진시 당진 동부항만 야적장에서 보관돼 있던 라돈검출 매트리스가 운반차량에 옮겨지고 있다. /뉴스1 라돈침대 사태가 발생한 지난 2018년 충남 천안 대진침대 본사에서 라돈침대 매트리스 해체 작업이 진행돼 매트리스들이 쌓여있는 모습. /뉴시스 지난 2018년 5월,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니]]></title>
         <id>https://v.daum.net/v/20230214220715609</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230211070047793"/>
         <updated>2023-02-10T22:20:26.426Z</updated>
         <content type="html"><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것이라는 전망을 내놨습니다. '제5차 국민연금 재정추계'를 통해 내놓은 전망치입니다. 2040년에 정점(1,755조 원)을 찍은 뒤 빠르게 감소해 2055년에는 아예 소진된다는 건데, 저출산·고령화 심화와 경기 둔화 등의 영향으로 5년 전 이뤄졌던 '4차 재정추계' 때]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 무임승차 70세 상향은 위법한가?...'대구시 VS 서울시' 정반대 해석]]></title>
-        <id>https://v.daum.net/v/20230211055209141</id>
-        <link href="https://v.daum.net/v/20230211055209141"/>
-        <updated>2023-02-10T22:20:26.431Z</updated>
-        <content type="html"><![CDATA[[앵커] 지방자치단체에서 운영하는 지하철 사업의 적자가 누적되고 있는 가운데 대구시가 현재 65세 이상인 무임승차 연령 기준을 70세로 높이겠다는 방침을 밝혔습니다. 노인단체는 위법 행위라고 반발하고 있고 서울시 역시 대구시와 반대되는 법률 해석을 내놓고 있는데요. 무임승차 연령 기준을 높이는 정책이 위법한지 적법한지 한동오 기자가 따져봤습니다. []]></content>
     </entry>
 </feed>
