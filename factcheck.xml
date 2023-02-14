@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-14T20:23:58.655Z</updated>
+    <updated>2023-02-14T21:20:19.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9급 초임 공무원은 정말 최저임금도 못 받을까[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230215053038603</id>
+        <link href="https://v.daum.net/v/20230215053038603"/>
+        <updated>2023-02-14T21:18:45.292Z</updated>
+        <content type="html"><![CDATA[[이데일리 최정훈 기자] 올해부터 최저임금 기준 월급 200만원 시대를 맞았다. 사회관계망서비스(SNS)와 온라인 커뮤니티 등에서는 최저임금법을 적용받지 않는 9급 초임 공무원들의 월급이 이제 최저임금 수준에도 미치지 못한다는 이야기가 심심찮게 나온다. 정말 9급 초임 공무원이 받는 보수는 최저임금에 미달할까? 9급 초임 공무원 월 보수액 최저임금보다 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '라돈침대 사태' 5년…'안전 인증' 없어도 안전하다?]]></title>
         <id>https://v.daum.net/v/20230215050012995</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230211090301865"/>
         <updated>2023-02-11T01:38:33.336Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요? ◆]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 2055년 국민연금 고갈되면, 한 푼도 못 받게 되나?]]></title>
-        <id>https://v.daum.net/v/20230211070047793</id>
-        <link href="https://v.daum.net/v/20230211070047793"/>
-        <updated>2023-02-10T22:20:26.426Z</updated>
-        <content type="html"><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것이라는 전망을 내놨습니다. '제5차 국민연금 재정추계'를 통해 내놓은 전망치입니다. 2040년에 정점(1,755조 원)을 찍은 뒤 빠르게 감소해 2055년에는 아예 소진된다는 건데, 저출산·고령화 심화와 경기 둔화 등의 영향으로 5년 전 이뤄졌던 '4차 재정추계' 때]]></content>
     </entry>
 </feed>
