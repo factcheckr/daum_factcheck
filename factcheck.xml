@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-14T08:28:39.294Z</updated>
+    <updated>2023-02-14T09:23:07.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니]]></title>
+        <id>https://v.daum.net/v/20230214180716250</id>
+        <link href="https://v.daum.net/v/20230214180716250"/>
+        <updated>2023-02-14T09:21:57.525Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니]]></title>
         <id>https://v.daum.net/v/20230214154016586</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230210142614746"/>
         <updated>2023-02-10T06:33:36.709Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정당을 보호·육성하고자 국가가 세금으로 지원하는 '정당 국고보조금'이 또다시 입길에 오르고 있다. 조경태 국민의힘 의원은 지난달 16일 당 대표 출마를 선언하면서 정당 국고보조금 폐지를 공약으로 제시했다. 국고보조금이 정당에 필요한 자금을 '보조'하라는 당초 취지와 달리 정당의 '주요' 수입원으로 자리 잡은 점을 그 이유로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조국 ‘감찰 무마’ 유죄…윤 대통령 ‘감찰 방해 의혹’은? [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20230209120507933</id>
-        <link href="https://v.daum.net/v/20230209120507933"/>
-        <updated>2023-02-09T03:25:27.336Z</updated>
-        <content type="html"><![CDATA[조국 전 법무부 장관의 ‘유재수 감찰무마 의혹’ 관련 직권남용권리행사방해 혐의가 인정됐다. 법원은 조 전 장관이 정치권의 청탁을 받아 부당하게 유재수 전 부산시 경제부시장에 대한 감찰 중단을 지시했다고 판단했다. ‘직권을 남용해 감찰을 중단시켰다’는 구조는 윤석열 대통령이 검찰총장 시절 이른바 ‘&lt;채널에이(A)&gt; 사건’ 관련 감찰을 부당하게 중단시켰다는 ‘]]></content>
     </entry>
 </feed>
