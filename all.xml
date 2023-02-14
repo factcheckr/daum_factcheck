@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T06:31:01.054Z</updated>
+    <updated>2023-02-14T07:21:07.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230214154016586</id>
+        <link href="https://v.daum.net/v/20230214154016586"/>
+        <updated>2023-02-14T07:20:09.409Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 탄핵소추하려면 형사상 수사·기소가 먼저 있어야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230214135856475</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230209120507933"/>
         <updated>2023-02-09T03:25:27.336Z</updated>
         <content type="html"><![CDATA[조국 전 법무부 장관의 ‘유재수 감찰무마 의혹’ 관련 직권남용권리행사방해 혐의가 인정됐다. 법원은 조 전 장관이 정치권의 청탁을 받아 부당하게 유재수 전 부산시 경제부시장에 대한 감찰 중단을 지시했다고 판단했다. ‘직권을 남용해 감찰을 중단시켰다’는 구조는 윤석열 대통령이 검찰총장 시절 이른바 ‘&lt;채널에이(A)&gt; 사건’ 관련 감찰을 부당하게 중단시켰다는 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 윤 대통령 '당비 300만 원'은 정해져 있는 것 아니다?...국민의힘 당규 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230208021315402</id>
-        <link href="https://v.daum.net/v/20230208021315402"/>
-        <updated>2023-02-07T17:22:24.396Z</updated>
-        <content type="html"><![CDATA[[앵커] 국민의힘 당 대표 선거 과정에서 뜬금없이 대통령과 당 대표 등의 당비 납부 액수가 관심을 끌고 있습니다. 대통령이 당비를 300만 원이나 내는데 선거 과정에서 말도 못하냐는 대통령실 입장이 나온 뒤, 여당 정책위의장은 당에 대한 애정이 커서 당비를 많이 내는 것이라는 설명도 덧붙였는데요. 신호 기자가 국민의힘 당규를 살펴봤습니다. [기자]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국 민주주의 지수 8단계 하락" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
