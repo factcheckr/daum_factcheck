@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T12:44:17.622Z</updated>
+    <updated>2023-02-14T13:32:08.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230214220715609</id>
+        <link href="https://v.daum.net/v/20230214220715609"/>
+        <updated>2023-02-14T13:31:09.664Z</updated>
+        <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230214180716250</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230211055209141"/>
         <updated>2023-02-10T22:20:26.431Z</updated>
         <content type="html"><![CDATA[[앵커] 지방자치단체에서 운영하는 지하철 사업의 적자가 누적되고 있는 가운데 대구시가 현재 65세 이상인 무임승차 연령 기준을 70세로 높이겠다는 방침을 밝혔습니다. 노인단체는 위법 행위라고 반발하고 있고 서울시 역시 대구시와 반대되는 법률 해석을 내놓고 있는데요. 무임승차 연령 기준을 높이는 정책이 위법한지 적법한지 한동오 기자가 따져봤습니다. []]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 정당 국고보조금은 세계적으로 드문 제도다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230210142614746</id>
-        <link href="https://v.daum.net/v/20230210142614746"/>
-        <updated>2023-02-10T06:33:36.709Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정당을 보호·육성하고자 국가가 세금으로 지원하는 '정당 국고보조금'이 또다시 입길에 오르고 있다. 조경태 국민의힘 의원은 지난달 16일 당 대표 출마를 선언하면서 정당 국고보조금 폐지를 공약으로 제시했다. 국고보조금이 정당에 필요한 자금을 '보조'하라는 당초 취지와 달리 정당의 '주요' 수입원으로 자리 잡은 점을 그 이유로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국 민주주의 지수 8단계 하락" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
