@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-15T18:28:19.545Z</updated>
+    <updated>2023-02-15T19:19:40.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[“관리자가 테러 조직원” 튀르키예 대사관이 지목한 ‘이 단체’의 정체는?[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230215151054722</id>
