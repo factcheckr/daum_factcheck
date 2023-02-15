@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-15T05:21:31.852Z</updated>
+    <updated>2023-02-15T06:30:15.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“관리자가 테러 조직원” 튀르키예 대사관이 지목한 ‘이 단체’의 정체는?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230215151054722</id>
+        <link href="https://v.daum.net/v/20230215151054722"/>
+        <updated>2023-02-15T06:28:58.791Z</updated>
+        <content type="html"><![CDATA[“서울의‘Global Business Alliance(GBA)’라는 이름의 조직은 우리 대사관과 아무런 관련이 없으며, 해당 관리자는 테러 조직 구성원으로 튀르키예에서 수배 중인 사람입니다. 이러한 이유로 해당 기관에 모집된 기부금이 튀르키예에 전달될 가능성은 전혀 없습니다.” - 주한튀르키예대사관 페이스북 주한튀르키예대사관은 지난 12일 튀르키예 지진 구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 발언은 사실입니까?" 챗GPT에 물어보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230215131801967</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230213142808397"/>
         <updated>2023-02-13T06:26:55.339Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 대화형 인공지능(AI) '챗GPT'가 사람이 쓴 글과 구분하기 힘들 만큼 자연스러운 문서 작성 능력을 선보이며 전 세계적으로 폭발적인 관심을 불러일으키고 있다. 지금까지 AI가 쓴 글은 문맥이 부자연스럽거나 어색해 사람, 특히 성인이 쓴 글과 구분이 대체로 쉬웠지만 비약적으로 발전한 챗GPT의 역량은 AI가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대중교통 노인 무임승차, 정말 국가적 손해일까?]]></title>
-        <id>https://v.daum.net/v/20230213125704901</id>
-        <link href="https://v.daum.net/v/20230213125704901"/>
-        <updated>2023-02-13T04:26:05.441Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 2월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스탑 팩트체커 [팩트체크] 대중교통 노인 무임승차, 정말 국가적 손해일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
     </entry>
 </feed>
