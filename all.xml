@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-16T23:24:11.966Z</updated>
+    <updated>2023-02-17T01:53:22.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '노인은 65세 이상' 기준은 독일 비스마르크 수상 때 시작됐다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230217103324037</id>
+        <link href="https://v.daum.net/v/20230217103324037"/>
+        <updated>2023-02-17T01:50:19.231Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 서울시의 대중교통 요금 인상 방침으로 노인 지하철 무임승차 정책이 논란의 도마 위에 오르면서 노인의 연령 기준에 관심이 쏠리고 있다. 국내에선 통상 65세 이상이면 노인으로 간주돼 국가로부터 지하철 무임승차를 비롯한 각종 혜택을 받게 된다. 이 65세라는 기준의 연원은 어디일까? 이 기준은 아직도 타당하다고 볼 수 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘김건희 계좌’ 거래 48건 유죄…‘큰손’ 손씨 0건과 대조적 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230217070505358</id>
+        <link href="https://v.daum.net/v/20230217070505358"/>
+        <updated>2023-02-17T01:50:19.233Z</updated>
+        <content type="html"><![CDATA[‘도이치모터스 주가조작 사건’을 심리한 서울중앙지법 형사23부(재판장 조병구)는 지난 10일 범행을 주도한 권오수 전 회장 등에게 ‘유죄’ 판결을 내리면서, ‘전주’ 가운데 유일하게 기소된 한 디자인업체 대표 손아무개씨를 무죄로 판결했다. 당시 대통령실은 손씨 무죄 선고를 근거로 “대통령 배우자가 전주로서 주가조작에 관여했다는 더불어민주당의 주장도 깨졌다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크K] 튀르키예 지진 기부 전 ‘이것’ 유의하세요 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230217070030265</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20230214180716250"/>
         <updated>2023-02-14T09:21:57.525Z</updated>
         <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230214154016586</id>
-        <link href="https://v.daum.net/v/20230214154016586"/>
-        <updated>2023-02-14T07:20:09.409Z</updated>
-        <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 탄핵소추하려면 형사상 수사·기소가 먼저 있어야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230214135856475</id>
-        <link href="https://v.daum.net/v/20230214135856475"/>
-        <updated>2023-02-14T05:21:02.833Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 이상민 행정안전부 장관에 대한 탄핵소추를 둘러싼 정치권의 공방이 거세다. 더불어민주당 등 야 3당이 지난 8일 국회 본회의에서 이태원 참사 대응 부실의 책임을 물어 공동 발의한 탄핵소추안을 가결하자, 정부·여당은 탄핵을 추진할 만큼 중대한 법 위반이 드러난 게 없다며 반발했다. 송언석 국민의힘 원내수석부대표는 국회 표결에 앞]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국 민주주의 지수 8단계 하락" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
