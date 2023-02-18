@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-02-18T01:50:00.540Z</updated>
+    <updated>2023-02-18T02:49:20.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선 결과 모른다던 챗GPT "이재명이 윤석열 이겼다"?]]></title>
+        <id>https://v.daum.net/v/20230218110301051</id>
+        <link href="https://v.daum.net/v/20230218110301051"/>
+        <updated>2023-02-18T02:49:09.499Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난해 3월 제20대 대통령 선거 당시 이재명 더불어민주당 후보와 윤석열 국민의힘 후보.ⓒ 국회사진취재단&nbsp; "챗GPT가 해킹 당했나요?" 2021년까지 데이터만 학습해 2022년 3월 한국 대선 결과는 모른다고 알려진 대화형 인공지능(AI) 서비스 '챗GPT(Chat Generative Pre-trained Transformer)'가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 발언은 사실입니까?" 챗GPT에 물어보니]]></title>
         <id>https://v.daum.net/v/20230215131801967</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221107185701650"/>
         <updated>2023-01-15T11:16:38.745Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ 앙다문 정진석&nbsp;정진석 국민의힘 비상대책위원장이 4일 오전 서울 여의도 국회에서 싱하이밍 주한중국대사 접견에 앞서 입을 앙다물고 있다.    ⓒ 남소연  &nbsp; &nbsp; [검증 대상] 정진석 "서울 시내 모든 경찰 기동대 촛불 집회 투입" "서울 시내 모든 경찰 기동대가 이 집회에 질서 투입됐고, 그날 밤(10월 29일) 이태원에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문수 "민주노총 산별위원장과 만났다" 대체로 거짓]]></title>
-        <id>https://v.daum.net/v/20221019173601550</id>
-        <link href="https://v.daum.net/v/20221019173601550"/>
-        <updated>2023-01-15T11:16:38.747Z</updated>
-        <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;김문수 경제사회노동위원장이 지난 12일 서울 여의도 국회에서 열린 환경노동위원회의 경제사회노동위원회 등에 대한 국정감사에 출석해 마스크를 쓰고 있다.    ⓒ 남소연  &nbsp; [검증 대상] 김문수 "민주노총 산별 위원장과 만났다" 김문수 경제사회노동위원회(경사노위) 위원장이&nbsp;지난 12일 국회 환경노동위원회 경사노위 국정감사장]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-18T01:50:00.556Z</updated>
+    <updated>2023-02-18T02:49:20.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대선 결과 모른다던 챗GPT "이재명이 윤석열 이겼다"? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230218110301051</id>
+        <link href="https://v.daum.net/v/20230218110301051"/>
+        <updated>2023-02-18T02:47:10.694Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난해 3월 제20대 대통령 선거 당시 이재명 더불어민주당 후보와 윤석열 국민의힘 후보.ⓒ 국회사진취재단&nbsp; "챗GPT가 해킹 당했나요?" 2021년까지 데이터만 학습해 2022년 3월 한국 대선 결과는 모른다고 알려진 대화형 인공지능(AI) 서비스 '챗GPT(Chat Generative Pre-trained Transformer)'가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]지진 골든타임 72시간…어떻게 나온걸까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230218090301698</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230215050012995"/>
         <updated>2023-02-14T20:22:45.994Z</updated>
         <content type="html"><![CDATA[지난 2018년 10월 '라돈침대 사태'로 충남 당진시 당진 동부항만 야적장에서 보관돼 있던 라돈검출 매트리스가 운반차량에 옮겨지고 있다. /뉴스1 라돈침대 사태가 발생한 지난 2018년 충남 천안 대진침대 본사에서 라돈침대 매트리스 해체 작업이 진행돼 매트리스들이 쌓여있는 모습. /뉴시스 지난 2018년 5월,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 태영호 "제주 4·3 사건, 김일성 지시로 촉발"...특별법·진상보고서 봤더니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230214220715609</id>
-        <link href="https://v.daum.net/v/20230214220715609"/>
-        <updated>2023-02-14T13:31:09.664Z</updated>
-        <content type="html"><![CDATA[[앵커] 국민의힘 태영호 의원이 '제주 4·3사건은 북한 김일성 지시로 촉발됐다'고 주장하면서 논란이 불거졌습니다. 희생자와 유족 단체는 태 의원이 낡은 색깔론을 펴고 있다며 강력히 반발했는데요. 신지원 기자가 4.3 사건 특별법과 진상보고서를 통해 발언 내용을 검증해봤습니다. [기자] 국민의힘 전당대회 첫 합동연설회 참석차 제주를 찾은 태영호 국]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국 민주주의 지수 8단계 하락" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 곽상도 의원의 아들 곽모씨가 ‘화천대유자산관리(화천대유)’로부터 받은 50억원을 둘러싸고 논란이 계속되고 있다. 이중 상당 부분이 산업재해에 따른 위로금에 해당한다고 화천대유측이 주장하면서다. 그러나 전문가들은 이같은 산재 위로금은 현실적으로 불가능하다고 입을 모았다. 28일 경향신문이 산재 사건을 처리하거나 연구해온 전문가들에게 곽씨의 산재]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대선 결과 모른다던 챗GPT "이재명이 윤석열 이겼다"? (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20230218110301051</id>
+        <link href="https://v.daum.net/v/20230218110301051"/>
+        <updated>2023-02-18T02:49:09.499Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난해 3월 제20대 대통령 선거 당시 이재명 더불어민주당 후보와 윤석열 국민의힘 후보.ⓒ 국회사진취재단&nbsp; "챗GPT가 해킹 당했나요?" 2021년까지 데이터만 학습해 2022년 3월 한국 대선 결과는 모른다고 알려진 대화형 인공지능(AI) 서비스 '챗GPT(Chat Generative Pre-trained Transformer)'가]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["윤석열 발언은 사실입니까?" 챗GPT에 물어보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230215131801967</id>
         <link href="https://v.daum.net/v/20230215131801967"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20221107185701650"/>
         <updated>2023-01-15T11:16:38.745Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ 앙다문 정진석&nbsp;정진석 국민의힘 비상대책위원장이 4일 오전 서울 여의도 국회에서 싱하이밍 주한중국대사 접견에 앞서 입을 앙다물고 있다.    ⓒ 남소연  &nbsp; &nbsp; [검증 대상] 정진석 "서울 시내 모든 경찰 기동대 촛불 집회 투입" "서울 시내 모든 경찰 기동대가 이 집회에 질서 투입됐고, 그날 밤(10월 29일) 이태원에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문수 "민주노총 산별위원장과 만났다" 대체로 거짓 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20221019173601550</id>
-        <link href="https://v.daum.net/v/20221019173601550"/>
-        <updated>2023-01-15T11:16:38.747Z</updated>
-        <content type="html"><![CDATA[[김지현 기자] ▲ &nbsp;김문수 경제사회노동위원장이 지난 12일 서울 여의도 국회에서 열린 환경노동위원회의 경제사회노동위원회 등에 대한 국정감사에 출석해 마스크를 쓰고 있다.    ⓒ 남소연  &nbsp; [검증 대상] 김문수 "민주노총 산별 위원장과 만났다" 김문수 경제사회노동위원회(경사노위) 위원장이&nbsp;지난 12일 국회 환경노동위원회 경사노위 국정감사장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 증거는 못 대면서 기상관측용 풍선? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
