@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-20T01:50:07.640Z</updated>
+    <updated>2023-02-20T03:02:59.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 태영호의 4.3 발언, 사료로 검증했습니다]]></title>
+        <id>https://v.daum.net/v/20230220110900096</id>
+        <link href="https://v.daum.net/v/20230220110900096"/>
+        <updated>2023-02-20T03:00:55.715Z</updated>
+        <content type="html"><![CDATA[지난주, 때 아닌 제주 4.3 사건이 정치권을 뜨겁게 달궜습니다. 국민의힘 최고위원 후보인 태영호 의원이 지난 12일 제주를 방문해 "제주 4·3 사건은 명백히 북한 김일성의 지시에 의해 촉발됐다"고 말한 게 그 시작이었습니다. 주영 북한대사관에서 공사로 근무하다 탈북해 망명한 태 의원은 "4·3 사건은 명백히 김씨 일가에 의해 자행된 만행이다. 김씨 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 결과 모른다던 챗GPT "이재명이 윤석열 이겼다"? [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230218110301051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230215053038603"/>
         <updated>2023-02-14T21:18:45.292Z</updated>
         <content type="html"><![CDATA[[이데일리 최정훈 기자] 올해부터 최저임금 기준 월급 200만원 시대를 맞았다. 사회관계망서비스(SNS)와 온라인 커뮤니티 등에서는 최저임금법을 적용받지 않는 9급 초임 공무원들의 월급이 이제 최저임금 수준에도 미치지 못한다는 이야기가 심심찮게 나온다. 정말 9급 초임 공무원이 받는 보수는 최저임금에 미달할까? 9급 초임 공무원 월 보수액 최저임금보다 많]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '라돈침대 사태' 5년…'안전 인증' 없어도 안전하다?]]></title>
-        <id>https://v.daum.net/v/20230215050012995</id>
-        <link href="https://v.daum.net/v/20230215050012995"/>
-        <updated>2023-02-14T20:22:45.994Z</updated>
-        <content type="html"><![CDATA[지난 2018년 10월 '라돈침대 사태'로 충남 당진시 당진 동부항만 야적장에서 보관돼 있던 라돈검출 매트리스가 운반차량에 옮겨지고 있다. /뉴스1 라돈침대 사태가 발생한 지난 2018년 충남 천안 대진침대 본사에서 라돈침대 매트리스 해체 작업이 진행돼 매트리스들이 쌓여있는 모습. /뉴시스 지난 2018년 5월,]]></content>
     </entry>
 </feed>
