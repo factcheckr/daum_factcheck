@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-21T05:23:22.443Z</updated>
+    <updated>2023-02-21T06:27:55.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 북한 유튜버 동영상을 공유하면 국가보안법 위반이다?]]></title>
+        <id>https://v.daum.net/v/20230221150103183</id>
+        <link href="https://v.daum.net/v/20230221150103183"/>
+        <updated>2023-02-21T06:26:51.373Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 북한 평양 주민의 일상생활을 소개하는 듯한 브이로그(VLOG·개인의 일상을 담은 동영상)를 보여주는 유튜브 채널이 잇따라 개설되면서 관심을 끌고 있다. 지난해 시작한 '올리비아 나타샤-유미 스페이스 DPRK(조선민주주의인민공화국의 영문 약칭) 데일리', '샐리 파크스' 같은 유튜브 채널은 평양 주민이 등장하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 '불체포특권 포기'... 할 수 있다? 없다? [팩트파인더]]]></title>
         <id>https://v.daum.net/v/20230221043050331</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230215151054722"/>
         <updated>2023-02-15T06:28:58.791Z</updated>
         <content type="html"><![CDATA[“서울의 ‘Global Business Alliance(GBA)’라는 이름의 조직은 우리 대사관과 아무런 관련이 없으며, 해당 관리자는 테러 조직 구성원으로 튀르키예에서 수배 중인 사람입니다. 이러한 이유로 해당 기관에 모집된 기부금이 튀르키예에 전달될 가능성은 전혀 없습니다.” - 주한튀르키예대사관 페이스북 주한튀르키예대사관은 지난 12일 튀르키예 지진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열 발언은 사실입니까?" 챗GPT에 물어보니 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230215131801967</id>
-        <link href="https://v.daum.net/v/20230215131801967"/>
-        <updated>2023-02-15T04:26:01.583Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령이 지난 1월 27일 청와대 영빈관에서 열린 2023년 통일부·행정안전부·국가보훈처·인사혁신처 정책방향 업무보고에서 모두 발언을 하고 있다. 그는 이날 챗GPT로 작성한 신년사를 받아 봤다고 말했다.ⓒ 대통령실 제공&nbsp; 대화형 인공지능(AI) 서비스인 '챗GPT(Chat Generative Pre-trained Transfo]]></content>
     </entry>
 </feed>
