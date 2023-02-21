@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-21T09:22:19.501Z</updated>
+    <updated>2023-02-21T10:25:14.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자살률 낮추려고 번개탄 생산 금지" 정부 발표는 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230221182710563</id>
+        <link href="https://v.daum.net/v/20230221182710563"/>
+        <updated>2023-02-21T10:23:02.474Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;보건복지부는 지난 13일 제5차 자살예방기본계획안(2023년~2027년) 공청회에서 발표한 자료에서 “자살수단으로 빈번하게 사용되는 자살위해물건(번개탄, 농약 등) 관리 강화”를 위해 “산화형 착화제가 사용된 번개탄 생산금지 및 인체 유해성이 낮은 친환경 번개탄 대체제 개발?보급”이라는 내용을 포함시켰다.ⓒ 보건복지부&nbsp;&nbsp; [검증 대상]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "권성동이 좋은 선례"...이재명 배우라는 '2018 권성동 모델'은 무엇?]]></title>
         <id>https://v.daum.net/v/20230221160708050</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230217103324037"/>
         <updated>2023-02-17T01:50:19.231Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 서울시의 대중교통 요금 인상 방침으로 노인 지하철 무임승차 정책이 논란의 도마 위에 오르면서 노인의 연령 기준에 관심이 쏠리고 있다. 국내에선 통상 65세 이상이면 노인으로 간주돼 국가로부터 지하철 무임승차를 비롯한 각종 혜택을 받게 된다. 이 65세라는 기준의 연원은 어디일까? 이 기준은 아직도 타당하다고 볼 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 계좌 거래 48건 유죄…‘큰손’ 손씨 0건과 대조적 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20230217070505358</id>
-        <link href="https://v.daum.net/v/20230217070505358"/>
-        <updated>2023-02-17T01:50:19.233Z</updated>
-        <content type="html"><![CDATA[‘도이치모터스 주가조작 사건’을 심리한 서울중앙지법 형사23부(재판장 조병구)는 지난 10일 범행을 주도한 권오수 전 회장 등에게 ‘유죄’ 판결을 내리면서, ‘전주’ 가운데 유일하게 기소된 한 디자인업체 대표 손아무개씨를 무죄로 판결했다. 당시 대통령실은 손씨 무죄 선고를 근거로 “대통령 배우자가 전주로서 주가조작에 관여했다는 더불어민주당의 주장도 깨졌다”]]></content>
     </entry>
 </feed>
