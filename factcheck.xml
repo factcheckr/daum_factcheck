@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-21T15:29:32.214Z</updated>
+    <updated>2023-02-21T16:29:54.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "권성동이 좋은 선례"...이재명 배우라는 '2018 권성동 모델'은 무엇?]]></title>
+        <id>https://v.daum.net/v/20230221232509509</id>
+        <link href="https://v.daum.net/v/20230221232509509"/>
+        <updated>2023-02-21T16:28:47.639Z</updated>
+        <content type="html"><![CDATA[[앵커] 이재명 더불어민주당 대표에 대한 체포동의안 국회 표결을 앞두고 이른바 '권성동 모델'이라는 생소한 표현이 자주 등장합니다. 5년 전 권성동 의원이 불체포특권을 내려놓고 스스로 법원 영장심사에 응한 상황을 일컫는 말인데요. 당시에도 방탄국회 논란이 없었던 것은 아닙니다. 신호 기자가 그때 상황을 되짚어봤습니다. [기자] 2018년 5월 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자살률 낮추려고 번개탄 생산 금지" 정부 발표는 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230221182710563</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230218090301698"/>
         <updated>2023-02-18T01:49:01.211Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '노인은 65세 이상' 기준은 독일 비스마르크 수상 때 시작됐다?]]></title>
-        <id>https://v.daum.net/v/20230217103324037</id>
-        <link href="https://v.daum.net/v/20230217103324037"/>
-        <updated>2023-02-17T01:50:19.231Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 서울시의 대중교통 요금 인상 방침으로 노인 지하철 무임승차 정책이 논란의 도마 위에 오르면서 노인의 연령 기준에 관심이 쏠리고 있다. 국내에선 통상 65세 이상이면 노인으로 간주돼 국가로부터 지하철 무임승차를 비롯한 각종 혜택을 받게 된다. 이 65세라는 기준의 연원은 어디일까? 이 기준은 아직도 타당하다고 볼 수 있을까?]]></content>
     </entry>
 </feed>
