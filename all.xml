@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-22T14:21:36.530Z</updated>
+    <updated>2023-02-22T15:23:56.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230222232210696</id>
+        <link href="https://v.daum.net/v/20230222232210696"/>
+        <updated>2023-02-22T15:22:54.500Z</updated>
+        <content type="html"><![CDATA[[앵커] 우리나라 자살률은 OECD 회원국 가운데 1위인데요. 정부가 자살률을 낮추기 위한 대책으로 번개탄 생산을 금지했다는 주장이 인터넷을 중심으로 퍼지고 있습니다. 실효성이 있느냐는 비판적 여론도 큰데 이런 정부 대책이 추진되고 있는지 한동오 기자가 따져봤습니다. [기자] '윤석열 정부, 자살 예방 대책 나왔다. 번개탄 생산 금지'. 인터넷과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간호사에 ‘의사 가운’ 입히고 회진…의사 부족이 낳은 불법 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230222152519427</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230221153325709"/>
         <updated>2023-02-21T07:19:27.527Z</updated>
         <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 주호영 국민의힘 원내대표는 14일 여의도 국회에서 열린 교섭단체대표연설에서 “한국 정치는 여전히 4류임을 부정하기 어렵다”며 국회의 자성을 촉구했다. 타협과 협치의 의회정치 복원을 강조한 주 원내대표는 더불어민주당을 향해선 “의회민주주의를 형해화하고 있다”고 맹공을 퍼부었다. 5선 중진인 주 원내대표는 국회 불신의 이유로 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 북한 유튜버 동영상을 공유하면 국가보안법 위반이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230221150103183</id>
-        <link href="https://v.daum.net/v/20230221150103183"/>
-        <updated>2023-02-21T06:26:51.373Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 북한 평양 주민의 일상생활을 소개하는 듯한 브이로그(VLOG·개인의 일상을 담은 동영상)를 보여주는 유튜브 채널이 잇따라 개설되면서 관심을 끌고 있다. 지난해 시작한 '올리비아 나타샤-유미 스페이스 DPRK(조선민주주의인민공화국의 영문 약칭) 데일리', '샐리 파크스' 같은 유튜브 채널은 평양 주민이 등장하]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 '불체포 특권' 포기는 가능할까요 (다음 뉴스 ─ SBS 사실은)]]></title>
