@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-22T22:22:01.096Z</updated>
+    <updated>2023-02-22T23:26:26.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 그 많던 대중목욕탕은 다 어디로 갔을까…수치로 본 목욕탕史]]></title>
+        <id>https://v.daum.net/v/20230223072324252</id>
+        <link href="https://v.daum.net/v/20230223072324252"/>
+        <updated>2023-02-22T23:24:19.202Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 그 많던 대중목욕탕은 어디로 갔을까. 과거 동네에 한두 개는 으레 있었던 목욕탕은 주말이면 가족이 함께 가던 공간이었지만 하나둘 자취를 감추면서 이제는 찾아보기가 쉽지 않게 됐다. 지금의 30·40대 이상이라면 공중목욕탕의 온탕을 수영장 삼아 놀다가 어른에게 혼이 난 기억이나, 아버지·어머니와 함께 때를 벗겨낸 뒤 달콤한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도]]></title>
         <id>https://v.daum.net/v/20230222232210696</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230221160606010"/>
         <updated>2023-02-21T07:19:27.525Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;김기현 국민의힘 당대표 후보가 20일 서울 중구 MBN 스튜디오에서 열린  TV토론회를 준비하고 있다.ⓒ 국회사진취재단&nbsp; [검증 대상] "김재철 사장 시절 언론노조 MBC 파업은 불법" "우리 안철수 후보께서는 지난번에 언론노조의 불법 파업을 지지하고 동조하는 친언론 노조 행보를 보이셨고요. 그때 김재철 사장 시절에 언론노조 MBC에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 文정부 ‘단독’ 장관급 인사 임명이 역대 최대다?]]></title>
-        <id>https://v.daum.net/v/20230221153325709</id>
-        <link href="https://v.daum.net/v/20230221153325709"/>
-        <updated>2023-02-21T07:19:27.527Z</updated>
-        <content type="html"><![CDATA[[이데일리 구동현 인턴 기자] 주호영 국민의힘 원내대표는 14일 여의도 국회에서 열린 교섭단체대표연설에서 “한국 정치는 여전히 4류임을 부정하기 어렵다”며 국회의 자성을 촉구했다. 타협과 협치의 의회정치 복원을 강조한 주 원내대표는 더불어민주당을 향해선 “의회민주주의를 형해화하고 있다”고 맹공을 퍼부었다. 5선 중진인 주 원내대표는 국회 불신의 이유로 이]]></content>
     </entry>
 </feed>
