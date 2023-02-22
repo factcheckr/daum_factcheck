@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-22T05:24:18.645Z</updated>
+    <updated>2023-02-22T06:28:47.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 ‘불법’이라 콕 찍은 ‘월례비’… 불법일까 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230222150630607</id>
+        <link href="https://v.daum.net/v/20230222150630607"/>
+        <updated>2023-02-22T06:27:48.823Z</updated>
+        <content type="html"><![CDATA[정부가&nbsp;‘건폭과 전쟁’을 선언하면서&nbsp;‘월례비’가 핵심 쟁점으로 불거졌다. 건설현장 불법행위 단속의 시급성을 강조하며&nbsp;타워크레인 기사들의 ‘월례비’를 심각한 대표적 사례로 부각시키면서다. 이에 대해선 법원&nbsp;판단도 엇갈린다. ‘임의로 지급되는 금원’이라거나&nbsp;‘불공정 거래행위’,&nbsp;‘근거 없이 요구하는 성격의 돈’이라는 판단이 잇따라 나왔지만 최근엔&nbsp;‘사실상 임금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도]]></title>
         <id>https://v.daum.net/v/20230222133421007</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230221043050331"/>
         <updated>2023-02-20T20:21:52.672Z</updated>
         <content type="html"><![CDATA[검찰의 사전 구속영장 청구 이후 이재명 더불어민주당 대표를 향한 "불체포특권을 포기하고 당당하게 법원의 영장실질심사에 응하라"는 주장이 여권은 물론 야권 일각에서도 제기되고 있다. 이 대표가 영장심사에 응하겠다는 결심만 하면 국회의원에게 부여된 불체포특권을 내려놓을 수 있는 것일까. 국회법 등을 토대로 사실 관계를 짚어봤다. ①이재명, 불체포특권 내려놓을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 태영호의 4.3 발언, 사료로 검증했습니다]]></title>
-        <id>https://v.daum.net/v/20230220110900096</id>
-        <link href="https://v.daum.net/v/20230220110900096"/>
-        <updated>2023-02-20T03:00:55.715Z</updated>
-        <content type="html"><![CDATA[지난주, 때 아닌 제주 4.3 사건이 정치권을 뜨겁게 달궜습니다. 국민의힘 최고위원 후보인 태영호 의원이 지난 12일 제주를 방문해 "제주 4·3 사건은 명백히 북한 김일성의 지시에 의해 촉발됐다"고 말한 게 그 시작이었습니다. 주영 북한대사관에서 공사로 근무하다 탈북해 망명한 태 의원은 "4·3 사건은 명백히 김씨 일가에 의해 자행된 만행이다. 김씨 정]]></content>
     </entry>
 </feed>
