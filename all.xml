@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T23:22:46.259Z</updated>
+    <updated>2023-02-22T01:47:27.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이재명 '불체포 특권' 포기는 가능할까요 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230222090600595</id>
+        <link href="https://v.daum.net/v/20230222090600595"/>
+        <updated>2023-02-22T01:45:17.748Z</updated>
+        <content type="html"><![CDATA[정부가 더불어민주당 이재명 대표에 대한 체포 동의 요구서를 지난 20일 국회에 제출했습니다. 앞서 이 대표는 위례·대장동 개발 비리와 성남FC 후원금 의혹으로 구속영장이 청구됐습니다. 국회의원 신분인 이 대표는 회기 중 국회 동의 없이 체포·구금되지 않는 불체포 특권이 있습니다. 국회 본회의에서 '체포 동의안'이 통과돼야 영장 심사를 받게 됩니다. 일단 여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "권성동이 좋은 선례"...이재명 배우라는 '2018 권성동 모델'은 무엇? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230221232509509</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230218110301051"/>
         <updated>2023-02-18T02:47:10.694Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난해 3월 제20대 대통령 선거 당시 이재명 더불어민주당 후보와 윤석열 국민의힘 후보.ⓒ 국회사진취재단&nbsp; "챗GPT가 해킹 당했나요?" 2021년까지 데이터만 학습해 2022년 3월 한국 대선 결과는 모른다고 알려진 대화형 인공지능(AI) 서비스 '챗GPT(Chat Generative Pre-trained Transformer)'가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]지진 골든타임 72시간…어떻게 나온걸까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230218090301698</id>
-        <link href="https://v.daum.net/v/20230218090301698"/>
-        <updated>2023-02-18T01:49:01.211Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임 &gt;한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태영호의 4.3 발언, 사료로 검증했습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
