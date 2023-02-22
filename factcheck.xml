@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-22T07:21:23.133Z</updated>
+    <updated>2023-02-22T08:28:50.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간호사에 ‘의사 가운’ 입혔다…의사 부족이 낳은 불법 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20230222152519427</id>
+        <link href="https://v.daum.net/v/20230222152519427"/>
+        <updated>2023-02-22T08:27:44.723Z</updated>
+        <content type="html"><![CDATA[정부 산하 기관(의료기관평가인증원)에서 병원 인증 평가를 나오면, 그 기간에는 피에이(PA·Physician Assistant) 간호사들에게 ‘너네는 눈에 띄지 말라’고 해요. 바퀴벌레 사라지듯 숨으라고 하니, 아이러니라는 생각이 드는 거죠. 나는 어느 영역에서 일하고 있는가 하고요.” &nbsp;지난 21일 &lt;한겨레&gt; 인터뷰에서 수도권 한 대형병원에서 피에이 간호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부가 ‘불법’이라 콕 찍은 ‘월례비’… 불법일까 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230222150630607</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230221150103183"/>
         <updated>2023-02-21T06:26:51.373Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 북한 평양 주민의 일상생활을 소개하는 듯한 브이로그(VLOG·개인의 일상을 담은 동영상)를 보여주는 유튜브 채널이 잇따라 개설되면서 관심을 끌고 있다. 지난해 시작한 '올리비아 나타샤-유미 스페이스 DPRK(조선민주주의인민공화국의 영문 약칭) 데일리', '샐리 파크스' 같은 유튜브 채널은 평양 주민이 등장하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 '불체포특권 포기'... 할 수 있다? 없다? [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20230221043050331</id>
-        <link href="https://v.daum.net/v/20230221043050331"/>
-        <updated>2023-02-20T20:21:52.672Z</updated>
-        <content type="html"><![CDATA[검찰의 사전 구속영장 청구 이후 이재명 더불어민주당 대표를 향한 "불체포특권을 포기하고 당당하게 법원의 영장실질심사에 응하라"는 주장이 여권은 물론 야권 일각에서도 제기되고 있다. 이 대표가 영장심사에 응하겠다는 결심만 하면 국회의원에게 부여된 불체포특권을 내려놓을 수 있는 것일까. 국회법 등을 토대로 사실 관계를 짚어봤다. ①이재명, 불체포특권 내려놓을]]></content>
     </entry>
 </feed>
