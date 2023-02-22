@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2023-02-22T01:47:26.971Z</updated>
+    <updated>2023-02-22T02:53:31.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 '불체포 특권' 포기는 가능할까요]]></title>
+        <id>https://v.daum.net/v/20230222090600595</id>
+        <link href="https://v.daum.net/v/20230222090600595"/>
+        <updated>2023-02-22T02:52:34.981Z</updated>
+        <content type="html"><![CDATA[정부가 더불어민주당 이재명 대표에 대한 체포 동의 요구서를 지난 20일 국회에 제출했습니다. 앞서 이 대표는 위례·대장동 개발 비리와 성남FC 후원금 의혹으로 구속영장이 청구됐습니다. 국회의원 신분인 이 대표는 회기 중 국회 동의 없이 체포·구금되지 않는 불체포 특권이 있습니다. 국회 본회의에서 '체포 동의안'이 통과돼야 영장 심사를 받게 됩니다. 일단 여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태영호의 4.3 발언, 사료로 검증했습니다]]></title>
         <id>https://v.daum.net/v/20230220110900096</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230111094801873"/>
         <updated>2023-01-11T01:43:19.403Z</updated>
         <content type="html"><![CDATA[최근 확정된 2022 개정 교육과정에서 5·18 민주화운동이 빠진 사실이 알려지면서 논란이 일었습니다. 야당은 윤석열 대통령이 5·18 정신을 저버렸다며 반발했고, 여당은 2022 개정 교육과정이 문재인 정부에서 시작된 거라며 맞섰습니다. 이에 교육부는 지난주 5·18 민주화 운동을 비롯한 주요 역사적 사건이 교과서에 기술되도록 하겠다는 설명 자료를 배포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신현영 징계 요청'으로 본 '의원 징계'의 정치학]]></title>
-        <id>https://v.daum.net/v/20230107090301865</id>
-        <link href="https://v.daum.net/v/20230107090301865"/>
-        <updated>2023-01-07T01:39:17.788Z</updated>
-        <content type="html"><![CDATA[여야가 이태원 참사 국정조사 기간을 열흘 연장하기로 합의했습니다. 하지만, 기간만 합의됐을 뿐입니다. 국민의힘은 민주당 신현영 의원에 대한 증인 채택을 요구하고 있습니다. 의사 출신인 신 의원은 참사 당일 명지병원 재난 의료지원팀의 긴급출동차량, 닥터카에 중도 탑승해 현장으로 이동했습니다. 이 과정에서 신 의원의 배우자가 닥터카에 동승했고 비슷한 거리에]]></content>
     </entry>
 </feed>
