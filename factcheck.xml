@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-23T03:25:31.174Z</updated>
+    <updated>2023-02-23T04:28:37.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] “김기현 울산땅, AI 감정가 11억·인근시세 최대 34억 안팎” [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230223130735455</id>
+        <link href="https://v.daum.net/v/20230223130735455"/>
+        <updated>2023-02-23T04:26:31.969Z</updated>
+        <content type="html"><![CDATA[국민의힘 3·8전당대회 당대표 후보로 출마한 김기현 의원의 ‘울산 KTX역세권 부동산 투기 의혹’이&nbsp;선거 중반&nbsp;쟁점으로 부상하고 있다. 일각에서는 김 후보자의 부동산 매수 이후&nbsp;평가차익만&nbsp;1800배, 해당 토지 가치가&nbsp;640억원에&nbsp;이른다고 주장한다.&nbsp;이에 김 후보는 23일 기자회견을 열고 “1800배 차익은 터무니없는 주장”이라고 반박했다. 임야의 경우 거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 그 많던 대중목욕탕은 다 어디로 갔을까…수치로 본 목욕탕史]]></title>
         <id>https://v.daum.net/v/20230223072324252</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230221160708050"/>
         <updated>2023-02-21T07:19:27.525Z</updated>
         <content type="html"><![CDATA[[앵커] 이재명 더불어민주당 대표에 대한 체포동의안 국회 표결을 앞두고 이른바 '권성동 모델'이라는 생소한 표현이 자주 등장합니다. 5년 전 권성동 의원이 불체포특권을 내려놓고 스스로 법원 영장심사에 응한 상황을 일컫는 말인데요. 당시에도 방탄국회 논란이 없었던 것은 아닙니다. 신호 기자가 그때 상황을 되짚어봤습니다. [기자] 2018년 5월 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김재철 사장 시절 MBC 파업=불법" 김기현 발언은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230221160606010</id>
-        <link href="https://v.daum.net/v/20230221160606010"/>
-        <updated>2023-02-21T07:19:27.525Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;김기현 국민의힘 당대표 후보가 20일 서울 중구 MBN 스튜디오에서 열린  TV토론회를 준비하고 있다.ⓒ 국회사진취재단&nbsp; [검증 대상] "김재철 사장 시절 언론노조 MBC 파업은 불법" "우리 안철수 후보께서는 지난번에 언론노조의 불법 파업을 지지하고 동조하는 친언론 노조 행보를 보이셨고요. 그때 김재철 사장 시절에 언론노조 MBC에]]></content>
     </entry>
 </feed>
