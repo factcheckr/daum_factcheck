@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-23T23:23:25.073Z</updated>
+    <updated>2023-02-24T01:46:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 의사-간호사 다투는 '간호법', 다른 나라도 많이 제정한 법이다?]]></title>
+        <id>https://v.daum.net/v/20230224084512011</id>
+        <link href="https://v.daum.net/v/20230224084512011"/>
+        <updated>2023-02-24T01:45:44.571Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 간호사의 처우를 개선하고 업무 범위를 명확히 한다는 '간호법' 제정안을 둘러싸고 의료계 안팎의 갈등이 다시 깊어지는 모습이다. 국회 보건복지위원회가 8개월 넘게 법제사법위원회에 묶여있던 간호법 제정안을 지난 9일 본회의에 직회부하자, 대한의사협회(의협)가 주축이 된 '간호법저지 13개 단체 보건복지의료연대'는 결사 저지하겠다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] “김기현 울산땅, AI 감정가 11억·인근시세 최대 34억 안팎” [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230223130735455</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230221182710563"/>
         <updated>2023-02-21T10:23:02.474Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;보건복지부는 지난 13일 제5차 자살예방기본계획안(2023년~2027년) 공청회에서 발표한 자료에서 “자살수단으로 빈번하게 사용되는 자살위해물건(번개탄, 농약 등) 관리 강화”를 위해 “산화형 착화제가 사용된 번개탄 생산금지 및 인체 유해성이 낮은 친환경 번개탄 대체제 개발?보급”이라는 내용을 포함시켰다.ⓒ 보건복지부&nbsp;&nbsp; [검증 대상]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "권성동이 좋은 선례"...이재명 배우라는 '2018 권성동 모델'은 무엇?]]></title>
-        <id>https://v.daum.net/v/20230221160708050</id>
-        <link href="https://v.daum.net/v/20230221160708050"/>
-        <updated>2023-02-21T07:19:27.525Z</updated>
-        <content type="html"><![CDATA[[앵커] 이재명 더불어민주당 대표에 대한 체포동의안 국회 표결을 앞두고 이른바 '권성동 모델'이라는 생소한 표현이 자주 등장합니다. 5년 전 권성동 의원이 불체포특권을 내려놓고 스스로 법원 영장심사에 응한 상황을 일컫는 말인데요. 당시에도 방탄국회 논란이 없었던 것은 아닙니다. 신호 기자가 그때 상황을 되짚어봤습니다. [기자] 2018년 5월 2]]></content>
     </entry>
 </feed>
