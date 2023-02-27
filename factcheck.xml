@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-27T01:50:43.511Z</updated>
+    <updated>2023-02-27T02:55:36.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230227114203237</id>
+        <link href="https://v.daum.net/v/20230227114203237"/>
+        <updated>2023-02-27T02:53:26.505Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;우원식 더불어민주당 의원이 2022년 9월 26일 서울 여의도 국회에서 열린 환경노동위원회 제2차 전체회의에서 발언하고 있다.ⓒ 공동취재사진&nbsp;&nbsp; [검증대상] "정부가 노조 회계장부 들여다볼 근거 없다" 우원식 의원 주장 윤석열 정부가 노동조합 300여 곳에 재정장부와 서류를 비치했다는 증빙자료 제출을 요구하면서, '내지'만 제출하지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 푸틴 "에델바이스는 히틀러의 흔적", 팩트체크 해보니…]]></title>
         <id>https://v.daum.net/v/20230225090300940</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230222133421007"/>
         <updated>2023-02-22T05:20:39.369Z</updated>
         <content type="html"><![CDATA[[앵커] 우리나라 자살률은 OECD 회원국 가운데 1위인데요. 정부가 자살률을 낮추기 위한 대책으로 번개탄 생산을 금지했다는 주장이 인터넷을 중심으로 퍼지고 있습니다. 실효성이 있느냐는 비판적 여론도 큰데 이런 정부 대책이 추진되고 있는지 한동오 기자가 따져봤습니다. [기자] '윤석열 정부, 자살 예방 대책 나왔다. 번개탄 생산 금지'. 인터넷과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 이재명 '불체포 특권' 포기는 가능할까요]]></title>
-        <id>https://v.daum.net/v/20230222090600595</id>
-        <link href="https://v.daum.net/v/20230222090600595"/>
-        <updated>2023-02-22T01:45:17.748Z</updated>
-        <content type="html"><![CDATA[정부가 더불어민주당 이재명 대표에 대한 체포 동의 요구서를 지난 20일 국회에 제출했습니다. 앞서 이 대표는 위례·대장동 개발 비리와 성남FC 후원금 의혹으로 구속영장이 청구됐습니다. 국회의원 신분인 이 대표는 회기 중 국회 동의 없이 체포·구금되지 않는 불체포 특권이 있습니다. 국회 본회의에서 '체포 동의안'이 통과돼야 영장 심사를 받게 됩니다. 일단 여]]></content>
     </entry>
 </feed>
