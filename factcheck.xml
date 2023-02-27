@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-27T04:27:50.640Z</updated>
+    <updated>2023-02-27T05:23:15.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까?]]></title>
+        <id>https://v.daum.net/v/20230227140704069</id>
+        <link href="https://v.daum.net/v/20230227140704069"/>
+        <updated>2023-02-27T05:19:59.026Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 2월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스탑 팩트체커 [팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까? ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230227114203237</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230222150630607"/>
         <updated>2023-02-22T06:27:48.823Z</updated>
         <content type="html"><![CDATA[정부가&nbsp;‘건폭과 전쟁’을 선언하면서&nbsp;‘월례비’가 핵심 쟁점으로 불거졌다. 건설현장 불법행위 단속의 시급성을 강조하며&nbsp;타워크레인 기사들의 ‘월례비’를 심각한 대표적 사례로 부각시키면서다. 이에 대해선 법원&nbsp;판단도 엇갈린다. ‘임의로 지급되는 금원’이라거나&nbsp;‘불공정 거래행위’,&nbsp;‘근거 없이 요구하는 성격의 돈’이라는 판단이 잇따라 나왔지만 최근엔&nbsp;‘사실상 임금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도]]></title>
-        <id>https://v.daum.net/v/20230222133421007</id>
-        <link href="https://v.daum.net/v/20230222133421007"/>
-        <updated>2023-02-22T05:20:39.369Z</updated>
-        <content type="html"><![CDATA[[앵커] 우리나라 자살률은 OECD 회원국 가운데 1위인데요. 정부가 자살률을 낮추기 위한 대책으로 번개탄 생산을 금지했다는 주장이 인터넷을 중심으로 퍼지고 있습니다. 실효성이 있느냐는 비판적 여론도 큰데 이런 정부 대책이 추진되고 있는지 한동오 기자가 따져봤습니다. [기자] '윤석열 정부, 자살 예방 대책 나왔다. 번개탄 생산 금지'. 인터넷과]]></content>
     </entry>
 </feed>
