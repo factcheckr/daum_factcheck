@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-02-28T14:23:45.329Z</updated>
+    <updated>2023-02-28T15:23:47.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까?]]></title>
         <id>https://v.daum.net/v/20230227140704069</id>
