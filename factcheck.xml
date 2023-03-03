@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-02T22:21:48.961Z</updated>
+    <updated>2023-03-03T03:35:04.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '日 반성' 언급 안 한 건 처음?...대통령 3·1절 기념사 30건 분석]]></title>
+        <id>https://v.daum.net/v/20230303051021456</id>
+        <link href="https://v.daum.net/v/20230303051021456"/>
+        <updated>2023-03-03T03:33:46.505Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] 청약 당첨 1주택자, 기존 집 안 팔아도 돼]]></title>
         <id>https://v.daum.net/v/20230302070502191</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230223072324252"/>
         <updated>2023-02-22T23:24:19.202Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 그 많던 대중목욕탕은 어디로 갔을까. 과거 동네에 한두 개는 으레 있었던 목욕탕은 주말이면 가족이 함께 가던 공간이었지만 하나둘 자취를 감추면서 이제는 찾아보기가 쉽지 않게 됐다. 지금의 30·40대 이상이라면 공중목욕탕의 온탕을 수영장 삼아 놀다가 어른에게 혼이 난 기억이나, 아버지·어머니와 함께 때를 벗겨낸 뒤 달콤한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 번개탄 금지로 자살 예방?...실효성 우려·업계 피해 지적도]]></title>
-        <id>https://v.daum.net/v/20230222232210696</id>
-        <link href="https://v.daum.net/v/20230222232210696"/>
-        <updated>2023-02-22T15:22:54.500Z</updated>
-        <content type="html"><![CDATA[[앵커] 우리나라 자살률은 OECD 회원국 가운데 1위인데요. 정부가 자살률을 낮추기 위한 대책으로 번개탄 생산을 금지했다는 주장이 인터넷을 중심으로 퍼지고 있습니다. 실효성이 있느냐는 비판적 여론도 큰데 이런 정부 대책이 추진되고 있는지 한동오 기자가 따져봤습니다. [기자] '윤석열 정부, 자살 예방 대책 나왔다. 번개탄 생산 금지'. 인터넷과]]></content>
     </entry>
 </feed>
