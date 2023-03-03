@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-03T05:29:18.090Z</updated>
+    <updated>2023-03-03T06:42:42.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '日 반성' 언급 안 한 건 처음?...대통령 3·1절 기념사 30건 분석]]></title>
         <id>https://v.daum.net/v/20230303051021456</id>
