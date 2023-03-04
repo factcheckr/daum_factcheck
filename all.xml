@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-04T02:50:43.131Z</updated>
+    <updated>2023-03-04T03:24:15.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['일본 반성' 빠진 3.1절 기념사, 2011년 이후 처음 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -73,13 +73,6 @@
         <link href="https://v.daum.net/v/20230225090300940"/>
         <updated>2023-02-25T01:46:51.720Z</updated>
         <content type="html"><![CDATA[우크라이나 전쟁 발발 1년이 됐습니다. 명분 없는 전쟁에 민간인 사망자는 유엔 통계 기준 최소 8천6백 명이 넘었습니다. 출구는 여전히 보이지 않습니다. 미국과 유럽, 러시아와 중국의 신 냉전 구도도 격화되고 있습니다. 러시아 푸틴 대통령은 최근 국정 연설에서 미국과의 핵무기 통제 조약인 신전략무기감축협정(New START) 참여 중단을 선언했습니다. 당시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노조 회계자료 공개는 국제 기준" 따져보니… (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20230304100300224</id>
-        <link href="https://v.daum.net/v/20230304100300224"/>
-        <updated>2023-03-04T01:45:03.665Z</updated>
-        <content type="html"><![CDATA[정부가 노동조합을 상대로 회계자료 공개를 압박하는 가운데, 법적 근거를 두고 논란이 계속되고 있습니다. 한쪽에서는 없다, 다른 한쪽에서는 있다, 해석은 서로 정반대입니다. 이에 정부는 줄곧 '국제 기준'을 강조하고 있습니다. 회계자료 공개 요구가 국제노동기구, ILO의 기준에 부합한다는 겁니다. 이정식 고용노동부 장관은 최근 대통령실 브리핑에서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -157,6 +150,13 @@
         <link href="https://v.daum.net/v/20230120202405295"/>
         <updated>2023-01-20T12:39:01.620Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다. 그게 근거가 있는 이야기인 건지 저희 팩트 체크 사실은팀이 확인해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 성균관에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 "대통령제는 소선거구제와 친해" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20230117101329835</id>
+        <link href="https://v.daum.net/v/20230117101329835"/>
+        <updated>2023-03-04T03:23:19.616Z</updated>
+        <content type="html"><![CDATA[더불어민주당 이재명 대표가 최근 기자 간담회에서 "대통령제는 소선구제와 친하고 중대선거구제는 내각제와 친한 제도"라고 말했습니다. 앞서 윤석열 대통령은 사표 문제를 거론하며, "중대선거구제로의 선거 제도 개편이 필요하다"고 말한 바 있습니다. 윤 대통령의 발언에 선을 그은 것으로 읽혔습니다. 소선거구제는 우리가 국회의원 뽑을 때처럼, 한 곳에서 1등만 당]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ MBC 알고보니)]]></title>
@@ -498,7 +498,7 @@
         <title type="html"><![CDATA['일본 반성' 빠진 3.1절 기념사, 2011년 이후 처음 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230304113913171</id>
         <link href="https://v.daum.net/v/20230304113913171"/>
-        <updated>2023-03-04T02:50:33.056Z</updated>
+        <updated>2023-03-04T02:48:33.048Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 1일 서울 중구 유관순 기념관에서 열린 제104주년 3.1절 기념식에서 기념사를 하고 있다. ⓒ 연합뉴스&nbsp; 3.1절 기념사에서 '일본 과거사 반성' 언급 안한 건 2011년 이후 처음&nbsp; 윤석열 대통령의 첫 3.1절 기념사를 향한 비판이 거세다. 윤 대통령은 지난 1일 104주년 3.1절(삼일절) 기념사에서 "지]]></content>
     </entry>
     <entry>
