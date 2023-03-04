@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-03T23:23:10.545Z</updated>
+    <updated>2023-03-04T01:47:16.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "노조 회계자료 공개는 국제 기준" 따져보니…]]></title>
+        <id>https://v.daum.net/v/20230304100300224</id>
+        <link href="https://v.daum.net/v/20230304100300224"/>
+        <updated>2023-03-04T01:45:03.665Z</updated>
+        <content type="html"><![CDATA[정부가 노동조합을 상대로 회계자료 공개를 압박하는 가운데, 법적 근거를 두고 논란이 계속되고 있습니다. 한쪽에서는 없다, 다른 한쪽에서는 있다, 해석은 서로 정반대입니다. 이에 정부는 줄곧 '국제 기준'을 강조하고 있습니다. 회계자료 공개 요구가 국제노동기구, ILO의 기준에 부합한다는 겁니다. 이정식 고용노동부 장관은 최근 대통령실 브리핑에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]'건폭' 만들어 노조압박…타워크레인 월례비 불법?]]></title>
         <id>https://v.daum.net/v/20230304075401867</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230225074800141"/>
         <updated>2023-02-24T23:21:26.547Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의사-간호사 다투는 '간호법', 다른 나라도 많이 제정한 법이다?]]></title>
-        <id>https://v.daum.net/v/20230224084512011</id>
-        <link href="https://v.daum.net/v/20230224084512011"/>
-        <updated>2023-02-24T01:45:44.571Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 간호사의 처우를 개선하고 업무 범위를 명확히 한다는 '간호법' 제정안을 둘러싸고 의료계 안팎의 갈등이 다시 깊어지는 모습이다. 국회 보건복지위원회가 8개월 넘게 법제사법위원회에 묶여있던 간호법 제정안을 지난 9일 본회의에 직회부하자, 대한의사협회(의협)가 주축이 된 '간호법저지 13개 단체 보건복지의료연대'는 결사 저지하겠다]]></content>
     </entry>
 </feed>
