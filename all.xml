@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-05T23:22:57.602Z</updated>
+    <updated>2023-03-06T01:54:33.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "구현모 연임 위해 실적 부풀려?" 의혹 확인해보니 "사실과 달라" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230306094448370</id>
+        <link href="https://v.daum.net/v/20230306094448370"/>
+        <updated>2023-03-06T01:53:19.387Z</updated>
+        <content type="html"><![CDATA[[아이뉴스24 안세준 기자] KT가 통신망 투자 비용을 의도적으로 줄이고 허수계약을 통해 가입자 부풀리기를 해왔다는 의혹이 제기됐다. 구현모 대표(CEO)의 연임을 위한 '업적(실적) 쌓기용'이라는 주장이다. 구 대표의 후임을 선임하는 과정에서 여당이 노골적으로 KT 흔들기를 하는 가운데 나온 의혹이어서 사실 여부는 물론 의혹 제기 배경에도 관심이 쏠린다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일본 반성' 빠진 3.1절 기념사, 2011년 이후 처음 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230304113913171</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230227114203237"/>
         <updated>2023-02-27T02:53:26.505Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;우원식 더불어민주당 의원이 2022년 9월 26일 서울 여의도 국회에서 열린 환경노동위원회 제2차 전체회의에서 발언하고 있다.ⓒ 공동취재사진&nbsp;&nbsp; [검증대상] "정부가 노조 회계장부 들여다볼 근거 없다" 우원식 의원 주장 윤석열 정부가 노동조합 300여 곳에 재정장부와 서류를 비치했다는 증빙자료 제출을 요구하면서, '내지'만 제출하지 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 푸틴 "에델바이스는 히틀러의 흔적", 팩트체크 해보니… (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230225090300940</id>
-        <link href="https://v.daum.net/v/20230225090300940"/>
-        <updated>2023-02-25T01:46:51.720Z</updated>
-        <content type="html"><![CDATA[우크라이나 전쟁 발발 1년이 됐습니다. 명분 없는 전쟁에 민간인 사망자는 유엔 통계 기준 최소 8천6백 명이 넘었습니다. 출구는 여전히 보이지 않습니다. 미국과 유럽, 러시아와 중국의 신 냉전 구도도 격화되고 있습니다. 러시아 푸틴 대통령은 최근 국정 연설에서 미국과의 핵무기 통제 조약인 신전략무기감축협정(New START) 참여 중단을 선언했습니다. 당시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
