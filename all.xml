@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-06T01:54:33.847Z</updated>
+    <updated>2023-03-06T02:56:13.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230306114746284</id>
+        <link href="https://v.daum.net/v/20230306114746284"/>
+        <updated>2023-03-06T02:55:06.897Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대지진으로 수만 명의 사상자가 발생한 튀르키예에 대한 구호와 지원이 잇따르면서 우리나라와 튀르키예의 우호 관계가 다시 주목받고 있다. 양국은 서로를 '형제국가'로 부르면서 계기가 있을 때마다 돈독한 관계를 과시해 왔다. 국제개발 사업을 벌이는 한국국제협력단(KOICA)의 김민종 팀장은 최근 MBC 라디오에 출연해 "튀르키예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "구현모 연임 위해 실적 부풀려?" 의혹 확인해보니 "사실과 달라" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230306094448370</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230227140704069"/>
         <updated>2023-02-27T05:19:59.026Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 2월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스탑 팩트체커 [팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까? ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230227114203237</id>
-        <link href="https://v.daum.net/v/20230227114203237"/>
-        <updated>2023-02-27T02:53:26.505Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;우원식 더불어민주당 의원이 2022년 9월 26일 서울 여의도 국회에서 열린 환경노동위원회 제2차 전체회의에서 발언하고 있다.ⓒ 공동취재사진&nbsp;&nbsp; [검증대상] "정부가 노조 회계장부 들여다볼 근거 없다" 우원식 의원 주장 윤석열 정부가 노동조합 300여 곳에 재정장부와 서류를 비치했다는 증빙자료 제출을 요구하면서, '내지'만 제출하지 않]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
