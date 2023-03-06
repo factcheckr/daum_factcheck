@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-06T19:18:43.615Z</updated>
+    <updated>2023-03-06T20:24:29.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 피해자 반대해도 '대신 지급' 가능할까?...민법과 공탁실무 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230307051016528</id>
+        <link href="https://v.daum.net/v/20230307051016528"/>
+        <updated>2023-03-06T20:23:20.235Z</updated>
+        <content type="html"><![CDATA[[앵커] 외교부는 정부 산하 재단이 일본 기업을 대신해서 강제동원 피해자들에게 불법행위에 대한 위자료를 배상하는 방안을 어제 발표했습니다. 그러나 이 같은 방식의 배상금 지급에 동의하지 않는 피해자들도 있는데요. 정부는 끝까지 수령을 거부할 경우 공탁을 통해 법적인 문제가 해결된다는 입장입니다. 신지원 기자가 사실인지 확인해봤습니다. [기자] []]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이재명 체포동의안' 표결 보이콧으로 대응?... 국회 "사실상 어렵다" [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230307043010052</id>
+        <link href="https://v.daum.net/v/20230307043010052"/>
+        <updated>2023-03-06T20:23:20.235Z</updated>
+        <content type="html"><![CDATA[더불어민주당에서 검찰의 이재명  대표에 대한 구속영장을 재청구할 경우 체포동의안 표결을 보이콧하자고 요구하는 목소리가 커지고 있다. 보이콧을 통해 표결 성립 자체를 무산시킴으로써 지난번처럼 무기명 투표 방식에 기댄 '무더기 이탈'을 사전에 방지하겠다는 의도가 깔려 있다.  그러나 국회법에 따르면, 이러한 변칙 시도는 통하기 어려울 것으로 보인다. 커지는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230306114746284</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20230302070502191"/>
         <updated>2023-03-02T01:53:31.377Z</updated>
         <content type="html"><![CDATA[이달부터 청약에 당첨된 1주택자가 기존 주택을 처분해야 하는 의무가 폐지되는 등 청약제도가 대폭 바뀐다. 정부의 잇단 규제완화 방침에 따라 지난해 12월과 올해 1월 입법예고됐던 ‘주택공급에 관한 규칙’ 개정안이 2월28일 공포되면서 시행에 들어간데 따른 것이다. 가장 관심을 모았던 무순위(속칭 ‘줍줍’) 청약은 지난해 12월 거주지역 요건, 지난 1월에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230301124507728</id>
-        <link href="https://v.daum.net/v/20230301124507728"/>
-        <updated>2023-03-01T04:26:37.948Z</updated>
-        <content type="html"><![CDATA[더불어민주당 이재명 대표의 체포동의안이 국회에서 부결됐습니다. 의원 297명의 무기명 투표 결과 찬성 139명, 반대 138명, 무효 11명, 기권 9명이었습니다. 이 대표를 구속해 수사를 이어가려던 검찰의 계획은 제동이 걸렸지만, '가까스로' 부결된 이재명 대표도 정치적 위기를 맞고 있다는 해석이 나왔습니다. 투표에 앞서 국회 본회의장에서는 이 대표와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230227140704069</id>
-        <link href="https://v.daum.net/v/20230227140704069"/>
-        <updated>2023-02-27T05:19:59.026Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 2월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스탑 팩트체커 [팩트체크] 안철수 후보의 손가락 발언, 과연 사실일까? ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
