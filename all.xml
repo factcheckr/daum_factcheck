@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-06T23:23:30.087Z</updated>
+    <updated>2023-03-07T01:59:57.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 세계 최초로 동성결혼 합법화한 나라는 네덜란드다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230307092901921</id>
+        <link href="https://v.daum.net/v/20230307092901921"/>
+        <updated>2023-03-07T01:58:49.594Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 동성 배우자의 건강보험 피부양자 자격을 인정한 법원 판결을 계기로 다른 나라의 동성결혼 인정 제도에 대한 관심이 높아지고 있다. 서울고법 행정1-3부는 지난달 21일 동성 배우자와 결혼한 소성욱씨가 국민건강보험공단(건보공단)을 상대로 제기한 보험료 부과처분 취소 소송에서 원고 승소 판결을 내렸다. 재판부는 소씨의 동성결혼이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 피해자 반대해도 '대신 지급' 가능할까?...민법과 공탁실무 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230307051016528</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230303051021456"/>
         <updated>2023-03-03T03:33:46.505Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 청약 당첨 1주택자, 기존 집 안 팔아도 돼 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230302070502191</id>
-        <link href="https://v.daum.net/v/20230302070502191"/>
-        <updated>2023-03-02T01:53:31.377Z</updated>
-        <content type="html"><![CDATA[이달부터 청약에 당첨된 1주택자가 기존 주택을 처분해야 하는 의무가 폐지되는 등 청약제도가 대폭 바뀐다. 정부의 잇단 규제완화 방침에 따라 지난해 12월과 올해 1월 입법예고됐던 ‘주택공급에 관한 규칙’ 개정안이 2월28일 공포되면서 시행에 들어간데 따른 것이다. 가장 관심을 모았던 무순위(속칭 ‘줍줍’) 청약은 지난해 12월 거주지역 요건, 지난 1월에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
