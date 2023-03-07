@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-07T10:27:17.826Z</updated>
+    <updated>2023-03-07T11:19:56.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 유명 연예인 탄 기차·비행기 옆자리 몰래 티케팅…처벌 가능? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230307194945902</id>
+        <link href="https://v.daum.net/v/20230307194945902"/>
+        <updated>2023-03-07T11:18:41.656Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 비행기나 기차 옆자리에 앉은 극성팬이 일거수일투족을 감시한다면, 아무리 연예인이라도 불쾌하겠죠. 그런데 출발 일정과 좌석 위치 등 개인 정보를 몰래 알아내 바로 옆자리를 예매하는 이른바 '비행기 스토킹'은 형사 처벌이 될까요? 이규연 기자가 사실확인에서 알아봤습니다. 【 기자 】 기차를 탈 때마다 평소 SNS에 사진을 올려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 세계 최초로 동성결혼 합법화한 나라는 네덜란드다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230307092901921</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20230303232432225</id>
         <link href="https://v.daum.net/v/20230303232432225"/>
         <updated>2023-03-03T15:22:37.435Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '日 반성' 언급 안 한 건 처음?...대통령 3·1절 기념사 30건 분석 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230303051021456</id>
-        <link href="https://v.daum.net/v/20230303051021456"/>
-        <updated>2023-03-03T03:33:46.505Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령의 3·1절 기념사 이후 한일 양국의 과거사 인식을 둘러싼 정치적 논란이 이어졌습니다. 일본에 사과나 반성을 요구하지 않은 첫 3·1절 담화라는 주장까지 나오는데요. 역대 대통령의 3·1절 기념사 30건을 한동오 기자가 분석했습니다. [기자] [윤석열 / 대통령 (3·1절 기념사) : 일본은 과거 군국주의 침략자에서, 우리와]]></content>
     </entry>
     <entry>
