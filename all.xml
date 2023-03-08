@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-08T19:19:56.862Z</updated>
+    <updated>2023-03-08T20:24:03.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 정진석 "정부 해법은 문희상 아이디어"...문희상 "하늘과 땅 차이" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230309042208174</id>
+        <link href="https://v.daum.net/v/20230309042208174"/>
+        <updated>2023-03-08T20:22:55.585Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 발표한 일제 강제동원 피해자 판결금 지급 방식은 가해자인 일본 기업의 책임이 빠져 있다는 점에서 논란이 일고 있습니다. 국민의힘 정진석 전 비대위원장은 정부의 '제3자 변제' 방식이 결국 문희상 전 국회의장의 아이디어라며 야당의 비판에 선을 그었는데요. 2019년 발의됐던 당시 법안을 토대로 사실인지 검증해봤습니다. 신호 기자입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 정진석 "정부 해법은 문희상 아이디어"...문희상 "하늘과 땅 차이" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230308224018252</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230306114746284"/>
         <updated>2023-03-06T02:55:06.897Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대지진으로 수만 명의 사상자가 발생한 튀르키예에 대한 구호와 지원이 잇따르면서 우리나라와 튀르키예의 우호 관계가 다시 주목받고 있다. 양국은 서로를 '형제국가'로 부르면서 계기가 있을 때마다 돈독한 관계를 과시해 왔다. 국제개발 사업을 벌이는 한국국제협력단(KOICA)의 김민종 팀장은 최근 MBC 라디오에 출연해 "튀르키예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "구현모 연임 위해 실적 부풀려?" 의혹 확인해보니 "사실과 달라" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230306094448370</id>
-        <link href="https://v.daum.net/v/20230306094448370"/>
-        <updated>2023-03-06T01:53:19.387Z</updated>
-        <content type="html"><![CDATA[[아이뉴스24 안세준 기자] KT가 통신망 투자 비용을 의도적으로 줄이고 허수계약을 통해 가입자 부풀리기를 해왔다는 의혹이 제기됐다. 구현모 대표(CEO)의 연임을 위한 '업적(실적) 쌓기용'이라는 주장이다. 구 대표의 후임을 선임하는 과정에서 여당이 노골적으로 KT 흔들기를 하는 가운데 나온 의혹이어서 사실 여부는 물론 의혹 제기 배경에도 관심이 쏠린다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
