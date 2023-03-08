@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-08T12:41:39.695Z</updated>
+    <updated>2023-03-08T13:34:33.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[檢, 김건희 여사 서면조사로 끝… 일반인엔 드물다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230308220334835</id>
+        <link href="https://v.daum.net/v/20230308220334835"/>
+        <updated>2023-03-08T13:32:24.298Z</updated>
+        <content type="html"><![CDATA[검찰이 윤석열 대통령 부인 김건희 여사의 ‘코바나컨텐츠 대기업 협찬’ 의혹을 불기소 처분한 가운데, 일각에선 수사과정에 대한 비판을 제기하고 있다. 일반인이 피고발인일 경우 서면조사를 받는 일은 드문데, 김 여사가 두 차례 서면조사만으로 불기소 처분을 받은 것은 일종의 특혜라는 지적이다. 김건희 여사. 대통령실 제공  김한메 사법정의바로세우기시민행동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 정진석 "정부 해법은 문희상 아이디어"...문희상 "하늘과 땅 차이"]]></title>
         <id>https://v.daum.net/v/20230308211017107</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230304113913171"/>
         <updated>2023-03-04T02:48:33.048Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 1일 서울 중구 유관순 기념관에서 열린 제104주년 3.1절 기념식에서 기념사를 하고 있다. ⓒ 연합뉴스&nbsp; 3.1절 기념사에서 '일본 과거사 반성' 언급 안한 건 2011년 이후 처음&nbsp; 윤석열 대통령의 첫 3.1절 기념사를 향한 비판이 거세다. 윤 대통령은 지난 1일 104주년 3.1절(삼일절) 기념사에서 "지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "노조 회계자료 공개는 국제 기준" 따져보니…]]></title>
-        <id>https://v.daum.net/v/20230304100300224</id>
-        <link href="https://v.daum.net/v/20230304100300224"/>
-        <updated>2023-03-04T01:45:03.665Z</updated>
-        <content type="html"><![CDATA[정부가 노동조합을 상대로 회계자료 공개를 압박하는 가운데, 법적 근거를 두고 논란이 계속되고 있습니다. 한쪽에서는 없다, 다른 한쪽에서는 있다, 해석은 서로 정반대입니다. 이에 정부는 줄곧 '국제 기준'을 강조하고 있습니다. 회계자료 공개 요구가 국제노동기구, ILO의 기준에 부합한다는 겁니다. 이정식 고용노동부 장관은 최근 대통령실 브리핑에서 "지]]></content>
     </entry>
 </feed>
