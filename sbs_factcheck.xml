@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2023-03-08T11:21:34.689Z</updated>
+    <updated>2023-03-08T12:41:39.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유]]></title>
+        <id>https://v.daum.net/v/20230308203905528</id>
+        <link href="https://v.daum.net/v/20230308203905528"/>
+        <updated>2023-03-08T12:40:37.883Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 강제동원 관련 해법을 둘러싼 논란에서 정부안을 옹호하는 주장들을 보면 그동안 우리나라가 일본에 요구한 사과와 배상 요구가 지나쳤다는 부분이 있습니다. 정말 그렇게 볼 수 있는 건지, 다른 나라는 어떤지, 사실은 코너 이경원 기자가 따져봤습니다. &lt;기자&gt; 사죄, 배상하라고 악쓰는 나라가 한국 말고 어디 있나, 민주평화통일자문회 석동현 사무처장의 발언]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니…]]></title>
         <id>https://v.daum.net/v/20230301124507728</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230120202405295"/>
         <updated>2023-01-20T12:39:11.325Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다. 그게 근거가 있는 이야기인 건지 저희 팩트 체크 사실은팀이 확인해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 성균관에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "대통령제는 소선거구제와 친해" 따져 보니…]]></title>
-        <id>https://v.daum.net/v/20230117101329835</id>
-        <link href="https://v.daum.net/v/20230117101329835"/>
-        <updated>2023-03-04T03:23:19.616Z</updated>
-        <content type="html"><![CDATA[더불어민주당 이재명 대표가 최근 기자 간담회에서 "대통령제는 소선구제와 친하고 중대선거구제는 내각제와 친한 제도"라고 말했습니다. 앞서 윤석열 대통령은 사표 문제를 거론하며, "중대선거구제로의 선거 제도 개편이 필요하다"고 말한 바 있습니다. 윤 대통령의 발언에 선을 그은 것으로 읽혔습니다. 소선거구제는 우리가 국회의원 뽑을 때처럼, 한 곳에서 1등만 당]]></content>
     </entry>
 </feed>
