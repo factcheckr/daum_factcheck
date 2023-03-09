@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-09T09:23:27.436Z</updated>
+    <updated>2023-03-09T10:25:29.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국·호주전 기미가요는 개최국 재량?" WBC의 '이상한 관행' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230309191201915</id>
+        <link href="https://v.daum.net/v/20230309191201915"/>
+        <updated>2023-03-09T10:24:04.285Z</updated>
+        <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;9일 일본 도쿄돔에서 열린 2023 월드베이스볼클래식(WBC) B조 본선 1라운드 한국과 호주의 경기. 경기 시작 전 선수들이 도열해 있는 가운데 일본 국가가 연주되고 있다. ⓒ 연합뉴스&nbsp; [검증대상] "한국-호주전 일본 국가 연주는 개최국 재량" WBC 주장 9일 일본 도쿄돔에서 열린 '2023 월드베이스볼클래식(WorldB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["강제동원 피해자 싫다는데 '제3자 변제'?" 민법학자 "비정상적" [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230309171201855</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230307051016528"/>
         <updated>2023-03-06T20:23:20.235Z</updated>
         <content type="html"><![CDATA[[앵커] 외교부는 정부 산하 재단이 일본 기업을 대신해서 강제동원 피해자들에게 불법행위에 대한 위자료를 배상하는 방안을 어제 발표했습니다. 그러나 이 같은 방식의 배상금 지급에 동의하지 않는 피해자들도 있는데요. 정부는 끝까지 수령을 거부할 경우 공탁을 통해 법적인 문제가 해결된다는 입장입니다. 신지원 기자가 사실인지 확인해봤습니다. [기자] []]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재명 체포동의안' 표결 보이콧으로 대응?... 국회 "사실상 어렵다" [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20230307043010052</id>
-        <link href="https://v.daum.net/v/20230307043010052"/>
-        <updated>2023-03-06T20:23:20.235Z</updated>
-        <content type="html"><![CDATA[더불어민주당에서 검찰의 이재명  대표에 대한 구속영장을 재청구할 경우 체포동의안 표결을 보이콧하자고 요구하는 목소리가 커지고 있다. 보이콧을 통해 표결 성립 자체를 무산시킴으로써 지난번처럼 무기명 투표 방식에 기댄 '무더기 이탈'을 사전에 방지하겠다는 의도가 깔려 있다.  그러나 국회법에 따르면, 이러한 변칙 시도는 통하기 어려울 것으로 보인다. 커지는]]></content>
     </entry>
 </feed>
