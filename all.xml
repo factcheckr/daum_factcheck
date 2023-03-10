@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-10T21:19:09.279Z</updated>
+    <updated>2023-03-10T22:21:05.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '유관순 허구·절도범·유부녀' 주장까지?...판결문·사료 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230311064014029</id>
+        <link href="https://v.daum.net/v/20230311064014029"/>
+        <updated>2023-03-10T22:19:44.564Z</updated>
+        <content type="html"><![CDATA[[앵커] '3·1절 일장기' 소동을 계기로 식민사관을 담아 역사를 재해석하려는 움직임이 인터넷상에서 퍼지고 있습니다. 3·1절에 집에 일장기를 걸어 논란을 부른 세종시 주민은 유관순 열사도 허구라는 주장까지 하고 있는데요. 판결문과 사료를 통해 근거가 있는 해석인지 따져봤습니다. 한동오 기자입니다. [기자] [이정우 / 3·1절 일장기 게양 세종]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국·호주전 기미가요는 개최국 재량?" WBC의 '이상한 관행' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230309191201915</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230307092901921"/>
         <updated>2023-03-07T01:58:49.594Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 동성 배우자의 건강보험 피부양자 자격을 인정한 법원 판결을 계기로 다른 나라의 동성결혼 인정 제도에 대한 관심이 높아지고 있다. 서울고법 행정1-3부는 지난달 21일 동성 배우자와 결혼한 소성욱씨가 국민건강보험공단(건보공단)을 상대로 제기한 보험료 부과처분 취소 소송에서 원고 승소 판결을 내렸다. 재판부는 소씨의 동성결혼이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 피해자 반대해도 '대신 지급' 가능할까?...민법과 공탁실무 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230307051016528</id>
-        <link href="https://v.daum.net/v/20230307051016528"/>
-        <updated>2023-03-06T20:23:20.235Z</updated>
-        <content type="html"><![CDATA[[앵커] 외교부는 정부 산하 재단이 일본 기업을 대신해서 강제동원 피해자들에게 불법행위에 대한 위자료를 배상하는 방안을 어제 발표했습니다. 그러나 이 같은 방식의 배상금 지급에 동의하지 않는 피해자들도 있는데요. 정부는 끝까지 수령을 거부할 경우 공탁을 통해 법적인 문제가 해결된다는 입장입니다. 신지원 기자가 사실인지 확인해봤습니다. [기자] []]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
