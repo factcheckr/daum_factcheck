@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-10T22:21:05.474Z</updated>
+    <updated>2023-03-10T23:25:19.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]밥맛 좋은 신동진 벼, 갑자기 퇴출…왜? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230311074801511</id>
+        <link href="https://v.daum.net/v/20230311074801511"/>
+        <updated>2023-03-10T23:24:09.647Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '유관순 허구·절도범·유부녀' 주장까지?...판결문·사료 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230311064014029</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230307194945902"/>
         <updated>2023-03-07T11:18:41.656Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 비행기나 기차 옆자리에 앉은 극성팬이 일거수일투족을 감시한다면, 아무리 연예인이라도 불쾌하겠죠. 그런데 출발 일정과 좌석 위치 등 개인 정보를 몰래 알아내 바로 옆자리를 예매하는 이른바 '비행기 스토킹'은 형사 처벌이 될까요? 이규연 기자가 사실확인에서 알아봤습니다. 【 기자 】 기차를 탈 때마다 평소 SNS에 사진을 올려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 세계 최초로 동성결혼 합법화한 나라는 네덜란드다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230307092901921</id>
-        <link href="https://v.daum.net/v/20230307092901921"/>
-        <updated>2023-03-07T01:58:49.594Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 동성 배우자의 건강보험 피부양자 자격을 인정한 법원 판결을 계기로 다른 나라의 동성결혼 인정 제도에 대한 관심이 높아지고 있다. 서울고법 행정1-3부는 지난달 21일 동성 배우자와 결혼한 소성욱씨가 국민건강보험공단(건보공단)을 상대로 제기한 보험료 부과처분 취소 소송에서 원고 승소 판결을 내렸다. 재판부는 소씨의 동성결혼이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
