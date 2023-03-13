@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-13T17:20:34.527Z</updated>
+    <updated>2023-03-13T18:27:32.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 의료인들이 말하는 환자와 치료 이야기, 합법일까? 불법일까?]]></title>
         <id>https://v.daum.net/v/20230313121500410</id>
