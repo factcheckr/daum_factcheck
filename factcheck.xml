@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-15T06:30:30.792Z</updated>
+    <updated>2023-03-15T07:22:51.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사실은] "사교육비 41만? 기본이 백만인데?" 조사 방식 살펴보니…]]></title>
-        <id>https://v.daum.net/v/20230315094200135</id>
-        <link href="https://v.daum.net/v/20230315094200135"/>
-        <updated>2023-03-15T01:40:41.262Z</updated>
-        <content type="html"><![CDATA[교육부와 통계청이 최근 사교육비 통계를 발표했습니다. 초·중·고교 학생 1인당 월평균 사교육비는 41만 원, 2007년 사교육비 조사가 시작된 후 사상 최대 규모였다는 내용이었습니다. 그런데, 일부 학부모들이 '비현실적인 수치'라며 발끈했습니다. "기본만 해도 월 100만 원이다", "한 과목에 40만 원인데 무슨 소리냐", 심지어 "그 동네 어디인지 이]]></content>
+        <title type="html"><![CDATA[[팩트와이] 日 외무상 "강제노동 없었다"...ILO·대법원 판단은 전혀 달라]]></title>
+        <id>https://v.daum.net/v/20230315161017697</id>
+        <link href="https://v.daum.net/v/20230315161017697"/>
+        <updated>2023-03-15T07:18:45.619Z</updated>
+        <content type="html"><![CDATA[[앵커] 강제동원 피해자들에 대한 일본 전범 기업들의 배상 책임을 묻지 않는 우리 정부안이 발표된 뒤에도 일본 정부에서는 사과를 표명하는 입장이 나오지 않았습니다. 대외적으로 정부를 대표하는 일본 외무상은 강제동원 자체를 인정하지 않는 발언까지 공개적으로 내놓고 있는데요. 국제노동기구 협약과 대법원 판결문을 통해 일본 외무상의 발언을 검증해 보겠습니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대법원 강제징용 배상판결은 한 대법관이 독립운동하듯 내렸다?]]></title>
