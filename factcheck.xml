@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-16T04:27:03.663Z</updated>
+    <updated>2023-03-16T05:20:50.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 버터 없는 '버터 맥주'…허위·과대 광고일까?]]></title>
+        <id>https://v.daum.net/v/20230316132734512</id>
+        <link href="https://v.daum.net/v/20230316132734512"/>
+        <updated>2023-03-16T05:19:37.892Z</updated>
+        <content type="html"><![CDATA[요즘 편의점에서 불티나게 판매되는 뵈르비어, 이른바 '버터 맥주'. 그런데 이 맥주에 진짜 버터가 들어가는 건 아닙니다. 통상 판매하는 맥주보다 2.5일 정도 짧게 발효시키면 버터 향이 나는 점을 이용한 마케팅인데요. 일부 소비자들은 허위 광고가 아니냐며 문제를 제기했고, 결국 식약처가 제조사에 해당 상품 한 달 제조정지를 사전통보 했고, 맥주를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["MZ세대는 주69시간 선호" 국힘 주장은 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230316101212033</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230311064014029"/>
         <updated>2023-03-10T22:19:44.564Z</updated>
         <content type="html"><![CDATA[[앵커] '3·1절 일장기' 소동을 계기로 식민사관을 담아 역사를 재해석하려는 움직임이 인터넷상에서 퍼지고 있습니다. 3·1절에 집에 일장기를 걸어 논란을 부른 세종시 주민은 유관순 열사도 허구라는 주장까지 하고 있는데요. 판결문과 사료를 통해 근거가 있는 해석인지 따져봤습니다. 한동오 기자입니다. [기자] [이정우 / 3·1절 일장기 게양 세종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국·호주전 기미가요는 개최국 재량?" WBC의 '이상한 관행' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230309191201915</id>
-        <link href="https://v.daum.net/v/20230309191201915"/>
-        <updated>2023-03-09T10:24:04.285Z</updated>
-        <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;9일 일본 도쿄돔에서 열린 2023 월드베이스볼클래식(WBC) B조 본선 1라운드 한국과 호주의 경기. 경기 시작 전 선수들이 도열해 있는 가운데 일본 국가가 연주되고 있다. ⓒ 연합뉴스&nbsp; [검증대상] "한국-호주전 일본 국가 연주는 개최국 재량" WBC 주장 9일 일본 도쿄돔에서 열린 '2023 월드베이스볼클래식(WorldB]]></content>
     </entry>
 </feed>
