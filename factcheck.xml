@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-16T19:17:44.669Z</updated>
+    <updated>2023-03-16T20:23:03.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] 공사 중단, 입주 불가…아파트 공사비 대란 대책은 없나]]></title>
+        <id>https://v.daum.net/v/20230317050509103</id>
+        <link href="https://v.daum.net/v/20230317050509103"/>
+        <updated>2023-03-16T20:21:47.979Z</updated>
+        <content type="html"><![CDATA[‘소비자 물가지수가 3% 이상 인상되면 갑과 을은 공사비를 협의 조정한다.’ 지난달 28일부터 아파트 입구가 컨테이너로 막혀 예비 입주자들의 이사가 가로막힌 서울 양천구 신목동 파라곤아파트 미입주 사태는 시공사와 재건축 조합간 계약서에 쓰인 이 한 줄을 어떻게 해석하느냐에서 비롯됐다. 현재 양쪽은 공사비 증액 수준을 두고 첨예한 갈등을 벌이고 있다. 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령과 여당 대표 간 정례회담은 항상 있었다?]]></title>
         <id>https://v.daum.net/v/20230316152721002</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230313121007283"/>
         <updated>2023-03-13T03:21:57.013Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 징용해법 한일관계와 피해자 모두를 고려한 결정이었을까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]밥맛 좋은 신동진 벼, 갑자기 퇴출…왜?]]></title>
-        <id>https://v.daum.net/v/20230311074801511</id>
-        <link href="https://v.daum.net/v/20230311074801511"/>
-        <updated>2023-03-10T23:24:09.647Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요? ◆]]></content>
     </entry>
 </feed>
