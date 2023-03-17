@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-17T22:20:59.531Z</updated>
+    <updated>2023-03-17T23:21:22.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]사교육공화국 대한민국 1명당 41만원? '생각보다 적은데~' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230318074800601</id>
+        <link href="https://v.daum.net/v/20230318074800601"/>
+        <updated>2023-03-17T23:20:02.297Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공사 중단, 입주 불가…아파트 공사비 분쟁 대책 없나 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230317050509103</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230313121307373"/>
         <updated>2023-03-13T03:21:57.011Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 몸에 좋다는 콜라겐 실제로 효과가 있을까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 징용해법 한일관계와 피해자 모두를 고려한 결정이었을까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230313121007283</id>
-        <link href="https://v.daum.net/v/20230313121007283"/>
-        <updated>2023-03-13T03:21:57.013Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 징용해법 한일관계와 피해자 모두를 고려한 결정이었을까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
