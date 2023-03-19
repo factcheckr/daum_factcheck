@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-19T10:21:32.851Z</updated>
+    <updated>2023-03-19T11:19:40.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '심장질환 논란' 제로 설탕, 식약처 허용 기준 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230319200746319</id>
+        <link href="https://v.daum.net/v/20230319200746319"/>
+        <updated>2023-03-19T11:16:36.072Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 요즘 건강을 생각해서 설탕 대신 단맛을 내는 설탕 대체재, 제로 설탕이 열풍인데요. 최근에 이런 대체재 중 하나가 심장질환을 일으킨다는 연구 결과가 나왔는데, 인체에 무해해서 식약처의 허용 기준이 없다는 얘기도 나옵니다. 얼마나 안전한 걸까요? 사실확인에서 표선우 기자가 알아봤습니다. 【 기자 】 요즘 식품업계 트렌드는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]사교육공화국 대한민국 1명당 41만원? '생각보다 적은데~' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230318074800601</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230313121500410"/>
         <updated>2023-03-13T03:21:57.011Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 의료인들이 말하는 환자와 치료 이야기, 합법일까? 불법일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 몸에 좋다는 콜라겐 실제로 효과가 있을까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230313121307373</id>
-        <link href="https://v.daum.net/v/20230313121307373"/>
-        <updated>2023-03-13T03:21:57.011Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 몸에 좋다는 콜라겐 실제로 효과가 있을까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
