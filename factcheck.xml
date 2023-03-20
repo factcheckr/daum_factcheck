@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-20T01:47:02.380Z</updated>
+    <updated>2023-03-20T02:48:19.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '멸종위기' 한국인, 장시간 근로 때문일까?]]></title>
+        <id>https://v.daum.net/v/20230320111823557</id>
+        <link href="https://v.daum.net/v/20230320111823557"/>
+        <updated>2023-03-20T02:46:20.504Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 반달가슴곰, 수달, 장수하늘소, 그리고 한국인. 언뜻 보기에 관련 없어 보이는 이 생명체들의 공통점은 무엇일까? 모두 ‘멸종위기종’이라는 것. 인구학자 조영태 서울대학교 보건대학원 교수는 지난 15일 CBS라디오 ‘김현정의 뉴스쇼’에서 “서울을 생물학 종에 비유한다면 이미 멸종의 길에 들어섰다”라고 경고했다. 지난해 서울의 합]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '심장질환 논란' 제로 설탕, 식약처 허용 기준 없다?]]></title>
         <id>https://v.daum.net/v/20230319200746319</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230314120310929"/>
         <updated>2023-03-14T03:22:32.469Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한국 정부가 경색된 한일관계를 개선하고자 내놓은 '일제 강점기 강제징용 피해자 배상 해법'이 거센 논란을 불러일으키면서 강제징용 배상 문제를 한일 간 최대 정치·외교 현안으로 부각시킨 과거 대법원 판결에 관심이 쏠린다. 대통령 자문기구인 민주평화통일자문회의 석동현 사무처장은 외교부의 강제징용 해법 발표 다음 날인 지난 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의료인들이 말하는 환자와 치료 이야기, 합법일까? 불법일까?]]></title>
-        <id>https://v.daum.net/v/20230313121500410</id>
-        <link href="https://v.daum.net/v/20230313121500410"/>
-        <updated>2023-03-13T03:21:57.011Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 11일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 의료인들이 말하는 환자와 치료 이야기, 합법일까? 불법일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은]]></content>
     </entry>
 </feed>
