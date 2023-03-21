@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-21T20:21:45.451Z</updated>
+    <updated>2023-03-21T21:19:31.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 한일 관계 개선으로 '수출' 좋아진다는 대한상의...같은 계산법으로 '수입'은?]]></title>
+        <id>https://v.daum.net/v/20230322053412667</id>
+        <link href="https://v.daum.net/v/20230322053412667"/>
+        <updated>2023-03-21T21:17:21.704Z</updated>
+        <content type="html"><![CDATA[[앵커] 한일 정상회담 직후 양국의 관계 개선으로 무역에도 긍정적인 영향이 있을 거라는 경제인단체의 분석이 나왔습니다. 우리나라의 대일 수출액이 연간 27억 달러, 우리 돈 3조 5천억 원 정도 늘어날 거라는 대한상공회의소의 전망인데요. 대일 수입액은 어떻게 될지 언급이 없어서 신지원 기자가 같은 계산법으로 따져 봤습니다. [기자] "우리나라 수출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230321213303712</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230317050509103"/>
         <updated>2023-03-16T20:21:47.979Z</updated>
         <content type="html"><![CDATA[‘소비자 물가지수가 3% 이상 인상되면 갑과 을은 공사비를 협의 조정한다.’ 지난달 28일부터 아파트 입구가 컨테이너로 막혀 예비 입주자들의 이사가 가로막힌 서울 양천구 신목동 파라곤아파트 미입주 사태는 시공사와 재건축 조합간 계약서에 쓰인 이 한 줄을 어떻게 해석하느냐에서 비롯됐다. 현재 양쪽은 공사비 증액 수준을 두고 첨예한 갈등을 벌이고 있다. 시공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대통령과 여당 대표 간 정례회담은 항상 있었다?]]></title>
-        <id>https://v.daum.net/v/20230316152721002</id>
-        <link href="https://v.daum.net/v/20230316152721002"/>
-        <updated>2023-03-16T07:18:47.051Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 김기현 의원이 국민의힘 당 대표로 새로 선출된 뒤 지난 13일 신임 인사차 윤석열 대통령을 만난 자리에서 매달 두 차례 정기회동을 하기로 의견을 모았다. 대통령과 당 대표 간 정례회동 신설은 국민의힘 전당대회 과정에서 당정 소통 강화 방안으로 거론돼 왔는데 이를 제도화한 것이다. 이에 앞서 김재원 전 의원은 전당대회에서 최]]></content>
     </entry>
 </feed>
