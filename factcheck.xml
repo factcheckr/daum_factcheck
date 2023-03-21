@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-21T05:20:23.364Z</updated>
+    <updated>2023-03-21T06:26:45.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 응급피임약, 가톨릭계 병원에서는 처방 안 한다?]]></title>
+        <id>https://v.daum.net/v/20230321145453712</id>
+        <link href="https://v.daum.net/v/20230321145453712"/>
+        <updated>2023-03-21T06:24:40.072Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 우혜림 인턴기자 = 최근 한 인터넷 커뮤니티에는 '응급피임약 필요할 때 가톨릭 병원 응급실은 가지 마세요'란 글이 올라와 많은 관심을 끌었다. "가톨릭 계열 병원은 종교적 이유로 응급피임약을 처방하지 않으니 응급피임약을 받아야 할 때는 (이런 병원에) 가지 말라"는 내용이었다. 이 글은 사회관계망서비스(SNS)를 통해서도 많이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '멸종위기' 한국인, 장시간 근로 때문일까?]]></title>
         <id>https://v.daum.net/v/20230320111823557</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230315094200135"/>
         <updated>2023-03-15T15:22:28.422Z</updated>
         <content type="html"><![CDATA[교육부와 통계청이 최근 사교육비 통계를 발표했습니다. 초·중·고교 학생 1인당 월평균 사교육비는 41만 원, 2007년 사교육비 조사가 시작된 후 사상 최대 규모였다는 내용이었습니다. 그런데, 일부 학부모들이 '비현실적인 수치'라며 발끈했습니다. "기본만 해도 월 100만 원이다", "한 과목에 40만 원인데 무슨 소리냐", 심지어 "그 동네 어디인지 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대법원 강제징용 배상판결은 한 대법관이 독립운동하듯 내렸다?]]></title>
-        <id>https://v.daum.net/v/20230314120310929</id>
-        <link href="https://v.daum.net/v/20230314120310929"/>
-        <updated>2023-03-14T03:22:32.469Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한국 정부가 경색된 한일관계를 개선하고자 내놓은 '일제 강점기 강제징용 피해자 배상 해법'이 거센 논란을 불러일으키면서 강제징용 배상 문제를 한일 간 최대 정치·외교 현안으로 부각시킨 과거 대법원 판결에 관심이 쏠린다. 대통령 자문기구인 민주평화통일자문회의 석동현 사무처장은 외교부의 강제징용 해법 발표 다음 날인 지난 7일]]></content>
     </entry>
 </feed>
