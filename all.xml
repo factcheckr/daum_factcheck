@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T07:19:31.209Z</updated>
+    <updated>2023-03-21T08:26:19.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '이인규 회고록' 파장…수사 통해 진실 가려질 수 있나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230321171615881</id>
+        <link href="https://v.daum.net/v/20230321171615881"/>
+        <updated>2023-03-21T08:24:57.793Z</updated>
+        <content type="html"><![CDATA[이인규 전 대검찰청 중앙수사부장은 최근 출간한 자신의 회고록 ‘나는 대한민국 검사였다’에서 2009년 노무현 전 대통령의 뇌물 사건에 대해 자세히 설명하고 있습니다. 권양숙 여사가 고 박연차 회장에게 2억 원 상당의 고급 시계를 받은 사실과, 청와대에서 당시 총무비서관을 통해 아들 노건호 씨의 미국 주택 구입을 위해 100만 달러를 전달한 것 역시 충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정재 “노무현 ‘대일 청구권 없다’ 발언” 주장···보수단체 성명문 인용[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230321155107489</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230316101212033"/>
         <updated>2023-03-16T01:41:19.742Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;성일종 국민의힘 정책위의장이 지난 14일 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.ⓒ 남소연&nbsp; [검증대상] "주69시간제, 20·30대 청년층은 좋아한다" 성일종 의원 발언&nbsp; 윤석열 정부가 주 52시간으로 제한된 근로시간을 최대 69시간까지 허용하는 근로시간제도 개편을 추진하면서, 이른바 'MZ세대'로 불리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 日 외무상 "강제노동 없었다"...ILO·대법원 판단은 전혀 달라 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230315161017697</id>
-        <link href="https://v.daum.net/v/20230315161017697"/>
-        <updated>2023-03-15T07:18:45.619Z</updated>
-        <content type="html"><![CDATA[[앵커] 강제동원 피해자들에 대한 일본 전범 기업들의 배상 책임을 묻지 않는 우리 정부안이 발표된 뒤에도 일본 정부에서는 사과를 표명하는 입장이 나오지 않았습니다. 대외적으로 정부를 대표하는 일본 외무상은 강제동원 자체를 인정하지 않는 발언까지 공개적으로 내놓고 있는데요. 국제노동기구 협약과 대법원 판결문을 통해 일본 외무상의 발언을 검증해 보겠습니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국만 사죄 악쓴다" 주장이 망언인 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -414,7 +414,7 @@
         <title type="html"><![CDATA[김정재 “노무현 ‘대일 청구권 없다’ 발언” 주장···보수단체 성명문 인용 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230321155107489</id>
         <link href="https://v.daum.net/v/20230321155107489"/>
-        <updated>2023-03-21T07:19:06.237Z</updated>
+        <updated>2023-03-21T07:18:10.750Z</updated>
         <content type="html"><![CDATA[친윤석열계인 김정재 국민의힘 의원이 일제 강제동원(징용)과 관련해 “ ‘개인의 청구권은 없다’, ‘일본에 대한 대일 청구권은 없다’고 노무현 대통령께서 직접 얘기했다”고 한 발언은 사실과 다른 보수단체의 성명문 내용을 인용한 것으로 21일 확인됐다. 국민의힘은 이날 강제동원(징용) 피해자에 대한 윤석열 정부의 ‘제3자 변제’ 방안이 노무현 정부 방식과 유사]]></content>
     </entry>
     <entry>
