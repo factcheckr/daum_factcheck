@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-21T10:24:23.720Z</updated>
+    <updated>2023-03-21T11:18:28.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "일본은 이미 수십 차례 사과"…따져봐야 할 점]]></title>
+        <id>https://v.daum.net/v/20230321201516811</id>
+        <link href="https://v.daum.net/v/20230321201516811"/>
+        <updated>2023-03-21T11:16:06.310Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 윤 대통령은 오늘(21일) 국무회의에서 일본이 이미 수십 차례 과거사 문제에 대해서 반성과 사과를 했다는 말도 했습니다. 앞서 대통령실도 일본이 지금까지 50차례 넘게 사과했다고 밝힌 바가 있는데, 이것이 정말 맞는 말인지 저희 팩트체크 '사실은'팀이 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 해방 이후 일본 정부의 첫 유감 표현. 1960년 고사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '이인규 회고록' 파장…수사 통해 진실 가려질 수 있나]]></title>
         <id>https://v.daum.net/v/20230321171615881</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230316132734512"/>
         <updated>2023-03-16T05:19:37.892Z</updated>
         <content type="html"><![CDATA[요즘 편의점에서 불티나게 판매되는 뵈르비어, 이른바 '버터 맥주'. 그런데 이 맥주에 진짜 버터가 들어가는 건 아닙니다. 통상 판매하는 맥주보다 2.5일 정도 짧게 발효시키면 버터 향이 나는 점을 이용한 마케팅인데요. 일부 소비자들은 허위 광고가 아니냐며 문제를 제기했고, 결국 식약처가 제조사에 해당 상품 한 달 제조정지를 사전통보 했고, 맥주를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MZ세대는 주69시간 선호" 국힘 주장은 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230316101212033</id>
-        <link href="https://v.daum.net/v/20230316101212033"/>
-        <updated>2023-03-16T01:41:19.742Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;성일종 국민의힘 정책위의장이 지난 14일 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.ⓒ 남소연&nbsp; [검증대상] "주69시간제, 20·30대 청년층은 좋아한다" 성일종 의원 발언&nbsp; 윤석열 정부가 주 52시간으로 제한된 근로시간을 최대 69시간까지 허용하는 근로시간제도 개편을 추진하면서, 이른바 'MZ세대'로 불리는]]></content>
     </entry>
 </feed>
