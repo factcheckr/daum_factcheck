@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-03-21T11:18:28.726Z</updated>
+    <updated>2023-03-21T12:35:58.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20230321213303712</id>
+        <link href="https://v.daum.net/v/20230321213303712"/>
+        <updated>2023-03-21T12:35:47.707Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김기현 국민의힘 대표가 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. ⓒ 남소연&nbsp; [검증대상] "노무현, 징용 피해자 보상금 대위 지급 법률 제정" 김기현 대표 발언&nbsp; 김기현 국민의힘 대표는 지난 20일 오전 국민의힘 최고위원회의에서 "노무현 대통령은 2007년에 국민세금으로 조성된 국가재정으로 징용 피해자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["MZ세대는 주69시간 선호" 국힘 주장은 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20230316101212033</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230127070606446"/>
         <updated>2023-01-26T22:20:40.842Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;국민의힘 당권 주자인 김기현 의원이 25일 서울 여의도 국회 의원회관에서 열린 지속발전 가능한 폐기물 매립 및 친환경적 활용방안 토론회에서 축사를 하고 있다.    ⓒ 남소연  &nbsp; [검증대상] "난방비 폭등은 문재인 정부 탓" 김기현-성일종 의원 발언 올겨울 난방비 폭등으로 서민이 큰 고통을 겪고 있는 가운데, 여야 간에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["짜게 먹어도 오래 산다" 언론 보도는 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20230116194203754</id>
-        <link href="https://v.daum.net/v/20230116194203754"/>
-        <updated>2023-01-16T11:18:01.512Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;        ▲ &nbsp;일부 언론은 '나트륨 섭취와 사망률이 관계가 없다'는 세브란스병원 연구팀 연구 결과를 보도하면서 "짜게 먹으면 일찍 죽는다'는 속설이나 괴담이 틀렸고, 심지어 "짜게 먹어도 오래 산다"고 보도했다.    ⓒ 한국언론진흥재단 빅카인즈  &nbsp; [검증대상] "짜게 먹어도 오래 산다" 언론 보도 소금 등에 포함된 나트륨을 지나치]]></content>
     </entry>
 </feed>
