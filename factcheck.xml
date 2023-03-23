@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-23T21:17:42.296Z</updated>
+    <updated>2023-03-23T22:20:10.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 노무현 정부 때도 강제동원 '대리 보상'?...당시 기록 살펴보니]]></title>
+        <id>https://v.daum.net/v/20230324062211090</id>
+        <link href="https://v.daum.net/v/20230324062211090"/>
+        <updated>2023-03-23T22:18:56.239Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 최근 일제 강제동원 피해자 배상 해법과 관련해 대국민 설득에 나서면서 과거 정부 사례를 언급했습니다. 이러면서 과거 노무현 정부 때도 피해자의 개인 청구권은 이미 사라졌다고 판단해 당시 정부 차원에서 '대리 보상'을 했다는 취지로 밝혔는데요. 그때 기록을 보면 분명한 차이가 있습니다. 송재인 기자가 짚어봤습니다. [기자]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "일본 수십 차례 사과" 전수 분석해보니…따져봐야 할 점은?]]></title>
         <id>https://v.daum.net/v/20230323112400926</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230321145453712"/>
         <updated>2023-03-21T06:24:40.072Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 우혜림 인턴기자 = 최근 한 인터넷 커뮤니티에는 '응급피임약 필요할 때 가톨릭 병원 응급실은 가지 마세요'란 글이 올라와 많은 관심을 끌었다. "가톨릭 계열 병원은 종교적 이유로 응급피임약을 처방하지 않으니 응급피임약을 받아야 할 때는 (이런 병원에) 가지 말라"는 내용이었다. 이 글은 사회관계망서비스(SNS)를 통해서도 많이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '멸종위기' 한국인, 장시간 근로 때문일까?]]></title>
-        <id>https://v.daum.net/v/20230320111823557</id>
-        <link href="https://v.daum.net/v/20230320111823557"/>
-        <updated>2023-03-20T02:46:20.504Z</updated>
-        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 반달가슴곰, 수달, 장수하늘소, 그리고 한국인. 언뜻 보기에 관련 없어 보이는 이 생명체들의 공통점은 무엇일까? 모두 ‘멸종위기종’이라는 것. 인구학자 조영태 서울대학교 보건대학원 교수는 지난 15일 CBS라디오 ‘김현정의 뉴스쇼’에서 “서울을 생물학 종에 비유한다면 이미 멸종의 길에 들어섰다”라고 경고했다. 지난해 서울의 합]]></content>
     </entry>
 </feed>
