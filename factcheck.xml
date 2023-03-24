@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-24T05:20:18.997Z</updated>
+    <updated>2023-03-24T06:27:36.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법?]]></title>
+        <id>https://v.daum.net/v/20230324151400001</id>
+        <link href="https://v.daum.net/v/20230324151400001"/>
+        <updated>2023-03-24T06:24:33.596Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 건설업계의 오랜 관행인 타워크레인 월례비 지급을 금지하면서 내놓은 타워크레인 조종사들의 태업 방지 대책을 둘러싼 논란이 커지고 있다. 국토교통부는 월례비 지급을 금지한 뒤 공사 현장의 타워크레인 작업 속도가 느려졌다는 건설업체들의 불만이 나오자, 조종사가 안전을 이유로 고의로 작업을 지연하거나 거부하는 경우 '성실의무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 노무현 정부 때도 강제동원 '대리 보상'?...당시 기록 살펴보니]]></title>
         <id>https://v.daum.net/v/20230324062211090</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230321155107489"/>
         <updated>2023-03-21T07:18:10.750Z</updated>
         <content type="html"><![CDATA[친윤석열계인 김정재 국민의힘 의원이 일제 강제동원(징용)과 관련해 “ ‘개인의 청구권은 없다’, ‘일본에 대한 대일 청구권은 없다’고 노무현 대통령께서 직접 얘기했다”고 한 발언은 사실과 다른 보수단체의 성명문 내용을 인용한 것으로 21일 확인됐다. 국민의힘은 이날 강제동원(징용) 피해자에 대한 윤석열 정부의 ‘제3자 변제’ 방안이 노무현 정부 방식과 유사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 응급피임약, 가톨릭계 병원에서는 처방 안 한다?]]></title>
-        <id>https://v.daum.net/v/20230321145453712</id>
-        <link href="https://v.daum.net/v/20230321145453712"/>
-        <updated>2023-03-21T06:24:40.072Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 정성호 기자 우혜림 인턴기자 = 최근 한 인터넷 커뮤니티에는 '응급피임약 필요할 때 가톨릭 병원 응급실은 가지 마세요'란 글이 올라와 많은 관심을 끌었다. "가톨릭 계열 병원은 종교적 이유로 응급피임약을 처방하지 않으니 응급피임약을 받아야 할 때는 (이런 병원에) 가지 말라"는 내용이었다. 이 글은 사회관계망서비스(SNS)를 통해서도 많이]]></content>
     </entry>
 </feed>
