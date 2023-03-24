@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-24T10:22:31.361Z</updated>
+    <updated>2023-03-24T11:17:46.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 중국발 황사로 심해진 미세먼지…"삼겹살 도움 되나요?"]]></title>
+        <id>https://v.daum.net/v/20230324194542761</id>
+        <link href="https://v.daum.net/v/20230324194542761"/>
+        <updated>2023-03-24T11:16:42.046Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 봄이면 찾아오는 '불청객' 미세먼지, 다행히 내일이면 '보통' 수준이 된다고 하는데요. 미세먼지나 황사가 심해질 때면 삼겹살을 먹어야 한다는 속설, 사실일까요. 삼겹살이 몸 속 미세먼지를 배출해준다는 주장, 믿어도 될 지 이혁재 기자가 알아봤습니다. 【 기자 】 중국발 미세먼지가 유입되고 대기 흐름이 정체되면서 어제오늘 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법?]]></title>
         <id>https://v.daum.net/v/20230324151400001</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230321171615881"/>
         <updated>2023-03-21T08:24:57.793Z</updated>
         <content type="html"><![CDATA[이인규 전 대검찰청 중앙수사부장은 최근 출간한 자신의 회고록 ‘나는 대한민국 검사였다’에서 2009년 노무현 전 대통령의 뇌물 사건에 대해 자세히 설명하고 있습니다. 권양숙 여사가 고 박연차 회장에게 2억 원 상당의 고급 시계를 받은 사실과, 청와대에서 당시 총무비서관을 통해 아들 노건호 씨의 미국 주택 구입을 위해 100만 달러를 전달한 것 역시 충]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정재 “노무현 ‘대일 청구권 없다’ 발언” 주장···보수단체 성명문 인용[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230321155107489</id>
-        <link href="https://v.daum.net/v/20230321155107489"/>
-        <updated>2023-03-21T07:18:10.750Z</updated>
-        <content type="html"><![CDATA[친윤석열계인 김정재 국민의힘 의원이 일제 강제동원(징용)과 관련해 “ ‘개인의 청구권은 없다’, ‘일본에 대한 대일 청구권은 없다’고 노무현 대통령께서 직접 얘기했다”고 한 발언은 사실과 다른 보수단체의 성명문 내용을 인용한 것으로 21일 확인됐다. 국민의힘은 이날 강제동원(징용) 피해자에 대한 윤석열 정부의 ‘제3자 변제’ 방안이 노무현 정부 방식과 유사]]></content>
     </entry>
 </feed>
