@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-27T04:25:15.886Z</updated>
+    <updated>2023-03-27T05:20:51.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국은 행복하지 않은 나라라는 조사 과연 사실일까?]]></title>
+        <id>https://v.daum.net/v/20230327141615879</id>
+        <link href="https://v.daum.net/v/20230327141615879"/>
+        <updated>2023-03-27T05:18:42.152Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 한국은 행복하지 않은 나라라는 조사 과연 사실일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일제강점기 시절 주 65시간 근무 때문에 파업이 있었다?]]></title>
+        <id>https://v.daum.net/v/20230327141605868</id>
+        <link href="https://v.daum.net/v/20230327141605868"/>
+        <updated>2023-03-27T05:18:42.153Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 일제강점기 시절 주 65시간 근무 때문에 파업이 있었다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]월 100만원 외국인 가사도우미 현실성은?]]></title>
         <id>https://v.daum.net/v/20230325074800469</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230322172754057"/>
         <updated>2023-03-22T09:19:06.513Z</updated>
         <content type="html"><![CDATA[윤석열 대통령이 21일 국무회의에서 주도적이고 전향적인 한·일관계 개선을 주장하며 1960년대 프랑스와 독일의 화해, 1972년 중국과 일본의 국교정상화 사례를 들었다. 하지만 전쟁 가해국이었던 독일은 과거사와 관련해 프랑스에 진정성을 갖고 일관되게 사과했고, 일본도 중국에 전쟁 책임을 반성한다고 명시적으로 밝혔다는 점에서 현재 한·일관계에 대입하는 것은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 한일 관계 개선으로 '수출' 좋아진다는 대한상의...같은 계산법으로 '수입'은?]]></title>
-        <id>https://v.daum.net/v/20230322053412667</id>
-        <link href="https://v.daum.net/v/20230322053412667"/>
-        <updated>2023-03-21T21:17:21.704Z</updated>
-        <content type="html"><![CDATA[[앵커] 한일 정상회담 직후 양국의 관계 개선으로 무역에도 긍정적인 영향이 있을 거라는 경제인단체의 분석이 나왔습니다. 우리나라의 대일 수출액이 연간 27억 달러, 우리 돈 3조 5천억 원 정도 늘어날 거라는 대한상공회의소의 전망인데요. 대일 수입액은 어떻게 될지 언급이 없어서 신지원 기자가 같은 계산법으로 따져 봤습니다. [기자] "우리나라 수출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230321213303712</id>
-        <link href="https://v.daum.net/v/20230321213303712"/>
-        <updated>2023-03-21T12:34:48.476Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김기현 국민의힘 대표가 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. ⓒ 남소연&nbsp; [검증대상] "노무현, 징용 피해자 보상금 대위 지급 법률 제정" 김기현 대표 발언&nbsp; 김기현 국민의힘 대표는 지난 20일 오전 국민의힘 최고위원회의에서 "노무현 대통령은 2007년에 국민세금으로 조성된 국가재정으로 징용 피해자]]></content>
     </entry>
 </feed>
