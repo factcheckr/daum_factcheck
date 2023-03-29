@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-29T01:47:48.018Z</updated>
+    <updated>2023-03-29T02:48:02.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230329111529353</id>
+        <link href="https://v.daum.net/v/20230329111529353"/>
+        <updated>2023-03-29T02:45:51.460Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 법무부가 검찰의 수사권을 완전히 박탈한다는 '검수완박'법(개정 검찰청법·형사소송법)으로 헌법이 보장한 검찰 수사권이 침해됐다며 헌법재판소(헌재)에 권한쟁의심판을 청구했다가 최근 각하된 가운데 헌재가 이미 여러 차례 '수사권은 헌법이 아닌 법률로 정하는 사안'이란 입장을 피력했다는 주장이 제기됐다. 헌재는 지난 23일 이 권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정신과 질환 사망률 1위는 거식증이다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230329102824080</id>
@@ -12,7 +19,7 @@
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자]  넷플릭스 예능 &lt;피지컬: 100&gt;부터 '바디 프로필' 촬영, 오늘 운동 완료, '오운완' 인증까지. 그 어느 때보다 '건강한 몸'에 열광하는 분위기다. 하지만 다른 한편에선 정반대의 세계가 펼쳐진다. '뼈말라(뼈가 보일 정도로 마른 몸)'가 되기 위해 ‘무쫄(무식하게 쫄쫄 굶기)’, ‘먹토(먹고 토하기)’를 반복한다. 거식증]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사실은] 이재명 "소부장 예산 대폭 깎였다", 따져 보니… (다음 뉴스 ─ 팩트체크)]]></title>
+        <title type="html"><![CDATA[[사실은] 이재명 "소부장 예산 대폭 깎였다", 따져보니… (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230329100600042</id>
         <link href="https://v.daum.net/v/20230329100600042"/>
         <updated>2023-03-29T01:45:43.765Z</updated>
@@ -68,17 +75,10 @@
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 건설업계의 오랜 관행인 타워크레인 월례비 지급을 금지하면서 내놓은 타워크레인 조종사들의 태업 방지 대책을 둘러싼 논란이 커지고 있다. 국토교통부는 월례비 지급을 금지한 뒤 공사 현장의 타워크레인 작업 속도가 느려졌다는 건설업체들의 불만이 나오자, 조종사가 안전을 이유로 고의로 작업을 지연하거나 거부하는 경우 '성실의무]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트와이] 노무현 정부 때도 강제동원 '대리 보상'?...당시 기록 살펴보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230324062211090</id>
-        <link href="https://v.daum.net/v/20230324062211090"/>
-        <updated>2023-03-23T22:18:56.239Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 최근 일제 강제동원 피해자 배상 해법과 관련해 대국민 설득에 나서면서 과거 정부 사례를 언급했습니다. 이러면서 과거 노무현 정부 때도 피해자의 개인 청구권은 이미 사라졌다고 판단해 당시 정부 차원에서 '대리 보상'을 했다는 취지로 밝혔는데요. 그때 기록을 보면 분명한 차이가 있습니다. 송재인 기자가 짚어봤습니다. [기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "소부장 예산 대폭 깎였다", 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
+        <title type="html"><![CDATA[이재명 "소부장 예산 대폭 깎였다", 따져보니… (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20230329100600042</id>
         <link href="https://v.daum.net/v/20230329100600042"/>
-        <updated>2023-03-29T01:45:54.700Z</updated>
+        <updated>2023-03-29T01:45:43.765Z</updated>
         <content type="html"><![CDATA[한일 외교 문제를 두고 정치권 논란이 여전히 뜨겁습니다. SBS 팩트체크 사실은팀은 한일 관계 관련, 정치권에서 나오는 발언들을 집중 팩트체크 하고 있습니다. 최근에는 "일본은 이미 수십 차례 한국에 반성과 사과를 표했다"는 윤석열 대통령의 발언을 확인했습니다. 오늘은 민주당 이재명 대표의 발언을 살펴보려고 합니다. ► [사실은] "일본 수십 차례 사과"]]></content>
     </entry>
     <entry>
