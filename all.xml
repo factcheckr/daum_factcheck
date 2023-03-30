@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-30T12:40:03.782Z</updated>
+    <updated>2023-03-30T13:30:43.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230330214754104</id>
+        <link href="https://v.daum.net/v/20230330214754104"/>
+        <updated>2023-03-30T13:29:32.510Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 충청북도는 최근  민선 8기 최대 역점 사업인 '레이크파크 르네상스'의 비전과 정책 과제를 발표했습니다. 충북의 대전환을 이끌 혁신이라 자평했지만, 개별 사업들을  하나하나 살펴보면 기존에 추진하던 것과 별반 다르지 않습니다. 팩트체크K 충북 윤소영 기자입니다. [리포트] 올 가을 준공을 앞두고 공사가 한창인  박물관 공사 현장입니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230330200128484</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230325072314303"/>
         <updated>2023-03-24T23:18:59.899Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대지진으로 수만 명의 사상자가 발생한 튀르키예에 대한 구호와 지원이 잇따르면서 우리나라와 튀르키예의 우호 관계가 다시 주목받고 있다. 양국은 서로를 '형제국가'로 부르면서 계기가 있을 때마다 돈독한 관계를 과시해 왔다. 국제개발 사업을 벌이는 한국국제협력단(KOICA)의 김민종 팀장은 최근 MBC 라디오에 출연해 "튀르키예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 중국발 황사로 심해진 미세먼지…"삼겹살 도움 되나요?" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230324194542761</id>
-        <link href="https://v.daum.net/v/20230324194542761"/>
-        <updated>2023-03-24T11:16:42.046Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 봄이면 찾아오는 '불청객' 미세먼지, 다행히 내일이면 '보통' 수준이 된다고 하는데요. 미세먼지나 황사가 심해질 때면 삼겹살을 먹어야 한다는 속설, 사실일까요. 삼겹살이 몸 속 미세먼지를 배출해준다는 주장, 믿어도 될 지 이혁재 기자가 알아봤습니다. 【 기자 】 중국발 미세먼지가 유입되고 대기 흐름이 정체되면서 어제오늘 미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "소부장 예산 대폭 깎였다", 따져보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,6 +244,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230330214754104</id>
+        <link href="https://v.daum.net/v/20230330214754104"/>
+        <updated>2023-03-30T13:30:02.273Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 충청북도는 최근  민선 8기 최대 역점 사업인 '레이크파크 르네상스'의 비전과 정책 과제를 발표했습니다. 충북의 대전환을 이끌 혁신이라 자평했지만, 개별 사업들을  하나하나 살펴보면 기존에 추진하던 것과 별반 다르지 않습니다. 팩트체크K 충북 윤소영 기자입니다. [리포트] 올 가을 준공을 앞두고 공사가 한창인  박물관 공사 현장입니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20230330200128484</id>
         <link href="https://v.daum.net/v/20230330200128484"/>
         <updated>2023-03-30T11:16:22.908Z</updated>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20220914174017959"/>
         <updated>2022-11-16T17:34:52.515Z</updated>
         <content type="html"><![CDATA[최근 '저소득층에게 재난지원금을 추가로 지급한다'는 내용의 문자가 돌고 있습니다. 정부가 코로나19 재확산과 소비자 물가 상승 등 생계비 부담이 가중되자 저소득·취약계층 가구에 이른바 '한시 생활안정지원금'을 지급하기로 했는데 대상자로 선정됐으니 빨리 신청하라는 내용입니다. 신청 마감 시한은 내일(15일) 18시까지로 돼 있습니다. 문자 내용을 보면 재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명절 고속도로 통행료 면제하면 도로공사 부채 가중된다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20220908060035109</id>
-        <link href="https://v.daum.net/v/20220908060035109"/>
-        <updated>2022-11-16T17:34:52.517Z</updated>
-        <content type="html"><![CDATA['민족 대이동'이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞이하는 첫 명절입니다. 정부는 추석 민생대책의 하나로 추석 연휴 나흘간 전국 고속도로 통행료를 면제하기로 했습니다. 언뜻 보면 좋기만 한 정책 같은데 누리꾼 반응은 다소 갈립니다. 해당 기사들에 달린 댓글을 보면 "명절 고속도로 통행료 면제가 한국도로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
