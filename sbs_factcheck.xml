@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2023-03-31T11:17:43.964Z</updated>
+    <updated>2023-03-31T12:38:25.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국도 방사능 오염수 방류" 일본 주장, 따져봤습니다]]></title>
+        <id>https://v.daum.net/v/20230331203619053</id>
+        <link href="https://v.daum.net/v/20230331203619053"/>
+        <updated>2023-03-31T12:37:26.731Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 후쿠시마 오염수를 걱정하는 목소리가 이어지자, 일본은 그동안 한국도 마찬가지라고 주장해왔습니다. 한국 역시 방사능 오염수를 바다에 흘려보내고 있다는 것입니다. 그것이 맞는 말인지 저희 팩트체크 '사실은'팀이 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; "한국도 방사능 액체 폐기물을 바다에 내보내왔다." 일본 기시다 후미오 총리가 의회에 나가 한 발언]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국도 방사능 오염수 방류한다"는 일본 주장, 사실일까?]]></title>
         <id>https://v.daum.net/v/20230331183301159</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230203201523399"/>
         <updated>2023-02-03T11:17:57.086Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 그럼 65살 이상은 돈을 내지 않는 제도 때문에 서울 지하철 재정이 정말 얼마나 나빠진 건지 이 부분도 따져보겠습니다. 그리고 한 발 더 나가서 지하철의 적자를 줄이는 점에만 초점을 두는 게 과연 맞는 건지도 살펴보겠습니다. 저희 팩트체크 사실은 팀, 이경원 기자가 전하겠습니다. &lt;기자&gt; 서울 지하철의 최근 5년 치 데이터를 확인해 봤습니다. 쭉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노인 무임승차에 들어가는 비용, 얼마나 될까]]></title>
-        <id>https://v.daum.net/v/20230202113904958</id>
-        <link href="https://v.daum.net/v/20230202113904958"/>
-        <updated>2023-02-02T02:48:46.432Z</updated>
-        <content type="html"><![CDATA[65세 이상 노인에 대한 지하철 무임승차 제도가 정치권 화두로 떠올랐습니다. 포문은 오세훈 서울시장이 열었습니다. 오 시장은 지난 30일 신년 기자 간담회에서 정부가 무임 수송 비용을 지원해줄 것을 요청했습니다. 다음 날, 국민의힘 주호영 원내대표도 공감을 나타냈습니다. &nbsp;   "서울 지하철 요금은 8년째 묶여 있다. 300원~400원 올린다고 하더라도]]></content>
     </entry>
 </feed>
