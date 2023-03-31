@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T07:19:22.523Z</updated>
+    <updated>2023-03-31T08:26:01.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“쇼핑백 영상 있다”…한동훈식 피의사실공표, 위법일까 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230331162506978</id>
+        <link href="https://v.daum.net/v/20230331162506978"/>
+        <updated>2023-03-31T08:24:45.083Z</updated>
+        <content type="html"><![CDATA[지난 30일 한동훈 법무부 장관이 국회 문을 세차례 두드린 끝에 하영제 국민의힘 의원 체포동의안 가결을 받아냈다. 체포동의 요청 이유를 설명할 때 증거의 구체적인 내용을 밝히는 한 장관 특유의 방식은 유지됐다. 피의사실 공표 논란이 계속되지만 한 장관은 문제 없다는 입장이다. 그는 현재 피의사실 공표 등 혐의로 고위공직자범죄수사처(공수처)에 고발되어 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 국내주식 보유 제한한 공직자윤리법, 해외주식은 안 막는다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230331131009407</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230327141605868"/>
         <updated>2023-03-27T05:18:42.153Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 3월 25일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 일제강점기 시절 주 65시간 근무 때문에 파업이 있었다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]월 100만원 외국인 가사도우미 현실성은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230325074800469</id>
-        <link href="https://v.daum.net/v/20230325074800469"/>
-        <updated>2023-03-24T23:18:59.898Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "소부장 예산 대폭 깎였다", 따져보니… (다음 뉴스 ─ SBS 사실은)]]></title>
