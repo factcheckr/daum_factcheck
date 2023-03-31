@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-31T14:19:30.851Z</updated>
+    <updated>2023-03-31T15:21:28.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 국내주식 보유 제한한 공직자윤리법, 해외주식은 안 막는다?]]></title>
+        <id>https://v.daum.net/v/20230331233110011</id>
+        <link href="https://v.daum.net/v/20230331233110011"/>
+        <updated>2023-03-31T15:20:15.505Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 공직자 재산공개 내역을 보면 고위 관료들이 국내주식을 대부분 매각하고 해외주식은 그대로 보유한 경우를 많이 볼 수 있습니다. 바로 직무 관련성 심사 때문인데요. 해외주식의 경우에는 국내에서 영업하는 회사라도 심사 대상에서 제외되는지 관련 법령을 토대로 신지원 기자가 확인해봤습니다. [기자] 강경성 대통령실 산업정책비서관의 배우자와 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "한국도 방사능 오염수 방류" 일본 주장, 따져봤습니다]]></title>
         <id>https://v.daum.net/v/20230331203619053</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230329100600042"/>
         <updated>2023-03-29T01:45:43.765Z</updated>
         <content type="html"><![CDATA[최근, 강제 징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고 설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. ► 한일 관계 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트파인더] 이재명 강성 지지층 '개딸', 악의적 프레임이다?]]></title>
-        <id>https://v.daum.net/v/20230329100002713</id>
-        <link href="https://v.daum.net/v/20230329100002713"/>
-        <updated>2023-03-29T01:45:43.773Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표의 열성 지지층을 뜻하는 '개딸'(개혁의 딸)의 온·오프라인 과격 시위가 민주당의  쇄신 과제로 떠올랐다. 비이재명계 의원들을 향한 개딸의 인신공격이 민주주의 토대를 위협하는 것은 물론 당의 외연 확장을 가로막아 내년 총선 승리의 걸림돌이 될 것이란 우려가 커지고 있기 때문이다. 지명직 최고위원으로 지명된 송갑석 의원은 28일 Y]]></content>
     </entry>
 </feed>
