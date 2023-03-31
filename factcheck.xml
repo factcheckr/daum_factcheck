@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-03-31T03:22:24.764Z</updated>
+    <updated>2023-03-31T04:25:03.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 국내주식 보유 제한한 공직자윤리법, 해외주식은 안 막는다?]]></title>
+        <id>https://v.daum.net/v/20230331131009407</id>
+        <link href="https://v.daum.net/v/20230331131009407"/>
+        <updated>2023-03-31T04:23:28.570Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 공직자 재산공개 내역을 보면 고위 관료들이 국내주식을 대부분 매각하고 해외주식은 그대로 보유한 경우를 많이 볼 수 있습니다. 바로 직무 관련성 심사 때문인데요. 해외주식의 경우에는 국내에서 영업하는 회사라도 심사 대상에서 제외되는지 관련 법령을 토대로 신지원 기자가 확인해봤습니다. [기자] 강경성 대통령실 산업정책비서관의 배우자와 두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이”]]></title>
         <id>https://v.daum.net/v/20230330214754104</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230325074800469"/>
         <updated>2023-03-24T23:18:59.898Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 튀르키예 교과서에 "한국은 형제국가"라고 쓰여 있다?(종합)]]></title>
-        <id>https://v.daum.net/v/20230325072314303</id>
-        <link href="https://v.daum.net/v/20230325072314303"/>
-        <updated>2023-03-24T23:18:59.899Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 대지진으로 수만 명의 사상자가 발생한 튀르키예에 대한 구호와 지원이 잇따르면서 우리나라와 튀르키예의 우호 관계가 다시 주목받고 있다. 양국은 서로를 '형제국가'로 부르면서 계기가 있을 때마다 돈독한 관계를 과시해 왔다. 국제개발 사업을 벌이는 한국국제협력단(KOICA)의 김민종 팀장은 최근 MBC 라디오에 출연해 "튀르키예]]></content>
     </entry>
 </feed>
