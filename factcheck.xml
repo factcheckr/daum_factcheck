@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-03T10:22:38.299Z</updated>
+    <updated>2023-04-03T11:17:00.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 4월이면 어김없이 "4·3은 공산 폭동"…사실은?]]></title>
+        <id>https://v.daum.net/v/20230403182704921</id>
+        <link href="https://v.daum.net/v/20230403182704921"/>
+        <updated>2023-04-03T11:15:36.845Z</updated>
+        <content type="html"><![CDATA[올해는 유독 제주 4·3 사건에 대해 많은 말이 오르내립니다. 일부 시민단체들은 제주 시내 곳곳에 "4·3은 김일성과 남로당이 일으킨 공산 폭동"이라는 현수막을 내걸었습니다. 파문이 커지며 현수막은 강제 철거됐지만, 논란은 이어지고 있습니다. 제주 4·3 사건은 1948년 4월 3일, 조선공산당의 계보를 잇는 남조선노동당, 즉, 남로당 제주 세력들의 무장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["거부권 행사하면 대통령 지지율 상승", 사실반 거짓반 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230403120603164</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230329111529353"/>
         <updated>2023-03-29T02:45:51.460Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 법무부가 검찰의 수사권을 완전히 박탈한다는 '검수완박'법(개정 검찰청법·형사소송법)으로 헌법이 보장한 검찰 수사권이 침해됐다며 헌법재판소(헌재)에 권한쟁의심판을 청구했다가 최근 각하된 가운데 헌재가 이미 여러 차례 '수사권은 헌법이 아닌 법률로 정하는 사안'이란 입장을 피력했다는 주장이 제기됐다. 헌재는 지난 23일 이 권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 정신과 질환 사망률 1위는 거식증이다?]]></title>
-        <id>https://v.daum.net/v/20230329102824080</id>
-        <link href="https://v.daum.net/v/20230329102824080"/>
-        <updated>2023-03-29T01:45:43.763Z</updated>
-        <content type="html"><![CDATA[[이데일리 이정민 인턴기자]  넷플릭스 예능 '피지컬: 100'부터 '바디 프로필' 촬영, 오늘 운동 완료, '오운완' 인증까지. 그 어느 때보다 '건강한 몸'에 열광하는 분위기다. 하지만 다른 한편에선 정반대의 세계가 펼쳐진다. '뼈말라(뼈가 보일 정도로 마른 몸)'가 되기 위해 ‘무쫄(무식하게 쫄쫄 굶기)’, ‘먹토(먹고 토하기)’를 반복한다. 거식증]]></content>
     </entry>
 </feed>
