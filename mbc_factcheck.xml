@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-04-03T11:17:00.189Z</updated>
+    <updated>2023-04-03T12:37:33.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마산 수산물, 국내로 결코 못들어온다?]]></title>
+        <id>https://v.daum.net/v/20230403203112423</id>
+        <link href="https://v.daum.net/v/20230403203112423"/>
+        <updated>2023-04-03T12:36:39.923Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 한일 정상회담 이후 후쿠시마산 수산물의 국내수입 재개를 일본이 요청했다는 현지 보도가 잇따랐는데, 우리 대통령실은 여기에 강하게 반박하고있죠. "후쿠시마산 수산물이 국내에 들어올 일은 결코 없다"고 밝혔는데요. 정말 그런지, 팩트체크 '알고보니'에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 후쿠시마 수산물 수입금지 조치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난방비 대란 2025년까지 지속될 것"]]></title>
         <id>https://v.daum.net/v/20230201105816117</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221026202810831"/>
         <updated>2022-11-16T17:34:39.967Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 윤석열 대통령 부부가 지내게 될 한남동 대통령 관저. 경호를 위해 입주를 앞두고 일대가 군사시설보호구역으로 지정됐죠. 최근엔 서울이 내려다보이는 남산 전망대와 주변 산책로 등에도 경비 인력을 배치해 관저 사진 촬영을 제한하고 있는데요. 과연 마음대로 관저를 찍는 건 불법이고 처벌을 받게 되는 건지, 다른 나라 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 풍자가 정치적?..과거 수상작 어땠나 보니]]></title>
-        <id>https://v.daum.net/v/20221007202814772</id>
-        <link href="https://v.daum.net/v/20221007202814772"/>
-        <updated>2022-11-16T17:34:39.967Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 한 고등학생이 그린 '윤석열차'라는 이 만화 한 컷이 논란입니다. 작품이 지나치게 정치적이라면서 정부가 상을 수여한 공모전 주최측을 맹비난하고 나섰죠. [박보균/문화체육관광부 장관] "순수한 에술적 감수성으로 명성을 쌓은 중고생 만화공모전을 정치오염 공모전으로 변색시킨 만화진흥원에 대해서 (문제제기를 하는 겁니다)."]]></content>
     </entry>
 </feed>
