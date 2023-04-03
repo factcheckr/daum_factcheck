@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-03T08:25:33.666Z</updated>
+    <updated>2023-04-03T09:20:37.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA["거부권 행사하면 대통령 지지율 상승", 사실반 거짓반 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230403120603164</id>
