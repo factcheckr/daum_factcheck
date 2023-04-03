@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-03T01:26:08.955Z</updated>
+    <updated>2023-04-03T02:34:13.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 국내주식 보유 제한한 공직자윤리법, 해외주식은 안 막는다?]]></title>
         <id>https://v.daum.net/v/20230331233110011</id>
