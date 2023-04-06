@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-06T02:34:46.002Z</updated>
+    <updated>2023-04-06T03:21:06.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["4.3은 격 낮아 대통령 참석 의무 없다" 김재원 발언 '대체로 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230406115701168</id>
+        <link href="https://v.daum.net/v/20230406115701168"/>
+        <updated>2023-04-06T03:19:49.738Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김재원 국민의힘 최고위원이 4월 3일 서울 여의도 국회에서 열린 최고위원회의에 참석해 있다.ⓒ 남소연&nbsp; [검증대상]&nbsp;4.3은 기념일이라 대통령 참석 의무 없다? 국경일도 마찬가지 윤석열 대통령이 취임 후 첫 4.3희생자추념일(아래 4.3) 추념식에 불참한 것을 두고 여당 최고위원이 "(3.1절과 광복절보다) 조금 격이 낮은 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한전 “SMP 상한제, 민간발전사 손실 없다”...사실일까?]]></title>
         <id>https://v.daum.net/v/20230406050023675</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230331183301159"/>
         <updated>2023-03-31T10:21:04.068Z</updated>
         <content type="html"><![CDATA[후쿠시마 오염수 방류를 앞두고, 일본은 "한국도 방사능 오염수를 방류한다"고 줄곧 주장해왔습니다. 일본 기시다 후미오 총리도 지난 13일, 의회에 나가 비슷한 발언을 했습니다. 기시다 총리는 "중국이나 한국을 포함해 원자력 관련 시설이 각국의 규제 기준을 준수하면서, 트리튬(삼중수소)을 포함해 액체 폐기물을 해양에 방출하고 있다"고 말했습니다. 일본이 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쇼핑백 영상 있다”…한동훈식 피의사실공표, 위법일까 [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20230331162506978</id>
-        <link href="https://v.daum.net/v/20230331162506978"/>
-        <updated>2023-03-31T08:24:45.083Z</updated>
-        <content type="html"><![CDATA[지난 30일 한동훈 법무부 장관이 국회 문을 세차례 두드린 끝에 하영제 국민의힘 의원 체포동의안 가결을 받아냈다. 체포동의 요청 이유를 설명할 때 증거의 구체적인 내용을 밝히는 한 장관 특유의 방식은 유지됐다. 피의사실 공표 논란이 계속되지만 한 장관은 문제 없다는 입장이다. 그는 현재 피의사실 공표 등 혐의로 고위공직자범죄수사처(공수처)에 고발되어 있다.]]></content>
     </entry>
 </feed>
