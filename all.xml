@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-09T11:16:32.020Z</updated>
+    <updated>2023-04-09T12:35:03.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 1년 앞으로 다가온 총선…OECD는 어떻게 국회의원 뽑을까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230409204505386</id>
+        <link href="https://v.daum.net/v/20230409204505386"/>
+        <updated>2023-04-09T12:32:55.362Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 내일(10일)이 총선 딱 1년 전입니다. 현재 국회가 국회의원을 어떤 방식으로 뽑을지, 논의하고 있는데요. 다른 나라들은 어떨까요. SBS 팩트체크, 사실은 팀이 OECD 국가 1만 2천여 명의 의원들, 어떻게 뽑힌 건지 전수 분석했습니다. 이경원 기자입니다. &lt;기자&gt; 국가별 선거제도, 워낙 복잡합니다. 단순 비교가 어렵습니다. 하지만, 다른 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]'밥 한 공기' 비우면 쌀 소비량 늘까…대안 부재 드러낸 '말 한 마디' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230408074801490</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230403120603164"/>
         <updated>2023-04-03T03:19:27.384Z</updated>
         <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;윤석열 대통령이 3월 29일 서울 용산 대통령실 청사에서 열린 제15차 비상경제민생회의에서 추경호 경제부총리로부터 내수활성화 방안에 대한 보고를 받고 있다. ⓒ 연합뉴스&nbsp; [검증대상] "대통령 거부권 행사하면 지지율 오른다" 윤석열 대통령이 양곡관리법 개정안에 거부권을 행사할지 관심이 쏠리고 있다. 더불어민주당은 지난 3월 23일 농림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 국내주식 보유 제한한 공직자윤리법, 해외주식은 안 막는다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230331233110011</id>
-        <link href="https://v.daum.net/v/20230331233110011"/>
-        <updated>2023-03-31T15:20:15.505Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 공직자 재산공개 내역을 보면 고위 관료들이 국내주식을 대부분 매각하고 해외주식은 그대로 보유한 경우를 많이 볼 수 있습니다. 바로 직무 관련성 심사 때문인데요. 해외주식의 경우에는 국내에서 영업하는 회사라도 심사 대상에서 제외되는지 관련 법령을 토대로 신지원 기자가 확인해봤습니다. [기자] 강경성 대통령실 산업정책비서관의 배우자와 두]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["제주 4·3 사건은 공산 폭동" 또 꿈틀…사실은? (다음 뉴스 ─ SBS 사실은)]]></title>
