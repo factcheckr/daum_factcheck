@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T09:19:58.051Z</updated>
+    <updated>2023-04-10T10:21:18.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트파인더] 최민희 방통위원 자리는 여당 몫? 야당 몫? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230410183023113</id>
+        <link href="https://v.daum.net/v/20230410183023113"/>
+        <updated>2023-04-10T10:20:06.664Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 추천한 최민희 방송통신위원회 상임위원 후보자의 임명이 늦어지면서 여야 간 갑론을박이 가열되고 있다. 국민의힘은 최 후보자가 임명될 경우 방통위원의 구성이 여야 1대 3으로(대통령 지명 몫 1명 공석) 기울어지는 만큼 방송통신위법 취지에 어긋난다는 이유로 반대하고 있다. 반면 더불어민주당은 최 후보자의 전임이 야당 추천 몫인 만큼 이번에도 야당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 소아과는 이제 없어지는 건가? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230410123313566</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230403203112423"/>
         <updated>2023-04-03T12:36:17.696Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 한일 정상회담 이후 후쿠시마산 수산물의 국내수입 재개를 일본이 요청했다는 현지 보도가 잇따랐는데, 우리 대통령실은 여기에 강하게 반박하고있죠. "후쿠시마산 수산물이 국내에 들어올 일은 결코 없다"고 밝혔는데요. 정말 그런지, 팩트체크 '알고보니'에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 후쿠시마 수산물 수입금지 조치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "제주 4·3 사건은 공산 폭동" 또 꿈틀…사실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230403202704345</id>
-        <link href="https://v.daum.net/v/20230403202704345"/>
-        <updated>2023-04-03T12:36:17.701Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 제주 4·3은 수많은 피해자들과 그 유족이 있지만 아직도 진상을 명확히 밝히지 못한 우리의 아픈 역사입니다. 그런데 올해는 유독 4·3을 왜곡하는 목소리가 계속 이어지고 있어서 저희 팩트체크 '사실은'팀이 따져봤습니다. 이경원 기자가 전하겠습니다. &lt;기자&gt; 4·3은 김일성과 남로당이 일으킨 공산 폭동이다, 극우단체들이 최근 제주 곳곳에 내건 현수막]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1년 앞으로 다가온 총선…OECD는 어떻게 국회의원 뽑을까? (다음 뉴스 ─ SBS 사실은)]]></title>
