@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-11T03:20:36.991Z</updated>
+    <updated>2023-04-11T04:25:10.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230411130112278</id>
+        <link href="https://v.daum.net/v/20230411130112278"/>
+        <updated>2023-04-11T04:22:56.275Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 더불어민주당이 문재인 정부 시절엔 쌀의 초과생산 물량을 의무적으로 매입하는 방안에 반대했다가 정권을 내주고 야당이 되자 입장을 바꿔 정부가 의무적으로 사들이도록 양곡관리법 개정을 추진했나? 윤석열 대통령이 민주당이 주도한 양곡관리법 개정안에 대해 지난 4일 법률안 거부권(재의요구권)을 행사한 이후 개정안을 둘러싼 여진이 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "후쿠시마서 기준치 14배 우럭"…피폭량 얼마나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230411102100380</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230406050023675"/>
         <updated>2023-04-05T20:22:08.304Z</updated>
         <content type="html"><![CDATA[한국전략이 지난해 11월 전력도매가격(SMP) 상한제가 시행돼도 민간발전사들의 손실은 발생하지 않을 것이라고 밝혔지만 지난해 12월부터 올해 1~2월 손실을 본 곳이 상당수 있는 것으로 확인됐다. 사진은 올해 2월 서울 시내 한 건물에 설치돼 있는 전력량계. 뉴시스   [파이낸셜뉴스] 한국전력이 지난해 11월 29일 산업통상자원부 출입 기자들과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 쌀 소비 촉진 대책, 효과 있나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230405201604507</id>
-        <link href="https://v.daum.net/v/20230405201604507"/>
-        <updated>2023-04-05T11:17:21.181Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이렇게 쌀 소비를 늘려서 재고를 해결 하자는 방안, 처음 나온 얘기가 아닙니다. 과연 이런 '쌀 소비 촉진 방안'이 현실적인 대책이 될 수 있는지, 팩트 체크, 알고 보니, 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 쌀 소비 운동이 범정부 차원에서 대대적으로 추진된 건 지난 2009년 여름입니다. 2년 연속 대풍년으로 쌀 생산량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["후쿠시마서 기준치 14배 우럭"…피폭량 얼마나? (다음 뉴스 ─ SBS 사실은)]]></title>
