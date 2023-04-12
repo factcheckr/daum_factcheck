@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-12T08:25:04.374Z</updated>
+    <updated>2023-04-12T09:21:08.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 양곡법 개정되면 쌀 초과생산 비율 2배?...KREI 보고서 분석했더니]]></title>
+        <id>https://v.daum.net/v/20230412172822910</id>
+        <link href="https://v.daum.net/v/20230412172822910"/>
+        <updated>2023-04-12T09:18:42.766Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 양곡관리법 개정안에 거부권을 행사하면서 한국농촌경제연구원(KREI)의 쌀 수급 전망 보고서를 인용했습니다. 정부가 남는 쌀을 의무적으로 사주는 법이 시행되면, 쌀 초과생산량도 크게 늘어서 막대한 추가 예산이 든다는 이유를 들었는데요, 농촌경제연구원의 보고서를 신지원 기자가 분석해봤습니다. [기자] 양곡관리법 개정안에 거부권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 동해안의 지독한 봄철 산불…"피해 규모 13배"]]></title>
         <id>https://v.daum.net/v/20230412161227885</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230408074801490"/>
         <updated>2023-04-07T23:17:39.307Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 후쿠시마 오염수 방류, 국제적·과학적으로 문제없다?]]></title>
-        <id>https://v.daum.net/v/20230407060109382</id>
-        <link href="https://v.daum.net/v/20230407060109382"/>
-        <updated>2023-04-06T21:15:04.110Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 최태용 기자 우혜림 인턴기자 = 일본 후쿠시마 원전 오염수 해양 방류를 둘러싼 논란이 지속되는 가운데, 일본 정부가 내놓은 오염수 방류 계획이 국제적·과학적으로 수용되고 있다는 주장이 제기됐다. 일본 산케이 신문의 구로다 가쓰히로 서울 주재 객원논설위원은 지난달 22일 YTN 라디오 '뉴스킹 박지훈입니다'에 출연해 "(후쿠시마 오염수 방]]></content>
     </entry>
 </feed>
