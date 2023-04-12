@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-12T06:25:15.824Z</updated>
+    <updated>2023-04-12T07:20:16.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 동해안의 지독한 봄철 산불…"피해 규모 13배"]]></title>
+        <id>https://v.daum.net/v/20230412161227885</id>
+        <link href="https://v.daum.net/v/20230412161227885"/>
+        <updated>2023-04-12T07:17:10.507Z</updated>
+        <content type="html"><![CDATA[화마(火魔)가 지나간 자리는 참혹했습니다. 이번 강릉 산불로 축구장 면적 530배에 이르는 산림 379㏊가 불탔습니다. 한 명이 숨졌고 16명이 다쳤으며, 323세대 649명의 이재민이 생겼습니다. 봄철이면 동해안 지역은 늘 비상입니다. 산불 피해가 유독 크기 때문입니다. 거센 바람이 주된 원인으로 꼽힙니다. 봄철 동해안 지방에 불을 몰고 온다는 화풍, 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 학폭 피해자가 원치 않으면 부모가 고소 못한다?]]></title>
         <id>https://v.daum.net/v/20230412085943968</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230407060109382"/>
         <updated>2023-04-06T21:15:04.110Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 최태용 기자 우혜림 인턴기자 = 일본 후쿠시마 원전 오염수 해양 방류를 둘러싼 논란이 지속되는 가운데, 일본 정부가 내놓은 오염수 방류 계획이 국제적·과학적으로 수용되고 있다는 주장이 제기됐다. 일본 산케이 신문의 구로다 가쓰히로 서울 주재 객원논설위원은 지난달 22일 YTN 라디오 '뉴스킹 박지훈입니다'에 출연해 "(후쿠시마 오염수 방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["4.3은 격 낮아 대통령 참석 의무 없다" 김재원 발언 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230406115701168</id>
-        <link href="https://v.daum.net/v/20230406115701168"/>
-        <updated>2023-04-06T03:19:49.738Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김재원 국민의힘 최고위원이 4월 3일 서울 여의도 국회에서 열린 최고위원회의에 참석해 있다.ⓒ 남소연[기사 수정 : 7일 오후 3시 37분]&nbsp; [검증대상]&nbsp;4.3은 기념일이라 대통령 참석 의무 없다? 국경일도 마찬가지 윤석열 대통령이 취임 후 첫 4.3희생자추념일(아래 4.3) 추념식에 불참한 것을 두고 여당 최고위원이 "(3]]></content>
     </entry>
 </feed>
