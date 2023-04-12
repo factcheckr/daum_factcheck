@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-11T23:19:13.197Z</updated>
+    <updated>2023-04-12T01:29:10.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 학폭 피해자가 원치 않으면 부모가 고소 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230412085943968</id>
+        <link href="https://v.daum.net/v/20230412085943968"/>
+        <updated>2023-04-12T01:27:17.336Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 학교폭력 피해자 고(故) 박주원 양 유족이 제기한 소송이 변호사의 재판 불출석으로 물거품이 된 사실이 알려지면서 학교와 수사 당국의 부실 대응 문제로까지 논란이 번지고 있다. 주원 양 어머니 이기철 씨는 지난 6일 MBC 라디오와의 인터뷰에서 "그(경찰서 여성청소년계) 담당자가 어머니가 고소를 하고 싶다고 하더라도 본인이 원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230411130112278</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230406115701168"/>
         <updated>2023-04-06T03:19:49.738Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김재원 국민의힘 최고위원이 4월 3일 서울 여의도 국회에서 열린 최고위원회의에 참석해 있다.ⓒ 남소연[기사 수정 : 7일 오후 3시 37분]&nbsp; [검증대상]&nbsp;4.3은 기념일이라 대통령 참석 의무 없다? 국경일도 마찬가지 윤석열 대통령이 취임 후 첫 4.3희생자추념일(아래 4.3) 추념식에 불참한 것을 두고 여당 최고위원이 "(3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한전 “SMP 상한제, 민간발전사 손실 없다”...사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230406050023675</id>
-        <link href="https://v.daum.net/v/20230406050023675"/>
-        <updated>2023-04-05T20:22:08.304Z</updated>
-        <content type="html"><![CDATA[한국전략이 지난해 11월 전력도매가격(SMP) 상한제가 시행돼도 민간발전사들의 손실은 발생하지 않을 것이라고 밝혔지만 지난해 12월부터 올해 1~2월 손실을 본 곳이 상당수 있는 것으로 확인됐다. 사진은 올해 2월 서울 시내 한 건물에 설치돼 있는 전력량계. 뉴시스   [파이낸셜뉴스] 한국전력이 지난해 11월 29일 산업통상자원부 출입 기자들과]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["후쿠시마서 기준치 14배 우럭"…피폭량 얼마나? (다음 뉴스 ─ SBS 사실은)]]></title>
