@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-13T20:21:05.360Z</updated>
+    <updated>2023-04-13T21:18:22.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정자교 붕괴는 ‘좌파’ 시장이 안전예산 줄인 탓? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230414060258082</id>
+        <link href="https://v.daum.net/v/20230414060258082"/>
+        <updated>2023-04-13T21:16:52.409Z</updated>
+        <content type="html"><![CDATA[이재명·은수미 등 전임 ‘좌파’ 시장들이 교량 점검과 보수 비용을 줄여 경기 성남시의 ‘정자교 보행로 붕괴사고’가 났다는 주장은 사실일까. 일각에선 책임론이 퍼지는 가운데 이는 사실과 거리가 있는 것으로 파악됐다. 보행로가 무너지며 두 명의 사상자가 발생한 경기도 성남시 정자교에서 지난 7일 경찰과 국과수 등 관계자들이 사고 원인을 찾기 위한 합동 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] ‘좌파’ 시장들이 안전예산 줄여 정자교 사고 났다? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230413185139913</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230410123309560"/>
         <updated>2023-04-10T04:22:51.489Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 8일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 윤 대통령이 양곡법 관련해서 말을 뒤집었다? 사실일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 1년 앞으로 다가온 총선…OECD는 어떻게 국회의원 뽑을까?]]></title>
-        <id>https://v.daum.net/v/20230409204505386</id>
-        <link href="https://v.daum.net/v/20230409204505386"/>
-        <updated>2023-04-09T12:32:55.362Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 내일(10일)이 총선 딱 1년 전입니다. 현재 국회가 국회의원을 어떤 방식으로 뽑을지, 논의하고 있는데요. 다른 나라들은 어떨까요. SBS 팩트체크, 사실은 팀이 OECD 국가 1만 2천여 명의 의원들, 어떻게 뽑힌 건지 전수 분석했습니다. 이경원 기자입니다. &lt;기자&gt; 국가별 선거제도, 워낙 복잡합니다. 단순 비교가 어렵습니다. 하지만, 다른 것]]></content>
     </entry>
 </feed>
