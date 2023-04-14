@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-13T23:20:09.985Z</updated>
+    <updated>2023-04-14T01:28:07.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 정상 외교에 대해 국정조사 한 전례가 없다?]]></title>
+        <id>https://v.daum.net/v/20230414084325400</id>
+        <link href="https://v.daum.net/v/20230414084325400"/>
+        <updated>2023-04-14T01:26:56.345Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 지난달 16~17일 개최된 한일정상회담을 둘러싸고 여야의 대립이 이어지고 있다. 강제 동원 ‘제3자 변제안’, 일본 후쿠시마 원전 오염수 해양 방류 등 논란이 지속되자 더불어민주당 등 야당은 지난달 29일 '일제 강제동원 굴욕해법 및 굴종적 한일정상회담 진상 규명을 위한 국정조사 요구서'를 국회에 제출했다. 이에 주호영 당시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정자교 붕괴는 ‘좌파’ 시장이 안전예산 줄인 탓? [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230414060258082</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230410123313566"/>
         <updated>2023-04-10T04:22:51.485Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 8일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 소아과는 이제 없어지는 건가? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤 대통령이 양곡법 관련해서 말을 뒤집었다? 사실일까?]]></title>
-        <id>https://v.daum.net/v/20230410123309560</id>
-        <link href="https://v.daum.net/v/20230410123309560"/>
-        <updated>2023-04-10T04:22:51.489Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 8일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 윤 대통령이 양곡법 관련해서 말을 뒤집었다? 사실일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
     </entry>
 </feed>
