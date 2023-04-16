@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-16T02:40:14.907Z</updated>
+    <updated>2023-04-16T03:20:42.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불청객' 황사, 메이드인차이나 아니다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230416120304687</id>
+        <link href="https://v.daum.net/v/20230416120304687"/>
+        <updated>2023-04-16T03:19:33.483Z</updated>
+        <content type="html"><![CDATA[핵심요약환구시보, 황사 발원지 中아닌 외부 주장…"중국은 통과지역" 韓영향 황사, 주로 고비사막·내몽골고원에서 발원 몽골 사막화 '심각'…中·몽골 모두 사막화 방지 노력 지지해야 최근 우리나라에 유입된 황사로 전국 하늘이 뿌옇게 흐려진 가운데 중국 내에서 황사가 중국에서 발원한 것이 아니라는 주장이 제기됐다. 중국 관영 매체 환구시보는 지난 13일 "한국이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]80년대 미세먼지 지금보다 좋았다?…미세먼지 현대사]]></title>
         <id>https://v.daum.net/v/20230415074800104</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230411130112278"/>
         <updated>2023-04-11T04:22:56.275Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 더불어민주당이 문재인 정부 시절엔 쌀의 초과생산 물량을 의무적으로 매입하는 방안에 반대했다가 정권을 내주고 야당이 되자 입장을 바꿔 정부가 의무적으로 사들이도록 양곡관리법 개정을 추진했나? 윤석열 대통령이 민주당이 주도한 양곡관리법 개정안에 대해 지난 4일 법률안 거부권(재의요구권)을 행사한 이후 개정안을 둘러싼 여진이 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "후쿠시마서 기준치 14배 우럭"…피폭량 얼마나?]]></title>
-        <id>https://v.daum.net/v/20230411102100380</id>
-        <link href="https://v.daum.net/v/20230411102100380"/>
-        <updated>2023-04-11T01:26:31.038Z</updated>
-        <content type="html"><![CDATA[최근, 강제 징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. 일본 후쿠시마 원]]></content>
     </entry>
 </feed>
