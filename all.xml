@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-18T01:27:20.169Z</updated>
+    <updated>2023-04-18T02:36:39.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이한열·박종철 열사는 현행법상 국가유공자가 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230418104713076</id>
+        <link href="https://v.daum.net/v/20230418104713076"/>
+        <updated>2023-04-18T02:34:24.979Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 최태용 기자 우혜림 인턴기자 = 민주화 운동의 주역으로 알려진 고(故) 이한열·박종철 열사가 국가유공자로 인정받지 못하고 있다는 비판이 해마다 제기된다. 세월호참사 진상규명을 위한 비영리 단체인 4·16 재단의 박래군 상임이사는 지난 11일 MBC 라디오 '신장식의 뉴스하이킥'에서 "4·19와 5·18 외에 민주화운동을 하다가 돌아가신 분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불청객' 황사, 메이드인차이나 아니다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230416120304687</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230412085943968"/>
         <updated>2023-04-12T01:27:17.336Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 학교폭력 피해자 고(故) 박주원 양 유족이 제기한 소송이 변호사의 재판 불출석으로 물거품이 된 사실이 알려지면서 학교와 수사 당국의 부실 대응 문제로까지 논란이 번지고 있다. 주원 양 어머니 이기철 씨는 지난 6일 MBC 라디오와의 인터뷰에서 "그(경찰서 여성청소년계) 담당자가 어머니가 고소를 하고 싶다고 하더라도 본인이 원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 민주당 양곡관리법 개정 입장, 여당일때 야당일때 달랐나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230411130112278</id>
-        <link href="https://v.daum.net/v/20230411130112278"/>
-        <updated>2023-04-11T04:22:56.275Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 더불어민주당이 문재인 정부 시절엔 쌀의 초과생산 물량을 의무적으로 매입하는 방안에 반대했다가 정권을 내주고 야당이 되자 입장을 바꿔 정부가 의무적으로 사들이도록 양곡관리법 개정을 추진했나? 윤석열 대통령이 민주당이 주도한 양곡관리법 개정안에 대해 지난 4일 법률안 거부권(재의요구권)을 행사한 이후 개정안을 둘러싼 여진이 이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동해안의 지독한 봄철 산불…"피해 규모 13배" (다음 뉴스 ─ SBS 사실은)]]></title>
