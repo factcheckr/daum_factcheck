@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-18T05:20:16.359Z</updated>
+    <updated>2023-04-18T06:25:33.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 같은 보고서 놓고 민주당 vs 민주당, 누구 말 맞나?]]></title>
+        <id>https://v.daum.net/v/20230418142706977</id>
+        <link href="https://v.daum.net/v/20230418142706977"/>
+        <updated>2023-04-18T06:24:28.106Z</updated>
+        <content type="html"><![CDATA[최근, 강제 징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. 어제 일본 홋카이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이한열·박종철 열사는 현행법상 국가유공자가 아니다?]]></title>
         <id>https://v.daum.net/v/20230418104713076</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230412161227885"/>
         <updated>2023-04-12T07:17:10.507Z</updated>
         <content type="html"><![CDATA[화마(火魔)가 지나간 자리는 참혹했습니다. 이번 강릉 산불로 축구장 면적 530배에 이르는 산림 379㏊가 불탔습니다. 한 명이 숨졌고 16명이 다쳤으며, 323세대 649명의 이재민이 생겼습니다. 봄철이면 동해안 지역은 늘 비상입니다. 산불 피해가 유독 크기 때문입니다. 거센 바람이 주된 원인으로 꼽힙니다. 봄철 동해안 지방에 불을 몰고 온다는 화풍, 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 학폭 피해자가 원치 않으면 부모가 고소 못한다?]]></title>
-        <id>https://v.daum.net/v/20230412085943968</id>
-        <link href="https://v.daum.net/v/20230412085943968"/>
-        <updated>2023-04-12T01:27:17.336Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 학교폭력 피해자 고(故) 박주원 양 유족이 제기한 소송이 변호사의 재판 불출석으로 물거품이 된 사실이 알려지면서 학교와 수사 당국의 부실 대응 문제로까지 논란이 번지고 있다. 주원 양 어머니 이기철 씨는 지난 6일 MBC 라디오와의 인터뷰에서 "그(경찰서 여성청소년계) 담당자가 어머니가 고소를 하고 싶다고 하더라도 본인이 원]]></content>
     </entry>
 </feed>

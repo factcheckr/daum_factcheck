@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2023-04-18T05:20:16.349Z</updated>
+    <updated>2023-04-18T06:25:33.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 보고서 놓고 민주당 vs 민주당, 누구 말 맞나?]]></title>
+        <id>https://v.daum.net/v/20230418142706977</id>
+        <link href="https://v.daum.net/v/20230418142706977"/>
+        <updated>2023-04-18T06:24:40.019Z</updated>
+        <content type="html"><![CDATA[최근, 강제 징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. 어제 일본 홋카이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동해안의 지독한 봄철 산불…"피해 규모 13배"]]></title>
         <id>https://v.daum.net/v/20230412161227885</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230308203905528"/>
         <updated>2023-03-08T12:40:37.883Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 강제동원 관련 해법을 둘러싼 논란에서 정부안을 옹호하는 주장들을 보면 그동안 우리나라가 일본에 요구한 사과와 배상 요구가 지나쳤다는 부분이 있습니다. 정말 그렇게 볼 수 있는 건지, 다른 나라는 어떤지, 사실은 코너 이경원 기자가 따져봤습니다. &lt;기자&gt; 사죄, 배상하라고 악쓰는 나라가 한국 말고 어디 있나, 민주평화통일자문회 석동현 사무처장의 발언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 '체포 요청'은 역대 최장? 따져 보니…]]></title>
-        <id>https://v.daum.net/v/20230301124507728</id>
-        <link href="https://v.daum.net/v/20230301124507728"/>
-        <updated>2023-03-01T04:26:50.392Z</updated>
-        <content type="html"><![CDATA[더불어민주당 이재명 대표의 체포동의안이 국회에서 부결됐습니다. 의원 297명의 무기명 투표 결과 찬성 139명, 반대 138명, 무효 11명, 기권 9명이었습니다. 이 대표를 구속해 수사를 이어가려던 검찰의 계획은 제동이 걸렸지만, '가까스로' 부결된 이재명 대표도 정치적 위기를 맞고 있다는 해석이 나왔습니다. 투표에 앞서 국회 본회의장에서는 이 대표와]]></content>
     </entry>
 </feed>
