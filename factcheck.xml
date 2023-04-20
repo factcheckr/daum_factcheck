@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-20T11:17:53.041Z</updated>
+    <updated>2023-04-20T12:37:59.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 후쿠시마산 일본 수입 멍게 국내 팔리고 있다?]]></title>
+        <id>https://v.daum.net/v/20230420211807804</id>
+        <link href="https://v.daum.net/v/20230420211807804"/>
+        <updated>2023-04-20T12:35:52.748Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 일본 후쿠시마 오염수 논란에 어민들 걱정이 커지고 있습니다. 특히 요즘 제철을 맞은 멍게에까지 불똥이 튀었죠. 팩트 체크 '사실은'팀이 멍게 먹어도 되는 것인지 따져봤습니다. 이경원 기자입니다. &lt;기자&gt; 남해안에서는 제철을 맞은 멍게 수확이 한창입니다. 생산량도 2배 가까이 늘어난 멍게 풍년, 그런데 작업 시간 맞춰 줄지어 대기하던 활어차가 보이지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 애꿎은 '후쿠시마 멍게' 논란에 어민 한숨]]></title>
         <id>https://v.daum.net/v/20230420180900664</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230413185139913"/>
         <updated>2023-04-13T10:20:10.786Z</updated>
         <content type="html"><![CDATA[이재명·은수미 등 ‘좌파’ 전임 시장들이 교량 점검과 보수 비용을 줄여 경기 성남시의 ‘정자교 보행로 붕괴사고’가 났다는 주장은 사실일까.&nbsp; 일각에서&nbsp;책임론이 퍼지는 가운데 이는 사실과 거리가 먼&nbsp;것으로 파악됐다. 정확히 말하면 연 예산 3조원(2023년 기준)이 넘는 성남시는 애초부터 안전점검·보수비용에 대한 책정이 낮았다고 볼 수 있다. 최근 시는 관내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 양곡법 개정되면 쌀 초과생산 비율 2배?...KREI 보고서 분석했더니]]></title>
-        <id>https://v.daum.net/v/20230412172822910</id>
-        <link href="https://v.daum.net/v/20230412172822910"/>
-        <updated>2023-04-12T09:18:42.766Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 양곡관리법 개정안에 거부권을 행사하면서 한국농촌경제연구원(KREI)의 쌀 수급 전망 보고서를 인용했습니다. 정부가 남는 쌀을 의무적으로 사주는 법이 시행되면, 쌀 초과생산량도 크게 늘어서 막대한 추가 예산이 든다는 이유를 들었는데요, 농촌경제연구원의 보고서를 신지원 기자가 분석해봤습니다. [기자] 양곡관리법 개정안에 거부권]]></content>
     </entry>
 </feed>
