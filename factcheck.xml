@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-20T08:25:00.027Z</updated>
+    <updated>2023-04-20T09:20:54.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 애꿎은 '후쿠시마 멍게' 논란에 어민 한숨]]></title>
+        <id>https://v.daum.net/v/20230420180900664</id>
+        <link href="https://v.daum.net/v/20230420180900664"/>
+        <updated>2023-04-20T09:19:35.581Z</updated>
+        <content type="html"><![CDATA[요즘 멍게가 제철입니다. 없어서 못 파는 시기여야 한다는데, 요즘은 값을 내려도 팔 곳이 마땅치 않다고 합니다. 후쿠시마 오염수 방류 논란의 직격탄을 애꿎은 멍게가 맞았기 때문입니다. 온라인 공간에서는 멍게 안전성 문제가 도마 위에 올랐습니다. 실제, 먹을거리 안전에 관심이 많은 누리꾼 중심으로 "후쿠시마산 멍게가 팔리고 있다", "멍게 먹으면 안 되겠다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 같은 보고서 놓고 민주당 vs 민주당, 누구 말 맞나?]]></title>
         <id>https://v.daum.net/v/20230418142706977</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230412172822910"/>
         <updated>2023-04-12T09:18:42.766Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령은 양곡관리법 개정안에 거부권을 행사하면서 한국농촌경제연구원(KREI)의 쌀 수급 전망 보고서를 인용했습니다. 정부가 남는 쌀을 의무적으로 사주는 법이 시행되면, 쌀 초과생산량도 크게 늘어서 막대한 추가 예산이 든다는 이유를 들었는데요, 농촌경제연구원의 보고서를 신지원 기자가 분석해봤습니다. [기자] 양곡관리법 개정안에 거부권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 동해안의 지독한 봄철 산불…"피해 규모 13배"]]></title>
-        <id>https://v.daum.net/v/20230412161227885</id>
-        <link href="https://v.daum.net/v/20230412161227885"/>
-        <updated>2023-04-12T07:17:10.507Z</updated>
-        <content type="html"><![CDATA[화마(火魔)가 지나간 자리는 참혹했습니다. 이번 강릉 산불로 축구장 면적 530배에 이르는 산림 379㏊가 불탔습니다. 한 명이 숨졌고 16명이 다쳤으며, 323세대 649명의 이재민이 생겼습니다. 봄철이면 동해안 지역은 늘 비상입니다. 산불 피해가 유독 크기 때문입니다. 거센 바람이 주된 원인으로 꼽힙니다. 봄철 동해안 지방에 불을 몰고 온다는 화풍, 이]]></content>
     </entry>
 </feed>
