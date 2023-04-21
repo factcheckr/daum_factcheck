@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-21T11:17:03.823Z</updated>
+    <updated>2023-04-21T12:37:32.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 활주로에서 고추 말린 지방공항‥사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230421202207727</id>
+        <link href="https://v.daum.net/v/20230421202207727"/>
+        <updated>2023-04-21T12:35:21.012Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 예비타당성 조사 없이 지방 공항을 지을 수 있는 특별법이 통과되면서 여권 정치인들 사이에서 설전이 벌어지고 있습니다. 여기서 공통적으로 언급되는 표현이 '활주로에서 고추 말리는 공항'입니다. 지방공항 건설이 논란이 될 때마다 이용객이 없어 경제성이 떨어진다는 주장의 근거로 이 표현이 등장해 왔는데요. 실제로 지방 공항 활주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 국내산과 일본산 '멍게 구분법', 맞는 걸까요? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230421140004094</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230414084325400"/>
         <updated>2023-04-14T01:26:56.345Z</updated>
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 지난달 16~17일 개최된 한일정상회담을 둘러싸고 여야의 대립이 이어지고 있다. 강제 동원 ‘제3자 변제안’, 일본 후쿠시마 원전 오염수 해양 방류 등 논란이 지속되자 더불어민주당 등 야당은 지난달 29일 '일제 강제동원 굴욕해법 및 굴종적 한일정상회담 진상 규명을 위한 국정조사 요구서'를 국회에 제출했다. 이에 주호영 당시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정자교 붕괴는 ‘좌파’ 시장이 안전예산 줄인 탓? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230414060258082</id>
-        <link href="https://v.daum.net/v/20230414060258082"/>
-        <updated>2023-04-13T21:16:52.409Z</updated>
-        <content type="html"><![CDATA[이재명·은수미 등 전임 ‘좌파’ 시장들이 교량 점검과 보수 비용을 줄여 경기 성남시의 ‘정자교 보행로 붕괴사고’가 났다는 주장은 사실일까. 일각에선 책임론이 퍼지는 가운데 이는 사실과 거리가 있는 것으로 파악됐다. 보행로가 무너지며 두 명의 사상자가 발생한 경기도 성남시 정자교에서 지난 7일 경찰과 국과수 등 관계자들이 사고 원인을 찾기 위한 합동 감]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내산과 일본산 '멍게 구분법', 맞는 걸까요? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[최근, 강제 징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. SBS 팩트체크]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[활주로에서 고추 말린 지방공항‥사실일까? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230421202207727</id>
+        <link href="https://v.daum.net/v/20230421202207727"/>
+        <updated>2023-04-21T12:36:38.985Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 예비타당성 조사 없이 지방 공항을 지을 수 있는 특별법이 통과되면서 여권 정치인들 사이에서 설전이 벌어지고 있습니다. 여기서 공통적으로 언급되는 표현이 '활주로에서 고추 말리는 공항'입니다. 지방공항 건설이 논란이 될 때마다 이용객이 없어 경제성이 떨어진다는 주장의 근거로 이 표현이 등장해 왔는데요. 실제로 지방 공항 활주]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세월호 피해자 의료지원 연장은 혈세낭비? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230414201614759</id>
         <link href="https://v.daum.net/v/20230414201614759"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20221108164312822"/>
         <updated>2022-11-16T17:34:39.963Z</updated>
         <content type="html"><![CDATA[156명이 숨지고 196명이 다친 '10·29 참사'가 일어난지 열흘이 지났습니다. 여전히 국민들은 슬픔과 애도에 잠겨 있고, 사고 원인과 책임 규명을 요구하는 목소리도 높아지고 있습니다. 재난 관리 주무부처인 이상민 행정안전부 장관의 거취도 주목을 받고 있습니다. 이 장관은 "주어진 현재 위치에서 제가 할 수 있는 책임을 다하겠다"며 사실상 사퇴 거부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경찰 미리 배치했어도 못 막았다"?‥과거 핼로윈 보니 (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20221101204617745</id>
-        <link href="https://v.daum.net/v/20221101204617745"/>
-        <updated>2022-11-16T17:34:39.963Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최악의 인명피해를 낸 이번 이태원 참사. 주무부처 장관의 발언을 두고 논란이 끊이지 않고 있습니다. [이상민/행정안전부 장관] "경찰과 소방인력을 미리 배치함으로써 해결될 수 있었던 문제는 아니었던 것으로‥" 예기치 못한 사고였고 경찰도 할만큼은 했다는 주장인데, 같은 장소, 비슷한 상황에서 경찰의 안전 조치가 이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ KBS 팩트체크K)]]></title>

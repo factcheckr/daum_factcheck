@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-04-21T11:17:03.820Z</updated>
+    <updated>2023-04-21T12:37:32.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[활주로에서 고추 말린 지방공항‥사실일까?]]></title>
+        <id>https://v.daum.net/v/20230421202207727</id>
+        <link href="https://v.daum.net/v/20230421202207727"/>
+        <updated>2023-04-21T12:36:38.985Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 예비타당성 조사 없이 지방 공항을 지을 수 있는 특별법이 통과되면서 여권 정치인들 사이에서 설전이 벌어지고 있습니다. 여기서 공통적으로 언급되는 표현이 '활주로에서 고추 말리는 공항'입니다. 지방공항 건설이 논란이 될 때마다 이용객이 없어 경제성이 떨어진다는 주장의 근거로 이 표현이 등장해 왔는데요. 실제로 지방 공항 활주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세월호 피해자 의료지원 연장은 혈세낭비?]]></title>
         <id>https://v.daum.net/v/20230414201614759</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221108164312822"/>
         <updated>2022-11-16T17:34:39.963Z</updated>
         <content type="html"><![CDATA[156명이 숨지고 196명이 다친 '10·29 참사'가 일어난지 열흘이 지났습니다. 여전히 국민들은 슬픔과 애도에 잠겨 있고, 사고 원인과 책임 규명을 요구하는 목소리도 높아지고 있습니다. 재난 관리 주무부처인 이상민 행정안전부 장관의 거취도 주목을 받고 있습니다. 이 장관은 "주어진 현재 위치에서 제가 할 수 있는 책임을 다하겠다"며 사실상 사퇴 거부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경찰 미리 배치했어도 못 막았다"?‥과거 핼로윈 보니]]></title>
-        <id>https://v.daum.net/v/20221101204617745</id>
-        <link href="https://v.daum.net/v/20221101204617745"/>
-        <updated>2022-11-16T17:34:39.963Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최악의 인명피해를 낸 이번 이태원 참사. 주무부처 장관의 발언을 두고 논란이 끊이지 않고 있습니다. [이상민/행정안전부 장관] "경찰과 소방인력을 미리 배치함으로써 해결될 수 있었던 문제는 아니었던 것으로‥" 예기치 못한 사고였고 경찰도 할만큼은 했다는 주장인데, 같은 장소, 비슷한 상황에서 경찰의 안전 조치가 이]]></content>
     </entry>
 </feed>
