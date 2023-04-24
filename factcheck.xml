@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-24T06:27:10.218Z</updated>
+    <updated>2023-04-24T07:20:46.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤 대통령은 '순방 효과' 없었다" 보도 '대체로 사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230424154201500</id>
+        <link href="https://v.daum.net/v/20230424154201500"/>
+        <updated>2023-04-24T07:18:30.997Z</updated>
+        <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;미국을 국빈 방문하는 윤석열 대통령과 김건희 여사가 24일 성남 서울공항에서 공군 1호기에 탑승하고 있다.ⓒ 연합뉴스&nbsp; [검증 대상] "윤석열 대통령은 순방 효과 없었다"는 언론 보도 윤석열 대통령은 24일부터 30일까지 미국을 국빈 자격으로 방문해 바이든 미국 대통령과 한미 정상회담을 할 예정이다.&nbsp; 하지만 주요 언론에서는 윤 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 학교폭력이 2017년부터 가파르게 늘고 있다?]]></title>
         <id>https://v.daum.net/v/20230424092022098</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230416120304687"/>
         <updated>2023-04-16T03:19:33.483Z</updated>
         <content type="html"><![CDATA[핵심요약환구시보, 황사 발원지 中아닌 외부 주장…"중국은 통과지역" 韓영향 황사, 주로 고비사막·내몽골고원에서 발원 몽골 사막화 '심각'…中·몽골 모두 사막화 방지 노력 지지해야 최근 우리나라에 유입된 황사로 전국 하늘이 뿌옇게 흐려진 가운데 중국 내에서 황사가 중국에서 발원한 것이 아니라는 주장이 제기됐다. 중국 관영 매체 환구시보는 지난 13일 "한국이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]80년대 미세먼지 지금보다 좋았다?…미세먼지 현대사]]></title>
-        <id>https://v.daum.net/v/20230415074800104</id>
-        <link href="https://v.daum.net/v/20230415074800104"/>
-        <updated>2023-04-14T23:18:37.797Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
     </entry>
 </feed>
