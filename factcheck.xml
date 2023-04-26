@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-26T06:25:55.588Z</updated>
+    <updated>2023-04-26T08:26:52.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박홍근 "헌재, 민형배 탈당 문제 삼지 않았다"…따져보니 [사실확인]]]></title>
+        <id>https://v.daum.net/v/20230426162511279</id>
+        <link href="https://v.daum.net/v/20230426162511279"/>
+        <updated>2023-04-26T08:25:37.879Z</updated>
+        <content type="html"><![CDATA[민형배 무소속 의원이 더불어민주당으로 전격 복당했습니다. 이른바 '검수완박법' 처리 도중 탈당한지 1년여 만입니다. 박홍근 민주당 원내대표는 복당 사실을 전하면서 "헌법재판소가 민 의원의 탈당을 문제 삼지는 않았다"며 "다만 소수 여당의 심사권 제한을 지적했다"라고 말했습니다. 헌재가 앞서 검수완박법 통과에 문제가 없었다는 결정을 내리면서 민 의원이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트파인더] '간호법'은 尹 대선공약?… 후보 때 "간호협회 숙원 실현"]]></title>
+        <id>https://v.daum.net/v/20230426162041075</id>
+        <link href="https://v.daum.net/v/20230426162041075"/>
+        <updated>2023-04-26T08:25:37.882Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 27일 국회 본회의 처리를 예고한 간호법 제정안에 대해 국민의힘은 윤석열 대통령의 거부권 행사 건의 카드로 대치하고 있다. 민주당은 '지난해 대선 당시 양당 후보의 공통 공약'이라는 명분으로 간호법 제정안 강행 처리를 벼르고 있는 반면, 국민의힘 지도부는 "대선공약이 아니었다"며 선을 긋고 있다. 그러나 여당 내에서도  "(윤 대통령이) 거부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230426114814382</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[[김시연, 박종현 기자] 2024년 4월 총선이 1년 앞으로 다가왔습니다. 국회의원 정수를 100명으로 줄여도 되는지, 원내정당이 늘어나면 정말 정치가 불안정해지는지, 비례대표를 늘려야 여성과 청년 비율도 늘어나는지, 국회의원 선거제도 주요 쟁점을 OECD(경제협력개발기구) 비교 분석을 통해 아래와 같이 팩트체크합니다.&nbsp; &lt;편집자말&gt;&nbsp;&nbsp; 1편 "한국 국회의]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["한국 국회의원 100명이면 충분" '대체로 거짓' [오마이팩트]]]></title>
+        <title type="html"><![CDATA["한국 국회의원 100명이면 충분" 검증해보니  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230426114801369</id>
         <link href="https://v.daum.net/v/20230426114801369"/>
         <updated>2023-04-26T03:20:10.021Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230424154201500"/>
         <updated>2023-04-24T07:18:30.997Z</updated>
         <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;미국을 국빈 방문하는 윤석열 대통령과 김건희 여사가 24일 성남 서울공항에서 공군 1호기에 탑승하고 있다.ⓒ 연합뉴스&nbsp; [검증 대상] "윤석열 대통령은 순방 효과 없었다"는 언론 보도 윤석열 대통령은 24일부터 30일까지 미국을 국빈 자격으로 방문해 바이든 미국 대통령과 한미 정상회담을 할 예정이다.&nbsp; 하지만 주요 언론에서는 윤 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 학교폭력이 2017년부터 가파르게 늘고 있다?]]></title>
-        <id>https://v.daum.net/v/20230424092022098</id>
-        <link href="https://v.daum.net/v/20230424092022098"/>
-        <updated>2023-04-24T01:36:15.866Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 국가수사본부장에 임명됐다가 낙마한 정순신 변호사 아들의 학교폭력 사건을 계기로 학교폭력에 대한 관심이 고조되고 있다. 이주호 사회부총리 겸 교육부장관은 정부의 '학교폭력 근절 종합대책'이 나온 다음날인 지난 13일 MBC 라디오와의 인터뷰에서 "2017년을 기점으로 해서 학교폭력이 가파르게 올라가는 것 같다"고 말했다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]제로슈가 전성시대…'무설탕=0칼로리' 믿었다간 큰 일]]></title>
-        <id>https://v.daum.net/v/20230422074800461</id>
-        <link href="https://v.daum.net/v/20230422074800461"/>
-        <updated>2023-04-21T23:18:07.640Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆ 선]]></content>
     </entry>
 </feed>
