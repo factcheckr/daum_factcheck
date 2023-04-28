@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-28T11:17:01.955Z</updated>
+    <updated>2023-04-28T12:35:44.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["전세 사기가 임대차3법 탓? 윤석열 정부의 마녀사냥" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230428205702341</id>
+        <link href="https://v.daum.net/v/20230428205702341"/>
+        <updated>2023-04-28T12:34:43.610Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;최은영 한국도시연구소장(자료 사진)ⓒ 이희훈&nbsp; "전세 사기가 임대차 3법 때문이라고요? 그냥 아무 말 대잔치죠." 전세 사기와 깡통 전세(역전세) 피해가 확산되자, 윤석열 정부와 보수 언론은 계약갱신청구권, 전월세 인상률 상한제, 전월세신고제 등 '임대차 3법'에 책임을 돌렸다. &lt;조선일보&gt;는 지난 4월 20일 기사("전세사기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]외국인 관광객 소비 분석 믿어도 될까?…'中 바르고, 日 먹는데 돈 쓴다?' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230428193600893</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230425192822941"/>
         <updated>2023-04-25T11:15:37.198Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 동물들이 지진이나 자연재해를 예측한다는 속설, 사실일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 마약을 몰래 먹여도 처벌할 수 있는 법조항이 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230425192821940</id>
-        <link href="https://v.daum.net/v/20230425192821940"/>
-        <updated>2023-04-25T11:15:37.201Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 마약을 몰래 먹여도 처벌할 수 있는 법조항이 없다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '일본 무릎' 발언, 워싱턴포스트에 직접 물었습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 예산 15% 감액은 사실…서울시 “내년 일부 기관 ‘등록제’ 전환 가정한 것”교육청 등록조건 까다롭고 지원액 작으면 ‘서울형’ 잔류…결국 예산 문제로 서울지역 대안학교 교사와 학생, 대안교육 관계자들이 지나달 23일 서울시청 앞에 섰다. 이들은 오세훈 서울시장 취임 이후 서울시가 2022년도 대안학교 지원 예산을 15% 삭감했으며, 서울형 신고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["전세 사기가 임대차3법 탓? 윤석열 정부의 마녀사냥" (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20230428205702341</id>
+        <link href="https://v.daum.net/v/20230428205702341"/>
+        <updated>2023-04-28T12:35:34.635Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;최은영 한국도시연구소장(자료 사진)ⓒ 이희훈&nbsp; "전세 사기가 임대차 3법 때문이라고요? 그냥 아무 말 대잔치죠." 전세 사기와 깡통 전세(역전세) 피해가 확산되자, 윤석열 정부와 보수 언론은 계약갱신청구권, 전월세 인상률 상한제, 전월세신고제 등 '임대차 3법'에 책임을 돌렸다. &lt;조선일보&gt;는 지난 4월 20일 기사("전세사기]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230426114814382</id>
         <link href="https://v.daum.net/v/20230426114814382"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20230304113913171"/>
         <updated>2023-03-04T02:48:33.048Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 1일 서울 중구 유관순 기념관에서 열린 제104주년 3.1절 기념식에서 기념사를 하고 있다. ⓒ 연합뉴스&nbsp; 3.1절 기념사에서 '일본 과거사 반성' 언급 안한 건 2011년 이후 처음&nbsp; 윤석열 대통령의 첫 3.1절 기념사를 향한 비판이 거세다. 윤 대통령은 지난 1일 104주년 3.1절(삼일절) 기념사에서 "지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정부가 노조 회계장부 볼 근거 없다" 우원식 발언은 '사실' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20230227114203237</id>
-        <link href="https://v.daum.net/v/20230227114203237"/>
-        <updated>2023-02-27T02:53:26.505Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;우원식 더불어민주당 의원이 2022년 9월 26일 서울 여의도 국회에서 열린 환경노동위원회 제2차 전체회의에서 발언하고 있다.ⓒ 공동취재사진&nbsp;&nbsp; [검증대상] "정부가 노조 회계장부 들여다볼 근거 없다" 우원식 의원 주장 윤석열 정부가 노동조합 300여 곳에 재정장부와 서류를 비치했다는 증빙자료 제출을 요구하면서, '내지'만 제출하지 않]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 증거는 못 대면서 기상관측용 풍선? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

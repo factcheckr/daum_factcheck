@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-28T11:17:01.942Z</updated>
+    <updated>2023-04-28T12:35:44.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전세 사기가 임대차3법 탓? 윤석열 정부의 마녀사냥" [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230428205702341</id>
+        <link href="https://v.daum.net/v/20230428205702341"/>
+        <updated>2023-04-28T12:34:43.610Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;최은영 한국도시연구소장(자료 사진)ⓒ 이희훈&nbsp; "전세 사기가 임대차 3법 때문이라고요? 그냥 아무 말 대잔치죠." 전세 사기와 깡통 전세(역전세) 피해가 확산되자, 윤석열 정부와 보수 언론은 계약갱신청구권, 전월세 인상률 상한제, 전월세신고제 등 '임대차 3법'에 책임을 돌렸다. &lt;조선일보&gt;는 지난 4월 20일 기사("전세사기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]외국인 관광객 소비 분석 믿어도 될까?…'中 바르고, 日 먹는데 돈 쓴다?']]></title>
         <id>https://v.daum.net/v/20230428193600893</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230425192822941"/>
         <updated>2023-04-25T11:15:37.198Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 동물들이 지진이나 자연재해를 예측한다는 속설, 사실일까? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 마약을 몰래 먹여도 처벌할 수 있는 법조항이 없다?]]></title>
-        <id>https://v.daum.net/v/20230425192821940</id>
-        <link href="https://v.daum.net/v/20230425192821940"/>
-        <updated>2023-04-25T11:15:37.201Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 마약을 몰래 먹여도 처벌할 수 있는 법조항이 없다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
     </entry>
 </feed>
