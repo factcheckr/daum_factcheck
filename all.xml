@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-28T10:21:34.207Z</updated>
+    <updated>2023-04-28T11:17:01.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]외국인 관광객 소비 분석 믿어도 될까?…'中 바르고, 日 먹는데 돈 쓴다?' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230428193600893</id>
+        <link href="https://v.daum.net/v/20230428193600893"/>
+        <updated>2023-04-28T11:15:58.241Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "토지거래허가제는 재산권 침해다"...사실일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230428050018921</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230425192821940"/>
         <updated>2023-04-25T11:15:37.201Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 마약을 몰래 먹여도 처벌할 수 있는 법조항이 없다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 음주운전을 방조해도 처벌을 받는 사람들은 거의 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230425192712917</id>
-        <link href="https://v.daum.net/v/20230425192712917"/>
-        <updated>2023-04-25T11:15:37.203Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 4월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 [팩트체크] 음주운전을 방조해도 처벌을 받는 사람들은 거의 없다? * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '일본 무릎' 발언, 워싱턴포스트에 직접 물었습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
