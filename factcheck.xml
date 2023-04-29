@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-29T21:16:43.699Z</updated>
+    <updated>2023-04-29T22:18:16.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 4대강 사업 과거 정부서 어떤 평가를 받았나]]></title>
+        <id>https://v.daum.net/v/20230430070017053</id>
+        <link href="https://v.daum.net/v/20230430070017053"/>
+        <updated>2023-04-29T22:17:13.611Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 태생부터 논란에 휩싸였던 이른바 '4대강 사업'이 다시 갈등의 중심에 들어설 조짐이다. 윤석열 대통령은 이달 4일 국무회의에서 남부지방 가뭄 대책과 관련, "그간 방치된 4대강 보를 적극 활용하라"고 지시한 데 이어 17일 한덕수 국무총리와의 주례회동에서도 "기후 위기로 극심한 가뭄과 홍수가 반복되는 상황에서 과학적이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 우리 교과서는 '강제노동' 충실히 기록?...日 교과서 보기도 민망]]></title>
         <id>https://v.daum.net/v/20230430050716308</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230426162041075"/>
         <updated>2023-04-26T08:25:37.882Z</updated>
         <content type="html"><![CDATA[더불어민주당이 27일 국회 본회의 처리를 예고한 간호법 제정안에 대해 국민의힘은 윤석열 대통령의 거부권 행사 건의 카드로 대치하고 있다. 민주당은 '지난해 대선 당시 양당 후보의 공통 공약'이라는 명분으로 간호법 제정안 강행 처리를 벼르고 있는 반면, 국민의힘 지도부는 "대선공약이 아니었다"며 선을 긋고 있다. 그러나 여당 내에서도  "(윤 대통령이) 거부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230426114814382</id>
-        <link href="https://v.daum.net/v/20230426114814382"/>
-        <updated>2023-04-26T03:20:10.008Z</updated>
-        <content type="html"><![CDATA[[김시연, 박종현 기자] 2024년 4월 총선이 1년 앞으로 다가왔습니다. 국회의원 정수를 100명으로 줄여도 되는지, 원내정당이 늘어나면 정말 정치가 불안정해지는지, 비례대표를 늘려야 여성과 청년 비율도 늘어나는지, 국회의원 선거제도 주요 쟁점을 OECD(경제협력개발기구) 비교 분석을 통해 아래와 같이 팩트체크합니다.&nbsp; &lt;편집자말&gt;&nbsp;&nbsp; 1편 "한국 국회의]]></content>
     </entry>
 </feed>
