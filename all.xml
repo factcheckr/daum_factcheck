@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T10:20:06.771Z</updated>
+    <updated>2023-04-30T11:15:25.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 엠폭스 여름에 감염 더 잘 된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230430195347400</id>
+        <link href="https://v.daum.net/v/20230430195347400"/>
+        <updated>2023-04-30T11:14:13.227Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 지난해 6월 첫 확진자가 나온 뒤 주춤했던 엠폭스, 오늘까지 42명이 확진 판정을 받았는데요. 코로나19에서 일상 회복한 지 반년도 안됐는데 심상치 않은 엠폭스 확산세, 불안한 게 사실인데요. 특히 여름에 엠폭스 확진자가 폭증할 거라는 우려가 있는데, 사실확인, 표선우 기자가 알아봤습니다. 【 기자 】 코로나보단 낮은 전염]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 4대강 사업 과거 정부서 어떤 평가를 받았나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230430070017053</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230426162511279"/>
         <updated>2023-04-26T08:25:37.879Z</updated>
         <content type="html"><![CDATA[민형배 무소속 의원이 더불어민주당으로 전격 복당했습니다. 이른바 '검수완박법' 처리 도중 탈당한지 1년여 만입니다. 박홍근 민주당 원내대표는 복당 사실을 전하면서 "헌법재판소가 민 의원의 탈당을 문제 삼지는 않았다"며 "다만 소수 여당의 심사권 제한을 지적했다"라고 말했습니다. 헌재가 앞서 검수완박법 통과에 문제가 없었다는 결정을 내리면서 민 의원이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트파인더] '간호법'은 尹 대선공약?… 후보 때 "간호협회 숙원 실현" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230426162041075</id>
-        <link href="https://v.daum.net/v/20230426162041075"/>
-        <updated>2023-04-26T08:25:37.882Z</updated>
-        <content type="html"><![CDATA[더불어민주당이 27일 국회 본회의 처리를 예고한 간호법 제정안에 대해 국민의힘은 윤석열 대통령의 거부권 행사 건의 카드로 대치하고 있다. 민주당은 '지난해 대선 당시 양당 후보의 공통 공약'이라는 명분으로 간호법 제정안 강행 처리를 벼르고 있는 반면, 국민의힘 지도부는 "대선공약이 아니었다"며 선을 긋고 있다. 그러나 여당 내에서도  "(윤 대통령이) 거부]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '일본 무릎' 발언, 워싱턴포스트에 직접 물었습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
