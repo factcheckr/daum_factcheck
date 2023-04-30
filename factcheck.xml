@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-04-30T13:20:20.981Z</updated>
+    <updated>2023-04-30T14:16:58.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 우리 교과서는 '강제노동' 충실히 기록?...日 교과서 보기도 민망]]></title>
+        <id>https://v.daum.net/v/20230430223417774</id>
+        <link href="https://v.daum.net/v/20230430223417774"/>
+        <updated>2023-04-30T14:15:46.474Z</updated>
+        <content type="html"><![CDATA[[앵커] YTN은 어제와 오늘, 한국과 일본의 교과서에서 제대로 다루지 않고 있는 일제 강점기 강제동원의 역사를 팩트체크합니다. 지난달 일본 초등학교 교과서는 일제 강점기 강제노동을 희석하는 표현 때문에 국내에서 강한 비판을 받았습니다. 그렇다면 우리 초등학교 교과서는 객관적 사실을 자세하게 기록하고 있을까요? 신호 기자가 한국과 일본의 초등학교 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 엠폭스 여름에 감염 더 잘 된다?]]></title>
         <id>https://v.daum.net/v/20230430195347400</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230428043101805"/>
         <updated>2023-04-27T20:19:41.818Z</updated>
         <content type="html"><![CDATA[이른바 '스펙 공동체' 의혹의 중심에 있던 한동훈 법무부 장관의 딸이 미국 명문대인 매사추세츠 공대(MIT)에 합격한 것을 두고 뒷말이 나오고 있다. 한 장관 딸은 고교 1, 2학년 시절 돈만 내면 게재할 수 있는 '약탈적 학술지'에 여러 글을 게재했는데, 단어와 문장 구조만 바꾼 '교활한 표절(Sneaky Plagiarism)' 또는 '대필' 의혹이 제기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박홍근 "헌재, 민형배 탈당 문제 삼지 않았다"…따져보니 [사실확인]]]></title>
-        <id>https://v.daum.net/v/20230426162511279</id>
-        <link href="https://v.daum.net/v/20230426162511279"/>
-        <updated>2023-04-26T08:25:37.879Z</updated>
-        <content type="html"><![CDATA[민형배 무소속 의원이 더불어민주당으로 전격 복당했습니다. 이른바 '검수완박법' 처리 도중 탈당한지 1년여 만입니다. 박홍근 민주당 원내대표는 복당 사실을 전하면서 "헌법재판소가 민 의원의 탈당을 문제 삼지는 않았다"며 "다만 소수 여당의 심사권 제한을 지적했다"라고 말했습니다. 헌재가 앞서 검수완박법 통과에 문제가 없었다는 결정을 내리면서 민 의원이]]></content>
     </entry>
 </feed>
