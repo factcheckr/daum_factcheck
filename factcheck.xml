@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-02T20:20:32.118Z</updated>
+    <updated>2023-05-02T21:18:03.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 판결문 공개 비율은 0.3%에 불과하다?]]></title>
+        <id>https://v.daum.net/v/20230503061310087</id>
+        <link href="https://v.daum.net/v/20230503061310087"/>
+        <updated>2023-05-02T21:16:44.380Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 인공지능(AI) 기술이 민간을 넘어 공공영역으로 확대되고 있으나 우리나라는 판결문 공개 비율이 낮아 AI 인프라 구축에 걸림돌이 되고 있다는 지적이 나온다. IT 전문 출판업체 한빛미디어 이사회의 박태웅 의장은 지난달 MBC 라디오와의 인터뷰에서 "한국에서는 챗GPT 같은 인공지능 서비스를 만들 수 없다"며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 2030 무당층 역대급이다?]]></title>
         <id>https://v.daum.net/v/20230502151322176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230428205702341"/>
         <updated>2023-05-01T14:17:53.123Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;최은영 한국도시연구소장(자료 사진)ⓒ 이희훈&nbsp; "전세 사기가 임대차 3법 때문이라고요? 그냥 아무 말 대잔치죠." 전세 사기와 깡통 전세(역전세) 피해가 확산되자, 윤석열 정부와 보수 언론은 계약갱신청구권, 전월세 인상률 상한제, 전월세신고제 등 '임대차 3법'에 책임을 돌렸다. &lt;조선일보&gt;는 지난 4월 20일 기사("전세사기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]외국인 관광객 소비 분석 믿어도 될까?…'中 바르고, 日 먹는데 돈 쓴다?']]></title>
-        <id>https://v.daum.net/v/20230428193600893</id>
-        <link href="https://v.daum.net/v/20230428193600893"/>
-        <updated>2023-05-01T14:17:53.123Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했]]></content>
     </entry>
 </feed>
