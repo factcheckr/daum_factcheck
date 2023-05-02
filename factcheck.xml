@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-01T23:22:58.787Z</updated>
+    <updated>2023-05-02T01:30:58.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230502091501290</id>
+        <link href="https://v.daum.net/v/20230502091501290"/>
+        <updated>2023-05-02T01:29:51.628Z</updated>
+        <content type="html"><![CDATA[검찰 수사권 완전 박탈법, 이른바 '검수완박법' 입법 과정에서 더불어민주당을 탈당했던 민형배 의원이 민주당으로 돌아갔습니다. 민주당 지도부는 지난달 26일 최고위원 회의에서 민 의원 복당을 의결했습니다. 박홍근 당시 원내대표는 "민 의원은 불가피하게 자신의 소신에 따라 탈당이라는 대의적 결단을 했다. 민 의원을 복당시키는 것이 책임지는 자세"라면서 복당을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 우리 교과서는 '강제노동' 충실히 기록?...日 교과서 보기도 민망]]></title>
         <id>https://v.daum.net/v/20230430223417774</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230428050018921"/>
         <updated>2023-05-01T14:17:53.125Z</updated>
         <content type="html"><![CDATA[서울 송파구 잠실동, 강남구 삼성·청담·대치동 토지거래허가구역이 오는 6월 만료를 앞두고 연장 여부에 관심이 쏠리고 있다. 사진은 서울 응봉산에서 바라본 압구정 현대아파트 모습. 연합뉴스 [파이낸셜뉴스] 서울시가 지난 5일 압구정·여의도·목동·성수동(洞) 토지거래허가구역을 오는 2024년 4월 26일까지 1년 더 연장했다. 또 송파구 잠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스펙 안 썼다"는 한동훈 장관 딸은 어떻게 MIT 합격했을까 [팩트파인더]]]></title>
-        <id>https://v.daum.net/v/20230428043101805</id>
-        <link href="https://v.daum.net/v/20230428043101805"/>
-        <updated>2023-05-01T14:17:53.128Z</updated>
-        <content type="html"><![CDATA[이른바 '스펙 공동체' 의혹의 중심에 있던 한동훈 법무부 장관의 딸이 미국 명문대인 매사추세츠 공대(MIT)에 합격한 것을 두고 뒷말이 나오고 있다. 한 장관 딸은 고교 1, 2학년 시절 돈만 내면 게재할 수 있는 '약탈적 학술지'에 여러 글을 게재했는데, 단어와 문장 구조만 바꾼 '교활한 표절(Sneaky Plagiarism)' 또는 '대필' 의혹이 제기]]></content>
     </entry>
 </feed>
