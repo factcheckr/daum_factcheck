@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-02T05:19:45.685Z</updated>
+    <updated>2023-05-02T06:26:14.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 2030 무당층 역대급이다?]]></title>
+        <id>https://v.daum.net/v/20230502151322176</id>
+        <link href="https://v.daum.net/v/20230502151322176"/>
+        <updated>2023-05-02T06:24:03.006Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 내년 총선을 앞두고 2030세대 무당층이 역대급이라는 보도가 잇따르고 있다. 정치권에서 천 원의 아침밥, 학자금 대출 이자 면제, 청년 교통·통신비 지원 등 2030세대를 위한 정책을 내는 배경이다. 유권자로서 2030세대가 주목받기 시작한 것은 2020년 21대 총선부터다. 중앙선거관리위원회 집계 결과에 따르면 21대 총선에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니…]]></title>
         <id>https://v.daum.net/v/20230502091501290</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230428193600893"/>
         <updated>2023-05-01T14:17:53.123Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)&nbsp; ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 어떤 주제를 준비했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "토지거래허가제는 재산권 침해다"...사실일까?]]></title>
-        <id>https://v.daum.net/v/20230428050018921</id>
-        <link href="https://v.daum.net/v/20230428050018921"/>
-        <updated>2023-05-01T14:17:53.125Z</updated>
-        <content type="html"><![CDATA[서울 송파구 잠실동, 강남구 삼성·청담·대치동 토지거래허가구역이 오는 6월 만료를 앞두고 연장 여부에 관심이 쏠리고 있다. 사진은 서울 응봉산에서 바라본 압구정 현대아파트 모습. 연합뉴스 [파이낸셜뉴스] 서울시가 지난 5일 압구정·여의도·목동·성수동(洞) 토지거래허가구역을 오는 2024년 4월 26일까지 1년 더 연장했다. 또 송파구 잠]]></content>
     </entry>
 </feed>
