@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-03T05:19:47.691Z</updated>
+    <updated>2023-05-03T06:24:58.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 인공지능(AI) 기술이 민간을 넘어 공공영역으로 확대되고 있으나 우리나라는 판결문 공개 비율이 낮아 AI 인프라 구축에 걸림돌이 되고 있다는 지적이 나온다. IT 전문 출판업체 한빛미디어 이사회의 박태웅 의장은 지난달 MBC 라디오와의 인터뷰에서 "한국에서는 챗GPT 같은 인공지능 서비스를 만들 수 없다"며]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 2030 무당층 역대급이다?]]></title>
+        <title type="html"><![CDATA[[팩트체크] 2030 무당층 비율 역대급으로 높다?]]></title>
         <id>https://v.daum.net/v/20230502151322176</id>
         <link href="https://v.daum.net/v/20230502151322176"/>
         <updated>2023-05-02T06:24:03.006Z</updated>
