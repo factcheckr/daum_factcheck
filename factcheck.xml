@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-06T09:18:33.675Z</updated>
+    <updated>2023-05-06T10:21:41.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실은] 윤 대통령 지지율 내렸다? 올랐다? 확인해보니…]]></title>
         <id>https://v.daum.net/v/20230505135700827</id>
