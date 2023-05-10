@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-10T08:24:19.490Z</updated>
+    <updated>2023-05-10T09:19:38.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 임기 초 뜨거웠던 '검찰' '서오남', 지금은?]]></title>
+        <id>https://v.daum.net/v/20230510181201515</id>
+        <link href="https://v.daum.net/v/20230510181201515"/>
+        <updated>2023-05-10T09:18:43.718Z</updated>
+        <content type="html"><![CDATA[인사는 국정 운영의 방향을 보여주는 중요한 가늠자입니다. 윤 대통령 취임 직후, 정보 요직에 검사 출신이 너무 많다, 특히, 서울대, 오십대, 남성, 이른바 '서오남'에 편중돼 있다는 비판, 기억하실 겁니다. SBS 팩트체크 사실은팀은, 윤석열 정부 출범 1년을 맞아, 과연 지금은 어떤지 전수 분석했습니다. 윤석열 대통령이 직접 임명해, 지금 시점 현직에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '간호법 제정'이 尹대통령 대선공약?…진실 공방]]></title>
         <id>https://v.daum.net/v/20230509101629145</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230430195347400"/>
         <updated>2023-05-01T14:17:53.112Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 지난해 6월 첫 확진자가 나온 뒤 주춤했던 엠폭스, 오늘까지 42명이 확진 판정을 받았는데요. 코로나19에서 일상 회복한 지 반년도 안됐는데 심상치 않은 엠폭스 확산세, 불안한 게 사실인데요. 특히 여름에 엠폭스 확진자가 폭증할 거라는 우려가 있는데, 사실확인, 표선우 기자가 알아봤습니다. 【 기자 】 코로나보단 낮은 전염]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 4대강 사업 과거 정부서 어떤 평가를 받았나]]></title>
-        <id>https://v.daum.net/v/20230430070017053</id>
-        <link href="https://v.daum.net/v/20230430070017053"/>
-        <updated>2023-05-01T14:17:53.115Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 태생부터 논란에 휩싸였던 이른바 '4대강 사업'이 다시 갈등의 중심에 들어설 조짐이다. 윤석열 대통령은 이달 4일 국무회의에서 남부지방 가뭄 대책과 관련, "그간 방치된 4대강 보를 적극 활용하라"고 지시한 데 이어 17일 한덕수 국무총리와의 주례회동에서도 "기후 위기로 극심한 가뭄과 홍수가 반복되는 상황에서 과학적이고 객]]></content>
     </entry>
 </feed>
