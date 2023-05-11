@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-11T09:18:50.861Z</updated>
+    <updated>2023-05-11T10:21:09.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["비버 먹방 소리, 스트레스 17% 감소" 영상은 사실일까 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230511183000148</id>
+        <link href="https://v.daum.net/v/20230511183000148"/>
+        <updated>2023-05-11T10:20:08.853Z</updated>
+        <content type="html"><![CDATA[[강석찬 기자] &nbsp;&nbsp;▲ &nbsp;인스타 @uzzagram - "스트레스를 받을 땐 양배추를 찢어먹는 비버를 보자" 릴스 영상 인스타ⓒ @uzzagram&nbsp; 비버가 흰 양배추 먹는 소리가 스트레스를 17% 줄인다고? 최근 SNS를 통해 '비버가 양배추를 먹는 소리만으로 스트레스가 줄어든다'는 주장이 담긴 영상이 큰 화제를 모으고 있다. 해당 영상에서는 "비버가 흰 양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 많아졌다는 '검사 출신' · '서오남'…지금은 얼마나?]]></title>
         <id>https://v.daum.net/v/20230510203608643</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230502091501290"/>
         <updated>2023-05-02T01:29:51.628Z</updated>
         <content type="html"><![CDATA[검찰 수사권 완전 박탈법, 이른바 '검수완박법' 입법 과정에서 더불어민주당을 탈당했던 민형배 의원이 민주당으로 돌아갔습니다. 민주당 지도부는 지난달 26일 최고위원 회의에서 민 의원 복당을 의결했습니다. 박홍근 당시 원내대표는 "민 의원은 불가피하게 자신의 소신에 따라 탈당이라는 대의적 결단을 했다. 민 의원을 복당시키는 것이 책임지는 자세"라면서 복당을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 우리 교과서는 '강제노동' 충실히 기록?...日 교과서 보기도 민망]]></title>
-        <id>https://v.daum.net/v/20230430223417774</id>
-        <link href="https://v.daum.net/v/20230430223417774"/>
-        <updated>2023-05-01T14:17:53.109Z</updated>
-        <content type="html"><![CDATA[[앵커] YTN은 어제와 오늘, 한국과 일본의 교과서에서 제대로 다루지 않고 있는 일제 강점기 강제동원의 역사를 팩트체크합니다. 지난달 일본 초등학교 교과서는 일제 강점기 강제노동을 희석하는 표현 때문에 국내에서 강한 비판을 받았습니다. 그렇다면 우리 초등학교 교과서는 객관적 사실을 자세하게 기록하고 있을까요? 신호 기자가 한국과 일본의 초등학교 사]]></content>
     </entry>
 </feed>
