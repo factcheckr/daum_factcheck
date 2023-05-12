@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-12T05:18:49.951Z</updated>
+    <updated>2023-05-12T06:24:36.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓'  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230512143901430</id>
+        <link href="https://v.daum.net/v/20230512143901430"/>
+        <updated>2023-05-12T06:23:34.036Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 9일 서울 용산 대통령실 청사에서 열린 국무회의에서 개회선언을 하고 있다.ⓒ 연합뉴스[검증대상] "문재인 정부 임대차 3법이 전세 사기 원인" 국민의힘 주장 "집값 급등과 시장 교란을 초래한 과거 정부의 반시장적, 비정상적 정책이 전세 사기의 토양이 되었습니다." 윤석열 대통령은 지난 9일 국무회의 모두 발언에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비버 먹방 소리, 스트레스 17% 감소" 영상은 사실일까 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230511183000148</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230502151322176"/>
         <updated>2023-05-02T06:24:03.006Z</updated>
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 내년 총선을 앞두고 2030세대 무당층이 역대급이라는 보도가 잇따르고 있다. 정치권에서 천 원의 아침밥, 학자금 대출 이자 면제, 청년 교통·통신비 지원 등 2030세대를 위한 정책을 내는 배경이다. 유권자로서 2030세대가 주목받기 시작한 것은 2020년 21대 총선부터다. 중앙선거관리위원회 집계 결과에 따르면 21대 총선에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 민형배 "탈당에 대한 헌재 판단 없었다", 따져 보니…]]></title>
-        <id>https://v.daum.net/v/20230502091501290</id>
-        <link href="https://v.daum.net/v/20230502091501290"/>
-        <updated>2023-05-02T01:29:51.628Z</updated>
-        <content type="html"><![CDATA[검찰 수사권 완전 박탈법, 이른바 '검수완박법' 입법 과정에서 더불어민주당을 탈당했던 민형배 의원이 민주당으로 돌아갔습니다. 민주당 지도부는 지난달 26일 최고위원 회의에서 민 의원 복당을 의결했습니다. 박홍근 당시 원내대표는 "민 의원은 불가피하게 자신의 소신에 따라 탈당이라는 대의적 결단을 했다. 민 의원을 복당시키는 것이 책임지는 자세"라면서 복당을]]></content>
     </entry>
 </feed>

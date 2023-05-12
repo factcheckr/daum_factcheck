@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-05-12T05:18:49.938Z</updated>
+    <updated>2023-05-12T06:24:36.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓']]></title>
+        <id>https://v.daum.net/v/20230512143901430</id>
+        <link href="https://v.daum.net/v/20230512143901430"/>
+        <updated>2023-05-12T06:24:26.159Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 9일 서울 용산 대통령실 청사에서 열린 국무회의에서 개회선언을 하고 있다.ⓒ 연합뉴스[검증대상] "문재인 정부 임대차 3법이 전세 사기 원인" 국민의힘 주장 "집값 급등과 시장 교란을 초래한 과거 정부의 반시장적, 비정상적 정책이 전세 사기의 토양이 되었습니다." 윤석열 대통령은 지난 9일 국무회의 모두 발언에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비버 먹방 소리, 스트레스 17% 감소" 영상은 사실일까]]></title>
         <id>https://v.daum.net/v/20230511183000148</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230309191201915"/>
         <updated>2023-04-27T18:24:10.475Z</updated>
         <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;9일 일본 도쿄돔에서 열린 2023 월드베이스볼클래식(WBC) B조 본선 1라운드 한국과 호주의 경기. 경기 시작 전 선수들이 도열해 있는 가운데 일본 국가가 연주되고 있다. ⓒ 연합뉴스&nbsp; [검증대상] "한국-호주전 일본 국가 연주는 개최국 재량" WBC 주장 9일 일본 도쿄돔에서 열린 '2023 월드베이스볼클래식(WorldB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강제동원 피해자 싫다는데 '제3자 변제'?" 민법학자 "비정상적"]]></title>
-        <id>https://v.daum.net/v/20230309171201855</id>
-        <link href="https://v.daum.net/v/20230309171201855"/>
-        <updated>2023-04-27T18:24:10.477Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;박진 외교부 장관이 지난 6일 오전 서울 종로구 외교부에서 일제 강제징용 피해배상 해법을 발표하고 있다.ⓒ 공동취재사진[검증대상] "강제동원 피해자 거부해도 제3자 변제 가능" 외교부 주장 윤석열 정부가 일본 가해 기업이 내야 할 강제동원(강제징용) 피해 배상금을 한국 기업들이 대신 내게 하는 '제3자 변제' 방안을 발표해 피]]></content>
     </entry>
 </feed>
