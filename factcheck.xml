@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-19T01:36:41.490Z</updated>
+    <updated>2023-05-19T02:37:14.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까]]></title>
+        <id>https://v.daum.net/v/20230519104200072</id>
+        <link href="https://v.daum.net/v/20230519104200072"/>
+        <updated>2023-05-19T02:36:04.474Z</updated>
+        <content type="html"><![CDATA[최근 후쿠시마 오염수를 둘러싸고 명칭 논란이 불거졌습니다. 지난 11일, "정부가 오염수를 '처리수'로 부르는 방안을 검토 중이다"는 언론 보도가 시작이었습니다. 정부는 그런 적 없다고 말했지만, 여당 안에서 지지 목소리가 나왔습니다. 국민의힘 성일종 의원이 같은 날 한 라디오 방송에서 "바깥으로 방류하는 물은 처리해서 나가는 것이기 때문에 '오염 처리수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '간호법 제정' 윤 대통령 약속 있었나?...당시 발언·공약집 살펴보니]]></title>
         <id>https://v.daum.net/v/20230517233121826</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230513074801791"/>
         <updated>2023-05-12T23:17:34.718Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓'  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230512143901430</id>
-        <link href="https://v.daum.net/v/20230512143901430"/>
-        <updated>2023-05-12T06:23:34.036Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 9일 서울 용산 대통령실 청사에서 열린 국무회의에서 개회선언을 하고 있다.ⓒ 연합뉴스[검증대상] "문재인 정부 임대차 3법이 전세 사기 원인" 국민의힘 주장 "집값 급등과 시장 교란을 초래한 과거 정부의 반시장적, 비정상적 정책이 전세 사기의 토양이 되었습니다." 윤석열 대통령은 지난 9일 국무회의 모두 발언에]]></content>
     </entry>
 </feed>
