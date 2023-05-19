@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-19T07:18:28.193Z</updated>
+    <updated>2023-05-19T08:24:52.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] ‘대졸’은 간호조무사 못한다?]]></title>
+        <id>https://v.daum.net/v/20230519164515044</id>
+        <link href="https://v.daum.net/v/20230519164515044"/>
+        <updated>2023-05-19T08:22:35.802Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 간호법을 둘러싼 의료계 갈등이 계속되고 있다. 윤석열 대통령은 16일 국무회의에서 간호법 제정안에 대해 재의요구권(거부권)을 행사했다. 이에 대한간호협회(간협)는 17일 기자회견을 열고 간호사 단체행동 1차 방향을 발표했다. 김영경 간협 회장은 "대리처방, 대리 수술 등 의사의 불법 지시를 거부하는 준법투쟁에 나서겠다"며 "간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까]]></title>
         <id>https://v.daum.net/v/20230519104200072</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230515122409966"/>
         <updated>2023-05-15T04:22:09.145Z</updated>
         <content type="html"><![CDATA[최근, 강제징용 문제로 촉발된 '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 정치권에서도 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 발언들을 집중 팩트체크하고 있습니다. 최근 국민의힘 성일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]尹, 1년 공약이행률…"좋아 빠르게 가" 이행･파기 모두 높아]]></title>
-        <id>https://v.daum.net/v/20230513074801791</id>
-        <link href="https://v.daum.net/v/20230513074801791"/>
-        <updated>2023-05-12T23:17:34.718Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?]]></content>
     </entry>
 </feed>
