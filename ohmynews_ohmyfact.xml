@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-05-20T02:34:58.272Z</updated>
+    <updated>2023-05-20T03:21:03.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20230520114206120</id>
+        <link href="https://v.daum.net/v/20230520114206120"/>
+        <updated>2023-05-20T03:20:54.988Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;“진보층이 보수보다 가짜뉴스 잘 믿는다”고 주장한 중앙일보(5/18)ⓒ 중앙일보PDF&nbsp;&nbsp; 중앙일보 "민주당 지지층 확증편향층, 국민의힘보다 2배 많다" &lt;중앙일보&gt;는 5월 18일 '진보층이 보수보다 가짜뉴스 잘 믿는다'라는 제목으로 "민주당 지지층에서 확층편향층 비중이 국민의힘 지지층보다 두 배가량 많다"고 보도했다. 여론조사회사인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한·중·러만 '오염수'로 부른다?... 미국이 오히려 예외]]></title>
         <id>https://v.daum.net/v/20230517162701182</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230321213303712"/>
         <updated>2023-04-27T18:24:10.471Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김기현 국민의힘 대표가 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. ⓒ 남소연&nbsp; [검증대상] "노무현, 징용 피해자 보상금 대위 지급 법률 제정" 김기현 대표 발언&nbsp; 김기현 국민의힘 대표는 지난 20일 오전 국민의힘 최고위원회의에서 "노무현 대통령은 2007년에 국민세금으로 조성된 국가재정으로 징용 피해자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MZ세대는 주69시간 선호" 국힘 주장은 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20230316101212033</id>
-        <link href="https://v.daum.net/v/20230316101212033"/>
-        <updated>2023-04-27T18:24:10.473Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;성일종 국민의힘 정책위의장이 지난 14일 서울 여의도 국회에서 열린 원내대책회의에서 발언하고 있다.ⓒ 남소연&nbsp; [검증대상] "주69시간제, 20·30대 청년층은 좋아한다" 성일종 의원 발언&nbsp; 윤석열 정부가 주 52시간으로 제한된 근로시간을 최대 69시간까지 허용하는 근로시간제도 개편을 추진하면서, 이른바 'MZ세대'로 불리는]]></content>
     </entry>
 </feed>
