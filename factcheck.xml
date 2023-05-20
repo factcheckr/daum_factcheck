@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-20T21:17:11.870Z</updated>
+    <updated>2023-05-20T22:17:39.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령이 거부한 간호법안 국회서 수정 재의결 가능할까]]></title>
+        <id>https://v.daum.net/v/20230521070023794</id>
+        <link href="https://v.daum.net/v/20230521070023794"/>
+        <updated>2023-05-20T22:16:36.991Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령이 재의요구권(거부권)을 행사해 국회로 돌려보낸 '간호법안'의 운명이 어떻게 될지 관심이 쏠리고 있다. 여당인 국민의힘은 윤 대통령이 지난 16일 거부권을 행사하기 전 이 법안의 통과를 주도한 더불어민주당에 중재안을 제시한 바 있다. 민주당은 이 중재안을 거부하고 이달 내 간호법안을 재투표에 부치겠다고 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230520114206120</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230517061137471"/>
         <updated>2023-05-16T22:18:53.295Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 건설노조에 대한 무리한 수사에 항의하며 분신한 노동조합 간부가 끝내 숨진 가운데 노동자의 쟁의행위를 형법으로 제한하는 우리나라 법체계를 개선해야 한다는 지적이 나온다. 김영훈 전국민주노동조합총연맹 전 위원장은 지난 3일 MBC 라디오와의 인터뷰에서 "업무방해죄로 노조 간부를 처벌하는 나라는 일본하고 한국뿐"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 용산공원 시범개방 때 이용시간 제한한 적 없다?]]></title>
-        <id>https://v.daum.net/v/20230515143927861</id>
-        <link href="https://v.daum.net/v/20230515143927861"/>
-        <updated>2023-05-15T06:24:22.005Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 주한미군으로부터 돌려받은 용산기지 반환부지 일부가 '용산어린이정원'으로 조성돼 개방됐으나 환경단체들이 반발하는 등 토양오염 문제를 둘러싼 논란이 이어지고 있다. 국토교통부는 지난 7일 보도참고자료를 통해 "일부에서 '작년 정부가 2시간만 이용 가능하다고 한 지역을 다시 개방한 것'이라는 잘못된 정보를 언급하고 있으나, 이는]]></content>
     </entry>
 </feed>
