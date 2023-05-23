@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-23T11:16:25.276Z</updated>
+    <updated>2023-05-23T12:38:03.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] IAEA의 오염수 보관 'K4 탱크' 평가는?]]></title>
+        <id>https://v.daum.net/v/20230523202405359</id>
+        <link href="https://v.daum.net/v/20230523202405359"/>
+        <updated>2023-05-23T12:36:58.369Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 앞서 시찰단 단장이 직접 이야기한 것처럼 우리 시찰단은 처리된 오염수를 바다에 방류하기 전에 모아두는 곳을 점검했습니다. 이곳이 주요 시설이다 보니까 국제원자력기구도 이미 여기를 검증한 적이 있었는데 저희 팩트 체크 사실은 팀이 당시에 어떤 평가가 나왔었는지 살펴봤습니다. 이 내용 이경원 기자가 전하겠습니다. &lt;기자&gt; 헬기에서 본 후쿠시마 원전.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 대통령 1년, 대선 공약 이행률은 어느 정도인가?]]></title>
         <id>https://v.daum.net/v/20230523173902105</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230517195810402"/>
         <updated>2023-05-17T11:16:07.448Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 5·18에 책임이 있는 전두환 씨는 끝내 진실 규명을 외면한 채 최소한의 사과도 없이 세상을 떠났는데요. 전 씨의 최측근이었던 장세동 씨는 어제 언론 인터뷰에서 "5·18에 대해 사과할 필요가 없다"며 전 씨가 "위로를 전부 다 했다"고 주장했습니다. 재작년 전 씨 사망 당시에도 측근들은 이 같은 주장을 반복했는데요. [민정기(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '간호법 제정' 윤 대통령 약속 있었나?...당시 발언·공약집 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230517163720644</id>
-        <link href="https://v.daum.net/v/20230517163720644"/>
-        <updated>2023-05-17T08:25:53.210Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 간호법에 대해 거부권을 행사하자 대한간호협회는 대선 후보 때 했던 약속을 어겼다며 반발했습니다. 반면 대통령실과 여당에서는 그런 공약 자체가 없었다는 입장인데요. 법 제정을 통한 간호사 처우 개선이 윤석열 대통령의 후보 시절 약속이었는지, 황윤태 기자가 당시 발언과 공약집을 살펴봤습니다. [기자] 대한간호협회가 용산 대통령]]></content>
     </entry>
 </feed>
