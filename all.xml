@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T01:41:03.639Z</updated>
+    <updated>2023-05-24T02:40:06.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230524113602183</id>
+        <link href="https://v.daum.net/v/20230524113602183"/>
+        <updated>2023-05-24T02:39:08.295Z</updated>
+        <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;“'월 소득 1천만 원 가구'에 대학생 학자금 무이자 대출이 맞나” 제목의 동아일보 사설(5/17)ⓒ 동아일보PDF&nbsp; [검증 대상] "월 소득 1000만원 넘는 가구 자녀도 학자금 무이자 혜택" 정부 학자금 대출을 받은 청년이 취업 후 상환 기준 소득을 넘길 때까지 대출 이자를 면제해 주는 '취업 후 학자금 상환 특별법 개정안(아래 학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야간집회' 처벌은 위헌?... "0~6시 헌재 결정 없어" [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230524001003490</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230517233121826"/>
         <updated>2023-05-17T15:20:50.963Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령이 간호법에 대해 거부권을 행사하자 대한간호협회는 대선 후보 때 했던 약속을 어겼다며 반발했습니다. 반면 대통령실과 여당에서는 그런 공약 자체가 없었다는 입장인데요. 법 제정을 통한 간호사 처우 개선이 윤석열 대통령의 후보 시절 약속이었는지, 황윤태 기자가 당시 발언과 공약집을 살펴봤습니다. [기자] 대한간호협회가 용산 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "매달 420만 원 받는 유공자?" 5·18 소문의 진실 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230517201513778</id>
-        <link href="https://v.daum.net/v/20230517201513778"/>
-        <updated>2023-05-17T11:16:07.447Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 5·18 민주화 운동 이후 40년 넘는 시간이 흘렀지만 진실을 왜곡하고 희생자 가족들에게 상처를 주는 말들이 우리 사회에는 여전합니다. 최근에는 이런 유언비어의 형태도 다양해지고 있는데, 구체적 수치를 제시해서 사람들이 그걸 사실인 거처럼 느끼게 하기도 합니다. 그래서 저희 팩트체크 사실은 팀이 지금 떠돌고 있는 5·18 유언비어들을 하나하나 따져]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오염수 보관 'K4 탱크' IAEA 평가는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 예산 15% 감액은 사실…서울시 “내년 일부 기관 ‘등록제’ 전환 가정한 것”교육청 등록조건 까다롭고 지원액 작으면 ‘서울형’ 잔류…결국 예산 문제로 서울지역 대안학교 교사와 학생, 대안교육 관계자들이 지나달 23일 서울시청 앞에 섰다. 이들은 오세훈 서울시장 취임 이후 서울시가 2022년도 대안학교 지원 예산을 15% 삭감했으며, 서울형 신고]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20230524113602183</id>
+        <link href="https://v.daum.net/v/20230524113602183"/>
+        <updated>2023-05-24T02:39:56.943Z</updated>
+        <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;“'월 소득 1천만 원 가구'에 대학생 학자금 무이자 대출이 맞나” 제목의 동아일보 사설(5/17)ⓒ 동아일보PDF&nbsp; [검증 대상] "월 소득 1000만원 넘는 가구 자녀도 학자금 무이자 혜택" 정부 학자금 대출을 받은 청년이 취업 후 상환 기준 소득을 넘길 때까지 대출 이자를 면제해 주는 '취업 후 학자금 상환 특별법 개정안(아래 학]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230520114206120</id>
         <link href="https://v.daum.net/v/20230520114206120"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20230403120603164"/>
         <updated>2023-04-03T03:19:27.384Z</updated>
         <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;윤석열 대통령이 3월 29일 서울 용산 대통령실 청사에서 열린 제15차 비상경제민생회의에서 추경호 경제부총리로부터 내수활성화 방안에 대한 보고를 받고 있다. ⓒ 연합뉴스&nbsp; [검증대상] "대통령 거부권 행사하면 지지율 오른다" 윤석열 대통령이 양곡관리법 개정안에 거부권을 행사할지 관심이 쏠리고 있다. 더불어민주당은 지난 3월 23일 농림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노무현도 징용피해 보상금 대위 지급" 김기현 주장은 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20230321213303712</id>
-        <link href="https://v.daum.net/v/20230321213303712"/>
-        <updated>2023-03-21T12:34:48.476Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김기현 국민의힘 대표가 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. ⓒ 남소연&nbsp; [검증대상] "노무현, 징용 피해자 보상금 대위 지급 법률 제정" 김기현 대표 발언&nbsp; 김기현 국민의힘 대표는 지난 20일 오전 국민의힘 최고위원회의에서 "노무현 대통령은 2007년에 국민세금으로 조성된 국가재정으로 징용 피해자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 증거는 못 대면서 기상관측용 풍선? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
