@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-25T18:24:18.271Z</updated>
+    <updated>2023-05-25T19:15:59.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["시민운동 가장한 비즈니스?"... 강제징용 시민단체 의혹 따져보니 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230526040116051</id>
+        <link href="https://v.daum.net/v/20230526040116051"/>
+        <updated>2023-05-25T19:14:46.854Z</updated>
+        <content type="html"><![CDATA[최근 일제강점기 강제동원 피해자들을 돕는 시민단체의 부정 운영을 둘러싼 의혹이 계속 제기되고 있다. 단체가 일부 후원금만 피해자 지원에 썼고, 정부 ‘제3자 변제안’이 발표된 뒤엔 피해자 유족에게 약정받은 배상금 일정액을 요구했다는 것이다. 단체는 “굴욕외교 비판이 커지자 화살을 민간단체에 돌리려는 의도”라고 항변한다. 주요 사실관계를 짚어봤다. 후원금 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤희근은 아니라는데…“대통령실 이전, 참사 영향” 첫 증언 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230525070509457</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230519164515044"/>
         <updated>2023-05-19T08:22:35.802Z</updated>
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 간호법을 둘러싼 의료계 갈등이 계속되고 있다. 윤석열 대통령은 16일 국무회의에서 간호법 제정안에 대해 재의요구권(거부권)을 행사했다. 이에 대한간호협회(간협)는 17일 기자회견을 열고 간호사 단체행동 1차 방향을 발표했다. 김영경 간협 회장은 "대리처방, 대리 수술 등 의사의 불법 지시를 거부하는 준법투쟁에 나서겠다"며 "간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 오염수? 처리수? 다른 나라는 어떻게 부를까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230519104200072</id>
-        <link href="https://v.daum.net/v/20230519104200072"/>
-        <updated>2023-05-19T02:36:04.474Z</updated>
-        <content type="html"><![CDATA[최근 후쿠시마 오염수를 둘러싸고 명칭 논란이 불거졌습니다. 지난 11일, "정부가 오염수를 '처리수'로 부르는 방안을 검토 중이다"는 언론 보도가 시작이었습니다. 정부는 그런 적 없다고 말했지만, 여당 안에서 지지 목소리가 나왔습니다. 국민의힘 성일종 의원이 같은 날 한 라디오 방송에서 "바깥으로 방류하는 물은 처리해서 나가는 것이기 때문에 '오염 처리수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오염수 보관 'K4 탱크' IAEA 평가는? (다음 뉴스 ─ SBS 사실은)]]></title>
