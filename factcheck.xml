@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-24T23:21:14.316Z</updated>
+    <updated>2023-05-25T01:37:02.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤희근은 아니라는데…“대통령실 이전, 참사 영향” 첫 증언 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20230525070509457</id>
+        <link href="https://v.daum.net/v/20230525070509457"/>
+        <updated>2023-05-25T01:34:54.217Z</updated>
+        <content type="html"><![CDATA[“용산서 정보관은 예전과 다르다, 지역정보는 필요 없다고 했다.” 지난 22일 서울서부지법에서 진행된 경찰 정보라인의 증거인멸 교사 등 혐의 재판에 증인으로 출석한 용산경찰서 정보관 ㄱ씨는 이태원 참사 당일 서울 용산구 전쟁기념관 앞 집회를 챙기느라 현장에 가보지 못했다고 증언했다. 그 배경으로는 ‘용산 대통령실 이전’ 이후 지역정보 활동보다는 집회관리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230524113602183</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230519104200072"/>
         <updated>2023-05-19T02:36:04.474Z</updated>
         <content type="html"><![CDATA[최근 후쿠시마 오염수를 둘러싸고 명칭 논란이 불거졌습니다. 지난 11일, "정부가 오염수를 '처리수'로 부르는 방안을 검토 중이다"는 언론 보도가 시작이었습니다. 정부는 그런 적 없다고 말했지만, 여당 안에서 지지 목소리가 나왔습니다. 국민의힘 성일종 의원이 같은 날 한 라디오 방송에서 "바깥으로 방류하는 물은 처리해서 나가는 것이기 때문에 '오염 처리수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '간호법 제정' 윤 대통령 약속 있었나?...당시 발언·공약집 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230517233121826</id>
-        <link href="https://v.daum.net/v/20230517233121826"/>
-        <updated>2023-05-17T15:20:50.963Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 간호법에 대해 거부권을 행사하자 대한간호협회는 대선 후보 때 했던 약속을 어겼다며 반발했습니다. 반면 대통령실과 여당에서는 그런 공약 자체가 없었다는 입장인데요. 법 제정을 통한 간호사 처우 개선이 윤석열 대통령의 후보 시절 약속이었는지, 황윤태 기자가 당시 발언과 공약집을 살펴봤습니다. [기자] 대한간호협회가 용산 대통령]]></content>
     </entry>
 </feed>
