@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-05-26T10:20:58.373Z</updated>
+    <updated>2023-05-26T11:17:10.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노란봉투법이 불법행위에 면죄부?]]></title>
+        <id>https://v.daum.net/v/20230526201613096</id>
+        <link href="https://v.daum.net/v/20230526201613096"/>
+        <updated>2023-05-26T11:16:26.528Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 국회 본회의에 직회부된 노동조합법 개정안, 노란봉투법에 대해 대통령실이 거부권 행사를 검토 중인 것으로 알려졌습니다. 개정안은 하청이나 특수고용 노동자들이 원청 기업과 직접 교섭할 수 있도록 하고, 파업에 대한 기업의 무분별한 손해배상은 제한했는데요. 재계와 정부 여당은 이 법안이 노동자들의 불법 행위에 면죄부를 줄 거라고 비판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전두환, 여러 차례 5·18 피해자 위로했다?]]></title>
         <id>https://v.daum.net/v/20230517195810402</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230104202809164"/>
         <updated>2023-01-04T12:38:39.091Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 KTX 대체열차가 오고, 코레일 직원이 안내하는 등 헷갈린다는 경험담들을 SNS에 줄줄이 공유하고 있는데요. 이런 경험들이 사실인지, 또 왜 이런 일이 생긴 건지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유족 지원에 시민단체는 안돼?]]></title>
-        <id>https://v.daum.net/v/20221212201013296</id>
-        <link href="https://v.daum.net/v/20221212201013296"/>
-        <updated>2022-12-12T11:18:47.686Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 10.29 참사 42일 만에 만들어진 유가족과 시민단체들의 모임에 대해 여권의 반응이 노골적입니다. "시민단체가 조직적으로 정부를 압박해서는 안된다", "시민단체가 지원금을 횡령할 가능성이 있다"며 사실상 손을 떼라는 주장을 하고 있는데요. 이런 주장이 맞는 건지, 과거 국내에서 발생한 참사, 그리고 해외에선 어떻게]]></content>
     </entry>
 </feed>
