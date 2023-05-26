@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-26T11:17:10.224Z</updated>
+    <updated>2023-05-26T12:35:40.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 노란봉투법이 불법행위에 면죄부?]]></title>
+        <id>https://v.daum.net/v/20230526201613096</id>
+        <link href="https://v.daum.net/v/20230526201613096"/>
+        <updated>2023-05-26T12:34:37.354Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 국회 본회의에 직회부된 노동조합법 개정안, 노란봉투법에 대해 대통령실이 거부권 행사를 검토 중인 것으로 알려졌습니다. 개정안은 하청이나 특수고용 노동자들이 원청 기업과 직접 교섭할 수 있도록 하고, 파업에 대한 기업의 무분별한 손해배상은 제한했는데요. 재계와 정부 여당은 이 법안이 노동자들의 불법 행위에 면죄부를 줄 거라고 비판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 후쿠시마 방사능 측정값 사용 설명서]]></title>
         <id>https://v.daum.net/v/20230526110900593</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230521070023794"/>
         <updated>2023-05-20T22:16:36.991Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령이 재의요구권(거부권)을 행사해 국회로 돌려보낸 '간호법안'의 운명이 어떻게 될지 관심이 쏠리고 있다. 여당인 국민의힘은 윤 대통령이 지난 16일 거부권을 행사하기 전 이 법안의 통과를 주도한 더불어민주당에 중재안을 제시한 바 있다. 민주당은 이 중재안을 거부하고 이달 내 간호법안을 재투표에 부치겠다고 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["진보가 가짜뉴스 더 믿는다" <중앙> 보도 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230520114206120</id>
-        <link href="https://v.daum.net/v/20230520114206120"/>
-        <updated>2023-05-20T03:19:02.038Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;“진보층이 보수보다 가짜뉴스 잘 믿는다”고 주장한 중앙일보(5/18)ⓒ 중앙일보PDF&nbsp;&nbsp; 중앙일보 "민주당 지지층 확증편향층, 국민의힘보다 2배 많다" &lt;중앙일보&gt;는 5월 18일 '진보층이 보수보다 가짜뉴스 잘 믿는다'라는 제목으로 "민주당 지지층에서 확층편향층 비중이 국민의힘 지지층보다 두 배가량 많다"고 보도했다. 여론조사회사인]]></content>
     </entry>
 </feed>
