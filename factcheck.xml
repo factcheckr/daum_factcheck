@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-28T20:19:03.444Z</updated>
+    <updated>2023-05-28T21:16:30.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 ‘오염수 방류 문제 없다’ 보고서 냈고, 국민의힘은 야당 때 반대했다?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230529060157888</id>
+        <link href="https://v.daum.net/v/20230529060157888"/>
+        <updated>2023-05-28T21:15:23.071Z</updated>
+        <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야의 주장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷체크]10리터 오염수 마실 수 있다?…"음용수 기준 넘어"]]></title>
         <id>https://v.daum.net/v/20230527074800927</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230523173902105"/>
         <updated>2023-05-23T09:20:19.640Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 5월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt;  지난&nbsp;한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]수입 가구 통해 집 무너뜨리는 흰개미가 국내에 들어왔다?]]></title>
-        <id>https://v.daum.net/v/20230521185042361</id>
-        <link href="https://v.daum.net/v/20230521185042361"/>
-        <updated>2023-05-21T10:18:31.921Z</updated>
-        <content type="html"><![CDATA[최근 서울 강남구 논현동 한 주택에서 목조 건축물뿐만 아니라 가구 등에도 해를 끼치는 것으로 알려진 외래 흰개미가 발견되면서 우려가 커지고 있다. 일각에서는 수입 가구를 통해 수년 전 국내로 유입된 뒤 이미 토착화된 상태가 아니냐는 추측도 제기된다. 환경부와 국립생태원은 지난 18일 외래 흰개미가 발견된 주택에서 사체 2개를 추가로 발견한 뒤 현미경으로 관]]></content>
     </entry>
 </feed>
