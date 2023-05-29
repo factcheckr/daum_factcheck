@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-29T11:16:38.733Z</updated>
+    <updated>2023-05-29T12:36:35.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 오염수, 그땐 맞고 지금은 틀리다?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230529211600128</id>
+        <link href="https://v.daum.net/v/20230529211600128"/>
+        <updated>2023-05-29T12:35:30.852Z</updated>
+        <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야 주장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 ‘오염수 방류 문제 없다’ 보고서 냈고, 국민의힘은 야당 때 반대했다?[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230529060157888</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230523202405359"/>
         <updated>2023-05-23T12:36:58.369Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 앞서 시찰단 단장이 직접 이야기한 것처럼 우리 시찰단은 처리된 오염수를 바다에 방류하기 전에 모아두는 곳을 점검했습니다. 이곳이 주요 시설이다 보니까 국제원자력기구도 이미 여기를 검증한 적이 있었는데 저희 팩트 체크 사실은 팀이 당시에 어떤 평가가 나왔었는지 살펴봤습니다. 이 내용 이경원 기자가 전하겠습니다. &lt;기자&gt; 헬기에서 본 후쿠시마 원전.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 대통령 1년, 대선 공약 이행률은 어느 정도인가?]]></title>
-        <id>https://v.daum.net/v/20230523173902105</id>
-        <link href="https://v.daum.net/v/20230523173902105"/>
-        <updated>2023-05-23T09:20:19.640Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 5월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt;  지난&nbsp;한]]></content>
     </entry>
 </feed>
