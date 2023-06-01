@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-05-31T23:18:49.307Z</updated>
+    <updated>2023-06-01T02:11:34.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대통령실이 서울시 경계경보 오발령" 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230601103605205</id>
+        <link href="https://v.daum.net/v/20230601103605205"/>
+        <updated>2023-06-01T02:10:33.227Z</updated>
+        <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;일부 아이폰 사용자들은 5월 31일 서울시에서 발령한 경계경보를 'Presidential Alert'(대통령 경보)로 받았다고 주장했다.ⓒ MissyUSA 게시글[검증 대상] "대통령실에서 서울시 경계경보를 발령했다" 누리꾼 주장 서울시가 5월 31일 북한 정찰위성 발사 직후 자체적으로 '경계경보'를 발령해 큰 혼란이 발생했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 천문학적인 한전 적자 원인은…탈원전? 유가 급등?]]></title>
         <id>https://v.daum.net/v/20230531133017781</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230527074800927"/>
         <updated>2023-05-26T23:17:48.617Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 노란봉투법이 불법행위에 면죄부?]]></title>
-        <id>https://v.daum.net/v/20230526201613096</id>
-        <link href="https://v.daum.net/v/20230526201613096"/>
-        <updated>2023-05-26T12:34:37.354Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 국회 본회의에 직회부된 노동조합법 개정안, 노란봉투법에 대해 대통령실이 거부권 행사를 검토 중인 것으로 알려졌습니다. 개정안은 하청이나 특수고용 노동자들이 원청 기업과 직접 교섭할 수 있도록 하고, 파업에 대한 기업의 무분별한 손해배상은 제한했는데요. 재계와 정부 여당은 이 법안이 노동자들의 불법 행위에 면죄부를 줄 거라고 비판]]></content>
     </entry>
 </feed>
