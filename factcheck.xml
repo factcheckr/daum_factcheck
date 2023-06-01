@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-01T20:20:38.575Z</updated>
+    <updated>2023-06-01T21:17:50.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 공공임대주택 늘리면 출생률도 오를까?]]></title>
+        <id>https://v.daum.net/v/20230602060515664</id>
+        <link href="https://v.daum.net/v/20230602060515664"/>
+        <updated>2023-06-01T21:15:37.643Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 전세 사기 피해가 사회문제로 대두되면서 주거 안전망을 강화해야 한다는 요구가 나온다. 시민단체 4.16 재단의 박래군 상임이사는 지난달 23일 MBC 라디오와 인터뷰에서 "(지금은) 정부가 공공임대주택 비율을 높일 수 있는 시기"라며 "장기 공공임대를 제공하면 주거권도 안정되고 출생률도 높아진다"라고 설명했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서울시 자체로 경계경보 발령할 수 있나]]></title>
         <id>https://v.daum.net/v/20230601180046827</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230529211600128"/>
         <updated>2023-05-29T12:35:30.852Z</updated>
         <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야 주장을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 ‘오염수 방류 문제 없다’ 보고서 냈고, 국민의힘은 야당 때 반대했다?[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230529060157888</id>
-        <link href="https://v.daum.net/v/20230529060157888"/>
-        <updated>2023-05-28T21:15:23.071Z</updated>
-        <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야의 주장을]]></content>
     </entry>
 </feed>
