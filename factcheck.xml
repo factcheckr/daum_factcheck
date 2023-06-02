@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-02T21:17:39.740Z</updated>
+    <updated>2023-06-02T22:19:29.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 가사도우미 제도가 저출산 막았을까?...싱가포르·홍콩 통계청 데이터 봤더니]]></title>
+        <id>https://v.daum.net/v/20230603063407185</id>
+        <link href="https://v.daum.net/v/20230603063407185"/>
+        <updated>2023-06-02T22:16:58.307Z</updated>
+        <content type="html"><![CDATA[[앵커] 최근 정부와 서울시가 싱가포르와 홍콩식 '외국인 가사도우미' 제도를 국내에 도입하는 방안을 검토하고 있습니다. 100만 원 미만의 임금으로 젊은 부모의 육아 부담을 덜게 하면 출산율을 높이는데 도움이 된다는 게 추진 배경인데, 실제 시행하고 있는 곳에서는 출산율에 어떤 영향을 미쳤는지 따져봤습니다. 황윤태 기자가 보도합니다. [기자] '외]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '도쿄전력 자료'를 철저히 검증해야 하는 이유]]></title>
         <id>https://v.daum.net/v/20230602210314794</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230530165707995"/>
         <updated>2023-05-30T08:23:00.996Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 5월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘&gt; 마지막 팩트체크는 어떤 것인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] AI에게 물었습니다. 독도는 어느 나라 땅인가요?]]></title>
-        <id>https://v.daum.net/v/20230530165707996</id>
-        <link href="https://v.daum.net/v/20230530165707996"/>
-        <updated>2023-05-30T08:23:01.000Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 5월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘&gt; 두 번째로 준비하신 팩트체크 주제]]></content>
     </entry>
 </feed>
