@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2023-06-03T04:23:30.570Z</updated>
+    <updated>2023-06-03T05:21:15.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나]]></title>
+        <id>https://v.daum.net/v/20230603140020423</id>
+        <link href="https://v.daum.net/v/20230603140020423"/>
+        <updated>2023-06-03T05:19:37.171Z</updated>
+        <content type="html"><![CDATA[① [팩트체크K]외국인 노동자가 내국인 일자리를 빼앗고 있나 소위 ‘외국인 노동자가 내국인 일자리를 빼앗고 있다’는 인식입니다. 이런 인식은 여성가족부가 3년마다 실시하는 국민다문화수용성 조사를 통해서도 드러납니다. 매번 응답자의 30% 넘는 사람들이 '외국인 노동자가 내국인 일자리를 빼앗는다'고 생각하고 있습니다.  ☞ (2012) 30.2%]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이”]]></title>
         <id>https://v.daum.net/v/20230330214754104</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221002100016524"/>
         <updated>2022-11-16T17:34:52.514Z</updated>
         <content type="html"><![CDATA["민주당이 단독 상정한 양곡관리법 개정안이 시행되면 (오히려) 벼 재배면적이 증가하고 공급과잉 구조가 심화할 것이다." -국회 농림축산식품해양수산위원회 소속 국민의힘 의원 일동 성명(2022.09.26.) "양곡관리법을 개정하면 쌀 농가와 재배면적이 증가해 쌀 공급이 늘어난다는 정부·여당의 주장은 명백한 허구다." -국회 농림축산식품해양수산위원회 소속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저소득층 재난지원금 추가지급 신청" 문자, 사기입니다]]></title>
-        <id>https://v.daum.net/v/20220914174017959</id>
-        <link href="https://v.daum.net/v/20220914174017959"/>
-        <updated>2022-11-16T17:34:52.515Z</updated>
-        <content type="html"><![CDATA[최근 '저소득층에게 재난지원금을 추가로 지급한다'는 내용의 문자가 돌고 있습니다. 정부가 코로나19 재확산과 소비자 물가 상승 등 생계비 부담이 가중되자 저소득·취약계층 가구에 이른바 '한시 생활안정지원금'을 지급하기로 했는데 대상자로 선정됐으니 빨리 신청하라는 내용입니다. 신청 마감 시한은 내일(15일) 18시까지로 돼 있습니다. 문자 내용을 보면 재]]></content>
     </entry>
 </feed>
