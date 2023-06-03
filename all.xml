@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-03T22:17:39.045Z</updated>
+    <updated>2023-06-03T23:20:12.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230604080127220</id>
+        <link href="https://v.daum.net/v/20230604080127220"/>
+        <updated>2023-06-03T23:18:05.357Z</updated>
+        <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230603140020423</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230530203711984"/>
         <updated>2023-05-30T12:39:19.968Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 자위함이 참가하는 해양차단훈련은 축소됐지만, 전범기인 욱일기를 둘러싼 논란은 계속되고 있습니다. 논란이 일자 우리 국방부는 "자위함기와 욱일기는 차이가 있다며, 두 깃발이 다르다"는 입장을 보였는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 자위대 함정의 국내 입항을 앞두고 우리 국방부는 '욱일기' 대신 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국민참여재판, 성범죄자들에게는 관대하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230530165712013</id>
-        <link href="https://v.daum.net/v/20230530165712013"/>
-        <updated>2023-05-30T08:23:00.994Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 5월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['도쿄전력 자료'를 철저히 검증해야 하는 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 지방의 한 공공의료원이 의사를 구하기 위해 연봉 3억 6천만 원을 내걸었는데도 지원자조차 없다는 소식, 의사들에 대한 비난과 함께 지역 의료의 열악한 상황 등 여러 논란을 불러왔는데요. 왜 이런 일이 벌어지는 건지, 어떤 해결방안이 있을지 알아봤습니다. 연봉 3억 6천만 원에 내과 전문의 채용 공고를 낸 경남]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230604080127220</id>
+        <link href="https://v.daum.net/v/20230604080127220"/>
+        <updated>2023-06-03T23:19:32.796Z</updated>
+        <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20230603140020423</id>
         <link href="https://v.daum.net/v/20230603140020423"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20221027070021440"/>
         <updated>2022-11-16T17:34:52.514Z</updated>
         <content type="html"><![CDATA["동물병원에서 마약성 진통제 '펜타닐 패치' 처방 급증" - 신현영 더불어민주당 의원 "마약류 취급자 중 수의사에 대한 최근 6년간 행정처분 건수 현격히 증가" - 인재근 더불어민주당 의원 더불어민주당 신현영·인재근 의원의 국정감사 자료 주요 내용입니다. 최근 동물병원에서 처방하는 '펜타닐 패치'가 눈에 띄게 증가해 오·남용의 가능성이 크고 더러는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌀 매입 의무화하면 생산 오히려 늘어난다? 아니다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20221002100016524</id>
-        <link href="https://v.daum.net/v/20221002100016524"/>
-        <updated>2022-11-16T17:34:52.514Z</updated>
-        <content type="html"><![CDATA["민주당이 단독 상정한 양곡관리법 개정안이 시행되면 (오히려) 벼 재배면적이 증가하고 공급과잉 구조가 심화할 것이다." -국회 농림축산식품해양수산위원회 소속 국민의힘 의원 일동 성명(2022.09.26.) "양곡관리법을 개정하면 쌀 농가와 재배면적이 증가해 쌀 공급이 늘어난다는 정부·여당의 주장은 명백한 허구다." -국회 농림축산식품해양수산위원회 소속]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
