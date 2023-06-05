@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-05T11:17:14.099Z</updated>
+    <updated>2023-06-05T12:41:45.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 사회서비스 시장화하면 질 좋아진다?]]></title>
+        <id>https://v.daum.net/v/20230605202510143</id>
+        <link href="https://v.daum.net/v/20230605202510143"/>
+        <updated>2023-06-05T12:39:32.310Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근에는 정부가 사회 복지 서비스에도 민간의 경쟁을 조성해 시장화하겠다고 밝혀 논란이 되고 있습니다. [윤석열] "보편복지가 서비스복지로 갈 때의 장점은 이것이 시장화될 수 있고 서비스를 제공하는 쪽에 경쟁을 우리가 조성을 함으로 해서 더 나은 서비스가 만들어질 수 있게 그게 가능해진다는 것이죠." 정부는 규제를 없애는 관리자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20230604080127220</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230531120902115"/>
         <updated>2023-05-31T03:21:56.525Z</updated>
         <content type="html"><![CDATA[핵심요약수원 스쿨존 사망 조은결 父, 횡단보도 위치 조정 요구하는 청원 올려 전문가 "직선부 초입으로 횡단보도 옮기면 운전자·보행자 모두 유리" "보행자 이동거리 늘고 교차로 내 사고 위험 커져" 지적도 우회전 일시정지가 도입됐지만 관련 사망 사고가 이어지는 가운데 수원 스쿨존 교통사고 사망자 조은결 군의 아버지가 횡단보도 위치 조정을 요구하고 나섰다. 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 욱일기와 자위함기는 다르다?]]></title>
-        <id>https://v.daum.net/v/20230530203711984</id>
-        <link href="https://v.daum.net/v/20230530203711984"/>
-        <updated>2023-05-30T12:39:19.968Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 자위함이 참가하는 해양차단훈련은 축소됐지만, 전범기인 욱일기를 둘러싼 논란은 계속되고 있습니다. 논란이 일자 우리 국방부는 "자위함기와 욱일기는 차이가 있다며, 두 깃발이 다르다"는 입장을 보였는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 자위대 함정의 국내 입항을 앞두고 우리 국방부는 '욱일기' 대신 ']]></content>
     </entry>
 </feed>
