@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-05T23:19:53.276Z</updated>
+    <updated>2023-06-06T01:56:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "文 정부도" "다른 나라도"…삼중수소 논란의 모든 것]]></title>
+        <id>https://v.daum.net/v/20230606091204323</id>
+        <link href="https://v.daum.net/v/20230606091204323"/>
+        <updated>2023-06-06T01:53:56.994Z</updated>
+        <content type="html"><![CDATA[삼중수소는 이번 후쿠시마 오염수 방류 문제의 핵심 쟁점입니다. 일본은 오염수에 있는 세슘이나 스트론튬과 같은 방사성 물질을 다핵종제거설비, ALPS로 걸러내 방류하겠다는 방침인데, 다른 방사성 물질과 달리 삼중수소는 걸러지지 않기 때문입니다. 일본은 오염수에 물을 많이 섞어서 삼중수소 농도를 기준치 이하로 떨어뜨린 뒤 내보내겠다는 입장입니다. 삼중수소 문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 사회서비스 시장화하면 질 좋아진다?]]></title>
         <id>https://v.daum.net/v/20230605202510143</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230531133017781"/>
         <updated>2023-05-31T05:17:35.820Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한국전력의 전례 없는 대규모 적자와 전기요금 인상을 계기로 해묵은 탈원전 논쟁이 다시 수면 위로 올라왔다. 이창양 산업통상자원부 장관은 지난 15일 전기요금 인상 발표하면서 "지난 정부의 무리한 탈원전 정책과 국제 에너지 가격 상승 등으로 한국전력의 적자가 천문학적으로 누적됐고, 결과적으로 전기요금 인상이 불가피했다"고 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우회전 사고, '횡단보도 위치 조정'하면 줄어든다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230531120902115</id>
-        <link href="https://v.daum.net/v/20230531120902115"/>
-        <updated>2023-05-31T03:21:56.525Z</updated>
-        <content type="html"><![CDATA[핵심요약수원 스쿨존 사망 조은결 父, 횡단보도 위치 조정 요구하는 청원 올려 전문가 "직선부 초입으로 횡단보도 옮기면 운전자·보행자 모두 유리" "보행자 이동거리 늘고 교차로 내 사고 위험 커져" 지적도 우회전 일시정지가 도입됐지만 관련 사망 사고가 이어지는 가운데 수원 스쿨존 교통사고 사망자 조은결 군의 아버지가 횡단보도 위치 조정을 요구하고 나섰다. 이]]></content>
     </entry>
 </feed>
