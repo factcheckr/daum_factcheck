@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-06T05:19:27.726Z</updated>
+    <updated>2023-06-06T06:25:47.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악? [팩트체크K]]]></title>
+        <id>https://v.daum.net/v/20230606145303763</id>
+        <link href="https://v.daum.net/v/20230606145303763"/>
+        <updated>2023-06-06T06:23:37.503Z</updated>
+        <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "文 정부도" "다른 나라도"…삼중수소 논란의 모든 것]]></title>
         <id>https://v.daum.net/v/20230606091204323</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230601103605205"/>
         <updated>2023-06-01T02:10:33.227Z</updated>
         <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;일부 아이폰 사용자들은 5월 31일 서울시에서 발령한 경계경보를 'Presidential Alert'(대통령 경보)로 받았다고 주장했다.ⓒ MissyUSA 게시글[기사 보강 : 1일 오전 11시 28분] [검증 대상] "대통령실에서 서울시 경계경보를 발령했다" 누리꾼 주장 서울시가 5월 31일 북한 정찰위성 발사 직후 자체적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 천문학적인 한전 적자 원인은…탈원전? 유가 급등?]]></title>
-        <id>https://v.daum.net/v/20230531133017781</id>
-        <link href="https://v.daum.net/v/20230531133017781"/>
-        <updated>2023-05-31T05:17:35.820Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한국전력의 전례 없는 대규모 적자와 전기요금 인상을 계기로 해묵은 탈원전 논쟁이 다시 수면 위로 올라왔다. 이창양 산업통상자원부 장관은 지난 15일 전기요금 인상 발표하면서 "지난 정부의 무리한 탈원전 정책과 국제 에너지 가격 상승 등으로 한국전력의 적자가 천문학적으로 누적됐고, 결과적으로 전기요금 인상이 불가피했다"고 밝혔]]></content>
     </entry>
 </feed>

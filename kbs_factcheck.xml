@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2023-06-06T05:19:27.734Z</updated>
+    <updated>2023-06-06T06:25:47.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악?]]></title>
+        <id>https://v.daum.net/v/20230606145303763</id>
+        <link href="https://v.daum.net/v/20230606145303763"/>
+        <updated>2023-06-06T06:24:08.265Z</updated>
+        <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가]]></title>
         <id>https://v.daum.net/v/20230604080127220</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221115070047963"/>
         <updated>2022-11-16T17:34:52.513Z</updated>
         <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물병원 ‘펜타닐’ 처방 증가가 마약 오·남용과 관계있다?]]></title>
-        <id>https://v.daum.net/v/20221027070021440</id>
-        <link href="https://v.daum.net/v/20221027070021440"/>
-        <updated>2022-11-16T17:34:52.514Z</updated>
-        <content type="html"><![CDATA["동물병원에서 마약성 진통제 '펜타닐 패치' 처방 급증" - 신현영 더불어민주당 의원 "마약류 취급자 중 수의사에 대한 최근 6년간 행정처분 건수 현격히 증가" - 인재근 더불어민주당 의원 더불어민주당 신현영·인재근 의원의 국정감사 자료 주요 내용입니다. 최근 동물병원에서 처방하는 '펜타닐 패치'가 눈에 띄게 증가해 오·남용의 가능성이 크고 더러는]]></content>
     </entry>
 </feed>

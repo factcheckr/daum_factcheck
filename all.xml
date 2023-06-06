@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T05:19:27.746Z</updated>
+    <updated>2023-06-06T06:25:47.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악? [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230606145303763</id>
+        <link href="https://v.daum.net/v/20230606145303763"/>
+        <updated>2023-06-06T06:23:37.503Z</updated>
+        <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230606091204323</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230601103605205"/>
         <updated>2023-06-01T02:10:33.227Z</updated>
         <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;일부 아이폰 사용자들은 5월 31일 서울시에서 발령한 경계경보를 'Presidential Alert'(대통령 경보)로 받았다고 주장했다.ⓒ MissyUSA 게시글[기사 보강 : 1일 오전 11시 28분] [검증 대상] "대통령실에서 서울시 경계경보를 발령했다" 누리꾼 주장 서울시가 5월 31일 북한 정찰위성 발사 직후 자체적으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 천문학적인 한전 적자 원인은…탈원전? 유가 급등? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230531133017781</id>
-        <link href="https://v.daum.net/v/20230531133017781"/>
-        <updated>2023-05-31T05:17:35.820Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 한국전력의 전례 없는 대규모 적자와 전기요금 인상을 계기로 해묵은 탈원전 논쟁이 다시 수면 위로 올라왔다. 이창양 산업통상자원부 장관은 지난 15일 전기요금 인상 발표하면서 "지난 정부의 무리한 탈원전 정책과 국제 에너지 가격 상승 등으로 한국전력의 적자가 천문학적으로 누적됐고, 결과적으로 전기요금 인상이 불가피했다"고 밝혔]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 난방비 폭등으로 인한 공방이 뜨겁습니다. 원인을 두고 '전 정부가 요금 인상을 억누른 탓이다', '탈원전 정책 때문이다' 부터 시작해서 '애초부터 원료를 비싸게 사온 잘못'이라는 주장까지 나오고 있는데요. 하나하나 따져보겠습니다. 먼저 난방 주연료인 국제 천연가스 가격이 폭등했는데, 전 정부가 요금 인상을 인위적으]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230606145303763</id>
+        <link href="https://v.daum.net/v/20230606145303763"/>
+        <updated>2023-06-06T06:24:08.265Z</updated>
+        <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20230604080127220</id>
         <link href="https://v.daum.net/v/20230604080127220"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20221115070047963"/>
         <updated>2022-11-16T17:34:14.590Z</updated>
         <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물병원 ‘펜타닐’ 처방 증가가 마약 오·남용과 관계있다? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20221027070021440</id>
-        <link href="https://v.daum.net/v/20221027070021440"/>
-        <updated>2022-11-16T17:34:52.514Z</updated>
-        <content type="html"><![CDATA["동물병원에서 마약성 진통제 '펜타닐 패치' 처방 급증" - 신현영 더불어민주당 의원 "마약류 취급자 중 수의사에 대한 최근 6년간 행정처분 건수 현격히 증가" - 인재근 더불어민주당 의원 더불어민주당 신현영·인재근 의원의 국정감사 자료 주요 내용입니다. 최근 동물병원에서 처방하는 '펜타닐 패치'가 눈에 띄게 증가해 오·남용의 가능성이 크고 더러는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
