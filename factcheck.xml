@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-08T10:22:28.627Z</updated>
+    <updated>2023-06-08T11:17:15.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인 휩쓴 ‘7·8월, 28일·29일간 비’ [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230608192111719</id>
+        <link href="https://v.daum.net/v/20230608192111719"/>
+        <updated>2023-06-08T11:15:47.913Z</updated>
+        <content type="html"><![CDATA[“정말 7∼8월 내내 비가 온대?” 지난달 글로벌 빅테크(거대 정보기술기업) 기업인 마이크로소프트(MS)가 홈페이지를 통해 제공하는 월간 날씨 예보가 누리꾼들 사이에서 화제가 됐다. 다음 날이나 다음 주뿐 아니라 가장 멀게는 내년 5월까지 날씨와 기온을 예보하는 MS가 서울 기준으로 7월에는 28일, 8월에는 29일이나 ‘비’가 온다고 표시하면서다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악? [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20230606145303763</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230601180046827"/>
         <updated>2023-06-01T09:19:04.331Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김준태 계승현 기자 = 지난달 31일 북한의 발사체 발사에 따른 서울시의 경계경보 문자 발송을 둘러싼 논란 이후 여진이 이어지고 있다. '오발령 혼란' 뒤 재난안전 대응을 놓고 중앙정부와 지방자치단체의 정보 공유와 연락체계가 제대로 가동됐는지에 대한 점검과 경보 체계 개선을 논의 중이다. 이와 별개로 시민 생활과 직결된 경보의 발령 주체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대통령실이 서울시 경계경보 발령" 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230601103605205</id>
-        <link href="https://v.daum.net/v/20230601103605205"/>
-        <updated>2023-06-01T02:10:33.227Z</updated>
-        <content type="html"><![CDATA[[강석찬, 김시연 기자] ▲ &nbsp;일부 아이폰 사용자들은 5월 31일 서울시에서 발령한 경계경보를 'Presidential Alert'(대통령 경보)로 받았다고 주장했다.ⓒ MissyUSA 게시글[기사 보강 : 1일 오전 11시 28분] [검증 대상] "대통령실에서 서울시 경계경보를 발령했다" 누리꾼 주장 서울시가 5월 31일 북한 정찰위성 발사 직후 자체적으]]></content>
     </entry>
 </feed>
