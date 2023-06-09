@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-09T22:19:07.275Z</updated>
+    <updated>2023-06-09T23:20:33.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무색 페트병은 투명 페트병과 따로 분류…대체 무슨 말? [노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230610074800429</id>
+        <link href="https://v.daum.net/v/20230610074800429"/>
+        <updated>2023-06-09T23:19:06.118Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온라인 휩쓴 ‘7·8월, 28일·29일간 비’ [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230608192111719</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230602060515664"/>
         <updated>2023-06-01T21:15:37.643Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 전세 사기 피해가 사회문제로 대두되면서 주거 안전망을 강화해야 한다는 요구가 나온다. 시민단체 4.16 재단의 박래군 상임이사는 지난달 23일 MBC 라디오와 인터뷰에서 "(지금은) 정부가 공공임대주택 비율을 높일 수 있는 시기"라며 "장기 공공임대를 제공하면 주거권도 안정되고 출생률도 높아진다"라고 설명했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 서울시 자체로 경계경보 발령할 수 있나]]></title>
-        <id>https://v.daum.net/v/20230601180046827</id>
-        <link href="https://v.daum.net/v/20230601180046827"/>
-        <updated>2023-06-01T09:19:04.331Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김준태 계승현 기자 = 지난달 31일 북한의 발사체 발사에 따른 서울시의 경계경보 문자 발송을 둘러싼 논란 이후 여진이 이어지고 있다. '오발령 혼란' 뒤 재난안전 대응을 놓고 중앙정부와 지방자치단체의 정보 공유와 연락체계가 제대로 가동됐는지에 대한 점검과 경보 체계 개선을 논의 중이다. 이와 별개로 시민 생활과 직결된 경보의 발령 주체]]></content>
     </entry>
 </feed>
