@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-10T22:18:11.796Z</updated>
+    <updated>2023-06-10T23:18:52.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외국인 노동자 처우가 열악하다는 건 과장된 사실일까 [팩트체크K]]]></title>
+        <id>https://v.daum.net/v/20230611080301510</id>
+        <link href="https://v.daum.net/v/20230611080301510"/>
+        <updated>2023-06-10T23:17:20.206Z</updated>
+        <content type="html"><![CDATA[국내에서 일하고 있는 외국인 노동자의 근무 환경이 열악하다는 지적이 많습니다. 지금까지 수많은 언론보도를 통해 지속적으로 전해지고 있기도 합니다. 그런데 외국인 노동자의 열악한 근무 환경을 지적하는 기사에는 "언론이 침소봉대하고 있다"거나 "꼭 안 좋은 면만 부각시킨다"는 내용의 댓글이 자주 달립니다. 언론이 극소수의 사례를 부풀려 외국인력 대부분이 열악]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?]]></title>
+        <id>https://v.daum.net/v/20230611080008399</id>
+        <link href="https://v.daum.net/v/20230611080008399"/>
+        <updated>2023-06-10T23:17:20.207Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 후쿠시마 제1원자력발전소 오염수 해양 방류를 둘러싼 논란의 불똥이 온라인 동영상 서비스(OTT) 업체인 넷플릭스로 튀었다. 후쿠시마 원전사고를 다룬 일본 드라마 '더 데이스(The Days)'가 넷플릭스를 통해 지난 1일부터 세계 각국에서 공개됐으나 한국은 제외되자 정치적 압력 때문 아니냐는 의혹이 일부 네티즌들 사이에서 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인력 알선 정책이 되레 불법체류자를 양산하나 [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20230610140200901</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230604080127220"/>
         <updated>2023-06-03T23:18:05.357Z</updated>
         <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 [팩트체크K]]]></title>
-        <id>https://v.daum.net/v/20230603140020423</id>
-        <link href="https://v.daum.net/v/20230603140020423"/>
-        <updated>2023-06-03T05:19:08.058Z</updated>
-        <content type="html"><![CDATA[① [팩트체크K]외국인 노동자가 내국인 일자리를 빼앗고 있나 소위 ‘외국인 노동자가 내국인 일자리를 빼앗고 있다’는 인식입니다. 이런 인식은 여성가족부가 3년마다 실시하는 국민다문화수용성 조사를 통해서도 드러납니다. 매번 응답자의 30% 넘는 사람들이 '외국인 노동자가 내국인 일자리를 빼앗는다'고 생각하고 있습니다.  ☞ (2012) 30.2%]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 가사도우미 제도가 저출산 막았을까?...싱가포르·홍콩 통계청 데이터 봤더니]]></title>
-        <id>https://v.daum.net/v/20230603063407185</id>
-        <link href="https://v.daum.net/v/20230603063407185"/>
-        <updated>2023-06-02T22:16:58.307Z</updated>
-        <content type="html"><![CDATA[[앵커] 최근 정부와 서울시가 싱가포르와 홍콩식 '외국인 가사도우미' 제도를 국내에 도입하는 방안을 검토하고 있습니다. 100만 원 미만의 임금으로 젊은 부모의 육아 부담을 덜게 하면 출산율을 높이는데 도움이 된다는 게 추진 배경인데, 실제 시행하고 있는 곳에서는 출산율에 어떤 영향을 미쳤는지 따져봤습니다. 황윤태 기자가 보도합니다. [기자] '외]]></content>
     </entry>
 </feed>
