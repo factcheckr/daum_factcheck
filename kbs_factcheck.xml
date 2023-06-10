@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2023-06-10T04:22:30.385Z</updated>
+    <updated>2023-06-10T05:18:39.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외국인력 알선 정책이 되레 불법체류자를 양산하나]]></title>
+        <id>https://v.daum.net/v/20230610140200901</id>
+        <link href="https://v.daum.net/v/20230610140200901"/>
+        <updated>2023-06-10T05:17:47.653Z</updated>
+        <content type="html"><![CDATA["고용허가제가 오히려 불법체류 외국인을 양산하고 있다." 기업과 외국인 노동자 지원단체, 노조를 중심으로 나오는 말입니다. 10년 전(2013) 18만여 명이었던 불법체류자는 꾸준히 늘어  지난해(2022) 41만여 명 으로 2배 넘게 증가했는데 잘못된 정부 정책에서 비롯됐다는 주장입니다. 고용허가제는 적극적 구인 활동에도 불구하고 내국 인력을 구하지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악?]]></title>
         <id>https://v.daum.net/v/20230606145303763</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20221120090222365"/>
         <updated>2022-11-20T02:07:27.984Z</updated>
         <content type="html"><![CDATA["과거 코로나 델타 변이보다 5배 강력하고 사망률이 높지만 기침·발열 증상이 없고 PCR 검사를 통한 탐지도 어렵다." 최근 단체 카톡방이나 인터넷 블로그, SNS 등에 '싱가포르 뉴스입니다'라는 제목으로 퍼지고 있는 글의 주요 내용입니다. 해당 글은 코로나19 오미크론의 새 변이 'XBB' 바이러스의 위력을 강조하면서 XBB 변이가 '우세종'이 될 경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문 전 대통령이 퇴임 전 법 바꿔 연금 비과세 혜택 누린다고?]]></title>
-        <id>https://v.daum.net/v/20221115070047963</id>
-        <link href="https://v.daum.net/v/20221115070047963"/>
-        <updated>2022-11-16T17:34:52.513Z</updated>
-        <content type="html"><![CDATA["문 전 대통령 재임 시절 전직 대통령 예우보조금이 2억 6,000만 원에서 2022년 3억 9,400만 원으로 인상되었습니다. 심지어 월 1,400만 원에 이르는 대통령 연금을 비과세 대상으로 바꿔놓았습니다. (중략) 법을 바꿔서 퇴임 이후 노후 재테크 설계했습니다. 자기 수입은 비과세 대상으로 만들었습니다." -권성동 국민의힘 의원 페이스북 글(11.]]></content>
     </entry>
 </feed>
