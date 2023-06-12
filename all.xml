@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T08:26:38.187Z</updated>
+    <updated>2023-06-12T09:20:23.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230612174021096</id>
+        <link href="https://v.daum.net/v/20230612174021096"/>
+        <updated>2023-06-12T09:19:15.132Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 후쿠시마 제1원자력발전소 오염수 해양 방류를 둘러싼 논란의 불똥이 온라인 동영상 서비스(OTT) 업체인 넷플릭스로 튀었다. 후쿠시마 원전사고를 다룬 일본 드라마 '더 데이스(The Days)'가 넷플릭스를 통해 지난 1일부터 세계 각국에서 공개됐으나 한국은 제외되자 정치적 압력 때문 아니냐는 의혹이 일부 네티즌들 사이에서 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 노동자 처우가 열악하다는 건 과장된 사실일까 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230611080301510</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230605202510143"/>
         <updated>2023-06-05T12:39:32.310Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근에는 정부가 사회 복지 서비스에도 민간의 경쟁을 조성해 시장화하겠다고 밝혀 논란이 되고 있습니다. [윤석열 대통령(지난달 31일)] "보편복지가 서비스복지로 갈 때의 장점은 이것이 시장화될 수 있고 서비스를 제공하는 쪽에 경쟁을 우리가 조성을 함으로 해서 더 나은 서비스가 만들어질 수 있게 그게 가능해진다는 것이죠." 정부는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230604080127220</id>
-        <link href="https://v.daum.net/v/20230604080127220"/>
-        <updated>2023-06-03T23:18:05.357Z</updated>
-        <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (다음 뉴스 ─ SBS 사실은)]]></title>
