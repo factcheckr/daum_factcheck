@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T08:24:58.887Z</updated>
+    <updated>2023-06-13T09:19:21.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 안보리 비상임이사국 진출, 큰 의미를 부여할 수 있을까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230613173422772</id>
+        <link href="https://v.daum.net/v/20230613173422772"/>
+        <updated>2023-06-13T09:18:11.086Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 주유중 흡연시 처분은 과태료 10만 원 뿐이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230613173412766</id>
+        <link href="https://v.daum.net/v/20230613173412766"/>
+        <updated>2023-06-13T09:18:11.086Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라에서 혈액이 부족한 이유는? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230613173302680</id>
+        <link href="https://v.daum.net/v/20230613173302680"/>
+        <updated>2023-06-13T09:18:11.087Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동관, 아들 '학폭' 해명에도 의문은 여전 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230613001109415</id>
@@ -52,27 +73,6 @@
         <link href="https://v.daum.net/v/20230610074800429"/>
         <updated>2023-06-09T23:19:06.118Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1MHz (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 휩쓴 ‘7·8월, 28일·29일간 비’ [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230608192111719</id>
-        <link href="https://v.daum.net/v/20230608192111719"/>
-        <updated>2023-06-08T11:15:47.913Z</updated>
-        <content type="html"><![CDATA[“정말 7∼8월 내내 비가 온대?” 지난달 글로벌 빅테크(거대 정보기술기업) 기업인 마이크로소프트(MS)가 홈페이지를 통해 제공하는 월간 날씨 예보가 누리꾼들 사이에서 화제가 됐다. 다음 날이나 다음 주뿐 아니라 가장 멀게는 내년 5월까지 날씨와 기온을 예보하는 MS가 서울 기준으로 7월에는 28일, 8월에는 29일이나 ‘비’가 온다고 표시하면서다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악? [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230606145303763</id>
-        <link href="https://v.daum.net/v/20230606145303763"/>
-        <updated>2023-06-06T06:23:37.503Z</updated>
-        <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230606091204323</id>
-        <link href="https://v.daum.net/v/20230606091204323"/>
-        <updated>2023-06-06T01:53:56.994Z</updated>
-        <content type="html"><![CDATA[삼중수소는 이번 후쿠시마 오염수 방류 문제의 핵심 쟁점입니다. 일본은 오염수에 있는 세슘이나 스트론튬과 같은 방사성 물질을 다핵종제거설비, ALPS로 걸러내 방류하겠다는 방침인데, 다른 방사성 물질과 달리 삼중수소는 걸러지지 않기 때문입니다. 일본은 오염수에 물을 많이 섞어서 삼중수소 농도를 기준치 이하로 떨어뜨린 뒤 내보내겠다는 입장입니다. 삼중수소 문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文 정부도" "다른 나라도"…삼중수소 논란의 모든 것 (다음 뉴스 ─ SBS 사실은)]]></title>
