@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-14T11:16:24.895Z</updated>
+    <updated>2023-06-14T12:37:41.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 소금값 급등…후쿠시마 오염수발 사재기 때문?]]></title>
+        <id>https://v.daum.net/v/20230614204205431</id>
+        <link href="https://v.daum.net/v/20230614204205431"/>
+        <updated>2023-06-14T12:36:34.267Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 일본이 후쿠시마원전 오염수를 조만간 방류할 수도 있다는 소식에 소금을 미리 사두려는 사람이 늘면서 소금 사재기까지 시작됐다는 이야기가 나오고 있습니다. 실제로 최근 소금값이 오르기는 했는데, 이것이 정말 사재기 때문인 것인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; 6월 초 소금값, 4월 평균 가격과 비교하면 30%]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]"없어서 못판다" 日 원전오염수 공포에 '소금 대란,' 진짤까]]></title>
         <id>https://v.daum.net/v/20230614163113585</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230610140200901"/>
         <updated>2023-06-10T05:17:05.596Z</updated>
         <content type="html"><![CDATA["고용허가제가 오히려 불법체류 외국인을 양산하고 있다." 기업과 외국인 노동자 지원단체, 노조를 중심으로 나오는 말입니다. 10년 전(2013) 18만여 명이었던 불법체류자는 꾸준히 늘어  지난해(2022) 41만여 명 으로 2배 넘게 증가했는데 잘못된 정부 정책에서 비롯됐다는 주장입니다. 고용허가제는 적극적 구인 활동에도 불구하고 내국 인력을 구하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230610114202849</id>
-        <link href="https://v.daum.net/v/20230610114202849"/>
-        <updated>2023-06-10T02:46:36.160Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;5일 서울 여의도 국회 의원회관에서 열린 국민의힘 '시민단체 선진화 특위' 제2차 회의에서 하태경 위원장이 발언하고 있다.ⓒ 남소연&nbsp; 하태경 "중증장애인 일자리 예산 40억원, 전장연 집회에 전용" 국민의힘 시민단체선진화특별위원회 위원장인 하태경 의원은 지난 2일 자신의 페이스북에 서울시의 '권리중심 중증장애인 맞춤형 공공 일]]></content>
     </entry>
 </feed>
