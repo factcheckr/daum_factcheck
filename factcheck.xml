@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-14T10:21:50.704Z</updated>
+    <updated>2023-06-14T11:16:24.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크]"없어서 못판다" 日 원전오염수 공포에 '소금 대란,' 진짤까]]></title>
         <id>https://v.daum.net/v/20230614163113585</id>
