@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-16T08:24:56.001Z</updated>
+    <updated>2023-06-16T09:20:48.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 한국 온 美 전략 핵잠, 이번엔 뭐가 다르길래?]]></title>
+        <id>https://v.daum.net/v/20230616175515467</id>
+        <link href="https://v.daum.net/v/20230616175515467"/>
+        <updated>2023-06-16T09:19:23.297Z</updated>
+        <content type="html"><![CDATA[미국 해군의 핵 추진 순항미사일 잠수함(SSGN) '미시건함'이 오늘 부산 작전기지에 들어왔습니다. 국방부는 핵잠 입항 소식을 즉각 언론에 알렸습니다. 미국 전략 자산의 한반도 전개 사실을 군 당국이 이처럼 실시간으로 공개한 건 흔치 않은 일입니다. 국방부는 언론에 배포한 보도자료에서 "이번 오하이오급 핵 추진 잠수함의 방한은 2017년 10월 이후 6월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] G7 최저임금제는 상향식 차등적용이다?]]></title>
         <id>https://v.daum.net/v/20230615171518592</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230612174021096"/>
         <updated>2023-06-12T09:19:15.132Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 후쿠시마 제1원자력발전소 오염수 해양 방류를 둘러싼 논란의 불똥이 온라인 동영상 서비스(OTT) 업체인 넷플릭스로 튀었다. 후쿠시마 원전사고를 다룬 일본 드라마 '더 데이스(The Days)'가 넷플릭스를 통해 지난 1일부터 세계 각국에서 공개됐으나 한국은 제외되자 정치적 압력 때문 아니냐는 의혹이 일부 네티즌들 사이에서 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 노동자 처우가 열악하다는 건 과장된 사실일까 [팩트체크K]]]></title>
-        <id>https://v.daum.net/v/20230611080301510</id>
-        <link href="https://v.daum.net/v/20230611080301510"/>
-        <updated>2023-06-10T23:17:20.206Z</updated>
-        <content type="html"><![CDATA[국내에서 일하고 있는 외국인 노동자의 근무 환경이 열악하다는 지적이 많습니다. 지금까지 수많은 언론보도를 통해 지속적으로 전해지고 있기도 합니다. 그런데 외국인 노동자의 열악한 근무 환경을 지적하는 기사에는 "언론이 침소봉대하고 있다"거나 "꼭 안 좋은 면만 부각시킨다"는 내용의 댓글이 자주 달립니다. 언론이 극소수의 사례를 부풀려 외국인력 대부분이 열악]]></content>
     </entry>
 </feed>
