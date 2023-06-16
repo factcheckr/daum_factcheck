@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T22:18:53.713Z</updated>
+    <updated>2023-06-16T23:19:59.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 선진국은 외국인 최저임금을 내국인과 달리 지급할까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230617080116723</id>
+        <link href="https://v.daum.net/v/20230617080116723"/>
+        <updated>2023-06-16T23:18:57.831Z</updated>
+        <content type="html"><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요. 그런데 외국인 노동자들은 한국어가 안 되다 보니까 소통 문제도 있고 문화·정서적인 차이도 있거든요. 그런 부분 때문에 어찌 보면 차별이 아니고 차등을 둬서 (최저임금) 적용을 해야 한다는 이야기입니다. 인간을 차별한다는 뜻은 아니고요. 그런 문제가 현실적으로 산업 현장에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 처리된 오염수, 음용수 기준에 맞다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230616202205262</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20230613173412766</id>
         <link href="https://v.daum.net/v/20230613173412766"/>
         <updated>2023-06-13T09:18:11.086Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에서 혈액이 부족한 이유는? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230613173302680</id>
-        <link href="https://v.daum.net/v/20230613173302680"/>
-        <updated>2023-06-13T09:18:11.087Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
     <entry>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[선진국은 외국인 최저임금을 내국인과 달리 지급할까 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230617080116723</id>
+        <link href="https://v.daum.net/v/20230617080116723"/>
+        <updated>2023-06-16T23:19:25.961Z</updated>
+        <content type="html"><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요. 그런데 외국인 노동자들은 한국어가 안 되다 보니까 소통 문제도 있고 문화·정서적인 차이도 있거든요. 그런 부분 때문에 어찌 보면 차별이 아니고 차등을 둬서 (최저임금) 적용을 해야 한다는 이야기입니다. 인간을 차별한다는 뜻은 아니고요. 그런 문제가 현실적으로 산업 현장에는]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[외국인 노동자 처우가 열악하다는 건 과장된 사실일까 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20230611080301510</id>
         <link href="https://v.daum.net/v/20230611080301510"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20221201060505010"/>
         <updated>2022-11-30T21:20:05.726Z</updated>
         <content type="html"><![CDATA[정부가 29일, 파업 중인 화물연대 측 시멘트 운송 차량에 대해 '업무개시명령'을 발동하면서 양측 간 극한 대치가 이어지고 있습니다. 안전운임제 3년 연장과 대상 범위 확대 불가를 고수하는 정부와 안전운임제 영구 도입과 대상 확대를 촉구하는 화물연대 간 입장이 한 치의 양보 없이 맞서면서 2004년 관련법 제정 이후 첫 업무개시명령이라는  초유의 상황까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전기차 타면 멀미나요”…전기차의 특성이 원인 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20221122195700374</id>
-        <link href="https://v.daum.net/v/20221122195700374"/>
-        <updated>2022-11-22T11:20:38.127Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 요즘 전기차를 흔하게 볼 수 있죠? 늘어난 전기차만큼 전기차를 탄 후 멀미를 호소하는 사람도 함께 늘고 있는데요. 실제로 전기차가 멀미에 더 취약한지 실험을 통해 알아봤습니다. 팩트체크K 충북, 한성원 기자입니다. [리포트] 자동차 시장에서 전기차는 급속히 늘고 있습니다. 전기차 등록대수는 지난 9월 처음으로 34만 대를 넘어섰는데]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

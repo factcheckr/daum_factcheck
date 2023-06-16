@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-16T22:18:53.694Z</updated>
+    <updated>2023-06-16T23:19:59.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 선진국은 외국인 최저임금을 내국인과 달리 지급할까]]></title>
+        <id>https://v.daum.net/v/20230617080116723</id>
+        <link href="https://v.daum.net/v/20230617080116723"/>
+        <updated>2023-06-16T23:18:57.831Z</updated>
+        <content type="html"><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요. 그런데 외국인 노동자들은 한국어가 안 되다 보니까 소통 문제도 있고 문화·정서적인 차이도 있거든요. 그런 부분 때문에 어찌 보면 차별이 아니고 차등을 둬서 (최저임금) 적용을 해야 한다는 이야기입니다. 인간을 차별한다는 뜻은 아니고요. 그런 문제가 현실적으로 산업 현장에는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 처리된 오염수, 음용수 기준에 맞다?]]></title>
         <id>https://v.daum.net/v/20230616202205262</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230613173412766</id>
         <link href="https://v.daum.net/v/20230613173412766"/>
         <updated>2023-06-13T09:18:11.086Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에서 혈액이 부족한 이유는?]]></title>
-        <id>https://v.daum.net/v/20230613173302680</id>
-        <link href="https://v.daum.net/v/20230613173302680"/>
-        <updated>2023-06-13T09:18:11.087Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
 </feed>
