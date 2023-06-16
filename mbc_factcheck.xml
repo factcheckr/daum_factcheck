@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-06-16T11:17:27.005Z</updated>
+    <updated>2023-06-16T12:38:00.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[처리된 오염수, 음용수 기준에 맞다?]]></title>
+        <id>https://v.daum.net/v/20230616202205262</id>
+        <link href="https://v.daum.net/v/20230616202205262"/>
+        <updated>2023-06-16T12:36:18.227Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사회서비스 시장화하면 질 좋아진다?]]></title>
         <id>https://v.daum.net/v/20230605202510143</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230130200414625"/>
         <updated>2023-01-30T11:17:40.112Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난방비 폭등 네탓 공방‥확인해보니]]></title>
-        <id>https://v.daum.net/v/20230127201311844</id>
-        <link href="https://v.daum.net/v/20230127201311844"/>
-        <updated>2023-01-27T11:18:08.029Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 난방비 폭등으로 인한 공방이 뜨겁습니다. 원인을 두고 '전 정부가 요금 인상을 억누른 탓이다', '탈원전 정책 때문이다' 부터 시작해서 '애초부터 원료를 비싸게 사온 잘못'이라는 주장까지 나오고 있는데요. 하나하나 따져보겠습니다. 먼저 난방 주연료인 국제 천연가스 가격이 폭등했는데, 전 정부가 요금 인상을 인위적으]]></content>
     </entry>
 </feed>
