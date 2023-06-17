@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-17T22:18:28.996Z</updated>
+    <updated>2023-06-17T23:20:03.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? [팩트체크K]]]></title>
+        <id>https://v.daum.net/v/20230618080402406</id>
+        <link href="https://v.daum.net/v/20230618080402406"/>
+        <updated>2023-06-17T23:18:47.689Z</updated>
+        <content type="html"><![CDATA[지난 4월 서울 구로구 가리봉동 일대에서 중국 동포(조선족) 출신 9명으로 구성된 범죄단체가 경찰에 붙잡혔습니다. 이들은 2021년 말부터 노래방 접대부 알선 조직을 운영하며 자신들이 고용한 접대부를 쓰지 않는 노래방 업주들을 폭행하거나 협박해 온 것으로 드러났습니다. 노래방 입구를 차량으로 막거나 경찰에 허위신고를 하는 등의 방법으로 영업을 방해하기도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낙뢰 예보 있다면…금속 장신구 빼라? 낙뢰사고 예방 Q&A[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230617093901720</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230614163113585"/>
         <updated>2023-06-14T08:23:22.000Z</updated>
         <content type="html"><![CDATA[YTN라디오(FM 94.5) [YTN 뉴스FM 슬기로운 라디오생활] □ 방송일시 : 2023년 6월 14일 (수요일) □ 진행 : 이현웅 아나운서 □ 출연 : 홍철기 소금장인 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇&nbsp;이현웅 아나운서 (이하 이현웅) : 세상에서 가장 소중한 금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 안보리 비상임이사국 진출, 큰 의미를 부여할 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20230613173422772</id>
-        <link href="https://v.daum.net/v/20230613173422772"/>
-        <updated>2023-06-13T09:18:11.086Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
     </entry>
 </feed>
