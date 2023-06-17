@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-16T23:19:59.798Z</updated>
+    <updated>2023-06-17T01:42:33.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크K] 선진국은 외국인 최저임금을 내국인과 달리 지급할까]]></title>
+        <title type="html"><![CDATA[낙뢰 예보 있다면…금속 장신구 빼라? 낙뢰사고 예방 Q&A[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230617093901720</id>
+        <link href="https://v.daum.net/v/20230617093901720"/>
+        <updated>2023-06-17T01:41:18.641Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선진국은 외국인 최저임금을 내국인과 달리 지급할까 [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20230617080116723</id>
         <link href="https://v.daum.net/v/20230617080116723"/>
         <updated>2023-06-16T23:18:57.831Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230613173422772"/>
         <updated>2023-06-13T09:18:11.086Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 주유중 흡연시 처분은 과태료 10만 원 뿐이다?]]></title>
-        <id>https://v.daum.net/v/20230613173412766</id>
-        <link href="https://v.daum.net/v/20230613173412766"/>
-        <updated>2023-06-13T09:18:11.086Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 10일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
 </feed>
