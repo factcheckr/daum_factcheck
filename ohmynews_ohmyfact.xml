@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-06-19T09:21:06.033Z</updated>
+    <updated>2023-06-19T10:21:46.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대구퀴어축제, 도로점용허가 받아야" 홍준표 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20230619184502855</id>
+        <link href="https://v.daum.net/v/20230619184502855"/>
+        <updated>2023-06-19T10:21:36.275Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] &nbsp;▲ &nbsp;대구쿠어문화축제가 열리는 17일 오전 대중교통전용지구 버스 우회 통행을 불허한 뒤 공무원들이 막아섰으나 경찰에 의해 뚫리자 홍준표 대구시장이 기자들을 만나 경찰을 비난했다.ⓒ 조정훈&nbsp; 홍준표 "대구퀴어문화축제, 도로점용허가 받고 해야" 지난 17일 대구광역시 중구 동성로 대중교통전용지구로 진입하려는 대구퀴어문화축제(아래 대구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20230610114202849</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230424154201500"/>
         <updated>2023-04-27T18:24:10.469Z</updated>
         <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;미국을 국빈 방문하는 윤석열 대통령과 김건희 여사가 24일 성남 서울공항에서 공군 1호기에 탑승하고 있다.ⓒ 연합뉴스&nbsp; [검증 대상] "윤석열 대통령은 순방 효과 없었다"는 언론 보도 윤석열 대통령은 24일부터 30일까지 미국을 국빈 자격으로 방문해 바이든 미국 대통령과 한미 정상회담을 할 예정이다.&nbsp; 하지만 주요 언론에서는 윤 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["4.3은 격 낮아 대통령 참석 의무 없다" 김재원 발언 '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20230406115701168</id>
-        <link href="https://v.daum.net/v/20230406115701168"/>
-        <updated>2023-04-27T18:24:10.470Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;김재원 국민의힘 최고위원이 4월 3일 서울 여의도 국회에서 열린 최고위원회의에 참석해 있다.ⓒ 남소연[기사 수정 : 7일 오후 3시 37분]&nbsp; [검증대상]&nbsp;4.3은 기념일이라 대통령 참석 의무 없다? 국경일도 마찬가지 윤석열 대통령이 취임 후 첫 4.3희생자추념일(아래 4.3) 추념식에 불참한 것을 두고 여당 최고위원이 "(3]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-19T09:21:06.025Z</updated>
+    <updated>2023-06-19T10:21:46.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대구퀴어축제, 도로점용허가 받아야" 홍준표 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230619184502855</id>
+        <link href="https://v.daum.net/v/20230619184502855"/>
+        <updated>2023-06-19T10:20:40.350Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] &nbsp;▲ &nbsp;대구쿠어문화축제가 열리는 17일 오전 대중교통전용지구 버스 우회 통행을 불허한 뒤 공무원들이 막아섰으나 경찰에 의해 뚫리자 홍준표 대구시장이 기자들을 만나 경찰을 비난했다.ⓒ 조정훈&nbsp; 홍준표 "대구퀴어문화축제, 도로점용허가 받고 해야" 지난 17일 대구광역시 중구 동성로 대중교통전용지구로 진입하려는 대구퀴어문화축제(아래 대구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20230618080402406</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230614204205431"/>
         <updated>2023-06-14T12:36:34.267Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 일본이 후쿠시마원전 오염수를 조만간 방류할 수도 있다는 소식에 소금을 미리 사두려는 사람이 늘면서 소금 사재기까지 시작됐다는 이야기가 나오고 있습니다. 실제로 최근 소금값이 오르기는 했는데, 이것이 정말 사재기 때문인 것인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 이경원 기자입니다. &lt;기자&gt; 6월 초 소금값, 4월 평균 가격과 비교하면 30%]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]"없어서 못판다" 日 원전오염수 공포에 '소금 대란,' 진짤까]]></title>
-        <id>https://v.daum.net/v/20230614163113585</id>
-        <link href="https://v.daum.net/v/20230614163113585"/>
-        <updated>2023-06-14T08:23:22.000Z</updated>
-        <content type="html"><![CDATA[YTN라디오(FM 94.5) [YTN 뉴스FM 슬기로운 라디오생활] □ 방송일시 : 2023년 6월 14일 (수요일) □ 진행 : 이현웅 아나운서 □ 출연 : 홍철기 소금장인 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇&nbsp;이현웅 아나운서 (이하 이현웅) : 세상에서 가장 소중한 금]]></content>
     </entry>
 </feed>
