@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-20T15:20:00.618Z</updated>
+    <updated>2023-06-20T16:25:11.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경찰의 강제 진압, 문재인 정권 때에도 있었다? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://v.daum.net/v/20230620172708946"/>
         <updated>2023-06-20T09:18:08.621Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“기술·과학고 나눠야” 일 년 만에 알게 된 윤 대통령 본심 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230620145017345</id>
+        <link href="https://v.daum.net/v/20230620145017345"/>
+        <updated>2023-06-20T16:24:00.502Z</updated>
+        <content type="html"><![CDATA[19일 정부와 국민의힘이 자율형사립고(자사고)와 외국어고(외고)·국제고 등 특수목적고(특목고) 존치를 결정했다. 사교육비 경감 대책을 발표하면서 사교육을 유발하는 자사고 존치를 결정한 것은 모순적 결정이라는 비판이 나온다. 교육계에서는 이미 윤석열 정부 출범 전부터 문재인 정부의 ‘일반고 일괄 전환’ 정책을 뒤집고 자사고를 유지할 것이라는 전망이 나온 바]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허가 없는 도로 무대 설치는 불법?... 홍준표 주장 따져보니 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230617080116723"/>
         <updated>2023-06-16T23:18:57.831Z</updated>
         <content type="html"><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요. 그런데 외국인 노동자들은 한국어가 안 되다 보니까 소통 문제도 있고 문화·정서적인 차이도 있거든요. 그런 부분 때문에 어찌 보면 차별이 아니고 차등을 둬서 (최저임금) 적용을 해야 한다는 이야기입니다. 인간을 차별한다는 뜻은 아니고요. 그런 문제가 현실적으로 산업 현장에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 처리된 오염수, 음용수 기준에 맞다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230616202205262</id>
-        <link href="https://v.daum.net/v/20230616202205262"/>
-        <updated>2023-06-16T12:35:54.385Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소금값 급등…후쿠시마 오염수발 사재기 때문? (다음 뉴스 ─ SBS 사실은)]]></title>
