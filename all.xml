@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-20T08:24:25.532Z</updated>
+    <updated>2023-06-20T09:19:14.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 경찰의 강제 진압, 문재인 정권 때에도 있었다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230620172819989</id>
+        <link href="https://v.daum.net/v/20230620172819989"/>
+        <updated>2023-06-20T09:18:08.618Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 차고지를 확보하지 않은 캠핑카는 불법이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230620172809981</id>
+        <link href="https://v.daum.net/v/20230620172809981"/>
+        <updated>2023-06-20T09:18:08.619Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 실업급여를 중국인이 죄다 타 간다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230620172708946</id>
+        <link href="https://v.daum.net/v/20230620172708946"/>
+        <updated>2023-06-20T09:18:08.621Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허가 없는 도로 무대 설치는 불법?... 홍준표 주장 따져보니 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230620043003710</id>
@@ -52,27 +73,6 @@
         <link href="https://v.daum.net/v/20230616202205262"/>
         <updated>2023-06-16T12:35:54.385Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 오염수 방류 시 천일염도 '방사능 노출' 사정권? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230616201508133</id>
-        <link href="https://v.daum.net/v/20230616201508133"/>
-        <updated>2023-06-16T11:17:26.350Z</updated>
-        <content type="html"><![CDATA[[앵커] 이 문제 관련해서 몇 가지 팩트체크를 해보겠습니다. 조보경 기자 나와 있습니다. 우선, 천일염이 바닷물로 만들어지니, 오염수가 방류되면 천일염도 방사능에 오염될 거 아니냐, 이런 걱정인데, 정말 그렇게 되나요? [기자] 위험성이 크지 않다는 의견이 많습니다. 전문가들은 일본 주장처럼 오염수를 알프스(ALPS)라는 장치를 통해 철저히 정화한다면 세슘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 한국 온 美 전략 핵잠, 이번엔 뭐가 다르길래? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230616175515467</id>
-        <link href="https://v.daum.net/v/20230616175515467"/>
-        <updated>2023-06-16T09:19:23.297Z</updated>
-        <content type="html"><![CDATA[미국 해군의 핵 추진 순항미사일 잠수함(SSGN) '미시건함'이 오늘 부산 작전기지에 들어왔습니다. 국방부는 핵잠 입항 소식을 즉각 언론에 알렸습니다. 미국 전략 자산의 한반도 전개 사실을 군 당국이 이처럼 실시간으로 공개한 건 흔치 않은 일입니다. 국방부는 언론에 배포한 보도자료에서 "이번 오하이오급 핵 추진 잠수함의 방한은 2017년 10월 이후 6월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] G7 최저임금제는 상향식 차등적용이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230615171518592</id>
-        <link href="https://v.daum.net/v/20230615171518592"/>
-        <updated>2023-06-15T08:23:31.759Z</updated>
-        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 내년에 적용할 최저임금을 논의하기 위해 열린 최저임금위원회 전원회의에서 노동계와 경영계가 평행선을 그리고 있다. 주요 쟁점은 업종별 차등적용이다. 이는 최저임금을 일괄적으로 정하는 현행과 달리, 산업별로 다르게 정하는 방식이다. 윤석열 대통령 대선 공약이기도 하다. 최저임금법이 처음 도입되었던 1988년에는 산업별로 저임금 그]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소금값 급등…후쿠시마 오염수발 사재기 때문? (다음 뉴스 ─ SBS 사실은)]]></title>
