@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-21T04:23:33.433Z</updated>
+    <updated>2023-06-21T05:21:39.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 유니콘 수 ‘14개 VS 22개’ [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230621134011911</id>
+        <link href="https://v.daum.net/v/20230621134011911"/>
+        <updated>2023-06-21T05:18:28.512Z</updated>
+        <content type="html"><![CDATA[세계 유니콘(기업가치 1조원 이상 비상장 기업) 중 한국 유니콘 수가 차지하는 비중이 올해 1.2%로 4년 전보다 1%포인트 감소했다는 전국경제인연합회의 분석은 사실일까. 전경련은 미국 데이터 분석·리서치 기관 CB인사이츠 자료를 분석한 결과를 21일 공개했다. 분석 결과 올해 한국 유니콘 기업은 14개로 2019년 10개에서 4개 증가했다. 이&nbsp;기간에 쿠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 경찰의 강제 진압, 문재인 정권 때에도 있었다?]]></title>
         <id>https://v.daum.net/v/20230620172819989</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230617093901720"/>
         <updated>2023-06-17T01:41:18.641Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선진국은 외국인 최저임금을 내국인과 달리 지급할까 [팩트체크K]]]></title>
-        <id>https://v.daum.net/v/20230617080116723</id>
-        <link href="https://v.daum.net/v/20230617080116723"/>
-        <updated>2023-06-16T23:18:57.831Z</updated>
-        <content type="html"><![CDATA["우리나라가 지금 내국인이든 외국인이든 최저임금을 동등하게 일괄적용하고 있잖아요. 그런데 외국인 노동자들은 한국어가 안 되다 보니까 소통 문제도 있고 문화·정서적인 차이도 있거든요. 그런 부분 때문에 어찌 보면 차별이 아니고 차등을 둬서 (최저임금) 적용을 해야 한다는 이야기입니다. 인간을 차별한다는 뜻은 아니고요. 그런 문제가 현실적으로 산업 현장에는]]></content>
     </entry>
 </feed>
