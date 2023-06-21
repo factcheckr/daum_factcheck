@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-06-21T10:21:58.094Z</updated>
+    <updated>2023-06-21T11:16:52.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건강보험, 외국인에게 줄줄 샌다?]]></title>
+        <id>https://v.daum.net/v/20230621200131270</id>
+        <link href="https://v.daum.net/v/20230621200131270"/>
+        <updated>2023-06-21T11:16:04.082Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김기현 국민의힘 대표는 어제 국회 교섭단체 대표 연설에서 외국인의 건강보험 문제도 지적했습니다. [김기현/국민의힘 대표 (어제)] "국민의 땀과 노력으로 만들어진 건강보험기금이 외국인 의료 쇼핑 자금으로 줄줄 새서는 안 됩니다. 건강보험 먹튀, 건강보험 무임승차 막겠습니다." 국내에 들어온 외국인들이 우리 건강보험에 무임승차해,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[처리된 오염수, 음용수 기준에 맞다?]]></title>
         <id>https://v.daum.net/v/20230616202205262</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230201105816117"/>
         <updated>2023-02-01T02:59:14.003Z</updated>
         <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난방비 폭탄, 횡재세가 해법?]]></title>
-        <id>https://v.daum.net/v/20230130200414625</id>
-        <link href="https://v.daum.net/v/20230130200414625"/>
-        <updated>2023-01-30T11:17:40.112Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 올겨울 난방비 폭등으로 취약계층을 위한 대책이 시급한데요. 이를 위해 고유가 등으로 뜻밖에 갑자기 큰돈을 번 업체들로부터 추가 세금, 이른바 '횡재세'를 거둬야 한다는 주장이 야권을 중심으로 나오고 있습니다. 횡재세는 이미 세계적인 추세다, 반시장적인 법이다라는 반론이 맞서고 있는데, 구체적인 내용 확인해봤습니다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-21T10:21:58.085Z</updated>
+    <updated>2023-06-21T11:16:52.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 건강보험, 외국인에게 줄줄 샌다?]]></title>
+        <id>https://v.daum.net/v/20230621200131270</id>
+        <link href="https://v.daum.net/v/20230621200131270"/>
+        <updated>2023-06-21T11:15:45.605Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김기현 국민의힘 대표는 어제 국회 교섭단체 대표 연설에서 외국인의 건강보험 문제도 지적했습니다. [김기현/국민의힘 대표 (어제)] "국민의 땀과 노력으로 만들어진 건강보험기금이 외국인 의료 쇼핑 자금으로 줄줄 새서는 안 됩니다. 건강보험 먹튀, 건강보험 무임승차 막겠습니다." 국내에 들어온 외국인들이 우리 건강보험에 무임승차해,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 유니콘 수 ‘14개 VS 22개’ [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20230621134011911</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230618080402406"/>
         <updated>2023-06-17T23:18:47.689Z</updated>
         <content type="html"><![CDATA[지난 4월 서울 구로구 가리봉동 일대에서 중국 동포(조선족) 출신 9명으로 구성된 범죄단체가 경찰에 붙잡혔습니다. 이들은 2021년 말부터 노래방 접대부 알선 조직을 운영하며 자신들이 고용한 접대부를 쓰지 않는 노래방 업주들을 폭행하거나 협박해 온 것으로 드러났습니다. 노래방 입구를 차량으로 막거나 경찰에 허위신고를 하는 등의 방법으로 영업을 방해하기도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낙뢰 예보 있다면…금속 장신구 빼라? 낙뢰사고 예방 Q&A[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230617093901720</id>
-        <link href="https://v.daum.net/v/20230617093901720"/>
-        <updated>2023-06-17T01:41:18.641Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
     </entry>
 </feed>
