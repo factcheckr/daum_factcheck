@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-22T11:17:05.804Z</updated>
+    <updated>2023-06-22T12:37:54.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니]]></title>
+        <id>https://v.daum.net/v/20230622203004280</id>
+        <link href="https://v.daum.net/v/20230622203004280"/>
+        <updated>2023-06-22T12:36:56.537Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 정부는 교과 과정 밖에서 나오는 초고난도 문제들이 학생들을 사교육으로 내몰고 있다며 이걸 바꿔야 한다고 말하고 있습니다. 수능이 어려워질수록 사교육이 늘어난다는 건데, 정말로 그랬는지 저희 팩트체크 사실은 팀이 분석해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 사교육비 지출 가장 많은 수학 과목 기준, 수능이 어려우면 이듬해 사교육비도 늘었는지 분석했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 수능 난이도와 사교육비 증가율 상관 관계는?]]></title>
         <id>https://v.daum.net/v/20230622180300170</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230620043003710"/>
         <updated>2023-06-19T20:18:59.514Z</updated>
         <content type="html"><![CDATA[“지라시.” 홍준표 대구시장은 19일 페이스북에 대구퀴어문화축제 관련 본보 사설을 사설정보지급 풍문으로 치부했다. 앞서 17일 축제 주최 측은 대구시 중구 대중교통전용지구에 행사용 무대설치 차량 진입을 시도했다. 이에 시 공무원 500여 명은 “집회신고뿐 아니라 별도의 도로점용 신고가 필요하다”고 막아섰다. 하지만 대구경찰청이 “적법하게 신고된 집회는 보장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나]]></title>
-        <id>https://v.daum.net/v/20230619203606739</id>
-        <link href="https://v.daum.net/v/20230619203606739"/>
-        <updated>2023-06-19T12:37:53.524Z</updated>
-        <content type="html"><![CDATA[[앵커] 지난 토요일 대구 퀴어축제에서 낯선 광경이 벌어졌습니다. 지자체 공무원들과 경찰이 부딪혔습니다. 대구시 홍준표 시장과 대구 경찰 모두, 상대방이 법을 어겼다고 주장하고 있습니다. 취재 기자와 누구 말이 맞는지 팩트체크 해보겠습니다. 강버들 기자가 나왔는데요. 강버들 기자, 일단 홍준표 시장이 퀴어 축제, 왜 막은 건가요? [기자] 이번 축제 때도]]></content>
     </entry>
 </feed>
