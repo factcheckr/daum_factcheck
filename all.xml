@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-23T23:22:11.711Z</updated>
+    <updated>2023-06-24T01:56:11.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['말라리아 퇴치국' 벗어난 한국…서울도 안심 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230624074800969</id>
+        <link href="https://v.daum.net/v/20230624074800969"/>
+        <updated>2023-06-24T01:54:55.232Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중고생 10명 중 1명이 ‘마약패치’ 썼다고? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230623155532527</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230620172708946"/>
         <updated>2023-06-20T09:18:08.621Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 6월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“기술·과학고 나눠야” 일 년 만에 알게 된 윤 대통령 본심 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230620145017345</id>
-        <link href="https://v.daum.net/v/20230620145017345"/>
-        <updated>2023-06-20T16:24:00.502Z</updated>
-        <content type="html"><![CDATA[19일 정부와 국민의힘이 자율형사립고(자사고)와 외국어고(외고)·국제고 등 특수목적고(특목고) 존치를 결정했다. 사교육비 경감 대책을 발표하면서 사교육을 유발하는 자사고 존치를 결정한 것은 모순적 결정이라는 비판이 나온다. 교육계에서는 이미 윤석열 정부 출범 전부터 문재인 정부의 ‘일반고 일괄 전환’ 정책을 뒤집고 자사고를 유지할 것이라는 전망이 나온 바]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불수능일수록 사교육 몰린다?…관련성 따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
