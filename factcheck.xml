@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-24T23:21:11.392Z</updated>
+    <updated>2023-06-25T02:09:00.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니]]></title>
+        <id>https://v.daum.net/v/20230625090300928</id>
+        <link href="https://v.daum.net/v/20230625090300928"/>
+        <updated>2023-06-25T02:07:43.484Z</updated>
+        <content type="html"><![CDATA[한덕수 국무총리는 지난 18일 서울 종로구 총리 공관에서 열린 고위 당정협의회에 참석해, "지금까지 국내 연안 해역의 방사능 농도는 2011년 후쿠시마 원전 사고 이전과 동일한 수준"이라고 말했습니다. 후쿠시마 원전 사고 당시 엄청난 방사성 물질이 유출됐는데, 우리 바다에 미친 영향은 거의 없었다는 뜻으로 읽힙니다. 그러면서 "의도적 허위사실 유포에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 고교생 사교육비 '7조 원 시대'...그게 '킬러 문항' 때문일까?]]></title>
         <id>https://v.daum.net/v/20230625051624290</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230621200131270"/>
         <updated>2023-06-21T11:15:45.605Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김기현 국민의힘 대표는 어제 국회 교섭단체 대표 연설에서 외국인의 건강보험 문제도 지적했습니다. [김기현/국민의힘 대표 (어제)] "국민의 땀과 노력으로 만들어진 건강보험기금이 외국인 의료 쇼핑 자금으로 줄줄 새서는 안 됩니다. 건강보험 먹튀, 건강보험 무임승차 막겠습니다." 국내에 들어온 외국인들이 우리 건강보험에 무임승차해,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 유니콘 수 ‘14개 VS 22개’ [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20230621134011911</id>
-        <link href="https://v.daum.net/v/20230621134011911"/>
-        <updated>2023-06-21T05:18:28.512Z</updated>
-        <content type="html"><![CDATA[세계 유니콘(기업가치 1조원 이상 비상장 기업) 중 한국 유니콘 수가 차지하는 비중이 올해 1.2%로 4년 전보다 1%포인트 감소했다는 전국경제인연합회의 분석은 사실일까. 전경련은 미국 데이터 분석·리서치 기관 CB인사이츠 자료를 분석한 결과를 21일 공개했다. 분석 결과 올해 한국 유니콘 기업은 14개로 2019년 10개에서 4개 증가했다. 이&nbsp;기간에 쿠]]></content>
     </entry>
 </feed>
