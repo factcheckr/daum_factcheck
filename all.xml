@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-27T20:23:29.078Z</updated>
+    <updated>2023-06-27T21:19:54.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 택배노조를 허용하는 나라는 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230628061714084</id>
+        <link href="https://v.daum.net/v/20230628061714084"/>
+        <updated>2023-06-27T21:18:41.627Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴기자 = 개인사업자로 등록된 택배기사들의 노동조합 설립을 둘러싼 논란이 다시 가열되는 모습이다. 김슬기 비노조 택배 연합 대표는 지난 14일 국민의힘 민생특별위원회가 주최한 택배산업 종사자 간담회에서 "택배기사는 모두 개인사업자인데 전 세계에서 개인사업자에게 노조를 만들게 허용해주는 나라는 없다"며 "택배노조라는 것 자체가 존재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230625112113074</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230622180300170"/>
         <updated>2023-06-22T09:18:20.880Z</updated>
         <content type="html"><![CDATA[최근 대학 수학능력시험 난이도 논란의 핵심은, 초고난이도 문제, 이른바 '킬러 문항'이 수험생들을 사교육으로 내몰고 있다는 점입니다. 킬러 문항이 수능의 난이도를 높였고, 이게 곧 사교육에 영향을 미쳤다는 인식이 전제돼 있습니다. 교육부는 킬러 문항은 없애되 변별력을 유지하겠다는 방침이지만, 이게 말처럼 쉬울지 의구심의 목소리도 나옵니다. 그렇다면, 정말]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이재명이 꺼낸 '핵폐수'가 중국계 용어?" <중앙> 보도 '대체로 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230622121501923</id>
-        <link href="https://v.daum.net/v/20230622121501923"/>
-        <updated>2023-06-22T03:19:14.743Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] &nbsp;▲ &nbsp;중앙일보는 6월 20일 온라인판에 '[단독] 이재명이 꺼내든 "핵 폐수"…국제 학술지선 중국계 용어'(위)라는 제목으로 보도했다. 다음날 종이신문에는 '이재명이 꺼내든 핵폐수, 국제 학계에서 중국인이 쓰는 용어'(아래)라는 제목으로 바꿔 올렸다.ⓒ 중앙일보&nbsp; 중앙일보 "이재명이 꺼내든 '핵폐수', 국제 학술지선 중국계 용어"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
