@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-28T23:23:30.269Z</updated>
+    <updated>2023-06-29T03:52:19.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[민주유공자법 통과되면 반국가단체 사건 관련자도 유공자? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230628195009050</id>
+        <link href="https://v.daum.net/v/20230628195009050"/>
+        <updated>2023-06-29T03:51:14.951Z</updated>
+        <content type="html"><![CDATA[국회 정무위원회에서 논의 중인 민주유공자법(민주유공자 예우에 관한 법률)을 두고 정부·여당과 일부 보수언론을 중심으로 ‘이 법이 통과되면 반국가단체 논란 등이 있는 사건 당사자들도 유공자로 지정된다’는 주장이 나오고 있다. 또한 이 법안 제정을 추진하는 더불어민주당 의원들이 혜택을 받는 ‘셀프 입법’ 소지가 있다는 비판도 제기된다. 민주유공자법을 둘러싼 쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 택배노조를 허용하는 나라는 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230628061714084</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230623155532527"/>
         <updated>2023-06-23T09:20:40.864Z</updated>
         <content type="html"><![CDATA[여성가족부가 최근 국내 청소년 10명 중 1명이 마약류 진통제인 ‘펜타닐 패치’를 사용한 경험이 있다는 내용의 실태조사 결과를 발표한 것을 두고 논란이 일고 있다. 초등학교(4~6학년), 중⋅고교에 다니는 청소년 1만 7140명을 대상으로 실시한 조사에서 중⋅고교생 10.4%가 ‘펜타닐 패치를 사용한 경험이 있다’고 답했다는 것이 골자다. 또 경험이 있다고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 불수능일수록 사교육 몰린다?…관련성 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230622203004280</id>
-        <link href="https://v.daum.net/v/20230622203004280"/>
-        <updated>2023-06-22T12:36:56.537Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 정부는 교과 과정 밖에서 나오는 초고난도 문제들이 학생들을 사교육으로 내몰고 있다며 이걸 바꿔야 한다고 말하고 있습니다. 수능이 어려워질수록 사교육이 늘어난다는 건데, 정말로 그랬는지 저희 팩트체크 사실은 팀이 분석해 봤습니다. 이경원 기자입니다. &lt;기자&gt; 사교육비 지출 가장 많은 수학 과목 기준, 수능이 어려우면 이듬해 사교육비도 늘었는지 분석했]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
