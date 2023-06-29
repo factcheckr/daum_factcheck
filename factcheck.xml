@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-06-29T19:18:01.924Z</updated>
+    <updated>2023-06-29T20:21:57.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 후쿠시마선 '세슘 우럭', 우리 앞바다 정말 괜찮나]]></title>
+        <id>https://v.daum.net/v/20230630043205851</id>
+        <link href="https://v.daum.net/v/20230630043205851"/>
+        <updated>2023-06-29T20:20:48.010Z</updated>
+        <content type="html"><![CDATA[국제원자력기구(IAEA)가 내달 4일 후쿠시마 원자력발전소 오염수 해양 방류 최종보고서를 공개할 예정인 가운데, 한국에선 '괴담' 논쟁이 한참이다. 공론장은 극단적인 찬반으로 양분됐다. 이에 한국일보는 대중의 관심이 높으면서도 전문가들 의견이 미묘하게 엇갈리는 사안들을 객관적으로 정리했다. ①'세슘 우럭'이 잡혔다는데... 얼마나 위험한가 도쿄전력이 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '수능 킬러문항 배제' 원칙, 尹 정부 이전부터?]]></title>
         <id>https://v.daum.net/v/20230630000049595</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230624074807973"/>
         <updated>2023-06-28T06:27:04.503Z</updated>
         <content type="html"><![CDATA[시나닷컴, 바이두 등 중국 사회관계망서비스(SNS)에는 '한국의 국민건강보험 양털 잡는 법을 가르쳐 드립니다'라는 글이 확산되고 있다. '양털 뽑기'는 신조어로 큰 돈을 들이지 않고 이득을 취하는 행위를 의미한다./사진=이미지투데이의료 쇼핑 등 외국인이 국민건강보험제도 혜택만 받고 떠난다는 지적이 나온 가운데 중국 사회관계망서비스(SNS)에는 한국 건강보험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['말라리아 퇴치국' 벗어난 한국…서울도 안심 못한다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230624074800969</id>
-        <link href="https://v.daum.net/v/20230624074800969"/>
-        <updated>2023-06-24T01:54:55.232Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임 &gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆]]></content>
     </entry>
 </feed>
