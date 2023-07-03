@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-03T09:22:24.330Z</updated>
+    <updated>2023-07-03T10:23:52.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실확인] 원전 오염수 불안에 소금 사재기…처벌될까?]]></title>
         <id>https://v.daum.net/v/20230630194442720</id>
