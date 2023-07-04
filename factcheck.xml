@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-04T14:20:39.518Z</updated>
+    <updated>2023-07-04T15:22:52.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 침대의 '라돈안전 인증', 꼭 KSA에서 받아야 하나?]]></title>
+        <id>https://v.daum.net/v/20230705000026921</id>
+        <link href="https://v.daum.net/v/20230705000026921"/>
+        <updated>2023-07-04T15:21:46.635Z</updated>
+        <content type="html"><![CDATA[윤종효 씰리코리아 대표, KSA 라돈 인증 제도에 대해 의문 제기 KSA, "각 기관별 라돈안전 시험 기준 달라 협회도 '민간 인증" [더팩트｜이중삼 기자] 최근 한국표준협회(KSA)의 '라돈안전 인증마크'에 대한 실효성을 두고 침대업계가 시끌벅적하다. KSA로부터 인증을 받아야 한다는 입장과 다른 인증기관에서 안전성만 확보되면 상관없다는 의견이 충돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프랑스 시위, 우크라이나 때문? 교묘해지는 러시아 프로파간다 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20230704155700471</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230625090300928"/>
         <updated>2023-06-25T02:07:43.484Z</updated>
         <content type="html"><![CDATA[한덕수 국무총리는 지난 18일 서울 종로구 총리 공관에서 열린 고위 당정협의회에 참석해, "지금까지 국내 연안 해역의 방사능 농도는 2011년 후쿠시마 원전 사고 이전과 동일한 수준"이라고 말했습니다. 후쿠시마 원전 사고 당시 엄청난 방사성 물질이 유출됐는데, 우리 바다에 미친 영향은 거의 없었다는 뜻으로 읽힙니다. 그러면서 "의도적 허위사실 유포에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 고교생 사교육비 '7조 원 시대'...그게 '킬러 문항' 때문일까?]]></title>
-        <id>https://v.daum.net/v/20230625051624290</id>
-        <link href="https://v.daum.net/v/20230625051624290"/>
-        <updated>2023-06-24T20:21:21.767Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부가 교과과정 밖에서 출제되는 이른바 '킬러 문항'이 학생들을 사교육 시장에 내몰고 있다면서 이번 주 공정한 수능의 방향을 제시하겠다고 밝혔습니다. '킬러 문항' 출제로 수능이 어려워질수록 학부모가 부담하게 되는 사교육비가 늘어난다는 전제가 깔려 있는데요. 실제로 상관관계가 있는지, 부장원 기자가 따져봤습니다. [기자] 우리나라 전체 고]]></content>
     </entry>
 </feed>
