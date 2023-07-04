@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-04T06:30:23.113Z</updated>
+    <updated>2023-07-04T07:20:32.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프랑스 시위, 우크라이나 때문? 교묘해지는 러시아 프로파간다 [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230704155700471</id>
+        <link href="https://v.daum.net/v/20230704155700471"/>
+        <updated>2023-07-04T07:19:22.869Z</updated>
+        <content type="html"><![CDATA[우크라이나 전쟁이 발발한지 한 달이 채 지나지 않은 지난해 3월16일 페이스북 등 사회관계망서비스(SNS)에 볼로디미르 젤렌스키 우크라이나 대통령이 러시아에 항복을 선언하는 동영상이 퍼졌다. 젤렌스키 대통령은 영상에서 우크라이나 국민을 향해 “러시아와의 전쟁에서 무기를 내려놓으라”고 말했다. 젤렌스키 대통령은 즉각 텔레그램 등을 통해 “조작된 영상”이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 건강보험 나라마다 다른데…상호주의 가능할까?]]></title>
         <id>https://v.daum.net/v/20230704140051271</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230625051624290"/>
         <updated>2023-06-24T20:21:21.767Z</updated>
         <content type="html"><![CDATA[[앵커] 정부가 교과과정 밖에서 출제되는 이른바 '킬러 문항'이 학생들을 사교육 시장에 내몰고 있다면서 이번 주 공정한 수능의 방향을 제시하겠다고 밝혔습니다. '킬러 문항' 출제로 수능이 어려워질수록 학부모가 부담하게 되는 사교육비가 늘어난다는 전제가 깔려 있는데요. 실제로 상관관계가 있는지, 부장원 기자가 따져봤습니다. [기자] 우리나라 전체 고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 잔디관리도 지자체 행사?…서울시-민주노총 논란]]></title>
-        <id>https://v.daum.net/v/20230625000038749</id>
-        <link href="https://v.daum.net/v/20230625000038749"/>
-        <updated>2023-06-24T15:20:17.491Z</updated>
-        <content type="html"><![CDATA[서울광장 사용 중복 신청에 지자체 '행사' 우선권 광장 사용하는 '잔디관리', 행사로 보기 어려워 [더팩트ㅣ장혜승 기자] 서울시가 7월 5일로 예정된 민주노총 주최 전국노동자 총파업 노동자대회·문화제의 서울광장 사용을 불허하면서 조례 해석을 둘러싸고 논란이 일고 있다. 불허 근거는 같은 날 광장 사용을 신고한 시 중부공원여가센터의 광장 잔디유지관리계획]]></content>
     </entry>
 </feed>
