@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-04T23:22:07.277Z</updated>
+    <updated>2023-07-05T01:57:25.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일랜드는 법인세 인하로 세계 최고 부자나라됐다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230705091202225</id>
+        <link href="https://v.daum.net/v/20230705091202225"/>
+        <updated>2023-07-05T01:56:25.384Z</updated>
+        <content type="html"><![CDATA[핵심요약1인당 GDP 1위한 아일랜드…김기현 대표 "법인세 인하 결과" 전문가 "법인세가 낮아지면 투자가 생기는 것이 일반적" 법인세 인하로 성장한 아일랜드의 GDP가 왜곡됐다고 주장도 多 아일랜드가 법인세를 낮춰 극빈국에서 세계 최고 부자국가로 발돋움했다는 분석이 나오면서 우리나라에서도 법인세 인하가 필요하다는 주장이 제기되고 있다. 다만 이 주장에는 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 침대의 '라돈안전 인증', 꼭 KSA에서 받아야 하나?]]></title>
         <id>https://v.daum.net/v/20230705000026921</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230625112113074"/>
         <updated>2023-06-25T03:36:13.823Z</updated>
         <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;모기(자료사진)ⓒ envato elements&nbsp; 과학 유튜버 "모기는 세상에 불필요한 생명체" 6월 21일 유튜브 채널 '유병재'에 출연한 과학 유튜버 '궤도'는 "곤충학자들조차도 싫어하는 곤충이 딱 하나, 모기"라면서 "세상에 정말 불필요한, 없어져도 되는 생명체가 바로 모기"라고 말했다.&nbsp;실제로 얼룩날개모기의 학술명 'Anophel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한덕수 "바다 방사능, 후쿠시마 사고 전과 동일" 따져 보니]]></title>
-        <id>https://v.daum.net/v/20230625090300928</id>
-        <link href="https://v.daum.net/v/20230625090300928"/>
-        <updated>2023-06-25T02:07:43.484Z</updated>
-        <content type="html"><![CDATA[한덕수 국무총리는 지난 18일 서울 종로구 총리 공관에서 열린 고위 당정협의회에 참석해, "지금까지 국내 연안 해역의 방사능 농도는 2011년 후쿠시마 원전 사고 이전과 동일한 수준"이라고 말했습니다. 후쿠시마 원전 사고 당시 엄청난 방사성 물질이 유출됐는데, 우리 바다에 미친 영향은 거의 없었다는 뜻으로 읽힙니다. 그러면서 "의도적 허위사실 유포에 대해]]></content>
     </entry>
 </feed>
