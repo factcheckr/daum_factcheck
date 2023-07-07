@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-07T22:21:58.851Z</updated>
+    <updated>2023-07-07T23:21:18.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[살 찔까봐 고른 '제로' 음료 '발암' 논란…먹어도 될까?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230708074801984</id>
+        <link href="https://v.daum.net/v/20230708074801984"/>
+        <updated>2023-07-07T23:20:19.204Z</updated>
+        <content type="html"><![CDATA[CBS 조태임의 주말 뉴스쇼 '모아모아 팩트체크'■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇ 조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 법원이 월례비를 임금으로 판단하지 않았다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230707202523047</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230630000049595"/>
         <updated>2023-06-29T15:20:46.080Z</updated>
         <content type="html"><![CDATA[문재인 정부 사교육비 증가폭 역대 최대 '킬러 문항' 출제 배경, 복합 요인 작용 [더팩트ㅣ박숙현 기자] 윤석열 대통령이 지난 15일 수능 출제와 관련해 "공교육 교과과정에서 다루지 않는 분야의 문제는 수능출제에서 배제해야 한다"고 구체적으로 지시한 후 교육계가 들썩였다. 6월 모의평가 난이도 조절에 실패했다는 이유로 수능 담당 교육부 국장은 경질되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주유공자법 통과되면 반국가단체 사건 관련자도 유공자? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230628195009050</id>
-        <link href="https://v.daum.net/v/20230628195009050"/>
-        <updated>2023-06-29T03:51:14.951Z</updated>
-        <content type="html"><![CDATA[국회 정무위원회에서 논의 중인 민주유공자법(민주유공자 예우에 관한 법률)을 두고 정부·여당과 일부 보수언론을 중심으로 ‘이 법이 통과되면 반국가단체 논란 등이 있는 사건 당사자들도 유공자로 지정된다’는 주장이 나오고 있다. 또한 이 법안 제정을 추진하는 더불어민주당 의원들이 혜택을 받는 ‘셀프 입법’ 소지가 있다는 비판도 제기된다. 민주유공자법을 둘러싼 쟁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IAEA 종합보고서에 '알프스 성능'은 빠져있다? (다음 뉴스 ─ SBS 사실은)]]></title>
