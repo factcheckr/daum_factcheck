@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-07T11:18:57.127Z</updated>
+    <updated>2023-07-07T12:43:08.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 법원이 월례비를 임금으로 판단하지 않았다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230707202523047</id>
+        <link href="https://v.daum.net/v/20230707202523047"/>
+        <updated>2023-07-07T12:42:01.198Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 올 초부터 건설 현장의 불법행위에 대해 대대적인 단속을 벌이고 있죠. 그 중 대표적인 게 하청업체가 타워크레인 기사에게 추가 작업에 대한 수고비 성격으로 매달 줘온 '월례비'입니다. [원희룡/국토교통부 장관(지난 2월)] "오늘 이후부터 월례비 수수 건에 대해서는 계도기간을 거쳐 3월부터는 즉시 자격정지 조치를 취한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230706201806238</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230628195009050"/>
         <updated>2023-06-29T03:51:14.951Z</updated>
         <content type="html"><![CDATA[국회 정무위원회에서 논의 중인 민주유공자법(민주유공자 예우에 관한 법률)을 두고 정부·여당과 일부 보수언론을 중심으로 ‘이 법이 통과되면 반국가단체 논란 등이 있는 사건 당사자들도 유공자로 지정된다’는 주장이 나오고 있다. 또한 이 법안 제정을 추진하는 더불어민주당 의원들이 혜택을 받는 ‘셀프 입법’ 소지가 있다는 비판도 제기된다. 민주유공자법을 둘러싼 쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 택배노조를 허용하는 나라는 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230628061714084</id>
-        <link href="https://v.daum.net/v/20230628061714084"/>
-        <updated>2023-06-27T21:18:41.627Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴기자 = 개인사업자로 등록된 택배기사들의 노동조합 설립을 둘러싼 논란이 다시 가열되는 모습이다. 김슬기 비노조 택배 연합 대표는 지난 14일 국민의힘 민생특별위원회가 주최한 택배산업 종사자 간담회에서 "택배기사는 모두 개인사업자인데 전 세계에서 개인사업자에게 노조를 만들게 허용해주는 나라는 없다"며 "택배노조라는 것 자체가 존재]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IAEA 종합보고서에 '알프스 성능'은 빠져있다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[최근, '한일 관계' 문제가 정치권을 뜨겁게 달구고 있습니다. 강제 징용 배상 문제를 시작으로 후쿠시마 오염수 방류까지 정치권에서 다양한 말이 쏟아집니다. 반일 감정과 진영 논리가 얽히고설키며 사안은 더욱 복잡하게 흘러가고 있습니다. 자연히 허위, 과장, 왜곡 정보도 많아졌습니다. SBS 팩트체크 사실은팀은 한일 관계와 관련된 현안들을 집중 팩트체크하]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[법원이 월례비를 임금으로 판단하지 않았다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230707202523047</id>
+        <link href="https://v.daum.net/v/20230707202523047"/>
+        <updated>2023-07-07T12:42:20.521Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 올 초부터 건설 현장의 불법행위에 대해 대대적인 단속을 벌이고 있죠. 그 중 대표적인 게 하청업체가 타워크레인 기사에게 추가 작업에 대한 수고비 성격으로 매달 줘온 '월례비'입니다. [원희룡/국토교통부 장관(지난 2월)] "오늘 이후부터 월례비 수수 건에 대해서는 계도기간을 거쳐 3월부터는 즉시 자격정지 조치를 취한다는]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[건강보험, 외국인에게 줄줄 샌다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230621200131270</id>
         <link href="https://v.daum.net/v/20230621200131270"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20230403203112423"/>
         <updated>2023-04-03T12:36:17.696Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 한일 정상회담 이후 후쿠시마산 수산물의 국내수입 재개를 일본이 요청했다는 현지 보도가 잇따랐는데, 우리 대통령실은 여기에 강하게 반박하고있죠. "후쿠시마산 수산물이 국내에 들어올 일은 결코 없다"고 밝혔는데요. 정말 그런지, 팩트체크 '알고보니'에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 후쿠시마 수산물 수입금지 조치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["난방비 대란 2025년까지 지속될 것" (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230201105816117</id>
-        <link href="https://v.daum.net/v/20230201105816117"/>
-        <updated>2023-02-01T02:58:56.216Z</updated>
-        <content type="html"><![CDATA[이번 겨울, 급등한 난방비를 두고 '네탓' 공방이 가라앉지 않고 있습니다. 상대방의 잘못이라는 시각에서 나오는 해법도 제각각입니다. &lt;알고보니&gt;는 지난주 해당 주제로 팩트체크를 한 바 있습니다. 네탓 공방은 크게 의미가 없다는 결론입니다. 이와 관련해 여건상 기사에 반영하지 못했던 에너지 전문가인 유승훈 서울과학기술대 창의융합대학 학장(교수)과의 인터뷰 내]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>

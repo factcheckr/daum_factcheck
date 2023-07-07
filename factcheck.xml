@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-07T11:18:57.117Z</updated>
+    <updated>2023-07-07T12:43:08.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 법원이 월례비를 임금으로 판단하지 않았다?]]></title>
+        <id>https://v.daum.net/v/20230707202523047</id>
+        <link href="https://v.daum.net/v/20230707202523047"/>
+        <updated>2023-07-07T12:42:01.198Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 올 초부터 건설 현장의 불법행위에 대해 대대적인 단속을 벌이고 있죠. 그 중 대표적인 게 하청업체가 타워크레인 기사에게 추가 작업에 대한 수고비 성격으로 매달 줘온 '월례비'입니다. [원희룡/국토교통부 장관(지난 2월)] "오늘 이후부터 월례비 수수 건에 대해서는 계도기간을 거쳐 3월부터는 즉시 자격정지 조치를 취한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] IAEA 종합보고서에 '알프스 성능'은 빠져있다?]]></title>
         <id>https://v.daum.net/v/20230706201806238</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230628195009050"/>
         <updated>2023-06-29T03:51:14.951Z</updated>
         <content type="html"><![CDATA[국회 정무위원회에서 논의 중인 민주유공자법(민주유공자 예우에 관한 법률)을 두고 정부·여당과 일부 보수언론을 중심으로 ‘이 법이 통과되면 반국가단체 논란 등이 있는 사건 당사자들도 유공자로 지정된다’는 주장이 나오고 있다. 또한 이 법안 제정을 추진하는 더불어민주당 의원들이 혜택을 받는 ‘셀프 입법’ 소지가 있다는 비판도 제기된다. 민주유공자법을 둘러싼 쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 택배노조를 허용하는 나라는 없다?]]></title>
-        <id>https://v.daum.net/v/20230628061714084</id>
-        <link href="https://v.daum.net/v/20230628061714084"/>
-        <updated>2023-06-27T21:18:41.627Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴기자 = 개인사업자로 등록된 택배기사들의 노동조합 설립을 둘러싼 논란이 다시 가열되는 모습이다. 김슬기 비노조 택배 연합 대표는 지난 14일 국민의힘 민생특별위원회가 주최한 택배산업 종사자 간담회에서 "택배기사는 모두 개인사업자인데 전 세계에서 개인사업자에게 노조를 만들게 허용해주는 나라는 없다"며 "택배노조라는 것 자체가 존재]]></content>
     </entry>
 </feed>
