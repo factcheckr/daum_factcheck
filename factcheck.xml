@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-11T21:18:57.960Z</updated>
+    <updated>2023-07-11T22:20:31.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[日 오염수 팩트체크] ④일본이 방출한다는 삼중수소 양, 문제없다?]]></title>
+        <id>https://v.daum.net/v/20230712070012144</id>
+        <link href="https://v.daum.net/v/20230712070012144"/>
+        <updated>2023-07-11T22:19:17.249Z</updated>
+        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 일타강사들의 수입은 모두 불법이다?]]></title>
         <id>https://v.daum.net/v/20230711171018560</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230709174405674"/>
         <updated>2023-07-09T09:18:43.542Z</updated>
         <content type="html"><![CDATA[서울-양평 고속도로의 종점이 경기 양평군의 윤석열 대통령 배우자 김건희 여사 땅 부근으로 바뀐 사실이 알려지면서 야당의 특혜 의혹 제기와 정부·여당의 반박으로 정치권이 연일 시끄럽다. 과연 정부·여당 주장대로 김 여사 땅에 혜택이 없는지, 더불어민주당도 2년 전엔 노선 변경을 추진했는지, 변경된 노선이 더 경제성이 있는지 양측의 주장을 정리하고 지금까지 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA는 유엔 산하기구일까 [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20230709132842744</id>
-        <link href="https://v.daum.net/v/20230709132842744"/>
-        <updated>2023-07-09T05:19:17.082Z</updated>
-        <content type="html"><![CDATA[라파엘 그로시&nbsp;국제원자력기구(IAEA) 사무총장의 방한과 후쿠시마 오염수의 안전성에 대한 보고서 발표로&nbsp;IAEA의 성격에 대해 논란이 일고 있다. IAEA가 유엔 산하기구인가 여부다. 9일 KBS 일요진단 라이브에서는 출연자들간 이 문제에 대한 논란이 제기됐다. 더불어민주당 양이원영 의원은&nbsp;“IAEA는 유엔 산하기구가 아니다”며&nbsp;“원전국가들이 분담금을 내서]]></content>
     </entry>
 </feed>
