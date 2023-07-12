@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-07-12T11:18:36.809Z</updated>
+    <updated>2023-07-12T12:44:27.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓']]></title>
+        <id>https://v.daum.net/v/20230712202509305</id>
+        <link href="https://v.daum.net/v/20230712202509305"/>
+        <updated>2023-07-12T12:44:17.004Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;조선일보는 11일 ‘北인민군이 주먹 불끈? ‘尹 퇴진 촛불’ 포스터 보니‘라는 제목으로 “이른바 ‘촛불집회’ 주도 단체가 1만 회원 달성을 기념한 포스터에 북한 인민군 복장한 인물 사진을 사용했다는 네티즌의 의혹 제기가 있었다”고 보도했다ⓒ 조선일보&nbsp; [검증대상] "윤석열 퇴진 촛불행동 포스터에 북 인민군 복장" &lt;조선&gt; 보도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["모기는 세상에 불필요한 생명체" 주장 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20230625112113074</id>
@@ -80,13 +87,6 @@
         <id>https://v.daum.net/v/20230426114814382</id>
         <link href="https://v.daum.net/v/20230426114814382"/>
         <updated>2023-04-27T18:24:10.453Z</updated>
-        <content type="html"><![CDATA[[김시연, 박종현 기자] 2024년 4월 총선이 1년 앞으로 다가왔습니다. 국회의원 정수를 100명으로 줄여도 되는지, 원내정당이 늘어나면 정말 정치가 불안정해지는지, 비례대표를 늘려야 여성과 청년 비율도 늘어나는지, 국회의원 선거제도 주요 쟁점을 OECD(경제협력개발기구) 비교 분석을 통해 아래와 같이 팩트체크합니다.&nbsp; &lt;편집자말&gt;&nbsp;&nbsp; 1편 "한국 국회의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원내 정당 많으면 정치 불안정" '대체로 거짓']]></title>
-        <id>https://v.daum.net/v/20230426114809376</id>
-        <link href="https://v.daum.net/v/20230426114809376"/>
-        <updated>2023-04-27T18:24:10.455Z</updated>
         <content type="html"><![CDATA[[김시연, 박종현 기자] 2024년 4월 총선이 1년 앞으로 다가왔습니다. 국회의원 정수를 100명으로 줄여도 되는지, 원내정당이 늘어나면 정말 정치가 불안정해지는지, 비례대표를 늘려야 여성과 청년 비율도 늘어나는지, 국회의원 선거제도 주요 쟁점을 OECD(경제협력개발기구) 비교 분석을 통해 아래와 같이 팩트체크합니다.&nbsp; &lt;편집자말&gt;&nbsp;&nbsp; 1편 "한국 국회의]]></content>
     </entry>
 </feed>
