@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T21:19:21.989Z</updated>
+    <updated>2023-07-12T22:21:02.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[日 오염수 팩트체크] ⑤방사성 물질이 가라앉아 해저에 축적된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230713070013168</id>
+        <link href="https://v.daum.net/v/20230713070013168"/>
+        <updated>2023-07-12T22:19:31.037Z</updated>
+        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230712212120523</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230711070013984"/>
         <updated>2023-07-11T13:31:58.301Z</updated>
         <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특혜 의혹 이어 경제·환경 충돌… ‘종점’ 안보이는 양평고속道 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230711040913446</id>
-        <link href="https://v.daum.net/v/20230711040913446"/>
-        <updated>2023-07-11T14:19:39.023Z</updated>
-        <content type="html"><![CDATA[김건희 여사 일가 특혜 의혹이 불거지면서 정부의 백지화가 선언된 서울~양평 고속도로 사업을 둘러싸고 여야의 주장이 팽팽하게 맞서고 있다. 국민의힘과 더불어민주당은 공방을 주고받으면서도 사업 재추진을 염두에 두고 자신들이 주장하는 노선이 옳다는 주장을 굽히지 않고 있다. 민주당은 기존 예비타당성조사를 통과한 경기도 양평군 양서면을 종점으로 하는 원안에 양평]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
