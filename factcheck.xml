@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-12T08:28:32.454Z</updated>
+    <updated>2023-07-12T09:21:35.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은…]]></title>
+        <id>https://v.daum.net/v/20230712174204059</id>
+        <link href="https://v.daum.net/v/20230712174204059"/>
+        <updated>2023-07-12T09:20:29.510Z</updated>
+        <content type="html"><![CDATA[영국 프리미어리그 토트넘의 손흥민, 최근 파리 생제르맹으로 이적한 이강인, 바이에른 뮌헨으로 이적이 사실상 확정된 김민재까지 요즘 한국 축구선수들의 활약이 대단합니다. 높은 관심 때문일까요. 요즘 우리 축구 선수들에 대한 해외 유명 감독과 선수들의 인터뷰 영상이 유독 많이 보입니다. 그런데 영상을 보면 정말 맞는 내용인지 의심이 들 때가 있습니다. 가령,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[日 오염수 팩트체크] ④일본이 방출한다는 삼중수소 양, 문제없다?]]></title>
         <id>https://v.daum.net/v/20230712070012144</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230710063633403"/>
         <updated>2023-07-11T13:31:58.304Z</updated>
         <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종점에 나들목이 없어 김 여사 땅 혜택 없다? 1km 밑에 나들목 있어[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230709174405674</id>
-        <link href="https://v.daum.net/v/20230709174405674"/>
-        <updated>2023-07-09T09:18:43.542Z</updated>
-        <content type="html"><![CDATA[서울-양평 고속도로의 종점이 경기 양평군의 윤석열 대통령 배우자 김건희 여사 땅 부근으로 바뀐 사실이 알려지면서 야당의 특혜 의혹 제기와 정부·여당의 반박으로 정치권이 연일 시끄럽다. 과연 정부·여당 주장대로 김 여사 땅에 혜택이 없는지, 더불어민주당도 2년 전엔 노선 변경을 추진했는지, 변경된 노선이 더 경제성이 있는지 양측의 주장을 정리하고 지금까지 드]]></content>
     </entry>
 </feed>
