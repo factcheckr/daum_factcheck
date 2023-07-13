@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-13T02:00:51.697Z</updated>
+    <updated>2023-07-13T03:05:08.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[日 오염수 팩트체크] ⑤방사성 물질이 가라앉아 해저에 축적된다? (다음 뉴스 ─ 팩트체크)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://v.daum.net/v/20230712202509305"/>
         <updated>2023-07-12T12:43:24.382Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;조선일보는 11일 ‘北인민군이 주먹 불끈? ‘尹 퇴진 촛불’ 포스터 보니‘라는 제목으로 “이른바 ‘촛불집회’ 주도 단체가 1만 회원 달성을 기념한 포스터에 북한 인민군 복장한 인물 사진을 사용했다는 네티즌의 의혹 제기가 있었다”고 보도했다ⓒ 조선일보&nbsp; [검증대상] "윤석열 퇴진 촛불행동 포스터에 북 인민군 복장" &lt;조선&gt; 보도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 폭우 내리는데 콘크리트 타설… 안전할까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230712181029977</id>
+        <link href="https://v.daum.net/v/20230712181029977"/>
+        <updated>2023-07-13T03:04:04.373Z</updated>
+        <content type="html"><![CDATA[폭우 속에서 콘크리트 타설하면 문제가 없을까. 서울에서 '극한호우' 긴급재난문자까지 발송된 지난 11일, 서울과 수도권의 일부 공사현장에서 콘크리트 타설 공정이 진행된 것을 놓고 논란이 일고 있다. 콘크리트에 빗물이 섞이면서 강도가 약해질 수 있다는 가정 속에 온라인 커뮤니티를 중심으로 우려가 확산하고 있다. 하지만 현행 지침 상 문제는 없는 것으로 나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 이강인 · 손흥민 무시한 중국, 일본 기자? 사실은… (다음 뉴스 ─ 팩트체크)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230711110005526"/>
         <updated>2023-07-11T02:54:21.578Z</updated>
         <content type="html"><![CDATA[올해도 초복(11일)을 맞아 개식용을 둘러싼 해묵은 논쟁이 재연되고 있다. 특히 올해는 국회와 서울시의회에서 개식용 금지 내용을 담은 법안과 조례가 잇따라 발의되면서 논란이 가열되는 모양새다. 이달 8일에는 서울 종로구 보신각 일대에서 개식용 찬반을 둘러싼 맞불집회가 열렸다. 지난 4월 27일부터 시행된 동물보호법 개정안에 동물의 임의도살을 금지하는 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[日 오염수 팩트체크] ③일본의 오염수 방류 기준이 적절하지 않다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230711070013984</id>
-        <link href="https://v.daum.net/v/20230711070013984"/>
-        <updated>2023-07-11T13:31:58.301Z</updated>
-        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
