@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-13T14:20:26.467Z</updated>
+    <updated>2023-07-13T15:21:40.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 비혼여성은 한국 정자은행 이용할 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230714000038049</id>
+        <link href="https://v.daum.net/v/20230714000038049"/>
+        <updated>2023-07-13T15:20:25.665Z</updated>
+        <content type="html"><![CDATA[불법은 아니지만 현실적으로 어려워 주요 선진국은 비혼여성도 시술 가능 [더팩트ㅣ황지향 인턴기자] #1. 일본 국적의 방송인 사유리가 배우자 없이 일본의 정자은행을 통해 임신했다. 2020년 11월 건강한 아들을 얻은 사유리는 예능프로그램을 통해 아들과의 행복한 일상을 보여주고 있다. #2. 최근 국내 레즈비언 커플이 임신 소식을 알렸다. 이들은 벨기에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘개인정보 유출’ LG유플러스 과징금 68억에 그친 이유 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230713161009578</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230711171018561"/>
         <updated>2023-07-11T08:26:57.815Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 1일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 두 번째 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대한민국 국민이라면 공짜로 보험료 2천만원 받을 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230711170911525</id>
-        <link href="https://v.daum.net/v/20230711170911525"/>
-        <updated>2023-07-11T08:26:57.817Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 1일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트체]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["메시, 이강인 무시한 중국 기자에 일침"…알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
