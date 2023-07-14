@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-14T21:18:42.250Z</updated>
+    <updated>2023-07-14T22:21:29.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[日 오염수 팩트체크] ⑦오염된 수산물이 식탁에 오를까?]]></title>
+        <id>https://v.daum.net/v/20230715070011034</id>
+        <link href="https://v.daum.net/v/20230715070011034"/>
+        <updated>2023-07-14T22:19:24.869Z</updated>
+        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 베이비박스로 오는 아기, 한국이 유독 많다?]]></title>
         <id>https://v.daum.net/v/20230714081650868</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230712174204059"/>
         <updated>2023-07-14T20:21:52.589Z</updated>
         <content type="html"><![CDATA[영국 프리미어리그 토트넘의 손흥민, 최근 파리 생제르맹으로 이적한 이강인, 바이에른 뮌헨으로 이적이 사실상 확정된 김민재까지 요즘 한국 축구선수들의 활약이 대단합니다. 높은 관심 때문일까요. 요즘 우리 축구 선수들에 대한 해외 유명 감독과 선수들의 인터뷰 영상이 유독 많이 보입니다. 그런데 영상을 보면 정말 맞는 내용인지 의심이 들 때가 있습니다. 가령,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[日 오염수 팩트체크] ④일본이 방출한다는 삼중수소 양, 문제없다?]]></title>
-        <id>https://v.daum.net/v/20230712070012144</id>
-        <link href="https://v.daum.net/v/20230712070012144"/>
-        <updated>2023-07-14T20:21:52.596Z</updated>
-        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
     </entry>
 </feed>
