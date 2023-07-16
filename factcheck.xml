@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-15T23:20:17.236Z</updated>
+    <updated>2023-07-16T02:10:50.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "헝가리 의대, 국시 합격률이 85%" 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230716100312314</id>
+        <link href="https://v.daum.net/v/20230716100312314"/>
+        <updated>2023-07-16T02:09:54.760Z</updated>
+        <content type="html"><![CDATA['의대 쏠림' 현상은 어제오늘 일이 아닙니다. 초등 의대 입시반이 성행할 정도로 사교육 열풍이 불고 있습니다. 심지어 외국 의대에 입학해 국내 의사가 되는 방식을 '우회로' 삼는 경우도 늘고 있다고 합니다. 보건복지부가 인정한 외국 의대를 졸업한 뒤 해당 국가의 의사 면허를 취득하면, 국내 의사 국가시험, 이른바 '국시'를 볼 수 있는 자격이 주어지기 때문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["SNS에 아이 사진 올렸는데"…정작 '저커버그'는 아이 얼굴 가렸다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230715074801437</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230712202509305"/>
         <updated>2023-07-14T20:21:52.583Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;조선일보는 11일 ‘北인민군이 주먹 불끈? ‘尹 퇴진 촛불’ 포스터 보니‘라는 제목으로 “이른바 ‘촛불집회’ 주도 단체가 1만 회원 달성을 기념한 포스터에 북한 인민군 복장한 인물 사진을 사용했다는 네티즌의 의혹 제기가 있었다”고 보도했다ⓒ 조선일보&nbsp; [검증대상] "윤석열 퇴진 촛불행동 포스터에 북 인민군 복장" &lt;조선&gt; 보도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 폭우 내리는데 콘크리트 타설… 안전할까]]></title>
-        <id>https://v.daum.net/v/20230712181029977</id>
-        <link href="https://v.daum.net/v/20230712181029977"/>
-        <updated>2023-07-14T20:21:52.586Z</updated>
-        <content type="html"><![CDATA[폭우 속에서 콘크리트 타설하면 문제가 없을까. 서울에서 '극한호우' 긴급재난문자까지 발송된 지난 11일, 서울과 수도권의 일부 공사현장에서 콘크리트 타설 공정이 진행된 것을 놓고 논란이 일고 있다. 콘크리트에 빗물이 섞이면서 강도가 약해질 수 있다는 가정 속에 온라인 커뮤니티를 중심으로 우려가 확산하고 있다. 하지만 현행 지침 상 문제는 없는 것으로 나]]></content>
     </entry>
 </feed>
