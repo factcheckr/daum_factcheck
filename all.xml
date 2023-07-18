@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-18T06:27:07.596Z</updated>
+    <updated>2023-07-18T07:19:36.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[청약 아파트 입주, 분양가만 내면 될까[팩트체크 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230718161200774</id>
+        <link href="https://v.daum.net/v/20230718161200774"/>
+        <updated>2023-07-18T07:18:19.292Z</updated>
+        <content type="html"><![CDATA[‘부동산 시장이 바닥을 다졌다’는 목소리가 힘을 얻고 있다. 이로 인해 분양가가 인근 시세 대비 저렴하게 책정된 분양 단지에 대한 관심도 높아지고 있다. 이런 가운데  분양가만으로 청약 아파트 입주가가 가능하다고 홍보하는 곳이 늘고 있다. 이것이 사실인지 청약단지 모집 공고에 게재된 단지 분양가와 당첨자가 입주를 위해 실제로 내는 금액을 비교 검토해봤다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 의대 정원 확대하면 의료비가 늘어난다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230718104126424</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230714000038049"/>
         <updated>2023-07-14T20:21:52.569Z</updated>
         <content type="html"><![CDATA[불법은 아니지만 현실적으로 어려워 주요 선진국은 비혼여성도 시술 가능 [더팩트ㅣ황지향 인턴기자] #1. 일본 국적의 방송인 사유리가 배우자 없이 일본의 정자은행을 통해 임신했다. 2020년 11월 건강한 아들을 얻은 사유리는 예능프로그램을 통해 아들과의 행복한 일상을 보여주고 있다. #2. 최근 국내 레즈비언 커플이 임신 소식을 알렸다. 이들은 벨기에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개인정보 유출’ LG유플러스 과징금 68억에 그친 이유 [뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230713161009578</id>
-        <link href="https://v.daum.net/v/20230713161009578"/>
-        <updated>2023-07-14T20:21:52.579Z</updated>
-        <content type="html"><![CDATA[연매출 13조원의 이동통신사가 가입자 정보를 유출해 부과받은 과징금 ‘68억원’은 적당한 금액일까? 개인정보보호위원회가 12일 발표한 엘지유플러스 과징금의 기준선이 ‘통신 관련 매출’이 아닌 그가운데 극히 일부분인 ‘부가서비스 매출’이라는 사실이 알려지면서 고개를 갸우뚱하는 이들이 많다. 10조원이 넘는 ‘통신 매출’만 기준으로 산정했을 경우에 수백억원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["헝가리 의대, 국시 합격률이 85%" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
