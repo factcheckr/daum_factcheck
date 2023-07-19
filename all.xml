@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-19T08:24:12.297Z</updated>
+    <updated>2023-07-19T09:19:45.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230719181202758</id>
+        <link href="https://v.daum.net/v/20230719181202758"/>
+        <updated>2023-07-19T09:18:31.475Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;건강기능식품 회사의 어린이 영영제 광고가 인종 차별을 조장해 논란이 되고 있다. 서경덕 성신여대 교양교육대학 교수는 19일 자신의 페이스북에 이 광고를 소개하면서 “아이들 피부가 하얗게 된다는 한 회사의 영양제의 SNS 광고를 보고 저 역시 큰 충격을 받았다”면서 “‘너 아프리카 사람이야?’, ‘너희 나라로 돌아가!’라는 문구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청약 아파트 입주, 분양가만 내면 될까 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230718161200774</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230714070015544"/>
         <updated>2023-07-14T20:21:52.565Z</updated>
         <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 비혼여성은 한국 정자은행 이용할 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230714000038049</id>
-        <link href="https://v.daum.net/v/20230714000038049"/>
-        <updated>2023-07-14T20:21:52.569Z</updated>
-        <content type="html"><![CDATA[불법은 아니지만 현실적으로 어려워 주요 선진국은 비혼여성도 시술 가능 [더팩트ㅣ황지향 인턴기자] #1. 일본 국적의 방송인 사유리가 배우자 없이 일본의 정자은행을 통해 임신했다. 2020년 11월 건강한 아들을 얻은 사유리는 예능프로그램을 통해 아들과의 행복한 일상을 보여주고 있다. #2. 최근 국내 레즈비언 커플이 임신 소식을 알렸다. 이들은 벨기에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["헝가리 의대, 국시 합격률이 85%" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[[경향신문] 대통령직인수위원회는 전날 문재인 정부의 탄소중립 정책으로 온실가스 배출이 오히려 늘었다며, 탈원전 정책을 문제의 원인으로 짚었다. 인수위의 주장처럼 한국전력의 부채 증가, 원전 이용률 감소, 온실가스 배출량 반등 등의 근본적 원인이 탈원전 정책 때문일까. 인수위는 지난 12일 낸 보도자료에서 “2021년 온실가스 배출량은 전년에 비해 4.1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다? (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20230719181202758</id>
+        <link href="https://v.daum.net/v/20230719181202758"/>
+        <updated>2023-07-19T09:19:34.894Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;건강기능식품 회사의 어린이 영영제 광고가 인종 차별을 조장해 논란이 되고 있다. 서경덕 성신여대 교양교육대학 교수는 19일 자신의 페이스북에 이 광고를 소개하면서 “아이들 피부가 하얗게 된다는 한 회사의 영양제의 SNS 광고를 보고 저 역시 큰 충격을 받았다”면서 “‘너 아프리카 사람이야?’, ‘너희 나라로 돌아가!’라는 문구]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20230712202509305</id>
         <link href="https://v.daum.net/v/20230712202509305"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20230428205702341"/>
         <updated>2023-04-28T12:34:43.610Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;최은영 한국도시연구소장(자료 사진)ⓒ 이희훈&nbsp; "전세 사기가 임대차 3법 때문이라고요? 그냥 아무 말 대잔치죠." 전세 사기와 깡통 전세(역전세) 피해가 확산되자, 윤석열 정부와 보수 언론은 계약갱신청구권, 전월세 인상률 상한제, 전월세신고제 등 '임대차 3법'에 책임을 돌렸다. &lt;조선일보&gt;는 지난 4월 20일 기사("전세사기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비례대표 많을수록 여성·청년 의원도 많다" '대체로 사실' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20230426114814382</id>
-        <link href="https://v.daum.net/v/20230426114814382"/>
-        <updated>2023-04-26T03:20:10.008Z</updated>
-        <content type="html"><![CDATA[[김시연, 박종현 기자] 2024년 4월 총선이 1년 앞으로 다가왔습니다. 국회의원 정수를 100명으로 줄여도 되는지, 원내정당이 늘어나면 정말 정치가 불안정해지는지, 비례대표를 늘려야 여성과 청년 비율도 늘어나는지, 국회의원 선거제도 주요 쟁점을 OECD(경제협력개발기구) 비교 분석을 통해 아래와 같이 팩트체크합니다.&nbsp; &lt;편집자말&gt;&nbsp;&nbsp; 1편 "한국 국회의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
