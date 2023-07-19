@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-19T10:21:15.739Z</updated>
+    <updated>2023-07-19T11:16:44.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 주민투표로 국가적 사업 결정한 사실이 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230719194317319</id>
+        <link href="https://v.daum.net/v/20230719194317319"/>
+        <updated>2023-07-19T11:15:36.815Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 살인진드기, 고양이를 만지기한 해도 감염된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230719194316318</id>
+        <link href="https://v.daum.net/v/20230719194316318"/>
+        <updated>2023-07-19T11:15:36.820Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 공무원 채용과정에서 합격자의 남녀 성비가 정해져 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230719194213283</id>
+        <link href="https://v.daum.net/v/20230719194213283"/>
+        <updated>2023-07-19T11:15:36.822Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230719181202758</id>
@@ -52,27 +73,6 @@
         <link href="https://v.daum.net/v/20230715074801437"/>
         <updated>2023-07-14T23:19:58.474Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆선정수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[日 오염수 팩트체크] ⑦오염된 수산물이 식탁에 오를까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230715070011034</id>
-        <link href="https://v.daum.net/v/20230715070011034"/>
-        <updated>2023-07-14T22:19:24.869Z</updated>
-        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 베이비박스로 오는 아기, 한국이 유독 많다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230714081650868</id>
-        <link href="https://v.daum.net/v/20230714081650868"/>
-        <updated>2023-07-14T20:21:52.562Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴기자 = 최근 출생 미신고 아동에 대한 경찰 수사가 확대되면서 베이비박스가 다시 주목받고 있다. 감사원이 지난달 공개한 보건복지부 감사 결과에 따르면 2015년부터 8년간 태어난 국내 영유아 중 출생신고가 되지 않은 경우는 2천236명이다. 이 중 상당수는 베이비박스에 유기·위탁된 것으로 경찰 수사 과정에서 드러났다. 출생 미신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[日 오염수 팩트체크] ⑥삼중수소가 몸 속에서 암을 유발한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230714070015544</id>
-        <link href="https://v.daum.net/v/20230714070015544"/>
-        <updated>2023-07-14T20:21:52.565Z</updated>
-        <content type="html"><![CDATA[[편집자주] 이르면 한 달 내에 일본이 후쿠시마 원전 오염수를 해양에 방류한다. 최근에 공개된 국제원자력기구(IAEA) 최종 검토보고서와 국내 자체 검토보고서는 일본의 오염수 방류는 '과학적으로' 국제기준에 부합한다는 결론을 내렸다. 하지만 여전히 국내 정치권은 물론 학계에서도 오염수 방류를 놓고 찬반 논란이 진행중이다. 동아사이언스는 오염수 방류 관련 들]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["헝가리 의대, 국시 합격률이 85%" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
