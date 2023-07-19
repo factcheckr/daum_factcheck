@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-19T11:16:44.998Z</updated>
+    <updated>2023-07-19T12:37:52.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 오염수 양식 광어로 '안전 인증'? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230719202700562</id>
+        <link href="https://v.daum.net/v/20230719202700562"/>
+        <updated>2023-07-19T12:36:36.283Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 정부가 어제 한국 언론을 상대로 후쿠시마 오염수 방류의 안전성을 강조하는 설명회를 열었습니다. 일본은 삼중수소가 남아있는 오염수에 기르고 있는 이 광어와 전복을 거론하면서 "불안감 해소에 도움이 될 것"이라고 밝혔는데요. 이 양식장은 어떤 곳이고, 정말 안심할 수 있는 건지 팩트체크, 알고보니에서 따져봤습니다. ◀ 리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 주민투표로 국가적 사업 결정한 사실이 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230719194317319</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230716100312314"/>
         <updated>2023-07-16T02:09:54.760Z</updated>
         <content type="html"><![CDATA['의대 쏠림' 현상은 어제오늘 일이 아닙니다. 초등 의대 입시반이 성행할 정도로 사교육 열풍이 불고 있습니다. 심지어 외국 의대에 입학해 국내 의사가 되는 방식을 '우회로' 삼는 경우도 늘고 있다고 합니다. 보건복지부가 인정한 외국 의대를 졸업한 뒤 해당 국가의 의사 면허를 취득하면, 국내 의사 국가시험, 이른바 '국시'를 볼 수 있는 자격이 주어지기 때문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["SNS에 아이 사진 올렸는데"…정작 '저커버그'는 아이 얼굴 가렸다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230715074801437</id>
-        <link href="https://v.daum.net/v/20230715074801437"/>
-        <updated>2023-07-14T23:19:58.474Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆선정수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["헝가리 의대, 국시 합격률이 85%" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 앞서 시찰단 단장이 직접 이야기한 것처럼 우리 시찰단은 처리된 오염수를 바다에 방류하기 전에 모아두는 곳을 점검했습니다. 이곳이 주요 시설이다 보니까 국제원자력기구도 이미 여기를 검증한 적이 있었는데 저희 팩트 체크 사실은 팀이 당시에 어떤 평가가 나왔었는지 살펴봤습니다. 이 내용 이경원 기자가 전하겠습니다. &lt;기자&gt; 헬기에서 본 후쿠시마 원전.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오염수 양식 광어로 '안전 인증'? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20230719202700562</id>
+        <link href="https://v.daum.net/v/20230719202700562"/>
+        <updated>2023-07-19T12:36:59.877Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 정부가 어제 한국 언론을 상대로 후쿠시마 오염수 방류의 안전성을 강조하는 설명회를 열었습니다. 일본은 삼중수소가 남아있는 오염수에 기르고 있는 이 광어와 전복을 거론하면서 "불안감 해소에 도움이 될 것"이라고 밝혔는데요. 이 양식장은 어떤 곳이고, 정말 안심할 수 있는 건지 팩트체크, 알고보니에서 따져봤습니다. ◀ 리포트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[법원이 월례비를 임금으로 판단하지 않았다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20230707202523047</id>
         <link href="https://v.daum.net/v/20230707202523047"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20230405201604507"/>
         <updated>2023-04-05T11:17:21.181Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이렇게 쌀 소비를 늘려서 재고를 해결 하자는 방안, 처음 나온 얘기가 아닙니다. 과연 이런 '쌀 소비 촉진 방안'이 현실적인 대책이 될 수 있는지, 팩트 체크, 알고 보니, 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 쌀 소비 운동이 범정부 차원에서 대대적으로 추진된 건 지난 2009년 여름입니다. 2년 연속 대풍년으로 쌀 생산량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마산 수산물, 국내로 결코 못들어온다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230403203112423</id>
-        <link href="https://v.daum.net/v/20230403203112423"/>
-        <updated>2023-04-03T12:36:17.696Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 한일 정상회담 이후 후쿠시마산 수산물의 국내수입 재개를 일본이 요청했다는 현지 보도가 잇따랐는데, 우리 대통령실은 여기에 강하게 반박하고있죠. "후쿠시마산 수산물이 국내에 들어올 일은 결코 없다"고 밝혔는데요. 정말 그런지, 팩트체크 '알고보니'에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 후쿠시마 수산물 수입금지 조치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>

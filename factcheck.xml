@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-19T11:16:44.981Z</updated>
+    <updated>2023-07-19T12:37:52.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 오염수 양식 광어로 '안전 인증'?]]></title>
+        <id>https://v.daum.net/v/20230719202700562</id>
+        <link href="https://v.daum.net/v/20230719202700562"/>
+        <updated>2023-07-19T12:36:36.283Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 정부가 어제 한국 언론을 상대로 후쿠시마 오염수 방류의 안전성을 강조하는 설명회를 열었습니다. 일본은 삼중수소가 남아있는 오염수에 기르고 있는 이 광어와 전복을 거론하면서 "불안감 해소에 도움이 될 것"이라고 밝혔는데요. 이 양식장은 어떤 곳이고, 정말 안심할 수 있는 건지 팩트체크, 알고보니에서 따져봤습니다. ◀ 리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 주민투표로 국가적 사업 결정한 사실이 있다?]]></title>
         <id>https://v.daum.net/v/20230719194317319</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230716100312314"/>
         <updated>2023-07-16T02:09:54.760Z</updated>
         <content type="html"><![CDATA['의대 쏠림' 현상은 어제오늘 일이 아닙니다. 초등 의대 입시반이 성행할 정도로 사교육 열풍이 불고 있습니다. 심지어 외국 의대에 입학해 국내 의사가 되는 방식을 '우회로' 삼는 경우도 늘고 있다고 합니다. 보건복지부가 인정한 외국 의대를 졸업한 뒤 해당 국가의 의사 면허를 취득하면, 국내 의사 국가시험, 이른바 '국시'를 볼 수 있는 자격이 주어지기 때문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["SNS에 아이 사진 올렸는데"…정작 '저커버그'는 아이 얼굴 가렸다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230715074801437</id>
-        <link href="https://v.daum.net/v/20230715074801437"/>
-        <updated>2023-07-14T23:19:58.474Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆선정수]]></content>
     </entry>
 </feed>
