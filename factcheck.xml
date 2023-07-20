@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-20T07:17:58.058Z</updated>
+    <updated>2023-07-20T08:24:28.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 폭우 중 골프 자제, 국민의힘 윤리강령에 있다?]]></title>
+        <id>https://v.daum.net/v/20230720164324218</id>
+        <link href="https://v.daum.net/v/20230720164324218"/>
+        <updated>2023-07-20T08:22:59.900Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] ‘폭우 중 주말 골프’를 가진 홍준표 대구시장을 둘러싼 논란이 계속되고 있다. 홍 시장은 집중호우로 인해 전국에서 인명피해가 발생한 지난 15일, 측근들과 골프를 쳤다. 이에 대한 비판이 제기되자 그는 “주말에 골프를 치면 안 된다는 규정이 어디 있느냐”고 반박했다. 하지만 19일 오후 긴급기자회견을 열고 “수해로 상처 입은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다]]></title>
         <id>https://v.daum.net/v/20230720092702716</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230717164619631"/>
         <updated>2023-07-17T08:27:02.807Z</updated>
         <content type="html"><![CDATA[지난 8일 하이브 소속 글로벌 그룹 앤팀(&amp;TEAM)의 팬 사인회에서 여성 보안요원이 팬들의 속옷을 검사하는 등 과잉 경호가 이루어졌다는 주장이 제기됐습니다. 이에 대해 하이브 산하 팬 커머스 플랫폼 위버스샵은 “아무리 보안상의 이유라고 해도, 그것이 팬분들을 불편하게 할 근거가 될 수는 없다는 점을 잘 알고 있다”며 사과문을 올렸습니다. 현장 목격자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“그나마 피해 덜한 것”···홍수 때마다 ‘4대강 논란’, 사실은[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230717163049145</id>
-        <link href="https://v.daum.net/v/20230717163049145"/>
-        <updated>2023-07-17T08:27:02.807Z</updated>
-        <content type="html"><![CDATA[이번에 내린 역대급 폭우로 피해가 속출하자 ‘4대강’이 또 다시 소환됐다. 지난 주말 포털 기사 댓글과 사회관계망서비스(SNS)에선 “4대강 보를 해체한 지역에 피해가 심하게 일어나고 있다”는 주장과 “보가 홍수위를 높였다” 등 상반된 주장이 충돌했다. 정진석 국민의힘 의원은 17일 충남 공주시 수해 피해지역을 찾은 자리에서 취재진에게 “4대강 사업으로 강]]></content>
     </entry>
 </feed>
