@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-19T23:18:54.870Z</updated>
+    <updated>2023-07-20T01:39:24.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다]]></title>
+        <id>https://v.daum.net/v/20230720092702716</id>
+        <link href="https://v.daum.net/v/20230720092702716"/>
+        <updated>2023-07-20T01:37:57.379Z</updated>
+        <content type="html"><![CDATA[극한 호우.&nbsp;한꺼번에 쏟아지는 엄청난 양의 비를 직감적으로 나타내기 위해 언론이 비유적으로 쓰는 말 같지만, 기상청 공식 표현입니다. 기상청은 올 여름부터 기존의 호우 주의보와 호우 경보를 넘는 극단의 강우 상황이 발생하면 '극한 호우 재난문자'를 보내는 시스템을 도입했습니다. 여기서 말하는 극한 호우는 1시간 동안 누적 강수량 50㎜를 넘고 3시간 동안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 오염수 양식 광어로 '안전 인증'?]]></title>
         <id>https://v.daum.net/v/20230719202700562</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230717163049145"/>
         <updated>2023-07-17T08:27:02.807Z</updated>
         <content type="html"><![CDATA[이번에 내린 역대급 폭우로 피해가 속출하자 ‘4대강’이 또 다시 소환됐다. 지난 주말 포털 기사 댓글과 사회관계망서비스(SNS)에선 “4대강 보를 해체한 지역에 피해가 심하게 일어나고 있다”는 주장과 “보가 홍수위를 높였다” 등 상반된 주장이 충돌했다. 정진석 국민의힘 의원은 17일 충남 공주시 수해 피해지역을 찾은 자리에서 취재진에게 “4대강 사업으로 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "헝가리 의대, 국시 합격률이 85%" 따져 보니…]]></title>
-        <id>https://v.daum.net/v/20230716100312314</id>
-        <link href="https://v.daum.net/v/20230716100312314"/>
-        <updated>2023-07-16T02:09:54.760Z</updated>
-        <content type="html"><![CDATA['의대 쏠림' 현상은 어제오늘 일이 아닙니다. 초등 의대 입시반이 성행할 정도로 사교육 열풍이 불고 있습니다. 심지어 외국 의대에 입학해 국내 의사가 되는 방식을 '우회로' 삼는 경우도 늘고 있다고 합니다. 보건복지부가 인정한 외국 의대를 졸업한 뒤 해당 국가의 의사 면허를 취득하면, 국내 의사 국가시험, 이른바 '국시'를 볼 수 있는 자격이 주어지기 때문]]></content>
     </entry>
 </feed>
