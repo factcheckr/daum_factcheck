@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-21T11:16:19.060Z</updated>
+    <updated>2023-07-21T12:37:55.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230721212100067</id>
+        <link href="https://v.daum.net/v/20230721212100067"/>
+        <updated>2023-07-21T12:35:43.605Z</updated>
+        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;보수 성향 인터넷 매체인 &lt;파이낸셜투데이&gt;는 지난 16일 “충청과 전라 지역에 호우 피해가 큰 이유 중 하나로 문재인 정부가 보(洑)를 해체했기 때문이라는 주장이 제기됐다”면서 “이번에 크게 물난리가 난 지역은 충남과 전북 지역으로 이 지역은 세종보, 공주보 그리고 죽산보 등 문재인 정부에서 보를 해체한 지역”이라고 보도했다ⓒ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 폭우 중 골프 자제, 국민의힘 윤리강령에 있다?]]></title>
         <id>https://v.daum.net/v/20230720164324218</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230718104126424"/>
         <updated>2023-07-18T02:06:57.565Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부가 인구 고령화로 늘어난 의료수요에 대응해 의과대학의 정원 확대를 추진하고 있으나 의사들의 반발로 난항을 겪고 있다. 대한의사협회 우봉식 의료정책연구원장은 지난달 27일 보건복지부가 주최한 '의사 인력 수급추계 전문가 포럼'에서 "의대 정원 확대는 단순히 수요가 많으니 공급을 확대해야 된다는 단순한 개념으로 접근하면 매우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 사인회·시사회에서 신체수색, 법적 문제 있다?]]></title>
-        <id>https://v.daum.net/v/20230717164619631</id>
-        <link href="https://v.daum.net/v/20230717164619631"/>
-        <updated>2023-07-17T08:27:02.807Z</updated>
-        <content type="html"><![CDATA[지난 8일 하이브 소속 글로벌 그룹 앤팀(&amp;TEAM)의 팬 사인회에서 여성 보안요원이 팬들의 속옷을 검사하는 등 과잉 경호가 이루어졌다는 주장이 제기됐습니다. 이에 대해 하이브 산하 팬 커머스 플랫폼 위버스샵은 “아무리 보안상의 이유라고 해도, 그것이 팬분들을 불편하게 할 근거가 될 수는 없다는 점을 잘 알고 있다”며 사과문을 올렸습니다. 현장 목격자]]></content>
     </entry>
 </feed>
