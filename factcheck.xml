@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-25T10:21:59.331Z</updated>
+    <updated>2023-07-25T11:18:23.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?]]></title>
+        <id>https://v.daum.net/v/20230725192400140</id>
+        <link href="https://v.daum.net/v/20230725192400140"/>
+        <updated>2023-07-25T11:16:08.942Z</updated>
+        <content type="html"><![CDATA[서울 서초구 초등학교 교사 사망과 관련해 교권 침해 논란이 계속되고 있습니다. 정부는 대책을 마련하느라 분주합니다. 이주호 부총리 겸 교육부장관은 교원의 교육활동과 다른 학생들의 학습권이 침해되지 않도록, 생활지도 범위와 방식을 규정한 개정 고시안을 8월 안에 마련할 것이라고 밝혔습니다. 그런데 대책이 필요하다는 목소리는 어제오늘 얘기가 아닙니다. 대표적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서울시 길고양이 중성화 사업 실효성 없다?]]></title>
         <id>https://v.daum.net/v/20230723000048620</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230719194213283"/>
         <updated>2023-07-24T17:17:06.735Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너희 나라로 돌아가!" 인종차별 광고, 금지 규정 없다? [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230719181202758</id>
-        <link href="https://v.daum.net/v/20230719181202758"/>
-        <updated>2023-07-24T17:17:06.737Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;건강기능식품 회사의 어린이 영영제 광고가 인종 차별을 조장해 논란이 되고 있다. 서경덕 성신여대 교양교육대학 교수는 19일 자신의 페이스북에 이 광고를 소개하면서 “아이들 피부가 하얗게 된다는 한 회사의 영양제의 SNS 광고를 보고 저 역시 큰 충격을 받았다”면서 “‘너 아프리카 사람이야?’, ‘너희 나라로 돌아가!’라는 문구]]></content>
     </entry>
 </feed>
