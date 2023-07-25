@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-25T11:18:23.963Z</updated>
+    <updated>2023-07-25T12:39:28.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "교사-가해 학생 '즉시 분리'"…외국은 '교사 사생활 보호' 초점]]></title>
+        <id>https://v.daum.net/v/20230725203906902</id>
+        <link href="https://v.daum.net/v/20230725203906902"/>
+        <updated>2023-07-25T12:38:18.225Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이런 가운데 우리도 외국처럼 교사가 교권을 침해한 학생을 즉시 분리할 수 있도록 법을 고치자는 주장도 나오고 있습니다. 그럼 외국은 교권을 어떻게 보호하고 있는지 팩트체크 사실은 팀에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 지난해 말 교육부는 교권 침해 사례가 잇따르자, 피해 교사와 가해 학생 즉시 분리 방안을 추진하겠다며 보도자료를 냈습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 가해 학생과 피해 교사 '즉시 분리', 외국은 어떻게?]]></title>
         <id>https://v.daum.net/v/20230725192400140</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230719194316318"/>
         <updated>2023-07-24T17:17:06.733Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공무원 채용과정에서 합격자의 남녀 성비가 정해져 있다?]]></title>
-        <id>https://v.daum.net/v/20230719194213283</id>
-        <link href="https://v.daum.net/v/20230719194213283"/>
-        <updated>2023-07-24T17:17:06.735Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
     </entry>
 </feed>
