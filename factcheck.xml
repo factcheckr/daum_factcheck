@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-28T08:23:45.242Z</updated>
+    <updated>2023-07-28T09:18:50.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230728140443069"/>
         <updated>2023-07-28T05:17:14.541Z</updated>
         <content type="html"><![CDATA[대선조선 영도조선소. /사진=최유빈 기자10년 만의 호황으로 재도약을 앞둔 대선조선이 장애물을 만났다. 긴 불황의 후유증으로 인력난과 유동성 문제에 직면한 것이다. 대선조선은 최대주주인 동일철강의 지원을 바탕으로 경영 정상화에 박차를 가하고 있다. 올해 상반기 대규모 수주에 성공한 대선조선은 일시적인 유동성 문제를 겪고 있다. 조선업계는 선박 인도 시점에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘검찰 영수증’ 잉크는 구내식당만 피해서 휘발되나 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20230728130510629</id>
+        <link href="https://v.daum.net/v/20230728130510629"/>
+        <updated>2023-07-28T09:17:44.110Z</updated>
+        <content type="html"><![CDATA[정점식 국민의힘 의원 : “지금 박주민 의원께서 지적을 하셨는데 업무추진비와 관련해서 백지 영수증이 있다. 취지로 질의를 했는데 그걸 이제 우리 장관한테 질의를 해야 될 걸 감사원장께 질의를 드리는 바람에 장관께서는 답변을 못 한 것 같은데, 백지 영수증이라는 게 뭡니까?” 한동훈 법무부 장관: “영수증 원본을 보관하다 보면 잉크가 휘발되지 않습니까?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "학생인권조례 때문에 교권 침해 늘었다" 따져 보니…]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230720164324218"/>
         <updated>2023-07-24T17:17:06.721Z</updated>
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자] ‘폭우 중 주말 골프’를 가진 홍준표 대구시장을 둘러싼 논란이 계속되고 있다. 홍 시장은 집중호우로 인해 전국에서 인명피해가 발생한 지난 15일, 측근들과 골프를 쳤다. 이에 대한 비판이 제기되자 그는 “주말에 골프를 치면 안 된다는 규정이 어디 있느냐”고 반박했다. 하지만 19일 오후 긴급기자회견을 열고 “수해로 상처 입은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한반도 '극한 호우', 50년 동안 ○배 늘었다]]></title>
-        <id>https://v.daum.net/v/20230720092702716</id>
-        <link href="https://v.daum.net/v/20230720092702716"/>
-        <updated>2023-07-24T17:17:06.726Z</updated>
-        <content type="html"><![CDATA[극한 호우.&nbsp;한꺼번에 쏟아지는 엄청난 양의 비를 직감적으로 나타내기 위해 언론이 비유적으로 쓰는 말 같지만, 기상청 공식 표현입니다. 기상청은 올 여름부터 기존의 호우 주의보와 호우 경보를 넘는 극단의 강우 상황이 발생하면 '극한 호우 재난문자'를 보내는 시스템을 도입했습니다. 여기서 말하는 극한 호우는 1시간 동안 누적 강수량 50㎜를 넘고 3시간 동안]]></content>
     </entry>
 </feed>
