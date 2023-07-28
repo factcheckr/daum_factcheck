@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-28T18:22:24.208Z</updated>
+    <updated>2023-07-28T19:16:05.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아들 학폭 논란과 외압, 어디까지가 진실인가 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230729032532255</id>
+        <link href="https://v.daum.net/v/20230729032532255"/>
+        <updated>2023-07-28T19:14:41.278Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 28일 신임 방송통신위원장에 이동관 대통령 대외협력특보를 지명했다. 더불어민주당은 이 후보자 내정설이 돌 때부터 이 후보자가 과거 아들의 학교 폭력을 은폐했다는 주장을 계속해 왔다. 이 논란은 이 후보자의 아들이 2011년 서울 은평구 하나고 재학 때 벌어진 사건에 관한 것이다. 정작 사건 발생 당시에는 알려지지 않았는데, 2015년 서울시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 학생인권조례 때문에 교권침해 늘었다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230728205212775</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230722074801012"/>
         <updated>2023-07-24T17:17:06.715Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 어떤 주제를 준비했나요? ◆선정수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230721212100067</id>
-        <link href="https://v.daum.net/v/20230721212100067"/>
-        <updated>2023-07-21T12:35:43.605Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;보수 성향 인터넷 매체인 &lt;파이낸스투데이&gt;는 지난 16일 “충청과 전라 지역에 호우 피해가 큰 이유 중 하나로 문재인 정부가 보(洑)를 해체했기 때문이라는 주장이 제기됐다”면서 “이번에 크게 물난리가 난 지역은 충남과 전북 지역으로 이 지역은 세종보, 공주보 그리고 죽산보 등 문재인 정부에서 보를 해체한 지역”이라고 보도했다ⓒ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["학생인권조례 때문에 교권 침해 늘었다" 따져 보니… (다음 뉴스 ─ SBS 사실은)]]></title>
