@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-27T23:19:17.419Z</updated>
+    <updated>2023-07-28T01:25:15.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "학생인권조례 때문에 교권 침해 늘었다" 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230728091200382</id>
+        <link href="https://v.daum.net/v/20230728091200382"/>
+        <updated>2023-07-28T01:24:06.654Z</updated>
+        <content type="html"><![CDATA[교권 침해 논란이 계속되는 가운데 정부가 '학생인권조례' 책임론을 꺼내 들었습니다. 일부 교육청이 학생들 인권을 보장하는 학생인권조례를 앞다퉈 제정하다 보니 교권이 되레 추락했다는 겁니다. 포문은 이주호 부총리 겸 교육부 장관이 열었습니다. 이 부총리는 지난 21일 서울 서초구 한국교원단체총연합회에서 열린 '교권 확립을 위한 현장 간담회'에서 "학생의 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "교사-가해 학생 '즉시 분리'"…외국은 '교사 사생활 보호' 초점]]></title>
         <id>https://v.daum.net/v/20230725203906902</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230719194317319"/>
         <updated>2023-07-24T17:17:06.727Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 살인진드기, 고양이를 만지기한 해도 감염된다?]]></title>
-        <id>https://v.daum.net/v/20230719194316318</id>
-        <link href="https://v.daum.net/v/20230719194316318"/>
-        <updated>2023-07-24T17:17:06.733Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
     </entry>
 </feed>
