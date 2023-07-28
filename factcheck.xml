@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-28T20:20:20.099Z</updated>
+    <updated>2023-07-28T21:16:44.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[아들 학폭 논란과 외압, 어디까지가 진실인가]]></title>
+        <title type="html"><![CDATA[이동관 아들 학폭 논란과 외압, 어디까지가 진실인가]]></title>
         <id>https://v.daum.net/v/20230729032532255</id>
         <link href="https://v.daum.net/v/20230729032532255"/>
         <updated>2023-07-28T19:14:41.278Z</updated>
