@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-07-28T11:15:56.858Z</updated>
+    <updated>2023-07-28T12:36:46.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 학생인권조례 때문에 교권침해 늘었다?]]></title>
+        <id>https://v.daum.net/v/20230728205212775</id>
+        <link href="https://v.daum.net/v/20230728205212775"/>
+        <updated>2023-07-28T12:35:50.493Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 비극적인 사건이 반복되지 않기 위해서는 교사들을 보호할 수 있는 실질적인 대책이 마련돼야 할 텐데요. 오늘 열린 국회 교육위원회에서 교육부장관은 우선 추진할 대책으로 학생인권조례 개선을 꼽았습니다. [강득구/더불어민주당 의원] "서이초 사건의 본질이 뭐라고 생각하십니까?" [이주호/교육부 장관] "교권의 추락이라고 생각을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니]]></title>
         <id>https://v.daum.net/v/20230728152703584</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230721212100067"/>
         <updated>2023-07-24T17:17:06.718Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;보수 성향 인터넷 매체인 &lt;파이낸스투데이&gt;는 지난 16일 “충청과 전라 지역에 호우 피해가 큰 이유 중 하나로 문재인 정부가 보(洑)를 해체했기 때문이라는 주장이 제기됐다”면서 “이번에 크게 물난리가 난 지역은 충남과 전북 지역으로 이 지역은 세종보, 공주보 그리고 죽산보 등 문재인 정부에서 보를 해체한 지역”이라고 보도했다ⓒ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 폭우 중 골프 자제, 국민의힘 윤리강령에 있다?]]></title>
-        <id>https://v.daum.net/v/20230720164324218</id>
-        <link href="https://v.daum.net/v/20230720164324218"/>
-        <updated>2023-07-24T17:17:06.721Z</updated>
-        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] ‘폭우 중 주말 골프’를 가진 홍준표 대구시장을 둘러싼 논란이 계속되고 있다. 홍 시장은 집중호우로 인해 전국에서 인명피해가 발생한 지난 15일, 측근들과 골프를 쳤다. 이에 대한 비판이 제기되자 그는 “주말에 골프를 치면 안 된다는 규정이 어디 있느냐”고 반박했다. 하지만 19일 오후 긴급기자회견을 열고 “수해로 상처 입은]]></content>
     </entry>
 </feed>
