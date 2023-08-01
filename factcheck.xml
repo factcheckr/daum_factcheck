@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-01T06:25:59.736Z</updated>
+    <updated>2023-08-01T07:18:55.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교육부 “최근 3년 수능·6월 모의평가 킬러문항 22개”...사실일까?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230801160909092</id>
+        <link href="https://v.daum.net/v/20230801160909092"/>
+        <updated>2023-08-01T07:17:57.266Z</updated>
+        <content type="html"><![CDATA[교육부는 지난 6월 사교육 경감 대책을 발표하면서 최근 3년간 대학수학능력시험(수능)과 올해 6월 한국교육과정평가원 모의평가에서 출제된 문항 가운데 총 22개의 초고난도 문항인 ‘킬러 문항’을 가려냈다. 교육부 주장대로 이들 문항이 킬러 문항이 맞는지 따져본다. 킬러 문항이란?교육부는 사교육 경감 대책 발표 때 ‘수능 킬러 문항 사례’를 발표하며 정의를 공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 주요 국가들은 교사의 생활지도권 구체적으로 규정하고 있다?]]></title>
+        <id>https://v.daum.net/v/20230801160823056</id>
+        <link href="https://v.daum.net/v/20230801160823056"/>
+        <updated>2023-08-01T07:17:57.267Z</updated>
+        <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 서울 서초구 초등학교 교사의 극단적 선택 이후 교권 침해의 심각성을 보여주는 보도가 잇따르고 있다. 그중에서도 교사의 정당한 생활지도가 아동학대 고소·고발로 이어지면서 교사의 ‘생활지도권’을 구체적으로 명시해야 한다는 지적이 나오고 있다. 한국교원단체총연합회(교총)가 지난달 27일 발표한 ‘교권 침해 인식 설문조사’ 결과에 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 학생인권조례 때문에 교권침해가 늘어났다?]]></title>
         <id>https://v.daum.net/v/20230801150348501</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230728205212775"/>
         <updated>2023-07-30T20:17:23.089Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 비극적인 사건이 반복되지 않기 위해서는 교사들을 보호할 수 있는 실질적인 대책이 마련돼야 할 텐데요. 오늘 열린 국회 교육위원회에서 교육부장관은 우선 추진할 대책으로 학생인권조례 개선을 꼽았습니다. [강득구/더불어민주당 의원] "서이초 사건의 본질이 뭐라고 생각하십니까?" [이주호/교육부 장관] "교권의 추락이라고 생각을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["새마을금고 왜곡된 조직 구조" 한국경제 보도 따져보니]]></title>
-        <id>https://v.daum.net/v/20230728152703584</id>
-        <link href="https://v.daum.net/v/20230728152703584"/>
-        <updated>2023-07-30T20:17:23.089Z</updated>
-        <content type="html"><![CDATA[[박찬영 기자] ▲ &nbsp;&lt;한국경제신문&gt;의 '직원 1.6만명인데 임원 1.4만명…희한한 새마을금고 조직구조' 기사. 이 기사는 지난 5일 인터넷 지면에 먼저 실렸고 다음날인 7월 6일 지면신문 A25면에 실렸다. ⓒ &lt;한국경제&gt; 갈무리'새마을금고 사태'가 화두다. &lt;한국경제신문&gt;(한경)은 지난 5일 새마을금고 부실 사태과 관련해 "방만경영과 관리부실이 속속 드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 대선조선, 수주 호황에 부활 코앞…"한고비만 넘기면 돼"]]></title>
-        <id>https://v.daum.net/v/20230728140443069</id>
-        <link href="https://v.daum.net/v/20230728140443069"/>
-        <updated>2023-07-30T20:17:23.089Z</updated>
-        <content type="html"><![CDATA[대선조선 영도조선소. /사진=최유빈 기자10년 만의 호황으로 재도약을 앞둔 대선조선이 장애물을 만났다. 긴 불황의 후유증으로 인력난과 유동성 문제에 직면한 것이다. 대선조선은 최대주주인 동일철강의 지원을 바탕으로 경영 정상화에 박차를 가하고 있다. 올해 상반기 대규모 수주에 성공한 대선조선은 일시적인 유동성 문제를 겪고 있다. 조선업계는 선박 인도 시점에]]></content>
     </entry>
 </feed>
