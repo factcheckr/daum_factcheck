@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-04T10:20:14.939Z</updated>
+    <updated>2023-08-04T11:15:45.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 잼버리 온열환자 속출, 어디서나 있는 일?]]></title>
+        <id>https://v.daum.net/v/20230804200417476</id>
+        <link href="https://v.daum.net/v/20230804200417476"/>
+        <updated>2023-08-04T11:14:37.782Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 이준범/기자 ▶ 새만금 잼버리에서 온열환자가 집단으로 발생하자 조직위원회는 야외 행사 특성상 예상됐던 거라며, 이전 대회와도 큰 차이가 없다고 밝혔습니다. [전한성/잼버리 조직위원회 안전관리본부장 (어제)] "이 정도의 온열질환자는 어떤 잼버리를 하든지 일상적으로 있을 수 있는 수준입니다. 특별한 상황은 아닙니다." 맞는 얘기인지, 팩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 20~30년 걸리던 게 1년 만에…우리 바다 더 심각]]></title>
         <id>https://v.daum.net/v/20230803215707302</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230730202702679"/>
         <updated>2023-07-30T20:17:23.080Z</updated>
         <content type="html"><![CDATA[최근 교권 침해를 방지하기 위한 대책이 시급하다는 요구가 커지는 가운데 교권 침해의 원인이 학생인권조례라는 주장이 곳곳에서 나오고 있다. 교권침해 대책을 논의하기 위해 지난 28일 열린 국회 교육위원회 전체회의에서도 비슷한 논쟁이 이어졌다. 이주호 사회부총리 겸 교육부 장관은 “(교권침해) 근원이 학생인권조례에서 출발한 측면이 많다”면서 “(학생인권조례가)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동관 아들 학폭 논란과 외압, 어디까지가 진실인가]]></title>
-        <id>https://v.daum.net/v/20230729032532255</id>
-        <link href="https://v.daum.net/v/20230729032532255"/>
-        <updated>2023-07-30T20:17:23.088Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 28일 신임 방송통신위원장에 이동관 대통령 대외협력특보를 지명했다. 더불어민주당은 이 후보자 내정설이 돌 때부터 이 후보자가 과거 아들의 학교 폭력을 은폐했다는 주장을 계속해 왔다. 이 논란은 이 후보자의 아들이 2011년 서울 은평구 하나고 재학 때 벌어진 사건에 관한 것이다. 정작 사건 발생 당시에는 알려지지 않았는데, 2015년 서울시]]></content>
     </entry>
 </feed>
