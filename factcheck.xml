@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-06T03:18:56.543Z</updated>
+    <updated>2023-08-06T04:21:13.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 6개월만에 다시 5만명대…"마스크, 코로나에 효과 없다?" [노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230806131204030</id>
+        <link href="https://v.daum.net/v/20230806131204030"/>
+        <updated>2023-08-06T04:20:12.695Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 '마스크 착용 코로나에 효과 없다?' 이 주제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 잼버리 온열환자 속출, 어디서나 있는 일?]]></title>
         <id>https://v.daum.net/v/20230804200417476</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230731000146526"/>
         <updated>2023-07-30T20:17:23.077Z</updated>
         <content type="html"><![CDATA[교권 침해 사례, 학생인권조례 유무와 '무관' 교사들 "교권과 학생인권, 반비례 관계 아냐" [더팩트ㅣ허주열 기자] 최근 '교권 침해' 문제의 심각성을 보여주는 사례가 잇달아 보도되고 있다. 무너진 교권을 회복해야 한다는 사회적 공감대가 형성되고 있는 만큼 교권이 추락한 원인을 정확히 파악하고, 더 이상 안타까운 일을 겪는 교사가 없도록 올바른 대책을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]학생인권조례 도입으로 교권 침해 늘어났다?]]></title>
-        <id>https://v.daum.net/v/20230730202702679</id>
-        <link href="https://v.daum.net/v/20230730202702679"/>
-        <updated>2023-07-30T20:17:23.080Z</updated>
-        <content type="html"><![CDATA[최근 교권 침해를 방지하기 위한 대책이 시급하다는 요구가 커지는 가운데 교권 침해의 원인이 학생인권조례라는 주장이 곳곳에서 나오고 있다. 교권침해 대책을 논의하기 위해 지난 28일 열린 국회 교육위원회 전체회의에서도 비슷한 논쟁이 이어졌다. 이주호 사회부총리 겸 교육부 장관은 “(교권침해) 근원이 학생인권조례에서 출발한 측면이 많다”면서 “(학생인권조례가)]]></content>
     </entry>
 </feed>
