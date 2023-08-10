@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-10T10:22:01.415Z</updated>
+    <updated>2023-08-10T11:16:56.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230810201202272</id>
+        <link href="https://v.daum.net/v/20230810201202272"/>
+        <updated>2023-08-10T11:15:49.709Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최근 일부 유튜버와 누리꾼 사이에 '7만~8만원짜리인 잼버리 텐트가 25만 원으로 둔갑했다'는 의혹이 확산되고 있다. ⓒ ggkkl[검증대상] "7만 원짜리 잼버리 텐트가 25만 원으로 둔갑?" 누리꾼 의혹&nbsp; '2023 새만금 세계스카우트 잼버리 대회(아래 잼버리)'가 폭염과 준비 부족으로 파행을 거듭하는 가운데, 각국 대표단에게 제공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 6개월만에 다시 5만명대…"마스크, 코로나에 효과 없다?" [노컷체크]]]></title>
         <id>https://v.daum.net/v/20230806131204030</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230731180606412"/>
         <updated>2023-07-31T09:19:15.273Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 29일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 교권 추락, '학생인권조례' 때문일까?]]></title>
-        <id>https://v.daum.net/v/20230731000146526</id>
-        <link href="https://v.daum.net/v/20230731000146526"/>
-        <updated>2023-07-30T20:17:23.077Z</updated>
-        <content type="html"><![CDATA[교권 침해 사례, 학생인권조례 유무와 '무관' 교사들 "교권과 학생인권, 반비례 관계 아냐" [더팩트ㅣ허주열 기자] 최근 '교권 침해' 문제의 심각성을 보여주는 사례가 잇달아 보도되고 있다. 무너진 교권을 회복해야 한다는 사회적 공감대가 형성되고 있는 만큼 교권이 추락한 원인을 정확히 파악하고, 더 이상 안타까운 일을 겪는 교사가 없도록 올바른 대책을]]></content>
     </entry>
 </feed>
