@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-10T21:17:21.136Z</updated>
+    <updated>2023-08-10T22:18:19.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 외국에선 폭염에도 이름을 붙인다?]]></title>
+        <id>https://v.daum.net/v/20230811065512054</id>
+        <link href="https://v.daum.net/v/20230811065512054"/>
+        <updated>2023-08-10T22:16:03.452Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴 기자 = 푹푹 찌는 무더위가 연일 이어지는 가운데 폭염도 재난으로 인식해야 한다는 목소리가 커지고 있다. 국제개발구호단체 더프라미스(Thepromise)의 김동훈 상임이사는 지난 4일 SBS 라디오에서 "해외에서는 폭염도 재난이라는 인식을 심어주기 위해 태풍처럼 이름을 붙인다"라고 말했다. 태풍에 '매미' '힌남노'와 같은 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230810201202272</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230731180716451"/>
         <updated>2023-07-31T09:19:15.273Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 29일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 실업급여, 부정수급을 가장 많이 한 층은 여성·청년이다?]]></title>
-        <id>https://v.daum.net/v/20230731180606412</id>
-        <link href="https://v.daum.net/v/20230731180606412"/>
-        <updated>2023-07-31T09:19:15.273Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 29일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
 </feed>
