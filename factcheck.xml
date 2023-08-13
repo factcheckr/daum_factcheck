@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-13T14:15:33.998Z</updated>
+    <updated>2023-08-13T15:17:56.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“잼버리 주무책임은 전북도, 여가부는 보조기관?” [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230813235004029</id>
+        <link href="https://v.daum.net/v/20230813235004029"/>
+        <updated>2023-08-13T15:16:36.263Z</updated>
+        <content type="html"><![CDATA[“원래 조직위원장이 공동으로 된 체제에서는 주무책임기관이 집행위원장입니다. 그러니까 전북도가 집행위원장을 하고 있고 여가부 장관은 보조기관이지요, 지원기관이지요. 그래서 1차적인 책임은 전북도에 있고 여가부는 2차적인 책임이 있는 이런 구조로 봐야 됩니다.” 하태경 국민의힘 의원이 지난 11일 에스비에스(SBS) 라디오 ‘김태현의 정치쇼’에 나와 한 인터뷰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 야영 대신 '관광' 잼버리‥정말 태풍 때문이었나?]]></title>
         <id>https://v.daum.net/v/20230811200715819</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230801150348501"/>
         <updated>2023-08-01T06:24:54.992Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 서울 서초구 초등학교 교사의 극단적 선택과 학생, 학부모의 교사 폭행 사건들로 인해 공분을 사고 있는 교권침해 문제가 학생인권조례를 둘러싼 찬반 논란으로 번진 모습이다. 이주호 사회부총리 겸 교육부 장관은 지난달 24일 교원 간담회에서 "학생인권조례 제정 이후 학생의 인권이 지나치게 강조되면서 교사들의 교권은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리가 참고한 미국의 학생인권조례, 학생의 권리만큼 의무도 강조했다?]]></title>
-        <id>https://v.daum.net/v/20230731180716449</id>
-        <link href="https://v.daum.net/v/20230731180716449"/>
-        <updated>2023-07-31T09:19:15.272Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 7월 29일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
     </entry>
 </feed>
