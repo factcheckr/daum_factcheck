@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-13T23:18:06.424Z</updated>
+    <updated>2023-08-14T01:15:03.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] ‘영장 없이 171일 구금’이 행정조사?…국정원 진실 묻히나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230814080507438</id>
+        <link href="https://v.daum.net/v/20230814080507438"/>
+        <updated>2023-08-14T01:13:53.649Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“잼버리 주무책임은 전북도, 여가부는 보조기관?” [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230813235004029</id>
@@ -66,13 +72,6 @@
         <link href="https://v.daum.net/v/20230801160823056"/>
         <updated>2023-08-01T07:17:57.267Z</updated>
         <content type="html"><![CDATA[[이데일리 이정민 인턴기자] 서울 서초구 초등학교 교사의 극단적 선택 이후 교권 침해의 심각성을 보여주는 보도가 잇따르고 있다. 그중에서도 교사의 정당한 생활지도가 아동학대 고소·고발로 이어지면서 교사의 ‘생활지도권’을 구체적으로 명시해야 한다는 지적이 나오고 있다. 한국교원단체총연합회(교총)가 지난달 27일 발표한 ‘교권 침해 인식 설문조사’ 결과에 따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 학생인권조례 때문에 교권침해가 늘어났다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230801150348501</id>
-        <link href="https://v.daum.net/v/20230801150348501"/>
-        <updated>2023-08-01T06:24:54.992Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 우혜림 인턴기자 = 서울 서초구 초등학교 교사의 극단적 선택과 학생, 학부모의 교사 폭행 사건들로 인해 공분을 사고 있는 교권침해 문제가 학생인권조례를 둘러싼 찬반 논란으로 번진 모습이다. 이주호 사회부총리 겸 교육부 장관은 지난달 24일 교원 간담회에서 "학생인권조례 제정 이후 학생의 인권이 지나치게 강조되면서 교사들의 교권은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20~30년 걸리던 게 1년 만에…우리 바다 더 심각 (다음 뉴스 ─ SBS 사실은)]]></title>
