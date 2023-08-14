@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-14T12:35:12.918Z</updated>
+    <updated>2023-08-14T13:22:23.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘롤스로이스男’ 변호인은 대형 로펌 소속? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20230814220215572</id>
+        <link href="https://v.daum.net/v/20230814220215572"/>
+        <updated>2023-08-14T13:21:10.149Z</updated>
+        <content type="html"><![CDATA[서울 강남에서 롤스로이스 차량을 인도로 몰아 길을 걷던 여성에게 중상을 입힌 신모(28)씨를 마약 투약이 의심되는 상황에서 석방하고, 사건 발생 일주일이 지나서야 구속영장을 신청한 것을 두고 경찰의 부실한 초기대응에 대한 지적이 잇따르고 있다. 과연 경찰은 왜 신씨를 풀어줬을까. 14일 서울경찰청 기자간담회에서 경찰 관계자는 “신씨의 간이시약 검사 결과 케]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 새만금 잼버리를 둘러싼 여러 가지 논란들의 팩트체크]]></title>
         <id>https://v.daum.net/v/20230814192106844</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20230803215707302"/>
         <updated>2023-08-03T13:26:27.217Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 폭염 때문에 전 세계적으로 바다 온도도 급격히 높아지고 있습니다. 원래는 온도가 0.25도 정도 오르는데 수십 년이 걸렸지만, 지난 1년 만에&nbsp;이만큼이 오른 겁니다. 우리나라 바다는&nbsp;더 심각하다고 하는데,&nbsp;어느 정도인지&nbsp;저희 팩트체크 사실은 팀이 알아봤습니다&nbsp; 이경원 기자입니다. &lt;기자&gt; 바다 생태계 파수꾼이라 불리는 산호초, 색이 하얗게 바랬습니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육부 “최근 3년 수능·6월 모의평가 킬러문항 22개”...사실일까?[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230801160909092</id>
-        <link href="https://v.daum.net/v/20230801160909092"/>
-        <updated>2023-08-01T07:17:57.266Z</updated>
-        <content type="html"><![CDATA[교육부는 지난 6월 사교육 경감 대책을 발표하면서 최근 3년간 대학수학능력시험(수능)과 올해 6월 한국교육과정평가원 모의평가에서 출제된 문항 가운데 총 22개의 초고난도 문항인 ‘킬러 문항’을 가려냈다. 교육부 주장대로 이들 문항이 킬러 문항이 맞는지 따져본다. 킬러 문항이란?교육부는 사교육 경감 대책 발표 때 ‘수능 킬러 문항 사례’를 발표하며 정의를 공]]></content>
     </entry>
 </feed>
