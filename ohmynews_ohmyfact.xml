@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-08-15T10:20:45.782Z</updated>
+    <updated>2023-08-15T11:15:46.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓']]></title>
+        <id>https://v.daum.net/v/20230815192100948</id>
+        <link href="https://v.daum.net/v/20230815192100948"/>
+        <updated>2023-08-15T11:15:37.209Z</updated>
+        <content type="html"><![CDATA[[강석찬, 이은영 기자] ▲ &nbsp;[그래프1]서울시립대 QS 세계 대학 평가 순위는 지속적으로 하락했지만, 평가 대상 대학 숫자도 증가했다. 전체 대학 숫자 대비 순위(백분율)는 60~70%대에서 큰 변화가 없다. ⓒ 이은영&nbsp; [검증대상]&nbsp;"반값등록금 때문에 시립대 경쟁력 하락" 국힘 서울시의원 주장 국민의힘 소속 서울시의회 의원들이 QS(쿼커렐리 시먼스) 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["7만원짜리 잼버리 텐트, 25만원에 납품?" 의혹은 '거짓']]></title>
         <id>https://v.daum.net/v/20230810201202272</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230517162701182"/>
         <updated>2023-05-17T08:26:52.635Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬, 이종호 기자] ▲ &nbsp;일본 정부가 방류하려는 후쿠시마 제1원전 오염수를 정부 차원에서 '처리수'라고 부르는 국가(파란색)와 '오염수'라고 부르는 국가(붉은색). 각국 정부 공식 자료 확인(자료 정리 : 오마이팩트 김시연·강석찬) ⓒ 이종호&nbsp; &lt;중앙일보&gt;는 지난 5월 11일 이름을 밝히지 않은 정부 소식통을 인용해 우리 정부가 후쿠시마 원전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문 정부 임대차3법, 전세 사기 원인" 국힘 주장 '거짓']]></title>
-        <id>https://v.daum.net/v/20230512143901430</id>
-        <link href="https://v.daum.net/v/20230512143901430"/>
-        <updated>2023-05-12T06:24:26.159Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;윤석열 대통령이 9일 서울 용산 대통령실 청사에서 열린 국무회의에서 개회선언을 하고 있다.ⓒ 연합뉴스[검증대상] "문재인 정부 임대차 3법이 전세 사기 원인" 국민의힘 주장 "집값 급등과 시장 교란을 초래한 과거 정부의 반시장적, 비정상적 정책이 전세 사기의 토양이 되었습니다." 윤석열 대통령은 지난 9일 국무회의 모두 발언에]]></content>
     </entry>
 </feed>
