@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-16T10:20:06.210Z</updated>
+    <updated>2023-08-16T11:15:57.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230816200302044</id>
+        <link href="https://v.daum.net/v/20230816200302044"/>
+        <updated>2023-08-16T11:14:39.920Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;GG브레인파워연구소는 &lt;세계적 천재들도 너만큼 산만했단다&gt;라는 제목의 책에서 좌뇌와 우뇌의 비율(인지 과정 기여도)에 따라 극우뇌인, 강우뇌인 등 7가지 유형으로 구분했다.ⓒ 프리윌출판사&nbsp; [검증 대상] "좌뇌형 인간-우뇌형 인간 따로 있다" 인터넷 속설 자녀가 '왕의 DNA'를 가졌다는 한 교육부 사무관 편지 내용 출처가 '주의력결핍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230815192100948</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20230806131204030"/>
         <updated>2023-08-06T04:20:12.695Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 '마스크 착용 코로나에 효과 없다?' 이 주제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 잼버리 온열환자 속출, 어디서나 있는 일?]]></title>
-        <id>https://v.daum.net/v/20230804200417476</id>
-        <link href="https://v.daum.net/v/20230804200417476"/>
-        <updated>2023-08-04T11:14:37.782Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 이준범/기자 ▶ 새만금 잼버리에서 온열환자가 집단으로 발생하자 조직위원회는 야외 행사 특성상 예상됐던 거라며, 이전 대회와도 큰 차이가 없다고 밝혔습니다. [전한성/잼버리 조직위원회 안전관리본부장 (어제)] "이 정도의 온열질환자는 어떤 잼버리를 하든지 일상적으로 있을 수 있는 수준입니다. 특별한 상황은 아닙니다." 맞는 얘기인지, 팩]]></content>
     </entry>
 </feed>

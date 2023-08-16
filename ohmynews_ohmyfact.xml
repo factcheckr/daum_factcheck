@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-08-16T10:20:06.201Z</updated>
+    <updated>2023-08-16T11:15:57.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓']]></title>
+        <id>https://v.daum.net/v/20230816200302044</id>
+        <link href="https://v.daum.net/v/20230816200302044"/>
+        <updated>2023-08-16T11:15:45.928Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;GG브레인파워연구소는 &lt;세계적 천재들도 너만큼 산만했단다&gt;라는 제목의 책에서 좌뇌와 우뇌의 비율(인지 과정 기여도)에 따라 극우뇌인, 강우뇌인 등 7가지 유형으로 구분했다.ⓒ 프리윌출판사&nbsp; [검증 대상] "좌뇌형 인간-우뇌형 인간 따로 있다" 인터넷 속설 자녀가 '왕의 DNA'를 가졌다는 한 교육부 사무관 편지 내용 출처가 '주의력결핍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓']]></title>
         <id>https://v.daum.net/v/20230815192100948</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230520114206120"/>
         <updated>2023-05-20T03:20:54.988Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;“진보층이 보수보다 가짜뉴스 잘 믿는다”고 주장한 중앙일보(5/18)ⓒ 중앙일보PDF&nbsp;&nbsp; 중앙일보 "민주당 지지층 확증편향층, 국민의힘보다 2배 많다" &lt;중앙일보&gt;는 5월 18일 '진보층이 보수보다 가짜뉴스 잘 믿는다'라는 제목으로 "민주당 지지층에서 확층편향층 비중이 국민의힘 지지층보다 두 배가량 많다"고 보도했다. 여론조사회사인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·중·러만 '오염수'로 부른다?... 미국이 오히려 예외]]></title>
-        <id>https://v.daum.net/v/20230517162701182</id>
-        <link href="https://v.daum.net/v/20230517162701182"/>
-        <updated>2023-05-17T08:26:52.635Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬, 이종호 기자] ▲ &nbsp;일본 정부가 방류하려는 후쿠시마 제1원전 오염수를 정부 차원에서 '처리수'라고 부르는 국가(파란색)와 '오염수'라고 부르는 국가(붉은색). 각국 정부 공식 자료 확인(자료 정리 : 오마이팩트 김시연·강석찬) ⓒ 이종호&nbsp; &lt;중앙일보&gt;는 지난 5월 11일 이름을 밝히지 않은 정부 소식통을 인용해 우리 정부가 후쿠시마 원전]]></content>
     </entry>
 </feed>
