@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-17T06:24:04.393Z</updated>
+    <updated>2023-08-17T07:18:07.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘국토부 → 환경부’ 치수 기능 이관이 수해 피해 키웠다?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230817160300643</id>
+        <link href="https://v.daum.net/v/20230817160300643"/>
+        <updated>2023-08-17T07:15:51.514Z</updated>
+        <content type="html"><![CDATA[연초 극심했던 가뭄에 이어 지난달 집중 호우로 큰 침수 피해가 발생하면서 홍수와 가뭄 대응 등 국가 물관리에 대한 관심이 높아지고 있다. 특히 이번 수해 국면에서는 과거 국토교통부가 맡던 치수(治水) 기능이 2018년부터 환경부로 이관되면서 약화돼 수해 피해를 키웠다는 주장이 쟁점으로 떠올랐다. 여권에서는 이참에 치수 기능을 국토부로 다시 이관해야 한다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?]]></title>
         <id>https://v.daum.net/v/20230817134500510</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20230811200715819"/>
         <updated>2023-08-11T11:14:36.567Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 새만금 잼버리는 대회 초부터 부실 운영 논란에 시달리다, 결국 일주일 만에 태풍을 이유로 대회장 조기 철수 결정이 내려졌죠. 당시 정부는 행사 중단이 아니라, 장소가 더 넓어진 거라고 강조했습니다. [김현숙/여성가족부 장관 (지난 8일)] "새만금 잼버리는 더이상 새만금에서 이뤄지지 않지만, 대한민국 전역에서 잼버리가 여전히 펼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 외국에선 폭염에도 이름을 붙인다?]]></title>
-        <id>https://v.daum.net/v/20230811065512054</id>
-        <link href="https://v.daum.net/v/20230811065512054"/>
-        <updated>2023-08-10T22:16:03.452Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 우혜림 인턴 기자 = 푹푹 찌는 무더위가 연일 이어지는 가운데 폭염도 재난으로 인식해야 한다는 목소리가 커지고 있다. 국제개발구호단체 더프라미스(Thepromise)의 김동훈 상임이사는 지난 4일 SBS 라디오에서 "해외에서는 폭염도 재난이라는 인식을 심어주기 위해 태풍처럼 이름을 붙인다"라고 말했다. 태풍에 '매미' '힌남노'와 같은 이]]></content>
     </entry>
 </feed>
