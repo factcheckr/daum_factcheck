@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-16T23:18:31.788Z</updated>
+    <updated>2023-08-17T01:12:49.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 파행 잼버리 영지 배수는 과연 문제가 없었을까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230817100957990</id>
+        <link href="https://v.daum.net/v/20230817100957990"/>
+        <updated>2023-08-17T01:11:08.563Z</updated>
+        <content type="html"><![CDATA[(부안=연합뉴스) 정경재 기자 = "잼버리 배수 대책에 관해서는 문제가 되지 않는다고 생각한다. (스카우트 대원들이) 텐트를 치는 데도 문제가 없었다." 김관영 전북도지사는 지난 14일 기자회견에서 2023 새만금 세계스카우트잼버리 야영장 침수 여부에 대해 이렇게 답했다. 국내 언론과 외신, 사회관계망서비스(SNS) 등이 지적한 내용과 실제 현장은 달랐다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230816200302044</id>
@@ -65,13 +72,6 @@
         <link href="https://v.daum.net/v/20230810201202272"/>
         <updated>2023-08-10T11:15:49.709Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최근 일부 유튜버와 누리꾼 사이에 '7만~8만원짜리인 잼버리 텐트가 25만 원으로 둔갑했다'는 의혹이 확산되고 있다.(출처 : https://ggjkl.cafe24.com/?p=75950)ⓒ ggjkl[검증대상] "7만 원짜리 잼버리 텐트가 25만 원으로 둔갑?" 누리꾼 의혹&nbsp; '2023 새만금 세계스카우트 잼버리 대회(아래 잼버리)']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 6개월만에 다시 5만명대…"마스크, 코로나에 효과 없다?" [노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230806131204030</id>
-        <link href="https://v.daum.net/v/20230806131204030"/>
-        <updated>2023-08-06T04:20:12.695Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 '마스크 착용 코로나에 효과 없다?' 이 주제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20~30년 걸리던 게 1년 만에…우리 바다 더 심각 (다음 뉴스 ─ SBS 사실은)]]></title>
