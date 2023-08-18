@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-18T07:17:24.094Z</updated>
+    <updated>2023-08-18T08:22:12.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] “정진석·조현오 사건 서로 다르다” 전주혜 해명…과연?]]></title>
+        <id>https://v.daum.net/v/20230818163005429</id>
+        <link href="https://v.daum.net/v/20230818163005429"/>
+        <updated>2023-08-18T08:20:56.903Z</updated>
+        <content type="html"><![CDATA[판사 시절 고 노무현 전 대통령 명예훼손 혐의로 기소된 조현오 전 경찰청장에게 징역 8개월 실형을 선고했던 전주혜 국민의힘 원내대변인이 “정진석 의원 사건과 조 전 청장 사건은 내용이 다르다”는 입장을 밝혔다. 범죄 대상과 죄명은 같지만, 범죄의 형태·검찰의 구형·피고인의 사후 대처 등이 달랐기 때문에 자신의 판결은 정당하지만, 정 의원에게 징역 6개월 실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국토부 → 환경부’ 치수 기능 이관이 수해 피해 키웠다?[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230817160300643</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20230813235004029"/>
         <updated>2023-08-13T15:16:36.263Z</updated>
         <content type="html"><![CDATA[“원래 조직위원장이 공동으로 된 체제에서는 주무책임기관이 집행위원장입니다. 그러니까 전북도가 집행위원장을 하고 있고 여가부 장관은 보조기관이지요, 지원기관이지요. 그래서 1차적인 책임은 전북도에 있고 여가부는 2차적인 책임이 있는 이런 구조로 봐야 됩니다.” 하태경 국민의힘 의원이 지난 11일 에스비에스(SBS) 라디오 ‘김태현의 정치쇼’에 나와 한 인터뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 야영 대신 '관광' 잼버리‥정말 태풍 때문이었나?]]></title>
-        <id>https://v.daum.net/v/20230811200715819</id>
-        <link href="https://v.daum.net/v/20230811200715819"/>
-        <updated>2023-08-11T11:14:36.567Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 새만금 잼버리는 대회 초부터 부실 운영 논란에 시달리다, 결국 일주일 만에 태풍을 이유로 대회장 조기 철수 결정이 내려졌죠. 당시 정부는 행사 중단이 아니라, 장소가 더 넓어진 거라고 강조했습니다. [김현숙/여성가족부 장관 (지난 8일)] "새만금 잼버리는 더이상 새만금에서 이뤄지지 않지만, 대한민국 전역에서 잼버리가 여전히 펼]]></content>
     </entry>
 </feed>
