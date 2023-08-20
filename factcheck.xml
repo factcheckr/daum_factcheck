@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-20T07:15:53.231Z</updated>
+    <updated>2023-08-20T08:22:55.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230820164301054</id>
+        <link href="https://v.daum.net/v/20230820164301054"/>
+        <updated>2023-08-20T08:21:48.659Z</updated>
+        <content type="html"><![CDATA[이동관 방송통신위원장 후보자는 지난 18일 국회에서 열린 청문회에서 “선진국 어느 나라도 공영방송이 이렇게 많은 나라가 없다”라며 “자유로운 정보 소통을 위해서는 공영방송은 최소화하고, 경쟁체제 속에서 소비자가 선택하도록 하는 게 올바르다”라고 말했다. 자유로운 소통을 위해서는 공영방송 ‘축소’와 민영화가 필요하다는 말이다. 경향신문은 이 후보자의 주장대로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 샤워장 태국인 사건, '성범죄'로 보기 어려운 이유는[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230820060002812</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230814220215572"/>
         <updated>2023-08-14T13:21:10.149Z</updated>
         <content type="html"><![CDATA[서울 강남에서 롤스로이스 차량을 인도로 몰아 길을 걷던 여성에게 중상을 입힌 신모(28)씨를 마약 투약이 의심되는 상황에서 석방하고, 사건 발생 일주일이 지나서야 구속영장을 신청한 것을 두고 경찰의 부실한 초기대응에 대한 지적이 잇따르고 있다. 과연 경찰은 왜 신씨를 풀어줬을까. 14일 서울경찰청 기자간담회에서 경찰 관계자는 “신씨의 간이시약 검사 결과 케]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 새만금 잼버리를 둘러싼 여러 가지 논란들의 팩트체크]]></title>
-        <id>https://v.daum.net/v/20230814192106844</id>
-        <link href="https://v.daum.net/v/20230814192106844"/>
-        <updated>2023-08-14T11:14:13.894Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 8월 12일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의 송]]></content>
     </entry>
 </feed>
