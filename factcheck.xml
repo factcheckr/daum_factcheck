@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-22T11:15:56.522Z</updated>
+    <updated>2023-08-22T12:35:14.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 여성안심귀갓길, 문구만 써놔 효과 없다?]]></title>
+        <id>https://v.daum.net/v/20230822201617561</id>
+        <link href="https://v.daum.net/v/20230822201617561"/>
+        <updated>2023-08-22T12:33:49.660Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 흉악범죄에 대한 우려가 커지고 있는 상황에서, 최근에는 여성안심귀갓길도 논란이 됐습니다. 일각에서 도로에 페인트만 칠해놔 아무 효과가 없는 쓸모없는 정책이라고 비난을 하고 있는 건데요. 맞는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 여성안심귀갓길은 여성의 안전한 귀가를 돕기 위해 지난 2013년 본격 시행됐습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
         <id>https://v.daum.net/v/20230822085603772</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230816200302044"/>
         <updated>2023-08-16T11:14:39.920Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;GG브레인파워연구소는 &lt;세계적 천재들도 너만큼 산만했단다&gt;라는 제목의 책에서 좌뇌와 우뇌의 비율(인지 과정 기여도)에 따라 극우뇌인, 강우뇌인 등 7가지 유형으로 구분했다.ⓒ 프리윌출판사&nbsp; [검증 대상] "좌뇌형 인간-우뇌형 인간 따로 있다" 인터넷 속설 자녀가 '왕의 DNA'를 가졌다는 한 교육부 사무관 편지 내용 출처가 '주의력결핍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반값등록금 때문에 서울시립대 경쟁력 하락" 국힘 주장 '대체로 거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230815192100948</id>
-        <link href="https://v.daum.net/v/20230815192100948"/>
-        <updated>2023-08-15T11:14:43.574Z</updated>
-        <content type="html"><![CDATA[[강석찬, 이은영 기자] ▲ &nbsp;[그래프1]서울시립대 QS 세계 대학 평가 순위는 지속적으로 하락했지만, 평가 대상 대학 숫자도 증가했다. 전체 대학 숫자 대비 순위(백분율)는 60~70%대에서 큰 변화가 없다. ⓒ 이은영&nbsp; [검증대상]&nbsp;"반값등록금 때문에 시립대 경쟁력 하락" 국힘 서울시의원 주장 국민의힘 소속 서울시의회 의원들이 QS(쿼커렐리 시먼스) 세]]></content>
     </entry>
 </feed>

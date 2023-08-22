@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-08-22T11:15:56.524Z</updated>
+    <updated>2023-08-22T12:35:14.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성안심귀갓길, 문구만 써놔 효과 없다?]]></title>
+        <id>https://v.daum.net/v/20230822201617561</id>
+        <link href="https://v.daum.net/v/20230822201617561"/>
+        <updated>2023-08-22T12:34:12.907Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 흉악범죄에 대한 우려가 커지고 있는 상황에서, 최근에는 여성안심귀갓길도 논란이 됐습니다. 일각에서 도로에 페인트만 칠해놔 아무 효과가 없는 쓸모없는 정책이라고 비난을 하고 있는 건데요. 맞는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 여성안심귀갓길은 여성의 안전한 귀가를 돕기 위해 지난 2013년 본격 시행됐습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야영 대신 '관광' 잼버리‥정말 태풍 때문이었나?]]></title>
         <id>https://v.daum.net/v/20230811200715819</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230517195810402"/>
         <updated>2023-05-17T11:16:25.373Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 5·18에 책임이 있는 전두환 씨는 끝내 진실 규명을 외면한 채 최소한의 사과도 없이 세상을 떠났는데요. 전 씨의 최측근이었던 장세동 씨는 어제 언론 인터뷰에서 "5·18에 대해 사과할 필요가 없다"며 전 씨가 "위로를 전부 다 했다"고 주장했습니다. 재작년 전 씨 사망 당시에도 측근들은 이 같은 주장을 반복했는데요. [민정기(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사면허 취소법은 의사 압박용이다?]]></title>
-        <id>https://v.daum.net/v/20230508203706725</id>
-        <link href="https://v.daum.net/v/20230508203706725"/>
-        <updated>2023-05-08T12:36:44.008Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 간호법 뿐만 아니라 의사들이 민감하게 반응하는 이슈가 하나 더 있습니다. 범죄를 저지른 의사들의 면허 제한을 강화하는 내용의 의료법 개정안입니다. 의사들은 이에 대해 의사의 면허를 박탈하는 과잉입법이라고 주장하고 있는데요. 맞는 얘기인지 팩트체크, 알고보니에서 따져봤습니다. ◀ VCR ▶ 현재 의사들은 살인, 강도, 혹은 성범죄]]></content>
     </entry>
 </feed>
