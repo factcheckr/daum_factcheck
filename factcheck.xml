@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-21T23:18:33.678Z</updated>
+    <updated>2023-08-22T01:16:02.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
+        <id>https://v.daum.net/v/20230822085603772</id>
+        <link href="https://v.daum.net/v/20230822085603772"/>
+        <updated>2023-08-22T01:13:54.242Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이례적으로 건국훈장을 2번 받은 독립유공자는 여운형 선생과 홍범도 장군뿐일까. 건국훈장의 2회 수여는 중복 서훈을 금지한 '상훈법'을 위배할 소지가 있는 것일까. 박민식 국가보훈부 장관은 지난 14일 YTN 라디오 '뉴스킹 박지훈입니다'에 출연해 "독립지사가 한 2만명 되지 않습니까"라며 이 중 여운형 선생과 홍범도 장군이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230820164301054</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230815192100948"/>
         <updated>2023-08-15T11:14:43.574Z</updated>
         <content type="html"><![CDATA[[강석찬, 이은영 기자] ▲ &nbsp;[그래프1]서울시립대 QS 세계 대학 평가 순위는 지속적으로 하락했지만, 평가 대상 대학 숫자도 증가했다. 전체 대학 숫자 대비 순위(백분율)는 60~70%대에서 큰 변화가 없다. ⓒ 이은영&nbsp; [검증대상]&nbsp;"반값등록금 때문에 시립대 경쟁력 하락" 국힘 서울시의원 주장 국민의힘 소속 서울시의회 의원들이 QS(쿼커렐리 시먼스) 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘롤스로이스男’ 변호인은 대형 로펌 소속? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20230814220215572</id>
-        <link href="https://v.daum.net/v/20230814220215572"/>
-        <updated>2023-08-14T13:21:10.149Z</updated>
-        <content type="html"><![CDATA[서울 강남에서 롤스로이스 차량을 인도로 몰아 길을 걷던 여성에게 중상을 입힌 신모(28)씨를 마약 투약이 의심되는 상황에서 석방하고, 사건 발생 일주일이 지나서야 구속영장을 신청한 것을 두고 경찰의 부실한 초기대응에 대한 지적이 잇따르고 있다. 과연 경찰은 왜 신씨를 풀어줬을까. 14일 서울경찰청 기자간담회에서 경찰 관계자는 “신씨의 간이시약 검사 결과 케]]></content>
     </entry>
 </feed>
