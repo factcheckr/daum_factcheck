@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-24T14:18:05.751Z</updated>
+    <updated>2023-08-24T15:20:27.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "미래에셋 박현주입니다"…'불법 리딩방' 어디까지 처벌 가능할까]]></title>
+        <id>https://v.daum.net/v/20230825000113871</id>
+        <link href="https://v.daum.net/v/20230825000113871"/>
+        <updated>2023-08-24T15:18:45.090Z</updated>
+        <content type="html"><![CDATA[자본시장법 위반 적용될 경우 징역 3년·벌금 1억 원 이하 [더팩트｜윤정원 기자] 텔레그램이나 카카오톡 등을 통해 주식 투자 자문을 해주는 주식 리딩방이 기승을 부리고 있다. 리딩방은 '자칭' 투자 전문가가 특정 종목 매수를 추천하는 비공개 단체 SNS 채팅방이다. 카카오톡이나 텔레그램 등을 통해 투자할 종목을 찍어주고 사고파는 시기까지 '리딩(Lea]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 日 오염수 '세슘우럭'에 대한 오해와 진실]]></title>
         <id>https://v.daum.net/v/20230824102716114</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230817160300643"/>
         <updated>2023-08-17T07:15:51.514Z</updated>
         <content type="html"><![CDATA[연초 극심했던 가뭄에 이어 지난달 집중 호우로 큰 침수 피해가 발생하면서 홍수와 가뭄 대응 등 국가 물관리에 대한 관심이 높아지고 있다. 특히 이번 수해 국면에서는 과거 국토교통부가 맡던 치수(治水) 기능이 2018년부터 환경부로 이관되면서 약화돼 수해 피해를 키웠다는 주장이 쟁점으로 떠올랐다. 여권에서는 이참에 치수 기능을 국토부로 다시 이관해야 한다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 야스쿠니 신사 논란, 한일 모두 수위 낮췄다?]]></title>
-        <id>https://v.daum.net/v/20230817134500510</id>
-        <link href="https://v.daum.net/v/20230817134500510"/>
-        <updated>2023-08-17T05:16:28.820Z</updated>
-        <content type="html"><![CDATA[지난 8월 15일 광복절, 일본 고위 각료와 국회의원들이 2차 세계 대전 A급 전범이 합사된 야스쿠니 신사를 참배했습니다. 기시다 후미오 일본 총리는 신사에 공물료를 봉납했습니다. 한국 정부는 실망과 유감을 표하는 성명을 발표했습니다. 야스쿠니 신사 논란은 어제오늘 일이 아닙니다만, 최근 진영 논리와 맞물리면서 설왕설래가 오가고 있습니다. 기시다 총리가 신]]></content>
     </entry>
 </feed>
