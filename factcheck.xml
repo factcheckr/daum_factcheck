@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-24T01:13:58.382Z</updated>
+    <updated>2023-08-24T02:23:15.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스킹] [팩트체크] 日 오염수 '세슘우럭'에 대한 오해와 진실]]></title>
+        <id>https://v.daum.net/v/20230824102716114</id>
+        <link href="https://v.daum.net/v/20230824102716114"/>
+        <updated>2023-08-24T02:21:53.252Z</updated>
+        <content type="html"><![CDATA[□ 방송일시 : 2023년 8월 24일 (목) □ 진행 : 박지훈 변호사 □ 출연자 : 정범진 경희대 원자력공학과 교수 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기를 바랍니다. - 日 오염수 30년간 방류, 방사성 물질 아닌 이것 때문 - 오염수, 음용수 기준의 7분의1 정도…삼중수소가 내는 방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 범죄자 중 정신질환자는 얼마나 될까?]]></title>
         <id>https://v.daum.net/v/20230824063015349</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230817134500510"/>
         <updated>2023-08-17T05:16:28.820Z</updated>
         <content type="html"><![CDATA[지난 8월 15일 광복절, 일본 고위 각료와 국회의원들이 2차 세계 대전 A급 전범이 합사된 야스쿠니 신사를 참배했습니다. 기시다 후미오 일본 총리는 신사에 공물료를 봉납했습니다. 한국 정부는 실망과 유감을 표하는 성명을 발표했습니다. 야스쿠니 신사 논란은 어제오늘 일이 아닙니다만, 최근 진영 논리와 맞물리면서 설왕설래가 오가고 있습니다. 기시다 총리가 신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 파행 잼버리 영지 배수는 과연 문제가 없었을까?]]></title>
-        <id>https://v.daum.net/v/20230817100957990</id>
-        <link href="https://v.daum.net/v/20230817100957990"/>
-        <updated>2023-08-17T01:11:08.563Z</updated>
-        <content type="html"><![CDATA[(부안=연합뉴스) 정경재 기자 = "잼버리 배수 대책에 관해서는 문제가 되지 않는다고 생각한다. (스카우트 대원들이) 텐트를 치는 데도 문제가 없었다." 김관영 전북도지사는 지난 14일 기자회견에서 2023 새만금 세계스카우트잼버리 야영장 침수 여부에 대해 이렇게 답했다. 국내 언론과 외신, 사회관계망서비스(SNS) 등이 지적한 내용과 실제 현장은 달랐다는]]></content>
     </entry>
 </feed>
