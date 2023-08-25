@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-25T09:17:58.640Z</updated>
+    <updated>2023-08-25T10:20:11.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 팁 요구, 현행법상 불법이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230825182905783</id>
+        <link href="https://v.daum.net/v/20230825182905783"/>
+        <updated>2023-08-25T10:18:41.993Z</updated>
+        <content type="html"><![CDATA[최근 한 유명 베이커리 카페에서 팁을 요구하는 유리병을 계산대 앞에 배치해 논란이 일었습니다. “장사도 잘되는 가게에서 무슨 심보냐”며 “방문하지 않겠다는” 누리꾼의 곱지 않은 시선이 이어졌는데요. 현행법 (식품위생법 시행규칙 제57조)은 식당과 카페에서 게시된 가격대로 요금을 받아야 한다고 돼 있습니다. 하지만 가격표에 포함되지 않은 요금, 팁은 어떻게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 핵 과학자들이 말하는 오염수 '안전에 문제없어'vs'日本도 모르는 걸?' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230825171610991</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230820060002812"/>
         <updated>2023-08-19T21:14:14.413Z</updated>
         <content type="html"><![CDATA[새만금 세계스카우트잼버리 대회 기간 중 숙영지 여자샤워장에서 샤워를 하다 적발된 30대 태국 남성 지도자가 16일 전북경찰청에 의해 '건조물 침입' 혐의로 검찰에 송치됐다. 이 사건에 대해 일각에선 '성범죄'인데 제대로 수사가 안 됐다거나 잼버리 조직위원회가 사건을 축소하려했다는 주장을 하고 있다. 김현숙 여성가족부 장관은 정례 브리핑에서 이 사건에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이미 판매 중인데"…대한상의 '무라벨 생수' 홍보 왜?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230819074801745</id>
-        <link href="https://v.daum.net/v/20230819074801745"/>
-        <updated>2023-08-18T23:16:49.362Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. (안녕하세요.) 오늘은 &lt;뜬금없는 무라벨 생수&gt;가 주제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[야스쿠니 신사 논란, 한일 모두 수위 낮췄다? (다음 뉴스 ─ SBS 사실은)]]></title>
