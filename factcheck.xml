@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-25T21:17:05.265Z</updated>
+    <updated>2023-08-25T22:17:42.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]서이초 학부모들은 실제 '갑질' 했을까…처벌 가능성은?]]></title>
+        <id>https://v.daum.net/v/20230826063039247</id>
+        <link href="https://v.daum.net/v/20230826063039247"/>
+        <updated>2023-08-25T22:16:29.563Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 서상혁 기자 = 20대 교사가 극단 선택으로 숨진 '서이초 사건'에 대한 경찰 수사의 핵심은 다음과 같습니다. '범죄 혐의로 특정될 만한 학부모의 갑질이 있었는지'를 규명하는 것입니다. 예컨대 '연필 사건' 당사자인 학생들의 학부모들에게 '협박죄' '강요죄' '공무집행방해' 등 혐의를 적용해 처벌할 수 있느냐입니다. 연필 사건은 지난달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 팁 요구, 현행법상 불법이다?]]></title>
         <id>https://v.daum.net/v/20230825182905783</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230820164301054"/>
         <updated>2023-08-20T08:21:48.659Z</updated>
         <content type="html"><![CDATA[이동관 방송통신위원장 후보자는 지난 18일 국회에서 열린 청문회에서 “선진국 어느 나라도 공영방송이 이렇게 많은 나라가 없다”라며 “자유로운 정보 소통을 위해서는 공영방송은 최소화하고, 경쟁체제 속에서 소비자가 선택하도록 하는 게 올바르다”라고 말했다. 자유로운 소통을 위해서는 공영방송 ‘축소’와 민영화가 필요하다는 말이다. 경향신문은 이 후보자의 주장대로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잼버리 샤워장 태국인 사건, '성범죄'로 보기 어려운 이유는[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230820060002812</id>
-        <link href="https://v.daum.net/v/20230820060002812"/>
-        <updated>2023-08-19T21:14:14.413Z</updated>
-        <content type="html"><![CDATA[새만금 세계스카우트잼버리 대회 기간 중 숙영지 여자샤워장에서 샤워를 하다 적발된 30대 태국 남성 지도자가 16일 전북경찰청에 의해 '건조물 침입' 혐의로 검찰에 송치됐다. 이 사건에 대해 일각에선 '성범죄'인데 제대로 수사가 안 됐다거나 잼버리 조직위원회가 사건을 축소하려했다는 주장을 하고 있다. 김현숙 여성가족부 장관은 정례 브리핑에서 이 사건에]]></content>
     </entry>
 </feed>
