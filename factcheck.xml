@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-25T23:20:10.821Z</updated>
+    <updated>2023-08-26T01:12:45.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 후쿠시마 오염수 '30년' 방류 계획, 따져 보니…]]></title>
+        <id>https://v.daum.net/v/20230826090600796</id>
+        <link href="https://v.daum.net/v/20230826090600796"/>
+        <updated>2023-08-26T01:11:30.732Z</updated>
+        <content type="html"><![CDATA[예고한 대로 일본은 지난 24일 낮 1시부터 후쿠시마 원전 오염수 방류를 시작했습니다. 2011년 후쿠시마 원전 폭발 사고 이후 12년 5개월, 스가 전 총리가 지난 2021년 4월 해양 방류를 정식 결정한 지 2년 4개월 만입니다.&nbsp; 지금 후쿠시마 원전에 보관된 오염수는 134만t입니다. 일본은 오염수 방류 기간이 앞으로 30~40년이 걸릴 것으로 보고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]체포동의안 표결 '보이콧'…방탄 실효성 있나?]]></title>
+        <id>https://v.daum.net/v/20230826084724543</id>
+        <link href="https://v.daum.net/v/20230826084724543"/>
+        <updated>2023-08-26T01:11:30.735Z</updated>
+        <content type="html"><![CDATA[검찰이 다음 달 정기국회에서 이재명 더불어민주당 대표에 대한 구속영장을 청구할 것으로 전망되는 가운데 민주당에서는 체포동의안 표결을 '보이콧'하는 방안을 놓고 논쟁이 벌어졌다. 체포동의안 표결 도중 퇴장할 경우 표단속 없이 구속영장을 막아낼 수 있다는 주장과 투표가 불성립해 결국 다시 투표할 수밖에 없다는 반론이 맞서고 있다. 체포동의안 본회의 표결 과정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]서이초 학부모들은 실제 '갑질' 했을까…처벌 가능성은?]]></title>
         <id>https://v.daum.net/v/20230826063039247</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230822201617561"/>
         <updated>2023-08-22T12:33:49.660Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 흉악범죄에 대한 우려가 커지고 있는 상황에서, 최근에는 여성안심귀갓길도 논란이 됐습니다. 일각에서 도로에 페인트만 칠해놔 아무 효과가 없는 쓸모없는 정책이라고 비난을 하고 있는 건데요. 맞는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 여성안심귀갓길은 여성의 안전한 귀가를 돕기 위해 지난 2013년 본격 시행됐습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 여운형 선생·홍범도 장군만 건국훈장 두번 받았다?]]></title>
-        <id>https://v.daum.net/v/20230822085603772</id>
-        <link href="https://v.daum.net/v/20230822085603772"/>
-        <updated>2023-08-22T01:13:54.242Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 이례적으로 건국훈장을 2번 받은 독립유공자는 여운형 선생과 홍범도 장군뿐일까. 건국훈장의 2회 수여는 중복 서훈을 금지한 '상훈법'을 위배할 소지가 있는 것일까. 박민식 국가보훈부 장관은 지난 14일 YTN 라디오 '뉴스킹 박지훈입니다'에 출연해 "독립지사가 한 2만명 되지 않습니까"라며 이 중 여운형 선생과 홍범도 장군이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230820164301054</id>
-        <link href="https://v.daum.net/v/20230820164301054"/>
-        <updated>2023-08-20T08:21:48.659Z</updated>
-        <content type="html"><![CDATA[이동관 방송통신위원장 후보자는 지난 18일 국회에서 열린 청문회에서 “선진국 어느 나라도 공영방송이 이렇게 많은 나라가 없다”라며 “자유로운 정보 소통을 위해서는 공영방송은 최소화하고, 경쟁체제 속에서 소비자가 선택하도록 하는 게 올바르다”라고 말했다. 자유로운 소통을 위해서는 공영방송 ‘축소’와 민영화가 필요하다는 말이다. 경향신문은 이 후보자의 주장대로]]></content>
     </entry>
 </feed>
