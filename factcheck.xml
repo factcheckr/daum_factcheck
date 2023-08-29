@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-29T07:18:21.504Z</updated>
+    <updated>2023-08-29T08:24:24.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정당 대표의 옥중 공천권 행사, 가능할까?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230829170300701</id>
+        <link href="https://v.daum.net/v/20230829170300701"/>
+        <updated>2023-08-29T08:22:55.331Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표에 대한  백현동 개발사업 특혜 의혹과 쌍방울 대북 송금 의혹 등에 대한 검찰 수사가 진행 중이다. 정치권에서는 이 대표가 영장실질심사를 받겠다고 한 만큼, 구속될 수도 있다는 가정 아래 이 대표가 구속될 경우에도 당 대표직을 계속 수행할 수 있을지 여부를 두고 갑론을박이 벌어지고 있다. 특이 이 대표가 구속될 경우 ‘옥중 공천’을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 비키니 오토바이 주행, 공연음란죄 적용 가능한가?]]></title>
         <id>https://v.daum.net/v/20230828191616763</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230825182905783"/>
         <updated>2023-08-25T10:18:41.993Z</updated>
         <content type="html"><![CDATA[최근 한 유명 베이커리 카페에서 팁을 요구하는 유리병을 계산대 앞에 배치해 논란이 일었습니다. “장사도 잘되는 가게에서 무슨 심보냐”며 “방문하지 않겠다는” 누리꾼의 곱지 않은 시선이 이어졌는데요. 현행법 (식품위생법 시행규칙 제57조)은 식당과 카페에서 게시된 가격대로 요금을 받아야 한다고 돼 있습니다. 하지만 가격표에 포함되지 않은 요금, 팁은 어떻게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 핵 과학자들이 말하는 오염수 '안전에 문제없어'vs'日本도 모르는 걸?']]></title>
-        <id>https://v.daum.net/v/20230825171610991</id>
-        <link href="https://v.daum.net/v/20230825171610991"/>
-        <updated>2023-08-25T08:21:58.441Z</updated>
-        <content type="html"><![CDATA[■ 방송 : YTN 라디오 FM 94.5 (13:00~14:00) ■ 진행 : 김우성 PD ■ 방송일 : 2023년 8월 25일 (금요일) ■ 대담 : 백원필 한국원자력학회 회장, 서균렬 서울대 원자핵공학과 명예교수 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 김우성PD(이하 김우]]></content>
     </entry>
 </feed>
