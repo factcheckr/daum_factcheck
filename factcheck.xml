@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-08-31T20:19:44.433Z</updated>
+    <updated>2023-08-31T21:16:45.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 과거 어느 정부 때 언론 압박 심했나?]]></title>
+        <id>https://v.daum.net/v/20230901060121167</id>
+        <link href="https://v.daum.net/v/20230901060121167"/>
+        <updated>2023-08-31T21:15:35.861Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 지난달 28일 취임한 이동관 방송통신위원장의 임명 과정에서 벌어진 여야 공방은 역대 정부의 언론정책 공정성 시비로 비화됐다. 더불어민주당은 국회 인사청문회에서 이 위원장이 대통령실 대변인과 홍보수석비서관으로 재직하던 이명박 정부 때 언론 개입과 방송 장악 정황을 보여주는 증거로 국가정보원 문건들을 제시했다. 이에 대해 국민의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230831120929086</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230826084724543"/>
         <updated>2023-08-26T01:11:30.735Z</updated>
         <content type="html"><![CDATA[검찰이 다음 달 정기국회에서 이재명 더불어민주당 대표에 대한 구속영장을 청구할 것으로 전망되는 가운데 민주당에서는 체포동의안 표결을 '보이콧'하는 방안을 놓고 논쟁이 벌어졌다. 체포동의안 표결 도중 퇴장할 경우 표단속 없이 구속영장을 막아낼 수 있다는 주장과 투표가 불성립해 결국 다시 투표할 수밖에 없다는 반론이 맞서고 있다. 체포동의안 본회의 표결 과정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]서이초 학부모들은 실제 '갑질' 했을까…처벌 가능성은?]]></title>
-        <id>https://v.daum.net/v/20230826063039247</id>
-        <link href="https://v.daum.net/v/20230826063039247"/>
-        <updated>2023-08-25T22:16:29.563Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 서상혁 기자 = 20대 교사가 극단 선택으로 숨진 '서이초 사건'에 대한 경찰 수사의 핵심은 다음과 같습니다. '범죄 혐의로 특정될 만한 학부모의 갑질이 있었는지'를 규명하는 것입니다. 예컨대 '연필 사건' 당사자인 학생들의 학부모들에게 '협박죄' '강요죄' '공무집행방해' 등 혐의를 적용해 처벌할 수 있느냐입니다. 연필 사건은 지난달]]></content>
     </entry>
 </feed>
