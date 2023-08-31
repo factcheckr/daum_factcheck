@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-08-31T02:23:52.255Z</updated>
+    <updated>2023-08-31T03:19:37.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20230831120929086</id>
+        <link href="https://v.daum.net/v/20230831120929086"/>
+        <updated>2023-08-31T03:19:27.145Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;국방부가 육군사관학교 교내뿐 아니라 국방부 청사 앞에 설치된 고(故) 홍범도 장군 흉상에 대해서도 필요시 이전을 검토하고 있다고 밝힌 28일 서울 용산구 국방부 청사 앞에 설치된 고 홍범도 장군 흉상 모습.ⓒ 연합뉴스&nbsp; 국방부는 육군사관학교 내 독립운동가 흉상 이전을 추진하면서 "홍범도 장군이 독립군을 몰살시켰던 자유시 참변과 연관된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["검수완박 때문에 지구대 인력 부족" 국힘 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20230825132701312</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230610114202849"/>
         <updated>2023-06-10T02:47:56.132Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;5일 서울 여의도 국회 의원회관에서 열린 국민의힘 '시민단체 선진화 특위' 제2차 회의에서 하태경 위원장이 발언하고 있다.ⓒ 남소연&nbsp; 하태경 "중증장애인 일자리 예산 40억원, 전장연 집회에 전용" 국민의힘 시민단체선진화특별위원회 위원장인 하태경 의원은 지난 2일 자신의 페이스북에 서울시의 '권리중심 중증장애인 맞춤형 공공 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["월소득 1천만원 가구 학자금 무이자 대출" 보도는 '거짓']]></title>
-        <id>https://v.daum.net/v/20230524113602183</id>
-        <link href="https://v.daum.net/v/20230524113602183"/>
-        <updated>2023-05-24T02:39:56.943Z</updated>
-        <content type="html"><![CDATA[[강석찬 기자] ▲ &nbsp;“'월 소득 1천만 원 가구'에 대학생 학자금 무이자 대출이 맞나” 제목의 동아일보 사설(5/17)ⓒ 동아일보PDF&nbsp; [검증 대상] "월 소득 1000만원 넘는 가구 자녀도 학자금 무이자 혜택" 정부 학자금 대출을 받은 청년이 취업 후 상환 기준 소득을 넘길 때까지 대출 이자를 면제해 주는 '취업 후 학자금 상환 특별법 개정안(아래 학]]></content>
     </entry>
 </feed>
