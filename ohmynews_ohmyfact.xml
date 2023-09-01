@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-09-01T06:24:52.798Z</updated>
+    <updated>2023-09-01T07:18:12.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤, 현직 대통령 노량진수산시장 첫방문" 대통령실 브리핑은 '거짓']]></title>
+        <id>https://v.daum.net/v/20230901160001254</id>
+        <link href="https://v.daum.net/v/20230901160001254"/>
+        <updated>2023-09-01T07:18:00.677Z</updated>
+        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;윤석열 대통령은 지난 31일 서울 노량진수산시장을 방문해 상인들을 격려하고 직접 수산물을 구매하고 시식하는 등 수산물 소비 장려 활동을 벌였다. 이도운 대통령실 대변인은 서면브리핑을 통해 이번 윤 대통령의 노량진수산시장 방문이 "대통령의 서울 노량진수산시장 방문은 1927년 경성수산(현 노량진수산시장) 개장 이래로 96년 만에 처음"이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20230831120929086</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230619184502855"/>
         <updated>2023-06-19T10:21:36.275Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] &nbsp;▲ &nbsp;대구쿠어문화축제가 열리는 17일 오전 대중교통전용지구 버스 우회 통행을 불허한 뒤 공무원들이 막아섰으나 경찰에 의해 뚫리자 홍준표 대구시장이 기자들을 만나 경찰을 비난했다.ⓒ 조정훈&nbsp; 홍준표 "대구퀴어문화축제, 도로점용허가 받고 해야" 지난 17일 대구광역시 중구 동성로 대중교통전용지구로 진입하려는 대구퀴어문화축제(아래 대구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장애인 집회 참여가 일자리 예산 전용" 하태경 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20230610114202849</id>
-        <link href="https://v.daum.net/v/20230610114202849"/>
-        <updated>2023-06-10T02:47:56.132Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;5일 서울 여의도 국회 의원회관에서 열린 국민의힘 '시민단체 선진화 특위' 제2차 회의에서 하태경 위원장이 발언하고 있다.ⓒ 남소연&nbsp; 하태경 "중증장애인 일자리 예산 40억원, 전장연 집회에 전용" 국민의힘 시민단체선진화특별위원회 위원장인 하태경 의원은 지난 2일 자신의 페이스북에 서울시의 '권리중심 중증장애인 맞춤형 공공 일]]></content>
     </entry>
 </feed>
