@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-08T22:17:44.652Z</updated>
+    <updated>2023-09-08T23:18:26.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최초 '길냥이 보호조례' 제정 가능할까?…'중성화 수술, 급식소 설치'[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230909074800328</id>
+        <link href="https://v.daum.net/v/20230909074800328"/>
+        <updated>2023-09-08T23:17:13.907Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 충남 천안시의회가 길고양이 보호조례를 제정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '자유시 참변'은 일본의 사주로 일어났다?]]></title>
         <id>https://v.daum.net/v/20230909070513984</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230905110510947"/>
         <updated>2023-09-07T21:17:28.614Z</updated>
         <content type="html"><![CDATA[강릉에서 티볼리 급발진 추정 사고가 발생한 뒤 공정거래위원회는 연구용역 하나를 발주했습니다. 소비자의 급발진 입증책임을 완화할 필요가 있는지 검토하는 내용을 담은 ‘제조물 책임법 운용 실태조사’입니다. 급발진은 운전자 의도와 무관하게 차량이 급가속하는 현상을 말합니다. 급발진은 십수년 전부터 논란이 됐지만, 소비자가 차량의 이상 급가속 현상을 발생시키는 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "홍범도 논란의 핵심, 역사의 소급 적용"]]></title>
-        <id>https://v.daum.net/v/20230902075700496</id>
-        <link href="https://v.daum.net/v/20230902075700496"/>
-        <updated>2023-09-07T21:17:28.614Z</updated>
-        <content type="html"><![CDATA[이번 주는 육군사관학교 내부에 설치된 독립운동가 홍범도 장군의 흉상을 놓고 정치권 논란이 뜨거웠습니다. 국방부는 "공산주의 이력이 있는 홍범도 장군의 흉상을 육사에 설치해 기념하는 것은 육사의 정체성을 고려할 때 적절하지 않다"고 입장문을 냈습니다. 그러면서 홍범도 장군의 공산주의 관련 행적의 구체적 사례를 열거했습니다. 그렇다면, 국방부 주장에 대한]]></content>
     </entry>
 </feed>
