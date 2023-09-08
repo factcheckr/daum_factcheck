@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-08T21:16:35.856Z</updated>
+    <updated>2023-09-08T22:17:44.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '자유시 참변'은 일본의 사주로 일어났다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230909070513984</id>
+        <link href="https://v.daum.net/v/20230909070513984"/>
+        <updated>2023-09-08T22:16:22.372Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 육군사관학교의 홍범도 장군 흉상 이전 논란이 때아닌 이념 논쟁을 불러왔다. 논란은 지난달 말 육사에서 자유민주주의를 수호해야 할 사관생도를 양성하는 곳에 소련공산당 가입 전력이 있는 홍범도 장군의 흉상을 두는 게 적절치 않다는 문제 제기에 따라 독립기념관으로 흉상 이전을 추진한다는 소식이 알려지면서 시작됐다. 야당과 보훈단체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 초등학생 수학여행시 일반 전세버스는 안된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230908201201968</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230902075700496"/>
         <updated>2023-09-01T23:16:39.313Z</updated>
         <content type="html"><![CDATA[이번 주는 육군사관학교 내부에 설치된 독립운동가 홍범도 장군의 흉상을 놓고 정치권 논란이 뜨거웠습니다. 국방부는 "공산주의 이력이 있는 홍범도 장군의 흉상을 육사에 설치해 기념하는 것은 육사의 정체성을 고려할 때 적절하지 않다"고 입장문을 냈습니다. 그러면서 홍범도 장군의 공산주의 관련 행적의 구체적 사례를 열거했습니다. 그렇다면, 국방부 주장에 대한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹정권에서도 예우하던 홍범도 장군 흉상 이전…갑자기 왜?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230902074800440</id>
-        <link href="https://v.daum.net/v/20230902074800440"/>
-        <updated>2023-09-07T21:17:28.624Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 육군사관학교 경내에 설치된 홍범도 장군 흉]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["홍범도 논란의 핵심, 역사의 소급 적용" (다음 뉴스 ─ SBS 사실은)]]></title>
