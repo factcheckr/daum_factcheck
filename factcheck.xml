@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-12T04:22:18.260Z</updated>
+    <updated>2023-09-12T05:18:26.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]‘유럽의 골칫거리’ 난민, 받아들일수록 범죄율 높아질까]]></title>
+        <id>https://v.daum.net/v/20230912135705456</id>
+        <link href="https://v.daum.net/v/20230912135705456"/>
+        <updated>2023-09-12T05:16:54.174Z</updated>
+        <content type="html"><![CDATA[유럽연합(EU)는 유럽 최대 화두 ‘난민’ 문제 해결을 위해 ‘신 이민·난민 협정’을 적극 추진하고 있다. 회원국 인구 및 국내총생산(GDP) 규모에 따라 난민 신청자를 일정 비율에 따라 의무적으로 나눠서 수용하는 것을 골자로 한다. 수용을 거부하는 국가는 난민 1인당 2만 유로(약 2800만원) 상당의 기금을 강제로 내야 한다. 이같은 EU의 움직임에 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최초 '길냥이 보호조례' 제정 가능할까?…'중성화 수술, 급식소 설치'[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230909074800328</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230905170139034"/>
         <updated>2023-09-07T21:17:28.602Z</updated>
         <content type="html"><![CDATA[“국무위원으로서 말씀드리는데, 이동관씨가 뭡니까? 개인 이동관한테 질문하는 거 아니지 않습니까.” 취임 후 처음 국회 과학기술정보방송통신위원회 전체회의에 참석한 이동관 방송통신위원장이 자신을&nbsp;‘이동관씨’라고 지칭한 고민정 더불어민주당 의원에게 항의하며 방통위원장이&nbsp;‘국무위원’이라고 말했다. 이동관 방송통신위원장이 5일 서울 종로구 정부서울청사에서 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘급발진 입증’ 용역 간담회…왜 제조사만 불렀나? [뉴스AS]]]></title>
-        <id>https://v.daum.net/v/20230905110510947</id>
-        <link href="https://v.daum.net/v/20230905110510947"/>
-        <updated>2023-09-07T21:17:28.614Z</updated>
-        <content type="html"><![CDATA[강릉에서 티볼리 급발진 추정 사고가 발생한 뒤 공정거래위원회는 연구용역 하나를 발주했습니다. 소비자의 급발진 입증책임을 완화할 필요가 있는지 검토하는 내용을 담은 ‘제조물 책임법 운용 실태조사’입니다. 급발진은 운전자 의도와 무관하게 차량이 급가속하는 현상을 말합니다. 급발진은 십수년 전부터 논란이 됐지만, 소비자가 차량의 이상 급가속 현상을 발생시키는 결]]></content>
     </entry>
 </feed>
