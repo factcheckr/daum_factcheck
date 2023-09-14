@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-14T21:17:21.832Z</updated>
+    <updated>2023-09-14T22:18:07.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 동물원이 '동물 감옥'인가…학대해도 처벌 규정 없다?]]></title>
+        <id>https://v.daum.net/v/20230915070123006</id>
+        <link href="https://v.daum.net/v/20230915070123006"/>
+        <updated>2023-09-14T22:17:06.235Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 김수지 인턴기자 = 최근 경남 김해 부경동물원에서 사육 중인 사자가 갈비뼈가 드러날 정도로 마른 모습이 공개돼 동물원 동물들에 대한 학대 논란이 불거졌다. 또한 인터넷 게시판에선 대전의 한 수족관에서 가물치가 비위생적인 환경에서도 잘 산다는 것을 보여주기 위해 일부러 쓰레기를 수족관에 넣어놓았다는 글이 올라와 설왕설래가 있었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]‘유럽의 골칫거리’ 난민, 받아들일수록 범죄율 높아질까]]></title>
         <id>https://v.daum.net/v/20230912135705456</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230906170921368"/>
         <updated>2023-09-07T21:17:28.600Z</updated>
         <content type="html"><![CDATA[대법원이 법무부가 지난달 입법예고한 ‘가석방 없는 종신형’을 신설하는 형법 개정안에 대해 반대 입장을 표명했습니다. 법무부의 개정안은 현행법상 무기형을 선고받은 흉악 범죄자도 20년 복역 후에는 가석방을 신청할 수 있는데, 헌법재판소의 사형 존폐 결정과 무관하게 가석방 없는 종신형을 추진하는 것을 골자로 합니다. 법무부 관계자는 “미국 등 여러 선진국에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“국무위원한테 이동관씨?” 방통위원장은 국무위원인가? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20230905170139034</id>
-        <link href="https://v.daum.net/v/20230905170139034"/>
-        <updated>2023-09-07T21:17:28.602Z</updated>
-        <content type="html"><![CDATA[“국무위원으로서 말씀드리는데, 이동관씨가 뭡니까? 개인 이동관한테 질문하는 거 아니지 않습니까.” 취임 후 처음 국회 과학기술정보방송통신위원회 전체회의에 참석한 이동관 방송통신위원장이 자신을&nbsp;‘이동관씨’라고 지칭한 고민정 더불어민주당 의원에게 항의하며 방통위원장이&nbsp;‘국무위원’이라고 말했다. 이동관 방송통신위원장이 5일 서울 종로구 정부서울청사에서 열린]]></content>
     </entry>
 </feed>
