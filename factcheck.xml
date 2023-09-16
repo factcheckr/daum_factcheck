@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-16T11:15:17.633Z</updated>
+    <updated>2023-09-16T12:32:33.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실확인] 11월 플라스틱 금지되는데 종이 빨대가 더 친환경이다?]]></title>
         <id>https://v.daum.net/v/20230916201241627</id>
