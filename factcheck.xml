@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-18T07:19:38.057Z</updated>
+    <updated>2023-09-18T08:24:48.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 벌금을 내는 게 더 저렴하다?...보육정책을 단순 비용 편익 문제로 치부해선 안 돼]]></title>
+        <id>https://v.daum.net/v/20230918170845327</id>
+        <link href="https://v.daum.net/v/20230918170845327"/>
+        <updated>2023-09-18T08:23:22.334Z</updated>
+        <content type="html"><![CDATA[“직장 어린이집은 소수의, 운 좋은 사람들이 누리는 복지다. (어린이집 짓느니) 벌금을 내는 게 더 싸다”. 패션업체 무신사가 신사옥에 직장 어린이집 설치 계획을 전면 철회하며 최영준 최고재무책임자(CFO)가 해당 발언을 한 것으로 전해졌습니다. 무신사는 직장 어린이집 실수요 부족으로 설립을 무산한 것으로 밝혀졌는데요. 보육정책을 단순히 비용과 편익]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 11월 플라스틱 금지되는데 종이 빨대가 더 친환경이다?]]></title>
         <id>https://v.daum.net/v/20230916201241627</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230908163437684"/>
         <updated>2023-09-17T19:13:45.425Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 육군사관학교 내부에 설치된 독립운동가 홍범도 장군의 흉상을 놓고 논란이 뜨겁다. 국방부는 “공산주의 이력이 있는 홍범도 장군의 흉상을 육사에 설치해 기념하는 것은 육사의 정체성을 고려할 때 적절하지 않다”고 입장문을 냈다. 이에 대해 이종찬 광복회장은 지난 8월 29일 KBS라디오 ‘최경영의 최강시사’에 출연해 “(홍범도 장군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파 논란에 이재명 페북글 삭제? 알고보니... [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230907124800634</id>
-        <link href="https://v.daum.net/v/20230907124800634"/>
-        <updated>2023-09-17T19:13:45.428Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이철규 국민의힘 사무총장이 5일 서울 여의도 국회에서 열린 원내대책회의에 참석해 있다.ⓒ 남소연&nbsp; 지난 2022년 3월 대선 직전 &lt;뉴스타파&gt; '김만배 음성 파일' 보도가 논란이 되고 있는 가운데, 당시 해당 보도를 인용했던 이재명 더불어민주당 대표 페이스북 글이 갑자기 사라졌다는 주장이 제기됐다. 이철규 국민의힘 사무총장은 6일 오후]]></content>
     </entry>
 </feed>
