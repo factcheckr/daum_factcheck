@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-18T11:16:18.909Z</updated>
+    <updated>2023-09-18T12:38:02.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 초밥 먹기 전 "잠시만요"…방사능 측정기 효과는]]></title>
+        <id>https://v.daum.net/v/20230918204207695</id>
+        <link href="https://v.daum.net/v/20230918204207695"/>
+        <updated>2023-09-18T12:35:55.286Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 오염수 방류 이후, 일부 소비자들은 혹시나 하는 걱정에 휴대용 측정기로 직접 수산물의 방사능을&nbsp;재는 경우도 있습니다. 휴대용 측정기 판매 업체도 급속히 늘고 있는데, 이 측정기가 과연 효과가 있을지 팩트체크 사실은 코너에서 확인했습니다. 박세용 기자입니다. &lt;기자&gt; 한 중국인이 일본 도쿄에서 초밥을 먹으면서 일일이 방사능을 측정하는 영상이 최근 화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 벌금을 내는 게 더 저렴하다?...보육정책을 단순 비용 편익 문제로 치부해선 안 돼]]></title>
         <id>https://v.daum.net/v/20230918170845327</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230908200606871"/>
         <updated>2023-09-17T19:13:45.422Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근, 서비스 봉사료라고 하죠, 팁이 논란이 됐습니다. 한 택]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년대 공산당은 북한 수립 공산당과 다르게 봐야 한다? [SNU팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230908163437684</id>
-        <link href="https://v.daum.net/v/20230908163437684"/>
-        <updated>2023-09-17T19:13:45.425Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 육군사관학교 내부에 설치된 독립운동가 홍범도 장군의 흉상을 놓고 논란이 뜨겁다. 국방부는 “공산주의 이력이 있는 홍범도 장군의 흉상을 육사에 설치해 기념하는 것은 육사의 정체성을 고려할 때 적절하지 않다”고 입장문을 냈다. 이에 대해 이종찬 광복회장은 지난 8월 29일 KBS라디오 ‘최경영의 최강시사’에 출연해 “(홍범도 장군]]></content>
     </entry>
 </feed>
