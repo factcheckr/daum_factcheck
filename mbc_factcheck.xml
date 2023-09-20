@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-09-20T10:20:53.262Z</updated>
+    <updated>2023-09-20T11:16:29.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외도 언론사 상대로 가짜뉴스 단속 강화 중?]]></title>
+        <id>https://v.daum.net/v/20230920200112826</id>
+        <link href="https://v.daum.net/v/20230920200112826"/>
+        <updated>2023-09-20T11:15:39.563Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 방송통신위원회가 최근 가짜뉴스 근절방안'을 내놓았습니다. 방송통신심의위원회를 통해 가짜뉴스를 신속 심의, 구제까지 하는 '패스트트랙'을 시행하고, 허위보도 매체를 바로 퇴출하는 원스트라이크 아웃' 등을 추진한다는 겁니다. 특히, 선거와 국가재난, 금융시장, 그리고 개인에게 치명적인 가짜뉴스는 심의 전에라도 선제적 조치를 진행하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 정부, 이 와중에 과거사 왜곡‥관동대학살 기록 없다?]]></title>
         <id>https://v.daum.net/v/20230901195216524</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230530203711984"/>
         <updated>2023-05-30T12:39:39.851Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 일본 자위함이 참가하는 해양차단훈련은 축소됐지만, 전범기인 욱일기를 둘러싼 논란은 계속되고 있습니다. 논란이 일자 우리 국방부는 "자위함기와 욱일기는 차이가 있다며, 두 깃발이 다르다"는 입장을 보였는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 자위대 함정의 국내 입항을 앞두고 우리 국방부는 '욱일기' 대신 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노란봉투법이 불법행위에 면죄부?]]></title>
-        <id>https://v.daum.net/v/20230526201613096</id>
-        <link href="https://v.daum.net/v/20230526201613096"/>
-        <updated>2023-05-26T11:16:26.528Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 국회 본회의에 직회부된 노동조합법 개정안, 노란봉투법에 대해 대통령실이 거부권 행사를 검토 중인 것으로 알려졌습니다. 개정안은 하청이나 특수고용 노동자들이 원청 기업과 직접 교섭할 수 있도록 하고, 파업에 대한 기업의 무분별한 손해배상은 제한했는데요. 재계와 정부 여당은 이 법안이 노동자들의 불법 행위에 면죄부를 줄 거라고 비판]]></content>
     </entry>
 </feed>

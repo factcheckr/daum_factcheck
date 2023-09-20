@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-20T10:20:53.255Z</updated>
+    <updated>2023-09-20T11:16:29.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 해외도 언론사 상대로 가짜뉴스 단속 강화 중?]]></title>
+        <id>https://v.daum.net/v/20230920200112826</id>
+        <link href="https://v.daum.net/v/20230920200112826"/>
+        <updated>2023-09-20T11:15:13.696Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 방송통신위원회가 최근 가짜뉴스 근절방안'을 내놓았습니다. 방송통신심의위원회를 통해 가짜뉴스를 신속 심의, 구제까지 하는 '패스트트랙'을 시행하고, 허위보도 매체를 바로 퇴출하는 원스트라이크 아웃' 등을 추진한다는 겁니다. 특히, 선거와 국가재난, 금융시장, 그리고 개인에게 치명적인 가짜뉴스는 심의 전에라도 선제적 조치를 진행하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 중심에 일본, 한국은 '빙빙' 위성국가? 홈피 이미지, 외교부에 물어봤더니…]]></title>
         <id>https://v.daum.net/v/20230920175407920</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230909070513984"/>
         <updated>2023-09-17T19:13:45.415Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 육군사관학교의 홍범도 장군 흉상 이전 논란이 때아닌 이념 논쟁을 불러왔다. 논란은 지난달 말 육사에서 자유민주주의를 수호해야 할 사관생도를 양성하는 곳에 소련공산당 가입 전력이 있는 홍범도 장군의 흉상을 두는 게 적절치 않다는 문제 제기에 따라 독립기념관으로 흉상 이전을 추진한다는 소식이 알려지면서 시작됐다. 야당과 보훈단체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 초등학생 수학여행시 일반 전세버스는 안된다?]]></title>
-        <id>https://v.daum.net/v/20230908201201968</id>
-        <link href="https://v.daum.net/v/20230908201201968"/>
-        <updated>2023-09-17T19:13:45.417Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근, 몇 주 사이 전국 초등학생들의 수학여행이 무더기로 취소]]></content>
     </entry>
 </feed>
