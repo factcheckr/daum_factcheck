@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-20T08:24:40.733Z</updated>
+    <updated>2023-09-20T09:19:07.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 중심에 일본, 한국은 '빙빙' 위성국가? 홈피 이미지, 외교부에 물어봤더니…]]></title>
+        <id>https://v.daum.net/v/20230920175407920</id>
+        <link href="https://v.daum.net/v/20230920175407920"/>
+        <updated>2023-09-20T09:17:56.900Z</updated>
+        <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 대선때 ‘개표기 조작’ 음모론 퍼뜨린 폭스, 1조원 배상[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230919120914644</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230908201201968"/>
         <updated>2023-09-17T19:13:45.417Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근, 몇 주 사이 전국 초등학생들의 수학여행이 무더기로 취소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에서 가장 나이가 많은 연령대는?]]></title>
-        <id>https://v.daum.net/v/20230908200714886</id>
-        <link href="https://v.daum.net/v/20230908200714886"/>
-        <updated>2023-09-17T19:13:45.420Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의 송영]]></content>
     </entry>
 </feed>
