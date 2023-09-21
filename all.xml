@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T14:19:34.902Z</updated>
+    <updated>2023-09-21T15:19:42.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 내년도 주요 R&D 예산 14% 삭감…나눠먹기·비효율 줄였다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230922000017927</id>
+        <link href="https://v.daum.net/v/20230922000017927"/>
+        <updated>2023-09-21T15:18:18.162Z</updated>
+        <content type="html"><![CDATA[올해보다 3조4000억 원 깎여 기초연구·출연연구기관 운영 예산도 삭감 '지출 구조조정' 세부 내역 불투명 [더팩트ㅣ용산=박숙현 기자] 내년도 주요 R&amp;D 예산 삭감이 정치권 현안으로 떠올랐다. 윤석열 정부는 그동안 '정부 총지출의 5%를 R&amp;D 예산으로 유지하겠다'고 밝혀왔기에 예상 밖의 일이었다. 당초 과학기술정보통신부는 지난 6월 내년도 R&amp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R&D 투자 규모가 3% 대가 된 건 드문 일? [SNU팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230921164003078</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230918204207695"/>
         <updated>2023-09-18T12:35:55.286Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 오염수 방류 이후, 일부 소비자들은 혹시나 하는 걱정에 휴대용 측정기로 직접 수산물의 방사능을&nbsp;재는 경우도 있습니다. 휴대용 측정기 판매 업체도 급속히 늘고 있는데, 이 측정기가 과연 효과가 있을지 팩트체크 사실은 코너에서 확인했습니다. 박세용 기자입니다. &lt;기자&gt; 한 중국인이 일본 도쿄에서 초밥을 먹으면서 일일이 방사능을 측정하는 영상이 최근 화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 벌금을 내는 게 더 저렴하다?...보육정책을 단순 비용 편익 문제로 치부해선 안 돼 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230918170845327</id>
-        <link href="https://v.daum.net/v/20230918170845327"/>
-        <updated>2023-09-18T08:23:22.334Z</updated>
-        <content type="html"><![CDATA[“직장 어린이집은 소수의, 운 좋은 사람들이 누리는 복지다. (어린이집 짓느니) 벌금을 내는 게 더 싸다”. 패션업체 무신사가 신사옥에 직장 어린이집 설치 계획을 전면 철회하며 최영준 최고재무책임자(CFO)가 해당 발언을 한 것으로 전해졌습니다. 무신사는 직장 어린이집 실수요 부족으로 설립을 무산한 것으로 밝혀졌는데요. 보육정책을 단순히 비용과 편익]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중심에 일본, 한국은 '빙빙' 위성국가? 홈피 이미지, 외교부에 물어봤더니… (다음 뉴스 ─ SBS 사실은)]]></title>
