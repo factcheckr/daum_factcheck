@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-21T01:16:33.478Z</updated>
+    <updated>2023-09-21T02:23:56.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세슘 우럭, '방사능 쥐노래미' 나오는데... 삼중수소 인체 농축 안된다? [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230921103011283</id>
+        <link href="https://v.daum.net/v/20230921103011283"/>
+        <updated>2023-09-21T02:22:20.833Z</updated>
+        <content type="html"><![CDATA[[김시연, 봉주영 기자] ▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; "정부는 시민단체를 '오염수 괴담 유포자'라고 공격하고, 오염수 불안에 떠는 시민을 괴담에 휘둘리는 미욱한 사람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피-바나나 괴담 들고나온 윤석열 정부의 오염수 대처 수준 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230921103002257</id>
+        <link href="https://v.daum.net/v/20230921103002257"/>
+        <updated>2023-09-21T02:22:20.834Z</updated>
+        <content type="html"><![CDATA[[김시연, 봉주영 기자] &nbsp;▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; 지난 8월 24일 시작된 일본의 후쿠시마 오염수 1차 방류가 9월 11일 종료됐다. 방류 기간 우리    정부]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] “모델 동의 없는 노출사진 유포, 그게 범죄입니다”]]></title>
+        <id>https://v.daum.net/v/20230921090513012</id>
+        <link href="https://v.daum.net/v/20230921090513012"/>
+        <updated>2023-09-21T02:22:20.839Z</updated>
+        <content type="html"><![CDATA[“기본적으로 합의된 수준 이상의 노출사진을 판매한 적도 없고, 모델들이 항의 했을 때 계약서에 서명하지 않았냐며 계약서를 들이민 적도 없습니다. 모델이 사진을 재보정 해달라고 하거나, 제외 해달라고 하면 모두 들어주었습니다. 관련 대화 증거도 모두 확보하여 경찰에 증거로 제출 한 상태입니다.” 여성의류 쇼핑몰 및 성인화보 판매 업체 ‘리히’는 지난 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 해외도 언론사 상대로 가짜뉴스 단속 강화 중?]]></title>
         <id>https://v.daum.net/v/20230920200112826</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230915070123006"/>
         <updated>2023-09-17T19:13:45.404Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 김수지 인턴기자 = 최근 경남 김해 부경동물원에서 사육 중인 사자가 갈비뼈가 드러날 정도로 마른 모습이 공개돼 동물원 동물들에 대한 학대 논란이 불거졌다. 또한 인터넷 게시판에선 대전의 한 수족관에서 가물치가 비위생적인 환경에서도 잘 산다는 것을 보여주기 위해 일부러 쓰레기를 수족관에 넣어놓았다는 글이 올라와 설왕설래가 있었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]‘유럽의 골칫거리’ 난민, 받아들일수록 범죄율 높아질까]]></title>
-        <id>https://v.daum.net/v/20230912135705456</id>
-        <link href="https://v.daum.net/v/20230912135705456"/>
-        <updated>2023-09-17T19:13:45.404Z</updated>
-        <content type="html"><![CDATA[유럽연합(EU)는 유럽 최대 화두 ‘난민’ 문제 해결을 위해 ‘신 이민·난민 협정’을 적극 추진하고 있다. 회원국 인구 및 국내총생산(GDP) 규모에 따라 난민 신청자를 일정 비율에 따라 의무적으로 나눠서 수용하는 것을 골자로 한다. 수용을 거부하는 국가는 난민 1인당 2만 유로(약 2800만원) 상당의 기금을 강제로 내야 한다. 이같은 EU의 움직임에 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최초 '길냥이 보호조례' 제정 가능할까?…'중성화 수술, 급식소 설치'[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230909074800328</id>
-        <link href="https://v.daum.net/v/20230909074800328"/>
-        <updated>2023-09-17T19:13:45.412Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 충남 천안시의회가 길고양이 보호조례를 제정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '자유시 참변'은 일본의 사주로 일어났다?]]></title>
-        <id>https://v.daum.net/v/20230909070513984</id>
-        <link href="https://v.daum.net/v/20230909070513984"/>
-        <updated>2023-09-17T19:13:45.415Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 육군사관학교의 홍범도 장군 흉상 이전 논란이 때아닌 이념 논쟁을 불러왔다. 논란은 지난달 말 육사에서 자유민주주의를 수호해야 할 사관생도를 양성하는 곳에 소련공산당 가입 전력이 있는 홍범도 장군의 흉상을 두는 게 적절치 않다는 문제 제기에 따라 독립기념관으로 흉상 이전을 추진한다는 소식이 알려지면서 시작됐다. 야당과 보훈단체]]></content>
     </entry>
 </feed>
