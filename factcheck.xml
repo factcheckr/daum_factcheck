@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-21T07:18:17.780Z</updated>
+    <updated>2023-09-21T08:26:15.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[R&D 투자 규모가 3% 대가 된 건 드문 일이다? [SNU팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230921164003078</id>
+        <link href="https://v.daum.net/v/20230921164003078"/>
+        <updated>2023-09-21T08:23:03.152Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 정부가 내년도 정부연구개발(R&amp;D) 예산을 삭감해 과학계에서 파장이 크다. 24년도 R&amp;D 예산은 25조 9천억 원으로 31조 778억 원이던 올해 대비 16.6% 줄었다. R&amp;D 예산은 기본적으로 정부에서 새로운 지식축적과 기술혁신을 촉진하는 데 지원하는 예산이다. 6월 28일 국가재정전략회의에서 윤석열 대통령은 정부 R&amp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“상관 명령이 명백한 불법 아니면 절대 복종” 판례[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230921115415640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230918170845327"/>
         <updated>2023-09-18T08:23:22.334Z</updated>
         <content type="html"><![CDATA[“직장 어린이집은 소수의, 운 좋은 사람들이 누리는 복지다. (어린이집 짓느니) 벌금을 내는 게 더 싸다”. 패션업체 무신사가 신사옥에 직장 어린이집 설치 계획을 전면 철회하며 최영준 최고재무책임자(CFO)가 해당 발언을 한 것으로 전해졌습니다. 무신사는 직장 어린이집 실수요 부족으로 설립을 무산한 것으로 밝혀졌는데요. 보육정책을 단순히 비용과 편익]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 11월 플라스틱 금지되는데 종이 빨대가 더 친환경이다?]]></title>
-        <id>https://v.daum.net/v/20230916201241627</id>
-        <link href="https://v.daum.net/v/20230916201241627"/>
-        <updated>2023-09-17T19:13:45.395Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 오는 11월부터는 플라스틱 빨대가 자취를 완전히 감춥니다. 대체재론 종이 빨대가 유력한데, 아무래도 종이니까 친환경적이겠지 라는 생각 드실 텐데요. 과연 진짜 그런지, 표선우 기자가 확인해봤습니다. 【 기자 】 요즘 대형 카페들은 플라스틱 빨대를 대신해 종이 빨대를 많이 사용하고 있죠. 종이는 재활용도 되다보니 흔히 친환]]></content>
     </entry>
 </feed>
