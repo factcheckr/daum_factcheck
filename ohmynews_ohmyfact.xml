@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-09-22T02:25:06.178Z</updated>
+    <updated>2023-09-22T03:20:35.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓]]></title>
+        <id>https://v.daum.net/v/20230922120303703</id>
+        <link href="https://v.daum.net/v/20230922120303703"/>
+        <updated>2023-09-22T03:20:24.663Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;지난 13일 박대출 국민의힘 정책위 의장이 올린 페이스북 글. 제목은 &lt;‘레이디버드법‘, 대통령 부인 이름 붙인 법입니다&gt;.ⓒ 박대출 의원 페이스북 갈무리&nbsp; [검증 대상]"개식용금지법, 김건희법'으로 별칭 쓰기 시작한 건 동물애호단체들" "개식용금지법을 '김건희법'이란 별칭으로 쓰기 시작한 것은 동물애호단체들입니다. 그리고 많은 언론들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세슘 우럭' '방사능 쥐노래미' 나오는데... 삼중수소 인체 농축 안된다?]]></title>
         <id>https://v.daum.net/v/20230921103011283</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230719181202758"/>
         <updated>2023-07-19T09:19:34.894Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;건강기능식품 회사의 어린이 영영제 광고가 인종 차별을 조장해 논란이 되고 있다. 서경덕 성신여대 교양교육대학 교수는 19일 자신의 페이스북에 이 광고를 소개하면서 “아이들 피부가 하얗게 된다는 한 회사의 영양제의 SNS 광고를 보고 저 역시 큰 충격을 받았다”면서 “‘너 아프리카 사람이야?’, ‘너희 나라로 돌아가!’라는 문구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인민군복 입고 윤석열 퇴진 촛불?" <조선> 보도 '거짓']]></title>
-        <id>https://v.daum.net/v/20230712202509305</id>
-        <link href="https://v.daum.net/v/20230712202509305"/>
-        <updated>2023-07-12T12:44:17.004Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;조선일보는 11일 ‘北인민군이 주먹 불끈? ‘尹 퇴진 촛불’ 포스터 보니‘라는 제목으로 “이른바 ‘촛불집회’ 주도 단체가 1만 회원 달성을 기념한 포스터에 북한 인민군 복장한 인물 사진을 사용했다는 네티즌의 의혹 제기가 있었다”고 보도했다ⓒ 조선일보&nbsp; [검증대상] "윤석열 퇴진 촛불행동 포스터에 북 인민군 복장" &lt;조선&gt; 보도]]></content>
     </entry>
 </feed>

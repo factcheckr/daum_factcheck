@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-22T02:25:06.177Z</updated>
+    <updated>2023-09-22T03:20:35.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20230922120303703</id>
+        <link href="https://v.daum.net/v/20230922120303703"/>
+        <updated>2023-09-22T03:18:31.568Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;지난 13일 박대출 국민의힘 정책위 의장이 올린 페이스북 글. 제목은 &lt;‘레이디버드법‘, 대통령 부인 이름 붙인 법입니다&gt;.ⓒ 박대출 의원 페이스북 갈무리&nbsp; [검증 대상]"개식용금지법, 김건희법'으로 별칭 쓰기 시작한 건 동물애호단체들" "개식용금지법을 '김건희법'이란 별칭으로 쓰기 시작한 것은 동물애호단체들입니다. 그리고 많은 언론들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 내년도 주요 R&D 예산 14% 삭감…나눠먹기·비효율 줄였다?]]></title>
         <id>https://v.daum.net/v/20230922000017927</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230920115721948"/>
         <updated>2023-09-22T02:23:48.226Z</updated>
         <content type="html"><![CDATA[정부가 10월 2일을 임시공휴일로 지정했으나 6일간의 추석연휴 기간을 활용해 해외여행을 계획하는 사람들이 급증하면서 정부가 의도했던 내수진작 효과가 예상보다 미풍에 그칠 수 있다는 우려가 나온다. 임시공휴일에 따른 경제적 파급효과가 5조 원에 가깝게 발생한다는 연구결과도 있는 만큼, 해외여행 수요를 억제하는 정책이 수반됐어야 한다는 지적이 제기된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 대선때 ‘개표기 조작’ 음모론 퍼뜨린 폭스, 1조원 배상[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230919120914644</id>
-        <link href="https://v.daum.net/v/20230919120914644"/>
-        <updated>2023-09-19T03:18:46.420Z</updated>
-        <content type="html"><![CDATA[정부·여당이 ‘가짜뉴스와 전쟁’을 선포한 가운데, 김기현 국민의힘 대표가 최근 SNS에 게재한 글이 화제가 됐다. 김 대표는 지난 17일 “책임을 지지 않아도 되는 자유는 그 누구도 누릴 수 없다. 표현의 자유가 폭넓게 인정되는 미국에서 허위 사실에 기반해 음모론을 보도한 언론사가 1조 원이 넘는 거액의 배상금을 물었다”는 내용의 글을 올렸다. 해]]></content>
     </entry>
 </feed>
