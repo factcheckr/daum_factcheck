@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-22T11:16:15.886Z</updated>
+    <updated>2023-09-22T12:35:37.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "망고 없네" 65억 소송…한국 스타벅스 어떨까]]></title>
+        <id>https://v.daum.net/v/20230922204522045</id>
+        <link href="https://v.daum.net/v/20230922204522045"/>
+        <updated>2023-09-22T12:34:19.719Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 최근 미국 소비자들이 스타벅스를 상대로 60억 원대 집단 소송을 제기했습니다. 과일 이름이 들어간 음료에 실제로는 과일들이 들어 있지 않다는 이유입니다. 그럼 우리나라 스타벅스에서 파는 음료들은 어떨지, 사실은 코너 박세용 기자가 확인해봤습니다. &lt;기자&gt; 소송에 걸린 미국 스타벅스의 제품은 과일 이름들이 포함된 리프레셔 음료 6종입니다. 망고 용과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20230922120303703</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230920175407920"/>
         <updated>2023-09-20T09:17:56.900Z</updated>
         <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내달 2일 임시공휴일, 경제효과 5조 예상… 일각 “해외여행 수요탓 내수진작 미미”[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20230920115721948</id>
-        <link href="https://v.daum.net/v/20230920115721948"/>
-        <updated>2023-09-22T02:23:48.226Z</updated>
-        <content type="html"><![CDATA[정부가 10월 2일을 임시공휴일로 지정했으나 6일간의 추석연휴 기간을 활용해 해외여행을 계획하는 사람들이 급증하면서 정부가 의도했던 내수진작 효과가 예상보다 미풍에 그칠 수 있다는 우려가 나온다. 임시공휴일에 따른 경제적 파급효과가 5조 원에 가깝게 발생한다는 연구결과도 있는 만큼, 해외여행 수요를 억제하는 정책이 수반됐어야 한다는 지적이 제기된다.]]></content>
     </entry>
 </feed>
