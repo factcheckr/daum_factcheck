@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-22T01:16:34.691Z</updated>
+    <updated>2023-09-22T02:25:06.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내달 2일 임시공휴일, 경제효과 5조 예상… 일각 “해외여행 수요탓 내수진작 미미”[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20230920115721948</id>
+        <link href="https://v.daum.net/v/20230920115721948"/>
+        <updated>2023-09-22T02:23:48.226Z</updated>
+        <content type="html"><![CDATA[정부가 10월 2일을 임시공휴일로 지정했으나 6일간의 추석연휴 기간을 활용해 해외여행을 계획하는 사람들이 급증하면서 정부가 의도했던 내수진작 효과가 예상보다 미풍에 그칠 수 있다는 우려가 나온다. 임시공휴일에 따른 경제적 파급효과가 5조 원에 가깝게 발생한다는 연구결과도 있는 만큼, 해외여행 수요를 억제하는 정책이 수반됐어야 한다는 지적이 제기된다.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美 대선때 ‘개표기 조작’ 음모론 퍼뜨린 폭스, 1조원 배상[팩트체크]]]></title>
         <id>https://v.daum.net/v/20230919120914644</id>
         <link href="https://v.daum.net/v/20230919120914644"/>
         <updated>2023-09-19T03:18:46.420Z</updated>
         <content type="html"><![CDATA[정부·여당이 ‘가짜뉴스와 전쟁’을 선포한 가운데, 김기현 국민의힘 대표가 최근 SNS에 게재한 글이 화제가 됐다. 김 대표는 지난 17일 “책임을 지지 않아도 되는 자유는 그 누구도 누릴 수 없다. 표현의 자유가 폭넓게 인정되는 미국에서 허위 사실에 기반해 음모론을 보도한 언론사가 1조 원이 넘는 거액의 배상금을 물었다”는 내용의 글을 올렸다. 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 초밥 먹기 전 "잠시만요"…방사능 측정기 효과는]]></title>
-        <id>https://v.daum.net/v/20230918204207695</id>
-        <link href="https://v.daum.net/v/20230918204207695"/>
-        <updated>2023-09-18T12:35:55.286Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 오염수 방류 이후, 일부 소비자들은 혹시나 하는 걱정에 휴대용 측정기로 직접 수산물의 방사능을&nbsp;재는 경우도 있습니다. 휴대용 측정기 판매 업체도 급속히 늘고 있는데, 이 측정기가 과연 효과가 있을지 팩트체크 사실은 코너에서 확인했습니다. 박세용 기자입니다. &lt;기자&gt; 한 중국인이 일본 도쿄에서 초밥을 먹으면서 일일이 방사능을 측정하는 영상이 최근 화]]></content>
     </entry>
 </feed>
