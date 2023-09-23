@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-23T22:18:18.746Z</updated>
+    <updated>2023-09-23T23:17:31.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] '적자·부채' 주식은 '백지신탁' 불가능?...김행 해명 따져보니]]></title>
+        <id>https://v.daum.net/v/20230924053416666</id>
+        <link href="https://v.daum.net/v/20230924053416666"/>
+        <updated>2023-09-23T23:16:21.198Z</updated>
+        <content type="html"><![CDATA[[앵커] 여성가족부 장관 후보자 인사청문회를 앞두고 난데없이 '주식 파킹'이 논란이 되고 있습니다. 김행 후보자가 2013년 청와대 대변인이 될 때 보유 주식을 백지신탁하지 않고 시누이에게 넘긴 과정을 두고 하는 말인데요. 후보자는 회사가 경영이 어려워 백지신탁 자체가 불가능했다고 해명했는데, 맞는 말인지 부장원 기자가 따져봤습니다. [기자] 김행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화려하지 않은 버섯'은 독 없다?…"수수해도 치명" 야생 버섯 주의[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230923074801607</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230921090513012"/>
         <updated>2023-09-21T02:22:20.839Z</updated>
         <content type="html"><![CDATA[“기본적으로 합의된 수준 이상의 노출사진을 판매한 적도 없고, 모델들이 항의 했을 때 계약서에 서명하지 않았냐며 계약서를 들이민 적도 없습니다. 모델이 사진을 재보정 해달라고 하거나, 제외 해달라고 하면 모두 들어주었습니다. 관련 대화 증거도 모두 확보하여 경찰에 증거로 제출 한 상태입니다.” 여성의류 쇼핑몰 및 성인화보 판매 업체 ‘리히’는 지난 18일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 해외도 언론사 상대로 가짜뉴스 단속 강화 중?]]></title>
-        <id>https://v.daum.net/v/20230920200112826</id>
-        <link href="https://v.daum.net/v/20230920200112826"/>
-        <updated>2023-09-20T11:15:13.696Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 방송통신위원회가 최근 가짜뉴스 근절방안'을 내놓았습니다. 방송통신심의위원회를 통해 가짜뉴스를 신속 심의, 구제까지 하는 '패스트트랙'을 시행하고, 허위보도 매체를 바로 퇴출하는 원스트라이크 아웃' 등을 추진한다는 겁니다. 특히, 선거와 국가재난, 금융시장, 그리고 개인에게 치명적인 가짜뉴스는 심의 전에라도 선제적 조치를 진행하기]]></content>
     </entry>
 </feed>
