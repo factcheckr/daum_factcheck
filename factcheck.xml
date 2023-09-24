@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-24T08:21:51.362Z</updated>
+    <updated>2023-09-24T09:17:10.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중증장애인이 문고리에 스스로 수갑을 채운 이유[뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20230924070506220</id>
+        <link href="https://v.daum.net/v/20230924070506220"/>
+        <updated>2023-09-24T09:15:40.460Z</updated>
+        <content type="html"><![CDATA[문석영(31)씨는 지난해 3월부터 저축을 할 수 있었다. “실은 비싼 음식”이라며 슬며시 말하던 ‘아웃백’(패밀리레스토랑) 메뉴도 가끔씩 먹을 수 있게 됐다. 시간외 수당까지 포함해 그가 한달에 번 돈은 120만원 남짓. ‘기초 생활’을 보장하기 위해 국가가 지급한 돈 외에 중증장애인 문씨가 또 다른 중증장애인의 모임을 지원하고 상담하는 ‘동료지원가’로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] '적자·부채' 주식은 '백지신탁' 불가능?...김행 해명 따져보니]]></title>
         <id>https://v.daum.net/v/20230924053416666</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230921103002257"/>
         <updated>2023-09-21T02:22:20.834Z</updated>
         <content type="html"><![CDATA[[김시연, 봉주영 기자] &nbsp;▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; 지난 8월 24일 시작된 일본의 후쿠시마 오염수 1차 방류가 9월 11일 종료됐다. 방류 기간 우리    정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] “모델 동의 없는 노출사진 유포, 그게 범죄입니다”]]></title>
-        <id>https://v.daum.net/v/20230921090513012</id>
-        <link href="https://v.daum.net/v/20230921090513012"/>
-        <updated>2023-09-21T02:22:20.839Z</updated>
-        <content type="html"><![CDATA[“기본적으로 합의된 수준 이상의 노출사진을 판매한 적도 없고, 모델들이 항의 했을 때 계약서에 서명하지 않았냐며 계약서를 들이민 적도 없습니다. 모델이 사진을 재보정 해달라고 하거나, 제외 해달라고 하면 모두 들어주었습니다. 관련 대화 증거도 모두 확보하여 경찰에 증거로 제출 한 상태입니다.” 여성의류 쇼핑몰 및 성인화보 판매 업체 ‘리히’는 지난 18일]]></content>
     </entry>
 </feed>
