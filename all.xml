@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-25T22:18:47.324Z</updated>
+    <updated>2023-09-25T23:19:11.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 국내 지방 공항은 비행기 대신 파리 날린다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230926075828426</id>
+        <link href="https://v.daum.net/v/20230926075828426"/>
+        <updated>2023-09-25T23:17:35.295Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)  세 번째 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 얼마 전 새만금 잼버리 파행운영이 새만금 국제공항 건설에]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 119 구급차, 내가 원하는 병원으로 이송 요구할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230926075828428</id>
+        <link href="https://v.daum.net/v/20230926075828428"/>
+        <updated>2023-09-25T23:17:35.295Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt;　최근 아이가 고열에 시달린다며 119를 부른 부모가 2시간 거]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 탕후루가 카페 음료보다 칼로리가 낮다고? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230926075818425</id>
+        <link href="https://v.daum.net/v/20230926075818425"/>
+        <updated>2023-09-25T23:17:35.301Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) :&nbsp;지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인]"촬영하니 돌아가세요"…무조건 따라야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230925194645525</id>
@@ -52,27 +73,6 @@
         <link href="https://v.daum.net/v/20230922000017927"/>
         <updated>2023-09-21T15:18:18.162Z</updated>
         <content type="html"><![CDATA[올해보다 3조4000억 원 깎여 기초연구·출연연구기관 운영 예산도 삭감 '지출 구조조정' 세부 내역 불투명 [더팩트ㅣ용산=박숙현 기자] 내년도 주요 R&amp;D 예산 삭감이 정치권 현안으로 떠올랐다. 윤석열 정부는 그동안 '정부 총지출의 5%를 R&amp;D 예산으로 유지하겠다'고 밝혀왔기에 예상 밖의 일이었다. 당초 과학기술정보통신부는 지난 6월 내년도 R&amp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R&D 투자 규모가 3% 대가 된 건 드문 일? [SNU팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230921164003078</id>
-        <link href="https://v.daum.net/v/20230921164003078"/>
-        <updated>2023-09-21T08:23:03.152Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 정부가 내년도 정부연구개발(R&amp;D) 예산을 삭감해 과학계에서 파장이 크다. 24년도 R&amp;D 예산은 25조 9천억 원으로 31조 778억 원이던 올해 대비 16.6% 줄었다. R&amp;D 예산은 기본적으로 정부에서 새로운 지식축적과 기술혁신을 촉진하는 데 지원하는 예산이다. 6월 28일 국가재정전략회의에서 윤석열 대통령은 정부 R&amp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“상관 명령이 명백한 불법 아니면 절대 복종” 판례[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230921115415640</id>
-        <link href="https://v.daum.net/v/20230921115415640"/>
-        <updated>2023-09-21T03:18:21.448Z</updated>
-        <content type="html"><![CDATA[지난 7월 19일 수해피해 실종자 수색작전 중 사망한 해병대 채모 상병 순직사건 수사 관련 전 해병대 수사단장 박정훈 대령에 대한 ‘항명죄’ 여부를 놓고 박 대령 측과 국방부 법무관실 간 치열한 법리 다툼이 벌어지고 있다. 이와 관련, 군사법원이 과거 “명백한 위법이 아니면 상관의 명령에 복종해야 한다”는 취지의 판결을 한 것으로 확인됐다. 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세슘 우럭' '방사능 쥐노래미' 나오는데... 삼중수소 인체 농축 안된다? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230921103011283</id>
-        <link href="https://v.daum.net/v/20230921103011283"/>
-        <updated>2023-09-21T02:22:20.833Z</updated>
-        <content type="html"><![CDATA[[김시연, 봉주영 기자] ▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; "정부는 시민단체를 '오염수 괴담 유포자'라고 공격하고, 오염수 불안에 떠는 시민을 괴담에 휘둘리는 미욱한 사람]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["망고 없네" 65억 소송…한국 스타벅스 어떨까 (다음 뉴스 ─ SBS 사실은)]]></title>
