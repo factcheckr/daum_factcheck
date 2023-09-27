@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-27T21:17:04.293Z</updated>
+    <updated>2023-09-27T22:18:24.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수입금지 지역' 日수산물, 가공품으로 국내 수입됐을까[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20230928070309726</id>
+        <link href="https://v.daum.net/v/20230928070309726"/>
+        <updated>2023-09-27T22:17:08.498Z</updated>
+        <content type="html"><![CDATA[편집자 주도쿄전력의 후쿠시마 오염수 방류 이후 처음으로 맞는 추석 명절. 일본 수산물에 대한 방사능 검사가 강화됐지만 소비자 불안은 여전합니다. 이런 상황에 후쿠시마 등 수산물 수입금지 지역 '수산가공품'이 국내 수입된 사실이 재조명됐습니다. 이에 CBS노컷뉴스는 수입금지된 지역의 수산물로 만든 '수산가공품'도 수입된 적 있는지 팩트체크했습니다. 일본의 후]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일본군 장교 친일행위 판정기준은 독립군 토벌이다?]]></title>
+        <id>https://v.daum.net/v/20230928070042600</id>
+        <link href="https://v.daum.net/v/20230928070042600"/>
+        <updated>2023-09-27T22:17:08.501Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이웅 기자 = 6·25 전쟁영웅 백선엽(1920~2020년) 장군에 대한 역사적 평가를 둘러싼 해묵은 논란이 친일행위 판단 기준에 대한 시비로 옮겨붙었다. 박민식 국가보훈부 장관이 지난 6일 국회 정무위원회에서 일제강점기 만주군 소위로 임관한 백선엽 장군이 친일파라면 흥남시청 농업계장을 한 문재인 전 대통령의 부친 문용형씨도 친일파라고 하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 아이폰15 한국 출시 가격은 하락한 환율이 반영 안 됐다?]]></title>
         <id>https://v.daum.net/v/20230927171747795</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230923074801607"/>
         <updated>2023-09-22T23:16:58.843Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자)◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘 주제는 가을철 야외활동과 관련된 잘못 알려진 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "망고 없네" 65억 소송…한국 스타벅스 어떨까]]></title>
-        <id>https://v.daum.net/v/20230922204522045</id>
-        <link href="https://v.daum.net/v/20230922204522045"/>
-        <updated>2023-09-22T12:34:19.719Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 최근 미국 소비자들이 스타벅스를 상대로 60억 원대 집단 소송을 제기했습니다. 과일 이름이 들어간 음료에 실제로는 과일들이 들어 있지 않다는 이유입니다. 그럼 우리나라 스타벅스에서 파는 음료들은 어떨지, 사실은 코너 박세용 기자가 확인해봤습니다. &lt;기자&gt; 소송에 걸린 미국 스타벅스의 제품은 과일 이름들이 포함된 리프레셔 음료 6종입니다. 망고 용과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20230922120303703</id>
-        <link href="https://v.daum.net/v/20230922120303703"/>
-        <updated>2023-09-22T03:18:31.568Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;지난 13일 박대출 국민의힘 정책위 의장이 올린 페이스북 글. 제목은 &lt;‘레이디버드법‘, 대통령 부인 이름 붙인 법입니다&gt;.ⓒ 박대출 의원 페이스북 갈무리&nbsp; [검증 대상]"개식용금지법, 김건희법'으로 별칭 쓰기 시작한 건 동물애호단체들" "개식용금지법을 '김건희법'이란 별칭으로 쓰기 시작한 것은 동물애호단체들입니다. 그리고 많은 언론들]]></content>
     </entry>
 </feed>
