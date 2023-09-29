@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-09-29T21:16:26.112Z</updated>
+    <updated>2023-09-29T22:18:21.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 약국에 약이 부족해 약사들끼리 품앗이를 한다?]]></title>
+        <id>https://v.daum.net/v/20230930070025864</id>
+        <link href="https://v.daum.net/v/20230930070025864"/>
+        <updated>2023-09-29T22:17:15.935Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김수지 인턴기자 = 시중에 유통되는 일부 의약품의 수급 불안정으로 인한 일선 약사들과 소비자들의 고충이 지속되는 모습이다. 맘카페 등 인터넷 커뮤니티에는 '약을 구한다' '특정 약을 보유하고 있는 약국이 어디냐'는 글이 올라오는가 하면, 약국의 재고 소진으로 약을 구하지 못하고 '약국 뺑뺑이'를 돌았다는 글도 있다. 한 네티즌은 "약사들도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日'수입금지' 지역서 만들었지만 '수산가공품'은 안전하다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230929070300877</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230924070506220"/>
         <updated>2023-09-24T09:15:40.460Z</updated>
         <content type="html"><![CDATA[문석영(31)씨는 지난해 3월부터 저축을 할 수 있었다. “실은 비싼 음식”이라며 슬며시 말하던 ‘아웃백’(패밀리레스토랑) 메뉴도 가끔씩 먹을 수 있게 됐다. 시간외 수당까지 포함해 그가 한달에 번 돈은 120만원 남짓. ‘기초 생활’을 보장하기 위해 국가가 지급한 돈 외에 중증장애인 문씨가 또 다른 중증장애인의 모임을 지원하고 상담하는 ‘동료지원가’로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] '적자·부채' 주식은 '백지신탁' 불가능?...김행 해명 따져보니]]></title>
-        <id>https://v.daum.net/v/20230924053416666</id>
-        <link href="https://v.daum.net/v/20230924053416666"/>
-        <updated>2023-09-23T23:16:21.198Z</updated>
-        <content type="html"><![CDATA[[앵커] 여성가족부 장관 후보자 인사청문회를 앞두고 난데없이 '주식 파킹'이 논란이 되고 있습니다. 김행 후보자가 2013년 청와대 대변인이 될 때 보유 주식을 백지신탁하지 않고 시누이에게 넘긴 과정을 두고 하는 말인데요. 후보자는 회사가 경영이 어려워 백지신탁 자체가 불가능했다고 해명했는데, 맞는 말인지 부장원 기자가 따져봤습니다. [기자] 김행]]></content>
     </entry>
 </feed>
