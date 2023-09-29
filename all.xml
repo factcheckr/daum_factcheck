@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-29T22:18:21.777Z</updated>
+    <updated>2023-09-29T23:19:29.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임시공휴일에 모든 직장인이 쉴 수 없는 이유는?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20230930080300555</id>
+        <link href="https://v.daum.net/v/20230930080300555"/>
+        <updated>2023-09-29T23:18:18.072Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 주제는 '임시공휴일은 모두의 휴일인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 약국에 약이 부족해 약사들끼리 품앗이를 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230930070025864</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230925194645525"/>
         <updated>2023-09-25T11:15:13.789Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 요즘 동네 길거리에서도 영화 촬영을 이유로 길을 막는 상황이 많이 벌어지는데요. 간혹 행인들과 시비까지 붙곤 하는데, 이런 경우 그냥 촬영 협조에 따라야하는 걸까요? 표선우 기자가 사실확인으로 알아봤습니다. 【 기자 】 스쿨존 등굣길을 점거하고, 남의 집 대문 앞에 떡하니 주차를 하곤 통행을 막습니다. 이렇게 최근 시민들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중증장애인이 문고리에 스스로 수갑을 채운 이유[뉴스AS] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230924070506220</id>
-        <link href="https://v.daum.net/v/20230924070506220"/>
-        <updated>2023-09-24T09:15:40.460Z</updated>
-        <content type="html"><![CDATA[문석영(31)씨는 지난해 3월부터 저축을 할 수 있었다. “실은 비싼 음식”이라며 슬며시 말하던 ‘아웃백’(패밀리레스토랑) 메뉴도 가끔씩 먹을 수 있게 됐다. 시간외 수당까지 포함해 그가 한달에 번 돈은 120만원 남짓. ‘기초 생활’을 보장하기 위해 국가가 지급한 돈 외에 중증장애인 문씨가 또 다른 중증장애인의 모임을 지원하고 상담하는 ‘동료지원가’로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["망고 없네" 65억 소송…한국 스타벅스 어떨까 (다음 뉴스 ─ SBS 사실은)]]></title>
