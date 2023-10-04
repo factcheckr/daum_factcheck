@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-03T23:19:17.324Z</updated>
+    <updated>2023-10-04T01:19:07.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대규모 아파트 단지 입주로 인한 인근 전셋값 하락, 사실이다.]]></title>
+        <id>https://v.daum.net/v/20231004094200099</id>
+        <link href="https://v.daum.net/v/20231004094200099"/>
+        <updated>2023-10-04T01:17:40.640Z</updated>
+        <content type="html"><![CDATA[부동산업계에서는 ‘대규모 단지 입주가 이뤄지면 인근 아파트 전세가격이 떨어진다’는 목소리가 존재한다. 신규 아파트 입주가 진행되면 전세 공급이 늘면서 발생하는 전세 가격 하방 압력이 인근 단지에도 적용된다는 것이다. 올해 서울 강남권은 신규 단지 입주 물량이 전년 대비 큰 폭으로 늘었다. ‘강남불패’라는 부동산업계 용어처럼 이 일대는 국내 부동산시장에서 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임시공휴일에 모든 직장인이 쉴 수 없는 이유는?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20230930080300555</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230926075818425"/>
         <updated>2023-09-25T23:17:35.301Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) :&nbsp;지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인]"촬영하니 돌아가세요"…무조건 따라야 한다?]]></title>
-        <id>https://v.daum.net/v/20230925194645525</id>
-        <link href="https://v.daum.net/v/20230925194645525"/>
-        <updated>2023-09-25T11:15:13.789Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 요즘 동네 길거리에서도 영화 촬영을 이유로 길을 막는 상황이 많이 벌어지는데요. 간혹 행인들과 시비까지 붙곤 하는데, 이런 경우 그냥 촬영 협조에 따라야하는 걸까요? 표선우 기자가 사실확인으로 알아봤습니다. 【 기자 】 스쿨존 등굣길을 점거하고, 남의 집 대문 앞에 떡하니 주차를 하곤 통행을 막습니다. 이렇게 최근 시민들의]]></content>
     </entry>
 </feed>
