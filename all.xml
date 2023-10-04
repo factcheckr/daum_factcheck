@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T11:16:56.509Z</updated>
+    <updated>2023-10-04T12:38:19.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231004203043704</id>
+        <link href="https://v.daum.net/v/20231004203043704"/>
+        <updated>2023-10-04T12:37:12.746Z</updated>
+        <content type="html"><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대규모 아파트 단지 입주로 인한 인근 전셋값 하락, 사실이다. [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231004094200099</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20230926075828428"/>
         <updated>2023-09-25T23:17:35.295Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt;　최근 아이가 고열에 시달린다며 119를 부른 부모가 2시간 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 탕후루가 카페 음료보다 칼로리가 낮다고? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230926075818425</id>
-        <link href="https://v.daum.net/v/20230926075818425"/>
-        <updated>2023-09-25T23:17:35.301Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) :&nbsp;지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["망고 없네" 65억 소송…한국 스타벅스 어떨까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;건강기능식품 회사의 어린이 영영제 광고가 인종 차별을 조장해 논란이 되고 있다. 서경덕 성신여대 교양교육대학 교수는 19일 자신의 페이스북에 이 광고를 소개하면서 “아이들 피부가 하얗게 된다는 한 회사의 영양제의 SNS 광고를 보고 저 역시 큰 충격을 받았다”면서 “‘너 아프리카 사람이야?’, ‘너희 나라로 돌아가!’라는 문구]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231004203043704</id>
+        <link href="https://v.daum.net/v/20231004203043704"/>
+        <updated>2023-10-04T12:38:18.148Z</updated>
+        <content type="html"><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20230619203606739</id>
         <link href="https://v.daum.net/v/20230619203606739"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20221130200504987"/>
         <updated>2022-11-30T11:18:44.795Z</updated>
         <content type="html"><![CDATA[[앵커] 안전운임제의 대상을 자동차 운반차나 곡물 운반차 등으로 확대하는지 여부가 이번 파업의 쟁점 중 하나입니다. 정부는 해당 화물은 이미 소득이 높아서 안전 운임제가 필요 없다고 하고, 화물연대는 그러지 않다는 입장입니다. 누구 말이 맞는지 윤영탁 기자가 팩트체크 해봤습니다. [기자] 완성차를 실어나르는 화물차 노동자와 곡물 운반 노동자의 임금입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과속·과적 감소? 사고 되레 증가? 안전운임제 쟁점은 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20221124201345399</id>
-        <link href="https://v.daum.net/v/20221124201345399"/>
-        <updated>2022-11-24T11:18:07.941Z</updated>
-        <content type="html"><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떻습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 20]]></content>
     </entry>
 </feed>

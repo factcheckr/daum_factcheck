@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-04T11:16:56.492Z</updated>
+    <updated>2023-10-04T12:38:19.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작?]]></title>
+        <id>https://v.daum.net/v/20231004203043704</id>
+        <link href="https://v.daum.net/v/20231004203043704"/>
+        <updated>2023-10-04T12:37:12.746Z</updated>
+        <content type="html"><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대규모 아파트 단지 입주로 인한 인근 전셋값 하락, 사실이다. [팩트체크]]]></title>
         <id>https://v.daum.net/v/20231004094200099</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230926075828428"/>
         <updated>2023-09-25T23:17:35.295Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt;　최근 아이가 고열에 시달린다며 119를 부른 부모가 2시간 거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 탕후루가 카페 음료보다 칼로리가 낮다고?]]></title>
-        <id>https://v.daum.net/v/20230926075818425</id>
-        <link href="https://v.daum.net/v/20230926075818425"/>
-        <updated>2023-09-25T23:17:35.301Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) :&nbsp;지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
     </entry>
 </feed>
