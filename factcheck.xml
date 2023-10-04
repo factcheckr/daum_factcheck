@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-04T19:16:05.564Z</updated>
+    <updated>2023-10-04T20:20:27.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트파인더] "40억 vs 1000억" 강서구청장 보선 비용 논란, 사실은?]]></title>
+        <id>https://v.daum.net/v/20231005043038919</id>
+        <link href="https://v.daum.net/v/20231005043038919"/>
+        <updated>2023-10-04T20:19:02.588Z</updated>
+        <content type="html"><![CDATA[오는 11일 실시되는 서울 강서구청장 보궐선거는 전 구청장이었던 김태우 국민의힘 후보의 당선무효로  치러지는 선거다. 더불어민주당이 이 점을 파고들어 "김 후보 탓에 선거 경비 40억 원이 발생한다"고 강조하자, 국민의힘은 "민주당은 박원순, 오거돈, 안희정 등 시·도지사의 성비위로 1,000억 원대 선거 경비를 발생시킨 정당"이라며 맞불을 놓았다.  양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작?]]></title>
         <id>https://v.daum.net/v/20231004203043704</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230926075828426"/>
         <updated>2023-09-25T23:17:35.295Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)  세 번째 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 얼마 전 새만금 잼버리 파행운영이 새만금 국제공항 건설에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 119 구급차, 내가 원하는 병원으로 이송 요구할 수 있다?]]></title>
-        <id>https://v.daum.net/v/20230926075828428</id>
-        <link href="https://v.daum.net/v/20230926075828428"/>
-        <updated>2023-09-25T23:17:35.295Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 9월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘) 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt;　최근 아이가 고열에 시달린다며 119를 부른 부모가 2시간 거]]></content>
     </entry>
 </feed>
