@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-06T22:17:55.305Z</updated>
+    <updated>2023-10-06T23:18:49.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北, 축구 중계에 등장한 '괴뢰'…우리나라 법에도 있다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20231007074800186</id>
+        <link href="https://v.daum.net/v/20231007074800186"/>
+        <updated>2023-10-06T23:17:43.234Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 주제는 항저우 아시안게임 명칭대전이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "후쿠시마산 수산물 659톤 수입"…확인해보니]]></title>
         <id>https://v.daum.net/v/20231006195405250</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230930070025864"/>
         <updated>2023-09-29T22:17:15.935Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김수지 인턴기자 = 시중에 유통되는 일부 의약품의 수급 불안정으로 인한 일선 약사들과 소비자들의 고충이 지속되는 모습이다. 맘카페 등 인터넷 커뮤니티에는 '약을 구한다' '특정 약을 보유하고 있는 약국이 어디냐'는 글이 올라오는가 하면, 약국의 재고 소진으로 약을 구하지 못하고 '약국 뺑뺑이'를 돌았다는 글도 있다. 한 네티즌은 "약사들도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日'수입금지' 지역서 만들었지만 '수산가공품'은 안전하다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230929070300877</id>
-        <link href="https://v.daum.net/v/20230929070300877"/>
-        <updated>2023-09-28T22:17:14.654Z</updated>
-        <content type="html"><![CDATA[편집자 주도쿄전력의 후쿠시마 오염수 방류 이후 처음으로 맞는 추석 명절. 일본 수산물에 대한 방사능 검사가 강화됐지만 소비자 불안은 여전합니다. 이런 상황에 후쿠시마 등 수산물 수입금지 지역 '수산가공품'이 국내 수입된 사실이 재조명됐습니다. 이에 CBS노컷뉴스는 방사능이 미량 검출된 일본 식품은 인체에 정말 무해한 것인지 팩트체크했습니다. 방사능이 미량]]></content>
     </entry>
 </feed>
