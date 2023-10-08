@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-08T02:27:14.200Z</updated>
+    <updated>2023-10-08T03:18:56.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 골프장 숫자가 세계 8위라고?]]></title>
+        <id>https://v.daum.net/v/20231008113111277</id>
+        <link href="https://v.daum.net/v/20231008113111277"/>
+        <updated>2023-10-08T03:17:47.624Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "한국 골프장 숫자가 세계 8위 규]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 맨발 걷기, 정말로 건강에 효과 있을까?]]></title>
+        <id>https://v.daum.net/v/20231008113011256</id>
+        <link href="https://v.daum.net/v/20231008113011256"/>
+        <updated>2023-10-08T03:17:47.625Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '효도백신 3종세트', 정말 효도 선물일까?]]></title>
+        <id>https://v.daum.net/v/20231008113004251</id>
+        <link href="https://v.daum.net/v/20231008113004251"/>
+        <updated>2023-10-08T03:17:47.633Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 세 번째 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 가을이 되면 슬슬 챙기셔야 할 것 중 하나가 독감백신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北, 축구 중계에 등장한 '괴뢰'…우리나라 법에도 있다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20231007074800186</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20231004203043704"/>
         <updated>2023-10-04T12:37:12.746Z</updated>
         <content type="html"><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대규모 아파트 단지 입주로 인한 인근 전셋값 하락, 사실이다. [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20231004094200099</id>
-        <link href="https://v.daum.net/v/20231004094200099"/>
-        <updated>2023-10-04T01:17:40.640Z</updated>
-        <content type="html"><![CDATA[부동산업계에서는 ‘대규모 단지 입주가 이뤄지면 인근 아파트 전세가격이 떨어진다’는 목소리가 존재한다. 신규 아파트 입주가 진행되면 전세 공급이 늘면서 발생하는 전세 가격 하방 압력이 인근 단지에도 적용된다는 것이다. 올해 서울 강남권은 신규 단지 입주 물량이 전년 대비 큰 폭으로 늘었다. ‘강남불패’라는 부동산업계 용어처럼 이 일대는 국내 부동산시장에서 상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시공휴일에 모든 직장인이 쉴 수 없는 이유는?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20230930080300555</id>
-        <link href="https://v.daum.net/v/20230930080300555"/>
-        <updated>2023-09-29T23:18:18.072Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 주제는 '임시공휴일은 모두의 휴일인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 약국에 약이 부족해 약사들끼리 품앗이를 한다?]]></title>
-        <id>https://v.daum.net/v/20230930070025864</id>
-        <link href="https://v.daum.net/v/20230930070025864"/>
-        <updated>2023-09-29T22:17:15.935Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김수지 인턴기자 = 시중에 유통되는 일부 의약품의 수급 불안정으로 인한 일선 약사들과 소비자들의 고충이 지속되는 모습이다. 맘카페 등 인터넷 커뮤니티에는 '약을 구한다' '특정 약을 보유하고 있는 약국이 어디냐'는 글이 올라오는가 하면, 약국의 재고 소진으로 약을 구하지 못하고 '약국 뺑뺑이'를 돌았다는 글도 있다. 한 네티즌은 "약사들도]]></content>
     </entry>
 </feed>
