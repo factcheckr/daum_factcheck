@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T19:16:23.089Z</updated>
+    <updated>2023-10-11T20:20:51.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[與 “민주, 선거결과 입맛대로 조작” 野 “보선 전 발표… 정치 개입 말라”[팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231012050123483</id>
+        <link href="https://v.daum.net/v/20231012050123483"/>
+        <updated>2023-10-11T20:19:08.420Z</updated>
+        <content type="html"><![CDATA[국가정보원이 지난 10일 중앙선거관리위원회에 대한 보안 점검 결과를 밝힌 뒤 북한 등 외부 세력에 의한 투개표 시스템 해킹이 가능한 것인지 의문이 증폭되고 있다. 국정원은 “투개표 시스템과 개표 결과 조작이 가능한 상태”라고 주장한 반면 선관위는 “사실상 불가능하다”고 반박했기 때문이다. 논란은 확산됐다. 김기현 국민의힘 대표는 11일 페이스북에 “민주당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231011144810652</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231006181608071"/>
         <updated>2023-10-06T09:17:57.906Z</updated>
         <content type="html"><![CDATA[강남구 역삼동에 거주하는 중학교 2학년 염 씨(15). 학교로 나설 때면 주택 문에는 ‘A 피트니스 파격 할인’, ‘5분 대출’ 등의 글귀가 적힌 전단이 덕지덕지 붙어 있습니다. 길가의 전봇대에도, 학원 가는 지하철 열차 안에도 마찬가지입니다. 늦은 저녁, 염 씨가 학원을 마치고 돌아오는 오후 10시. 역삼역 출구에 오전과는 다른 전단이 지저분하게 퍼져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤석열 검찰'도 인정했는데, "블랙리스트 없었다"는 유인촌 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231006181208865</id>
-        <link href="https://v.daum.net/v/20231006181208865"/>
-        <updated>2023-10-06T09:17:57.921Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유인촌 문화체육관광부 장관 후보자가 5일 서울 여의도 국회에서 열린 인사청문회에서 안경을 고쳐쓰고 있다. ⓒ 남소연&nbsp; 유인촌 문화체육관광부(아래 문체부) 장관 후보자가 이명박(MB) 정부 당시 '문화예술계 블랙리스트' 존재 사실 자체를 부인해 논란이 되고 있다. 이명박 정부 초대 문체부 장관을 지낸 유 후보자는 지난 5일 국회 인사청문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["후쿠시마산 수산물 659톤 수입"…확인해보니 (다음 뉴스 ─ SBS 사실은)]]></title>
