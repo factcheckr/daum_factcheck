@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T05:19:23.322Z</updated>
+    <updated>2023-10-11T06:26:36.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231011144810652</id>
+        <link href="https://v.daum.net/v/20231011144810652"/>
+        <updated>2023-10-11T06:25:25.466Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이스라엘 팩트체크 매체인 '페이크 리포터'는 지난 8일 SNS로 확산된 우리에 갇힌 어린이 영상이 전쟁 발발 이전부터 틱톡에 올라왔다고 밝혔다.ⓒ 페이크리포터&nbsp; &nbsp; 최근 틱톡이나 트위터(현 'X') 등에 번지고 있는 팔레스타인 무장 단체인 하마스가 이스라엘 어린이를 납치해 철창에 가두고 조롱하는 장면을 담은 영상은 사실이 아닌 것으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나라빚 증가 속도, 文정부가 尹정부보다 2배 빨랐다[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231011112040428</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231006181208865"/>
         <updated>2023-10-06T09:17:57.921Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유인촌 문화체육관광부 장관 후보자가 5일 서울 여의도 국회에서 열린 인사청문회에서 안경을 고쳐쓰고 있다. ⓒ 남소연&nbsp; 유인촌 문화체육관광부(아래 문체부) 장관 후보자가 이명박(MB) 정부 당시 '문화예술계 블랙리스트' 존재 사실 자체를 부인해 논란이 되고 있다. 이명박 정부 초대 문체부 장관을 지낸 유 후보자는 지난 5일 국회 인사청문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]반도체 감산 한창인데 생산·출하 늘었다는 통계청 진실은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231005091658714</id>
-        <link href="https://v.daum.net/v/20231005091658714"/>
-        <updated>2023-10-05T23:18:59.202Z</updated>
-        <content type="html"><![CDATA[국내 반도체산업을 주도하는 삼성전자와 SK하이닉스가 메모리반도체 수요·공급 균형을 맞추기 위해 감산에 한창이다. 그러나 통계청이 4일 발표한 8월 산업활동동향을 보면 반도체 생산과 출하가 모두 크게 늘었다. 상식적으로 감산 중인 상황에서 생산량이 늘어났다는 것은 이해하기 어렵다. 왜 이런 숫자가 나왔을까. 통계청은 반도체 생산이 13개월만에 반등해 반도체]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["후쿠시마산 수산물 659톤 수입"…확인해보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[여야가 과거 민주화운동 희생자를 국가유공자로 지정해 예우하는 ‘민주유공자법’의 제정을 놓고 연일 정면 충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”며 2년 만에 다시 입법에 나선 반면 국민의힘은 해당 법안이 대입 특별전형과 공무원·공기업 임용 가산점 등을 주는 ‘셀프 특혜’ ‘신분세습법’이라고 반대하고 있다. 일각에서는]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
+        <id>https://v.daum.net/v/20231011144810652</id>
+        <link href="https://v.daum.net/v/20231011144810652"/>
+        <updated>2023-10-11T06:26:25.664Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이스라엘 팩트체크 매체인 '페이크 리포터'는 지난 8일 SNS로 확산된 우리에 갇힌 어린이 영상이 전쟁 발발 이전부터 틱톡에 올라왔다고 밝혔다.ⓒ 페이크리포터&nbsp; &nbsp; 최근 틱톡이나 트위터(현 'X') 등에 번지고 있는 팔레스타인 무장 단체인 하마스가 이스라엘 어린이를 납치해 철창에 가두고 조롱하는 장면을 담은 영상은 사실이 아닌 것으로]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['윤석열 검찰'도 인정했는데, "블랙리스트 없었다"는 유인촌 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
         <id>https://v.daum.net/v/20231006181208865</id>
         <link href="https://v.daum.net/v/20231006181208865"/>
@@ -570,13 +577,6 @@
         <link href="https://v.daum.net/v/20230810201202272"/>
         <updated>2023-08-10T11:15:49.709Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;최근 일부 유튜버와 누리꾼 사이에 '7만~8만원짜리인 잼버리 텐트가 25만 원으로 둔갑했다'는 의혹이 확산되고 있다.(출처 : https://ggjkl.cafe24.com/?p=75950)ⓒ ggjkl[검증대상] "7만 원짜리 잼버리 텐트가 25만 원으로 둔갑?" 누리꾼 의혹&nbsp; '2023 새만금 세계스카우트 잼버리 대회(아래 잼버리)']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문 정부가 4대강 보 해체해 충남·전라 물난리" 주장 '새빨간 거짓' (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>
-        <id>https://v.daum.net/v/20230721212100067</id>
-        <link href="https://v.daum.net/v/20230721212100067"/>
-        <updated>2023-07-21T12:35:43.605Z</updated>
-        <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;보수 성향 인터넷 매체인 &lt;파이낸스투데이&gt;는 지난 16일 “충청과 전라 지역에 호우 피해가 큰 이유 중 하나로 문재인 정부가 보(洑)를 해체했기 때문이라는 주장이 제기됐다”면서 “이번에 크게 물난리가 난 지역은 충남과 전북 지역으로 이 지역은 세종보, 공주보 그리고 죽산보 등 문재인 정부에서 보를 해체한 지역”이라고 보도했다ⓒ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
