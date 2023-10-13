@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T22:18:43.944Z</updated>
+    <updated>2023-10-13T23:19:06.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['갈비 사자' 또 있다?…동물원에서 죽어가는 멸종 위기 동물 한 해에 400마리 꼴[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231014074800273</id>
+        <link href="https://v.daum.net/v/20231014074800273"/>
+        <updated>2023-10-13T23:17:33.123Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 동물원에서 죽는 동물들이 주제네요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231012203005633</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231007074800186"/>
         <updated>2023-10-06T23:17:43.234Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 주제는 항저우 아시안게임 명칭대전이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "후쿠시마산 수산물 659톤 수입"…확인해보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231006195405250</id>
-        <link href="https://v.daum.net/v/20231006195405250"/>
-        <updated>2023-10-06T11:15:45.281Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 일본이 원전 오염수 2차 방류에 나선 가운데, 최근 후쿠시마산 수산물이 우리나라에 들어오고 있다는 언론 보도가 나왔습니다. 현재 수입 금지 상태인 후쿠시마산 수산물이 들어온 것인 정말 맞는 것인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; "후쿠시마산 수산물 수입 금지에도 젓갈 등 수산가공물 수입 659톤." 최근 한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['압도적 군사력' 이스라엘…전쟁의 향방은? (다음 뉴스 ─ SBS 사실은)]]></title>
