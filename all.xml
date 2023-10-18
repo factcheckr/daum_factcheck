@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-18T06:25:59.104Z</updated>
+    <updated>2023-10-18T07:18:25.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 쉬는 인구와 고령 취업자가 고용지표 호조에 영향을 줬다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231018152736689</id>
+        <link href="https://v.daum.net/v/20231018152736689"/>
+        <updated>2023-10-18T07:17:13.238Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 경기 부진에도 고용지표는 양호한 상태를 보이고 있다. 그러나 일각에서는 고용시장을 낙관하기는 이르다는 지적이 나온다. 구직 활동을 쉰 인구와 고령 취업자가 늘면서 고용지표 호조에 영향을 미쳤다는 게 근거다. 통계청이 13일 발표한 ‘2023년 9월 고용동향’에 따르면 올해 9월 실업률은 2.3%다. 역대 9월 기준 가장 낮다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갈비 사자' 또 있다?…동물원에서 죽어가는 멸종 위기 동물 한 해에 400마리 꼴[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231014074800273</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231008113004251"/>
         <updated>2023-10-08T03:17:47.633Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 세 번째 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 가을이 되면 슬슬 챙기셔야 할 것 중 하나가 독감백신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北, 축구 중계에 등장한 '괴뢰'…우리나라 법에도 있다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231007074800186</id>
-        <link href="https://v.daum.net/v/20231007074800186"/>
-        <updated>2023-10-06T23:17:43.234Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘 주제는 항저우 아시안게임 명칭대전이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['압도적 군사력' 이스라엘…전쟁의 향방은? (다음 뉴스 ─ SBS 사실은)]]></title>
