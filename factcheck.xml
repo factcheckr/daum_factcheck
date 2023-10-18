@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-18T11:17:29.543Z</updated>
+    <updated>2023-10-18T12:38:37.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가?]]></title>
+        <id>https://v.daum.net/v/20231018203513734</id>
+        <link href="https://v.daum.net/v/20231018203513734"/>
+        <updated>2023-10-18T12:36:31.767Z</updated>
+        <content type="html"><![CDATA[[앵커] 외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다. 유한울 기자가 나와 있습니다. 3058명, 이게 언제 어떻게 만들어진 숫자인가요? [기자] 먼저 2000년으로 거슬러 올라가 보면요. 이때는 그보다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 의대 증원 안해도 의사 남아돌게 된다?]]></title>
         <id>https://v.daum.net/v/20231018201310378</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231011112024417"/>
         <updated>2023-10-11T02:23:53.943Z</updated>
         <content type="html"><![CDATA[윤석열 정부의 고용 지표가 역대 정권에서 가장 높은 것으로 나타났다. 전임 문재인 정부의 평균 고용률이나 실업률과 비교해도 고용 성적표가 상당폭 개선됐다. 특히 청년층과 65세 이상 노인층의 고용률이 눈에 띄게 높아졌다. 다만 경제활동참가율이 소폭 낮아지고, 청년층 가운데 노동시장에 전입하지 않는 ‘쉬었음’ 인구 비중이 커진 점은 숙제로 남았다. 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 골프장 숫자가 세계 8위라고?]]></title>
-        <id>https://v.daum.net/v/20231008113111277</id>
-        <link href="https://v.daum.net/v/20231008113111277"/>
-        <updated>2023-10-08T03:17:47.624Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "한국 골프장 숫자가 세계 8위 규]]></content>
     </entry>
 </feed>
