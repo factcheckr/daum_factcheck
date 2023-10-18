@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-18T10:21:09.027Z</updated>
+    <updated>2023-10-18T11:17:29.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 의대 증원 안해도 의사 남아돌게 된다?]]></title>
+        <id>https://v.daum.net/v/20231018201310378</id>
+        <link href="https://v.daum.net/v/20231018201310378"/>
+        <updated>2023-10-18T11:15:29.346Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 강력 반대하고 있는 의사 단체들의 논리 중 하나는 지금의 정원을 그대로 둬도 의사는 부족해지지 않을 거라는 겁니다. 저출생으로 인한 빠른 인구 감소 속도를 감안하면, 머지 않아 인구당 의사수가 OECD 평균을 넘기게 돼, 지금 의사를 늘리면 안된다는 건데요. 설득력 있는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20231018195102009</id>
+        <link href="https://v.daum.net/v/20231018195102009"/>
+        <updated>2023-10-18T11:15:29.348Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;한 누리꾼이 지난 15일 진보 성향 인터넷 커뮤니티 ‘클리앙’ 게시판에 조선일보의 의대 정원 확대 관련 보도를 3년 전과 비교했다.ⓒ 조선일보&nbsp; 의과대학 정원 확대 논의가 한창인 가운데 지난 14일 &lt;조선일보&gt;는 오는 2025년 입시부터 매해 1000명을 증원하고 최대 3000명까지 늘리는 방안을 정부가 검토중이라고 보도했다. 이 매체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 쉬는 인구와 고령 취업자가 고용지표 호조에 영향을 줬다?]]></title>
         <id>https://v.daum.net/v/20231018152736689</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231008113111277"/>
         <updated>2023-10-08T03:17:47.624Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "한국 골프장 숫자가 세계 8위 규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 맨발 걷기, 정말로 건강에 효과 있을까?]]></title>
-        <id>https://v.daum.net/v/20231008113011256</id>
-        <link href="https://v.daum.net/v/20231008113011256"/>
-        <updated>2023-10-08T03:17:47.625Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '효도백신 3종세트', 정말 효도 선물일까?]]></title>
-        <id>https://v.daum.net/v/20231008113004251</id>
-        <link href="https://v.daum.net/v/20231008113004251"/>
-        <updated>2023-10-08T03:17:47.633Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 07일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 세 번째 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 가을이 되면 슬슬 챙기셔야 할 것 중 하나가 독감백신]]></content>
     </entry>
 </feed>
