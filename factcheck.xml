@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-23T14:19:40.956Z</updated>
+    <updated>2023-10-23T15:19:47.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 슈퍼챗을 통한 정치인 후원, 정치자금법 위반이다?]]></title>
+        <id>https://v.daum.net/v/20231023234616361</id>
+        <link href="https://v.daum.net/v/20231023234616361"/>
+        <updated>2023-10-23T15:18:16.565Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 세금 안 내고 버티면 결국은 안 내도 되는 걸까?]]></title>
+        <id>https://v.daum.net/v/20231023234606360</id>
+        <link href="https://v.daum.net/v/20231023234606360"/>
+        <updated>2023-10-23T15:18:16.565Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 마지막으로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "세금을 내지 않더]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 반려동물 기내 탑승에 관한 규정은?]]></title>
+        <id>https://v.daum.net/v/20231023234504347</id>
+        <link href="https://v.daum.net/v/20231023234504347"/>
+        <updated>2023-10-23T15:18:16.570Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 두 번째로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 인터넷 커뮤니티에서 화제가 됐던 내용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
         <id>https://v.daum.net/v/20231023204713617</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20231014074800273"/>
         <updated>2023-10-13T23:17:33.123Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 동물원에서 죽는 동물들이 주제네요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '압도적 군사력' 이스라엘…전쟁의 향방은?]]></title>
-        <id>https://v.daum.net/v/20231012203005633</id>
-        <link href="https://v.daum.net/v/20231012203005633"/>
-        <updated>2023-10-12T12:35:50.119Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 안타까운 희생자들이 계속 늘어나면서, 이스라엘과 하마스의 충돌이 언제쯤 끝날지 걱정하는 목소리도 커지고 있습니다. 단순히 군사력만 놓고 보면 이스라엘이 압도적인 우위에 있기 때문에 지상군이 투입되면 곧 정리될 것 같지만, 이스라엘을 고민하게 만드는 변수들도 많습니다. 박세용 기자가 짚어봤습니다. &lt;기자&gt; 이스라엘은 지난해 기준 23조 원이 넘는 국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 “민주, 선거결과 입맛대로 조작” 野 “보선 전 발표… 정치 개입 말라”[팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20231012050123483</id>
-        <link href="https://v.daum.net/v/20231012050123483"/>
-        <updated>2023-10-11T20:19:08.420Z</updated>
-        <content type="html"><![CDATA[국가정보원이 지난 10일 중앙선거관리위원회에 대한 보안 점검 결과를 밝힌 뒤 북한 등 외부 세력에 의한 투개표 시스템 해킹이 가능한 것인지 의문이 증폭되고 있다. 국정원은 “투개표 시스템과 개표 결과 조작이 가능한 상태”라고 주장한 반면 선관위는 “사실상 불가능하다”고 반박했기 때문이다. 논란은 확산됐다. 김기현 국민의힘 대표는 11일 페이스북에 “민주당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭장에 갇힌 이스라엘 어린이? "전쟁 전 촬영, 거짓 영상" [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20231011144810652</id>
-        <link href="https://v.daum.net/v/20231011144810652"/>
-        <updated>2023-10-11T06:25:25.466Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이스라엘 팩트체크 매체인 '페이크 리포터'는 지난 8일 SNS로 확산된 우리에 갇힌 어린이 영상이 전쟁 발발 이전부터 틱톡에 올라왔다고 밝혔다.ⓒ 페이크리포터&nbsp; &nbsp; 최근 틱톡이나 트위터(현 'X') 등에 번지고 있는 팔레스타인 무장 단체인 하마스가 이스라엘 어린이를 납치해 철창에 가두고 조롱하는 장면을 담은 영상은 사실이 아닌 것으로]]></content>
     </entry>
 </feed>
