@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-23T11:18:02.881Z</updated>
+    <updated>2023-10-23T12:36:47.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
+        <id>https://v.daum.net/v/20231023204713617</id>
+        <link href="https://v.daum.net/v/20231023204713617"/>
+        <updated>2023-10-23T12:35:35.945Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 한국형 아우토반 논쟁…속도 무제한, 안전할까]]></title>
         <id>https://v.daum.net/v/20231021204805187</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231011144810652"/>
         <updated>2023-10-11T06:25:25.466Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이스라엘 팩트체크 매체인 '페이크 리포터'는 지난 8일 SNS로 확산된 우리에 갇힌 어린이 영상이 전쟁 발발 이전부터 틱톡에 올라왔다고 밝혔다.ⓒ 페이크리포터&nbsp; &nbsp; 최근 틱톡이나 트위터(현 'X') 등에 번지고 있는 팔레스타인 무장 단체인 하마스가 이스라엘 어린이를 납치해 철창에 가두고 조롱하는 장면을 담은 영상은 사실이 아닌 것으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]나라빚 증가속도 1등 文정부, 성장률은 1998년 이후 '최저']]></title>
-        <id>https://v.daum.net/v/20231011112040428</id>
-        <link href="https://v.daum.net/v/20231011112040428"/>
-        <updated>2023-10-11T02:23:53.941Z</updated>
-        <content type="html"><![CDATA[윤석열 정부가 김대중 정부 이후 역대 정권에서 국가부채 증가 속도가 가장 낮은 것으로 나타났다. 특히 문재인 정부와 비교하면 국가부채와 가계부채 증가 속도가 확연히 떨어졌다. 건전재정 기조를 강력하게 추진하고 부동산 과열 현상이 수그러든 것이 원인으로 풀이된다. 경제성장률은 저출산 고령화 등 저성장 기조가 강해지면서 역대 정권을 거치면서 점진적으로 낮아졌다]]></content>
     </entry>
 </feed>
