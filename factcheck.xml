@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-24T17:18:03.088Z</updated>
+    <updated>2023-10-24T18:25:37.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK가 日 키옥시아·美 웨스턴디지털 합병 반대?… 공식 입장 낸 적 없어]]></title>
+        <id>https://v.daum.net/v/20231025030339785</id>
+        <link href="https://v.daum.net/v/20231025030339785"/>
+        <updated>2023-10-24T18:24:24.333Z</updated>
+        <content type="html"><![CDATA[“키옥시아와 웨스턴디지털(WD) 합병을 놓고 경쟁 관계인 한국 SK하이닉스가 반대를 이어가고 있다.”(일본 니혼게이자이신문) “SK하이닉스는 합병으로 경쟁사 주도권이 강화되는 걸 우려한다.”(요미우리신문) 최근 일본 유력 언론들은 자국 낸드플래시 기업인 키옥시아와 미국 웨스턴디지털 간 합병 협상이 핵심 열쇠를 쥐고 있는 SK하이닉스의 강한 반대로 인해 난항]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 슈퍼챗을 통한 정치인 후원, 정치자금법 위반이다?]]></title>
         <id>https://v.daum.net/v/20231023234616361</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231018152736689"/>
         <updated>2023-10-18T07:17:13.238Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 경기 부진에도 고용지표는 양호한 상태를 보이고 있다. 그러나 일각에서는 고용시장을 낙관하기는 이르다는 지적이 나온다. 구직 활동을 쉰 인구와 고령 취업자가 늘면서 고용지표 호조에 영향을 미쳤다는 게 근거다. 통계청이 13일 발표한 ‘2023년 9월 고용동향’에 따르면 올해 9월 실업률은 2.3%다. 역대 9월 기준 가장 낮다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갈비 사자' 또 있다?…동물원에서 죽어가는 멸종 위기 동물 한 해에 400마리 꼴[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20231014074800273</id>
-        <link href="https://v.daum.net/v/20231014074800273"/>
-        <updated>2023-10-13T23:17:33.123Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 앵커 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 동물원에서 죽는 동물들이 주제네요]]></content>
     </entry>
 </feed>
