@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-26T04:22:26.342Z</updated>
+    <updated>2023-10-26T05:19:12.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사기 전과가 있으면 개명이 불가하다? [사실확인] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231026132050977</id>
+        <link href="https://v.daum.net/v/20231026132050977"/>
+        <updated>2023-10-26T05:17:07.801Z</updated>
+        <content type="html"><![CDATA[태어날 때부터 가지고 있는 이름을 바꾼다는 건 누구에게나 큰 의미를 가질 겁니다. 다양한 사람들이 다양한 이유를 가지고 개명을 결정합니다. '이름이 촌스러워서', '사주에 맞지 않아서', '남자(혹은 여자)이름 같아서'. 정확한 이유가 밝혀지진 않았지만, 박근혜 정부 당시 국정농단 사태의 핵심인물인 최순실 씨도 최서원으로 이름을 바꿨습니다. "인격권·행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금에 ‘숨은 부채’가 1825조원에 달해 1인당 8200만원을 빚지고 있다 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231025150607574</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231018201310378"/>
         <updated>2023-10-18T11:15:29.346Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 강력 반대하고 있는 의사 단체들의 논리 중 하나는 지금의 정원을 그대로 둬도 의사는 부족해지지 않을 거라는 겁니다. 저출생으로 인한 빠른 인구 감소 속도를 감안하면, 머지 않아 인구당 의사수가 OECD 평균을 넘기게 돼, 지금 의사를 늘리면 안된다는 건데요. 설득력 있는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 정원 확대, <조선> 3년 전과 이렇게 달라졌다  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231018195102009</id>
-        <link href="https://v.daum.net/v/20231018195102009"/>
-        <updated>2023-10-18T11:15:29.348Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;한 누리꾼이 지난 15일 진보 성향 인터넷 커뮤니티 ‘클리앙’ 게시판에 조선일보의 의대 정원 확대 관련 보도를 3년 전과 비교했다.ⓒ 조선일보&nbsp; 의과대학 정원 확대 논의가 한창인 가운데 지난 14일 &lt;조선일보&gt;는 오는 2025년 입시부터 매해 1000명을 증원하고 최대 3000명까지 늘리는 방안을 정부가 검토중이라고 보도했다. 이 매체]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국형 아우토반 논쟁…속도 무제한, 안전할까 (다음 뉴스 ─ SBS 사실은)]]></title>
