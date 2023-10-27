@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-27T03:19:25.886Z</updated>
+    <updated>2023-10-27T04:22:25.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20231027122702210</id>
+        <link href="https://v.daum.net/v/20231027122702210"/>
+        <updated>2023-10-27T04:21:22.436Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;대한의사협회 싱크탱크인 의료정책연구원은 지난 2020년 1월 ‘개원의사와 7급 공무원의 평생 투입된 시간당 소득 비교’를 통해, 개원 의사의 시간당 소득(2만9724원)이 7급 공무원(16호봉 기준 2만9796원)보다 72원 적다고 발표했다.ⓒ 대한의사협회 의료정책연구원&nbsp; [검증대상] "개원의사 평생 시간당 소득, 7급 공무원보다 적다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사기 전과가 있으면 개명이 불가하다? [사실확인]]]></title>
         <id>https://v.daum.net/v/20231026132050977</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231018203513734"/>
         <updated>2023-10-18T12:36:31.767Z</updated>
         <content type="html"><![CDATA[[앵커] 외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다. 유한울 기자가 나와 있습니다. 3058명, 이게 언제 어떻게 만들어진 숫자인가요? [기자] 먼저 2000년으로 거슬러 올라가 보면요. 이때는 그보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 의대 증원 안해도 의사 남아돌게 된다?]]></title>
-        <id>https://v.daum.net/v/20231018201310378</id>
-        <link href="https://v.daum.net/v/20231018201310378"/>
-        <updated>2023-10-18T11:15:29.346Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 강력 반대하고 있는 의사 단체들의 논리 중 하나는 지금의 정원을 그대로 둬도 의사는 부족해지지 않을 거라는 겁니다. 저출생으로 인한 빠른 인구 감소 속도를 감안하면, 머지 않아 인구당 의사수가 OECD 평균을 넘기게 돼, 지금 의사를 늘리면 안된다는 건데요. 설득력 있는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다]]></content>
     </entry>
 </feed>
