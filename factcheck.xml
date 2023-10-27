@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-27T10:20:40.195Z</updated>
+    <updated>2023-10-27T11:16:16.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] "입지 마세요"…핼러윈 경찰 유사 제복 입어도 처벌?]]></title>
+        <id>https://v.daum.net/v/20231027195044561</id>
+        <link href="https://v.daum.net/v/20231027195044561"/>
+        <updated>2023-10-27T11:14:59.512Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 지난해 이태원 참사 당시 핼러윈 경찰관 복장이 사고를 더 키웠다는 지적이 있어 올해는 경찰이 제복 코스튬을 집중 단속하고 있죠. 그런데 완전히 똑같진 않더라도 경찰 느낌을 내는 제복은 여전히 판매되고 있는데, 문제 없는 걸까요? 사실확인에서 표선우 기자가 알아봤습니다. 【 기자 】 중고 거래 사이트에 유사 경찰 제복, 장비를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20231027122702210</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231021204805187"/>
         <updated>2023-10-21T12:32:21.788Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 전라남도가 광주에서 영암 사이 47km를 속도 제한 없는 고속도로, 이른바 한국형 아우토반을 만들기로 한 것이 화제입니다. 온라인에서도 거센 논쟁이 일었는데, 어떻게 봐야 할지 팩트체크 '사실은' 코너에서 박세용 기자가 짚어봤습니다. &lt;기자&gt; 독일 아우토반에서 촬영된 영상입니다. 슈퍼카 한 대가 속도를 높이더니 시속 300km를 훌쩍 넘어 400k]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가?]]></title>
-        <id>https://v.daum.net/v/20231018203513734</id>
-        <link href="https://v.daum.net/v/20231018203513734"/>
-        <updated>2023-10-18T12:36:31.767Z</updated>
-        <content type="html"><![CDATA[[앵커] 외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다. 유한울 기자가 나와 있습니다. 3058명, 이게 언제 어떻게 만들어진 숫자인가요? [기자] 먼저 2000년으로 거슬러 올라가 보면요. 이때는 그보다]]></content>
     </entry>
 </feed>
