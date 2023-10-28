@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-10-28T11:15:17.120Z</updated>
+    <updated>2023-10-28T12:32:26.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태원 참사의 진상, 대부분 규명됐다?]]></title>
+        <id>https://v.daum.net/v/20231028201911984</id>
+        <link href="https://v.daum.net/v/20231028201911984"/>
+        <updated>2023-10-28T12:31:31.346Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의대 증원 안해도 의사 남아돌게 된다?]]></title>
         <id>https://v.daum.net/v/20231018201310378</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230616202205262"/>
         <updated>2023-06-16T12:36:18.227Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회서비스 시장화하면 질 좋아진다?]]></title>
-        <id>https://v.daum.net/v/20230605202510143</id>
-        <link href="https://v.daum.net/v/20230605202510143"/>
-        <updated>2023-06-05T12:39:54.761Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근에는 정부가 사회 복지 서비스에도 민간의 경쟁을 조성해 시장화하겠다고 밝혀 논란이 되고 있습니다. [윤석열 대통령(지난달 31일)] "보편복지가 서비스복지로 갈 때의 장점은 이것이 시장화될 수 있고 서비스를 제공하는 쪽에 경쟁을 우리가 조성을 함으로 해서 더 나은 서비스가 만들어질 수 있게 그게 가능해진다는 것이죠." 정부는]]></content>
     </entry>
 </feed>

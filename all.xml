@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-28T11:15:17.132Z</updated>
+    <updated>2023-10-28T12:32:26.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 이태원 참사의 진상, 대부분 규명됐다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231028201911984</id>
+        <link href="https://v.daum.net/v/20231028201911984"/>
+        <updated>2023-10-28T12:31:12.454Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "김승희 딸, 학폭위 끝나 강제전학 어렵다"...임태희 교육감 발언 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231028052510359</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231023234504347"/>
         <updated>2023-10-23T15:18:16.570Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 두 번째로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 인터넷 커뮤니티에서 화제가 됐던 내용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231023204713617</id>
-        <link href="https://v.daum.net/v/20231023204713617"/>
-        <updated>2023-10-23T12:35:35.945Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국형 아우토반 논쟁…속도 무제한, 안전할까 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 이런 가운데 우리도 외국처럼 교사가 교권을 침해한 학생을 즉시 분리할 수 있도록 법을 고치자는 주장도 나오고 있습니다. 그럼 외국은 교권을 어떻게 보호하고 있는지 팩트체크 사실은 팀에서 살펴봤습니다. 이경원 기자입니다. &lt;기자&gt; 지난해 말 교육부는 교권 침해 사례가 잇따르자, 피해 교사와 가해 학생 즉시 분리 방안을 추진하겠다며 보도자료를 냈습니다]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이태원 참사의 진상, 대부분 규명됐다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20231028201911984</id>
+        <link href="https://v.daum.net/v/20231028201911984"/>
+        <updated>2023-10-28T12:31:31.346Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[의대 증원 안해도 의사 남아돌게 된다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20231018201310378</id>
         <link href="https://v.daum.net/v/20231018201310378"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20230616202205262"/>
         <updated>2023-06-16T12:35:54.385Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회서비스 시장화하면 질 좋아진다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230605202510143</id>
-        <link href="https://v.daum.net/v/20230605202510143"/>
-        <updated>2023-06-05T12:39:32.310Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근에는 정부가 사회 복지 서비스에도 민간의 경쟁을 조성해 시장화하겠다고 밝혀 논란이 되고 있습니다. [윤석열 대통령(지난달 31일)] "보편복지가 서비스복지로 갈 때의 장점은 이것이 시장화될 수 있고 서비스를 제공하는 쪽에 경쟁을 우리가 조성을 함으로 해서 더 나은 서비스가 만들어질 수 있게 그게 가능해진다는 것이죠." 정부는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인이 내국인보다 범죄를 많이 저지를까? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
