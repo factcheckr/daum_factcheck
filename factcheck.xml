@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-29T02:27:06.718Z</updated>
+    <updated>2023-10-29T03:19:38.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "조중동 인터넷 기사도 방심위가 심의"...신문사가 응할까?]]></title>
+        <id>https://v.daum.net/v/20231029115521329</id>
+        <link href="https://v.daum.net/v/20231029115521329"/>
+        <updated>2023-10-29T03:18:26.777Z</updated>
+        <content type="html"><![CDATA[[앵커] 지난해 대선 전에 있었던 뉴스타파 보도에 대한 검찰 수사를 계기로 방송통신심의위원회가 인터넷 기사에 대한 가짜뉴스 규제에 나섰습니다. 하지만 조중동 등 유력 종이신문의 인터넷 기사까지 심의를 하겠다는 것인지에 대해서는 방심위 스스로도 갈팡질팡하는 모습인데요. 부장원 기자가 방심위 입장을 다시 물어봤습니다. [기자] 지난 11일 방송통신심의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스AS] ‘군형법 추행죄’ 차별과 혐오에 20년 눈 감은 헌재]]></title>
         <id>https://v.daum.net/v/20231029080502152</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231023234616361"/>
         <updated>2023-10-23T15:18:16.565Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 세금 안 내고 버티면 결국은 안 내도 되는 걸까?]]></title>
-        <id>https://v.daum.net/v/20231023234606360</id>
-        <link href="https://v.daum.net/v/20231023234606360"/>
-        <updated>2023-10-23T15:18:16.565Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 마지막으로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "세금을 내지 않더]]></content>
     </entry>
 </feed>
