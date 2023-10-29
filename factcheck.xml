@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-28T23:17:52.002Z</updated>
+    <updated>2023-10-29T01:22:03.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스AS] ‘군형법 추행죄’ 차별과 혐오에 20년 눈 감은 헌재]]></title>
+        <id>https://v.daum.net/v/20231029080502152</id>
+        <link href="https://v.daum.net/v/20231029080502152"/>
+        <updated>2023-10-29T01:20:30.354Z</updated>
+        <content type="html"><![CDATA[26일 헌법재판소가 4번째 ‘합헌’ 결정을 내린 군형법 추행죄(92조의6)는 대표적인 성소수자 차별 조항으로 꼽힌다. 현재 법문상으로는 행위자의 성별을 가리지 않고 ‘항문성교나 그 밖의 추행’을 한 군인을 처벌하는 내용인데, 실제로는 합의 여부, 시기 및 장소를 가리지 않고 남성군인 간 성적 행위에만 적용됐기 때문이다. 남군 간 합의된 성행위까지 처벌 대상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 이태원 참사의 진상, 대부분 규명됐다?]]></title>
         <id>https://v.daum.net/v/20231028201911984</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231023234606360"/>
         <updated>2023-10-23T15:18:16.565Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 마지막으로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 "세금을 내지 않더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 반려동물 기내 탑승에 관한 규정은?]]></title>
-        <id>https://v.daum.net/v/20231023234504347</id>
-        <link href="https://v.daum.net/v/20231023234504347"/>
-        <updated>2023-10-23T15:18:16.570Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 10월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 두 번째로 팩트체크해 볼 내용은 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 인터넷 커뮤니티에서 화제가 됐던 내용]]></content>
     </entry>
 </feed>
