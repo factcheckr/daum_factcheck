@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-31T19:17:25.148Z</updated>
+    <updated>2023-10-31T20:20:30.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘메가 서울’로 택지 등 인프라 활용 기대… 균형발전 역행은 ‘논란’ [팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231101050209173</id>
+        <link href="https://v.daum.net/v/20231101050209173"/>
+        <updated>2023-10-31T20:19:08.270Z</updated>
+        <content type="html"><![CDATA[與 “서부권 배후경제권 발달” 주장 예타 등 문턱 높아져 단정 어려워 소각장 이전도 시민 수용 ‘미지수’ 서울 경제권에 경기·인천 이미 포함 GDP의 51%로 OECD ‘최고’ 지적 ‘세계적 추세’ 메가 시티는 긍정적 국민의힘이 경기도 김포시 등 서울 생활권 도시들을 서울시에 편입하는 것을 당론으로 정해 추진하면서 관련 지방자치단체들의 셈법이 복잡해졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통근자가 많아 김포를 서울로? 경기도에서 10위권 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231031145859826</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231027122702210"/>
         <updated>2023-10-27T04:21:22.436Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;대한의사협회 싱크탱크인 의료정책연구원은 지난 2020년 1월 ‘개원의사와 7급 공무원의 평생 투입된 시간당 소득 비교’를 통해, 개원 의사의 시간당 소득(2만9724원)이 7급 공무원(16호봉 기준 2만9796원)보다 72원 적다고 발표했다.ⓒ 대한의사협회 의료정책연구원&nbsp; [검증대상] "개원의사 평생 시간당 소득, 7급 공무원보다 적다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사기 전과가 있으면 개명이 불가하다? [사실확인] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231026132050977</id>
-        <link href="https://v.daum.net/v/20231026132050977"/>
-        <updated>2023-10-26T05:17:07.801Z</updated>
-        <content type="html"><![CDATA[태어날 때부터 가지고 있는 이름을 바꾼다는 건 누구에게나 큰 의미를 가질 겁니다. 다양한 사람들이 다양한 이유를 가지고 개명을 결정합니다. '이름이 촌스러워서', '사주에 맞지 않아서', '남자(혹은 여자)이름 같아서'. 정확한 이유가 밝혀지진 않았지만, 박근혜 정부 당시 국정농단 사태의 핵심인물인 최순실 씨도 최서원으로 이름을 바꿨습니다. "인격권·행]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국형 아우토반 논쟁…속도 무제한, 안전할까 (다음 뉴스 ─ SBS 사실은)]]></title>
