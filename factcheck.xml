@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-31T22:18:09.545Z</updated>
+    <updated>2023-10-31T23:19:12.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, 민생 외치면서 또 ‘반노동’…통상 분쟁 우려도 [뉴스AS]]]></title>
+        <id>https://v.daum.net/v/20231101070023529</id>
+        <link href="https://v.daum.net/v/20231101070023529"/>
+        <updated>2023-10-31T23:17:55.460Z</updated>
+        <content type="html"><![CDATA[☞한겨레 뉴스레터 H:730 구독하기. 검색창에 ‘한겨레 h730’을 쳐보세요. 윤석열 대통령이 지난 30일 국무회의에서 “국민의 절박한 목소리”라며 ‘이주노동자에게 최저임금 미적용’ ‘중대재해처벌법 적용 완화’를 언급했다. 국제 노동규범인 국제노동기구(ILO) 기본협약 비준 탈퇴와 50인 미만 사업장 중대재해처벌법 적용 유예라는 법 개정 사안을 민생 현장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘메가 서울’로 택지 등 인프라 활용 기대… 균형발전 역행은 ‘논란’ [팩트 체크]]]></title>
         <id>https://v.daum.net/v/20231101050209173</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231027195044561"/>
         <updated>2023-10-27T11:14:59.512Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 지난해 이태원 참사 당시 핼러윈 경찰관 복장이 사고를 더 키웠다는 지적이 있어 올해는 경찰이 제복 코스튬을 집중 단속하고 있죠. 그런데 완전히 똑같진 않더라도 경찰 느낌을 내는 제복은 여전히 판매되고 있는데, 문제 없는 걸까요? 사실확인에서 표선우 기자가 알아봤습니다. 【 기자 】 중고 거래 사이트에 유사 경찰 제복, 장비를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20231027122702210</id>
-        <link href="https://v.daum.net/v/20231027122702210"/>
-        <updated>2023-10-27T04:21:22.436Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;대한의사협회 싱크탱크인 의료정책연구원은 지난 2020년 1월 ‘개원의사와 7급 공무원의 평생 투입된 시간당 소득 비교’를 통해, 개원 의사의 시간당 소득(2만9724원)이 7급 공무원(16호봉 기준 2만9796원)보다 72원 적다고 발표했다.ⓒ 대한의사협회 의료정책연구원&nbsp; [검증대상] "개원의사 평생 시간당 소득, 7급 공무원보다 적다]]></content>
     </entry>
 </feed>
