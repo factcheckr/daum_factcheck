@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-10-31T05:18:33.764Z</updated>
+    <updated>2023-10-31T06:25:41.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 통근자가 많아 김포를 서울로? 경기도에서 10위권]]></title>
+        <id>https://v.daum.net/v/20231031145859826</id>
+        <link href="https://v.daum.net/v/20231031145859826"/>
+        <updated>2023-10-31T06:24:27.161Z</updated>
+        <content type="html"><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입' 이슈가 계속 화제입니다. 김기현 대표는 어제(30일) 김포한강차량기지에서 연 수도권 신도시 교통대책 마련 간담회에서, 김포를 서울 행정구역으로 편입시키는 방안을 당론으로 추진하겠다고 밝혔는데요. 김 대표는 "주변 도시들의 생활권, 통학권, 직장과 주거지 간 통근 등을 봐서 서울시와 같은 생활권이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]내년부터 인공눈물 가격이 4만 원이 된다?]]></title>
         <id>https://v.daum.net/v/20231030090619970</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231026132050977"/>
         <updated>2023-10-26T05:17:07.801Z</updated>
         <content type="html"><![CDATA[태어날 때부터 가지고 있는 이름을 바꾼다는 건 누구에게나 큰 의미를 가질 겁니다. 다양한 사람들이 다양한 이유를 가지고 개명을 결정합니다. '이름이 촌스러워서', '사주에 맞지 않아서', '남자(혹은 여자)이름 같아서'. 정확한 이유가 밝혀지진 않았지만, 박근혜 정부 당시 국정농단 사태의 핵심인물인 최순실 씨도 최서원으로 이름을 바꿨습니다. "인격권·행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금에 ‘숨은 부채’가 1825조원에 달해 1인당 8200만원을 빚지고 있다 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20231025150607574</id>
-        <link href="https://v.daum.net/v/20231025150607574"/>
-        <updated>2023-10-25T06:23:57.604Z</updated>
-        <content type="html"><![CDATA[최근 전영준 한양대 경제금융학부 교수가 국회 연금개혁 토론회에서 올해 기준 국민연금의 ‘미적립 부채’가 1825조원에 달해 국내총생산(GDP)의 80.1%에 이를 것으로 밝혔습니다. ‘숨은 부채’를 감안하면 국민연금 재정상황이 보이는 것보다 암울해 즉각적인 제도 개편이 필요하다는 취지입니다. 이와 관련 올해 국민연금 가입자수(약 2225만명)로 이 ‘숨은]]></content>
     </entry>
 </feed>
