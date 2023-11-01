@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-01T20:20:27.740Z</updated>
+    <updated>2023-11-01T21:16:59.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]남편희가 받은 벤틀리·명품…'이럴 땐' 몰수된다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231102053015191</id>
+        <link href="https://v.daum.net/v/20231102053015191"/>
+        <updated>2023-11-01T21:15:44.514Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 이기범 임윤지 기자 = 전 펜싱 국가대표 남현희씨(42)의 재혼 상대였던 전청조씨(27)의 사기 행각에 대한 제보가 끝없이 이어지고 있습니다. 전씨가 지난달 31일 체포되면서 사기 혐의 사건 수사에 속도가 붙을 것으로 보이지만 피해 구제는 또다른 숙제로 남아 있습니다. 일부에서는 남씨가 전씨로부터 받은 외제차와 명품 선물들을 몰수해 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231101200313802</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231028052510359"/>
         <updated>2023-10-27T21:15:06.244Z</updated>
         <content type="html"><![CDATA[[앵커] 김승희 전 대통령실 의전비서관 자녀의 학교폭력 사건과 관련해 처벌 수위를 두고 논란이 제기된 가운데 임태희 경기도교육감이 가해 학생의 강제 전학은 어렵다고 말했습니다. 이미 학교폭력대책심의위원회의 결정이 내려졌다는 이유를 들었는데요. 임태희 교육감의 설명이 사실인지, 팩트와이 황윤태 기자가 따져봤습니다. [기자] 지난 20일 국회 교육위원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] "입지 마세요"…핼러윈 경찰 유사 제복 입어도 처벌? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231027195044561</id>
-        <link href="https://v.daum.net/v/20231027195044561"/>
-        <updated>2023-10-27T11:14:59.512Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 지난해 이태원 참사 당시 핼러윈 경찰관 복장이 사고를 더 키웠다는 지적이 있어 올해는 경찰이 제복 코스튬을 집중 단속하고 있죠. 그런데 완전히 똑같진 않더라도 경찰 느낌을 내는 제복은 여전히 판매되고 있는데, 문제 없는 걸까요? 사실확인에서 표선우 기자가 알아봤습니다. 【 기자 】 중고 거래 사이트에 유사 경찰 제복, 장비를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국형 아우토반 논쟁…속도 무제한, 안전할까 (다음 뉴스 ─ SBS 사실은)]]></title>
