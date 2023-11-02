@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-02T13:24:59.930Z</updated>
+    <updated>2023-11-02T14:19:03.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실은] 후쿠시마 오염수 3차 방류 시작…생선회 매출은]]></title>
         <id>https://v.daum.net/v/20231102221807208</id>
