@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-02T12:35:58.200Z</updated>
+    <updated>2023-11-02T13:24:59.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 후쿠시마 오염수 3차 방류 시작…생선회 매출은]]></title>
+        <id>https://v.daum.net/v/20231102221807208</id>
+        <link href="https://v.daum.net/v/20231102221807208"/>
+        <updated>2023-11-02T13:22:56.305Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 일본이 두 차례에 걸쳐 오염수 만 5천 톤을 바다에 흘려보낸 데 이어, 오늘(2일)부터 3차 방류를 시작했습니다. 국내수산물 소비가 크게 위축되지 않을지 우려가 컸는데 생선회 매출에&nbsp;어떤 변화가 있었는지, 사실은 코너에서 확인해봤습니다. &lt;기자&gt; 민주당은 일본 규탄집회로, 국민의힘은 회 먹방에, 수조 물까지 떠먹으면서 첨예하게 맞선 오염수 방류 논]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 김포, 서울의 쓰레기장 된다?…가능성 따져보니]]></title>
         <id>https://v.daum.net/v/20231102200643692</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231029080502152"/>
         <updated>2023-10-29T01:20:30.354Z</updated>
         <content type="html"><![CDATA[26일 헌법재판소가 4번째 ‘합헌’ 결정을 내린 군형법 추행죄(92조의6)는 대표적인 성소수자 차별 조항으로 꼽힌다. 현재 법문상으로는 행위자의 성별을 가리지 않고 ‘항문성교나 그 밖의 추행’을 한 군인을 처벌하는 내용인데, 실제로는 합의 여부, 시기 및 장소를 가리지 않고 남성군인 간 성적 행위에만 적용됐기 때문이다. 남군 간 합의된 성행위까지 처벌 대상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 이태원 참사의 진상, 대부분 규명됐다?]]></title>
-        <id>https://v.daum.net/v/20231028201911984</id>
-        <link href="https://v.daum.net/v/20231028201911984"/>
-        <updated>2023-10-28T12:31:12.454Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
     </entry>
 </feed>
