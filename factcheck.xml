@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-06T11:17:13.239Z</updated>
+    <updated>2023-11-06T12:37:20.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 중대재해처벌법이 기업 위협한다?]]></title>
+        <id>https://v.daum.net/v/20231106203008927</id>
+        <link href="https://v.daum.net/v/20231106203008927"/>
+        <updated>2023-11-06T12:36:19.087Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 노동자가 일하다 숨지는 사고가 일어났을 때 사전 예방을 소홀히 한 사업주를 처벌하는 게 중대재해처벌법입니다. 내년부터는 50인 미만 사업장까지 확대 시행되는데요. 최근 윤석열 대통령은 기업들이 이를 두려워하고 있다고 언급했습니다. [윤석열 대통령] "50인 이하 소규모 사업장에서는 내년부터 적용되는 중대재해처벌법을 두려워하는 목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 논란 휩싸인 충북교육공론화위원회…핵심 쟁점은?]]></title>
         <id>https://v.daum.net/v/20231106192533129</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231031145859826"/>
         <updated>2023-10-31T06:24:27.161Z</updated>
         <content type="html"><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입'이 계속 화제입니다. 김기현 대표는 어제(30일) 김포한강차량기지에서 연 수도권 신도시 교통대책 마련 간담회에서, 김포를 서울 행정구역으로 편입시키는 방안을 당론으로 추진하겠다고 밝혔는데요. 김 대표는 "주변 도시들의 생활권, 통학권, 직장과 주거지 간 통근 등을 봐서 서울시와 같은 생활권이라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]내년부터 인공눈물 가격이 4만 원이 된다?]]></title>
-        <id>https://v.daum.net/v/20231030090619970</id>
-        <link href="https://v.daum.net/v/20231030090619970"/>
-        <updated>2023-10-30T01:16:39.362Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 최근 인공눈물 가격이 내년부터 최대 10배 올라 4만 원이 될 수 있다는 기사가 보도되면서 소비자들 사이에서 논란이 일고 있다. 최근 건강보험심사평가원(이하 심평원)은 제9차 약제급여평가위원회를 열고 급여적정성 재평가 심의를 진행했다. 심의에서는 인공눈물로 많이 쓰이는 ‘히알루론산나트륨 점안제’에 대한 건강 보호 급여 축소를]]></content>
     </entry>
 </feed>

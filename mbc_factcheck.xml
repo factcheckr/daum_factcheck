@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-11-06T11:17:13.240Z</updated>
+    <updated>2023-11-06T12:37:20.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대재해처벌법이 기업 위협한다?]]></title>
+        <id>https://v.daum.net/v/20231106203008927</id>
+        <link href="https://v.daum.net/v/20231106203008927"/>
+        <updated>2023-11-06T12:36:37.206Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 노동자가 일하다 숨지는 사고가 일어났을 때 사전 예방을 소홀히 한 사업주를 처벌하는 게 중대재해처벌법입니다. 내년부터는 50인 미만 사업장까지 확대 시행되는데요. 최근 윤석열 대통령은 기업들이 이를 두려워하고 있다고 언급했습니다. [윤석열 대통령] "50인 이하 소규모 사업장에서는 내년부터 적용되는 중대재해처벌법을 두려워하는 목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사의 진상, 대부분 규명됐다?]]></title>
         <id>https://v.daum.net/v/20231028201911984</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230621200131270"/>
         <updated>2023-06-21T11:16:04.082Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김기현 국민의힘 대표는 어제 국회 교섭단체 대표 연설에서 외국인의 건강보험 문제도 지적했습니다. [김기현/국민의힘 대표 (어제)] "국민의 땀과 노력으로 만들어진 건강보험기금이 외국인 의료 쇼핑 자금으로 줄줄 새서는 안 됩니다. 건강보험 먹튀, 건강보험 무임승차 막겠습니다." 국내에 들어온 외국인들이 우리 건강보험에 무임승차해,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처리된 오염수, 음용수 기준에 맞다?]]></title>
-        <id>https://v.daum.net/v/20230616202205262</id>
-        <link href="https://v.daum.net/v/20230616202205262"/>
-        <updated>2023-06-16T12:36:18.227Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이번주 이어진 국회 대정부질문에서도 후쿠시마 오염수는 큰 쟁점이었습니다. 방류 전 처리된 오염수를 한덕수 국무총리가 '마실 수 있다'고 말했는데요. [김성주/더불어민주당 의원] "총리는 안전이 검증되면 마시겠어요?" [한덕수/국무총리] "저는 뭐 기준에 맞다면 저는 마실 수 있습니다." 그 기준이 뭔지, 정말 안전하다고 믿을 수]]></content>
     </entry>
 </feed>
