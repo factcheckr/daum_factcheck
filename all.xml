@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T22:18:32.317Z</updated>
+    <updated>2023-11-06T23:19:12.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 알바생 능력으로 일찍 끝난 업무, 나머지 시급도 줘야 하나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231107075212161</id>
+        <link href="https://v.daum.net/v/20231107075212161"/>
+        <updated>2023-11-06T23:17:43.527Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 '닭강정 알바 시급 논란'이라는 제목의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 정부의 마약과의 전쟁은 어떻게 진행되고 있나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231107075102137</id>
+        <link href="https://v.daum.net/v/20231107075102137"/>
+        <updated>2023-11-06T23:17:43.532Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 중대재해처벌법이 기업 위협한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231106203008927</id>
@@ -59,20 +73,6 @@
         <link href="https://v.daum.net/v/20231101200313802"/>
         <updated>2023-11-01T11:15:43.930Z</updated>
         <content type="html"><![CDATA[[앵커] 보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도 나오는데, 사실인지 이은진 기자와 팩트체크해보겠습니다. 이 기자, 김포가 서울에 편입되기 전에 지하철 공사를 시작하더라도, 서울시민이 돈을 내야 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메가 서울’로 택지 등 인프라 활용 기대… 균형발전 역행은 ‘논란’ [팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231101050209173</id>
-        <link href="https://v.daum.net/v/20231101050209173"/>
-        <updated>2023-10-31T20:19:08.270Z</updated>
-        <content type="html"><![CDATA[與 “서부권 배후경제권 발달” 주장 예타 등 문턱 높아져 단정 어려워 소각장 이전도 시민 수용 ‘미지수’ 서울 경제권에 경기·인천 이미 포함 GDP의 51%로 OECD ‘최고’ 지적 ‘세계적 추세’ 메가 시티는 긍정적 국민의힘이 경기도 김포시 등 서울 생활권 도시들을 서울시에 편입하는 것을 당론으로 정해 추진하면서 관련 지방자치단체들의 셈법이 복잡해졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통근자가 많아 김포를 서울로? 경기도에서 10위권 [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231031145859826</id>
-        <link href="https://v.daum.net/v/20231031145859826"/>
-        <updated>2023-10-31T06:24:27.161Z</updated>
-        <content type="html"><![CDATA[국민의힘 김기현 대표가 갑작스럽게 밝힌 '김포의 서울 편입'이 계속 화제입니다. 김기현 대표는 어제(30일) 김포한강차량기지에서 연 수도권 신도시 교통대책 마련 간담회에서, 김포를 서울 행정구역으로 편입시키는 방안을 당론으로 추진하겠다고 밝혔는데요. 김 대표는 "주변 도시들의 생활권, 통학권, 직장과 주거지 간 통근 등을 봐서 서울시와 같은 생활권이라고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 3차 방류 시작…생선회 매출은 (다음 뉴스 ─ SBS 사실은)]]></title>
