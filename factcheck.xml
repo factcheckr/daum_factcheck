@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-06T10:22:45.591Z</updated>
+    <updated>2023-11-06T11:17:13.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 논란 휩싸인 충북교육공론화위원회…핵심 쟁점은?]]></title>
+        <id>https://v.daum.net/v/20231106192533129</id>
+        <link href="https://v.daum.net/v/20231106192533129"/>
+        <updated>2023-11-06T11:15:59.225Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 찬반 입장이나 갈등이 첨예한 교육 현안을 '공론화'로 풀어가자는 움직임이 충북에서도 시작됐습니다. 충북교육청은 각계 대표로 '공론화추진단'까지 구성했는데요. 사실과 다른 홍보부터 대표성과 의제 선정까지, 논란이 끊이지 않고 있습니다. 팩트체크 K 충북, 박미영 기자가 보도합니다. [리포트] 충북교육 공론화추진단은 갈등이 첨예한 교육]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 우리나라 공공의료 비중은 OECD 국가 중 꼴찌?]]></title>
         <id>https://v.daum.net/v/20231106111416937</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231030090619970"/>
         <updated>2023-10-30T01:16:39.362Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 최근 인공눈물 가격이 내년부터 최대 10배 올라 4만 원이 될 수 있다는 기사가 보도되면서 소비자들 사이에서 논란이 일고 있다. 최근 건강보험심사평가원(이하 심평원)은 제9차 약제급여평가위원회를 열고 급여적정성 재평가 심의를 진행했다. 심의에서는 인공눈물로 많이 쓰이는 ‘히알루론산나트륨 점안제’에 대한 건강 보호 급여 축소를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "조중동 인터넷 기사도 방심위가 심의"...신문사가 응할까?]]></title>
-        <id>https://v.daum.net/v/20231029225652973</id>
-        <link href="https://v.daum.net/v/20231029225652973"/>
-        <updated>2023-10-29T14:15:04.684Z</updated>
-        <content type="html"><![CDATA[[앵커] 지난해 대선 전에 있었던 뉴스타파 보도에 대한 검찰 수사를 계기로 방송통신심의위원회가 인터넷 기사에 대한 가짜뉴스 규제에 나섰습니다. 하지만 조중동 등 유력 종이신문의 인터넷 기사까지 심의를 하겠다는 것인지에 대해서는 방심위 스스로도 갈팡질팡하는 모습인데요. 부장원 기자가 방심위 입장을 다시 물어봤습니다. [기자] 지난 11일 방송통신심의]]></content>
     </entry>
 </feed>
