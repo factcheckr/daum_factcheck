@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-07T02:28:04.032Z</updated>
+    <updated>2023-11-07T03:19:37.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[럼피스킨 병 걸린 소, 시중유통 안돼… 소고기·우유 안전[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20231107114512881</id>
+        <link href="https://v.daum.net/v/20231107114512881"/>
+        <updated>2023-11-07T03:18:25.036Z</updated>
+        <content type="html"><![CDATA[지난달 20일 국내에서 처음 발생한 럼피스킨병 확진 사례가 6일 기준으로 27개 시·군에서 총 81건으로 늘어났다. 충북 충주에서도 첫 발병이 확인된 가운데, 국내 사육두수가 가장 많은 경북은 다행히도 아직 확진 사례가 없다. 백신 접종률이 95%까지 늘어나면서 급속한 확산은 일단 막은 상태지만, 일부 소비자들이 한우 구매를 망설이면서 한우 농가들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 알바생 능력으로 일찍 끝난 업무, 나머지 시급도 줘야 하나?]]></title>
         <id>https://v.daum.net/v/20231107075212161</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231102053015191"/>
         <updated>2023-11-01T21:15:44.514Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 이기범 임윤지 기자 = 전 펜싱 국가대표 남현희씨(42)의 재혼 상대였던 전청조씨(27)의 사기 행각에 대한 제보가 끝없이 이어지고 있습니다. 전씨가 지난달 31일 체포되면서 사기 혐의 사건 수사에 속도가 붙을 것으로 보이지만 피해 구제는 또다른 숙제로 남아 있습니다. 일부에서는 남씨가 전씨로부터 받은 외제차와 명품 선물들을 몰수해 피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로?]]></title>
-        <id>https://v.daum.net/v/20231101200313802</id>
-        <link href="https://v.daum.net/v/20231101200313802"/>
-        <updated>2023-11-01T11:15:43.930Z</updated>
-        <content type="html"><![CDATA[[앵커] 보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도 나오는데, 사실인지 이은진 기자와 팩트체크해보겠습니다. 이 기자, 김포가 서울에 편입되기 전에 지하철 공사를 시작하더라도, 서울시민이 돈을 내야 한]]></content>
     </entry>
 </feed>
