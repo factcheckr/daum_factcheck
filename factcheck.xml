@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-10T11:16:41.051Z</updated>
+    <updated>2023-11-10T12:35:14.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '수도 확장' 메가시티가 세계적인 추세?]]></title>
+        <id>https://v.daum.net/v/20231110201916489</id>
+        <link href="https://v.daum.net/v/20231110201916489"/>
+        <updated>2023-11-10T12:34:04.839Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김포시의 서울 편입 추진에 대해 졸속 논란이 일자, 여당은 메가시티가 세계적인 추세라고 반박했습니다. [조경태/국민의힘 뉴시티 프로젝트 특별위원장] "세계적 도시 행정 체계 변화의 흐름을 잘 읽지 못한 발언이다, 이렇게 보고 있습니다." 최근의 세계적인 추세, 실제로 어떤지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 과거 합친 지역 보니…주민 만족도 좌우한 건?]]></title>
         <id>https://v.daum.net/v/20231108203004393</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231102221807208"/>
         <updated>2023-11-02T13:22:56.305Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 일본이 두 차례에 걸쳐 오염수 만 5천 톤을 바다에 흘려보낸 데 이어, 오늘(2일)부터 3차 방류를 시작했습니다. 국내수산물 소비가 크게 위축되지 않을지 우려가 컸는데 생선회 매출에&nbsp;어떤 변화가 있었는지, 사실은 코너에서 확인해봤습니다. &lt;기자&gt; 민주당은 일본 규탄집회로, 국민의힘은 회 먹방에, 수조 물까지 떠먹으면서 첨예하게 맞선 오염수 방류 논]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 김포, 서울의 쓰레기장 된다?…가능성 따져보니]]></title>
-        <id>https://v.daum.net/v/20231102200643692</id>
-        <link href="https://v.daum.net/v/20231102200643692"/>
-        <updated>2023-11-02T11:15:31.605Z</updated>
-        <content type="html"><![CDATA[[앵커] 김포 등을 서울로 편입하는 것에 대해 찬성하는지 반대하는지 묻는 여론조사 결과가 하나 나왔습니다. 58.6%, 그러니까 10명 중 6명꼴로 반대한다고 답했습니다. 가뜩이나 큰 서울이 더 커지는 데 부정적 인식이 강한 걸로 보입니다. 특히 김포 주민들 사이에선, 김포가 서울의 쓰레기장이 될 수도 있다는 우려도 나오는데 왜 이런 우려가 나왔고, 실제]]></content>
     </entry>
 </feed>
