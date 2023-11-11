@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-11T11:14:34.061Z</updated>
+    <updated>2023-11-11T12:33:46.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이젠 배달앱까지 팁 달라고?…"사장님 힘내세요" 2천 원 [사실은]]]></title>
+        <id>https://v.daum.net/v/20231111203316944</id>
+        <link href="https://v.daum.net/v/20231111203316944"/>
+        <updated>2023-11-11T12:31:39.925Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 손님에게 팁을 권유한 일부 식당들이 눈총을 받은 적이 있었는데, 배달앱에서도 비슷한 현상이 나타나고 있습니다. 음식을 받기도 전인데, 이런 거 받는 것 자체가 문제다, 불법 아니냐는 이야기까지 나옵니다. 팩트체크 '사실은' 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 배달의민족 앱에 올라온 한 식당 메뉴입니다. 2만 5천500원짜리 소곱창전골 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '수도 확장' 메가시티가 세계적인 추세?]]></title>
         <id>https://v.daum.net/v/20231110201916489</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231104074800013"/>
         <updated>2023-11-03T23:18:11.608Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 &lt;중대재해처벌법에 떨고 있는 소규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 후쿠시마 오염수 3차 방류 시작…생선회 매출은]]></title>
-        <id>https://v.daum.net/v/20231102221807208</id>
-        <link href="https://v.daum.net/v/20231102221807208"/>
-        <updated>2023-11-02T13:22:56.305Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 일본이 두 차례에 걸쳐 오염수 만 5천 톤을 바다에 흘려보낸 데 이어, 오늘(2일)부터 3차 방류를 시작했습니다. 국내수산물 소비가 크게 위축되지 않을지 우려가 컸는데 생선회 매출에&nbsp;어떤 변화가 있었는지, 사실은 코너에서 확인해봤습니다. &lt;기자&gt; 민주당은 일본 규탄집회로, 국민의힘은 회 먹방에, 수조 물까지 떠먹으면서 첨예하게 맞선 오염수 방류 논]]></content>
     </entry>
 </feed>
