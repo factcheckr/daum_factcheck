@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-13T05:19:32.978Z</updated>
+    <updated>2023-11-13T06:27:06.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231113141802333</id>
+        <link href="https://v.daum.net/v/20231113141802333"/>
+        <updated>2023-11-13T05:19:20.701Z</updated>
+        <content type="html"><![CDATA[[김시연, 이종호 기자] ▲ &nbsp;국민의힘이 당론으로 경기도 김포시를 서울특별시로 편입하는 방안을 추진하면서 논란이 이어지고 있는 가운데 11월 1일 오후 경기도 김포시 거리에 현수막이 걸려있다.ⓒ 연합뉴스국민의힘 "서울 출퇴근 인구 81.5%라서 '김포구' 편입?" 국민의힘은 경기도 김포시의 서울특별시 편입을 추진하면서 높은 서울 출퇴근 인구를 근거로 내세운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이젠 배달앱까지 팁 달라고?…"사장님 힘내세요" 2천 원 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231111203316944</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231106111416937"/>
         <updated>2023-11-06T02:31:20.499Z</updated>
         <content type="html"><![CDATA["3천원~4천원이면 전문의를 볼 수 있는 나라" 한국은 의료 가성비가 높다고 하죠. 그러나 건강보험과 일부 의료인의 희생에 기댄 의료환경도 위기를 맞았습니다. 지방 병원은 사라지고, 생명과 직결된 과는 정원 미달입니다. 최근 정부는 의대생 증원 정책을 추진하고 있습니다. 시민단체들은 늘어나는 의사 인력을 공공의료나 필수의료로 유인해야 한다고 강조하는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해처벌법  '찬성한다 80%' vs '준비 안됐다 80%'…누구 말이 맞나[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231104074800013</id>
-        <link href="https://v.daum.net/v/20231104074800013"/>
-        <updated>2023-11-03T23:18:11.608Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 안녕하세요. 오늘은 &lt;중대재해처벌법에 떨고 있는 소규]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이젠 배달앱까지 팁 달라고?…"사장님 힘내세요" 2천 원 (다음 뉴스 ─ SBS 사실은)]]></title>
