@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-11-13T04:22:53.592Z</updated>
+    <updated>2023-11-13T05:19:32.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데]]></title>
+        <id>https://v.daum.net/v/20231113141802333</id>
+        <link href="https://v.daum.net/v/20231113141802333"/>
+        <updated>2023-11-13T05:19:20.701Z</updated>
+        <content type="html"><![CDATA[[김시연, 이종호 기자] ▲ &nbsp;국민의힘이 당론으로 경기도 김포시를 서울특별시로 편입하는 방안을 추진하면서 논란이 이어지고 있는 가운데 11월 1일 오후 경기도 김포시 거리에 현수막이 걸려있다.ⓒ 연합뉴스국민의힘 "서울 출퇴근 인구 81.5%라서 '김포구' 편입?" 국민의힘은 경기도 김포시의 서울특별시 편입을 추진하면서 높은 서울 출퇴근 인구를 근거로 내세운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개원 의사가 7급 공무원보다 못 번다?" 주장은 '거짓']]></title>
         <id>https://v.daum.net/v/20231027122702210</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230825132701312"/>
         <updated>2023-08-25T05:18:52.728Z</updated>
         <content type="html"><![CDATA[[김시연, 강석찬 기자] ▲ &nbsp;한동훈 법무부 장관이 지난 21일 오후 서울 여의도 국회 법제사법위원회 전체회의에서 의원들의 질의에 답변하고 있다.ⓒ 유성호&nbsp; [검증대상] "검수완박 때문에 지구대 인력 부족" 국민의힘 주장 최근 불특정 다수를 대상으로 한 '무차별 범죄'와 대낮 성폭행 살인 등 강력범죄가 잇따르면서 치안 공백을 우려하는 목소리가 높다. 여당인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["극우뇌 아이는 천재과?" 좌·우뇌인 구분법은 '거짓']]></title>
-        <id>https://v.daum.net/v/20230816200302044</id>
-        <link href="https://v.daum.net/v/20230816200302044"/>
-        <updated>2023-08-16T11:15:45.928Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;GG브레인파워연구소는 &lt;세계적 천재들도 너만큼 산만했단다&gt;라는 제목의 책에서 좌뇌와 우뇌의 비율(인지 과정 기여도)에 따라 극우뇌인, 강우뇌인 등 7가지 유형으로 구분했다.ⓒ 프리윌출판사&nbsp; [검증 대상] "좌뇌형 인간-우뇌형 인간 따로 있다" 인터넷 속설 자녀가 '왕의 DNA'를 가졌다는 한 교육부 사무관 편지 내용 출처가 '주의력결핍]]></content>
     </entry>
 </feed>
