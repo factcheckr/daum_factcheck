@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-14T01:18:51.351Z</updated>
+    <updated>2023-11-14T02:29:05.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20231114105701201</id>
+        <link href="https://v.daum.net/v/20231114105701201"/>
+        <updated>2023-11-14T02:27:10.709Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;▲ &nbsp;오세훈 서울시장(왼쪽)과 김병수 김포시장이 지난 6일 오후 서울 중구 서울시청에서 김포시의 공식적인 서울 편입 방안을 논의하기 위해 만나고 있다.ⓒ 공동취재사진&nbsp; [검증 대상] "서울 편입하면 김포시 세수 3000억 원 감소" 민주당 주장 경기도 김포시가 서울특별시 자치구로 편입할 경우 세수가 지금보다 3000억 원 가량 줄어 재정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20231113141802333</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231106192533129"/>
         <updated>2023-11-06T11:15:59.225Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 찬반 입장이나 갈등이 첨예한 교육 현안을 '공론화'로 풀어가자는 움직임이 충북에서도 시작됐습니다. 충북교육청은 각계 대표로 '공론화추진단'까지 구성했는데요. 사실과 다른 홍보부터 대표성과 의제 선정까지, 논란이 끊이지 않고 있습니다. 팩트체크 K 충북, 박미영 기자가 보도합니다. [리포트] 충북교육 공론화추진단은 갈등이 첨예한 교육]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 우리나라 공공의료 비중은 OECD 국가 중 꼴찌?]]></title>
-        <id>https://v.daum.net/v/20231106111416937</id>
-        <link href="https://v.daum.net/v/20231106111416937"/>
-        <updated>2023-11-06T02:31:20.499Z</updated>
-        <content type="html"><![CDATA["3천원~4천원이면 전문의를 볼 수 있는 나라" 한국은 의료 가성비가 높다고 하죠. 그러나 건강보험과 일부 의료인의 희생에 기댄 의료환경도 위기를 맞았습니다. 지방 병원은 사라지고, 생명과 직결된 과는 정원 미달입니다. 최근 정부는 의대생 증원 정책을 추진하고 있습니다. 시민단체들은 늘어나는 의사 인력을 공공의료나 필수의료로 유인해야 한다고 강조하는데]]></content>
     </entry>
 </feed>
