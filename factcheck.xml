@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-15T20:20:54.633Z</updated>
+    <updated>2023-11-15T21:17:41.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '노00존'은 합법?]]></title>
+        <id>https://v.daum.net/v/20231116060046791</id>
+        <link href="https://v.daum.net/v/20231116060046791"/>
+        <updated>2023-11-15T21:16:23.750Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요." 지난 9월 서울의 한 프랜차이즈 카페를 이용하던 노년 고객에게 사장이 건넨 쪽지 내용이다. 각종 온라인 커뮤니티에 해당 내용이 빠르게 퍼지며 '노시니어존'이 화두에 올랐다. 특정 고객의 출입을 제한하는 '노(NO)00존(Z]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구리시가 자치권한 들고 서울 편입? "가능성 제로" [팩트파인더]]]></title>
         <id>https://v.daum.net/v/20231115043211676</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231107075102137"/>
         <updated>2023-11-06T23:17:43.532Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 중대재해처벌법이 기업 위협한다?]]></title>
-        <id>https://v.daum.net/v/20231106203008927</id>
-        <link href="https://v.daum.net/v/20231106203008927"/>
-        <updated>2023-11-06T12:36:19.087Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 노동자가 일하다 숨지는 사고가 일어났을 때 사전 예방을 소홀히 한 사업주를 처벌하는 게 중대재해처벌법입니다. 내년부터는 50인 미만 사업장까지 확대 시행되는데요. 최근 윤석열 대통령은 기업들이 이를 두려워하고 있다고 언급했습니다. [윤석열 대통령] "50인 이하 소규모 사업장에서는 내년부터 적용되는 중대재해처벌법을 두려워하는 목]]></content>
     </entry>
 </feed>
