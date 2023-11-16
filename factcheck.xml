@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-16T09:19:33.665Z</updated>
+    <updated>2023-11-16T10:21:13.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["박정희 생일을 국가기념일로?" '북한식 발상' 맞나 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20231116183602950</id>
+        <link href="https://v.daum.net/v/20231116183602950"/>
+        <updated>2023-11-16T10:20:11.685Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;이철우 경북도지사가 16일 박정희 탄신일을 국가기념일로 지정하자고 제안했다. 사진은 지난 7월 4일 대구시청 산격청사에서 열린 국민의힘과 대구시, 경상북도 예산정책 협의회 발언 장면.ⓒ 조정훈&nbsp; 이철우 경북도지사 "박정희 생일, 국가기념일 제정 검토 필요" 윤석열 정부에서 '이승만 기념관' 건립을 추진하는 가운데, 국민의힘 소속 이철]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '노00존'은 합법?]]></title>
         <id>https://v.daum.net/v/20231116060046791</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231107075212161"/>
         <updated>2023-11-06T23:17:43.527Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 '닭강정 알바 시급 논란'이라는 제목의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 정부의 마약과의 전쟁은 어떻게 진행되고 있나?]]></title>
-        <id>https://v.daum.net/v/20231107075102137</id>
-        <link href="https://v.daum.net/v/20231107075102137"/>
-        <updated>2023-11-06T23:17:43.532Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
     </entry>
 </feed>

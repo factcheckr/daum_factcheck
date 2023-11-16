@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-11-16T09:19:33.676Z</updated>
+    <updated>2023-11-16T10:21:13.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["박정희 생일을 국가기념일로?" '북한식 발상' 맞나]]></title>
+        <id>https://v.daum.net/v/20231116183602950</id>
+        <link href="https://v.daum.net/v/20231116183602950"/>
+        <updated>2023-11-16T10:21:04.672Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;이철우 경북도지사가 16일 박정희 탄신일을 국가기념일로 지정하자고 제안했다. 사진은 지난 7월 4일 대구시청 산격청사에서 열린 국민의힘과 대구시, 경상북도 예산정책 협의회 발언 장면.ⓒ 조정훈&nbsp; 이철우 경북도지사 "박정희 생일, 국가기념일 제정 검토 필요" 윤석열 정부에서 '이승만 기념관' 건립을 추진하는 가운데, 국민의힘 소속 이철]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["서울 편입, 김포가 3000억원 손해" 주장은 '대체로 사실']]></title>
         <id>https://v.daum.net/v/20231114105701201</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230901160001254"/>
         <updated>2023-09-01T07:18:00.677Z</updated>
         <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;윤석열 대통령은 지난 31일 서울 노량진수산시장을 방문해 상인들을 격려하고 직접 수산물을 구매하고 시식하는 등 수산물 소비 장려 활동을 벌였다. 이도운 대통령실 대변인은 서면브리핑을 통해 이번 윤 대통령의 노량진수산시장 방문이 "대통령의 서울 노량진수산시장 방문은 1927년 경성수산(현 노량진수산시장) 개장 이래로 96년 만에 처음"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍범도, 자유시 사변 '독립군 몰살' 가담" 주장은 '거짓']]></title>
-        <id>https://v.daum.net/v/20230831120929086</id>
-        <link href="https://v.daum.net/v/20230831120929086"/>
-        <updated>2023-08-31T03:19:27.145Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;국방부가 육군사관학교 교내뿐 아니라 국방부 청사 앞에 설치된 고(故) 홍범도 장군 흉상에 대해서도 필요시 이전을 검토하고 있다고 밝힌 28일 서울 용산구 국방부 청사 앞에 설치된 고 홍범도 장군 흉상 모습.ⓒ 연합뉴스&nbsp; [기사 수정 : 8월 31일 오후 1시 55분]&nbsp; 국방부는 육군사관학교 내 독립운동가 흉상 이전을 추진하면서 "홍범]]></content>
     </entry>
 </feed>
