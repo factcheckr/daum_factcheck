@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T22:19:02.964Z</updated>
+    <updated>2023-11-17T23:19:15.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[컴퓨터 옆에 둔 선인장…전자파 차단 효과 없다? [노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231118074800864</id>
+        <link href="https://v.daum.net/v/20231118074800864"/>
+        <updated>2023-11-17T23:18:15.954Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 &lt;식물과 관련된 잘못된 정보&gt; 이런 주제를 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["박정희 생일을 국가기념일로?" 다른 나라 사례 살펴보니  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231116183602950</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231107114512881"/>
         <updated>2023-11-07T03:18:25.036Z</updated>
         <content type="html"><![CDATA[지난달 20일 국내에서 처음 발생한 럼피스킨 확진 사례가 6일 기준으로 27개 시·군에서 총 81건으로 늘어났다. 충북 충주에서도 첫 발병이 확인된 가운데, 국내 사육두수가 가장 많은 경북은 다행히도 아직 확진 사례가 없다. 백신 접종률이 95%까지 늘어나면서 급속한 확산은 일단 막은 상태지만, 일부 소비자들이 한우 구매를 망설이면서 한우 농가들의 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 알바생 능력으로 일찍 끝난 업무, 나머지 시급도 줘야 하나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231107075212161</id>
-        <link href="https://v.daum.net/v/20231107075212161"/>
-        <updated>2023-11-06T23:17:43.527Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 04일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 SNS를 중심으로 '닭강정 알바 시급 논란'이라는 제목의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이젠 배달앱까지 팁 달라고?…"사장님 힘내세요" 2천 원 (다음 뉴스 ─ SBS 사실은)]]></title>
