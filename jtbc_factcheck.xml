@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2023-11-20T10:23:17.235Z</updated>
+    <updated>2023-11-20T11:19:16.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까?]]></title>
+        <id>https://v.daum.net/v/20231120200113647</id>
+        <link href="https://v.daum.net/v/20231120200113647"/>
+        <updated>2023-11-20T11:19:15.967Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요. 실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다. [기자] 대출금 내고 전입신고를 해야 하는데 못했다. 대출을 제 때 받지 못했다. 이번에 행정망이 먹통 된 뒤 온라인에 올라온 글 들 입니다. 이런 피해, 손해배상 청구가 가능할까요? 결론부터 말하면 가능]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김포, 서울의 쓰레기장 된다?…가능성 따져보니]]></title>
         <id>https://v.daum.net/v/20231102200643692</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230103204609085"/>
         <updated>2023-01-03T12:39:59.390Z</updated>
         <content type="html"><![CDATA[[앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어가겠다고 했습니다. 취재기자와 함께 전장연의 주장을 팩트체크 해보겠습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노조, 수십억 지원 받고 감사는 안 받는다?]]></title>
-        <id>https://v.daum.net/v/20221222204754389</id>
-        <link href="https://v.daum.net/v/20221222204754389"/>
-        <updated>2022-12-22T12:41:53.757Z</updated>
-        <content type="html"><![CDATA[[앵커] 이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다. 박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요? [기자] 네 맞습니다. 여당에서는 민주노총 조합비가 연간 1700억이라면서 이런 말도 나왔는데요. 우선 들어보시죠. [주호영/국민의힘 원내대표 (지난 20일) : 정부로부터, 또]]></content>
     </entry>
 </feed>
