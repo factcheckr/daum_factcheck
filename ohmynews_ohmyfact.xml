@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2023-11-21T10:27:18.350Z</updated>
+    <updated>2023-11-21T11:17:05.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["서울 편입 찬성 2배 늘었다?" 김포시 여론조사의 함정]]></title>
+        <id>https://v.daum.net/v/20231121200602463</id>
+        <link href="https://v.daum.net/v/20231121200602463"/>
+        <updated>2023-11-21T11:16:56.772Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김병수 김포시장이 지난 7일 김포시 장기본동 행정복지센터에서 열린 주민 설명회에서 서울시 편입에 대해 설명하고 있다.ⓒ 김포시 제공&nbsp; [검증대상] "김포시민 서울 편입 찬성 비율 36%→68% 증가?"&nbsp; 김포시가 서울특별시 편입에 대한 김포시민 찬성 여론이 일주일 사이 36%에서 68%로 2배 가까이 증가했다고 밝혀 논란이다. 김포시는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["박정희 생일을 국가기념일로?" 다른 나라 사례 살펴보니]]></title>
         <id>https://v.daum.net/v/20231116183602950</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230907124800634"/>
         <updated>2023-09-07T04:22:28.107Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이철규 국민의힘 사무총장이 5일 서울 여의도 국회에서 열린 원내대책회의에 참석해 있다.ⓒ 남소연&nbsp; 지난 2022년 3월 대선 직전 &lt;뉴스타파&gt; '김만배 음성 파일' 보도가 논란이 되고 있는 가운데, 당시 해당 보도를 인용했던 이재명 더불어민주당 대표 페이스북 글이 갑자기 사라졌다는 주장이 제기됐다. 이철규 국민의힘 사무총장은 6일 오후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤, 현직 대통령 노량진수산시장 첫방문" 대통령실 브리핑은 '거짓']]></title>
-        <id>https://v.daum.net/v/20230901160001254</id>
-        <link href="https://v.daum.net/v/20230901160001254"/>
-        <updated>2023-09-01T07:18:00.677Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;윤석열 대통령은 지난 31일 서울 노량진수산시장을 방문해 상인들을 격려하고 직접 수산물을 구매하고 시식하는 등 수산물 소비 장려 활동을 벌였다. 이도운 대통령실 대변인은 서면브리핑을 통해 이번 윤 대통령의 노량진수산시장 방문이 "대통령의 서울 노량진수산시장 방문은 1927년 경성수산(현 노량진수산시장) 개장 이래로 96년 만에 처음"이]]></content>
     </entry>
 </feed>
