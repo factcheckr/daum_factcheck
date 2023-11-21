@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-21T09:20:04.449Z</updated>
+    <updated>2023-11-21T10:27:18.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 스타벅스 "주문 취소 안 된다"…규정 알아보니]]></title>
+        <id>https://v.daum.net/v/20231121183300551</id>
+        <link href="https://v.daum.net/v/20231121183300551"/>
+        <updated>2023-11-21T10:26:14.725Z</updated>
+        <content type="html"><![CDATA[스타벅스에 가서 음료를 주문하면 너무 오래 기다리게 되는 경우가 많습니다. 그래서 미리 앱으로 주문해놓고 가서 음료를 받는데 이를 '사이렌 오더'라고 합니다. 그런데 이 사이렌 오더로 음료를 주문했다가 취소하거나 다른 음료로 바꾸려 해도 안 된다는 사실 아시나요? 이게 요즘 논란인데요. 한 소비자는 배달 주문을 하려 했는데 실수로 '사이렌 오더'를 해 취]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소변→모발→손톱’ 검사 음성이면 결백? “신종마약 투약 가능성도”]]></title>
         <id>https://v.daum.net/v/20231121142510395</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231114105701201"/>
         <updated>2023-11-14T02:27:10.709Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;▲ &nbsp;오세훈 서울시장(왼쪽)과 김병수 김포시장이 지난 6일 오후 서울 중구 서울시청에서 김포시의 공식적인 서울 편입 방안을 논의하기 위해 만나고 있다.ⓒ 공동취재사진&nbsp; [검증 대상] "서울 편입하면 김포시 세수 3000억 원 감소" 민주당 주장 경기도 김포시가 서울특별시 자치구로 편입할 경우 세수가 지금보다 3000억 원 가량 줄어 재정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["서울 출퇴근 80% 넘어서 '김포구' 편입?" MB 정부도 반대했는데 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20231113141802333</id>
-        <link href="https://v.daum.net/v/20231113141802333"/>
-        <updated>2023-11-13T06:25:08.923Z</updated>
-        <content type="html"><![CDATA[[김시연, 이종호 기자] ▲ &nbsp;국민의힘이 당론으로 경기도 김포시를 서울특별시로 편입하는 방안을 추진하면서 논란이 이어지고 있는 가운데 11월 1일 오후 경기도 김포시 거리에 현수막이 걸려있다.ⓒ 연합뉴스국민의힘 "서울 출퇴근 인구 81.5%라서 '김포구' 편입?" 국민의힘은 경기도 김포시의 서울특별시 편입을 추진하면서 높은 서울 출퇴근 인구를 근거로 내세운]]></content>
     </entry>
 </feed>
