@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-21T21:18:19.363Z</updated>
+    <updated>2023-11-21T22:20:22.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 8살 아이가 던진 돌…다시 불붙은 소년범 연령 하향]]></title>
+        <id>https://v.daum.net/v/20231122063019920</id>
+        <link href="https://v.daum.net/v/20231122063019920"/>
+        <updated>2023-11-21T22:18:05.217Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 임윤지 기자 = 지난 17일 서울 노원구의 한 아파트에서 8살 초등학생이 던진 돌멩이에 길을 걸어가던 70대 노인이 맞아 사망한 일이 있었습니다. 하지만 나이가 너무 어려 형사처벌 없이 경찰이 내사 종결을 했는데요. 이에 형사 미성년자 연령 하향을 둘러싸고 다시금 논의에 불씨가 붙었습니다. 소년범 연령 하향 문제는 법조계와 우리 사회에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "사이렌 오더는 취소 안 돼요"…문제 없나 보니]]></title>
         <id>https://v.daum.net/v/20231121201205586</id>
@@ -31,7 +38,7 @@
         <id>https://v.daum.net/v/20231121142510395</id>
         <link href="https://v.daum.net/v/20231121142510395"/>
         <updated>2023-11-21T06:24:39.310Z</updated>
-        <content type="html"><![CDATA[최근 유명인들의 마약 투약 의혹이 논란인 가운데 ‘국립과학수사연구원 검사가 음성이면 음성(투약하지 않은 것)이다’, ‘신종마약은 검출 안 된다’ 등 마약 투약과 관련한 여러 이야기가 쏟아지고 있다. 이와 관련된 여러 궁금증을 마약 관련 전문가들의 얘기를 통해 풀어봤다. 마약 검사는 대개 ‘소변→모발(or 체모)→손톱’ 순으로 이뤄진다. 더 과거의 투약 이력]]></content>
+        <content type="html"><![CDATA[☞한겨레 뉴스레터 H:730 구독하기. 검색창에 ‘한겨레 h730’을 쳐보세요. 최근 유명인들의 마약 투약 의혹이 논란인 가운데 ‘국립과학수사연구원 검사가 음성이면 음성(투약하지 않은 것)이다’, ‘신종마약은 검출 안 된다’ 등 마약 투약과 관련한 여러 이야기가 쏟아지고 있다. 이와 관련된 여러 궁금증을 마약 관련 전문가들의 얘기를 통해 풀어봤다. 마약 검]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 무알코올, 비알코올 맥주 마시고 운전하면 음주운전?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231116183602950"/>
         <updated>2023-11-16T10:20:11.685Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;이철우 경북도지사가 16일 박정희 탄신일을 국가기념일로 지정하자고 제안했다. 사진은 지난 7월 4일 대구시청 산격청사에서 열린 국민의힘과 대구시, 경상북도 예산정책 협의회 발언 장면.ⓒ 조정훈&nbsp; 이철우 경북도지사 "박정희 생일, 국가기념일 제정 검토 필요" 윤석열 정부에서 '이승만 기념관' 건립을 추진하는 가운데, 국민의힘 소속 이철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '노00존'은 합법?]]></title>
-        <id>https://v.daum.net/v/20231116060046791</id>
-        <link href="https://v.daum.net/v/20231116060046791"/>
-        <updated>2023-11-15T21:16:23.750Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김수지 조서연 인턴기자 = "고객님 매장 이용 시간이 너무 깁니다. 젊은 고객님들은 아예 이쪽으로 안 오고 있어요." 지난 9월 서울의 한 프랜차이즈 카페를 이용하던 노년 고객에게 사장이 건넨 쪽지 내용이다. 각종 온라인 커뮤니티에 해당 내용이 빠르게 퍼지며 '노시니어존'이 화두에 올랐다. 특정 고객의 출입을 제한하는 '노(NO)00존(Z]]></content>
     </entry>
 </feed>
