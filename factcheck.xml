@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-22T08:25:04.367Z</updated>
+    <updated>2023-11-22T09:20:57.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 소방관이 지급받는 간병료가 간병인 일당도 안된다?]]></title>
+        <id>https://v.daum.net/v/20231122173453016</id>
+        <link href="https://v.daum.net/v/20231122173453016"/>
+        <updated>2023-11-22T09:18:52.969Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 지난 9월 부산의 한 목욕탕에서 화재·폭발 사고가 일어나 현장에 있던 경찰과 소방관들이 크게 다쳤다. 그 가운데 일부는 화상이 심각해 지속해서 전문 간병인의 도움을 받아야 하는 상황이다. 그런데 이들이 간병인 1일 요금의 절반도 지원받지 못하고 있다는 언론 보도들이 이어졌다. 실제 간병인을 24시간 쓰려면 하루 15만 원은 줘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 8살 아이가 던진 돌…다시 불붙은 소년범 연령 하향]]></title>
         <id>https://v.daum.net/v/20231122063019920</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231118074800864"/>
         <updated>2023-11-17T23:18:15.954Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. 오늘은 &lt;식물과 관련된 잘못된 정보&gt; 이런 주제를 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박정희 생일을 국가기념일로?" 다른 나라 사례 살펴보니  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20231116183602950</id>
-        <link href="https://v.daum.net/v/20231116183602950"/>
-        <updated>2023-11-16T10:20:11.685Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;이철우 경북도지사가 16일 박정희 탄신일을 국가기념일로 지정하자고 제안했다. 사진은 지난 7월 4일 대구시청 산격청사에서 열린 국민의힘과 대구시, 경상북도 예산정책 협의회 발언 장면.ⓒ 조정훈&nbsp; 이철우 경북도지사 "박정희 생일, 국가기념일 제정 검토 필요" 윤석열 정부에서 '이승만 기념관' 건립을 추진하는 가운데, 국민의힘 소속 이철]]></content>
     </entry>
 </feed>
