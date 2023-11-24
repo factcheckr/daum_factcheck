@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-24T22:18:01.419Z</updated>
+    <updated>2023-11-24T23:19:41.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北, 미사일 아닌 위성발사인데 규탄 받는 이유는?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20231125074800640</id>
+        <link href="https://v.daum.net/v/20231125074800640"/>
+        <updated>2023-11-24T23:17:36.343Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. &nbsp;오늘은 &lt;누리호엔 박수, 천리마호는 규탄, 왜?&gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 북한 게시물을 올리면 국가보안법 위반이다?]]></title>
         <id>https://v.daum.net/v/20231122195842289</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231121091910023"/>
         <updated>2023-11-21T01:22:19.651Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까?]]></title>
-        <id>https://v.daum.net/v/20231120200113647</id>
-        <link href="https://v.daum.net/v/20231120200113647"/>
-        <updated>2023-11-20T11:18:14.825Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요. 실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다. [기자] 대출금 내고 전입신고를 해야 하는데 못했다. 대출을 제 때 받지 못했다. 이번에 행정망이 먹통 된 뒤 온라인에 올라온 글 들 입니다. 이런 피해, 손해배상 청구가 가능할까요? 결론부터 말하면 가능]]></content>
     </entry>
 </feed>
