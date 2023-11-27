@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-27T22:17:45.875Z</updated>
+    <updated>2023-11-27T23:20:16.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바나나·망고 관세 면제하면 물가 떨어질까[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20231128074036947</id>
+        <link href="https://v.daum.net/v/20231128074036947"/>
+        <updated>2023-11-27T23:19:13.350Z</updated>
+        <content type="html"><![CDATA[정부가 물가 상승을 주도하는 먹거리 가격을 잡기 위해 바나나를 비롯한 수입산 과일과 농축산물 등에 할당관세를 적용하고 있지만, 효과에 대한 의견은 분분하다. 특히 수입-유통 경쟁 환경을 면밀히 반영하지 않은 품목 선정으로, 소비자가 체감하는 물가 인하 효과는 제한적일 수 있다는 지적이 제기된다. 할당관세는 특정 수입품에 대한 관세를 일정 기간 한시적으로 낮]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北, 미사일 아닌 위성발사인데 규탄 받는 이유는?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20231125074800640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231121091919024"/>
         <updated>2023-11-21T01:22:19.650Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 모임이 많은 연말연시를 앞두고 차를 가져가야 해서 무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 고수익 재택 아르바이트의 실체]]></title>
-        <id>https://v.daum.net/v/20231121091910023</id>
-        <link href="https://v.daum.net/v/20231121091910023"/>
-        <updated>2023-11-21T01:22:19.651Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 11월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크해 보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
     </entry>
 </feed>
