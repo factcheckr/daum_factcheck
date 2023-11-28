@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-11-27T23:20:16.882Z</updated>
+    <updated>2023-11-28T01:21:49.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[바나나·망고 관세 면제하면 물가 떨어질까[팩트체크]]]></title>
+        <title type="html"><![CDATA[[팩트체크]바나나·망고 관세 면제하면 물가 떨어질까]]></title>
         <id>https://v.daum.net/v/20231128074036947</id>
         <link href="https://v.daum.net/v/20231128074036947"/>
         <updated>2023-11-27T23:19:13.350Z</updated>
