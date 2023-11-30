@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2023-11-30T12:37:42.719Z</updated>
+    <updated>2023-11-30T13:27:08.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가짜 의사·약사' 등장 광고, 유튜브에선 가능했던 이유]]></title>
+        <id>https://v.daum.net/v/20231130210307461</id>
+        <link href="https://v.daum.net/v/20231130210307461"/>
+        <updated>2023-11-30T13:26:20.055Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 유튜브 광고에서 다이어트 제품을 홍보하는 의사와 약사가 사실은 배우였다는 내용 저희가 그제(28일) 전해드렸습니다. 보도 이후에 대한의사협회와 대한약사회가 해당 업체를 검찰에 고발했습니다. 그런데 이런 허위 광고가 어떻게 사람들한테 버젓이 노출될 수 있었던 건지 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; [배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사이렌 오더는 취소 안 돼요"…문제 없나 보니]]></title>
         <id>https://v.daum.net/v/20231121201205586</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230918204207695"/>
         <updated>2023-09-18T12:36:10.197Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 오염수 방류 이후, 일부 소비자들은 혹시나 하는 걱정에 휴대용 측정기로 직접 수산물의 방사능을&nbsp;재는 경우도 있습니다. 휴대용 측정기 판매 업체도 급속히 늘고 있는데, 이 측정기가 과연 효과가 있을지 팩트체크 사실은 코너에서 확인했습니다. 박세용 기자입니다. &lt;기자&gt; 한 중국인이 일본 도쿄에서 초밥을 먹으면서 일일이 방사능을 측정하는 영상이 최근 화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍범도 논란의 핵심, 역사의 소급 적용"]]></title>
-        <id>https://v.daum.net/v/20230902075700496</id>
-        <link href="https://v.daum.net/v/20230902075700496"/>
-        <updated>2023-09-01T23:16:54.521Z</updated>
-        <content type="html"><![CDATA[이번 주는 육군사관학교 내부에 설치된 독립운동가 홍범도 장군의 흉상을 놓고 정치권 논란이 뜨거웠습니다. 국방부는 "공산주의 이력이 있는 홍범도 장군의 흉상을 육사에 설치해 기념하는 것은 육사의 정체성을 고려할 때 적절하지 않다"고 입장문을 냈습니다. 그러면서 홍범도 장군의 공산주의 관련 행적의 구체적 사례를 열거했습니다. 그렇다면, 국방부 주장에 대한]]></content>
     </entry>
 </feed>
