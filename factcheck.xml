@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-04T14:20:49.529Z</updated>
+    <updated>2023-12-04T15:20:46.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 개 식용 금지 문제에 대한 논란 팩트체크]]></title>
+        <id>https://v.daum.net/v/20231204232808350</id>
+        <link href="https://v.daum.net/v/20231204232808350"/>
+        <updated>2023-12-04T15:19:54.225Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크 해보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 합격통보 받고 갑작스러운 취소통보, 부당해고일까?]]></title>
+        <id>https://v.daum.net/v/20231204232401320</id>
+        <link href="https://v.daum.net/v/20231204232401320"/>
+        <updated>2023-12-04T15:19:54.226Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 채용에 최종 합격했는데 돌연 입사 취소 통보를 받은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인]연말 앞두고 형형색색 화려한 트리 조명…나무 말려 죽인다?]]></title>
         <id>https://v.daum.net/v/20231201193649372</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231122195842289"/>
         <updated>2023-11-22T11:16:09.392Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 SNS에 북한 관련 게시물을 올린 혐의로 압수수색을 받고 입건된 탈북민 관련 소식 전해드렸는데요. 사실 북한 주민 말투로 된 광고물과 영상은 주변에서 쉽게 찾아볼 수 있죠. 그렇다면 게시물을 올리거나 댓글을 다는 행위들이 문제가 될 수 있는 건지, 윤현지 기자가 사실확인을 통해 알아봤습니다. 【 기자 】 온라인 커뮤니티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 소방관이 지급받는 간병료가 간병인 일당도 안된다?]]></title>
-        <id>https://v.daum.net/v/20231122173453016</id>
-        <link href="https://v.daum.net/v/20231122173453016"/>
-        <updated>2023-11-22T09:18:52.969Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 지난 9월 부산의 한 목욕탕에서 화재·폭발 사고가 일어나 현장에 있던 경찰과 소방관들이 크게 다쳤다. 그 가운데 일부는 화상이 심각해 지속해서 전문 간병인의 도움을 받아야 하는 상황이다. 그런데 이들이 간병인 1일 요금의 절반도 지원받지 못하고 있다는 언론 보도들이 이어졌다. 실제 간병인을 24시간 쓰려면 하루 15만 원은 줘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 8살 아이가 던진 돌…다시 불붙은 소년범 연령 하향]]></title>
-        <id>https://v.daum.net/v/20231122063019920</id>
-        <link href="https://v.daum.net/v/20231122063019920"/>
-        <updated>2023-11-21T22:18:05.217Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 임윤지 기자 = 지난 17일 서울 노원구의 한 아파트에서 8살 초등학생이 던진 돌멩이에 길을 걸어가던 70대 노인이 맞아 사망한 일이 있었습니다. 하지만 나이가 너무 어려 형사처벌 없이 경찰이 내사 종결을 했는데요. 이에 형사 미성년자 연령 하향을 둘러싸고 다시금 논의에 불씨가 붙었습니다. 소년범 연령 하향 문제는 법조계와 우리 사회에]]></content>
     </entry>
 </feed>
