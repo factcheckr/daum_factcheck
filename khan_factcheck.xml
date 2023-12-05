@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2023-12-05T09:20:02.093Z</updated>
+    <updated>2023-12-05T10:22:00.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론]]></title>
+        <id>https://v.daum.net/v/20231205185407843</id>
+        <link href="https://v.daum.net/v/20231205185407843"/>
+        <updated>2023-12-05T10:21:44.086Z</updated>
+        <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니]]></title>
         <id>https://v.daum.net/v/20230820164301054</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20220725213201592"/>
         <updated>2022-11-16T17:35:16.389Z</updated>
         <content type="html"><![CDATA[고 이한열·박종철·전태일 등 민주화 상징적 인물들 지정 유공 예상 대상자 829명 중 “현역 정치인 단 1명도 없어” 여야가 민주화운동 희생자를 국가유공자로 예우하는 ‘민주유공자법’ 제정을 놓고 정면충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”고 주장하는 반면 국민의힘은 대입 특별전형과 공무원·공기업 임용 가산점 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이한열·전태일·박종철도 못받은 유공자 대우..'운동권 셀프보상' '신분세습법' 비판은 타당한가]]></title>
-        <id>https://v.daum.net/v/20220725170744378</id>
-        <link href="https://v.daum.net/v/20220725170744378"/>
-        <updated>2022-11-16T17:35:16.390Z</updated>
-        <content type="html"><![CDATA[여야가 과거 민주화운동 희생자를 국가유공자로 지정해 예우하는 ‘민주유공자법’의 제정을 놓고 연일 정면 충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”며 2년 만에 다시 입법에 나선 반면 국민의힘은 해당 법안이 대입 특별전형과 공무원·공기업 임용 가산점 등을 주는 ‘셀프 특혜’ ‘신분세습법’이라고 반대하고 있다. 일각에서는]]></content>
     </entry>
 </feed>

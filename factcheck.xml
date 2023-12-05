@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-05T09:20:02.148Z</updated>
+    <updated>2023-12-05T10:22:00.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20231205185407843</id>
+        <link href="https://v.daum.net/v/20231205185407843"/>
+        <updated>2023-12-05T10:20:58.167Z</updated>
+        <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공매도 팩트체크]외국인 상환기간 진짜 바뀐 게 없다고?]]></title>
         <id>https://v.daum.net/v/20231205064021994</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231128074036947"/>
         <updated>2023-11-27T23:19:13.350Z</updated>
         <content type="html"><![CDATA[정부가 물가 상승을 주도하는 먹거리 가격을 잡기 위해 바나나를 비롯한 수입산 과일과 농축산물 등에 할당관세를 적용하고 있지만, 효과에 대한 의견은 분분하다. 특히 수입-유통 경쟁 환경을 면밀히 반영하지 않은 품목 선정으로, 소비자가 체감하는 물가 인하 효과는 제한적일 수 있다는 지적이 제기된다. 할당관세는 특정 수입품에 대한 관세를 일정 기간 한시적으로 낮]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北, 미사일 아닌 위성발사인데 규탄 받는 이유는?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20231125074800640</id>
-        <link href="https://v.daum.net/v/20231125074800640"/>
-        <updated>2023-11-24T23:17:36.343Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 (뉴스톱 기자) ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 팩트체크 전문미디어 뉴스톱 선정수 기자와 함께 합니다. &nbsp;오늘은 &lt;누리호엔 박수, 천리마호는 규탄, 왜?&gt;]]></content>
     </entry>
 </feed>
