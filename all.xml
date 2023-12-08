@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-08T22:19:07.974Z</updated>
+    <updated>2023-12-08T23:22:06.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세계 자살률 1위 그린란드, 백야(白夜)때문? 한국은 왜?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231209074800170</id>
+        <link href="https://v.daum.net/v/20231209074800170"/>
+        <updated>2023-12-08T23:20:48.742Z</updated>
+        <content type="html"><![CDATA[CBS라디오 주말뉴스쇼 &lt;모아모아 팩트체크&gt;■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘은 &lt;그린란드가 세계 자살 1위?&gt; 이런 주제를 가지고 오셨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '서울의 봄' 반역자들, 죗값 치렀나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231208201014358</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231130210307461"/>
         <updated>2023-11-30T12:35:38.573Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 유튜브 광고에서 다이어트 제품을 홍보하는 의사와 약사가 사실은 배우였다는 내용 저희가 그제(28일) 전해드렸습니다. 보도 이후에 대한의사협회와 대한약사회가 해당 업체를 검찰에 고발했습니다. 그런데 이런 허위 광고가 어떻게 사람들한테 버젓이 노출될 수 있었던 건지 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; [배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 용산참사는 전문 시위꾼들의 도심테러? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231129202815856</id>
-        <link href="https://v.daum.net/v/20231129202815856"/>
-        <updated>2023-11-29T12:35:24.759Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 국민의힘 최고위원으로 당선된 김석기 의원은 용산참사를 '용산 화재 사고'로 지칭하며 '도심 테러'였다고 말했습니다. [김석기/국민의힘 최고위원 (지난 27일)] "무고한 시민과 차량을 향해 무차별로 화염병, 염산병, 돌을 투척한 도심 테러와 같은 심각한 불법 폭력 시위였습니다." 김 의원은 용산참사 당시 지휘 책임자인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
