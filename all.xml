@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-11T20:21:33.033Z</updated>
+    <updated>2023-12-11T21:17:45.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대한민국 합계출산율은 향후 상승한다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231212053600544</id>
+        <link href="https://v.daum.net/v/20231212053600544"/>
+        <updated>2023-12-11T21:16:22.439Z</updated>
+        <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국은 인구소멸 국가다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231211053601913</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231201193649372"/>
         <updated>2023-12-01T11:16:07.815Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 성탄절과 연말 분위기를 위한 트리 장식 곳곳에서 볼 수 있는데요. 트리 조명은 아름답지만, 낮인지 밤인지 헷갈리게 해 정작나무를 말라 죽여 치명적일 수 있다는데, 표선우 기자가 사실확인에서 알아봤습니다. 【 기자 】 연말을 앞두고 거리 곳곳에 꾸며진 트리 장식, 보기만 해도 마음을 따뜻하게 만들죠. 그런데 이런 장식들, 나무한테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]대규모 손실 우려 홍콩 ELS, '만기연장' 하면 '원금상환'? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231201071506018</id>
-        <link href="https://v.daum.net/v/20231201071506018"/>
-        <updated>2023-11-30T22:17:54.224Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김정현 기자 = 홍콩 항셍중국기업지수(H지수) 폭락으로 주가연계증권(ELS)의 대규모 손실 가능성에 대한 우려가 커지고 있다. 금융당국과 판매사들 모두 대응책 마련에 분주한 가운데, 일부 판매사에서 제시한 '만기연장' 방안을 두고 잘못된 인식이 퍼지고 있다는 지적이 나온다. 1일 금융당국 및 금융권에 따르면 H지수 ELS를 판매한 일부]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
