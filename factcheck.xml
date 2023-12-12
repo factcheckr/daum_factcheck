@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-12T20:20:52.134Z</updated>
+    <updated>2023-12-12T21:18:53.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[합계출산율 1명 이하는 대한민국이 유일하다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20231213053600742</id>
+        <link href="https://v.daum.net/v/20231213053600742"/>
+        <updated>2023-12-12T21:16:52.997Z</updated>
+        <content type="html"><![CDATA[편집자 주 대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '서울의 봄' 그 후‥반란에 맞선 대가는?]]></title>
         <id>https://v.daum.net/v/20231212201006474</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231205064021994"/>
         <updated>2023-12-04T22:17:44.854Z</updated>
         <content type="html"><![CDATA[공매도 제도 개선 관련 의견을 청취하고자 마련된 토론회에서 증권 유관기관과 개인의 견해차가 좁혀지지 않았다. 증권 유관기관은 '공매도 제도에 대한 개인 투자자의 이해가 부족하다'고 지적했지만 개인 투자자 대표는 '외국인과 기관의 불법 공매도 처벌이 약하다'고 주장했다. 한국거래소와 한국예탁결제원, 한국증권금융, 금융투자협회 등 증권 유관기관 4곳은 4일 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 개 식용 금지 문제에 대한 논란 팩트체크]]></title>
-        <id>https://v.daum.net/v/20231204232808350</id>
-        <link href="https://v.daum.net/v/20231204232808350"/>
-        <updated>2023-12-04T15:19:54.225Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크 해보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
     </entry>
 </feed>
