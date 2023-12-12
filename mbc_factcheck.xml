@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-12-12T10:22:25.650Z</updated>
+    <updated>2023-12-12T11:18:08.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 그 후‥반란에 맞선 대가는?]]></title>
+        <id>https://v.daum.net/v/20231212201006474</id>
+        <link href="https://v.daum.net/v/20231212201006474"/>
+        <updated>2023-12-12T11:16:25.852Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 반역자들, 죗값 치렀나?]]></title>
         <id>https://v.daum.net/v/20231208201014358</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230804200417476"/>
         <updated>2023-08-04T11:14:58.315Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 이준범/기자 ▶ 새만금 잼버리에서 온열환자가 집단으로 발생하자 조직위원회는 야외 행사 특성상 예상됐던 거라며, 이전 대회와도 큰 차이가 없다고 밝혔습니다. [전한성/잼버리 조직위원회 안전관리본부장 (어제)] "이 정도의 온열질환자는 어떤 잼버리를 하든지 일상적으로 있을 수 있는 수준입니다. 특별한 상황은 아닙니다." 맞는 얘기인지, 팩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생인권조례 때문에 교권침해 늘었다?]]></title>
-        <id>https://v.daum.net/v/20230728205212775</id>
-        <link href="https://v.daum.net/v/20230728205212775"/>
-        <updated>2023-07-28T12:36:07.548Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 비극적인 사건이 반복되지 않기 위해서는 교사들을 보호할 수 있는 실질적인 대책이 마련돼야 할 텐데요. 오늘 열린 국회 교육위원회에서 교육부장관은 우선 추진할 대책으로 학생인권조례 개선을 꼽았습니다. [강득구/더불어민주당 의원] "서이초 사건의 본질이 뭐라고 생각하십니까?" [이주호/교육부 장관] "교권의 추락이라고 생각을]]></content>
     </entry>
 </feed>

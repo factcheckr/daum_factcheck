@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-12T10:22:25.660Z</updated>
+    <updated>2023-12-12T11:18:08.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '서울의 봄' 그 후‥반란에 맞선 대가는?]]></title>
+        <id>https://v.daum.net/v/20231212201006474</id>
+        <link href="https://v.daum.net/v/20231212201006474"/>
+        <updated>2023-12-12T11:16:06.536Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]합의금 4억...김하성 술자리 동석자 진술 나왔다, 그날 무슨 일이?]]></title>
         <id>https://v.daum.net/v/20231212153605039</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231204232808350"/>
         <updated>2023-12-04T15:19:54.225Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크 해보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 합격통보 받고 갑작스러운 취소통보, 부당해고일까?]]></title>
-        <id>https://v.daum.net/v/20231204232401320</id>
-        <link href="https://v.daum.net/v/20231204232401320"/>
-        <updated>2023-12-04T15:19:54.226Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 채용에 최종 합격했는데 돌연 입사 취소 통보를 받은]]></content>
     </entry>
 </feed>

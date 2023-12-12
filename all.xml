@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-12T10:22:25.662Z</updated>
+    <updated>2023-12-12T11:18:08.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '서울의 봄' 그 후‥반란에 맞선 대가는? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231212201006474</id>
+        <link href="https://v.daum.net/v/20231212201006474"/>
+        <updated>2023-12-12T11:16:06.536Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]합의금 4억...김하성 술자리 동석자 진술 나왔다, 그날 무슨 일이? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231212153605039</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231204232808350"/>
         <updated>2023-12-04T15:19:54.225Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주간 있었던 뉴스들 가운데 사실 확인이 필요한 뉴스를 팩트체크 해보는 시간입니다.&nbsp;팩트체크 전문미디어 뉴스톱의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 합격통보 받고 갑작스러운 취소통보, 부당해고일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231204232401320</id>
-        <link href="https://v.daum.net/v/20231204232401320"/>
-        <updated>2023-12-04T15:19:54.226Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체크는 무엇인가요? ◆ 송영훈 기자(이하 송영훈)&gt; 최근 채용에 최종 합격했는데 돌연 입사 취소 통보를 받은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[한국, 일본, 중국. 세 나라 국기로 만든 이미지입니다. 우리 외교부 홈페이지에 나왔던 건데, 일본 국기가 가운데에 있고, 한국과 중국 두 나라 국기가 궤도를 도는 것처럼 보인다. 그래서 외교부가 한국을 일본의 위성국가처럼 만들었다는 비판이 최근 많이 나왔습니다. 또, 한일중 3국 정상회의.&nbsp;어? 한중일 아니었나? 이런 생각하는 분들 꼭 있을 겁니다. "한]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['서울의 봄' 그 후‥반란에 맞선 대가는? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20231212201006474</id>
+        <link href="https://v.daum.net/v/20231212201006474"/>
+        <updated>2023-12-12T11:16:25.852Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['서울의 봄' 반역자들, 죗값 치렀나? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20231208201014358</id>
         <link href="https://v.daum.net/v/20231208201014358"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20230804200417476"/>
         <updated>2023-08-04T11:14:37.782Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 이준범/기자 ▶ 새만금 잼버리에서 온열환자가 집단으로 발생하자 조직위원회는 야외 행사 특성상 예상됐던 거라며, 이전 대회와도 큰 차이가 없다고 밝혔습니다. [전한성/잼버리 조직위원회 안전관리본부장 (어제)] "이 정도의 온열질환자는 어떤 잼버리를 하든지 일상적으로 있을 수 있는 수준입니다. 특별한 상황은 아닙니다." 맞는 얘기인지, 팩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생인권조례 때문에 교권침해 늘었다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230728205212775</id>
-        <link href="https://v.daum.net/v/20230728205212775"/>
-        <updated>2023-07-28T12:35:50.493Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 비극적인 사건이 반복되지 않기 위해서는 교사들을 보호할 수 있는 실질적인 대책이 마련돼야 할 텐데요. 오늘 열린 국회 교육위원회에서 교육부장관은 우선 추진할 대책으로 학생인권조례 개선을 꼽았습니다. [강득구/더불어민주당 의원] "서이초 사건의 본질이 뭐라고 생각하십니까?" [이주호/교육부 장관] "교권의 추락이라고 생각을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[논란 휩싸인 충북교육공론화위원회…핵심 쟁점은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
