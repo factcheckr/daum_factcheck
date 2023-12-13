@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-13T10:21:31.914Z</updated>
+    <updated>2023-12-13T11:17:19.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] "마스크 쓰는 동안 면역력 떨어져서"…독감-폐렴 유행은 마스크 탓?]]></title>
+        <id>https://v.daum.net/v/20231213194042094</id>
+        <link href="https://v.daum.net/v/20231213194042094"/>
+        <updated>2023-12-13T11:16:24.417Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 최근 독감과 폐렴이 동시에 유행하면서 병원을 찾는 사람들이 급증하고 있습니다. 마스크를 벗고 나서 각종 질병이 대유행하자 마스크 때문에 면역력이 떨어져서 그런 것 아니냐는 이야기도 나오고 있는데 정말일까요? 윤현지 기자가 사실 확인에서 알아봤습니다. 【 기자 】 1년째 유행 중인 독감, 좀처럼 환자수가 줄어들지 않고 있습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저작권 때문에 캐럴 못 튼다?…길거리서 안 들리는 이유는[팩트체크]]]></title>
         <id>https://v.daum.net/v/20231213182744711</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231208201014358"/>
         <updated>2023-12-08T11:16:22.021Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ [영화 '서울의 봄'] "실패하면 반역, 성공하면 혁명 아닙니까." 1979년 12월 12일 벌어진 신군부의 군사반란을 다룬 영화 서울의 봄이 관객 5백만 명을 돌파하며 화제를 모으고 있습니다. 영화가 인기를 끌면서, 실제 역사에 대한 관심도 커지고 있는데요. 이들 반란 주도 세력은 이후 죗값을 치렀는지, 팩트체크 &lt;알고보니&gt;에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 [사실은]]]></title>
-        <id>https://v.daum.net/v/20231207210631319</id>
-        <link href="https://v.daum.net/v/20231207210631319"/>
-        <updated>2023-12-07T12:35:23.932Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 유튜브 광고에서 다이어트 제품을 홍보하던 의사와 약사가 알고 보니 배우였다는 사실, 저희가 얼마 전 전해드렸습니다. 추가 취재 결과 다른 건강기능식품도 이런 가짜 광고를 한 것으로 확인됐습니다. 진짜처럼 보이기 위해서 실제 약국까지 빌려서 촬영했습니다. 박세용 기자가 취재했습니다. &lt;기자&gt; [배우 (약사 역할) : 남들보다 공깃밥 세 공기를 더 먹]]></content>
     </entry>
 </feed>
