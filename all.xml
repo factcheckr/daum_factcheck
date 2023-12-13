@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T20:20:48.947Z</updated>
+    <updated>2023-12-13T21:18:05.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[저출산, 저출생으로 대체 사용해도 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231214053600427</id>
+        <link href="https://v.daum.net/v/20231214053600427"/>
+        <updated>2023-12-13T21:16:52.673Z</updated>
+        <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] "마스크 쓰는 동안 면역력 떨어져서"…독감-폐렴 유행은 마스크 탓? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231213194042094</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231209074800170"/>
         <updated>2023-12-08T23:20:48.742Z</updated>
         <content type="html"><![CDATA[CBS라디오 주말뉴스쇼 &lt;모아모아 팩트체크&gt;■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘은 &lt;그린란드가 세계 자살 1위?&gt; 이런 주제를 가지고 오셨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '서울의 봄' 반역자들, 죗값 치렀나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231208201014358</id>
-        <link href="https://v.daum.net/v/20231208201014358"/>
-        <updated>2023-12-08T11:16:22.021Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ [영화 '서울의 봄'] "실패하면 반역, 성공하면 혁명 아닙니까." 1979년 12월 12일 벌어진 신군부의 군사반란을 다룬 영화 서울의 봄이 관객 5백만 명을 돌파하며 화제를 모으고 있습니다. 영화가 인기를 끌면서, 실제 역사에 대한 관심도 커지고 있는데요. 이들 반란 주도 세력은 이후 죗값을 치렀는지, 팩트체크 &lt;알고보니&gt;에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
