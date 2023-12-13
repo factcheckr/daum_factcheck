@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T01:21:56.049Z</updated>
+    <updated>2023-12-13T02:32:31.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 해외 직구대행 하다가 나도 모르게 탈세? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231213110913297</id>
+        <link href="https://v.daum.net/v/20231213110913297"/>
+        <updated>2023-12-13T02:31:12.802Z</updated>
+        <content type="html"><![CDATA[유명 직구 대행업체를 통해 산 외국 물건의 관부가세를 모두 지불했지만, 세관으로부터 미납 처리됐다며 탈세 의혹이 있다고 전화를 받으면 당황스럽겠죠. 이런 일이 종종 있는 건, 대행업체가 실제 물품 가격보다 낮은 가격으로 세금 신고해 이익을 남기는 구조 때문인데요. 그렇다면 이 경우, 구매자도 탈세로 처벌 대상일까요.  MBN &lt;사실확인&gt;에서 알아봤습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[합계출산율 1명 이하는 대한민국이 유일하다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231213053600742</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231205185407843"/>
         <updated>2023-12-05T10:20:58.167Z</updated>
         <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공매도 팩트체크]외국인 상환기간 진짜 바뀐 게 없다고? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231205064021994</id>
-        <link href="https://v.daum.net/v/20231205064021994"/>
-        <updated>2023-12-04T22:17:44.854Z</updated>
-        <content type="html"><![CDATA[공매도 제도 개선 관련 의견을 청취하고자 마련된 토론회에서 증권 유관기관과 개인의 견해차가 좁혀지지 않았다. 증권 유관기관은 '공매도 제도에 대한 개인 투자자의 이해가 부족하다'고 지적했지만 개인 투자자 대표는 '외국인과 기관의 불법 공매도 처벌이 약하다'고 주장했다. 한국거래소와 한국예탁결제원, 한국증권금융, 금융투자협회 등 증권 유관기관 4곳은 4일 오]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
