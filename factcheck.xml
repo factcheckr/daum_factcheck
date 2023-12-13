@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-13T09:19:34.730Z</updated>
+    <updated>2023-12-13T10:21:31.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저작권 때문에 캐럴 못 튼다?…길거리서 안 들리는 이유는[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20231213182744711</id>
+        <link href="https://v.daum.net/v/20231213182744711"/>
+        <updated>2023-12-13T10:20:27.667Z</updated>
+        <content type="html"><![CDATA[해외에선 여전히 크리스마스 시즌에 거리에서 캐럴을 쉽게 들을 수 있다. 하지만 국내에선 그렇지 않다. 이와 관련해 '저작권'에 대한 우려로 캐럴이 사라졌단 논란이 온라인 커뮤니티 등에서 지속적으로 제기되자 한국음악저작권협회(이하 한음저협)가 최근 해명에 나섰다. 캐럴이 거리에서 사라진 건 소음·에너지 규제가 주요 이유란게 한음저협의 설명이다. 거리가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 해외 직구대행 하다가 나도 모르게 탈세?]]></title>
         <id>https://v.daum.net/v/20231213110913297</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231207210631319"/>
         <updated>2023-12-07T12:35:23.932Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 유튜브 광고에서 다이어트 제품을 홍보하던 의사와 약사가 알고 보니 배우였다는 사실, 저희가 얼마 전 전해드렸습니다. 추가 취재 결과 다른 건강기능식품도 이런 가짜 광고를 한 것으로 확인됐습니다. 진짜처럼 보이기 위해서 실제 약국까지 빌려서 촬영했습니다. 박세용 기자가 취재했습니다. &lt;기자&gt; [배우 (약사 역할) : 남들보다 공깃밥 세 공기를 더 먹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20231205185407843</id>
-        <link href="https://v.daum.net/v/20231205185407843"/>
-        <updated>2023-12-05T10:20:58.167Z</updated>
-        <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
     </entry>
 </feed>
