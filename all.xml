@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-15T22:18:37.223Z</updated>
+    <updated>2023-12-15T23:19:23.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[겨울철 특히 "피가 부족해요"…헌혈 하면 얻을 수 있는 것은?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231216074800385</id>
+        <link href="https://v.daum.net/v/20231216074800385"/>
+        <updated>2023-12-15T23:18:28.306Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 잊을 만하면 혈액 부족 심각 이런 기사가 많이 나오는데요. 혹시 요즘도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남성 육아휴직이 합계출산율 높인다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231216053600336</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231213053600742"/>
         <updated>2023-12-12T21:16:52.997Z</updated>
         <content type="html"><![CDATA[편집자 주 대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '서울의 봄' 그 후‥반란에 맞선 대가는? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231212201006474</id>
-        <link href="https://v.daum.net/v/20231212201006474"/>
-        <updated>2023-12-12T11:16:06.536Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
