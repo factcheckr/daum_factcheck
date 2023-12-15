@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-15T20:20:29.676Z</updated>
+    <updated>2023-12-15T21:17:04.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남성 육아휴직이 합계출산율 높인다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20231216053600336</id>
+        <link href="https://v.daum.net/v/20231216053600336"/>
+        <updated>2023-12-15T21:15:59.095Z</updated>
+        <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아동수당이 출산율을 높인다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20231215053600688</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231212201006474"/>
         <updated>2023-12-12T11:16:06.536Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 12.12 당시 군인의 본분을 지키며 반란군에 맞섰던 핵심 인물들은 이후 오랜 세월 분노와 고통 속에 수모를 견뎌야 했습니다. 군사 반란 이후 달라진 그들의 삶을 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ [영화 '서울의 봄'] "너희가 지금 서울로 진입하면 그 즉시 전쟁이야." 12.12 당시 병력을 동원해 반란을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]합의금 4억...김하성 술자리 동석자 진술 나왔다, 그날 무슨 일이?]]></title>
-        <id>https://v.daum.net/v/20231212153605039</id>
-        <link href="https://v.daum.net/v/20231212153605039"/>
-        <updated>2023-12-12T07:17:08.024Z</updated>
-        <content type="html"><![CDATA[■ 방송 : YTN 라디오 FM 94.5 (13:00~14:00) ■ 진행 : 이승훈 앵커 ■ 방송일 : 2023년 12월 12일 (화요일) ■ 대담 : 손정혜 변호사 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 이승훈 앵커(이하 이승훈) : 축구 국가대표 황의조 선수 사건에 이어]]></content>
     </entry>
 </feed>
