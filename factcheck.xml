@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-16T20:20:34.097Z</updated>
+    <updated>2023-12-16T21:16:12.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노인 비율 18.4%' 대한민국, 고령사회 아니다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20231217053900648</id>
+        <link href="https://v.daum.net/v/20231217053900648"/>
+        <updated>2023-12-16T21:15:06.884Z</updated>
+        <content type="html"><![CDATA[편집자 주 대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 초저출산 탈출 걸림돌은 사교육비다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20231216130300330</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231213182744711"/>
         <updated>2023-12-13T10:20:27.667Z</updated>
         <content type="html"><![CDATA[해외에선 여전히 크리스마스 시즌에 거리에서 캐럴을 쉽게 들을 수 있다. 하지만 국내에선 그렇지 않다. 이와 관련해 '저작권'에 대한 우려로 캐럴이 사라졌단 논란이 온라인 커뮤니티 등에서 지속적으로 제기되자 한국음악저작권협회(이하 한음저협)가 최근 해명에 나섰다. 캐럴이 거리에서 사라진 건 소음·에너지 규제가 주요 이유란게 한음저협의 설명이다. 거리가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 해외 직구대행 하다가 나도 모르게 탈세?]]></title>
-        <id>https://v.daum.net/v/20231213110913297</id>
-        <link href="https://v.daum.net/v/20231213110913297"/>
-        <updated>2023-12-13T02:31:12.802Z</updated>
-        <content type="html"><![CDATA[유명 직구 대행업체를 통해 산 외국 물건의 관부가세를 모두 지불했지만, 세관으로부터 미납 처리됐다며 탈세 의혹이 있다고 전화를 받으면 당황스럽겠죠. 이런 일이 종종 있는 건, 대행업체가 실제 물품 가격보다 낮은 가격으로 세금 신고해 이익을 남기는 구조 때문인데요. 그렇다면 이 경우, 구매자도 탈세로 처벌 대상일까요.  MBN &lt;사실확인&gt;에서 알아봤습니다]]></content>
     </entry>
 </feed>
