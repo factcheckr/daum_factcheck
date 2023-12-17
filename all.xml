@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-17T03:20:10.317Z</updated>
+    <updated>2023-12-17T04:22:57.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[현재 출산율, 국민연금 32년 뒤 고갈된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231217130302546</id>
+        <link href="https://v.daum.net/v/20231217130302546"/>
+        <updated>2023-12-17T04:21:51.460Z</updated>
+        <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노인 비율 18.4%' 대한민국, 고령사회 아니다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231217053900648</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231213194042094"/>
         <updated>2023-12-13T11:16:24.417Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 독감과 폐렴이 동시에 유행하면서 병원을 찾는 사람들이 급증하고 있습니다. 마스크를 벗고 나서 각종 질병이 대유행하자 마스크 때문에 면역력이 떨어져서 그런 것 아니냐는 이야기도 나오고 있는데 정말일까요? 윤현지 기자가 사실 확인에서 알아봤습니다. 【 기자 】 1년째 유행 중인 독감, 좀처럼 환자수가 줄어들지 않고 있습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저작권 때문에 캐럴 못 튼다?…길거리서 안 들리는 이유는[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231213182744711</id>
-        <link href="https://v.daum.net/v/20231213182744711"/>
-        <updated>2023-12-13T10:20:27.667Z</updated>
-        <content type="html"><![CDATA[해외에선 여전히 크리스마스 시즌에 거리에서 캐럴을 쉽게 들을 수 있다. 하지만 국내에선 그렇지 않다. 이와 관련해 '저작권'에 대한 우려로 캐럴이 사라졌단 논란이 온라인 커뮤니티 등에서 지속적으로 제기되자 한국음악저작권협회(이하 한음저협)가 최근 해명에 나섰다. 캐럴이 거리에서 사라진 건 소음·에너지 규제가 주요 이유란게 한음저협의 설명이다. 거리가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["신뢰감 있는 인상 찾습니다"…실제 약국 빌려 약사 사칭 (다음 뉴스 ─ SBS 사실은)]]></title>
