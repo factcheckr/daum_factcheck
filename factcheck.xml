@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-20T09:16:10.612Z</updated>
+    <updated>2023-12-20T10:17:34.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈이 꼽은 '김건희 특검법' 독소조항 확인해 보니 [팩트파인더]]]></title>
+        <id>https://v.daum.net/v/20231220190027125</id>
+        <link href="https://v.daum.net/v/20231220190027125"/>
+        <updated>2023-12-20T10:16:37.304Z</updated>
+        <content type="html"><![CDATA[한동훈 법무부 장관이 야당이 발의한 '김건희 특검법'을 '악법'으로 규정해 논란이다. 근거로 독소 조항을 언급했는데 크게 세 가지다. △특검이 수사 상황을 생중계하게 돼 있고 △야권에서 특검을 추천하고 결정하며 △내년 총선에서 선전선동을 할 수 있는 있는 시점이라는 점을 꼽았다. 과거 특검법과 비교했을 때 과연 '김건희 특검법'만 '악법'으로 규정할 수 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 영·유아의 비행기 탑승, 귀 질환이 위험하다는데...진실은?]]></title>
         <id>https://v.daum.net/v/20231218081012106</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231215053600688"/>
         <updated>2023-12-14T21:16:37.596Z</updated>
         <content type="html"><![CDATA[편집자 주 대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 근로계약서 쓰기 전에 입사 취소당하면 구제 방법이 없다?]]></title>
-        <id>https://v.daum.net/v/20231214112510445</id>
-        <link href="https://v.daum.net/v/20231214112510445"/>
-        <updated>2023-12-14T02:29:46.321Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] A씨는 서류와 면접을 거쳐 제주도의 한 대형 복합리조트인 B사에 최종 합격했다는 연락을 받았다. 연봉 협의를 마치고 입사 날짜도 확정했다. 출근을 위해 제주도 이주도 준비했다. 그러나 출근 2주를 앞두고 A씨는 B사의 인사 담당자로부터 입사가 어려울 수 있다는 연락을 받았다. 입사 보류는 이내 취소 통보로 이어졌다. A씨는]]></content>
     </entry>
 </feed>
