@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-20T13:18:11.077Z</updated>
+    <updated>2023-12-20T14:15:36.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]'오메가엑스vs.인지웅' 가처분 결정문…뜯어 봤더니 반전?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20231220213001556</id>
+        <link href="https://v.daum.net/v/20231220213001556"/>
+        <updated>2023-12-20T14:14:29.549Z</updated>
+        <content type="html"><![CDATA[그룹 오메가엑스 측이 탬퍼링 의혹을 제기한 유튜버 인지웅 측을 상대로 법원에 신청했던 영상 삭제 및 게시금지 가처분에 대해, 법원이 유튜브 채널에 게재됐던 관련 영상 중 일부에 대해서만 '인용' 결정을 내렸던 것으로 확인됐다. 20일 머니투데이가 확보한 서울서부지방법원 제21민사부의 관련 결정문에 따르면 재판부는 오메가엑스 측이 삭제 및 게시금지를 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고발당한 글루타치온 필름 광고…논란 쟁점은? [사실은]]]></title>
         <id>https://v.daum.net/v/20231220211204193</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231216074800385"/>
         <updated>2023-12-15T23:18:28.306Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 잊을 만하면 혈액 부족 심각 이런 기사가 많이 나오는데요. 혹시 요즘도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남성 육아휴직이 합계출산율 높인다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20231216053600336</id>
-        <link href="https://v.daum.net/v/20231216053600336"/>
-        <updated>2023-12-15T21:15:59.095Z</updated>
-        <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
     </entry>
 </feed>
