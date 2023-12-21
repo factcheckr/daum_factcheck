@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-21T06:25:25.927Z</updated>
+    <updated>2023-12-21T07:18:14.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 김건희 특검법은 악법? 한동훈이 빠뜨린 3가지]]></title>
+        <id>https://v.daum.net/v/20231221155643752</id>
+        <link href="https://v.daum.net/v/20231221155643752"/>
+        <updated>2023-12-21T07:17:12.094Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ "그 법안들은 정의당이 특검 추천하고 결정하게 돼 있죠? 그리고 수사상황을 생중계하게 돼 있는 독소조항까지 들어있죠. 무엇보다 다음 총선에서 민주당이 원하는 선전선동을 하기 좋게 시점을 특정해서 만들어진 악법입니다." (한동훈 법무부장관, 지난 19일) ━━━━━━━━━ 한동훈 법무부장관이 지난 19일 국회에서 기자들의 질문에 내놓은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'오메가엑스vs인지웅' 가처분 결정문 뜯어 봤더니 반전?[팩트체크]]]></title>
         <id>https://v.daum.net/v/20231220213001556</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231216130300330"/>
         <updated>2023-12-16T04:22:15.448Z</updated>
         <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울철 특히 "피가 부족해요"…헌혈 하면 얻을 수 있는 것은?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20231216074800385</id>
-        <link href="https://v.daum.net/v/20231216074800385"/>
-        <updated>2023-12-15T23:18:28.306Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 잊을 만하면 혈액 부족 심각 이런 기사가 많이 나오는데요. 혹시 요즘도]]></content>
     </entry>
 </feed>
