@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-22T22:18:44.162Z</updated>
+    <updated>2023-12-22T23:21:05.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세계 10위 경제대국인데…노인빈곤율 1위?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20231223074801996</id>
+        <link href="https://v.daum.net/v/20231223074801996"/>
+        <updated>2023-12-22T23:19:06.754Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘 팩트체크 할 주제 '노인 40%는 빈곤층, 과연 사실인가'인데요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 포장마차는 왜 신용카드를 안 받을까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231223060014052</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231217130302546"/>
         <updated>2023-12-17T04:21:51.460Z</updated>
         <content type="html"><![CDATA[편집자 주대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노인 비율 18.4%' 대한민국, 고령사회 아니다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231217053900648</id>
-        <link href="https://v.daum.net/v/20231217053900648"/>
-        <updated>2023-12-16T21:15:06.884Z</updated>
-        <content type="html"><![CDATA[편집자 주 대한민국에서 장기간 이어진 초저출산 현상은 인구의 지속가능성과 국가 존립 기반마저 위협하고 있다. 국민들은 매일같이 쏟아지는 인구위기 보도로 터전을 잃을 수 있다는 위기감을 마주하지만 그 정보가 진실인지 따로 확인하긴 어려운 실정이다. CBS노컷뉴스는 국내외 전문가 분석과 공신력 있는 자료를 바탕으로 저출산 관련 이슈들을 종합 검증한 '2024]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고발당한 글루타치온 필름 광고…논란 쟁점은? (다음 뉴스 ─ SBS 사실은)]]></title>
