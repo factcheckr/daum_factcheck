@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2023-12-24T23:19:05.680Z</updated>
+    <updated>2023-12-25T01:21:59.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 특검법은 악법?…대체로 틀림]]></title>
+        <id>https://v.daum.net/v/20231225094005733</id>
+        <link href="https://v.daum.net/v/20231225094005733"/>
+        <updated>2023-12-25T01:20:41.901Z</updated>
+        <content type="html"><![CDATA[‘김건희 여사 특검법’ 정국이 본격화하고 있다. 더불어민주당 주도로 지난 4월 신속처리안건(패스트트랙)에 지정된 ‘대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안’은 국회법에 따라 오는 28일 예정된 본회의에 자동 상정된다. 국민의힘 비상대책위원장으로 지명된 한동훈 전 법무부 장관은 김 여사 특검법을 ‘악법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론]]></title>
         <id>https://v.daum.net/v/20231205185407843</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230129100538079"/>
         <updated>2023-01-29T01:49:28.876Z</updated>
         <content type="html"><![CDATA[지난 26일 오후 5시30분쯤 서울 동대문구 청량리역 3층 맞이방 맞은편 대기의자에서 한 남성이 숨진 채 발견됐다. “옆자리에 앉은 사람이 의자에서 움직이지 않는다”는 시민의 신고로 출동한 역무원이 남성의 상태를 처음 확인했다. 남성의 죽음은 같은 날 오후 7시쯤 한 시민이 페이스북에 “청량리역에서 노숙인이 한파 속에서 동사했다”는 글과 함께 사진을 게시해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세습 특혜? 열사들 대부분, 자녀도 없이 돌아가셨다]]></title>
-        <id>https://v.daum.net/v/20220725213201592</id>
-        <link href="https://v.daum.net/v/20220725213201592"/>
-        <updated>2022-11-16T17:35:16.389Z</updated>
-        <content type="html"><![CDATA[고 이한열·박종철·전태일 등 민주화 상징적 인물들 지정 유공 예상 대상자 829명 중 “현역 정치인 단 1명도 없어” 여야가 민주화운동 희생자를 국가유공자로 예우하는 ‘민주유공자법’ 제정을 놓고 정면충돌하고 있다. 더불어민주당은 “4·19나 5·18 국가유공자처럼 예우해줘야 한다”고 주장하는 반면 국민의힘은 대입 특별전형과 공무원·공기업 임용 가산점 등]]></content>
     </entry>
 </feed>
