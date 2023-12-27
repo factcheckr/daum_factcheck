@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2023-12-27T11:16:59.209Z</updated>
+    <updated>2023-12-27T12:34:13.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['장병 교재' 이승만 기술, 기존 교재도 마찬가지?]]></title>
+        <id>https://v.daum.net/v/20231227203411944</id>
+        <link href="https://v.daum.net/v/20231227203411944"/>
+        <updated>2023-12-27T12:33:27.463Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 개정된 군 장병 정신전력 교육 교재가 이승만 전 대통령을 일방적으로 미화했다는 논란이 일자, 국방부는 동의할 수 없다고 반박했습니다. [전하규/국방부 대변인 (어제)] "전혀 동의할 수 없습니다. 지금 이것은 2019년도 교재에도 이승만 대통령과 관련된 언급이 10여 차례 이상 있습니다." 기존 교재에도 이 전 대통령 관련 내용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 그 후‥반란에 맞선 대가는?]]></title>
         <id>https://v.daum.net/v/20231212201006474</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230811200715819"/>
         <updated>2023-08-11T11:14:56.000Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 새만금 잼버리는 대회 초부터 부실 운영 논란에 시달리다, 결국 일주일 만에 태풍을 이유로 대회장 조기 철수 결정이 내려졌죠. 당시 정부는 행사 중단이 아니라, 장소가 더 넓어진 거라고 강조했습니다. [김현숙/여성가족부 장관 (지난 8일)] "새만금 잼버리는 더이상 새만금에서 이뤄지지 않지만, 대한민국 전역에서 잼버리가 여전히 펼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잼버리 온열환자 속출, 어디서나 있는 일?]]></title>
-        <id>https://v.daum.net/v/20230804200417476</id>
-        <link href="https://v.daum.net/v/20230804200417476"/>
-        <updated>2023-08-04T11:14:58.315Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 이준범/기자 ▶ 새만금 잼버리에서 온열환자가 집단으로 발생하자 조직위원회는 야외 행사 특성상 예상됐던 거라며, 이전 대회와도 큰 차이가 없다고 밝혔습니다. [전한성/잼버리 조직위원회 안전관리본부장 (어제)] "이 정도의 온열질환자는 어떤 잼버리를 하든지 일상적으로 있을 수 있는 수준입니다. 특별한 상황은 아닙니다." 맞는 얘기인지, 팩]]></content>
     </entry>
 </feed>
