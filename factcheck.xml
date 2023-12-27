@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2023-12-27T06:25:02.498Z</updated>
+    <updated>2023-12-27T07:18:19.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 코로나19 기간에 면역력이 약해져 독감 환자 수가 늘었다?]]></title>
+        <id>https://v.daum.net/v/20231227160458404</id>
+        <link href="https://v.daum.net/v/20231227160458404"/>
+        <updated>2023-12-27T07:17:12.860Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 최근 독감 등 호흡기 감염병 환자 수가 크게 는 것으로 나타났다. 15일 질병관리청은 12월 둘째 주 외래환자 1,000명당 독감 의심 환자 수가 61.3명으로, 2019년 이후 가장 높았다고 밝혔다. 이에 일각에서 코로나19 기간에 면역력이 약해진 게 원인이라는 얘기가 나오고 있다. 엔데믹 선언 이후 독감 등 호흡기 감염병]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 김건희 특검법 공방… 野 과도한 발의, 與 궁색한 반박]]></title>
         <id>https://v.daum.net/v/20231226040813698</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231220190027125"/>
         <updated>2023-12-20T10:16:37.304Z</updated>
         <content type="html"><![CDATA[한동훈 법무부 장관이 야당이 발의한 '김건희 특검법'을 '악법'으로 규정해 논란이다. 근거로 독소 조항을 언급했는데 크게 세 가지다. △특검이 수사 상황을 생중계하게 돼 있고 △야권에서 특검을 추천하고 결정하며 △내년 총선에서 선전선동을 할 수 있는 시점이라는 점을 꼽았다. 과거 특검법과 비교했을 때 과연 '김건희 특검법'만 '악법'으로 규정할 수 있는지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 영·유아의 비행기 탑승, 귀 질환이 위험하다는데...진실은?]]></title>
-        <id>https://v.daum.net/v/20231218081012106</id>
-        <link href="https://v.daum.net/v/20231218081012106"/>
-        <updated>2023-12-17T23:20:01.386Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 16일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt;  지난&nbsp;한]]></content>
     </entry>
 </feed>
