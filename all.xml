@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-02T14:18:25.590Z</updated>
+    <updated>2024-01-02T15:20:34.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일본 해안에서 집단 폐사한 정어리떼, 대재앙의 전조인가? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240102231907231</id>
+        <link href="https://v.daum.net/v/20240102231907231"/>
+        <updated>2024-01-02T15:19:23.272Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 30일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 영화 '서울의 봄' 극중 인물들의 실제 삶은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240102231617213</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231225094005733"/>
         <updated>2023-12-25T01:19:52.397Z</updated>
         <content type="html"><![CDATA[‘김건희 여사 특검법’ 정국이 본격화하고 있다. 더불어민주당 주도로 지난 4월 신속처리안건(패스트트랙)에 지정된 ‘대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안’은 국회법에 따라 오는 28일 예정된 국회 본회의에 자동 상정된다. 민주당은 법안 처리를 예고했고, 윤석열 대통령은 ‘배우자 방탄’에 따른 여론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 10위 경제대국인데…노인빈곤율 1위?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231223074801996</id>
-        <link href="https://v.daum.net/v/20231223074801996"/>
-        <updated>2023-12-22T23:19:06.754Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘 팩트체크 할 주제 '노인 40%는 빈곤층, 과연 사실인가'인데요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['조인성·송혜교' 영상 보고 투자했는데…실체는? (다음 뉴스 ─ SBS 사실은)]]></title>
