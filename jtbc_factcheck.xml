@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-01-03T10:22:06.219Z</updated>
+    <updated>2024-01-03T11:16:46.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 나무젓가락에 찔렸다? 음모론 대체 누가]]></title>
+        <id>https://v.daum.net/v/20240103194443831</id>
+        <link href="https://v.daum.net/v/20240103194443831"/>
+        <updated>2024-01-03T11:16:45.796Z</updated>
+        <content type="html"><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다. 습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다. 사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았던 부산대병원의 판단을 들어봤습니다. ━팩트체크① 수사 중인 경찰의 판단은?━ 경찰은 범행 도구에 대해 "길이 17cm, 날 길이 12.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 특검법은 악법? 한동훈이 빠뜨린 3가지]]></title>
         <id>https://v.daum.net/v/20231221155643752</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230126200505247"/>
         <updated>2023-01-26T11:18:09.134Z</updated>
         <content type="html"><![CDATA[[앵커] 날은 춥고, 난방비 부담은 커지면서 여기저기에서 난방비 줄이는 방법들이 나오는데요. 뭐가 맞는 건지, 저희가 팩트체크 해드리겠습니다. 경제산업부 김도훈 기자 나와있습니다. 가장 논란인 게 밖에 나갈 때 보일러 외출버튼을 트느냐 마느냐, 이거 어떻게 해야합니까? [기자] 네, 저희가 정부연구원과 관련 협회 등의 전문가 의견을 들어봤는데요. 결론부터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진자 암실에 가뒀다? '중국 반발' 방역조치 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230111201906037</id>
-        <link href="https://v.daum.net/v/20230111201906037"/>
-        <updated>2023-01-11T11:19:23.354Z</updated>
-        <content type="html"><![CDATA[[앵커] 이것 말고도 중국에서 몇 가지 주장을 하면서 반발을 하고 있는데요. 윤영탁 기자와 팩트체크 해보겠습니다. 윤영탁 기자, 중국이 우리 검사 방식에 문제가 있다라고 하는 건데, 오히려 정확도가 높아서 대부분의 나라들이 쓰고 있는 방식 아닙니까? [기자] 맞습니다. 우리는 '비인두 검사'로 코의 가장 안쪽에서 제일 밀도 높은 검체를 얻는 방식을 쓰고 있]]></content>
     </entry>
 </feed>
