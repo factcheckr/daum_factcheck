@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-05T03:20:04.527Z</updated>
+    <updated>2024-01-05T04:23:39.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240105130901853</id>
+        <link href="https://v.daum.net/v/20240105130901853"/>
+        <updated>2024-01-05T04:22:31.588Z</updated>
+        <content type="html"><![CDATA[[복건우 기자] ▲ &nbsp;전국장애인차별철폐연대 활동가들이 2023년 3월 23일 오전 서울 중구 지하철 서울역 1호선 승강장에서 장애인차별철폐투쟁 선포 결의대회 기자회견을 하고 있다.ⓒ 이희훈&nbsp; "역 시설 등에서 고성방가 등 소란을 피우는 행위, 연설행위, 철도종사자의 직무상 지시를 따르지 않거나 방해하는 행위는 철도안전법에서 금지하고 있습니다. 장애인단체는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가]]></title>
         <id>https://v.daum.net/v/20240103194443831</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231226040813698"/>
         <updated>2023-12-25T19:14:53.958Z</updated>
         <content type="html"><![CDATA[김건희 여사의 도이치모터스 주가조작 연루 의혹을 규명하라는 특별검사(특검) 도입 법안은 과도한 총선용 흠집내기일까, 더는 미룰 수 없는 진상규명일까. 야권은 28일 처리를 예고하고 대통령실은 재의요구권(거부권) 행사를 명확히 하면서 ‘김건희 특검법’은 처리 이전부터 연말 정국을 얼어붙게 만들고 있다. 문재인정부 검찰이 충분히 수사했지만 기소하지 못한 사안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수사 생중계·야당 특검 추천이 ‘독소조항’? 드루킹·최순실 때 ‘전례’[팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20231225205105260</id>
-        <link href="https://v.daum.net/v/20231225205105260"/>
-        <updated>2023-12-25T12:33:19.859Z</updated>
-        <content type="html"><![CDATA[‘김건희 여사 특검법’ 정국이 본격화하고 있다. 더불어민주당 주도로 지난 4월 신속처리안건에 지정(패스트트랙)된 ‘대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안’은 국회법에 따라 28일 예정된 국회 본회의에 자동 상정된다. 민주당은 법안 처리를 예고했고, 윤석열 대통령은 ‘배우자 방탄’에 따른 여론 역풍을]]></content>
     </entry>
 </feed>
