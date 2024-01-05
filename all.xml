@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-05T22:20:12.715Z</updated>
+    <updated>2024-01-05T23:19:26.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[비 와도 미세먼지 '나쁨'…왜? 비와 미세먼지의 상관관계[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240106074801062</id>
+        <link href="https://v.daum.net/v/20240106074801062"/>
+        <updated>2024-01-05T23:18:21.689Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 오늘은 '비 오는데 미세먼지 나쁘다?' 이런 주제인데요. 요즘에 눈도 많이 오고 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240105130901853</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20231227160458404"/>
         <updated>2023-12-27T07:17:12.860Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 최근 독감 등 호흡기 감염병 환자 수가 크게 는 것으로 나타났다. 15일 질병관리청은 12월 둘째 주 외래환자 1,000명당 독감 의심 환자 수가 61.3명으로, 2019년 이후 가장 높았다고 밝혔다. 이에 일각에서 코로나19 기간에 면역력이 약해진 게 원인이라는 얘기가 나오고 있다. 엔데믹 선언 이후 독감 등 호흡기 감염병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 김건희 특검법 공방… 野 과도한 발의, 與 궁색한 반박 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20231226040813698</id>
-        <link href="https://v.daum.net/v/20231226040813698"/>
-        <updated>2023-12-25T19:14:53.958Z</updated>
-        <content type="html"><![CDATA[김건희 여사의 도이치모터스 주가조작 연루 의혹을 규명하라는 특별검사(특검) 도입 법안은 과도한 총선용 흠집내기일까, 더는 미룰 수 없는 진상규명일까. 야권은 28일 처리를 예고하고 대통령실은 재의요구권(거부권) 행사를 명확히 하면서 ‘김건희 특검법’은 처리 이전부터 연말 정국을 얼어붙게 만들고 있다. 문재인정부 검찰이 충분히 수사했지만 기소하지 못한 사안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['조인성·송혜교' 영상 보고 투자했는데…실체는? (다음 뉴스 ─ SBS 사실은)]]></title>
