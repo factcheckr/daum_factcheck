@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-07T18:23:16.867Z</updated>
+    <updated>2024-01-07T19:17:35.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주 10명 중 4명 운동권 “특권론은 정치적 프레임”]]></title>
+        <id>https://v.daum.net/v/20240108040916414</id>
+        <link href="https://v.daum.net/v/20240108040916414"/>
+        <updated>2024-01-07T19:14:30.601Z</updated>
+        <content type="html"><![CDATA[22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가 갈수록 거세지고 있다. 한동훈 국민의힘 비상대책위원장은 지난달 26일 취임 기자회견에서 야당을 겨냥하며 “수십년간 386이 486, 586, 686 되도록 썼던 영수증을 또 내밀며 대대손손 국민들 위에 군림하고 가르치려 드는 운동권 특권정치를 청산해야 한다”고 주장했다. 반면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 尹정부 검찰 출신 21명, MB 때 4배… 대통령실 주로 포진]]></title>
         <id>https://v.daum.net/v/20240108000414700</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231229060502634"/>
         <updated>2023-12-29T01:08:22.173Z</updated>
         <content type="html"><![CDATA[“거래 상대방에게 빨대를 꽂고 착취하느냐, 경쟁자를 죽여버리느냐의 차이입니다.” 공정거래위원회는 지난 19일 ‘플랫폼 공정경쟁촉진법’(가칭)을 추진한다고 발표했습니다. 많은 언론은 “공정위가 거대 플랫폼 `갑질'을 막기 위한 법을 추진한다”고 보도했습니다. ‘지배적 플랫폼 사업자’를 미리 지정하고, 이들의 자사우대·끼워 팔기·멀티호밍 제한·최혜대우 요구 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '조인성·송혜교' 영상 보고 투자했는데…실체는?]]></title>
-        <id>https://v.daum.net/v/20231227203612978</id>
-        <link href="https://v.daum.net/v/20231227203612978"/>
-        <updated>2023-12-27T12:33:07.672Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 투자자 사이에서 배터리 아저씨로 유명한 박순혁 작가가 나오는 유튜브 광고가 있습니다. 여기서 하라는 대로 SNS까지 가입하면&nbsp;유명 연예인들이 투자를 독려하는&nbsp;영상까지 나옵니다. 이걸 믿고 실제로 거액을&nbsp;송금한 사람도 있는데,&nbsp;과연 이 광고가 진짜가 맞는 건지 팩트체크 사실은 팀에서 알아봤습니다. 박세용 기자입니다. &lt;기자&gt; '배터리 아저씨' 박순혁]]></content>
     </entry>
 </feed>
