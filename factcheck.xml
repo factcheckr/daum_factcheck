@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-07T09:18:10.679Z</updated>
+    <updated>2024-01-07T10:20:28.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 민주당 의원 39% ‘운동권’… “특권정치는 정치적 프레임”]]></title>
+        <id>https://v.daum.net/v/20240107181612323</id>
+        <link href="https://v.daum.net/v/20240107181612323"/>
+        <updated>2024-01-07T10:19:19.971Z</updated>
+        <content type="html"><![CDATA[국민일보는 22대 총선을 앞두고 진영과 이념 갈등이 갈수록 심해지는 시기에 각종 정치사회적 이슈에 대한 팩트체크를 강화합니다. 본보 팩트체크팀은 가짜뉴스·허위정보가 넘쳐나는 요즘 독자 여러분이 균형 잡힌 시각을 가질 수 있도록 여러 쟁점 사안을 명확하게 검증 보도하겠습니다. 22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비 와도 미세먼지 '나쁨'…왜? 비와 미세먼지의 상관관계[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240106074801062</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231227203411944"/>
         <updated>2023-12-27T12:33:07.673Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 개정된 군 장병 정신전력 교육 교재가 이승만 전 대통령을 일방적으로 미화했다는 논란이 일자, 국방부는 동의할 수 없다고 반박했습니다. [전하규/국방부 대변인 (어제)] "전혀 동의할 수 없습니다. 지금 이것은 2019년도 교재에도 이승만 대통령과 관련된 언급이 10여 차례 이상 있습니다." 기존 교재에도 이 전 대통령 관련 내용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 코로나19 기간에 면역력이 약해져 독감 환자 수가 늘었다?]]></title>
-        <id>https://v.daum.net/v/20231227160458404</id>
-        <link href="https://v.daum.net/v/20231227160458404"/>
-        <updated>2023-12-27T07:17:12.860Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 최근 독감 등 호흡기 감염병 환자 수가 크게 는 것으로 나타났다. 15일 질병관리청은 12월 둘째 주 외래환자 1,000명당 독감 의심 환자 수가 61.3명으로, 2019년 이후 가장 높았다고 밝혔다. 이에 일각에서 코로나19 기간에 면역력이 약해진 게 원인이라는 얘기가 나오고 있다. 엔데믹 선언 이후 독감 등 호흡기 감염병]]></content>
     </entry>
 </feed>
