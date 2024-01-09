@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-09T22:19:14.497Z</updated>
+    <updated>2024-01-09T23:19:40.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 이낙연 "민주당 44%가 전과자" 급히 사과한 이유는]]></title>
+        <id>https://v.daum.net/v/20240110073646863</id>
+        <link href="https://v.daum.net/v/20240110073646863"/>
+        <updated>2024-01-09T23:18:37.441Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 앞서 보신 것 처럼 이낙연 전 민주당 대표는 내일(11일) 민주당을 떠납니다. 이런 이 전 대표가 "지금의 민주당은 도덕성을 잃은 병적 상태"라며 수위 높게 비판하면서 민주당 의원 44%가 전과자라고 직격탄을 날렸는데요. 이 발언이 논란이 되면서 이 대표는 하루도  안돼 사과하긴 했습니다. 이 전 대표가 그럴 수밖에 없었던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 이낙연 "민주당 44%가 전과자" 급히 사과한 이유는]]></title>
         <id>https://v.daum.net/v/20240109192447815</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240105130901853"/>
         <updated>2024-01-05T04:22:31.588Z</updated>
         <content type="html"><![CDATA[[복건우 기자] ▲ &nbsp;전국장애인차별철폐연대 활동가들이 2023년 3월 23일 오전 서울 중구 지하철 서울역 1호선 승강장에서 장애인차별철폐투쟁 선포 결의대회 기자회견을 하고 있다.ⓒ 이희훈&nbsp; "역 시설 등에서 고성방가 등 소란을 피우는 행위, 연설행위, 철도종사자의 직무상 지시를 따르지 않거나 방해하는 행위는 철도안전법에서 금지하고 있습니다. 장애인단체는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가]]></title>
-        <id>https://v.daum.net/v/20240103194443831</id>
-        <link href="https://v.daum.net/v/20240103194443831"/>
-        <updated>2024-01-03T11:15:35.306Z</updated>
-        <content type="html"><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다. 습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다. 사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았던 부산대병원의 판단을 들어봤습니다. ━팩트체크① 수사 중인 경찰의 판단은?━ 경찰은 범행 도구에 대해 "길이 17cm, 날 길이 12.]]></content>
     </entry>
 </feed>
