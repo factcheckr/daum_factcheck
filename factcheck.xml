@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-09T03:20:55.955Z</updated>
+    <updated>2024-01-09T04:23:48.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까?]]></title>
+        <id>https://v.daum.net/v/20240109122441312</id>
+        <link href="https://v.daum.net/v/20240109122441312"/>
+        <updated>2024-01-09T04:22:44.087Z</updated>
+        <content type="html"><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다. "민주당 국회의원 44%가 전과자" "(전과자 비율이) 다른 당보다 훨씬 높다." 과연 사실일까요? ━팩트체크① 21대 국회의원 중 전과자 몇 명?━ 지난해 7월 25일, 경제정의실천시민연합 조사해 발표한 내용이 있습니다. 이에 따르면 21대 국회 현역의원 283명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“갑상선암 5년 상대생존율 100.1%… 찾아내 진단할 필요 없어”[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240108115123402</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240102231617213"/>
         <updated>2024-01-02T14:17:21.806Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2023년 12월 30일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국민 절반이 아파트 사는데…"화재 탈출구가 없다? 대피요령 A to Z[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20231230074800175</id>
-        <link href="https://v.daum.net/v/20231230074800175"/>
-        <updated>2023-12-29T23:17:52.783Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘은 '불나면 무조건 밖으로 대피해야 하나?' 이런 주제인데요. 크리]]></content>
     </entry>
 </feed>
