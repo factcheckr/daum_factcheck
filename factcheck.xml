@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-10T11:18:15.166Z</updated>
+    <updated>2024-01-10T12:36:32.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240110205706822</id>
+        <link href="https://v.daum.net/v/20240110205706822"/>
+        <updated>2024-01-10T12:35:34.659Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 주사를 맞기만 하면 지방이 분해돼서 짧은 시간에 살을 뺄 수 있다고 홍보하는 영상이 최근 인기를 끌고 있습니다. 주사액이 노란빛이어서 '레몬 주사'로도 불리는데, 이것이 정말 사실인지, 맞아도 괜찮은 것인지 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 베이컨 지방에 노란 빛깔의 주사액을 놓습니다. 얼마 뒤, 지방 부위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 이태원참사 특별법, 야당과 유족 맘대로?]]></title>
         <id>https://v.daum.net/v/20240110200406966</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240108000414700"/>
         <updated>2024-01-07T15:18:30.076Z</updated>
         <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장의 ‘운동권 특권 정치’ 비판에 더불어민주당은 윤석열정부의 검찰 출신 인사 기용을 문제로 거론하며 강하게 반발하고 있다. 민주당 검찰독재정치탄압대책위원회는 지난달 16일 입장문을 내고 “군부 독재가 끝난 이후 이렇게 특정집단 소속 인사들이 정부, 공공기관, 민간기업까지 장악한 사례가 또 있을지 의문”이라고 주장했다. 이 같은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 민주당 의원 39% ‘운동권’… “특권정치는 정치적 프레임”]]></title>
-        <id>https://v.daum.net/v/20240107181612323</id>
-        <link href="https://v.daum.net/v/20240107181612323"/>
-        <updated>2024-01-07T10:19:19.971Z</updated>
-        <content type="html"><![CDATA[국민일보는 22대 총선을 앞두고 진영과 이념 갈등이 갈수록 심해지는 시기에 각종 정치사회적 이슈에 대한 팩트체크를 강화합니다. 본보 팩트체크팀은 가짜뉴스·허위정보가 넘쳐나는 요즘 독자 여러분이 균형 잡힌 시각을 가질 수 있도록 여러 쟁점 사안을 명확하게 검증 보도하겠습니다. 22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가]]></content>
     </entry>
 </feed>
