@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-10T08:25:06.047Z</updated>
+    <updated>2024-01-10T09:20:03.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['열상'이 '자상'보다 덜 심각하다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240110180605789</id>
+        <link href="https://v.daum.net/v/20240110180605789"/>
+        <updated>2024-01-10T09:18:52.732Z</updated>
+        <content type="html"><![CDATA[핵심요약열상은 자상보다 덜 치명적인 신체적 손상일까요. CBS노컷뉴스가 전문가 의견을 종합해 팩트체크한 결과, 손상의 정도는 에너지양에 따라 달라지기 때문에 열상이라고 해서 자상보다 심각하지 않다고 할 수는 없습니다. 물론 처음 잘못 알려진 대로 '1cm 열상'의 경우에는 상처가 대부분 깊거나 크지 않기 때문에 부상이 심하지 않은 것으로 오해할 가능성은 충]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 이낙연 "민주당 44%가 전과자" 급히 사과한 이유는 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240110073646863</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240106074801062"/>
         <updated>2024-01-05T23:18:21.689Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 오늘은 '비 오는데 미세먼지 나쁘다?' 이런 주제인데요. 요즘에 눈도 많이 오고 비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전장연 지하철 시위는 불법?" 서울교통공사 주장 따져보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240105130901853</id>
-        <link href="https://v.daum.net/v/20240105130901853"/>
-        <updated>2024-01-05T04:22:31.588Z</updated>
-        <content type="html"><![CDATA[[복건우 기자] ▲ &nbsp;전국장애인차별철폐연대 활동가들이 2023년 3월 23일 오전 서울 중구 지하철 서울역 1호선 승강장에서 장애인차별철폐투쟁 선포 결의대회 기자회견을 하고 있다.ⓒ 이희훈&nbsp; "역 시설 등에서 고성방가 등 소란을 피우는 행위, 연설행위, 철도종사자의 직무상 지시를 따르지 않거나 방해하는 행위는 철도안전법에서 금지하고 있습니다. 장애인단체는]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['조인성·송혜교' 영상 보고 투자했는데…실체는? (다음 뉴스 ─ SBS 사실은)]]></title>
