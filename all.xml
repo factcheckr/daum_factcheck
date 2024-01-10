@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-10T10:21:30.054Z</updated>
+    <updated>2024-01-10T11:18:15.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 이태원참사 특별법, 야당과 유족 맘대로? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240110200406966</id>
+        <link href="https://v.daum.net/v/20240110200406966"/>
+        <updated>2024-01-10T11:16:55.037Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사 발생 1년 2개월 만에 국회를 통과한 '이태원참사 특별법'은 여당 의원들의 퇴장 속에 처리됐습니다. 여당은 특별법에 대해 계속해서 여러 비판을 내놓고 있는데요. 무엇이 진실이고, 거짓인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 여당은 특별법에 따라 만들어질 '특별조사위원회'가 야당과 유가족 맘대로 구성될 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['열상'이 '자상'보다 덜 심각하다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240110180605789</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240107181612323"/>
         <updated>2024-01-07T10:19:19.971Z</updated>
         <content type="html"><![CDATA[국민일보는 22대 총선을 앞두고 진영과 이념 갈등이 갈수록 심해지는 시기에 각종 정치사회적 이슈에 대한 팩트체크를 강화합니다. 본보 팩트체크팀은 가짜뉴스·허위정보가 넘쳐나는 요즘 독자 여러분이 균형 잡힌 시각을 가질 수 있도록 여러 쟁점 사안을 명확하게 검증 보도하겠습니다. 22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비 와도 미세먼지 '나쁨'…왜? 비와 미세먼지의 상관관계[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240106074801062</id>
-        <link href="https://v.daum.net/v/20240106074801062"/>
-        <updated>2024-01-05T23:18:21.689Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 오늘은 '비 오는데 미세먼지 나쁘다?' 이런 주제인데요. 요즘에 눈도 많이 오고 비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['조인성·송혜교' 영상 보고 투자했는데…실체는? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 일본이 원전 오염수 2차 방류에 나선 가운데, 최근 후쿠시마산 수산물이 우리나라에 들어오고 있다는 언론 보도가 나왔습니다. 현재 수입 금지 상태인 후쿠시마산 수산물이 들어온 것인 정말 맞는 것인지 저희 팩트체크 '사실은'팀이 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; "후쿠시마산 수산물 수입 금지에도 젓갈 등 수산가공물 수입 659톤." 최근 한]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이태원참사 특별법, 야당과 유족 맘대로? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240110200406966</id>
+        <link href="https://v.daum.net/v/20240110200406966"/>
+        <updated>2024-01-10T11:17:19.898Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사 발생 1년 2개월 만에 국회를 통과한 '이태원참사 특별법'은 여당 의원들의 퇴장 속에 처리됐습니다. 여당은 특별법에 대해 계속해서 여러 비판을 내놓고 있는데요. 무엇이 진실이고, 거짓인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 여당은 특별법에 따라 만들어질 '특별조사위원회'가 야당과 유가족 맘대로 구성될 수]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['장병 교재' 이승만 기술, 기존 교재도 마찬가지? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20231227203411944</id>
         <link href="https://v.daum.net/v/20231227203411944"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20230822201617561"/>
         <updated>2023-08-22T12:33:49.660Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 흉악범죄에 대한 우려가 커지고 있는 상황에서, 최근에는 여성안심귀갓길도 논란이 됐습니다. 일각에서 도로에 페인트만 칠해놔 아무 효과가 없는 쓸모없는 정책이라고 비난을 하고 있는 건데요. 맞는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. 여성안심귀갓길은 여성의 안전한 귀가를 돕기 위해 지난 2013년 본격 시행됐습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야영 대신 '관광' 잼버리‥정말 태풍 때문이었나? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20230811200715819</id>
-        <link href="https://v.daum.net/v/20230811200715819"/>
-        <updated>2023-08-11T11:14:36.567Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 새만금 잼버리는 대회 초부터 부실 운영 논란에 시달리다, 결국 일주일 만에 태풍을 이유로 대회장 조기 철수 결정이 내려졌죠. 당시 정부는 행사 중단이 아니라, 장소가 더 넓어진 거라고 강조했습니다. [김현숙/여성가족부 장관 (지난 8일)] "새만금 잼버리는 더이상 새만금에서 이뤄지지 않지만, 대한민국 전역에서 잼버리가 여전히 펼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[논란 휩싸인 충북교육공론화위원회…핵심 쟁점은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
