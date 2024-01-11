@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T10:21:38.956Z</updated>
+    <updated>2024-01-11T11:18:09.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240111193644205</id>
+        <link href="https://v.daum.net/v/20240111193644205"/>
+        <updated>2024-01-11T11:16:19.254Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240110205706822</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240108040916414"/>
         <updated>2024-01-07T19:14:30.601Z</updated>
         <content type="html"><![CDATA[22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가 갈수록 거세지고 있다. 한동훈 국민의힘 비상대책위원장은 지난달 26일 취임 기자회견에서 야당을 겨냥하며 “수십년간 386이 486, 586, 686 되도록 썼던 영수증을 또 내밀며 대대손손 국민들 위에 군림하고 가르치려 드는 운동권 특권정치를 청산해야 한다”고 주장했다. 반면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 尹정부 검찰 출신 21명, MB 때 4배… 대통령실 주로 포진 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240108000414700</id>
-        <link href="https://v.daum.net/v/20240108000414700"/>
-        <updated>2024-01-07T15:18:30.076Z</updated>
-        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장의 ‘운동권 특권 정치’ 비판에 더불어민주당은 윤석열정부의 검찰 출신 인사 기용을 문제로 거론하며 강하게 반발하고 있다. 민주당 검찰독재정치탄압대책위원회는 지난달 16일 입장문을 내고 “군부 독재가 끝난 이후 이렇게 특정집단 소속 인사들이 정부, 공공기관, 민간기업까지 장악한 사례가 또 있을지 의문”이라고 주장했다. 이 같은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 (다음 뉴스 ─ SBS 사실은)]]></title>
