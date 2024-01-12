@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-12T02:34:09.668Z</updated>
+    <updated>2024-01-12T03:21:16.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[백인의 ‘흑인차별’ 역사… 이, 팔 주민 탄압에 비유 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240112120025418</id>
+        <link href="https://v.daum.net/v/20240112120025418"/>
+        <updated>2024-01-12T03:20:06.449Z</updated>
+        <content type="html"><![CDATA[이스라엘의 팔레스타인 가자지구 집단학살(제노사이드) 혐의에 대한 국제사법재판소(ICJ) 심리가 11일 시작된 가운데, 제소 당사자가 이슬람 국가가 아닌 남아프리카공화국이라는 점에서 이목이 쏠리고 있다. 중동과 지리적으로 멀 뿐만 아니라 그동안 이스라엘과 별다른 갈등도 빚지 않았기 때문이다. 남아공의 이런 행보에 대해 역사적·정치적 맥락에서 동기를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240112092647835</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240109122441312"/>
         <updated>2024-01-09T04:22:44.087Z</updated>
         <content type="html"><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다. "민주당 국회의원 44%가 전과자" "(전과자 비율이) 다른 당보다 훨씬 높다." 과연 사실일까요? ━팩트체크① 21대 국회의원 중 전과자 몇 명?━ 지난해 7월 25일, 경제정의실천시민연합 조사해 발표한 내용이 있습니다. 이에 따르면 21대 국회 현역의원 283명(의원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“갑상선암 5년 상대생존율 100.1%… 찾아내 진단할 필요 없어”[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240108115123402</id>
-        <link href="https://v.daum.net/v/20240108115123402"/>
-        <updated>2024-01-08T03:20:11.106Z</updated>
-        <content type="html"><![CDATA[갑상선암이 최근 3년째 암 질환 중 발생률 1위로 집계되면서 과잉 진료 문제가 다시 논란에 휩싸였다. 5년 상대 생존율이 100.1%에 달해 불필요하게 과잉 진료되는 측면도 분명하지만 림프와 뼈 등 다른 장기로 전이된 환자들도 있는 만큼 환자군을 새로 찾아내는 것보다 고위험군 환자 치료에 집중하는 게 필요하다는 전문가 권고도 나왔다. 8일 보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 (다음 뉴스 ─ SBS 사실은)]]></title>
