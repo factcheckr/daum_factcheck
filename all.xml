@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T23:20:04.912Z</updated>
+    <updated>2024-01-12T01:22:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240112092647835</id>
+        <link href="https://v.daum.net/v/20240112092647835"/>
+        <updated>2024-01-12T01:21:36.534Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240111193644205</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240108115123402"/>
         <updated>2024-01-08T03:20:11.106Z</updated>
         <content type="html"><![CDATA[갑상선암이 최근 3년째 암 질환 중 발생률 1위로 집계되면서 과잉 진료 문제가 다시 논란에 휩싸였다. 5년 상대 생존율이 100.1%에 달해 불필요하게 과잉 진료되는 측면도 분명하지만 림프와 뼈 등 다른 장기로 전이된 환자들도 있는 만큼 환자군을 새로 찾아내는 것보다 고위험군 환자 치료에 집중하는 게 필요하다는 전문가 권고도 나왔다. 8일 보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주 10명 중 4명 운동권 “특권론은 정치적 프레임” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240108040916414</id>
-        <link href="https://v.daum.net/v/20240108040916414"/>
-        <updated>2024-01-07T19:14:30.601Z</updated>
-        <content type="html"><![CDATA[22대 총선을 석 달가량 앞둔 시점에서 상대 당을 겨냥한 정치권의 프레임 공세가 갈수록 거세지고 있다. 한동훈 국민의힘 비상대책위원장은 지난달 26일 취임 기자회견에서 야당을 겨냥하며 “수십년간 386이 486, 586, 686 되도록 썼던 영수증을 또 내밀며 대대손손 국민들 위에 군림하고 가르치려 드는 운동권 특권정치를 청산해야 한다”고 주장했다. 반면]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 (다음 뉴스 ─ SBS 사실은)]]></title>
