@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-01-15T11:17:37.293Z</updated>
+    <updated>2024-01-15T12:36:58.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인천 랜드마크'가 중국 광저우 타워?…확인해 보니]]></title>
+        <id>https://v.daum.net/v/20240115204204346</id>
+        <link href="https://v.daum.net/v/20240115204204346"/>
+        <updated>2024-01-15T12:36:12.628Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 인천시가 낙후된 원도심을 개발하는, 이른바 '제물포 르네상스'라는 사업 구상을 최근 발표했습니다. 지역의 랜드 마크가 될 건물 이미지도 공개했는데, 중국 관광명소로 꼽히는 건물 디자인을 베낀 것 아니냐는 주장이 나왔습니다. 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; 지난달 인천에서 열린 '제물포 르네상스' 대시민 보고회입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까]]></title>
         <id>https://v.daum.net/v/20240110205706822</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231021204805187"/>
         <updated>2023-10-21T12:32:32.326Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 전라남도가 광주에서 영암 사이 47km를 속도 제한 없는 고속도로, 이른바 한국형 아우토반을 만들기로 한 것이 화제입니다. 온라인에서도 거센 논쟁이 일었는데, 어떻게 봐야 할지 팩트체크 '사실은' 코너에서 박세용 기자가 짚어봤습니다. &lt;기자&gt; 독일 아우토반에서 촬영된 영상입니다. 슈퍼카 한 대가 속도를 높이더니 시속 300km를 훌쩍 넘어 400k]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['압도적 군사력' 이스라엘…전쟁의 향방은?]]></title>
-        <id>https://v.daum.net/v/20231012203005633</id>
-        <link href="https://v.daum.net/v/20231012203005633"/>
-        <updated>2023-10-12T12:36:02.608Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 안타까운 희생자들이 계속 늘어나면서, 이스라엘과 하마스의 충돌이 언제쯤 끝날지 걱정하는 목소리도 커지고 있습니다. 단순히 군사력만 놓고 보면 이스라엘이 압도적인 우위에 있기 때문에 지상군이 투입되면 곧 정리될 것 같지만, 이스라엘을 고민하게 만드는 변수들도 많습니다. 박세용 기자가 짚어봤습니다. &lt;기자&gt; 이스라엘은 지난해 기준 23조 원이 넘는 국]]></content>
     </entry>
 </feed>
