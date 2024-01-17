@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-17T07:19:09.651Z</updated>
+    <updated>2024-01-17T08:25:09.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 명동상권이 부활했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240117170514624</id>
+        <link href="https://v.daum.net/v/20240117170514624"/>
+        <updated>2024-01-17T08:24:03.901Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 서울 대표 상권 중 하나인 명동. 해외 방문객 의존도가 높은 명동은 2017년 중국의 한한령에 이어 2020년 코로나19 팬데믹으로 지난 몇 년간 침체를 겪었었다. 그러나 이런 명동상권이 다시 활기를 되찾았다는 주장이 나왔다. 인터넷 커뮤니티에서는 많은 사람이 명동을 찾고 있다고 얘기한다. 과연 사실일지, 코로나19 전과 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 예약한 숙소에 갔더니 “돌아가라”…중복예약 구제책은 언제쯤 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240117145611003</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240111193644205"/>
         <updated>2024-01-11T11:16:19.254Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지방이 너덜너덜' 화제 영상…레몬 주사 효과, 진짜일까 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240110205706822</id>
-        <link href="https://v.daum.net/v/20240110205706822"/>
-        <updated>2024-01-10T12:35:34.659Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 주사를 맞기만 하면 지방이 분해돼서 짧은 시간에 살을 뺄 수 있다고 홍보하는 영상이 최근 인기를 끌고 있습니다. 주사액이 노란빛이어서 '레몬 주사'로도 불리는데, 이것이 정말 사실인지, 맞아도 괜찮은 것인지 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 베이컨 지방에 노란 빛깔의 주사액을 놓습니다. 얼마 뒤, 지방 부위]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['인천 랜드마크'가 중국 광저우 타워?…확인해 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
