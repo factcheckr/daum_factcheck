@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-19T10:22:06.856Z</updated>
+    <updated>2024-01-19T11:18:01.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 15년째 외치는 "책임자 처벌"‥이유는?]]></title>
+        <id>https://v.daum.net/v/20240119201609227</id>
+        <link href="https://v.daum.net/v/20240119201609227"/>
+        <updated>2024-01-19T11:17:02.461Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 용산참사가 일어난 지 15년이 지났지만, 유족들은 여전히 거리에서 '책임자 처벌'을 외치고 있습니다. "진상규명 책임자를 처벌하라!" 왜 유족들의 요구는 15년째 그대로인 건지, 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ 용산참사 당시 현장에는 농성이 시작된 지 불과 하루 만에 경찰특공대가 투입됐습니다. 지휘 책임자인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 명동상권이 부활했다?]]></title>
         <id>https://v.daum.net/v/20240117170514624</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240112092647835</id>
         <link href="https://v.daum.net/v/20240112092647835"/>
         <updated>2024-01-12T01:21:36.534Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까]]></title>
-        <id>https://v.daum.net/v/20240111193644205</id>
-        <link href="https://v.daum.net/v/20240111193644205"/>
-        <updated>2024-01-11T11:16:19.254Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
     </entry>
 </feed>
