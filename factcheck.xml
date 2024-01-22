@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-22T18:25:08.926Z</updated>
+    <updated>2024-01-22T19:16:43.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 “김경율 출마”, 불공정 공천일까]]></title>
+        <id>https://v.daum.net/v/20240123034623514</id>
+        <link href="https://v.daum.net/v/20240123034623514"/>
+        <updated>2024-01-22T19:15:42.293Z</updated>
+        <content type="html"><![CDATA[대통령실은 한동훈 국민의힘 비상대책위원장이 자신의 이익을 위해 ‘불공정 공천’을 하고 있다고 지적한다. 반면 한 위원장 측은 서울 마포을 출마를 밝힌 김경율 비대위원을 비롯해 누구든 공정한 공천 과정을 거칠 것이라고 반박한다. ①불공정 공천 얘기 왜 나오나 국민의힘 정영환 공천관리위원장은 22일 “(한 위원장이) 절차적으로 오버한 면이 있을 수도 있다”고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몰카 함정 취재 걸린 건 맞아… 김영란법 적용은 논란]]></title>
+        <id>https://v.daum.net/v/20240123034510513</id>
+        <link href="https://v.daum.net/v/20240123034510513"/>
+        <updated>2024-01-22T19:15:42.294Z</updated>
+        <content type="html"><![CDATA[여권의 내분과 함께 김건희 여사의 명품 백 수수 의혹이 일파만파 번지고 있다. 대통령실과 국민의힘 친윤 인사들은 이 사건 본질이 ‘몰카 공작’이기 때문에 대통령 부부가 사과할 일이 아니라고 주장한다. 그러나 한동훈 비대위원장이 영입한 인사들이 김 여사 사과를 요구하고, 한 위원장도 “국민 눈높이”를 강조하는 등 의견 차를 보이면서 대통령실이 ‘한동훈 사퇴’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? [사실은]]]></title>
         <id>https://v.daum.net/v/20240122211804618</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240115183306325"/>
         <updated>2024-01-15T10:21:41.462Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 사과 먹게 되나? 사상 처음 사과 수입 추진…최선일까[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240113074801787</id>
-        <link href="https://v.daum.net/v/20240113074801787"/>
-        <updated>2024-01-12T23:17:48.547Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘은 &lt;과일 금값에 사상 첫 사과 수입?&gt; 이런 주제인데요. 요즘에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백인의 ‘흑인차별’ 역사… 이, 팔 주민 탄압에 비유 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240112120025418</id>
-        <link href="https://v.daum.net/v/20240112120025418"/>
-        <updated>2024-01-12T03:20:06.449Z</updated>
-        <content type="html"><![CDATA[이스라엘의 팔레스타인 가자지구 집단학살(제노사이드) 혐의에 대한 국제사법재판소(ICJ) 심리가 11일 시작된 가운데, 제소 당사자가 이슬람 국가가 아닌 남아프리카공화국이라는 점에서 이목이 쏠리고 있다. 중동과 지리적으로 멀 뿐만 아니라 그동안 이스라엘과 별다른 갈등도 빚지 않았기 때문이다. 남아공의 이런 행보에 대해 역사적·정치적 맥락에서 동기를]]></content>
     </entry>
 </feed>
