@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-22T11:17:40.328Z</updated>
+    <updated>2024-01-22T12:37:48.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? [사실은]]]></title>
+        <id>https://v.daum.net/v/20240122211804618</id>
+        <link href="https://v.daum.net/v/20240122211804618"/>
+        <updated>2024-01-22T12:36:45.510Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 3년 뒤, 2027년부터는 소방관을 채용하는 체력시험에서 남녀 응시자가 같은 기준을 적용받게 되는데요. 여성에게 불리한 것 아니냐는 지적이 나왔는데, 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 현재 소방관 체력시험 종목은 윗몸일으키기, 악력, 배근력, 제자리멀리뛰기 등 여섯 종목입니다. 모두 남녀 채점 기준이 다른데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 15년째 외치는 "책임자 처벌"‥이유는?]]></title>
         <id>https://v.daum.net/v/20240119201609227</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240112120025418"/>
         <updated>2024-01-12T03:20:06.449Z</updated>
         <content type="html"><![CDATA[이스라엘의 팔레스타인 가자지구 집단학살(제노사이드) 혐의에 대한 국제사법재판소(ICJ) 심리가 11일 시작된 가운데, 제소 당사자가 이슬람 국가가 아닌 남아프리카공화국이라는 점에서 이목이 쏠리고 있다. 중동과 지리적으로 멀 뿐만 아니라 그동안 이스라엘과 별다른 갈등도 빚지 않았기 때문이다. 남아공의 이런 행보에 대해 역사적·정치적 맥락에서 동기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 경찰의 음주 측정 거부, 음주 단속보다 형량에 유리할까]]></title>
-        <id>https://v.daum.net/v/20240112092647835</id>
-        <link href="https://v.daum.net/v/20240112092647835"/>
-        <updated>2024-01-12T01:21:36.534Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 경찰의 음주측정을 거부한 사례가 한 해에만 무려 4천 건에 달한다고 합니다. 당장 단속되는 것보다 형량이 낮다고 판단해서일텐데, 과연 올바른 행동일까요? 이시열 기자가 사실을 확인해봤습니다. 【 기자 】 지난해 12월 29일 새벽, 그룹 'UN' 출신 가수 겸 배우인 김정훈 씨가 음주 측정 거부 혐의로 경찰에 붙잡혔습니다.]]></content>
     </entry>
 </feed>
