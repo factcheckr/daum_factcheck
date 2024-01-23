@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-23T02:34:45.451Z</updated>
+    <updated>2024-01-23T03:20:43.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "디올백은 국고...돌려주면 횡령"? 따져보니]]></title>
+        <id>https://v.daum.net/v/20240123120442830</id>
+        <link href="https://v.daum.net/v/20240123120442830"/>
+        <updated>2024-01-23T03:19:49.652Z</updated>
+        <content type="html"><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령'이 된다는 논리입니다. 과연 그럴까요? ━팩트체크① 영부인 선물, 법에는 어떻게 규정?━ 대통령(영부인 포함)의 선물과 관련한 규정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 “김경율 마포을 출마” 발언...불공정 공천일까]]></title>
         <id>https://v.daum.net/v/20240123034623514</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240115183413343"/>
         <updated>2024-01-15T10:21:41.454Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 미키마우스 저작권이 풀렸다는데, 이제 마음대로 써도 되나?]]></title>
-        <id>https://v.daum.net/v/20240115183306325</id>
-        <link href="https://v.daum.net/v/20240115183306325"/>
-        <updated>2024-01-15T10:21:41.462Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
     </entry>
 </feed>

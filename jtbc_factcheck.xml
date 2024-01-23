@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-01-23T02:34:45.448Z</updated>
+    <updated>2024-01-23T03:20:43.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디올백은 국고...돌려주면 횡령"? 따져보니]]></title>
+        <id>https://v.daum.net/v/20240123120442830</id>
+        <link href="https://v.daum.net/v/20240123120442830"/>
+        <updated>2024-01-23T03:20:42.460Z</updated>
+        <content type="html"><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령'이 된다는 논리입니다. 과연 그럴까요? ━팩트체크① 영부인 선물, 법에는 어떻게 규정?━ 대통령(영부인 포함)의 선물과 관련한 규정은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까?]]></title>
         <id>https://v.daum.net/v/20240109122441312</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230616201508133"/>
         <updated>2023-06-16T11:17:26.350Z</updated>
         <content type="html"><![CDATA[[앵커] 이 문제 관련해서 몇 가지 팩트체크를 해보겠습니다. 조보경 기자 나와 있습니다. 우선, 천일염이 바닷물로 만들어지니, 오염수가 방류되면 천일염도 방사능에 오염될 거 아니냐, 이런 걱정인데, 정말 그렇게 되나요? [기자] 위험성이 크지 않다는 의견이 많습니다. 전문가들은 일본 주장처럼 오염수를 알프스(ALPS)라는 장치를 통해 철저히 정화한다면 세슘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
-        <id>https://v.daum.net/v/20230206202805186</id>
-        <link href="https://v.daum.net/v/20230206202805186"/>
-        <updated>2023-02-06T13:00:46.382Z</updated>
-        <content type="html"><![CDATA[[앵커] "기상 관측용 풍선이 실수로 미국까지 날아간거다" 이게 지금 중국의 입장인건데요, 하나하나 다시 따져보겠습니다. 윤샘이나 기자가 나와 있습니다. 이 풍선이, 중국 정부 말대로 정말로 기상관측용일 가능성이 있습니까? [기자] 지금 보시는 이 물체, 최근 며칠간 전 세계가 숨죽이고 지켜본 풍선입니다. 외형과 제원만 보면 기상 관측용과는 일단 거리가 좀]]></content>
     </entry>
 </feed>
