@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-23T14:20:13.060Z</updated>
+    <updated>2024-01-23T15:21:53.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 尹 때문에 애플에 반도체 수출 못한다? 진실은?]]></title>
+        <id>https://v.daum.net/v/20240124001110051</id>
+        <link href="https://v.daum.net/v/20240124001110051"/>
+        <updated>2024-01-23T15:20:43.811Z</updated>
+        <content type="html"><![CDATA[애플과 구글, BMW 등이 원자력발전에서 나온 전기를 쓰는 반도체는 쓰지 않는다? 홍익표 더불어민주당 원내대표가 윤석열 대통령이 지난 15일 한 토론회에 참석해 "탈원전을 하면 반도체뿐만 아니라 첨단 산업을 포기해야 한다"고 한 발언에 대해 "세계적으로 조롱거리가 되고 있다"며 주장한 논리다. 홍 원내대표는 지난 23일 원내대책회의에서 "RE100에 따라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 화법, ‘이재명 민주당’ 158회, ‘윤석열·김건희’ 0회]]></title>
+        <id>https://v.daum.net/v/20240124000414918</id>
+        <link href="https://v.daum.net/v/20240124000414918"/>
+        <updated>2024-01-23T15:20:43.811Z</updated>
+        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장은 지난해 11월 법무부 장관 재직 당시 “여의도에서 300명만 공유하는 화법이 있다면 여의도 사투리가 아닌가. 5000만명이 쓰는 언어를 쓰겠다”며 기존 정치화법 탈피를 선언했다. 비대위원장 취임 직후에는 “이재명 민주당 전체주의” “운동권 특권” 등의 대야 공세를 거듭하며 당내 안착을 시도했다. 전국 순회에선 지연과 연고를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20240123200523397</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240117170514624"/>
         <updated>2024-01-17T08:24:03.901Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 서울 대표 상권 중 하나인 명동. 해외 방문객 의존도가 높은 명동은 2017년 중국의 한한령에 이어 2020년 코로나19 팬데믹으로 지난 몇 년간 침체를 겪었었다. 그러나 이런 명동상권이 다시 활기를 되찾았다는 주장이 나왔다. 인터넷 커뮤니티에서는 많은 사람이 명동을 찾고 있다고 얘기한다. 과연 사실일지, 코로나19 전과 비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 예약한 숙소에 갔더니 “돌아가라”…중복예약 구제책은 언제쯤]]></title>
-        <id>https://v.daum.net/v/20240117145611003</id>
-        <link href="https://v.daum.net/v/20240117145611003"/>
-        <updated>2024-01-17T06:24:58.218Z</updated>
-        <content type="html"><![CDATA[“예약한 숙소에 갔더니 방이 없다는 겁니다. 저희 가족은 집으로 돌아올 수밖에 없었죠.” 지난달, 겨울 휴가철을 맞아 펜션을 예약한 A씨(40)의 여행 계획은 물거품이 됐습니다. 같은 날짜에 여러 명의 고객이 동일한 객실을 예약하는 이른바 ‘중복예약’ 피해를 본 건데요. 숙박업체 플랫폼 측은 A씨에게 시스템 오류로 타 플랫폼과 예약이 겹쳤다며 만원 쿠폰을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '인천 랜드마크'가 중국 광저우 타워?…확인해 보니]]></title>
-        <id>https://v.daum.net/v/20240115204204346</id>
-        <link href="https://v.daum.net/v/20240115204204346"/>
-        <updated>2024-01-15T12:36:03.554Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 인천시가 낙후된 원도심을 개발하는, 이른바 '제물포 르네상스'라는 사업 구상을 최근 발표했습니다. 지역의 랜드마크가 될 건물 이미지도 공개했는데, 중국 관광명소로 꼽히는 건물 디자인을 베낀 것 아니냐는 주장이 나왔습니다. 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; 지난달 인천에서 열린 '제물포 르네상스' 대시민 보고회입니다.]]></content>
     </entry>
 </feed>
