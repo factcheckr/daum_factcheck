@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-23T10:21:36.344Z</updated>
+    <updated>2024-01-23T11:17:17.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 홍익표 "원전으로 전력 공급해 만든 반도체, 거의 해외에 팔수 없다"...업계 "사실과 달라" (다음 뉴스 ─ 팩트체크)]]></title>
+        <title type="html"><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240123200523397</id>
+        <link href="https://v.daum.net/v/20240123200523397"/>
+        <updated>2024-01-23T11:16:19.175Z</updated>
+        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 홍익표 "원전 사용 반도체 해외 못팔아"… 애플은 원전도 가능 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240123181017135</id>
         <link href="https://v.daum.net/v/20240123181017135"/>
         <updated>2024-01-23T09:19:22.274Z</updated>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240115204204346"/>
         <updated>2024-01-15T12:36:03.554Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 인천시가 낙후된 원도심을 개발하는, 이른바 '제물포 르네상스'라는 사업 구상을 최근 발표했습니다. 지역의 랜드마크가 될 건물 이미지도 공개했는데, 중국 관광명소로 꼽히는 건물 디자인을 베낀 것 아니냐는 주장이 나왔습니다. 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; 지난달 인천에서 열린 '제물포 르네상스' 대시민 보고회입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 특정 앱으로만 진료예약을 받으면, 진료거부이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240115183414344</id>
-        <link href="https://v.daum.net/v/20240115183414344"/>
-        <updated>2024-01-15T10:21:41.453Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 세]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연, 봉주영 기자] ▲ ‘후쿠시마 오염수 괴담’ 논쟁... 정부 vs. 환경단체&nbsp;우리 정부가 9월 KTX, SRT 등 열차 객실에 배포한 '후쿠시마 오염수 10가지 괴담' 자료집 내용에 대해 최경숙 환경운동연합 활동가 반박 인터뷰ⓒ 봉주영&nbsp; "정부는 시민단체를 '오염수 괴담 유포자'라고 공격하고, 오염수 불안에 떠는 시민을 괴담에 휘둘리는 미욱한 사람]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240123200523397</id>
+        <link href="https://v.daum.net/v/20240123200523397"/>
+        <updated>2024-01-23T11:17:17.185Z</updated>
+        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["디올백은 국고...돌려주면 횡령"? 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240123120442830</id>
         <link href="https://v.daum.net/v/20240123120442830"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20230619203606739"/>
         <updated>2023-06-19T12:37:53.524Z</updated>
         <content type="html"><![CDATA[[앵커] 지난 토요일 대구 퀴어축제에서 낯선 광경이 벌어졌습니다. 지자체 공무원들과 경찰이 부딪혔습니다. 대구시 홍준표 시장과 대구 경찰 모두, 상대방이 법을 어겼다고 주장하고 있습니다. 취재 기자와 누구 말이 맞는지 팩트체크 해보겠습니다. 강버들 기자가 나왔는데요. 강버들 기자, 일단 홍준표 시장이 퀴어 축제, 왜 막은 건가요? [기자] 이번 축제 때도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오염수 방류 시 천일염도 '방사능 노출' 사정권? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230616201508133</id>
-        <link href="https://v.daum.net/v/20230616201508133"/>
-        <updated>2023-06-16T11:17:26.350Z</updated>
-        <content type="html"><![CDATA[[앵커] 이 문제 관련해서 몇 가지 팩트체크를 해보겠습니다. 조보경 기자 나와 있습니다. 우선, 천일염이 바닷물로 만들어지니, 오염수가 방류되면 천일염도 방사능에 오염될 거 아니냐, 이런 걱정인데, 정말 그렇게 되나요? [기자] 위험성이 크지 않다는 의견이 많습니다. 전문가들은 일본 주장처럼 오염수를 알프스(ALPS)라는 장치를 통해 철저히 정화한다면 세슘]]></content>
     </entry>
 </feed>

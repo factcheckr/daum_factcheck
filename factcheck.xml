@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-23T10:21:36.333Z</updated>
+    <updated>2024-01-23T11:17:17.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 홍익표 "원전으로 전력 공급해 만든 반도체, 거의 해외에 팔수 없다"...업계 "사실과 달라"]]></title>
+        <title type="html"><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
+        <id>https://v.daum.net/v/20240123200523397</id>
+        <link href="https://v.daum.net/v/20240123200523397"/>
+        <updated>2024-01-23T11:16:19.175Z</updated>
+        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 홍익표 "원전 사용 반도체 해외 못팔아"… 애플은 원전도 가능]]></title>
         <id>https://v.daum.net/v/20240123181017135</id>
         <link href="https://v.daum.net/v/20240123181017135"/>
         <updated>2024-01-23T09:19:22.274Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240115204204346"/>
         <updated>2024-01-15T12:36:03.554Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 인천시가 낙후된 원도심을 개발하는, 이른바 '제물포 르네상스'라는 사업 구상을 최근 발표했습니다. 지역의 랜드마크가 될 건물 이미지도 공개했는데, 중국 관광명소로 꼽히는 건물 디자인을 베낀 것 아니냐는 주장이 나왔습니다. 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; 지난달 인천에서 열린 '제물포 르네상스' 대시민 보고회입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 특정 앱으로만 진료예약을 받으면, 진료거부이다?]]></title>
-        <id>https://v.daum.net/v/20240115183414344</id>
-        <link href="https://v.daum.net/v/20240115183414344"/>
-        <updated>2024-01-15T10:21:41.453Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 세]]></content>
     </entry>
 </feed>

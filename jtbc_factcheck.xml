@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-01-23T10:21:36.340Z</updated>
+    <updated>2024-01-23T11:17:17.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
+        <id>https://v.daum.net/v/20240123200523397</id>
+        <link href="https://v.daum.net/v/20240123200523397"/>
+        <updated>2024-01-23T11:17:17.185Z</updated>
+        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["디올백은 국고...돌려주면 횡령"? 따져보니]]></title>
         <id>https://v.daum.net/v/20240123120442830</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230619203606739"/>
         <updated>2023-06-19T12:38:55.704Z</updated>
         <content type="html"><![CDATA[[앵커] 지난 토요일 대구 퀴어축제에서 낯선 광경이 벌어졌습니다. 지자체 공무원들과 경찰이 부딪혔습니다. 대구시 홍준표 시장과 대구 경찰 모두, 상대방이 법을 어겼다고 주장하고 있습니다. 취재 기자와 누구 말이 맞는지 팩트체크 해보겠습니다. 강버들 기자가 나왔는데요. 강버들 기자, 일단 홍준표 시장이 퀴어 축제, 왜 막은 건가요? [기자] 이번 축제 때도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오염수 방류 시 천일염도 '방사능 노출' 사정권?]]></title>
-        <id>https://v.daum.net/v/20230616201508133</id>
-        <link href="https://v.daum.net/v/20230616201508133"/>
-        <updated>2023-06-16T11:17:26.350Z</updated>
-        <content type="html"><![CDATA[[앵커] 이 문제 관련해서 몇 가지 팩트체크를 해보겠습니다. 조보경 기자 나와 있습니다. 우선, 천일염이 바닷물로 만들어지니, 오염수가 방류되면 천일염도 방사능에 오염될 거 아니냐, 이런 걱정인데, 정말 그렇게 되나요? [기자] 위험성이 크지 않다는 의견이 많습니다. 전문가들은 일본 주장처럼 오염수를 알프스(ALPS)라는 장치를 통해 철저히 정화한다면 세슘]]></content>
     </entry>
 </feed>
