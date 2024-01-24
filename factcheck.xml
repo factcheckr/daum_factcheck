@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-24T19:16:58.265Z</updated>
+    <updated>2024-01-24T20:22:32.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고령화로 의료 수요 팽창… 2035년 입원일 45% 증가[팩트 체크]]]></title>
+        <id>https://v.daum.net/v/20240125050132704</id>
+        <link href="https://v.daum.net/v/20240125050132704"/>
+        <updated>2024-01-24T20:20:33.720Z</updated>
+        <content type="html"><![CDATA[“인구가 급격히 감소하는 반면 의사 증가 속도는 경제협력개발기구(OECD) 최고 수준이니 의대 증원이 아니라 감축을 논의해야 한다.”(19일 경기도의사회) 저출산으로 인구가 줄고 있으니 의사 인력을 늘리지 않아도 된다는 의료계의 주장은 맞는 얘기일까. 결론부터 얘기하면 미래 어느 시점에는 맞는 얘기일 수 있지만 현시점에선 전적으로 ‘기우’일 뿐이다. 보건복]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 尹 때문에 애플에 반도체 수출 못한다? 진실은?]]></title>
         <id>https://v.daum.net/v/20240124001110051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240119201609227"/>
         <updated>2024-01-19T11:17:02.461Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 용산참사가 일어난 지 15년이 지났지만, 유족들은 여전히 거리에서 '책임자 처벌'을 외치고 있습니다. "진상규명 책임자를 처벌하라!" 왜 유족들의 요구는 15년째 그대로인 건지, 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ 용산참사 당시 현장에는 농성이 시작된 지 불과 하루 만에 경찰특공대가 투입됐습니다. 지휘 책임자인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 명동상권이 부활했다?]]></title>
-        <id>https://v.daum.net/v/20240117170514624</id>
-        <link href="https://v.daum.net/v/20240117170514624"/>
-        <updated>2024-01-17T08:24:03.901Z</updated>
-        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 서울 대표 상권 중 하나인 명동. 해외 방문객 의존도가 높은 명동은 2017년 중국의 한한령에 이어 2020년 코로나19 팬데믹으로 지난 몇 년간 침체를 겪었었다. 그러나 이런 명동상권이 다시 활기를 되찾았다는 주장이 나왔다. 인터넷 커뮤니티에서는 많은 사람이 명동을 찾고 있다고 얘기한다. 과연 사실일지, 코로나19 전과 비]]></content>
     </entry>
 </feed>
