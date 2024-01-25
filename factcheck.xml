@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-25T11:17:26.851Z</updated>
+    <updated>2024-01-25T12:37:14.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나]]></title>
+        <id>https://v.daum.net/v/20240125210908582</id>
+        <link href="https://v.daum.net/v/20240125210908582"/>
+        <updated>2024-01-25T12:36:08.566Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 얼마 전 국회에서 열렸던&nbsp;한 토론회를 놓고&nbsp;논란이 일고 있습니다. 아이를 키우는 사람에게는 국민연금 혜택을 주자는 이른바&nbsp; '82년생 김지영 연금'이란 걸 둘러싼 내용이었는데, 논란의 배경과 우리가 더 생각해 봐야 할 점들을 팩트체크 사실은 코너에서&nbsp;짚어봤습니다. 박세용 기자입니다. &lt;기자&gt; 국회에서 한 여성단체 주도로 열린 국민연금 관련 토론회.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 중대재해처벌법 확대로 골목 식당·카페 타격?]]></title>
         <id>https://v.daum.net/v/20240125195813011</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240123034510513"/>
         <updated>2024-01-22T19:15:42.294Z</updated>
         <content type="html"><![CDATA[여권의 내분과 함께 김건희 여사의 명품 백 수수 의혹이 일파만파 번지고 있다. 대통령실과 국민의힘 친윤 인사들은 이 사건 본질이 ‘몰카 공작’이기 때문에 대통령 부부가 사과할 일이 아니라고 주장한다. 그러나 한동훈 비대위원장이 영입한 인사들이 김 여사 사과를 요구하고, 한 위원장도 “국민 눈높이”를 강조하는 등 의견 차를 보이면서 대통령실이 ‘한동훈 사퇴’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체력시험, 남녀 동일 기준 적용…여성 소방관 줄어든다? [사실은]]]></title>
-        <id>https://v.daum.net/v/20240122211804618</id>
-        <link href="https://v.daum.net/v/20240122211804618"/>
-        <updated>2024-01-22T12:36:45.510Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 3년 뒤, 2027년부터는 소방관을 채용하는 체력시험에서 남녀 응시자가 같은 기준을 적용받게 되는데요. 여성에게 불리한 것 아니냐는 지적이 나왔는데, 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 현재 소방관 체력시험 종목은 윗몸일으키기, 악력, 배근력, 제자리멀리뛰기 등 여섯 종목입니다. 모두 남녀 채점 기준이 다른데]]></content>
     </entry>
 </feed>
