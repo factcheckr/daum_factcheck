@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-25T10:21:55.424Z</updated>
+    <updated>2024-01-25T11:17:26.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 중대재해처벌법 확대로 골목 식당·카페 타격?]]></title>
+        <id>https://v.daum.net/v/20240125195813011</id>
+        <link href="https://v.daum.net/v/20240125195813011"/>
+        <updated>2024-01-25T11:16:16.751Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 중대재해처벌법 확대를 미룰 것을 주장해온 정부와 업계는 그 근거로 동네 식당과 카페 같은 영세 자영업자들의 피해를 들었습니다. [이정식/고용노동부 장관(어제)] "상시 근로자가 5명 이상인 동네 음식점이나 제과점 사장님도 중대재해처벌법 확대 적용 대상이 됩니다." 이런 골목 상인들이 중대재해법으로 처벌을 받을까 우려된다는 건데요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고령화로 의료 수요 팽창… 2035년 입원일 45% 증가[팩트 체크]]]></title>
         <id>https://v.daum.net/v/20240125050132704</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240122211804618"/>
         <updated>2024-01-22T12:36:45.510Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 3년 뒤, 2027년부터는 소방관을 채용하는 체력시험에서 남녀 응시자가 같은 기준을 적용받게 되는데요. 여성에게 불리한 것 아니냐는 지적이 나왔는데, 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 현재 소방관 체력시험 종목은 윗몸일으키기, 악력, 배근력, 제자리멀리뛰기 등 여섯 종목입니다. 모두 남녀 채점 기준이 다른데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 15년째 외치는 "책임자 처벌"‥이유는?]]></title>
-        <id>https://v.daum.net/v/20240119201609227</id>
-        <link href="https://v.daum.net/v/20240119201609227"/>
-        <updated>2024-01-19T11:17:02.461Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 용산참사가 일어난 지 15년이 지났지만, 유족들은 여전히 거리에서 '책임자 처벌'을 외치고 있습니다. "진상규명 책임자를 처벌하라!" 왜 유족들의 요구는 15년째 그대로인 건지, 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ 용산참사 당시 현장에는 농성이 시작된 지 불과 하루 만에 경찰특공대가 투입됐습니다. 지휘 책임자인]]></content>
     </entry>
 </feed>
