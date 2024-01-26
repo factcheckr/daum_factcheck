@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-26T07:17:09.924Z</updated>
+    <updated>2024-01-26T08:23:29.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 남에게 기후동행카드를 양도하는 걸 막을 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240126165526855</id>
+        <link href="https://v.daum.net/v/20240126165526855"/>
+        <updated>2024-01-26T08:21:28.311Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 서울시에서 시행하는 대중교통 통합 정기권인 기후동행카드가 오는 27일부터 시범사업을 시작한다. 그런데 일각에선 기후동행카드 하나를 두고 여러 사람이 사용하는 걸 막을 수 있을지 우려하는 목소리가 나온다. 규정상 타인 양도, 양수를 금지하고 있지만 현실적으로 부정 사용을 막기는 어려울 것이라는 얘기다. 그렇다면 정말로 기후동행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240125210908582</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240123034623514"/>
         <updated>2024-01-22T19:15:42.293Z</updated>
         <content type="html"><![CDATA[대통령실은 한동훈 국민의힘 비상대책위원장이 자신의 이익을 위해 ‘불공정 공천’을 하고 있다고 지적한다. 반면 한 위원장 측은 서울 마포을 출마를 밝힌 김경율 비대위원을 비롯해 누구든 공정한 공천 과정을 거칠 것이라고 반박한다. ①불공정 공천 얘기 왜 나오나 국민의힘 정영환 공천관리위원장은 22일 “(한 위원장이) 절차적으로 오버한 면이 있을 수도 있다”고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘명품백’ 몰카 함정 취재 걸린 건 맞아… 김영란법 적용은 논란 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240123034510513</id>
-        <link href="https://v.daum.net/v/20240123034510513"/>
-        <updated>2024-01-22T19:15:42.294Z</updated>
-        <content type="html"><![CDATA[여권의 내분과 함께 김건희 여사의 명품 백 수수 의혹이 일파만파 번지고 있다. 대통령실과 국민의힘 친윤 인사들은 이 사건 본질이 ‘몰카 공작’이기 때문에 대통령 부부가 사과할 일이 아니라고 주장한다. 그러나 한동훈 비대위원장이 영입한 인사들이 김 여사 사과를 요구하고, 한 위원장도 “국민 눈높이”를 강조하는 등 의견 차를 보이면서 대통령실이 ‘한동훈 사퇴’]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ SBS 사실은)]]></title>
