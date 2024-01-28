@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-28T22:17:20.750Z</updated>
+    <updated>2024-01-28T23:19:13.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 스마트폰 '다크모드' 치명적 눈 질환 유발한다고?]]></title>
+        <id>https://v.daum.net/v/20240129080302912</id>
+        <link href="https://v.daum.net/v/20240129080302912"/>
+        <updated>2024-01-28T23:18:15.145Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; &nbsp;지난&nbsp;한]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 비행기 내에서 다른 승객에게 음식물을 나눠줄 수 없다고?]]></title>
+        <id>https://v.daum.net/v/20240129080302909</id>
+        <link href="https://v.daum.net/v/20240129080302909"/>
+        <updated>2024-01-28T23:18:15.147Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품 국고 귀속…YS·DJ 때도 있었다? 그때와 차이점은?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240127074800648</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240124000414918"/>
         <updated>2024-01-23T15:20:43.811Z</updated>
         <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장은 지난해 11월 법무부 장관 재직 당시 “여의도에서 300명만 공유하는 화법이 있다면 여의도 사투리가 아닌가. 5000만명이 쓰는 언어를 쓰겠다”며 기존 정치화법 탈피를 선언했다. 비대위원장 취임 직후에는 “이재명 민주당 전체주의” “운동권 특권” 등의 대야 공세를 거듭하며 당내 안착을 시도했다. 전국 순회에선 지연과 연고를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
-        <id>https://v.daum.net/v/20240123200523397</id>
-        <link href="https://v.daum.net/v/20240123200523397"/>
-        <updated>2024-01-23T11:16:19.175Z</updated>
-        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 홍익표 "원전 사용 반도체 해외 못팔아"… 애플은 원전도 가능]]></title>
-        <id>https://v.daum.net/v/20240123181017135</id>
-        <link href="https://v.daum.net/v/20240123181017135"/>
-        <updated>2024-01-23T09:19:22.274Z</updated>
-        <content type="html"><![CDATA[홍익표 더불어민주당 원내대표는 23일 윤석열 대통령이 지난 15일 반도체 산업 관련행사에서 "탈원전을 하게 되면 반도체뿐만 아니라 첨단산업을 포기해야 한다"고 발언에 대해 "기업에는 불안을, 국제 사회에서는 웃음거리가 된 것 같다"고 비판했다. 홍 원내대표는 이날 국회에서 열린 원내대책회의에서 "반도체를 비롯한 첨단산업을 아예 그냥 문 닫기로 작정한 것]]></content>
     </entry>
 </feed>
