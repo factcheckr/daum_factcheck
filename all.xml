@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-30T08:22:27.829Z</updated>
+    <updated>2024-01-30T09:19:25.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] "4호선 무임승차 최다는 경마장역"...이준석 발언은 사실일까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240130174612263</id>
+        <link href="https://v.daum.net/v/20240130174612263"/>
+        <updated>2024-01-30T09:18:19.382Z</updated>
+        <content type="html"><![CDATA[이준석 개혁신당 대표와 김호일 대한노인회장이 지난 26일 라디오 방송에 출연해 토론 배틀을 펼쳤습니다. 이준석 대표 "4호선 무임승차 최다역은 경마장역" 발언 주제는 65세 이상 노인들의 지하철 무임승차 제도를 폐지하는 것이 맞느냐 하는 것. 이 대표는 토론 말미에 "4호선 51개 지하철 역 중에서 가장 무임승차 비율이 높은 역이 경마장역이다. 이게 어떻게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 스마트폰 '다크모드' 치명적 눈 질환 유발한다고? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240129080302912</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240124001110051"/>
         <updated>2024-01-23T15:20:43.811Z</updated>
         <content type="html"><![CDATA[애플과 구글, BMW 등이 원자력발전에서 나온 전기를 쓰는 반도체는 쓰지 않는다? 홍익표 더불어민주당 원내대표가 윤석열 대통령이 지난 15일 한 토론회에 참석해 "탈원전을 하면 반도체뿐만 아니라 첨단 산업을 포기해야 한다"고 한 발언에 대해 "세계적으로 조롱거리가 되고 있다"며 주장한 논리다. 홍 원내대표는 지난 23일 원내대책회의에서 "RE100에 따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 화법, ‘이재명 민주당’ 158회, ‘윤석열·김건희’ 0회 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240124000414918</id>
-        <link href="https://v.daum.net/v/20240124000414918"/>
-        <updated>2024-01-23T15:20:43.811Z</updated>
-        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장은 지난해 11월 법무부 장관 재직 당시 “여의도에서 300명만 공유하는 화법이 있다면 여의도 사투리가 아닌가. 5000만명이 쓰는 언어를 쓰겠다”며 기존 정치화법 탈피를 선언했다. 비대위원장 취임 직후에는 “이재명 민주당 전체주의” “운동권 특권” 등의 대야 공세를 거듭하며 당내 안착을 시도했다. 전국 순회에선 지연과 연고를]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ SBS 사실은)]]></title>
