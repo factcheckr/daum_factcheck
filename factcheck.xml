@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-30T10:21:15.775Z</updated>
+    <updated>2024-01-30T11:16:40.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
+        <id>https://v.daum.net/v/20240130195811585</id>
+        <link href="https://v.daum.net/v/20240130195811585"/>
+        <updated>2024-01-30T11:15:36.167Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] "4호선 무임승차 최다는 경마장역"...이준석 발언은 사실일까]]></title>
         <id>https://v.daum.net/v/20240130174612263</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240125050132704"/>
         <updated>2024-01-24T20:20:33.720Z</updated>
         <content type="html"><![CDATA[“인구가 급격히 감소하는 반면 의사 증가 속도는 경제협력개발기구(OECD) 최고 수준이니 의대 증원이 아니라 감축을 논의해야 한다.”(19일 경기도의사회) 저출산으로 인구가 줄고 있으니 의사 인력을 늘리지 않아도 된다는 의료계의 주장은 맞는 얘기일까. 결론부터 얘기하면 미래 어느 시점에는 맞는 얘기일 수 있지만 현시점에선 전적으로 ‘기우’일 뿐이다. 보건복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 尹 때문에 애플에 반도체 수출 못한다? 진실은?]]></title>
-        <id>https://v.daum.net/v/20240124001110051</id>
-        <link href="https://v.daum.net/v/20240124001110051"/>
-        <updated>2024-01-23T15:20:43.811Z</updated>
-        <content type="html"><![CDATA[애플과 구글, BMW 등이 원자력발전에서 나온 전기를 쓰는 반도체는 쓰지 않는다? 홍익표 더불어민주당 원내대표가 윤석열 대통령이 지난 15일 한 토론회에 참석해 "탈원전을 하면 반도체뿐만 아니라 첨단 산업을 포기해야 한다"고 한 발언에 대해 "세계적으로 조롱거리가 되고 있다"며 주장한 논리다. 홍 원내대표는 지난 23일 원내대책회의에서 "RE100에 따라]]></content>
     </entry>
 </feed>
