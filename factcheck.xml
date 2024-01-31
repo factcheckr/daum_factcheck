@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-01-31T09:18:13.386Z</updated>
+    <updated>2024-01-31T10:19:59.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련]]></title>
+        <id>https://v.daum.net/v/20240131182811949</id>
+        <link href="https://v.daum.net/v/20240131182811949"/>
+        <updated>2024-01-31T10:18:55.934Z</updated>
+        <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
         <id>https://v.daum.net/v/20240130195811585</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240125195813011"/>
         <updated>2024-01-25T11:16:16.751Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 중대재해처벌법 확대를 미룰 것을 주장해온 정부와 업계는 그 근거로 동네 식당과 카페 같은 영세 자영업자들의 피해를 들었습니다. [이정식/고용노동부 장관(어제)] "상시 근로자가 5명 이상인 동네 음식점이나 제과점 사장님도 중대재해처벌법 확대 적용 대상이 됩니다." 이런 골목 상인들이 중대재해법으로 처벌을 받을까 우려된다는 건데요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고령화로 의료 수요 팽창… 2035년 입원일 45% 증가[팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20240125050132704</id>
-        <link href="https://v.daum.net/v/20240125050132704"/>
-        <updated>2024-01-24T20:20:33.720Z</updated>
-        <content type="html"><![CDATA[“인구가 급격히 감소하는 반면 의사 증가 속도는 경제협력개발기구(OECD) 최고 수준이니 의대 증원이 아니라 감축을 논의해야 한다.”(19일 경기도의사회) 저출산으로 인구가 줄고 있으니 의사 인력을 늘리지 않아도 된다는 의료계의 주장은 맞는 얘기일까. 결론부터 얘기하면 미래 어느 시점에는 맞는 얘기일 수 있지만 현시점에선 전적으로 ‘기우’일 뿐이다. 보건복]]></content>
     </entry>
 </feed>

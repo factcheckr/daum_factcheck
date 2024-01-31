@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-01-31T09:18:13.395Z</updated>
+    <updated>2024-01-31T10:19:59.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련]]></title>
+        <id>https://v.daum.net/v/20240131182811949</id>
+        <link href="https://v.daum.net/v/20240131182811949"/>
+        <updated>2024-01-31T10:19:58.465Z</updated>
+        <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20240123200523397</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231004203043704"/>
         <updated>2023-10-04T12:38:18.148Z</updated>
         <content type="html"><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나]]></title>
-        <id>https://v.daum.net/v/20230619203606739</id>
-        <link href="https://v.daum.net/v/20230619203606739"/>
-        <updated>2023-06-19T12:38:55.704Z</updated>
-        <content type="html"><![CDATA[[앵커] 지난 토요일 대구 퀴어축제에서 낯선 광경이 벌어졌습니다. 지자체 공무원들과 경찰이 부딪혔습니다. 대구시 홍준표 시장과 대구 경찰 모두, 상대방이 법을 어겼다고 주장하고 있습니다. 취재 기자와 누구 말이 맞는지 팩트체크 해보겠습니다. 강버들 기자가 나왔는데요. 강버들 기자, 일단 홍준표 시장이 퀴어 축제, 왜 막은 건가요? [기자] 이번 축제 때도]]></content>
     </entry>
 </feed>
