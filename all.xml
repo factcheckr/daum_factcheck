@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-02T22:18:37.270Z</updated>
+    <updated>2024-02-02T23:18:10.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[동네 빵집 사장님들도 '중대재해법' 처벌 대상?따져보니[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240203074800648</id>
+        <link href="https://v.daum.net/v/20240203074800648"/>
+        <updated>2024-02-02T23:17:17.133Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘 주제는 중대재해처벌법인데요. 50인 미만 사업장으로 적용이 확대됐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 최정우, 차기 회장 인선 개입?… 포스코홀딩스 "유언비어" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240202110732558</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240126165526855"/>
         <updated>2024-01-26T08:21:28.311Z</updated>
         <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 서울시에서 시행하는 대중교통 통합 정기권인 기후동행카드가 오는 27일부터 시범사업을 시작한다. 그런데 일각에선 기후동행카드 하나를 두고 여러 사람이 사용하는 걸 막을 수 있을지 우려하는 목소리가 나온다. 규정상 타인 양도, 양수를 금지하고 있지만 현실적으로 부정 사용을 막기는 어려울 것이라는 얘기다. 그렇다면 정말로 기후동행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240125210908582</id>
-        <link href="https://v.daum.net/v/20240125210908582"/>
-        <updated>2024-01-25T12:36:08.566Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 얼마 전 국회에서 열렸던&nbsp;한 토론회를 놓고&nbsp;논란이 일고 있습니다. 아이를 키우는 사람에게는 국민연금 혜택을 주자는 이른바&nbsp; '82년생 김지영 연금'이란 걸 둘러싼 내용이었는데, 논란의 배경과 우리가 더 생각해 봐야 할 점들을 팩트체크 사실은 코너에서&nbsp;짚어봤습니다. 박세용 기자입니다. &lt;기자&gt; 국회에서 한 여성단체 주도로 열린 국민연금 관련 토론회.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ SBS 사실은)]]></title>
