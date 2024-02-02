@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-02T01:16:21.371Z</updated>
+    <updated>2024-02-02T02:26:26.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 최정우, 차기 회장 인선 개입?… 포스코홀딩스 "유언비어" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240202110732558</id>
+        <link href="https://v.daum.net/v/20240202110732558"/>
+        <updated>2024-02-02T02:25:31.745Z</updated>
+        <content type="html"><![CDATA[서울 강남구 포스코센터. /사진=뉴스1포스코홀딩스가 최근 불거진 최정우 회장의 차기 회장 인선 개입 논란을 일축했다. 포스코 본사·미래기술연구원 포항이전 범시민대책위원회(범대위)는 최근 포스코센터 앞에서 집회를 열고 최 회장이 CEO후보추천위원회 회의장에 불법 방문해 후보 인선 작업에 관여했다고 주장했다. 포스코홀딩스는 2일 입장문을 내고 "최근 특정 시민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240131182811949</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240125210908582"/>
         <updated>2024-01-25T12:36:08.566Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 얼마 전 국회에서 열렸던&nbsp;한 토론회를 놓고&nbsp;논란이 일고 있습니다. 아이를 키우는 사람에게는 국민연금 혜택을 주자는 이른바&nbsp; '82년생 김지영 연금'이란 걸 둘러싼 내용이었는데, 논란의 배경과 우리가 더 생각해 봐야 할 점들을 팩트체크 사실은 코너에서&nbsp;짚어봤습니다. 박세용 기자입니다. &lt;기자&gt; 국회에서 한 여성단체 주도로 열린 국민연금 관련 토론회.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 중대재해처벌법 확대로 골목 식당·카페 타격? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240125195813011</id>
-        <link href="https://v.daum.net/v/20240125195813011"/>
-        <updated>2024-01-25T11:16:16.751Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 중대재해처벌법 확대를 미룰 것을 주장해온 정부와 업계는 그 근거로 동네 식당과 카페 같은 영세 자영업자들의 피해를 들었습니다. [이정식/고용노동부 장관(어제)] "상시 근로자가 5명 이상인 동네 음식점이나 제과점 사장님도 중대재해처벌법 확대 적용 대상이 됩니다." 이런 골목 상인들이 중대재해법으로 처벌을 받을까 우려된다는 건데요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['82년생 김지영 연금' 제안…여성만 혜택받나 (다음 뉴스 ─ SBS 사실은)]]></title>
