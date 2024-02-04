@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-04T14:16:11.412Z</updated>
+    <updated>2024-02-04T15:17:57.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“은폐수사냐, 선동정치냐”… ‘이재명 피습’ 왜곡수사 진실은 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240205000605860</id>
+        <link href="https://v.daum.net/v/20240205000605860"/>
+        <updated>2024-02-04T15:16:53.010Z</updated>
+        <content type="html"><![CDATA[이재명(사진) 더불어민주당 대표 피습 사건을 둘러싼 '축소·왜곡 수사' 논란이 가라앉지 않고 있다. 이 대표가 피습 8일 만인 지난달 10일 퇴원해 당무에 복귀하고 가해자 김모(66)씨가 살인미수 등 혐의로 재판에 넘겨졌지만 야당은 축소·왜곡 수사 의혹을 제기하며 재수사 요구를 이어가고 있다. 피습 직후 경찰이 사건 현장을 물로 청소하고, 관계기관의 현장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 정부는 세금 안 내도 된다는데, 노점상은 왜-② (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240204060013974</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240129080302909"/>
         <updated>2024-01-28T23:18:15.147Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 01월 27일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 국고 귀속…YS·DJ 때도 있었다? 그때와 차이점은?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240127074800648</id>
-        <link href="https://v.daum.net/v/20240127074800648"/>
-        <updated>2024-01-26T23:18:29.527Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘은 '대통령 부인의 명품 가방 수수에 관한 팩트체크'가 주제네요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 중국 '폭죽 문화' 뺏으려 해"…문화재청에 묻자 (다음 뉴스 ─ SBS 사실은)]]></title>
