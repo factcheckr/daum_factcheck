@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-05T18:24:53.222Z</updated>
+    <updated>2024-02-05T19:17:09.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사업성 없으면 ‘희망고문’… 첫 사업에 성패 달렸다]]></title>
+        <id>https://v.daum.net/v/20240206040817989</id>
+        <link href="https://v.daum.net/v/20240206040817989"/>
+        <updated>2024-02-05T19:15:42.109Z</updated>
+        <content type="html"><![CDATA[총선을 앞두고 여야가 앞다퉈 철도 지하화 공약을 내놓으면서 실현 가능성에 관심이 모아지고 있다. 철도 지하화는 지난 수십년간 선거의 단골 공약이었지만 천문학적 사업비를 충당할 재원을 마련하지 못해 추진에 이르지 못했다. 이번에는 분위기가 다르다. 정부는 지난달 25일 대통령 주재로 열린 교통 관련 민생토론회에서 ‘교통분야 3대 혁신전략’ 중 공간 혁신 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 단통법 시행되면, 스마트폰 가격 진짜 내리나?]]></title>
         <id>https://v.daum.net/v/20240205164806087</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240130195811585"/>
         <updated>2024-01-30T11:15:36.167Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] "4호선 무임승차 최다는 경마장역"...이준석 발언은 사실일까]]></title>
-        <id>https://v.daum.net/v/20240130174612263</id>
-        <link href="https://v.daum.net/v/20240130174612263"/>
-        <updated>2024-01-30T09:18:19.382Z</updated>
-        <content type="html"><![CDATA[이준석 개혁신당 대표와 김호일 대한노인회장이 지난 26일 라디오 방송에 출연해 토론 배틀을 펼쳤습니다. 이준석 대표 "4호선 무임승차 최다역은 경마장역" 발언 주제는 65세 이상 노인들의 지하철 무임승차 제도를 폐지하는 것이 맞느냐 하는 것. 이 대표는 토론 말미에 "4호선 51개 지하철 역 중에서 가장 무임승차 비율이 높은 역이 경마장역이다. 이게 어떻게]]></content>
     </entry>
 </feed>
