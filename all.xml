@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-06T06:24:24.953Z</updated>
+    <updated>2024-02-06T07:17:48.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은…[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240206154302435</id>
+        <link href="https://v.daum.net/v/20240206154302435"/>
+        <updated>2024-02-06T07:16:37.655Z</updated>
+        <content type="html"><![CDATA[정부가 최근 내놓은 ‘혼합진료 금지’ 정책을 두고 사회관계망서비스(SNS) 등을 중심으로 ‘의료민영화’라는 주장이 나오고 있다. “(의료)민영화 하면 내야할 금액”이라며 자신의 진료 계산서를 인증하는 이들도 등장했다. 그러나 6일 경향신문 취재 결과 ‘혼합진료 금지’ 정책은 의료민영화와 무관하다. 혼합진료란 건강보험 급여 진료와 비급여 진료를 함께 하는 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사업성 없으면 ‘희망고문’… 첫 사업에 성패 달렸다 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240206040817989</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240131182811949"/>
         <updated>2024-01-31T10:18:55.934Z</updated>
         <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '이태원참사 특별법'이 헌법 훼손·기본권 침해? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240130195811585</id>
-        <link href="https://v.daum.net/v/20240130195811585"/>
-        <updated>2024-01-30T11:15:36.167Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 중국 '폭죽 문화' 뺏으려 해"…문화재청에 묻자 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -411,6 +411,13 @@
         <content type="html"><![CDATA[오늘 팩트맨은 팔당대교에서 시작합니다. 사흘 전 김봉현 전 회장은 이곳에서 전자팔찌를 끊고 사라졌습니다. 범죄자들이 출소 후 착용하는 전자발찌와 달리, 팔찌는 훼손해도 처벌이 어려운데요. 이유가 뭔지 스튜디오에서 알아봅니다. 전자팔찌와 전자발찌의 차이부터 살펴보죠. 발찌는 범죄를 저지르고 출소한 사람들의 재범을 막기 위해 채우는데요. 팔찌는]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은… (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240206154302435</id>
+        <link href="https://v.daum.net/v/20240206154302435"/>
+        <updated>2024-02-06T07:17:29.594Z</updated>
+        <content type="html"><![CDATA[정부가 최근 내놓은 ‘혼합진료 금지’ 정책을 두고 사회관계망서비스(SNS) 등을 중심으로 ‘의료민영화’라는 주장이 나오고 있다. “(의료)민영화 하면 내야할 금액”이라며 자신의 진료 계산서를 인증하는 이들도 등장했다. 그러나 6일 경향신문 취재 결과 ‘혼합진료 금지’ 정책은 의료민영화와 무관하다. 혼합진료란 건강보험 급여 진료와 비급여 진료를 함께 하는 진]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수사 생중계·야당 특검 추천이 ‘독소조항’? 드루킹·최순실 때 ‘전례’ (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
         <id>https://v.daum.net/v/20231225205105260</id>
         <link href="https://v.daum.net/v/20231225205105260"/>
@@ -486,13 +493,6 @@
         <link href="https://v.daum.net/v/20230216070014364"/>
         <updated>2023-02-15T22:21:04.066Z</updated>
         <content type="html"><![CDATA[인천에서 올해 들어 아동 2명이 부모 학대로 숨졌다. 2살 아이가 사흘간 집에 홀로 방치됐다가 사망했으며 홈스쿨링을 한다며 학교에 가지 않은 초등학교 5학년이 온몸에 멍이 든 채 숨졌다. 이는 올해 ‘아동학대 ZERO, 어린이가 안전한 인천 만들기’를 선언한 인천시의 아동정책 비전을 무색하게 하고 있다. 이로 인해 사회관계망서비스(SNS)에는 “또 인천이냐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“관리자가 테러 조직원” 튀르키예 대사관이 지목한 ‘이 단체’의 정체는? (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20230215151054722</id>
-        <link href="https://v.daum.net/v/20230215151054722"/>
-        <updated>2023-02-15T06:28:58.791Z</updated>
-        <content type="html"><![CDATA[“서울의 ‘Global Business Alliance(GBA)’라는 이름의 조직은 우리 대사관과 아무런 관련이 없으며, 해당 관리자는 테러 조직 구성원으로 튀르키예에서 수배 중인 사람입니다. 이러한 이유로 해당 기관에 모집된 기부금이 튀르키예에 전달될 가능성은 전혀 없습니다.” - 주한튀르키예대사관 페이스북 주한튀르키예대사관은 지난 12일 튀르키예 지진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이낙연 사과한 "민주당 국회의원 전과자 44%" 발언 검증해보니 (다음 뉴스 ─ 오마이뉴스 오마이팩트)]]></title>

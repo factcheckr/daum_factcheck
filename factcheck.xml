@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-06T06:24:24.939Z</updated>
+    <updated>2024-02-06T07:17:48.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은…[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240206154302435</id>
+        <link href="https://v.daum.net/v/20240206154302435"/>
+        <updated>2024-02-06T07:16:37.655Z</updated>
+        <content type="html"><![CDATA[정부가 최근 내놓은 ‘혼합진료 금지’ 정책을 두고 사회관계망서비스(SNS) 등을 중심으로 ‘의료민영화’라는 주장이 나오고 있다. “(의료)민영화 하면 내야할 금액”이라며 자신의 진료 계산서를 인증하는 이들도 등장했다. 그러나 6일 경향신문 취재 결과 ‘혼합진료 금지’ 정책은 의료민영화와 무관하다. 혼합진료란 건강보험 급여 진료와 비급여 진료를 함께 하는 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사업성 없으면 ‘희망고문’… 첫 사업에 성패 달렸다]]></title>
         <id>https://v.daum.net/v/20240206040817989</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240131182811949"/>
         <updated>2024-01-31T10:18:55.934Z</updated>
         <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
-        <id>https://v.daum.net/v/20240130195811585</id>
-        <link href="https://v.daum.net/v/20240130195811585"/>
-        <updated>2024-01-30T11:15:36.167Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
     </entry>
 </feed>
