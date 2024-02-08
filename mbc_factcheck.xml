@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-02-08T10:20:09.502Z</updated>
+    <updated>2024-02-08T11:18:32.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 "영수회담은 없어진 방식"‥사실?]]></title>
+        <id>https://v.daum.net/v/20240208200415626</id>
+        <link href="https://v.daum.net/v/20240208200415626"/>
+        <updated>2024-02-08T11:17:48.023Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
         <id>https://v.daum.net/v/20240130195811585</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231028201911984"/>
         <updated>2024-01-25T14:19:06.500Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 증원 안해도 의사 남아돌게 된다?]]></title>
-        <id>https://v.daum.net/v/20231018201310378</id>
-        <link href="https://v.daum.net/v/20231018201310378"/>
-        <updated>2024-01-25T14:19:06.501Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 강력 반대하고 있는 의사 단체들의 논리 중 하나는 지금의 정원을 그대로 둬도 의사는 부족해지지 않을 거라는 겁니다. 저출생으로 인한 빠른 인구 감소 속도를 감안하면, 머지 않아 인구당 의사수가 OECD 평균을 넘기게 돼, 지금 의사를 늘리면 안된다는 건데요. 설득력 있는 얘기인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다]]></content>
     </entry>
 </feed>

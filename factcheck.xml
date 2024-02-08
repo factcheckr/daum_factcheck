@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-08T10:20:09.503Z</updated>
+    <updated>2024-02-08T11:18:32.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 윤 대통령 "영수회담은 없어진 방식"‥사실?]]></title>
+        <id>https://v.daum.net/v/20240208200415626</id>
+        <link href="https://v.daum.net/v/20240208200415626"/>
+        <updated>2024-02-08T11:17:29.853Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240208152104502</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240203074800648"/>
         <updated>2024-02-02T23:17:17.133Z</updated>
         <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘 주제는 중대재해처벌법인데요. 50인 미만 사업장으로 적용이 확대됐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 최정우, 차기 회장 인선 개입?… 포스코홀딩스 "유언비어"]]></title>
-        <id>https://v.daum.net/v/20240202110732558</id>
-        <link href="https://v.daum.net/v/20240202110732558"/>
-        <updated>2024-02-02T02:25:31.745Z</updated>
-        <content type="html"><![CDATA[서울 강남구 포스코센터. /사진=뉴스1포스코홀딩스가 최근 불거진 최정우 회장의 차기 회장 인선 개입 논란을 일축했다. 포스코 본사·미래기술연구원 포항이전 범시민대책위원회(범대위)는 최근 포스코센터 앞에서 집회를 열고 최 회장이 CEO후보추천위원회 회의장에 불법 방문해 후보 인선 작업에 관여했다고 주장했다. 포스코홀딩스는 2일 입장문을 내고 "최근 특정 시민]]></content>
     </entry>
 </feed>
