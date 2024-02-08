@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2024-02-08T11:18:32.335Z</updated>
+    <updated>2024-02-08T12:33:06.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출산하면 1억 주는 부영, 6년 전엔 이런 '흑역사'가...]]></title>
+        <id>https://v.daum.net/v/20240208210002315</id>
+        <link href="https://v.daum.net/v/20240208210002315"/>
+        <updated>2024-02-08T12:32:56.960Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;부영그룹이 5일 서울시 중구 부영태평빌딩 컨벤션홀에서 ‘2024년 시무식’을 진행하고 있다. 이중근 부영그룹 회장은 이날 2021년 이후 출산한 직원 자녀 70명에게 출산장려금 1억 원씩 총 70억 원을 지급하고 셋째까지 출산한 임직원 가정에는 국가로부터 토지가 제공된다면 임차인의 조세 부담이 없고 유지보수 책임이 없는 국민주택을 제공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다]]></title>
         <id>https://v.daum.net/v/20240208152104502</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231006181208865"/>
         <updated>2023-10-06T09:19:11.227Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유인촌 문화체육관광부 장관 후보자가 5일 서울 여의도 국회에서 열린 인사청문회에서 안경을 고쳐쓰고 있다. ⓒ 남소연&nbsp; 유인촌 문화체육관광부(아래 문체부) 장관 후보자가 이명박(MB) 정부 당시 '문화예술계 블랙리스트' 존재 사실 자체를 부인해 논란이 되고 있다. 이명박 정부 초대 문체부 장관을 지낸 유 후보자는 지난 5일 국회 인사청문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개식용금지법=김건희법, 동물보호단체 먼저 사용", 거짓]]></title>
-        <id>https://v.daum.net/v/20230922120303703</id>
-        <link href="https://v.daum.net/v/20230922120303703"/>
-        <updated>2023-09-22T03:20:24.663Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;지난 13일 박대출 국민의힘 정책위 의장이 올린 페이스북 글. 제목은 &lt;‘레이디버드법‘, 대통령 부인 이름 붙인 법입니다&gt;.ⓒ 박대출 의원 페이스북 갈무리&nbsp; [검증 대상]"개식용금지법, 김건희법'으로 별칭 쓰기 시작한 건 동물애호단체들" "개식용금지법을 '김건희법'이란 별칭으로 쓰기 시작한 것은 동물애호단체들입니다. 그리고 많은 언론들]]></content>
     </entry>
 </feed>

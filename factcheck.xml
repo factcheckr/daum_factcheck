@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-08T11:18:32.339Z</updated>
+    <updated>2024-02-08T12:33:06.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출산하면 1억 주는 부영, 6년 전엔 이런 '흑역사'가... [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240208210002315</id>
+        <link href="https://v.daum.net/v/20240208210002315"/>
+        <updated>2024-02-08T12:32:10.253Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;부영그룹이 5일 서울시 중구 부영태평빌딩 컨벤션홀에서 ‘2024년 시무식’을 진행하고 있다. 이중근 부영그룹 회장은 이날 2021년 이후 출산한 직원 자녀 70명에게 출산장려금 1억 원씩 총 70억 원을 지급하고 셋째까지 출산한 임직원 가정에는 국가로부터 토지가 제공된다면 임차인의 조세 부담이 없고 유지보수 책임이 없는 국민주택을 제공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 윤 대통령 "영수회담은 없어진 방식"‥사실?]]></title>
         <id>https://v.daum.net/v/20240208200415626</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240203204205374"/>
         <updated>2024-02-03T12:29:55.413Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 중국이 최대 명절인 춘제를 맞아 다시 대규모로 폭죽을 터뜨릴 것으로 예상됩니다. 한국이 불꽃놀이를 유네스코 세계유산에 신청했고, 때문에 중국 문화를 지키기 위해서는 폭죽을 터뜨려야 한다는 여론에 영향을 받은 것입니다. 이게 맞는 이야기인지 팩트체크 사실은 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 아이들이 맨홀 속에 폭죽을 던지자 갑자기 폭발합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동네 빵집 사장님들도 '중대재해법' 처벌 대상?따져보니[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240203074800648</id>
-        <link href="https://v.daum.net/v/20240203074800648"/>
-        <updated>2024-02-02T23:17:17.133Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. 안녕하세요. 오늘 주제는 중대재해처벌법인데요. 50인 미만 사업장으로 적용이 확대됐]]></content>
     </entry>
 </feed>
