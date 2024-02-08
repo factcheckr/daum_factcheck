@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-08T05:20:39.503Z</updated>
+    <updated>2024-02-08T06:24:33.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240208152104502</id>
+        <link href="https://v.daum.net/v/20240208152104502"/>
+        <updated>2024-02-08T06:23:26.261Z</updated>
+        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;지난 7일 오후 서울역 대합실에서 시민들이 KBS를 통해 녹화 방송되고 있는 윤석열 대통령의 특별 대담을 시청하고 있다. ⓒ 연합뉴스&nbsp; 지난 7일 윤석열 대통령의 KBS 특별대담 '대통령실을 가다'가 방영됐다. 세간의 관심은 '김건희 여사 명품백 수수 의혹'과 관련한 윤 대통령의 사과 여부에 쏠렸다. 결국 대통령의 사과 표명은 없었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은…[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240206154302435</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240202110732558"/>
         <updated>2024-02-02T02:25:31.745Z</updated>
         <content type="html"><![CDATA[서울 강남구 포스코센터. /사진=뉴스1포스코홀딩스가 최근 불거진 최정우 회장의 차기 회장 인선 개입 논란을 일축했다. 포스코 본사·미래기술연구원 포항이전 범시민대책위원회(범대위)는 최근 포스코센터 앞에서 집회를 열고 최 회장이 CEO후보추천위원회 회의장에 불법 방문해 후보 인선 작업에 관여했다고 주장했다. 포스코홀딩스는 2일 입장문을 내고 "최근 특정 시민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련]]></title>
-        <id>https://v.daum.net/v/20240131182811949</id>
-        <link href="https://v.daum.net/v/20240131182811949"/>
-        <updated>2024-01-31T10:18:55.934Z</updated>
-        <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
     </entry>
 </feed>
