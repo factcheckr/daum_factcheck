@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-11T20:20:21.370Z</updated>
+    <updated>2024-02-11T21:17:37.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[출산하면 1억 주는 부영, 6년 전엔 이런 '흑역사'가... [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240208210002315</id>
