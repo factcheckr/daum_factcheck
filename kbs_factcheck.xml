@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2024-02-13T12:34:55.082Z</updated>
+    <updated>2024-02-13T13:21:19.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘두꺼비생태공원’ 보조금 사용 법정 공방…결과는?]]></title>
+        <id>https://v.daum.net/v/20240213214714847</id>
+        <link href="https://v.daum.net/v/20240213214714847"/>
+        <updated>2024-02-13T13:20:42.842Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 우리나라 최초의 양서류 생태공원이 청주에 있는데요. 일대를 10년간 위탁 관리한 환경단체와 청주시의 법정 공방이 3년여 만에 마무리됐습니다. 그간의 논란과, 환경단체의 손을 들어준 대법원의 판단을 살펴봅니다. 팩트체크 K, 송국회 기자입니다. [리포트] 20여 년 전, 택지 개발과 아파트 단지 조성으로 사라질 뻔했던  청주시 산남동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[논란 휩싸인 충북교육공론화위원회…핵심 쟁점은?]]></title>
         <id>https://v.daum.net/v/20231106192533129</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230330200128484"/>
         <updated>2024-01-25T14:19:14.093Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 충청북도는 최근  민선 8기 최대 역점 사업인 '레이크파크 르네상스'의 비전과 정책 과제를 발표했습니다. 충북의 대전환을 이끌 혁신이라 자평했지만, 개별 사업들을  하나하나 살펴보면 기존에 추진하던 것과 별반 다르지 않습니다. 팩트체크K 충북 윤소영 기자입니다. [리포트] 올 가을 준공을 앞두고 공사가 한창인  박물관 공사 현장입니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2055년 국민연금 고갈되면, 한 푼도 못 받게 되나?]]></title>
-        <id>https://v.daum.net/v/20230211070047793</id>
-        <link href="https://v.daum.net/v/20230211070047793"/>
-        <updated>2024-01-25T14:19:14.095Z</updated>
-        <content type="html"><![CDATA[보건복지부 산하 국민연금 재정추계위원회가 최근 2055년이 되면 국민연금 기금이 바닥날 것이라는 전망을 내놨습니다. '제5차 국민연금 재정추계'를 통해 내놓은 전망치입니다. 2040년에 정점(1,755조 원)을 찍은 뒤 빠르게 감소해 2055년에는 아예 소진된다는 건데, 저출산·고령화 심화와 경기 둔화 등의 영향으로 5년 전 이뤄졌던 '4차 재정추계' 때]]></content>
     </entry>
 </feed>
