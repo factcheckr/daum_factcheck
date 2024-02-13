@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-13T07:18:00.627Z</updated>
+    <updated>2024-02-13T08:23:48.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 “준연동형이라 조국 배지 달 것”…근거는?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240213163958843</id>
+        <link href="https://v.daum.net/v/20240213163958843"/>
+        <updated>2024-02-13T08:22:44.511Z</updated>
+        <content type="html"><![CDATA[한동훈 국민의힘 비상대책위원장은 13일 신당 창당을 선언한 조국 전 법무부 장관에 대해 “이재명 더불어민주당 대표가 결정하고 민주당이 100% 찬성한 준연동형 (비례대표)제도 하에서는 국회의원 배지를 달 수 있다”고 주장했다. 또 “조 전 장관은 우리가 주장하는 병립형 제도에서는 국회의원 배지를 달 수 없다”고 말했다. 조 전 장관이 비례대표 의석을 얻기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해방후 남북한 농지개혁의 진실은...영화 ‘건국전쟁’이 불러일으킨  토지개혁 논쟁[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240213114226326</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240205000605860"/>
         <updated>2024-02-04T15:16:53.010Z</updated>
         <content type="html"><![CDATA[이재명(사진) 더불어민주당 대표 피습 사건을 둘러싼 '축소·왜곡 수사' 논란이 가라앉지 않고 있다. 이 대표가 피습 8일 만인 지난달 10일 퇴원해 당무에 복귀하고 가해자 김모(66)씨가 살인미수 등 혐의로 재판에 넘겨졌지만 야당은 축소·왜곡 수사 의혹을 제기하며 재수사 요구를 이어가고 있다. 피습 직후 경찰이 사건 현장을 물로 청소하고, 관계기관의 현장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 정부는 세금 안 내도 된다는데, 노점상은 왜-②]]></title>
-        <id>https://v.daum.net/v/20240204060013974</id>
-        <link href="https://v.daum.net/v/20240204060013974"/>
-        <updated>2024-02-03T21:14:19.594Z</updated>
-        <content type="html"><![CDATA[[※ 편집자 주 = 노점상이 신용카드를 안 받는 이유는 사업자 등록이 어렵기 때문입니다. 당국은 세금을 낼 필요가 없다지만 정작 노점상인은 내고 싶다며 '노점상 특별법'을 제정해달라고 요구합니다. 노점상이 신용카드를 안 받는 이유를 다룬 첫 번째 팩트체크 기사는 지난달 23일 [팩트체크] "포장마차는 왜 신용카드를 안 받을까?"라는 제목으로 나갔고, 오늘은]]></content>
     </entry>
 </feed>
