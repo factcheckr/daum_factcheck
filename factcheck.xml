@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-16T22:18:54.025Z</updated>
+    <updated>2024-02-16T23:18:06.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의사 수 늘리면 의료붕괴 vs 이대로 가면 의료붕괴…누구 말이 맞나?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20240217074801585</id>
+        <link href="https://v.daum.net/v/20240217074801585"/>
+        <updated>2024-02-16T23:17:04.335Z</updated>
+        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. (안녕하세요.) 오늘은 의대 정원확대와 관련된 갈등에 대해 알아볼텐데요. 이 문제는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["더 바삭한 비법 있다" 다른 가게 고소…도용 인정, 어디까지? [사실은]]]></title>
         <id>https://v.daum.net/v/20240215204805854</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240208152104502"/>
         <updated>2024-02-08T06:23:26.261Z</updated>
         <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;지난 7일 오후 서울역 대합실에서 시민들이 KBS를 통해 녹화 방송되고 있는 윤석열 대통령의 특별 대담을 시청하고 있다. ⓒ 연합뉴스&nbsp; 지난 7일 윤석열 대통령의 KBS 특별대담 '대통령실을 가다'가 방영됐다. 세간의 관심은 '김건희 여사 명품백 수수 의혹'과 관련한 윤 대통령의 사과 여부에 쏠렸다. 결국 대통령의 사과 표명은 없었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘혼합진료 금지’가 의료민영화? 사실은…[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240206154302435</id>
-        <link href="https://v.daum.net/v/20240206154302435"/>
-        <updated>2024-02-06T07:16:37.655Z</updated>
-        <content type="html"><![CDATA[정부가 최근 내놓은 ‘혼합진료 금지’ 정책을 두고 사회관계망서비스(SNS) 등을 중심으로 ‘의료민영화’라는 주장이 나오고 있다. “(의료)민영화 하면 내야할 금액”이라며 자신의 진료 계산서를 인증하는 이들도 등장했다. 그러나 6일 경향신문 취재 결과 ‘혼합진료 금지’ 정책은 의료민영화와 무관하다. 혼합진료란 건강보험 급여 진료와 비급여 진료를 함께 하는 진]]></content>
     </entry>
 </feed>
