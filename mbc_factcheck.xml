@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-02-17T11:14:53.424Z</updated>
+    <updated>2024-02-17T12:30:36.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의사 수 많으면 의료비도 많이 든다?]]></title>
+        <id>https://v.daum.net/v/20240217202513444</id>
+        <link href="https://v.daum.net/v/20240217202513444"/>
+        <updated>2024-02-17T12:29:51.294Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "영수회담은 없어진 방식"‥사실?]]></title>
         <id>https://v.daum.net/v/20240208200415626</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231106203008927"/>
         <updated>2024-01-25T14:19:06.499Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 노동자가 일하다 숨지는 사고가 일어났을 때 사전 예방을 소홀히 한 사업주를 처벌하는 게 중대재해처벌법입니다. 내년부터는 50인 미만 사업장까지 확대 시행되는데요. 최근 윤석열 대통령은 기업들이 이를 두려워하고 있다고 언급했습니다. [윤석열 대통령] "50인 이하 소규모 사업장에서는 내년부터 적용되는 중대재해처벌법을 두려워하는 목]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사의 진상, 대부분 규명됐다?]]></title>
-        <id>https://v.daum.net/v/20231028201911984</id>
-        <link href="https://v.daum.net/v/20231028201911984"/>
-        <updated>2024-01-25T14:19:06.500Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난주 스위스 제네바에서 열린 유엔 자유권규약위원회에서는 한국 정부의 이태원 참사 대응에 대한 지적이 나왔습니다. 그러자 정부 대표단은 대부분의 진상이 규명됐다고 답변했습니다. [정부 대표단] "대대적인 조사와 수사를 통해 참사의 원인부터 구조활동 및 대응 상황의 적정성 등에 대한 대부분의 진상이 규명되었습니다." 맞는 얘기인지]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-17T11:14:53.419Z</updated>
+    <updated>2024-02-17T12:30:36.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 의사 수 많으면 의료비도 많이 든다?]]></title>
+        <id>https://v.daum.net/v/20240217202513444</id>
+        <link href="https://v.daum.net/v/20240217202513444"/>
+        <updated>2024-02-17T12:29:30.586Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의사 수 늘리면 의료붕괴 vs 이대로 가면 의료붕괴…누구 말이 맞나?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240217074801585</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240208200415626"/>
         <updated>2024-02-08T11:17:29.853Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240208152104502</id>
-        <link href="https://v.daum.net/v/20240208152104502"/>
-        <updated>2024-02-08T06:23:26.261Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;지난 7일 오후 서울역 대합실에서 시민들이 KBS를 통해 녹화 방송되고 있는 윤석열 대통령의 특별 대담을 시청하고 있다. ⓒ 연합뉴스&nbsp; 지난 7일 윤석열 대통령의 KBS 특별대담 '대통령실을 가다'가 방영됐다. 세간의 관심은 '김건희 여사 명품백 수수 의혹'과 관련한 윤 대통령의 사과 여부에 쏠렸다. 결국 대통령의 사과 표명은 없었다.]]></content>
     </entry>
 </feed>
