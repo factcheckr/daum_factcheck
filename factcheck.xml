@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-23T07:19:33.873Z</updated>
+    <updated>2024-02-23T08:23:22.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사직한 전공의, 사실상 출국금지" 의협 주장 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240223163302339</id>
+        <link href="https://v.daum.net/v/20240223163302339"/>
+        <updated>2024-02-23T08:22:27.085Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;▲ &nbsp;주수호 의대정원 증원 지지를 위한 대한의사협회 비상대책위원회 언론홍보위원장이 21일 오후 서울 용산구 대한의사협회 회관에서 정례 브리핑을 하고 있다.ⓒ 유성호[검증대상] "사직서 낸 전공의, 사실상 출국금지"... 의협 비대위 주장 병무청이 최근 단체로 사직서를 낸 병역 미필 전공의(의무사관후보생)의 해외 출국을 제한하는 내용을 담]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 4월 총선에서 유권자도 후보자의 딥페이크 영상을 만들면 처벌받는다?]]></title>
+        <id>https://v.daum.net/v/20240223162603096</id>
+        <link href="https://v.daum.net/v/20240223162603096"/>
+        <updated>2024-02-23T08:22:27.085Z</updated>
+        <content type="html"><![CDATA[[이데일리 김어진 인턴기자] 지난 1월 29일부터 딥페이크 선거운동이 전면 금지됐다. 2023년 3월 대선 당시 이목을 끌었던 각 후보의 사이버 캐릭터 ‘AI 윤석열’, ‘AI 이재명’은 4월 10일 치러질 총선에서 볼 수 없게 됐다. 그렇다면 유권자도 후보자의 딥페이크 영상을 만들면 처벌받을까? 관련 규정을 확인해 봤다. 결론부터 말하면 유권자도 딥페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단기간 대폭 증원은 필요… 5년 뒤에도 2000명 유지 땐 ‘과잉’ 우려]]></title>
         <id>https://v.daum.net/v/20240223030041187</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240219063903256"/>
         <updated>2024-02-18T22:18:05.747Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 02월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 의사 수 많으면 의료비도 많이 든다?]]></title>
-        <id>https://v.daum.net/v/20240217202513444</id>
-        <link href="https://v.daum.net/v/20240217202513444"/>
-        <updated>2024-02-17T12:29:30.586Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사 수 늘리면 의료붕괴 vs 이대로 가면 의료붕괴…누구 말이 맞나?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240217074801585</id>
-        <link href="https://v.daum.net/v/20240217074801585"/>
-        <updated>2024-02-16T23:17:04.335Z</updated>
-        <content type="html"><![CDATA[CBS 주말 뉴스쇼 모아모아 팩트체크■ 방송 : CBS 라디오 &lt;주말 뉴스쇼&gt; FM 98.1 (07:00~08:55) ■ 진행 : 조태임 기자 ■ 대담 : 선정수 팩트체커 ◇조태임&gt; 한 주를 팩트체크로 정리하는 모아모아 팩트체크입니다. 오늘도 선정수 팩트체커와 함께 합니다. (안녕하세요.) 오늘은 의대 정원확대와 관련된 갈등에 대해 알아볼텐데요. 이 문제는]]></content>
     </entry>
 </feed>
