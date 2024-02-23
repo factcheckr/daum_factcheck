@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-23T11:16:57.144Z</updated>
+    <updated>2024-02-23T12:35:22.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤석열 가상연설 영상이 총선용 딥페이크" 보도는 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240223202707845</id>
+        <link href="https://v.daum.net/v/20240223202707845"/>
+        <updated>2024-02-23T12:34:24.386Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;윤석열 대통령 가상연설 영상ⓒ sns&nbsp; [검증대상] "윤석열 연설 짜깁기, 총선 관련 딥페이크" 언론 보도 방송통신심의위원회(방심위)는 23일 통신소위 임시회의에서 지난해 11월 23일 '틱톡'에 올라온 "가상으로 꾸며본 윤대통 양심고백연설" 제목의 영상에 대해 '접속 차단'을 결정했다. 해당 영상은 46초 분량으로 윤석열 대통령 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사직한 전공의, 사실상 출국금지" 의협 주장 따져보니 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240223163302339</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219063904258"/>
         <updated>2024-02-18T22:18:05.747Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 02월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 경제성장률이 일본보다 낮은 건 3번, 그 중 하나는 올해?]]></title>
-        <id>https://v.daum.net/v/20240219063903256</id>
-        <link href="https://v.daum.net/v/20240219063903256"/>
-        <updated>2024-02-18T22:18:05.747Z</updated>
-        <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 02월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
     </entry>
 </feed>
