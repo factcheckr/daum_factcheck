@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-25T23:18:39.087Z</updated>
+    <updated>2024-02-26T01:17:57.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA["윤석열 가상연설 영상이 총선용 딥페이크" 보도는 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240223202707845</id>
