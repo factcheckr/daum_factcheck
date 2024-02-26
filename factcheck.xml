@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-26T11:14:45.469Z</updated>
+    <updated>2024-02-26T12:34:01.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "13만 원 돌려준다며?"…연말정산 결과에 '당혹']]></title>
+        <id>https://v.daum.net/v/20240226204504973</id>
+        <link href="https://v.daum.net/v/20240226204504973"/>
+        <updated>2024-02-26T12:33:05.971Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 한 지역에 기부하면 세금 혜택까지 받을 수 있는, 고향사랑 기부제에 참여한 사람들이 많습니다. 그런데 연말정산을 해봤더니 지자체에서 홍보했었던 혜택을 받지 못했다는 사례들도 있습니다. 어떻게 된 건지, 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; '고향사랑 기부제'는 자신의 주소지가 아닌 지자체에 기부하면 10만 원까지는 전액]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 가상연설 영상이 총선용 딥페이크" 보도는 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240223202707845</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219063904259"/>
         <updated>2024-02-18T22:18:05.745Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 02월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 서울대가 싱가포르국립대에 순위가 밀린 게 사상 초유?]]></title>
-        <id>https://v.daum.net/v/20240219063904258</id>
-        <link href="https://v.daum.net/v/20240219063904258"/>
-        <updated>2024-02-18T22:18:05.747Z</updated>
-        <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 02월 17일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
 </feed>
