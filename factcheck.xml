@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-02-29T09:19:46.993Z</updated>
+    <updated>2024-02-29T10:24:48.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[이승만의 진실… ‘친일 내각·피란 방해’ 비판은 과장 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20240229181605065</id>
