@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-06T18:27:51.625Z</updated>
+    <updated>2024-03-06T19:36:52.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[권향엽, 김혜경 수행비서 아니다? 배우자 부실장 때 수행 사진 올려 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240307033554198</id>
+        <link href="https://v.daum.net/v/20240307033554198"/>
+        <updated>2024-03-06T19:35:51.649Z</updated>
+        <content type="html"><![CDATA[더불어민주당은 6일 권향엽 전 청와대 균형인사비서관의 전남 순천·광양·곡성·구례을 지역 ‘사천(私薦)’ 논란과 관련해 “허위 사실을 유포했다”며 한동훈 국민의힘 비상대책위원장을 고발했다. 민주당은 사천 의혹을 처음 보도한 기자를 형사 고발했고, 이재명 대표와 권 전 비서관을 모욕했다며 관련 보도를 한 언론사들을 언론중재위에 제소했다고 밝혔다. 민주당은 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240306204312017</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240228153308227"/>
         <updated>2024-02-28T07:16:10.483Z</updated>
         <content type="html"><![CDATA[핵심요약정부가 의대 증원 방침에 따른 의료계 반발과 관련해 의정(醫政) 대화의 축인 대한의사협회(의협)의 대표성에 의문을 제기한 가운데, 의료계 내부에서도 의협이 전공의들을 대표하지 않는다는 목소리가 나왔습니다. 과거 전공의 파업 사례와 의사단체 구조를 살펴보고 의협이 전공의들을 대표하지 못하는 것인지 따져봤습니다. 의사면허를 정지하겠다는 정부의 최후통첩에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["13만 원 돌려준다며?"…연말정산 결과에 '당혹' [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240226204504973</id>
-        <link href="https://v.daum.net/v/20240226204504973"/>
-        <updated>2024-02-26T12:33:05.971Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 한 지역에 기부하면 세금 혜택까지 받을 수 있는, 고향사랑 기부제에 참여한 사람들이 많습니다. 그런데 연말정산을 해봤더니 지자체에서 홍보했었던 혜택을 받지 못했다는 사례들도 있습니다. 어떻게 된 건지, 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; '고향사랑 기부제'는 자신의 주소지가 아닌 지자체에 기부하면 10만 원까지는 전액]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
