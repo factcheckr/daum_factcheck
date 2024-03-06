@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-06T07:17:35.141Z</updated>
+    <updated>2024-03-06T08:24:49.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼일절 노래' 교과서대로 부른다? 역대 기념식은 '원곡' 우세 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240306170601868</id>
+        <link href="https://v.daum.net/v/20240306170601868"/>
+        <updated>2024-03-06T08:23:42.992Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 3월 1일 서울시 중구 유관순기념관에서 열린 105주년 3.1절 기념식에서 '삼일절 노래'를 제창하고 있다. 행사장 자막에는 ‘한강 물’ 대신 ‘한강은’으로 표시됐다ⓒ KTV&nbsp; 이재명 "삼일절 노래 가사 틀렸다" vs. 행안부 "수정된 교과서 반영" '자위대'와 '하얼빈 임시정부'로 얼룩진 105주년 삼일절을 둘러싼 논란이 '삼일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니]]></title>
         <id>https://v.daum.net/v/20240304210614738</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240223202707845"/>
         <updated>2024-02-23T12:34:24.386Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;윤석열 대통령 가상연설 영상ⓒ sns&nbsp; [검증대상] "윤석열 연설 짜깁기, 총선 관련 딥페이크" 언론 보도 방송통신심의위원회(방심위)는 23일 통신소위 임시회의에서 지난해 11월 23일 '틱톡'에 올라온 "가상으로 꾸며본 윤대통 양심고백연설" 제목의 영상에 대해 '접속 차단'을 결정했다. 해당 영상은 46초 분량으로 윤석열 대통령 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사직한 전공의, 사실상 출국금지" 의협 주장 따져보니 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240223163302339</id>
-        <link href="https://v.daum.net/v/20240223163302339"/>
-        <updated>2024-02-23T08:22:27.085Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;&nbsp;▲ &nbsp;주수호 의대정원 증원 지지를 위한 대한의사협회 비상대책위원회 언론홍보위원장이 21일 오후 서울 용산구 대한의사협회 회관에서 정례 브리핑을 하고 있다.ⓒ 유성호[검증대상] "사직서 낸 전공의, 사실상 출국금지"... 의협 비대위 주장 병무청이 최근 단체로 사직서를 낸 병역 미필 전공의(의무사관후보생)의 해외 출국을 제한하는 내용을 담]]></content>
     </entry>
 </feed>
