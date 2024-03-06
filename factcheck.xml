@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-06T13:20:15.455Z</updated>
+    <updated>2024-03-06T14:17:11.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까]]></title>
         <id>https://v.daum.net/v/20240306204312017</id>
