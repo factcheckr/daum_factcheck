@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-08T02:25:39.602Z</updated>
+    <updated>2024-03-08T03:19:37.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지드래곤 그림 시작가 3천만 원?…가격의 진실은 [리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240308113309425</id>
+        <link href="https://v.daum.net/v/20240308113309425"/>
+        <updated>2024-03-08T03:18:34.132Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 박현주 미술전문 기자 = 가수 권지용(G-DRAGON)의 작품 ‘Youth is Flower’가 시작가 3000만 원에 서울옥션 3월 경매에 출품 되어 화제다. 지드래곤의 대표  이미지인 데이지 꽃과 영문자 'Youth is Flower'를 낙서처럼 그린 2017년 작품이다. 195.5×45.6cm 크기다. 고가의 경매 시작가는 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트 체크] 권향엽, 김혜경 수행비서 아니다? 배우자 부실장 때 수행 사진 올려 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240307033554198</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240304001500127"/>
         <updated>2024-03-03T15:18:26.832Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초대 내각 친일파 없다는 건 사실… 부정선거 관련 없다는 건 무책임 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240301041010575</id>
-        <link href="https://v.daum.net/v/20240301041010575"/>
-        <updated>2024-02-29T19:13:50.663Z</updated>
-        <content type="html"><![CDATA[4월 총선을 앞두고 이승만 초대 대통령을 다룬 다큐멘터리 영화 ‘건국전쟁’을 둘러싼 논란이 정치권 안팎에서 거세다. 한동훈 국민의힘 비상대책위원장은 영화를 본 뒤 “대한민국이 여기까지 오게 된 중요한 결정을 적시에 제대로 하신 분”이라고 했다. 반면 더불어민주당은 “친일파 청산을 가로막았고, 한국전쟁 당시 국민을 버리고 서울을 탈출했다”고 반박한다. 영화]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
