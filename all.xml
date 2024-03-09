@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-08T23:20:26.583Z</updated>
+    <updated>2024-03-09T01:12:44.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[노동계, 선거 앞두고 '주4일 법제화' 띄웠다…실현 가능성은?[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240309093013413</id>
+        <link href="https://v.daum.net/v/20240309093013413"/>
+        <updated>2024-03-09T01:11:42.988Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 고홍주 기자 = 노동계가 오는 4월 총선을 앞두고 과로사회와 장시간 노동 해소를 위한 '주4일제' 법제화를 요구하고 나섰다. 더불어민주당 등 야당을 중심으로 호응하고 직장인들의 과반이 찬성하고 있는 가운데, 실제로 법제화까지 이룰 수 있을지 관심이 쏠리고 있다. "장시간 노동 벗어나야"…직장인 67.3%, 주4일제 '찬성' 9일 노동계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명·한동훈 재판 리플레이? '재판갱신' 뭐길래[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240309070015907</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240304001502130"/>
         <updated>2024-03-03T15:18:26.826Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 세 번째 팩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 주유중 시동 안 끄면 불법, 적발시 벌금? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240304001501128</id>
-        <link href="https://v.daum.net/v/20240304001501128"/>
-        <updated>2024-03-03T15:18:26.826Z</updated>
-        <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트체]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
