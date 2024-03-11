@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-11T11:18:20.152Z</updated>
+    <updated>2024-03-11T12:33:59.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 대통령 민생토론 '총선 개입 논란' 따져보니]]></title>
+        <id>https://v.daum.net/v/20240311202809198</id>
+        <link href="https://v.daum.net/v/20240311202809198"/>
+        <updated>2024-03-11T12:32:53.957Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 윤석열 대통령이 오늘 강원도를 찾아 19번째 민생토론회를 열었습니다. 윤 대통령은 이 자리에서 케이블카 추가 건설, 첨단산업 육성, 산림자원 규제 완화 등 각종 대규모 지역 개발 정책들을 약속했습니다. [윤석열 대통령] "강원이 대한민국을 넘어 세계를 향해 도약할 수 있도록 우리 정부는 꼼꼼하게 확실하게 챙기겠습니다." 현장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노동계, 선거 앞두고 '주4일 법제화' 띄웠다…실현 가능성은?[리얼팩트]]]></title>
         <id>https://v.daum.net/v/20240309093013413</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240304210614738"/>
         <updated>2024-03-04T13:22:17.326Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 우리나라의 양육비 부담이 전 세계 1위라는 내용의 기사가 최근에 많이 나왔습니다. 중국의 한 연구소에서 만든 보고서 자료를 인용한 건데, 저희가 그 보고서를 꼼꼼히 살펴본 결과, 잘못된 부분이 있었습니다. 팩트 체크 사실은 코너, 박세용 기자가 전하겠습니다. &lt;기자&gt; "한국의 양육비 부담이 전 세계에서 압도적 1위라는 충격적인 결과가 나왔다."]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라는 세계에서 몇 번째 부유한 나라일까?]]></title>
-        <id>https://v.daum.net/v/20240304001502130</id>
-        <link href="https://v.daum.net/v/20240304001502130"/>
-        <updated>2024-03-03T15:18:26.826Z</updated>
-        <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 02일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 세 번째 팩]]></content>
     </entry>
 </feed>

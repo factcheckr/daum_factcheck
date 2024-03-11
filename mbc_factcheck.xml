@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-03-11T11:18:20.152Z</updated>
+    <updated>2024-03-11T12:33:59.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 민생토론 '총선 개입 논란' 따져보니]]></title>
+        <id>https://v.daum.net/v/20240311202809198</id>
+        <link href="https://v.daum.net/v/20240311202809198"/>
+        <updated>2024-03-11T12:33:13.872Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 윤석열 대통령이 오늘 강원도를 찾아 19번째 민생토론회를 열었습니다. 윤 대통령은 이 자리에서 케이블카 추가 건설, 첨단산업 육성, 산림자원 규제 완화 등 각종 대규모 지역 개발 정책들을 약속했습니다. [윤석열 대통령] "강원이 대한민국을 넘어 세계를 향해 도약할 수 있도록 우리 정부는 꼼꼼하게 확실하게 챙기겠습니다." 현장을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의사 수 많으면 의료비도 많이 든다?]]></title>
         <id>https://v.daum.net/v/20240217202513444</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231110201916489"/>
         <updated>2024-01-25T14:19:06.499Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 김포시의 서울 편입 추진에 대해 졸속 논란이 일자, 여당은 메가시티가 세계적인 추세라고 반박했습니다. [조경태/국민의힘 뉴시티 프로젝트 특별위원장] "세계적 도시 행정 체계 변화의 흐름을 잘 읽지 못한 발언이다, 이렇게 보고 있습니다." 최근의 세계적인 추세, 실제로 어떤지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해처벌법이 기업 위협한다?]]></title>
-        <id>https://v.daum.net/v/20231106203008927</id>
-        <link href="https://v.daum.net/v/20231106203008927"/>
-        <updated>2024-01-25T14:19:06.499Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 노동자가 일하다 숨지는 사고가 일어났을 때 사전 예방을 소홀히 한 사업주를 처벌하는 게 중대재해처벌법입니다. 내년부터는 50인 미만 사업장까지 확대 시행되는데요. 최근 윤석열 대통령은 기업들이 이를 두려워하고 있다고 언급했습니다. [윤석열 대통령] "50인 이하 소규모 사업장에서는 내년부터 적용되는 중대재해처벌법을 두려워하는 목]]></content>
     </entry>
 </feed>
