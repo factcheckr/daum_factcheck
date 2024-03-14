@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-14T14:18:31.110Z</updated>
+    <updated>2024-03-14T15:19:57.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성남시에 뿌리 둔 그들, 주사파 닮은 이념적 특성 [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240315000412119</id>
+        <link href="https://v.daum.net/v/20240315000412119"/>
+        <updated>2024-03-14T15:18:53.349Z</updated>
+        <content type="html"><![CDATA[진보당 등 옛 통합진보당 관련 인사들의 더불어민주당 비례대표 공천과 관련해 이른바 ‘9월 테제’로 불리는 ‘군자산의 약속’이 재차 정치권 입방아에 오르고 있다. 군자산의 약속은 경기동부연합이 속한 민족해방(NL) 계열 조직 ‘전국연합’이 2001년 9월 충북 괴산 군자산에 모여 ‘3년 내 제도권 정당 진출, 10년 내 연방통일국가 건설’을 결의한 것이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자주·반미 인사 국회 진출 논란… 옛 통진당 관련 후보 최소 3명 당선 가능 [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240315000208093</id>
+        <link href="https://v.daum.net/v/20240315000208093"/>
+        <updated>2024-03-14T15:18:53.351Z</updated>
+        <content type="html"><![CDATA[종북·반체제 활동으로 해산된 옛 통합진보당(통진당) 이력 인사들의 22대 국회 입성 논란이 뜨겁다. 한동훈 국민의힘 비상대책위원장은 “이재명 더불어민주당 대표가 종북 위헌정당인 통진당을 부활시키고, 민주당을 통진당화하고 있다”고 주장했다. 통진당 후신으로 거론되는 진보당은 “허위 비방”이라며 한 위원장에 대한 법적 대응에 나선 상태다. 2014년 헌법재판]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240314151200910</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240306170601868"/>
         <updated>2024-03-06T08:23:42.992Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 3월 1일 서울시 중구 유관순기념관에서 열린 105주년 3.1절 기념식에서 '삼일절 노래'를 제창하고 있다. 행사장 자막에는 ‘한강 물’ 대신 ‘한강은’으로 표시됐다ⓒ KTV&nbsp; 이재명 "삼일절 노래 가사 틀렸다" vs. 행안부 "수정된 교과서 반영" '자위대'와 '하얼빈 임시정부'로 얼룩진 105주년 삼일절을 둘러싼 논란이 '삼일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사 업무개시명령…'직업 선택 자유 침해' 위헌?[리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240306060046533</id>
-        <link href="https://v.daum.net/v/20240306060046533"/>
-        <updated>2024-03-07T03:16:25.793Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]여동준 기자 = 정부의 의과대학(의대) 정원 확대에 반발한 전공의들이 집단으로 사직하자 정부가 업무개시명령을 내렸다. 이를 두고 업무개시명령이 '위헌'이라는 주장과 헌법상 공공복리를 위해 예외적으로 제한을 할 수 있다는 주장이 맞선다. 어느 쪽이 사실에 가까울까. 6일 보건복지부에 따르면, 지난 4일 오후 8시 기준 주요 100개 수련병원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑해지는 보조제?…건강보조식품의 진실 혹은 거짓 [리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240305141247103</id>
-        <link href="https://v.daum.net/v/20240305141247103"/>
-        <updated>2024-03-07T03:16:25.796Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 정혜승 인턴 기자 = "뇌의 신경전달물질 수치를 높여 똑똑해지는 보조제, 관절염을 예방하고 암 발병 가능성을 낮추는 강황 가루, 피부와 손톱 모발에 탄력을 주는 콜라겐…" 소셜미디어에 이 같이 주장하는 영상이 만연한 것을 두고 독일 공영 매체 도이체벨레(DW)가 지난 3일(현지시간) '팩트체크’에 나섰다. DW는 전문가를 인용 "많은 사람]]></content>
     </entry>
 </feed>
