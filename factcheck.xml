@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-14T05:23:26.977Z</updated>
+    <updated>2024-03-14T06:24:27.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240314151200910</id>
+        <link href="https://v.daum.net/v/20240314151200910"/>
+        <updated>2024-03-14T06:23:27.479Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;진보당 22대 총선 출마자들이 지난해 12월 11일 오전 서울 여의도 국회본청 앞 계단에서 기자회견을 열고 "윤석열 정권 심판의 최전선에서 싸우겠다는 각오로 총선 출마"를 선언하고 있다. ⓒ 이정민[검증대상] "'윤석열 정권 심판' 정당 현수막은 선거법 위반" 선관위 문건 중앙선거관리위원회(중앙선관위)가 제22대 총선을 앞두고 개별 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 대통령 민생토론 '총선 개입 논란' 따져보니]]></title>
         <id>https://v.daum.net/v/20240311202809198</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240305141247103"/>
         <updated>2024-03-07T03:16:25.796Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 정혜승 인턴 기자 = "뇌의 신경전달물질 수치를 높여 똑똑해지는 보조제, 관절염을 예방하고 암 발병 가능성을 낮추는 강황 가루, 피부와 손톱 모발에 탄력을 주는 콜라겐…" 소셜미디어에 이 같이 주장하는 영상이 만연한 것을 두고 독일 공영 매체 도이체벨레(DW)가 지난 3일(현지시간) '팩트체크’에 나섰다. DW는 전문가를 인용 "많은 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니]]></title>
-        <id>https://v.daum.net/v/20240304210614738</id>
-        <link href="https://v.daum.net/v/20240304210614738"/>
-        <updated>2024-03-04T13:22:17.326Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 우리나라의 양육비 부담이 전 세계 1위라는 내용의 기사가 최근에 많이 나왔습니다. 중국의 한 연구소에서 만든 보고서 자료를 인용한 건데, 저희가 그 보고서를 꼼꼼히 살펴본 결과, 잘못된 부분이 있었습니다. 팩트 체크 사실은 코너, 박세용 기자가 전하겠습니다. &lt;기자&gt; "한국의 양육비 부담이 전 세계에서 압도적 1위라는 충격적인 결과가 나왔다."]]></content>
     </entry>
 </feed>
