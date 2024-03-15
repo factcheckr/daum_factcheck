@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T01:16:36.681Z</updated>
+    <updated>2024-03-15T02:24:47.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 사과 이렇게 비싼데, 수입은 왜 못하나요? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240315104803198</id>
+        <link href="https://v.daum.net/v/20240315104803198"/>
+        <updated>2024-03-15T02:23:45.455Z</updated>
+        <content type="html"><![CDATA[하나에 5000원도 한다는 사과 값은 왜 이렇게 안 떨어지는 걸까. 수입하면 싸질 것 같은데 왜 안 하는 걸까. 사과 가격이 좀처럼 떨어지질 않고 있다. 15일 한국농수산식품유통공사에 따르면 전날 가락시장 사과 도매 경매낙찰(경락) 가격은 11만6171원(10㎏ 기준, 특)을 기록했다. 1년 전(6만3738원)의 2배 수준이다. 한등급 낮은 상품(上品)의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남시에 뿌리 둔 그들, 주사파 닮은 이념적 특성 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240315000412119</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240306204312017"/>
         <updated>2024-03-06T12:33:37.230Z</updated>
         <content type="html"><![CDATA[[앵커] 흥행몰이 중인 영화 '파묘'에는 '쇠말뚝'이 주요 소재로 등장합니다. 한동안 일제가 민족 정기를 끊기 위해 곳곳에 쇠말뚝을 박았다는 주장이 있었는데, 어디까지가 사실인지 따져봤습니다. 학계에서는 근거가 없는 얘기라는 게 중론입니다. 조소희 기자가 팩트체크했습니다. [기자] [영화 '파묘' : 내가 한 40년 땅 파먹고 살았지만 여긴 도저히 모르겠다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼일절 노래' 교과서대로 부른다? 역대 기념식은 '원곡' 우세 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240306170601868</id>
-        <link href="https://v.daum.net/v/20240306170601868"/>
-        <updated>2024-03-06T08:23:42.992Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 3월 1일 서울시 중구 유관순기념관에서 열린 105주년 3.1절 기념식에서 '삼일절 노래'를 제창하고 있다. 행사장 자막에는 ‘한강 물’ 대신 ‘한강은’으로 표시됐다ⓒ KTV&nbsp; 이재명 "삼일절 노래 가사 틀렸다" vs. 행안부 "수정된 교과서 반영" '자위대'와 '하얼빈 임시정부'로 얼룩진 105주년 삼일절을 둘러싼 논란이 '삼일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
