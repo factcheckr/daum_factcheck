@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-19T11:16:43.943Z</updated>
+    <updated>2024-03-19T12:35:01.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조국혁신당 20대 지지율 "0%"... 조사한 갤럽도 "신뢰 어렵다"는 이유 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240319204501770</id>
+        <link href="https://v.daum.net/v/20240319204501770"/>
+        <updated>2024-03-19T12:32:57.461Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ '조국신당' 창당준비위 출범&nbsp;'(가칭)조국신당 창당준비위원회가 지난 2월 15일 오전 서울 동작구 아트나인에서 출범식을 열고 본격적인 총선준비에 들어갔다. 조국 인재영입위원장이 박수를 치고 있다.ⓒ 이정민국민의힘은 지난 16일 중앙선대위 대변인 논평에서 "최근 여론조사를 보면, 18~29세의 조국혁신당 지지율은 0%, 30대 지지율은 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 안철수 “로스쿨 정원, 단계적 증원됐다”]]></title>
         <id>https://v.daum.net/v/20240319171837215</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240315000208093"/>
         <updated>2024-03-14T15:18:53.351Z</updated>
         <content type="html"><![CDATA[종북·반체제 활동으로 해산된 옛 통합진보당(통진당) 이력 인사들의 22대 국회 입성 논란이 뜨겁다. 한동훈 국민의힘 비상대책위원장은 “이재명 더불어민주당 대표가 종북 위헌정당인 통진당을 부활시키고, 민주당을 통진당화하고 있다”고 주장했다. 통진당 후신으로 거론되는 진보당은 “허위 비방”이라며 한 위원장에 대한 법적 대응에 나선 상태다. 2014년 헌법재판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'윤석열 정권 심판' 현수막, 선거법 위반" 검증해보니  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240314151200910</id>
-        <link href="https://v.daum.net/v/20240314151200910"/>
-        <updated>2024-03-14T06:23:27.479Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;진보당 22대 총선 출마자들이 지난해 12월 11일 오전 서울 여의도 국회본청 앞 계단에서 기자회견을 열고 "윤석열 정권 심판의 최전선에서 싸우겠다는 각오로 총선 출마"를 선언하고 있다. ⓒ 이정민[검증대상] "'윤석열 정권 심판' 정당 현수막은 선거법 위반" 선관위 문건 중앙선거관리위원회(중앙선관위)가 제22대 총선을 앞두고 개별 후]]></content>
     </entry>
 </feed>
