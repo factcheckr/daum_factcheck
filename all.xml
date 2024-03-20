@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-20T14:18:18.043Z</updated>
+    <updated>2024-03-20T20:20:28.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]대통령의 '875원 대파', 실제 팔지만…마트선 2,000원 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240321043142433</id>
+        <link href="https://v.daum.net/v/20240321043142433"/>
+        <updated>2024-03-20T20:19:19.067Z</updated>
+        <content type="html"><![CDATA[875원이면 진짜 싼 거야. 얼른 두 개 갖고 와! 80대 주부 A씨 20일 오후 서울 도봉구 하나로마트 창동점은 장을 보러 나온 '베테랑 주부'로 붐볐다. 특히 북적였던 곳은 채소 코너의 대파 판매대였다. 하나로마트에서 알린 대파 한 단 가격 875원이 채솟값을 손바닥 보듯 하는 주부들의 발길을 붙잡았다. A씨와 일행 두 명도 저마다 일인당 대파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조국혁신당 20대 지지율 "0%"... 조사한 갤럽도 "신뢰 어렵다"는 이유 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240319204501770</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240315000412119"/>
         <updated>2024-03-14T15:18:53.349Z</updated>
         <content type="html"><![CDATA[진보당 등 옛 통합진보당 관련 인사들의 더불어민주당 비례대표 공천과 관련해 이른바 ‘9월 테제’로 불리는 ‘군자산의 약속’이 재차 정치권 입방아에 오르고 있다. 군자산의 약속은 경기동부연합이 속한 민족해방(NL) 계열 조직 ‘전국연합’이 2001년 9월 충북 괴산 군자산에 모여 ‘3년 내 제도권 정당 진출, 10년 내 연방통일국가 건설’을 결의한 것이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자주·반미 인사 국회 진출 논란… 옛 통진당 관련 후보 최소 3명 당선 가능 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240315000208093</id>
-        <link href="https://v.daum.net/v/20240315000208093"/>
-        <updated>2024-03-14T15:18:53.351Z</updated>
-        <content type="html"><![CDATA[종북·반체제 활동으로 해산된 옛 통합진보당(통진당) 이력 인사들의 22대 국회 입성 논란이 뜨겁다. 한동훈 국민의힘 비상대책위원장은 “이재명 더불어민주당 대표가 종북 위헌정당인 통진당을 부활시키고, 민주당을 통진당화하고 있다”고 주장했다. 통진당 후신으로 거론되는 진보당은 “허위 비방”이라며 한 위원장에 대한 법적 대응에 나선 상태다. 2014년 헌법재판]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 양육비 부담 세계 1위"…충격 준 연구 결과, 알고 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
