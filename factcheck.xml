@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-22T11:16:24.145Z</updated>
+    <updated>2024-03-22T12:33:13.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태?]]></title>
+        <id>https://v.daum.net/v/20240322203610430</id>
+        <link href="https://v.daum.net/v/20240322203610430"/>
+        <updated>2024-03-22T12:32:07.852Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 요즘 일본에서 '연쇄상구균 독성쇼크증후군'이라고 불리는 감염병 환자가 크게 늘고 있습니다. 치사율이 30%에 달한다는 얘기까지 나와서 일본 여행 가기 겁난다는 사람들도 많은데요. 전염력이 어느 정도인지, 또 어떤 걸 조심해야 하는지 팩트 체크 사실은 코너에서 짚어봤습니다. 박세용 기자입니다. &lt;기자&gt; 일본에서 STSS 환자는 지난 1월과 2월에만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]대통령의 '875원 대파', 실제 팔지만…마트선 2,000원 넘어]]></title>
         <id>https://v.daum.net/v/20240321043142433</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240315104803198"/>
         <updated>2024-03-15T02:23:45.455Z</updated>
         <content type="html"><![CDATA[하나에 5000원도 한다는 사과 값은 왜 이렇게 안 떨어지는 걸까. 수입하면 싸질 것 같은데 왜 안 하는 걸까. 사과 가격이 좀처럼 떨어지질 않고 있다. 15일 한국농수산식품유통공사에 따르면 전날 가락시장 사과 도매 경매낙찰(경락) 가격은 11만6171원(10㎏ 기준, 특)을 기록했다. 1년 전(6만3738원)의 2배 수준이다. 한등급 낮은 상품(上品)의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남시에 뿌리 둔 그들, 주사파 닮은 이념적 특성 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240315000412119</id>
-        <link href="https://v.daum.net/v/20240315000412119"/>
-        <updated>2024-03-14T15:18:53.349Z</updated>
-        <content type="html"><![CDATA[진보당 등 옛 통합진보당 관련 인사들의 더불어민주당 비례대표 공천과 관련해 이른바 ‘9월 테제’로 불리는 ‘군자산의 약속’이 재차 정치권 입방아에 오르고 있다. 군자산의 약속은 경기동부연합이 속한 민족해방(NL) 계열 조직 ‘전국연합’이 2001년 9월 충북 괴산 군자산에 모여 ‘3년 내 제도권 정당 진출, 10년 내 연방통일국가 건설’을 결의한 것이다.]]></content>
     </entry>
 </feed>
