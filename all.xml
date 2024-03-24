@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-24T10:21:50.616Z</updated>
+    <updated>2024-03-24T11:14:43.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 불법 촬영 범죄에 악용된 휴대전화, 수사 후 주인에게 반환된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240324201229500</id>
+        <link href="https://v.daum.net/v/20240324201229500"/>
+        <updated>2024-03-24T11:13:49.939Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 얼마 전 축구선수 황의조 씨가 등장하는 불법 촬영물을 유포한 형수가 징역 3년형을 선고받았었죠. 그런데 이렇게 수사기관이 압수했던 불법촬영물이 담긴 휴대전화는 조사가 끝나면 어떻게 될까요. 원래 주인인 범죄자에게 돌려주는지, 아니면 폐기되는지 정확히 아시는 분이 많지 않습니다. 압수됐던 휴대전화가 실제로 범죄자에게 반환될 수도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태? [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240322203610430</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240316100019418"/>
         <updated>2024-03-16T01:13:30.420Z</updated>
         <content type="html"><![CDATA[[이데일리 김범준 기자] 선거철이면 수많은 여론조사 결과를 놓고 신뢰성 논쟁이 되풀이된다. 과거에는 유·무선전화 조사 방식에 따른 논란이 컸다면, 최근에는 표본 성향·질문 방식·요일 및 시간대 등도 ‘표집오차’를 유발하는 변수로 지목을 받는다. 선거여론조사에서 특정 정당과 후보 지지율 결과를 뒤집을 정도의 표본 ‘편향(bias)’일까? 제22대 국회의원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 사과 이렇게 비싼데, 수입은 왜 못하나요? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240315104803198</id>
-        <link href="https://v.daum.net/v/20240315104803198"/>
-        <updated>2024-03-15T02:23:45.455Z</updated>
-        <content type="html"><![CDATA[하나에 5000원도 한다는 사과 값은 왜 이렇게 안 떨어지는 걸까. 수입하면 싸질 것 같은데 왜 안 하는 걸까. 사과 가격이 좀처럼 떨어지질 않고 있다. 15일 한국농수산식품유통공사에 따르면 전날 가락시장 사과 도매 경매낙찰(경락) 가격은 11만6171원(10㎏ 기준, 특)을 기록했다. 1년 전(6만3738원)의 2배 수준이다. 한등급 낮은 상품(上品)의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['일본 독성쇼크증후군' 국내도 긴장…제2의 코로나 사태? (다음 뉴스 ─ SBS 사실은)]]></title>
