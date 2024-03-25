@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-25T11:17:27.442Z</updated>
+    <updated>2024-03-25T12:33:19.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '일주일 새 급등-급락' 여론조사, 믿을 수 있나?]]></title>
+        <id>https://v.daum.net/v/20240325201614133</id>
+        <link href="https://v.daum.net/v/20240325201614133"/>
+        <updated>2024-03-25T12:32:20.161Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 총선이 다가오면서 언론사들도 경쟁적으로 여론조사 보도를 내놓고 있습니다. 그중에는 1주일 사이 정당 지지율이 급등했다거나, 반대로 급락했다는 자극적인 보도도 잇따르고 있는데요. 민심이 이렇게 1주일 단위로 크게 요동친다는 걸 믿을 수 있을지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 지난주 금요일에 나온 여론조사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4·10 총선 팩트체크] 영주권자 중국인 15만표 행사 지방선거만 투표, 총선은 불가]]></title>
         <id>https://v.daum.net/v/20240325175424418</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240318004500754"/>
         <updated>2024-03-17T16:21:03.460Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 16일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 의사 수는 얼마나 부족한가?]]></title>
-        <id>https://v.daum.net/v/20240318004005731</id>
-        <link href="https://v.daum.net/v/20240318004005731"/>
-        <updated>2024-03-17T16:21:03.461Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 03월 16일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한]]></content>
     </entry>
 </feed>
