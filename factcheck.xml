@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-27T12:35:54.929Z</updated>
+    <updated>2024-03-27T13:20:42.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“5000만원 물어줘라”...놀이기구 운전자 위자료 폭탄 맞은 사연 [여행 팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240327215100767</id>
+        <link href="https://v.daum.net/v/20240327215100767"/>
+        <updated>2024-03-27T13:19:48.911Z</updated>
+        <content type="html"><![CDATA[A씨는 여름방학을 맞아 친구들과 함께 유명한 수상레저 놀이기구가 있는 곳으로 물놀이를 갔다. 보트를 탔는데 너무 빠른 속도로 달렸다. 조금 천천히 운행해달라고 부탁했지만 운전자는 이를 무시한 채 계속해서 빠른 속도로 운행했다. 결국 A씨는 중심을 잡지 못하고 보트에서 튕겨져 나갔고, 물에 세게 부딪혀 다리가 골절되는 사고가 발생했다.여행 중 스릴과 재미를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4·10 총선 팩트체크] 일부 이전 담은 국회규칙은 통과 완전히 옮기려면 법 다시 손봐야]]></title>
         <id>https://v.daum.net/v/20240327175407183</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240321043142433"/>
         <updated>2024-03-20T20:19:19.067Z</updated>
         <content type="html"><![CDATA[875원이면 진짜 싼 거야. 얼른 두 개 갖고 와! 80대 주부 A씨 20일 오후 서울 도봉구 하나로마트 창동점은 장을 보러 나온 '베테랑 주부'로 붐볐다. 특히 북적였던 곳은 채소 코너의 대파 판매대였다. 하나로마트에서 알린 대파 한 단 가격 875원이 채솟값을 손바닥 보듯 하는 주부들의 발길을 붙잡았다. A씨와 일행 두 명도 저마다 일인당 대파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조국혁신당 20대 지지율 "0%"... 조사한 갤럽도 "신뢰 어렵다"는 이유 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240319204501770</id>
-        <link href="https://v.daum.net/v/20240319204501770"/>
-        <updated>2024-03-19T12:32:57.461Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ '조국신당' 창당준비위 출범&nbsp;'(가칭)조국신당 창당준비위원회가 지난 2월 15일 오전 서울 동작구 아트나인에서 출범식을 열고 본격적인 총선준비에 들어갔다. 조국 인재영입위원장이 박수를 치고 있다.ⓒ 이정민국민의힘은 지난 16일 중앙선대위 대변인 논평에서 "최근 여론조사를 보면, 18~29세의 조국혁신당 지지율은 0%, 30대 지지율은 3]]></content>
     </entry>
 </feed>
