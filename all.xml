@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-29T01:16:41.710Z</updated>
+    <updated>2024-03-29T02:24:59.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[여론조사가 당락 가늠자?  각 당 분석이 더 정확했다 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -244,31 +244,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[제주 농산물 ‘해상운송비’ 지원 공방…누구 말이 맞나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240328102731537</id>
-        <link href="https://v.daum.net/v/20240328102731537"/>
-        <updated>2024-03-28T02:27:26.732Z</updated>
-        <content type="html"><![CDATA[[KBS 제주] [앵커] 그제 KBS제주방송총국에서 열린  서귀포시 선거구 후보자 초청 토론회에서 위성곤, 고기철 후보는  제주 농산물에 대한 해상운송비 지원 문제를 두고 법적 근거가 있다. 없다 등으로 설전을 벌였는데요. 두 후보의 말, 과연 무엇이 사실일까요. 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 강인희 기자가 알아봤습니다. [리포트] 매해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 농산물 ‘해상운송비’ 지원 공방…누구 말이 맞나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240327215209791</id>
-        <link href="https://v.daum.net/v/20240327215209791"/>
-        <updated>2024-03-27T13:20:12.999Z</updated>
-        <content type="html"><![CDATA[[KBS 제주] [앵커] 어제 KBS제주방송총국에서 열린  서귀포시 선거구 후보자 초청 토론회에서 위성곤, 고기철 후보는  제주 농산물에 대한 해상운송비 지원 문제를 두고 법적 근거가 있다. 없다 등으로 설전을 벌였는데요. 두 후보의 말, 과연 무엇이 사실일까요. 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 강인희 기자가 알아봤습니다. [리포트] 매해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 농산물 ‘해상운송비’ 지원 공방…누구 말이 맞나? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20240327193144110</id>
         <link href="https://v.daum.net/v/20240327193144110"/>
         <updated>2024-03-27T11:15:35.733Z</updated>
         <content type="html"><![CDATA[[KBS 제주] [앵커] 어제 KBS제주방송총국에서 열린  서귀포시 선거구 후보자 초청 토론회에서 위성곤, 고기철 후보는  제주 농산물에 대한 해상운송비 지원 문제를 두고 법적 근거가 있다. 없다 등으로 설전을 벌였는데요. 두 후보의 말, 과연 무엇이 사실일까요. 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 강인희 기자가 알아봤습니다. [리포트] 매해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두꺼비생태공원’ 보조금 사용 법정 공방…결과는? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240214085138700</id>
-        <link href="https://v.daum.net/v/20240214085138700"/>
-        <updated>2024-02-14T01:15:44.381Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 우리나라 최초의 양서류 생태공원이 청주에 있는데요. 일대를 10년간 위탁 관리한 환경단체와 청주시의 법정 공방이 3년여 만에 마무리됐습니다. 그간의 논란과, 환경단체의 손을 들어준 대법원의 판단을 살펴봅니다. 팩트체크 K, 송국회 기자입니다. [리포트] 20여 년 전, 택지 개발과 아파트 단지 조성으로 사라질 뻔했던  청주시 산남동]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘두꺼비생태공원’ 보조금 사용 법정 공방…결과는? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
@@ -325,6 +304,27 @@
         <link href="https://v.daum.net/v/20230606145303763"/>
         <updated>2024-01-25T14:19:14.087Z</updated>
         <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230604080127220</id>
+        <link href="https://v.daum.net/v/20230604080127220"/>
+        <updated>2024-03-29T02:24:25.115Z</updated>
+        <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있나 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230603140020423</id>
+        <link href="https://v.daum.net/v/20230603140020423"/>
+        <updated>2024-03-29T02:24:25.117Z</updated>
+        <content type="html"><![CDATA[① [팩트체크K]외국인 노동자가 내국인 일자리를 빼앗고 있나 소위 ‘외국인 노동자가 내국인 일자리를 빼앗고 있다’는 인식입니다. 이런 인식은 여성가족부가 3년마다 실시하는 국민다문화수용성 조사를 통해서도 드러납니다. 매번 응답자의 30% 넘는 사람들이 '외국인 노동자가 내국인 일자리를 빼앗는다'고 생각하고 있습니다.  ☞ (2012) 30.2%]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레이크파크 르네상스’ 살펴보니…“기존 사업 투성이” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20230330214754104</id>
+        <link href="https://v.daum.net/v/20230330214754104"/>
+        <updated>2024-03-29T02:24:25.119Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 충청북도는 최근  민선 8기 최대 역점 사업인 '레이크파크 르네상스'의 비전과 정책 과제를 발표했습니다. 충북의 대전환을 이끌 혁신이라 자평했지만, 개별 사업들을  하나하나 살펴보면 기존에 추진하던 것과 별반 다르지 않습니다. 팩트체크K 충북 윤소영 기자입니다. [리포트] 올 가을 준공을 앞두고 공사가 한창인  박물관 공사 현장입니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
