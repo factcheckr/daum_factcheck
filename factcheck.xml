@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-03-31T21:15:51.585Z</updated>
+    <updated>2024-03-31T22:18:54.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240401070001610</id>
+        <link href="https://v.daum.net/v/20240401070001610"/>
+        <updated>2024-03-31T22:17:02.614Z</updated>
+        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 먼저 문재인 정부 때인 지난 2020년 4월 제21대 총선 당시 여당이었던 더불어민주당 후보들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4·10 총선 팩트체크] 양문석, 사채로 반포집 사고 딸 명의 사업자대출로 갚아]]></title>
         <id>https://v.daum.net/v/20240329180612667</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240325103726895"/>
         <updated>2024-03-25T02:26:09.287Z</updated>
         <content type="html"><![CDATA[축구선수 황의조 씨의 사생활이 담긴 영상을 유포하고 협박했다는 혐의로 황 씨의 형수 이모 씨가 징역형을 선고받았습니다. 최근 검찰은 피해자들이 "회복하기 힘든 피해를 입은 점" 등을 고려할 때 "선고형량이 가볍다"며 항소했습니다. 1심 선고 이후 이번 사건의 피해자는 변호인을 통해 자신의 모습이 담긴 불법 촬영물이 공유되는 현실에 참담한 심정을 전하며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 불법 촬영 범죄에 악용된 휴대전화, 수사 후 주인에게 반환된다?]]></title>
-        <id>https://v.daum.net/v/20240325085635828</id>
-        <link href="https://v.daum.net/v/20240325085635828"/>
-        <updated>2024-03-25T01:17:10.373Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 얼마 전 축구선수 황의조 씨가 등장하는 불법 촬영물을 유포한 형수가 징역 3년형을 선고받았었죠. 그런데 이렇게 수사기관이 압수했던 불법촬영물이 담긴 휴대전화는 조사가 끝나면 어떻게 될까요. 원래 주인인 범죄자에게 돌려주는지, 아니면 폐기되는지 정확히 아시는 분이 많지 않습니다. &lt;사실확인&gt;에서 이혁재 기자가 알아봤습니다. 【 기]]></content>
     </entry>
 </feed>
