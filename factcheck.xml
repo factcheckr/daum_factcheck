@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-01T10:21:12.349Z</updated>
+    <updated>2024-04-01T11:18:16.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] AI가 커버한 노래, 목소리 주인에게 수익 돌아갈까]]></title>
+        <id>https://v.daum.net/v/20240401195426837</id>
+        <link href="https://v.daum.net/v/20240401195426837"/>
+        <updated>2024-04-01T11:17:14.058Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 가수의 목소리를 인공지능 기술로 흉내 낸 일명 'AI 커버곡'이 유튜브에서 인기를 끌고 있죠. 유명 연예인들의 목소리를 학습시킨 곡들이 많은데, 그렇다면 이 목소리의 원래 주인들에게도 수익이 돌아갈까요? 이시열 기자가 사실확인에서 알아봤습니다. 【 기자 】 - "달디달고 달디달고 달디단 밤양갱" 최근 팬들의 많은 사랑을 받고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의협 “낙선운동” 논란… 단순 의사 표시는 합법, 유인물·현수막 땐 위법[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240401115413347</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240325201614133"/>
         <updated>2024-03-25T12:32:20.161Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 총선이 다가오면서 언론사들도 경쟁적으로 여론조사 보도를 내놓고 있습니다. 그중에는 1주일 사이 정당 지지율이 급등했다거나, 반대로 급락했다는 자극적인 보도도 잇따르고 있는데요. 민심이 이렇게 1주일 단위로 크게 요동친다는 걸 믿을 수 있을지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 지난주 금요일에 나온 여론조사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4·10 총선 팩트체크] 영주권자 중국인 15만표 행사 지방선거만 투표, 총선은 불가]]></title>
-        <id>https://v.daum.net/v/20240325175424418</id>
-        <link href="https://v.daum.net/v/20240325175424418"/>
-        <updated>2024-03-25T09:17:58.384Z</updated>
-        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 4·10 총선을 앞두고 여야가 '친중국·반중국' 논란을 놓고 맞붙었다. 국민의힘은 25일 이재명 더불어민주당 대표가 최근 "왜 중국에 집적거리나. 그냥 셰셰(謝謝·고맙습니다)하면 되지"라고 말한 것을 놓고 십자포화를 가했다. 한동훈 국민의힘 비상대책위원장은 이날 "지금 대한민국이 중국에 대해 강경일변도 외교 정책을 펴고 있다고]]></content>
     </entry>
 </feed>
