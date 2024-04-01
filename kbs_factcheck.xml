@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2024-04-01T22:19:17.251Z</updated>
+    <updated>2024-04-01T23:20:31.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주택도시기금공사·글로벌어학타운…공약 실현 가능성은?]]></title>
+        <id>https://v.daum.net/v/20240402081631097</id>
+        <link href="https://v.daum.net/v/20240402081631097"/>
+        <updated>2024-04-01T23:19:56.354Z</updated>
+        <content type="html"><![CDATA[[KBS 제주] [앵커] 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 총선 후보자 토론회에서 나온 후보들의 정책을 검증합니다. 지난주 제주시갑 후보자 토론회에서 민주당 문대림 후보는  주택도시기금공사 설립을,  국민의힘 고광철 후보는  글로벌어학타운 공약을 내세우며 서로 가능한지를 두고 공방을 벌였는데요. 임연희 기자가 이들 공약의 이면을 확인해봤습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주택도시기금공사·글로벌어학타운…공약 실현 가능성은?]]></title>
         <id>https://v.daum.net/v/20240401215515764</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230606145303763"/>
         <updated>2024-01-25T14:19:14.087Z</updated>
         <content type="html"><![CDATA[아파트 건설현장에서 일을 마치고 퇴근하는 외국인 노동자들의 모습은 언젠가부터 낯설지 않은 풍경이 됐습니다. 대부분 아시아인이어서 언뜻 보면 한국인과 구별하기 힘든 경우도 있지만 조금만 눈여겨보면 외국인이라는 것을 알아차릴 수 있습니다. 온라인에선 "외국인 노동자들이 건설현장을 이미 장악했다"는 주장이 나옵니다. 더러는 현장을 장악하다 못해 "자기들끼리 카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인력 없이는 정말 ‘뿌리산업’ 지탱이 힘든가]]></title>
-        <id>https://v.daum.net/v/20230604080127220</id>
-        <link href="https://v.daum.net/v/20230604080127220"/>
-        <updated>2024-03-29T02:24:25.115Z</updated>
-        <content type="html"><![CDATA['뿌리산업' 주조, 금형, 용접, 표면처리 등 기초 공정 기술을 활용해 사업을 영위하는 업종을 뜻합니다. 겉으로 드러나진 않지만, 나무뿌리처럼 모든 제조업의 근간을 형성한다는 의미에서 붙여진 별칭입니다. 2021년 기준으로 전국 5만 1천여 개사에서 약 72만 명이 일하고 있습니다. 이는 같은 해 국내 제조업 종사자의 17%를 차지하는 규모입니다.  정부]]></content>
     </entry>
 </feed>
