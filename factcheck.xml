@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-03T20:22:40.082Z</updated>
+    <updated>2024-04-03T21:17:34.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[美CIC 보고서 어디에도 ‘이대생 성접대 동원’ 내용 없어]]></title>
+        <title type="html"><![CDATA[[팩트체크] '노점상 신용카드 허용' 명동 가봤더니-③]]></title>
+        <id>https://v.daum.net/v/20240404060112252</id>
+        <link href="https://v.daum.net/v/20240404060112252"/>
+        <updated>2024-04-03T21:16:29.920Z</updated>
+        <content type="html"><![CDATA[[※ 편집자 주 = 서울 중구청이 지난 2월 노점상의 사업자등록과 신용카드 단말기 설치를 추진한다고 밝혔습니다. 팩트체크 기사 1편 [팩트체크] 포장마차는 왜 신용카드를 안 받을까?-①, 2편 [팩트체크] 정부는 세금 안 내도 된다는데, 노점상은 왜-② 에서는 노점상들이 신용카드를 못 받는 현실과 노점상이 세금을 내고 싶어 하는 이유를 다뤘습니다. 3편에서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 푸바오 돌아갔지만…판다는 ‘기후변화’로 멸종 위험]]></title>
+        <id>https://v.daum.net/v/20240404060001077</id>
+        <link href="https://v.daum.net/v/20240404060001077"/>
+        <updated>2024-04-03T21:16:29.922Z</updated>
+        <content type="html"><![CDATA['국민 판다'로 사랑받던 자이언트 판다 푸바오가 어제(3일) 중국으로 반환된 가운데, 왜 푸바오가 중국으로 돌아가야 했는지 아쉬움의 목소리가 큽니다. 중국의 도시화와 밀렵 등으로 판다가 멸종위기를 맞았고, 이후 중국 정부에서 개체 수 보전을 위해 판다의 번식 등을 엄격히 관리하기 때문이라고 전해드린 적 있는데요. [연관 기사] 판다가 멸종위험종이 된 건]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美방첩부대 보고서 어디에도 ‘이대생 성접대 동원’ 내용 없어]]></title>
         <id>https://v.daum.net/v/20240404030543031</id>
         <link href="https://v.daum.net/v/20240404030543031"/>
         <updated>2024-04-03T18:22:08.846Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240401070001610"/>
         <updated>2024-03-31T22:17:02.614Z</updated>
         <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 먼저 문재인 정부 때인 지난 2020년 4월 제21대 총선 당시 여당이었던 더불어민주당 후보들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4·10 총선 팩트체크] 양문석, 사채로 반포집 사고 딸 명의 사업자대출로 갚아]]></title>
-        <id>https://v.daum.net/v/20240329180612667</id>
-        <link href="https://v.daum.net/v/20240329180612667"/>
-        <updated>2024-03-29T09:17:22.146Z</updated>
-        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 양문석 더불어민주당 경기 안산갑 후보가 서울 서초구 잠원동 아파트를 구입하는 과정에서 20대 대학생이던 장녀가 11억원을 대출받은 사실이 드러나며 논란이 일파만파로 번지고 있다. 양 후보는 '편법'을 인정하고 사과했지만 대학생 딸이 거액의 자금을 빌리는 과정에서 불법적인 방식이 동원됐다는 의혹이 커졌다. 29일 양 후보가 중앙선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여론조사가 당락 가늠자?  각 당 분석이 더 정확했다 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240329000433814</id>
-        <link href="https://v.daum.net/v/20240329000433814"/>
-        <updated>2024-03-28T15:19:22.451Z</updated>
-        <content type="html"><![CDATA[22대 총선을 코앞에 두고 총선에 명운을 건 여야가 선거 여론조사에도 촉각을 곤두세우고 있다. 특히 주목을 끈 건 최근 한 달 새 크게 출렁인 여론조사 추이다. 각 정당은 겉으로는 일희일비하지 않는다는 입장이지만 속내는 전혀 다르다. 여론조사 결과에 따라 초비상이 걸리기도 하고, 오만하면 안 된다며 표정관리에 나서기도 한다. 그렇다면 총선 여론조사는 실제]]></content>
     </entry>
 </feed>
