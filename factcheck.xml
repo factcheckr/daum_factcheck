@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-03T07:19:16.769Z</updated>
+    <updated>2024-04-03T08:23:36.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 사진 쓴 후보 '77명'뿐... 대통령 사라진 국힘 선거공보 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240403165101810</id>
+        <link href="https://v.daum.net/v/20240403165101810"/>
+        <updated>2024-04-03T08:22:42.832Z</updated>
+        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 지난 2020년 21대 총선 당시 여당이었던 더불어민주당에 이어, 22대 총선 국민의힘 후보들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원희룡 "절대 없다" 했는데... 이재명 말 사실이었다  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240403105400193</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240327215100767"/>
         <updated>2024-03-27T13:19:48.911Z</updated>
         <content type="html"><![CDATA[A씨는 여름방학을 맞아 친구들과 함께 유명한 수상레저 놀이기구가 있는 곳으로 물놀이를 갔다. 보트를 탔는데 너무 빠른 속도로 달렸다. 조금 천천히 운행해달라고 부탁했지만 운전자는 이를 무시한 채 계속해서 빠른 속도로 운행했다. 결국 A씨는 중심을 잡지 못하고 보트에서 튕겨져 나갔고, 물에 세게 부딪혀 다리가 골절되는 사고가 발생했다.여행 중 스릴과 재미를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4·10 총선 팩트체크] 일부 이전 담은 국회규칙은 통과 완전히 옮기려면 법 다시 손봐야]]></title>
-        <id>https://v.daum.net/v/20240327175407183</id>
-        <link href="https://v.daum.net/v/20240327175407183"/>
-        <updated>2024-03-27T09:18:57.748Z</updated>
-        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 한동훈 국민의힘 비상대책위원장이 27일 '국회의 완전한 세종시 이전'을 주장하고 나섰다. 국회가 앞서 세종에 국회의사당 분원을 설치하고 12개 상임위원회 등을 옮기기로 결정한 것에서 한발 더 나아가 국회 전체를 이전하자는 얘기다. 국회 세종의사당 설치 근거는 국회법 개정안이 2021년 9월 국회 본회의를 통과하며 마련됐다. 다만]]></content>
     </entry>
 </feed>
