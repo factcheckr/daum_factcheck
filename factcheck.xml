@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-04T08:26:50.903Z</updated>
+    <updated>2024-04-04T09:19:36.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4.10 총선 팩트체크] 사전투표율 높으면 野에 유리? 전문가들 "근거없는 속설"]]></title>
+        <id>https://v.daum.net/v/20240404175719608</id>
+        <link href="https://v.daum.net/v/20240404175719608"/>
+        <updated>2024-04-04T09:18:33.964Z</updated>
+        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 정치권에서는 사전 투표율이 높으면 진보 계열 정당에 유리하다는 속설이 있다. 사전 투표율이 본 투표율을 끌어올리게 되고, 이는 상대적으로 투표율이 낮은 편인 젊은 세대가 투표에 적극 참여했다는 방증이라는 해석이다. 과연 사실일까. 전문가들은 이에 대해 "말 그대로 속설일 뿐"이라고 고개를 가로젓는다. 4일 매일경제신문이 최근 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '노점상 신용카드 허용' 명동 가봤더니-③]]></title>
         <id>https://v.daum.net/v/20240404060112252</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240401115413347"/>
         <updated>2024-04-01T03:21:25.907Z</updated>
         <content type="html"><![CDATA[“진료 현장에서 낙선 운동” “총선 캠페인·총파업 등을 통해 투쟁” 등 연일 정치권을 압박하는 임현택 대한의사협회(의협) 회장 당선인이 실제 낙선 운동 등에 나설 경우 구체적인 방식과 내용에 따라 선거법 위반 여부가 달라질 것으로 보인다. 1일 중앙선거관리위원회 등에 따르면 총선을 앞두고 정치적 발언을 이어가고 있는 임 당선인이 일부 발언을 구체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240401070001610</id>
-        <link href="https://v.daum.net/v/20240401070001610"/>
-        <updated>2024-03-31T22:17:02.614Z</updated>
-        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 먼저 문재인 정부 때인 지난 2020년 4월 제21대 총선 당시 여당이었던 더불어민주당 후보들의]]></content>
     </entry>
 </feed>
