@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-05T01:17:19.190Z</updated>
+    <updated>2024-04-05T02:25:17.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["20대·여성·아동에 밀렸다" 조국이 띄운 4050 소외론…사실일까? [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240405104312571</id>
+        <link href="https://v.daum.net/v/20240405104312571"/>
+        <updated>2024-04-05T02:24:16.667Z</updated>
+        <content type="html"><![CDATA[조국 조국혁신당 대표가 "정치권이 지금껏 청년, 여성, 아동 등을 대상으로 정책을 추진했지만 40·50세대는 늘 소외돼 왔다"며 '4050 소외론'을 띄웠다. 진보적 성향이 강한 지지층 표심을 겨냥한 것이지만 각종 통계로 따져봤을 때 40·50대가 소외되고 있다는 조 대표의 판단은 현실과 거리가 멀다는 지적이 나온다. 조 대표는 지난 2일 국회 소통관에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4.10 총선 팩트체크] 사전투표율 높으면 野에 유리? 전문가들 "근거없는 속설"]]></title>
         <id>https://v.daum.net/v/20240404175719608</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240401195426837"/>
         <updated>2024-04-01T11:17:14.058Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 가수의 목소리를 인공지능 기술로 흉내 낸 일명 'AI 커버곡'이 유튜브에서 인기를 끌고 있죠. 유명 연예인들의 목소리를 학습시킨 곡들이 많은데, 그렇다면 이 목소리의 원래 주인들에게도 수익이 돌아갈까요? 이시열 기자가 사실확인에서 알아봤습니다. 【 기자 】 - "달디달고 달디달고 달디단 밤양갱" 최근 팬들의 많은 사랑을 받고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의협 “낙선운동” 논란… 단순 의사 표시는 합법, 유인물·현수막 땐 위법[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240401115413347</id>
-        <link href="https://v.daum.net/v/20240401115413347"/>
-        <updated>2024-04-01T03:21:25.907Z</updated>
-        <content type="html"><![CDATA[“진료 현장에서 낙선 운동” “총선 캠페인·총파업 등을 통해 투쟁” 등 연일 정치권을 압박하는 임현택 대한의사협회(의협) 회장 당선인이 실제 낙선 운동 등에 나설 경우 구체적인 방식과 내용에 따라 선거법 위반 여부가 달라질 것으로 보인다. 1일 중앙선거관리위원회 등에 따르면 총선을 앞두고 정치적 발언을 이어가고 있는 임 당선인이 일부 발언을 구체]]></content>
     </entry>
 </feed>
