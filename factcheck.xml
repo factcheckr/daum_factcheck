@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-07T08:26:14.308Z</updated>
+    <updated>2024-04-07T09:18:13.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4.10 총선 팩트체크] 앗! 후보 잘못 찍었다 … 어떻게 해야할까?]]></title>
+        <id>https://v.daum.net/v/20240407174813315</id>
+        <link href="https://v.daum.net/v/20240407174813315"/>
+        <updated>2024-04-07T09:17:11.968Z</updated>
+        <content type="html"><![CDATA[서울 영등포갑 거주자 오 모씨(27)는 지난 6일 주거지 근처 사전투표소에서 투표하다 당황스러운 일을 겪었다. 투표하려던 후보 대신 다른 후보에게 도장을 찍는 실수를 한 것이다. 이처럼 잘못 기표했을 때 투표지를 교체할 수 있을까. 매일경제가 투표장에서 생길 수 있는 여러 의문점을 정리해봤다. 7일 중앙선거관리위원회에 따르면 투표용지를 수령한 시점에서 사전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채소값 오른 게 전기요금 때문?…이재명 주장 살펴보니 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20240405141407440</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240403165101810"/>
         <updated>2024-04-03T08:22:42.832Z</updated>
         <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 지난 2020년 21대 총선 당시 여당이었던 더불어민주당에 이어, 22대 총선 국민의힘 후보들의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원희룡 "절대 없다" 했는데... 이재명 말 사실이었다  [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240403105400193</id>
-        <link href="https://v.daum.net/v/20240403105400193"/>
-        <updated>2024-04-03T07:18:09.850Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;원 후보는 "유동수 의원과 차관을 만났다 이렇게 말씀하시는데 허위사실 공표, 과거에 이미 기소됐는데"라며 이 후보가 허위사실 공표로 기소된 전적을 언급했다.ⓒ OBS뉴스 유튜브 갈무리&nbsp; [검증 대상] 이재명 "GTX 노선 관련해 국토부차관-유동수 의원 만나 협의했다" 제1야당 대표와 전직 국토부장관이 맞붙은 '인천 계양을 이재명-원희룡]]></content>
     </entry>
 </feed>
