@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-08T11:16:43.555Z</updated>
+    <updated>2024-04-08T12:36:56.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 선 넘은 유세 소음…스피커 개조해도 단속은 '전무']]></title>
+        <id>https://v.daum.net/v/20240408210611531</id>
+        <link href="https://v.daum.net/v/20240408210611531"/>
+        <updated>2024-04-08T12:33:11.905Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; &nbsp;유세 소음 기준이 청각장애를 일으킬 정도로 높게 설정되어 있다는 소식 전해 드렸는데요. 이제 선거운동이 막바지에 접어들면서 차량 유세 음량을 이보다 더 높이려는 시도가 적지 않습니다. 그런데도 선관위는 단속을 하지 않고 있는데, 이유가 뭔지 팩트체크 사실은 코너 박세용 기자가 살펴봤습니다.&nbsp; &lt;기자&gt; 재래시장 앞 차량유세 현장입니다. 유세 차량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 선관위 직원이 '새벽에 은밀히' 투표지 투입?]]></title>
         <id>https://v.daum.net/v/20240408192142858</id>
         <link href="https://v.daum.net/v/20240408192142858"/>
         <updated>2024-04-08T10:24:26.591Z</updated>
-        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지를]]></content>
+        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전 투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전 투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“앗! 후보 잘못 찍었다”…새 투표용지로 바꿔줄까 [총선 팩트체크]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240404060112252"/>
         <updated>2024-04-03T21:16:29.920Z</updated>
         <content type="html"><![CDATA[[※ 편집자 주 = 서울 중구청이 지난 2월 노점상의 사업자등록과 신용카드 단말기 설치를 추진한다고 밝혔습니다. 팩트체크 기사 1편 [팩트체크] 포장마차는 왜 신용카드를 안 받을까?-①, 2편 [팩트체크] 정부는 세금 안 내도 된다는데, 노점상은 왜-② 에서는 노점상들이 신용카드를 못 받는 현실과 노점상이 세금을 내고 싶어 하는 이유를 다뤘습니다. 3편에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸바오 돌아갔지만…판다는 ‘기후변화’로 멸종 위험 [팩트체크K]]]></title>
-        <id>https://v.daum.net/v/20240404060001077</id>
-        <link href="https://v.daum.net/v/20240404060001077"/>
-        <updated>2024-04-03T21:16:29.922Z</updated>
-        <content type="html"><![CDATA['국민 판다'로 사랑받던 자이언트 판다 푸바오가 어제(3일) 중국으로 반환된 가운데, 왜 푸바오가 중국으로 돌아가야 했는지 아쉬움의 목소리가 큽니다. 중국의 도시화와 밀렵 등으로 판다가 멸종위기를 맞았고, 이후 중국 정부에서 개체 수 보전을 위해 판다의 번식 등을 엄격히 관리하기 때문이라고 전해드린 적 있는데요. [연관 기사] 판다가 멸종위험종이 된 건]]></content>
     </entry>
 </feed>
