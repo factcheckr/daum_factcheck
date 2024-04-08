@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-08T09:21:36.598Z</updated>
+    <updated>2024-04-08T10:26:24.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 선관위 직원이 '새벽에 은밀히' 투표지 투입?]]></title>
+        <id>https://v.daum.net/v/20240408192142858</id>
+        <link href="https://v.daum.net/v/20240408192142858"/>
+        <updated>2024-04-08T10:24:26.591Z</updated>
+        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“앗! 후보 잘못 찍었다”…새 투표용지로 바꿔줄까 [총선 팩트체크]]]></title>
         <id>https://v.daum.net/v/20240408001500683</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240404060001077"/>
         <updated>2024-04-03T21:16:29.922Z</updated>
         <content type="html"><![CDATA['국민 판다'로 사랑받던 자이언트 판다 푸바오가 어제(3일) 중국으로 반환된 가운데, 왜 푸바오가 중국으로 돌아가야 했는지 아쉬움의 목소리가 큽니다. 중국의 도시화와 밀렵 등으로 판다가 멸종위기를 맞았고, 이후 중국 정부에서 개체 수 보전을 위해 판다의 번식 등을 엄격히 관리하기 때문이라고 전해드린 적 있는데요. [연관 기사] 판다가 멸종위험종이 된 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美방첩부대 보고서 어디에도 ‘이대생 성접대 동원’ 내용 없어]]></title>
-        <id>https://v.daum.net/v/20240404030543031</id>
-        <link href="https://v.daum.net/v/20240404030543031"/>
-        <updated>2024-04-03T18:22:08.846Z</updated>
-        <content type="html"><![CDATA[김준혁 더불어민주당 경기수원정 국회의원 후보의 ‘이화여대생 성상납’ 발언 여파가 계속되고 있다. 김 후보는 2일 밤 사과했으나 이화여대 총동창회(회장 이명경)는 3일 “당시 여성은 물론 현대의 여성에 이르는 전체 여성에 대한 명백한 비하 의도를 담고 있다”며 후보직 사퇴를 요구했다. 조상호 더불어민주당 법률위원회 부위원장은 김 후보의 사과 후에도 3일 MB]]></content>
     </entry>
 </feed>

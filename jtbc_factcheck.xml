@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-04-08T09:21:36.604Z</updated>
+    <updated>2024-04-08T10:26:24.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선관위 직원이 '새벽에 은밀히' 투표지 투입?]]></title>
+        <id>https://v.daum.net/v/20240408192142858</id>
+        <link href="https://v.daum.net/v/20240408192142858"/>
+        <updated>2024-04-08T10:26:23.502Z</updated>
+        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까]]></title>
         <id>https://v.daum.net/v/20240306204312017</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231101200313802"/>
         <updated>2023-11-01T11:16:50.859Z</updated>
         <content type="html"><![CDATA[[앵커] 보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도 나오는데, 사실인지 이은진 기자와 팩트체크해보겠습니다. 이 기자, 김포가 서울에 편입되기 전에 지하철 공사를 시작하더라도, 서울시민이 돈을 내야 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
-        <id>https://v.daum.net/v/20231023204713617</id>
-        <link href="https://v.daum.net/v/20231023204713617"/>
-        <updated>2023-10-23T12:36:46.380Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content>
     </entry>
 </feed>
