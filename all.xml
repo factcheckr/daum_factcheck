@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-09T21:18:18.883Z</updated>
+    <updated>2024-04-09T22:17:48.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[커피, 만병통치약일까? 독소일까? [리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240410070106581</id>
+        <link href="https://v.daum.net/v/20240410070106581"/>
+        <updated>2024-04-09T22:16:53.491Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 오정우 수습 기자 = 서울 영등포구 여의도에 출근하는 직장인 김모(28)씨는 점심을 먹고 나면 늘 고민이다. '출근할 때 커피 한 잔 마셨는데 또 마시면 밤에 잘 수 있을까?' 하루에 커피 두 잔 이상을 마시면 잠을 설칠까 걱정인 김씨는 '1일 1커피'에서 벗어나지 못한다. 점심때 마시고 싶어도 참는다. 김씨와 같이 커피를 마시는 이들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 선 넘은 유세 소음…스피커 개조해도 단속은 '전무' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240408210611531</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240404175719608"/>
         <updated>2024-04-04T09:18:33.964Z</updated>
         <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 정치권에서는 사전 투표율이 높으면 진보 계열 정당에 유리하다는 속설이 있다. 사전 투표율이 본 투표율을 끌어올리게 되고, 이는 상대적으로 투표율이 낮은 편인 젊은 세대가 투표에 적극 참여했다는 방증이라는 해석이다. 과연 사실일까. 전문가들은 이에 대해 "말 그대로 속설일 뿐"이라고 고개를 가로젓는다. 4일 매일경제신문이 최근 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '노점상 신용카드 허용' 명동 가봤더니-③ (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240404060112252</id>
-        <link href="https://v.daum.net/v/20240404060112252"/>
-        <updated>2024-04-03T21:16:29.920Z</updated>
-        <content type="html"><![CDATA[[※ 편집자 주 = 서울 중구청이 지난 2월 노점상의 사업자등록과 신용카드 단말기 설치를 추진한다고 밝혔습니다. 팩트체크 기사 1편 [팩트체크] 포장마차는 왜 신용카드를 안 받을까?-①, 2편 [팩트체크] 정부는 세금 안 내도 된다는데, 노점상은 왜-② 에서는 노점상들이 신용카드를 못 받는 현실과 노점상이 세금을 내고 싶어 하는 이유를 다뤘습니다. 3편에서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선 넘은 유세 소음…스피커 개조해도 단속은 '전무' (다음 뉴스 ─ SBS 사실은)]]></title>
