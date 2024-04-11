@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-11T04:23:15.068Z</updated>
+    <updated>2024-04-11T05:19:49.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[10대는 DM 쓰지, 카톡 안쓴다고?…통계 뜯어보니 "틀렸다" [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240411141502475</id>
+        <link href="https://v.daum.net/v/20240411141502475"/>
+        <updated>2024-04-11T05:18:43.686Z</updated>
+        <content type="html"><![CDATA["친구들과 대화할 때 DM(인스타그램 다이렉트 메시지)을 쓰긴 하지만 카톡(카카오톡)을 아예 안 쓰는 건 아니에요." "카톡으로 반 단체방 만드는 곳도 있고, 인스타 단체 DM을 사용하는 곳도 있어요. (카톡과 DM을) 같이 쓰는 거지, 카톡은 안 쓰고 DM만 쓰는 경우는 못봤습니다." 11일 업계에 따르면 10대 학생들이 인스타그램 DM을 선호하면서 카톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커피, 만병통치약일까? 독소일까? [리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240410070106581</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240405104312571"/>
         <updated>2024-04-05T02:24:16.667Z</updated>
         <content type="html"><![CDATA[조국 조국혁신당 대표가 "정치권이 지금껏 청년, 여성, 아동 등을 대상으로 정책을 추진했지만 40·50세대는 늘 소외돼 왔다"며 '4050 소외론'을 띄웠다. 진보적 성향이 강한 지지층 표심을 겨냥한 것이지만 각종 통계로 따져봤을 때 40·50대가 소외되고 있다는 조 대표의 판단은 현실과 거리가 멀다는 지적이 나온다. 조 대표는 지난 2일 국회 소통관에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4.10 총선 팩트체크] 사전투표율 높으면 野에 유리? 전문가들 "근거없는 속설" (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240404175719608</id>
-        <link href="https://v.daum.net/v/20240404175719608"/>
-        <updated>2024-04-04T09:18:33.964Z</updated>
-        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 정치권에서는 사전 투표율이 높으면 진보 계열 정당에 유리하다는 속설이 있다. 사전 투표율이 본 투표율을 끌어올리게 되고, 이는 상대적으로 투표율이 낮은 편인 젊은 세대가 투표에 적극 참여했다는 방증이라는 해석이다. 과연 사실일까. 전문가들은 이에 대해 "말 그대로 속설일 뿐"이라고 고개를 가로젓는다. 4일 매일경제신문이 최근 1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선 넘은 유세 소음…스피커 개조해도 단속은 '전무' (다음 뉴스 ─ SBS 사실은)]]></title>
