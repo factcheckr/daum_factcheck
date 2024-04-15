@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2024-04-15T21:22:02.803Z</updated>
+    <updated>2024-04-15T22:17:48.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 사진 사용, 수도권 당선자 6명...어디?]]></title>
+        <id>https://v.daum.net/v/20240416070602417</id>
+        <link href="https://v.daum.net/v/20240416070602417"/>
+        <updated>2024-04-15T22:17:40.407Z</updated>
+        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 지금까지 22대 총선 후보자 선거 공보에 현직 대통령과 당 대표 사진을 얼마나 사용했는지 살펴봤습니다. 마지막으로 이들 사진이 선거 결과에는 어떤 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 사진 쓴 민주당 후보는 98명.. '입틀막' 사진은 36명]]></title>
         <id>https://v.daum.net/v/20240405135417633</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240208210002315"/>
         <updated>2024-02-08T12:32:56.960Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;부영그룹이 5일 서울시 중구 부영태평빌딩 컨벤션홀에서 ‘2024년 시무식’을 진행하고 있다. 이중근 부영그룹 회장은 이날 2021년 이후 출산한 직원 자녀 70명에게 출산장려금 1억 원씩 총 70억 원을 지급하고 셋째까지 출산한 임직원 가정에는 국가로부터 토지가 제공된다면 임차인의 조세 부담이 없고 유지보수 책임이 없는 국민주택을 제공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "중처법, 긍정적 결과 없었다"?... 수치는 다른 말을 한다]]></title>
-        <id>https://v.daum.net/v/20240208152104502</id>
-        <link href="https://v.daum.net/v/20240208152104502"/>
-        <updated>2024-02-08T06:24:23.584Z</updated>
-        <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;지난 7일 오후 서울역 대합실에서 시민들이 KBS를 통해 녹화 방송되고 있는 윤석열 대통령의 특별 대담을 시청하고 있다. ⓒ 연합뉴스&nbsp; 지난 7일 윤석열 대통령의 KBS 특별대담 '대통령실을 가다'가 방영됐다. 세간의 관심은 '김건희 여사 명품백 수수 의혹'과 관련한 윤 대통령의 사과 여부에 쏠렸다. 결국 대통령의 사과 표명은 없었다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-15T21:22:02.819Z</updated>
+    <updated>2024-04-15T22:17:48.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 사진 사용, 수도권 당선자 6명...어디?   [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240416070602417</id>
+        <link href="https://v.daum.net/v/20240416070602417"/>
+        <updated>2024-04-15T22:16:53.418Z</updated>
+        <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 지금까지 22대 총선 후보자 선거 공보에 현직 대통령과 당 대표 사진을 얼마나 사용했는지 살펴봤습니다. 마지막으로 이들 사진이 선거 결과에는 어떤 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도 사전투표 모두 파란색?… 최소 70곳은 與 우세 [FACT IN 뉴스]]]></title>
         <id>https://v.daum.net/v/20240416060453732</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240408192142858"/>
         <updated>2024-04-08T10:24:26.591Z</updated>
         <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전 투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전 투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“앗! 후보 잘못 찍었다”…새 투표용지로 바꿔줄까 [총선 팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240408001500683</id>
-        <link href="https://v.daum.net/v/20240408001500683"/>
-        <updated>2024-04-07T15:18:26.889Z</updated>
-        <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 서울 영등포갑 거주자 오 모씨(27)는 지난 6일 주거지 근처 사전투표소에서 투표에 나섰다 당황스런 일을 겪었다. 투표하려던 후보 대신 다른 후보에게 도장을 찍는 실수를 한 것이다. 이처럼 기표를 잘못한 경우 투표지를 교체할 수 있을까. 매일경제가 투표장에서 생길 수 있는 여러 의문점을 정리해봤다. 7일 중앙선거관리위원회에 따르]]></content>
     </entry>
 </feed>
