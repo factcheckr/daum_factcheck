@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-15T20:20:47.884Z</updated>
+    <updated>2024-04-15T21:22:02.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도 사전투표 모두 파란색?… 최소 70곳은 與 우세 [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20240416060453732</id>
+        <link href="https://v.daum.net/v/20240416060453732"/>
+        <updated>2024-04-15T21:19:56.343Z</updated>
+        <content type="html"><![CDATA[“지도를 펼쳐놓고 사전투표 득표율과 당일투표 득표율을 비교, 사전투표가 유리한 후보 당 색을 그 동에다 칠한다고 해보자. 경기도 599개 동 모두 파란색이다. 여기가 무슨 공산국가냐.”(14일 가가호호공명선거대한당 민경욱 공동대표 발언) 지난 5일 한 유권자가 투표함에 용지를 넣고 있다. 연합뉴스  4·10 총선에서 사전투표율은 31.28%를 기록했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여러분은 '쿠세권'에서 살고 계신가요?]]></title>
         <id>https://v.daum.net/v/20240415043301067</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240408001500683"/>
         <updated>2024-04-07T15:18:26.889Z</updated>
         <content type="html"><![CDATA[◆ 제22대 국회의원선거 ◆ 서울 영등포갑 거주자 오 모씨(27)는 지난 6일 주거지 근처 사전투표소에서 투표에 나섰다 당황스런 일을 겪었다. 투표하려던 후보 대신 다른 후보에게 도장을 찍는 실수를 한 것이다. 이처럼 기표를 잘못한 경우 투표지를 교체할 수 있을까. 매일경제가 투표장에서 생길 수 있는 여러 의문점을 정리해봤다. 7일 중앙선거관리위원회에 따르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반복되는 사전투표 조작설… “실체는 없다” [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240408000522561</id>
-        <link href="https://v.daum.net/v/20240408000522561"/>
-        <updated>2024-04-07T15:18:26.890Z</updated>
-        <content type="html"><![CDATA[4·10 총선을 앞두고 서울 부산 등 전국 사전투표소 40여곳에 카메라를 설치해 구속된 40대 유튜버는 “부정선거가 의심된다”고 주장했다. 2013년 도입된 사전투표 제도는 해마다 투표율이 높아지고 있지만, 그 이면에는 부정선거를 의심하는 일부의 시선이 여전하다. 전문가들은 22대 총선에서도 본투표(10일) 이후 선거 결과에 따라 부정선거 의혹이 분출될]]></content>
     </entry>
 </feed>
