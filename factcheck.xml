@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-16T11:16:33.567Z</updated>
+    <updated>2024-04-16T12:34:58.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 세월호 가짜뉴스와 혐오의 10년‥사실은?]]></title>
+        <id>https://v.daum.net/v/20240416203413729</id>
+        <link href="https://v.daum.net/v/20240416203413729"/>
+        <updated>2024-04-16T12:34:02.007Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사로 가족과 친구를 잃은 세월호 피해자들은 지난 10년간 온갖 가짜뉴스와 모욕에도 시달려 왔습니다. [김순길/세월호 희생자 진윤희 학생 어머니] "저희에게 모진 말을 해대는 시민도 만났고, 때로는 언론인들이 제대로 된 진실을 보도하지 않고 왜곡된 보도를 해서 저희에게 상처를 주는 일도 많았습니다." 정부 조사 결과, 세월호 피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 사진 사용, 수도권 당선자 6명...어디?   [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240416070602417</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240408210611531"/>
         <updated>2024-04-08T12:33:11.905Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; &nbsp;유세 소음 기준이 청각장애를 일으킬 정도로 높게 설정되어 있다는 소식 전해 드렸는데요. 이제 선거운동이 막바지에 접어들면서 차량 유세 음량을 이보다 더 높이려는 시도가 적지 않습니다. 그런데도 선관위는 단속을 하지 않고 있는데, 이유가 뭔지 팩트체크 사실은 코너 박세용 기자가 살펴봤습니다.&nbsp; &lt;기자&gt; 재래시장 앞 차량유세 현장입니다. 유세 차량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 선관위 직원이 '새벽에 은밀히' 투표지 투입?]]></title>
-        <id>https://v.daum.net/v/20240408192142858</id>
-        <link href="https://v.daum.net/v/20240408192142858"/>
-        <updated>2024-04-08T10:24:26.591Z</updated>
-        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전 투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전 투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지]]></content>
     </entry>
 </feed>
