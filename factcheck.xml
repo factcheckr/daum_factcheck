@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-18T21:18:10.201Z</updated>
+    <updated>2024-04-18T22:18:50.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[자격증도 없는데 “관광 안내하라”...가짜 가이드 내세운 여행사 최후 [여행 팩트체크]]]></title>
         <id>https://v.daum.net/v/20240418230001974</id>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[A씨는 여행 시작 전 가이드 투어를 알아보다가 여행사 홈페이지에서 자격증을 여럿 보유한 가이드를 찾았다. 전문성을 믿고 신청해 투어에 참가했는데, 가이드가 투어 내내 잘못된 정보를 알려줬다. 알고 보니 허위 사실을 홈페이지에 올려둔 것이었고 자격증이 없는 가이드였다.가이드 투어 중 가이드가 잘못된 내용을 안내해 논란이 되는 경우가 종종 발생한다. 큰마음]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["알코올 없이도 취한 느낌" 논란의 술…마시고 운전해도 '0.000%' [사실은]]]></title>
+        <title type="html"><![CDATA[[사실은] "알코올 없이도 취한 느낌" 논란의 술…마시고 운전해도 '0.000%']]></title>
         <id>https://v.daum.net/v/20240418204507578</id>
         <link href="https://v.daum.net/v/20240418204507578"/>
         <updated>2024-04-18T12:32:56.517Z</updated>
