@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-18T06:25:58.797Z</updated>
+    <updated>2024-04-18T07:19:04.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[배민, '한집배달료 1000원' 사업자마다 다르다고? 알고보니 [리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240418161243776</id>
+        <link href="https://v.daum.net/v/20240418161243776"/>
+        <updated>2024-04-18T07:18:08.217Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]김민성 기자 = 배달업계 무료배달 경쟁이 한창인 가운데 우아한형제들이 운영하는 배달의민족(배민)이 한집배달 기본요금을 1000원 이하로 낮춘다고 밝혔지만, 사업자가 가입한 상품에 따라 배달료 할인 적용 여부가 다른 것으로 파악됐다. 18일 업계에 따르면 배민은 지난 12일부터 10% 할인 쿠폰 혜택을 없애는 대신, 알뜰배달(다건배달) 기본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 세월호 가짜뉴스와 혐오의 10년‥사실은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240416203413729</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240410070106581"/>
         <updated>2024-04-09T22:16:53.491Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 오정우 수습 기자 = 서울 영등포구 여의도에 출근하는 직장인 김모(28)씨는 점심을 먹고 나면 늘 고민이다. '출근할 때 커피 한 잔 마셨는데 또 마시면 밤에 잘 수 있을까?' 하루에 커피 두 잔 이상을 마시면 잠을 설칠까 걱정인 김씨는 '1일 1커피'에서 벗어나지 못한다. 점심때 마시고 싶어도 참는다. 김씨와 같이 커피를 마시는 이들에게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 선 넘은 유세 소음…스피커 개조해도 단속은 '전무' (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240408210611531</id>
-        <link href="https://v.daum.net/v/20240408210611531"/>
-        <updated>2024-04-08T12:33:11.905Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; &nbsp;유세 소음 기준이 청각장애를 일으킬 정도로 높게 설정되어 있다는 소식 전해 드렸는데요. 이제 선거운동이 막바지에 접어들면서 차량 유세 음량을 이보다 더 높이려는 시도가 적지 않습니다. 그런데도 선관위는 단속을 하지 않고 있는데, 이유가 뭔지 팩트체크 사실은 코너 박세용 기자가 살펴봤습니다.&nbsp; &lt;기자&gt; 재래시장 앞 차량유세 현장입니다. 유세 차량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선 넘은 유세 소음…스피커 개조해도 단속은 '전무' (다음 뉴스 ─ SBS 사실은)]]></title>
