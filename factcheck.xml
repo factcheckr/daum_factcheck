@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-18T22:18:50.185Z</updated>
+    <updated>2024-04-18T23:20:29.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[자격증도 없는데 “관광 안내하라”...가짜 가이드 내세운 여행사 최후 [여행 팩트체크]]]></title>
         <id>https://v.daum.net/v/20240418230001974</id>
