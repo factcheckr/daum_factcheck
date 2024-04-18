@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-18T11:15:51.783Z</updated>
+    <updated>2024-04-18T12:33:54.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["알코올 없이도 취한 느낌" 논란의 술…마시고 운전해도 '0.000%' [사실은]]]></title>
+        <id>https://v.daum.net/v/20240418204507578</id>
+        <link href="https://v.daum.net/v/20240418204507578"/>
+        <updated>2024-04-18T12:32:56.517Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 알코올이 없는데 마시면 취한다는 술이 영국에서&nbsp;판매되고 있습니다. 국내에서도 이걸 마셔보는 영상이 잇따라 올라오고 있는데&nbsp;정말 술을 마신 것처럼 취하는 건지.&nbsp;만약 취한다면 음주운전 단속에서는 어떻게 되는지 궁금해하는 분들 많습니다. 팩트체크 사실은 팀에서 직접 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 영국의 한 대학교수가 알코올 없는 술을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배민, '한집배달료 1000원' 사업자마다 다르다고? 알고보니 [리얼팩트]]]></title>
         <id>https://v.daum.net/v/20240418161243776</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240411141502475"/>
         <updated>2024-04-11T05:18:43.686Z</updated>
         <content type="html"><![CDATA["친구들과 대화할 때 DM(인스타그램 다이렉트 메시지)을 쓰긴 하지만 카톡(카카오톡)을 아예 안 쓰는 건 아니에요." "카톡으로 반 단체방 만드는 곳도 있고, 인스타 단체 DM을 사용하는 곳도 있어요. (카톡과 DM을) 같이 쓰는 거지, 카톡은 안 쓰고 DM만 쓰는 경우는 못봤습니다." 11일 업계에 따르면 10대 학생들이 인스타그램 DM을 선호하면서 카톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피, 만병통치약일까? 독소일까? [리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240410070106581</id>
-        <link href="https://v.daum.net/v/20240410070106581"/>
-        <updated>2024-04-09T22:16:53.491Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 오정우 수습 기자 = 서울 영등포구 여의도에 출근하는 직장인 김모(28)씨는 점심을 먹고 나면 늘 고민이다. '출근할 때 커피 한 잔 마셨는데 또 마시면 밤에 잘 수 있을까?' 하루에 커피 두 잔 이상을 마시면 잠을 설칠까 걱정인 김씨는 '1일 1커피'에서 벗어나지 못한다. 점심때 마시고 싶어도 참는다. 김씨와 같이 커피를 마시는 이들에게]]></content>
     </entry>
 </feed>
