@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-19T01:18:47.030Z</updated>
+    <updated>2024-04-19T02:30:36.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수동 휠체어, '이렇게' 사용하면 안전합니다[리얼팩트]]]></title>
+        <id>https://v.daum.net/v/20240419105415038</id>
+        <link href="https://v.daum.net/v/20240419105415038"/>
+        <updated>2024-04-19T02:28:42.401Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]송종호 기자 = 식품의약품안전처는 의료기기통합정보시스템인 의료기기안심책방을 통해 수동휠체어를 직접 사용하는 환자·장애인 등 사용자와 보조자가 안전하게 사용할 수 있도록 관련 정보를 제공하고 있다. 19일 식약처에 따르면 수동휠체어 사용 전·후로 청결을 유지하고 타이어 마모·공기압 상태와 본체와 부품의 볼트·너트 조임을 확인하는 것이 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자격증도 없는데 “관광 안내하라”...가짜 가이드 내세운 여행사 최후 [여행 팩트체크]]]></title>
         <id>https://v.daum.net/v/20240418230001974</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240415041500002"/>
         <updated>2024-04-14T22:10:57.616Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["봄도, 벚꽃도 싫어요"…꽃가루 알레르기의 진실 [리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240413060207048</id>
-        <link href="https://v.daum.net/v/20240413060207048"/>
-        <updated>2024-04-12T21:15:34.364Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 오정우 수습 기자 = #1. 김모(27)씨는 봄도, 벚꽃도 싫다. 꽃가루와 나무에서 나오는 알 수 없는 가루가 그에게 '악몽'을 선사한다. 여자친구와 함께 서울 모처에서 벚꽃을 즐길 때면 어김없이 잔기침과 재채기가 튀어 나온다. 한번 터진 재채기는 걷잡을 수 없이 가속 페달을 밟는다. 목도 마구 간지럽다. 그는 고질병 '알레르기' 환자다.]]></content>
     </entry>
 </feed>
