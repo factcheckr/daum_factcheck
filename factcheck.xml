@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-04-19T11:17:07.087Z</updated>
+    <updated>2024-04-19T13:22:20.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽롱한데 음주측정은 0%…술에 어떤 성분 있길래 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240419210307489</id>
+        <link href="https://v.daum.net/v/20240419210307489"/>
+        <updated>2024-04-19T13:21:19.420Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 마시면 취한 느낌이 드는 데, 알코올은 들어 있지 않은 술이 나와서 논란이 되고 있다는 소식 어제(18일) 전해 드렸습니다. 음주 단속에도 걸리지 않는데 이거 위험한 거 아니냐, 혹시 무슨 마약 성분 든 거 아니냐, 이런 궁금증도 꼬리를 물고 이어졌습니다. 그래서 저희가 술의 성분을 더 취재해 봤습니다. 팩트 체크 사실은 코너 박세용 기자입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수동 휠체어, '이렇게' 사용하면 안전합니다[리얼팩트]]]></title>
         <id>https://v.daum.net/v/20240419105415038</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240415043300065"/>
         <updated>2024-04-14T22:10:57.615Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 유명인이 유튜브에서 투자하라는데, 그 사람 맞아요?]]></title>
-        <id>https://v.daum.net/v/20240415041500002</id>
-        <link href="https://v.daum.net/v/20240415041500002"/>
-        <updated>2024-04-14T22:10:57.616Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한]]></content>
     </entry>
 </feed>

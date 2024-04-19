@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-04-19T11:17:07.095Z</updated>
+    <updated>2024-04-19T13:22:20.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽롱한데 음주측정은 0%…술에 어떤 성분 있길래]]></title>
+        <id>https://v.daum.net/v/20240419210307489</id>
+        <link href="https://v.daum.net/v/20240419210307489"/>
+        <updated>2024-04-19T13:21:28.341Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 마시면 취한 느낌이 드는 데, 알코올은 들어 있지 않은 술이 나와서 논란이 되고 있다는 소식 어제(18일) 전해 드렸습니다. 음주 단속에도 걸리지 않는데 이거 위험한 거 아니냐, 혹시 무슨 마약 성분 든 거 아니냐, 이런 궁금증도 꼬리를 물고 이어졌습니다. 그래서 저희가 술의 성분을 더 취재해 봤습니다. 팩트 체크 사실은 코너 박세용 기자입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["알코올 없이도 취한 느낌" 논란의 술…마시고 운전해도 '0.000%']]></title>
         <id>https://v.daum.net/v/20240418204507578</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240122211804618"/>
         <updated>2024-01-22T12:36:55.872Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 3년 뒤, 2027년부터는 소방관을 채용하는 체력시험에서 남녀 응시자가 같은 기준을 적용받게 되는데요. 여성에게 불리한 것 아니냐는 지적이 나왔는데, 팩트 체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 현재 소방관 체력시험 종목은 윗몸일으키기, 악력, 배근력, 제자리멀리뛰기 등 여섯 종목입니다. 모두 남녀 채점 기준이 다른데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인천 랜드마크'가 중국 광저우 타워?…확인해 보니]]></title>
-        <id>https://v.daum.net/v/20240115204204346</id>
-        <link href="https://v.daum.net/v/20240115204204346"/>
-        <updated>2024-01-15T12:36:12.628Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 인천시가 낙후된 원도심을 개발하는, 이른바 '제물포 르네상스'라는 사업 구상을 최근 발표했습니다. 지역의 랜드마크가 될 건물 이미지도 공개했는데, 중국 관광명소로 꼽히는 건물 디자인을 베낀 것 아니냐는 주장이 나왔습니다. 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; 지난달 인천에서 열린 '제물포 르네상스' 대시민 보고회입니다.]]></content>
     </entry>
 </feed>
