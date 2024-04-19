@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-19T19:17:20.130Z</updated>
+    <updated>2024-04-19T20:19:50.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 세월호 피해자 의료지원, 치과·한방치료 많으면 안 되나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240420043054765</id>
+        <link href="https://v.daum.net/v/20240420043054765"/>
+        <updated>2024-04-19T20:18:46.824Z</updated>
+        <content type="html"><![CDATA["4·16세월호참사 피해자 의료지원금이 외상 후 스트레스장애(PTSD) 등 심리치료 및 트라우마(심리적 외상) 추적관찰 취지와 달리 치과·한방치료에 편중됐다." 의료비 지원기한을 5년 연장하는 내용을 담은 세월호피해지원법 개정안이 18일 야당 단독으로 본회의에 회부되자 해양수산부가 강한 유감을 표명하며 밝힌 사유다. 해수부는 관련 수치까지 밝히며 반발했는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몽롱한데 음주측정은 0%…술에 어떤 성분 있길래 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240419210307489</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240415043301067"/>
         <updated>2024-04-14T22:10:57.614Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 마지막 팩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 임영웅 콘서트 암표가 여전히 가능한 이유 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240415043300065</id>
-        <link href="https://v.daum.net/v/20240415043300065"/>
-        <updated>2024-04-14T22:10:57.615Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 다음 팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몽롱한데 음주측정은 0%…술에 어떤 성분 있길래 (다음 뉴스 ─ SBS 사실은)]]></title>
