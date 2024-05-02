@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-02T02:28:44.725Z</updated>
+    <updated>2024-05-02T03:25:26.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240502120602395</id>
+        <link href="https://v.daum.net/v/20240502120602395"/>
+        <updated>2024-05-02T03:24:23.318Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 지난 12일 오전 비례대표 당선인들과 함께 현충탑 참배를 위해 서울 동작구 국립서울현충원에 도착하고 있다.ⓒ 공동취재사진[검증대상] "원내교섭단체 20석 기준 유신 이후 변경" 조국 대표 발언 22대 총선에서 12석을 확보한 조국혁신당이 공동교섭단체 구성을 추진하고 있는 가운데, 조국 대표가 현재 최소 의석 기준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 이태원 특별법, 조사위에 영장청구권 준다?]]></title>
         <id>https://v.daum.net/v/20240430203114745</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240419105415038"/>
         <updated>2024-04-19T02:28:42.401Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]송종호 기자 = 식품의약품안전처는 의료기기통합정보시스템인 의료기기안심책방을 통해 수동휠체어를 직접 사용하는 환자·장애인 등 사용자와 보조자가 안전하게 사용할 수 있도록 관련 정보를 제공하고 있다. 19일 식약처에 따르면 수동휠체어 사용 전·후로 청결을 유지하고 타이어 마모·공기압 상태와 본체와 부품의 볼트·너트 조임을 확인하는 것이 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자격증도 없는데 “관광 안내하라”...가짜 가이드 내세운 여행사 최후 [여행 팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240418230001974</id>
-        <link href="https://v.daum.net/v/20240418230001974"/>
-        <updated>2024-04-18T14:17:51.034Z</updated>
-        <content type="html"><![CDATA[A씨는 여행 시작 전 가이드 투어를 알아보다가 여행사 홈페이지에서 자격증을 여럿 보유한 가이드를 찾았다. 전문성을 믿고 신청해 투어에 참가했는데, 가이드가 투어 내내 잘못된 정보를 알려줬다. 알고 보니 허위 사실을 홈페이지에 올려둔 것이었고 자격증이 없는 가이드였다.가이드 투어 중 가이드가 잘못된 내용을 안내해 논란이 되는 경우가 종종 발생한다. 큰마음]]></content>
     </entry>
 </feed>

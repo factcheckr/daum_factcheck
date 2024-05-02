@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2024-05-02T02:28:44.723Z</updated>
+    <updated>2024-05-02T03:25:26.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실']]></title>
+        <id>https://v.daum.net/v/20240502120602395</id>
+        <link href="https://v.daum.net/v/20240502120602395"/>
+        <updated>2024-05-02T03:25:15.941Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 지난 12일 오전 비례대표 당선인들과 함께 현충탑 참배를 위해 서울 동작구 국립서울현충원에 도착하고 있다.ⓒ 공동취재사진[검증대상] "원내교섭단체 20석 기준 유신 이후 변경" 조국 대표 발언 22대 총선에서 12석을 확보한 조국혁신당이 공동교섭단체 구성을 추진하고 있는 가운데, 조국 대표가 현재 최소 의석 기준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 사진 사용, 수도권 당선자 6명...어디?]]></title>
         <id>https://v.daum.net/v/20240416070602417</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240214095400794"/>
         <updated>2024-02-14T01:16:31.078Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;한동훈 국민의힘 비상대책위원장이 13일 서울 오전 서울 여의도 국민의힘 중앙당사에서 열린 비상대책위원회의에 참석해 모두발언을 하고 있다.ⓒ 유성호&nbsp; [기사수정: 14일 오후 2시 38분] [검증대상] 한동훈 비대위원장 "조국, 병립형에선 절대 국회의원 배지 달 수 없다"&nbsp; 한동훈 국민의힘 비상대책위원장이 지난 13일 신당 창당을 선언한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산하면 1억 주는 부영, 6년 전 육아휴직자 수 따져보니...]]></title>
-        <id>https://v.daum.net/v/20240208210002315</id>
-        <link href="https://v.daum.net/v/20240208210002315"/>
-        <updated>2024-02-08T12:32:56.960Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;부영그룹이 5일 서울시 중구 부영태평빌딩 컨벤션홀에서 ‘2024년 시무식’을 진행하고 있다. 이중근 부영그룹 회장은 이날 2021년 이후 출산한 직원 자녀 70명에게 출산장려금 1억 원씩 총 70억 원을 지급하고 셋째까지 출산한 임직원 가정에는 국가로부터 토지가 제공된다면 임차인의 조세 부담이 없고 유지보수 책임이 없는 국민주택을 제공]]></content>
     </entry>
 </feed>
