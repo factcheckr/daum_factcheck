@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-02T10:21:40.630Z</updated>
+    <updated>2024-05-02T11:16:45.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] "홍대거리 영상에 내 모습이"…촬영자 처벌할 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20240502200554568</id>
+        <link href="https://v.daum.net/v/20240502200554568"/>
+        <updated>2024-05-02T11:15:45.433Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 유명한 거리의 모습 등 국내 명소를 찍어 올리는 영상이 최근 온라인에서 인기를 얻고 있습니다. 그런데 일부 영상들에는 동의를 구하지 않고 다른 사람의 얼굴과 신체 등을 촬영한 경우도 있었는데, 이 경우 촬영자가 처벌의 대상이 될지 이한나 기자가 사실확인에서 알아봤습니다. 【 기자 】 구독자 약 10만 명을 보유한 한 유튜브 채널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240502120602395</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240419210307489"/>
         <updated>2024-04-19T13:21:19.420Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 마시면 취한 느낌이 드는 데, 알코올은 들어 있지 않은 술이 나와서 논란이 되고 있다는 소식 어제(18일) 전해 드렸습니다. 음주 단속에도 걸리지 않는데 이거 위험한 거 아니냐, 혹시 무슨 마약 성분 든 거 아니냐, 이런 궁금증도 꼬리를 물고 이어졌습니다. 그래서 저희가 술의 성분을 더 취재해 봤습니다. 팩트 체크 사실은 코너 박세용 기자입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수동 휠체어, '이렇게' 사용하면 안전합니다[리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240419105415038</id>
-        <link href="https://v.daum.net/v/20240419105415038"/>
-        <updated>2024-04-19T02:28:42.401Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]송종호 기자 = 식품의약품안전처는 의료기기통합정보시스템인 의료기기안심책방을 통해 수동휠체어를 직접 사용하는 환자·장애인 등 사용자와 보조자가 안전하게 사용할 수 있도록 관련 정보를 제공하고 있다. 19일 식약처에 따르면 수동휠체어 사용 전·후로 청결을 유지하고 타이어 마모·공기압 상태와 본체와 부품의 볼트·너트 조임을 확인하는 것이 중]]></content>
     </entry>
 </feed>
