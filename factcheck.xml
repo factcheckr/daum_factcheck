@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-03T11:16:51.698Z</updated>
+    <updated>2024-05-03T12:34:17.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 채상병 특검법이 나쁜 선례 남긴다?]]></title>
+        <id>https://v.daum.net/v/20240503202517952</id>
+        <link href="https://v.daum.net/v/20240503202517952"/>
+        <updated>2024-05-03T12:33:15.774Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 채상병 특검법을 반대하는 대통령실과 여당은 주로 절차적인 문제를 지적하고 있습니다. 특검의 도입 시점과 법안 통과 과정 등이 적절하지 않아, 이대로 시행되면 나쁜 선례를 남기게 된다는 건데요. 맞는 얘기인지, 팩트체크 알고보니에서 따져봤습니다. ◀ 리포트 ▶ 대통령실과 여당은 우선 경찰과 공수처에서 채상병 사건을 수사중이라며,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] "홍대거리 영상에 내 모습이"…촬영자 처벌할 수 있을까?]]></title>
         <id>https://v.daum.net/v/20240502200554568</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240420043054765"/>
         <updated>2024-04-19T20:18:46.824Z</updated>
         <content type="html"><![CDATA["4·16세월호참사 피해자 의료지원금이 외상 후 스트레스장애(PTSD) 등 심리치료 및 트라우마(심리적 외상) 추적관찰 취지와 달리 치과·한방치료에 편중됐다." 의료비 지원기한을 5년 연장하는 내용을 담은 세월호피해지원법 개정안이 18일 야당 단독으로 본회의에 회부되자 해양수산부가 강한 유감을 표명하며 밝힌 사유다. 해수부는 관련 수치까지 밝히며 반발했는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 몽롱한데 음주측정은 0%…술에 어떤 성분 있길래]]></title>
-        <id>https://v.daum.net/v/20240419210307489</id>
-        <link href="https://v.daum.net/v/20240419210307489"/>
-        <updated>2024-04-19T13:21:19.420Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 마시면 취한 느낌이 드는 데, 알코올은 들어 있지 않은 술이 나와서 논란이 되고 있다는 소식 어제(18일) 전해 드렸습니다. 음주 단속에도 걸리지 않는데 이거 위험한 거 아니냐, 혹시 무슨 마약 성분 든 거 아니냐, 이런 궁금증도 꼬리를 물고 이어졌습니다. 그래서 저희가 술의 성분을 더 취재해 봤습니다. 팩트 체크 사실은 코너 박세용 기자입니다.]]></content>
     </entry>
 </feed>
