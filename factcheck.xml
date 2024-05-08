@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-08T11:18:51.885Z</updated>
+    <updated>2024-05-08T12:37:39.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 담배·커피타임은 근로시간?…노동부에 물어보니]]></title>
+        <id>https://v.daum.net/v/20240508210907479</id>
+        <link href="https://v.daum.net/v/20240508210907479"/>
+        <updated>2024-05-08T12:35:25.968Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 직원들이 담배를 피우거나 커피를 마시려고 몇 분 이상 자리를 비우면 그걸 근무시간에서 빼는 회사가 있습니다. 이 소식이 알려지자 당연하다는 반응과 함께 너무 야박하다는 목소리도 있었습니다. 어디까지를 일하는 시간으로 봐야 할지 팩트체크 사실은 코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 한 게임회사 직원들이 담배를 피우는 곳입니다. 사무]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 채상병 특검법이 나쁜 선례 남긴다?]]></title>
         <id>https://v.daum.net/v/20240503202517952</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240422192513014"/>
         <updated>2024-04-22T11:15:54.860Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령이 오는 6월 이탈리아 G7 정상회의에 초청받지 못하자 정치권에서 '외교 실패'란 지적이 나오며 공방이 벌어졌습니다. 이걸 놓고 대통령실은 "유럽이 의장국일 때는 아프리카 국가들 위주로 초청해 왔다"고 설명했는데, 따져보니 반은 맞고 반은 틀린 주장이었습니다. 윤샘이나 기자가 팩트체크했습니다. [기자] 해마다 열리는 G7 정상회의에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 세월호 피해자 의료지원, 치과·한방치료 많으면 안 되나?]]></title>
-        <id>https://v.daum.net/v/20240420043054765</id>
-        <link href="https://v.daum.net/v/20240420043054765"/>
-        <updated>2024-04-19T20:18:46.824Z</updated>
-        <content type="html"><![CDATA["4·16세월호참사 피해자 의료지원금이 외상 후 스트레스장애(PTSD) 등 심리치료 및 트라우마(심리적 외상) 추적관찰 취지와 달리 치과·한방치료에 편중됐다." 의료비 지원기한을 5년 연장하는 내용을 담은 세월호피해지원법 개정안이 18일 야당 단독으로 본회의에 회부되자 해양수산부가 강한 유감을 표명하며 밝힌 사유다. 해수부는 관련 수치까지 밝히며 반발했는데]]></content>
     </entry>
 </feed>
