@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-09T11:20:05.671Z</updated>
+    <updated>2024-05-09T12:35:49.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 말대로 금투세 도입 땐 증시 자금 이탈할까[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240509205446372</id>
+        <link href="https://v.daum.net/v/20240509205446372"/>
+        <updated>2024-05-09T12:34:39.552Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에서 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 야당도 집권 시기 수사 중인 특검은 반대했다?]]></title>
         <id>https://v.daum.net/v/20240509201315633</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240428232100268"/>
         <updated>2024-04-28T15:18:46.866Z</updated>
         <content type="html"><![CDATA[[열린라디오YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 04월 13일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 송영훈 뉴스톱 기자 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘)&gt; 지난&nbsp;한 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 민주유공자법, 운동권 '셀프 특혜' 주는 법이다?]]></title>
-        <id>https://v.daum.net/v/20240425194414687</id>
-        <link href="https://v.daum.net/v/20240425194414687"/>
-        <updated>2024-04-25T11:15:37.109Z</updated>
-        <content type="html"><![CDATA[[앵커] '민주유공자법'을 민주당이 단독으로 본회의로 올린 걸 두고 여당에서 거센 반대가 이어지고 있습니다. '운동권 인사들이 '셀프 특혜'를 주려는 법이다', '가짜 유공자를 양산하는 법'이라며 반대하고 있는 건데, 사실인지 법안 내용을 김재현 기자가 팩트체크해드립니다. [기자] 민주유공자법은 민주화운동 과정에서 사망·행방불명되거나 부상을 입은 인사들 가]]></content>
     </entry>
 </feed>
