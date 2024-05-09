@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-09T07:20:31.996Z</updated>
+    <updated>2024-05-09T08:25:21.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령이 거론한 대만은 정말 금투세 때문에 증시가 폭락했나?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240509165025563</id>
+        <link href="https://v.daum.net/v/20240509165025563"/>
+        <updated>2024-05-09T08:23:24.397Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]]]></title>
         <id>https://v.daum.net/v/20240508210907479</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240425043005691"/>
         <updated>2024-04-24T20:19:23.250Z</updated>
         <content type="html"><![CDATA[더불어민주당이 23일 국회 본회의에 직회부한 '민주유공자 예우에 관한 법률안'(민주유공자법)을 둘러싼 논란이 가라앉지 않고 있다. 여당은 '운동권 셀프 특혜법'이라며 강도 높게 비판하고 있고, 정부도 적극적으로 반대하고 있다. 반면, 민주당은 민주유공자에 대한 최소한의 명예회복이 필요하다는 입장이다. 민주유공자법을 둘러싼 논란에 대해 정확한 사실관계를 짚었]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] G7 초청 무산에…"유럽 의장국 주로 아프리카 초청"]]></title>
-        <id>https://v.daum.net/v/20240422192513014</id>
-        <link href="https://v.daum.net/v/20240422192513014"/>
-        <updated>2024-05-09T01:19:18.118Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 오는 6월 이탈리아 G7 정상회의에 초청받지 못하자 정치권에서 '외교 실패'란 지적이 나오며 공방이 벌어졌습니다. 이걸 놓고 대통령실은 "유럽이 의장국일 때는 아프리카 국가들 위주로 초청해 왔다"고 설명했는데, 따져보니 반은 맞고 반은 틀린 주장이었습니다. 윤샘이나 기자가 팩트체크했습니다. [기자] 해마다 열리는 G7 정상회의에는]]></content>
     </entry>
 </feed>

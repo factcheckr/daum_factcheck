@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2024-05-09T07:20:32.006Z</updated>
+    <updated>2024-05-09T08:25:21.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령이 거론한 대만은 정말 금투세 때문에 증시가 폭락했나?]]></title>
+        <id>https://v.daum.net/v/20240509165025563</id>
+        <link href="https://v.daum.net/v/20240509165025563"/>
+        <updated>2024-05-09T08:25:05.651Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 “준연동형이라 조국 배지 달 것”…근거는?]]></title>
         <id>https://v.daum.net/v/20240213163958843</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230322172754057"/>
         <updated>2023-03-22T09:19:53.407Z</updated>
         <content type="html"><![CDATA[윤석열 대통령이 21일 국무회의에서 주도적이고 전향적인 한·일관계 개선을 주장하며 1960년대 프랑스와 독일의 화해, 1972년 중국과 일본의 국교정상화 사례를 들었다. 하지만 전쟁 가해국이었던 독일은 과거사와 관련해 프랑스에 진정성을 갖고 일관되게 사과했고, 일본도 중국에 전쟁 책임을 반성한다고 명시적으로 밝혔다는 점에서 현재 한·일관계에 대입하는 것은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정재 “노무현 ‘대일 청구권 없다’ 발언” 주장···보수단체 성명문 인용]]></title>
-        <id>https://v.daum.net/v/20230321155107489</id>
-        <link href="https://v.daum.net/v/20230321155107489"/>
-        <updated>2023-03-21T07:19:06.237Z</updated>
-        <content type="html"><![CDATA[친윤석열계인 김정재 국민의힘 의원이 일제 강제동원(징용)과 관련해 “ ‘개인의 청구권은 없다’, ‘일본에 대한 대일 청구권은 없다’고 노무현 대통령께서 직접 얘기했다”고 한 발언은 사실과 다른 보수단체의 성명문 내용을 인용한 것으로 21일 확인됐다. 국민의힘은 이날 강제동원(징용) 피해자에 대한 윤석열 정부의 ‘제3자 변제’ 방안이 노무현 정부 방식과 유사]]></content>
     </entry>
 </feed>
