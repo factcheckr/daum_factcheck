@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-16T10:21:04.103Z</updated>
+    <updated>2024-05-16T11:18:21.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱 효과'…과학적 근거 있을까?]]></title>
+        <id>https://v.daum.net/v/20240516200556810</id>
+        <link href="https://v.daum.net/v/20240516200556810"/>
+        <updated>2024-05-16T11:17:27.348Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["중고거래도 세금 뗀다고요?" 펄쩍…혹시 나도? [사실은]]]></title>
         <id>https://v.daum.net/v/20240515204206625</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240430203114745"/>
         <updated>2024-04-30T12:34:30.484Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 얇은 담배는 덜 해로울까... 低타르 마케팅에 감춰진 진실]]></title>
-        <id>https://v.daum.net/v/20240430060143217</id>
-        <link href="https://v.daum.net/v/20240430060143217"/>
-        <updated>2024-04-29T21:17:10.458Z</updated>
-        <content type="html"><![CDATA[‘0.1mg’ ‘0.5mg’. 담뱃갑에 표기된 타르 ‘함량’은 흡연자들이 담배를 선택하는 기준 중 하나다. 다수의 흡연자는 함량이 낮은 담배를 상대적으로 순한 담배로 인식하고 이를 구매한다. 슬림형 담배의 인기가 이를 방증한다. 지름이 기존 담배보다 작은 슬림형 담배는 대부분이 타르 함량이 1.0mg인 저(低)타르 담배로, 국내 시장 점유율이 절반에 육박한]]></content>
     </entry>
 </feed>
