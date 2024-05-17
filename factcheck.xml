@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-17T11:17:46.835Z</updated>
+    <updated>2024-05-17T12:35:36.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240517204812804</id>
+        <link href="https://v.daum.net/v/20240517204812804"/>
+        <updated>2024-05-17T12:34:30.655Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 요즘 아파트 단지나 주차장 입구를 입주민이 차로 막고 사라지는 일이 잇따르고 있죠. 최근 인천에서 이런 차량을 경찰이 강제로 견인하면서 속 시원하다는 반응이 많았습니다. 당연한 조치 같지만 과거에는 그러지 못했는데 이번에는 어떻게 가능했던 건지 팩트 체크 사실은 코너에서 박세용 기자가 확인해봤습니다. &lt;기자&gt; 인천의 한 아파트. 방문 차량이 드나드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱(Earthing) 효과'…과학적 근거 있을까?]]></title>
         <id>https://v.daum.net/v/20240517092949946</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240502200554568"/>
         <updated>2024-05-02T11:15:45.433Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 유명한 거리의 모습 등 국내 명소를 찍어 올리는 영상이 최근 온라인에서 인기를 얻고 있습니다. 그런데 일부 영상들에는 동의를 구하지 않고 다른 사람의 얼굴과 신체 등을 촬영한 경우도 있었는데, 이 경우 촬영자가 처벌의 대상이 될지 이한나 기자가 사실확인에서 알아봤습니다. 【 기자 】 구독자 약 10만 명을 보유한 한 유튜브 채널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원내교섭단체 20석, 박정희 유신 이후 변경" 조국 주장 '사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240502120602395</id>
-        <link href="https://v.daum.net/v/20240502120602395"/>
-        <updated>2024-05-02T03:24:23.318Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 지난 12일 오전 비례대표 당선인들과 함께 현충탑 참배를 위해 서울 동작구 국립서울현충원에 도착하고 있다.ⓒ 공동취재사진[검증대상] "원내교섭단체 20석 기준 유신 이후 변경" 조국 대표 발언 22대 총선에서 12석을 확보한 조국혁신당이 공동교섭단체 구성을 추진하고 있는 가운데, 조국 대표가 현재 최소 의석 기준]]></content>
     </entry>
 </feed>
