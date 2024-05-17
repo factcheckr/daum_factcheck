@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-16T23:20:20.810Z</updated>
+    <updated>2024-05-17T01:23:34.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱(Earthing) 효과'…과학적 근거 있을까?]]></title>
+        <id>https://v.daum.net/v/20240517092949946</id>
+        <link href="https://v.daum.net/v/20240517092949946"/>
+        <updated>2024-05-17T01:22:24.682Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱 효과'…과학적 근거 있을까?]]></title>
         <id>https://v.daum.net/v/20240516200556810</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240502120602395"/>
         <updated>2024-05-02T03:24:23.318Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 지난 12일 오전 비례대표 당선인들과 함께 현충탑 참배를 위해 서울 동작구 국립서울현충원에 도착하고 있다.ⓒ 공동취재사진[검증대상] "원내교섭단체 20석 기준 유신 이후 변경" 조국 대표 발언 22대 총선에서 12석을 확보한 조국혁신당이 공동교섭단체 구성을 추진하고 있는 가운데, 조국 대표가 현재 최소 의석 기준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 이태원 특별법, 조사위에 영장청구권 준다?]]></title>
-        <id>https://v.daum.net/v/20240430203114745</id>
-        <link href="https://v.daum.net/v/20240430203114745"/>
-        <updated>2024-04-30T12:34:30.484Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
     </entry>
 </feed>
