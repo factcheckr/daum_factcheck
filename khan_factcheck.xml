@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2024-05-20T06:27:40.296Z</updated>
+    <updated>2024-05-20T07:21:00.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘, 수사 중이라 특검 거부?···3년 전엔 수사 초부터 “대장동 특검”]]></title>
+        <id>https://v.daum.net/v/20240520152920342</id>
+        <link href="https://v.daum.net/v/20240520152920342"/>
+        <updated>2024-05-20T07:20:43.594Z</updated>
+        <content type="html"><![CDATA[추경호 국민의힘 원내대표는 20일 해병대 채 상병 특검법과 관련해 수사 중인 사안이라는 점, 여야 합의가 안됐다는 점 등을 이유로 “찬성할 수 없다”고 밝혔다. 윤석열 대통령의 재의요구권(거부권) 행사가 오는 21일 예상되는 상황에서 명분 쌓기에 나선 것으로 풀이된다. 하지만 특검법 반대를 위해 국민의힘이 내놓은 주장은 대체로 사실과 부합하지 않거나 과거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 말대로 금투세 도입 땐 증시 자금 이탈할까]]></title>
         <id>https://v.daum.net/v/20240509205446372</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230529211600128"/>
         <updated>2023-05-29T12:36:16.365Z</updated>
         <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야 주장을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 ‘오염수 방류 문제 없다’ 보고서 냈고, 국민의힘은 야당 때 반대했다?]]></title>
-        <id>https://v.daum.net/v/20230529060157888</id>
-        <link href="https://v.daum.net/v/20230529060157888"/>
-        <updated>2023-05-28T21:16:12.798Z</updated>
-        <content type="html"><![CDATA[여야가 일본 정부의 후쿠시마 원전 오염수 방류 결정에 대한 대응을 두고 서로 ‘내로남불’이라고 비판하고 있다. 국민의힘은 “문재인 정부도 일본의 오염수 방류에 미온적으로 대응했는데 민주당이 야당이 되니 괴담을 선동한다”는 취지로 비판했다. 민주당은 국민의힘이 야당이던 시절에는 오염수 방류에 반대했다면서 “그땐 틀리고 지금은 맞냐”고 반박했다. 여야의 주장을]]></content>
     </entry>
 </feed>
