@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-21T11:20:25.477Z</updated>
+    <updated>2024-05-21T12:37:10.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] KC인증이면 안전하다?]]></title>
+        <id>https://v.daum.net/v/20240521202515493</id>
+        <link href="https://v.daum.net/v/20240521202515493"/>
+        <updated>2024-05-21T12:36:06.875Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부는 해외 직구 제품에 대해 KC인증을 의무화하려 했던 이유에 대해 이틀 전 이렇게 설명했습니다. [김상모/국가기술표준원 제품안전정책국장 (지난 19일)] "KC 인증을 받은 제품이 안전하다고 확인이 되기 때문에 (인증 없는) 그런 제품을 차단하는 방안을 제시했었습니다." KC인증을 받은 제품은 안전하다는 정부의 설명, 얼마나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20240521185542371</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240509165025563"/>
         <updated>2024-05-09T08:23:24.397Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담배·커피타임은 근로시간?…노동부에 물어보니 [사실은]]]></title>
-        <id>https://v.daum.net/v/20240508210907479</id>
-        <link href="https://v.daum.net/v/20240508210907479"/>
-        <updated>2024-05-08T12:35:25.968Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 직원들이 담배를 피우거나 커피를 마시려고 몇 분 이상 자리를 비우면 그걸 근무시간에서 빼는 회사가 있습니다. 이 소식이 알려지자 당연하다는 반응과 함께 너무 야박하다는 목소리도 있었습니다. 어디까지를 일하는 시간으로 봐야 할지 팩트체크 사실은 코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 한 게임회사 직원들이 담배를 피우는 곳입니다. 사무]]></content>
     </entry>
 </feed>

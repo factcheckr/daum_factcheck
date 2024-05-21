@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T11:20:25.495Z</updated>
+    <updated>2024-05-21T12:37:10.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] KC인증이면 안전하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240521202515493</id>
+        <link href="https://v.daum.net/v/20240521202515493"/>
+        <updated>2024-05-21T12:36:06.875Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부는 해외 직구 제품에 대해 KC인증을 의무화하려 했던 이유에 대해 이틀 전 이렇게 설명했습니다. [김상모/국가기술표준원 제품안전정책국장 (지난 19일)] "KC 인증을 받은 제품이 안전하다고 확인이 되기 때문에 (인증 없는) 그런 제품을 차단하는 방안을 제시했었습니다." KC인증을 받은 제품은 안전하다는 정부의 설명, 얼마나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240521185542371</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240509165025563"/>
         <updated>2024-05-09T08:23:24.397Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시 자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담배·커피타임은 근로시간?…노동부에 물어보니 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240508210907479</id>
-        <link href="https://v.daum.net/v/20240508210907479"/>
-        <updated>2024-05-08T12:35:25.968Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 직원들이 담배를 피우거나 커피를 마시려고 몇 분 이상 자리를 비우면 그걸 근무시간에서 빼는 회사가 있습니다. 이 소식이 알려지자 당연하다는 반응과 함께 너무 야박하다는 목소리도 있었습니다. 어디까지를 일하는 시간으로 봐야 할지 팩트체크 사실은 코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 한 게임회사 직원들이 담배를 피우는 곳입니다. 사무]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 최근 전국에 여러 지점을 두고 있는 유명 탕후루 업체가 다른 가게를 고소하는 일이 있었습니다. 업체만의 비법을 도용했다는 건데요. 이 사례와 비슷한 고소 사건들이 많은데, 어디까지가 도용인 건지, 팩트 체크 사실은 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 대형 프랜차이즈 탕후루 업체 대표가 다른 가게를 고소한 뒤 공개한 영상입니다. 도용당해]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KC인증이면 안전하다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240521202515493</id>
+        <link href="https://v.daum.net/v/20240521202515493"/>
+        <updated>2024-05-21T12:36:25.655Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부는 해외 직구 제품에 대해 KC인증을 의무화하려 했던 이유에 대해 이틀 전 이렇게 설명했습니다. [김상모/국가기술표준원 제품안전정책국장 (지난 19일)] "KC 인증을 받은 제품이 안전하다고 확인이 되기 때문에 (인증 없는) 그런 제품을 차단하는 방안을 제시했었습니다." KC인증을 받은 제품은 안전하다는 정부의 설명, 얼마나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[야당도 집권 시기 수사 중인 특검은 반대했다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20240509201315633</id>
         <link href="https://v.daum.net/v/20240509201315633"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20240119201609227"/>
         <updated>2024-01-25T14:19:06.488Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 용산참사가 일어난 지 15년이 지났지만, 유족들은 여전히 거리에서 '책임자 처벌'을 외치고 있습니다. "진상규명 책임자를 처벌하라!" 왜 유족들의 요구는 15년째 그대로인 건지, 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ 용산참사 당시 현장에는 농성이 시작된 지 불과 하루 만에 경찰특공대가 투입됐습니다. 지휘 책임자인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원참사 특별법, 야당과 유족 맘대로? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20240110200406966</id>
-        <link href="https://v.daum.net/v/20240110200406966"/>
-        <updated>2024-01-25T14:19:06.491Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사 발생 1년 2개월 만에 국회를 통과한 '이태원참사 특별법'은 여당 의원들의 퇴장 속에 처리됐습니다. 여당은 특별법에 대해 계속해서 여러 비판을 내놓고 있는데요. 무엇이 진실이고, 거짓인지 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 여당은 특별법에 따라 만들어질 '특별조사위원회'가 야당과 유가족 맘대로 구성될 수]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘상급종합병원·물류비·버스요금’…실현 가능한 공약? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
