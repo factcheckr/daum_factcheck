@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-21T22:19:32.131Z</updated>
+    <updated>2024-05-21T23:20:52.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수사중 특검 불가? 윤 대통령이 팀장 맡은 국정농단 특검도 ‘수사중’ 도입]]></title>
+        <id>https://v.daum.net/v/20240522050502870</id>
+        <link href="https://v.daum.net/v/20240522050502870"/>
+        <updated>2024-05-21T23:19:57.525Z</updated>
+        <content type="html"><![CDATA[(☞한겨레 뉴스레터 H:730 구독하기. 검색창에 ‘한겨레 h730’을 쳐보세요.) 21일 윤석열 대통령이 ‘순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안’(채 상병 특검법)에 재의요구권(거부권)을 행사한 것을 두고 대통령실과 여당은 “특검법이 헌법 정신에 부합하지 않는다”며 거부권 행사의 불가피성을 강조했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] KC인증이면 안전하다?]]></title>
         <id>https://v.daum.net/v/20240521202515493</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240509201315633"/>
         <updated>2024-05-09T11:17:02.543Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령은 특검은 기존 수사에 문제가 있을 때 하는 거라며 반대 입장을 분명히 했습니다. 그러면서 야당도 집권 시기에는 수사 중인 사건에 대한 특검을 늘 반대했다고 말했는데요. 팩트체크 &lt;알고보니&gt;에서 사실을 확인해 봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ [윤석열 대통령] "야당도 집권 시기에 어떤 특검 여론이 비등했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령이 거론한 대만은 정말 금투세 때문에 증시가 폭락했나?[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240509165025563</id>
-        <link href="https://v.daum.net/v/20240509165025563"/>
-        <updated>2024-05-09T08:23:24.397Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시 자]]></content>
     </entry>
 </feed>
