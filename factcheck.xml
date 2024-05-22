@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T19:17:03.276Z</updated>
+    <updated>2024-05-22T20:23:32.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이란 대통령이 탔던 헬기, 서방 제재 탓에 추락했다?]]></title>
+        <id>https://v.daum.net/v/20240523050520109</id>
+        <link href="https://v.daum.net/v/20240523050520109"/>
+        <updated>2024-05-22T20:20:31.581Z</updated>
+        <content type="html"><![CDATA[에브라힘 라이시 이란 대통령이 사망 당시 탑승했던 추락 헬리콥터에 노후화에 따른 기술적 결함이 있었다는 사실이 밝혀지면서 이란의 항공기 운용 실태가 주목받고 있다. 서방의 제재로 대통령 헬기조차 정상적인 유지 보수가 어려웠을 가능성도 제기됐다. 이란 국영 IRNA 통신은 사고 다음 날 “라이시 대통령은 ‘기술적 고장(technical failure)’으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
         <id>https://v.daum.net/v/20240522214934829</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240517204812804"/>
         <updated>2024-05-17T12:34:30.655Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 요즘 아파트 단지나 주차장 입구를 입주민이 차로 막고 사라지는 일이 잇따르고 있죠. 최근 인천에서 이런 차량을 경찰이 강제로 견인하면서 속 시원하다는 반응이 많았습니다. 당연한 조치 같지만 과거에는 그러지 못했는데 이번에는 어떻게 가능했던 건지 팩트 체크 사실은 코너에서 박세용 기자가 확인해봤습니다. &lt;기자&gt; 인천의 한 아파트. 방문 차량이 드나드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱(Earthing) 효과'…과학적 근거 있을까?]]></title>
-        <id>https://v.daum.net/v/20240517092949946</id>
-        <link href="https://v.daum.net/v/20240517092949946"/>
-        <updated>2024-05-17T01:22:24.682Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
     </entry>
 </feed>
