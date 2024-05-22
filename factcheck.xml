@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T09:23:34.155Z</updated>
+    <updated>2024-05-22T10:21:40.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240522183600085</id>
+        <link href="https://v.daum.net/v/20240522183600085"/>
+        <updated>2024-05-22T10:20:46.582Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ &nbsp;내년도 최저임금을 심의할 최저임금위원회 첫 전원회의가 열린 지난 21일 오전 정부세종청사 최저임금위원회에서 근로자위원인 전지현 전국돌봄서비스노조 위원장이 "최저임금 차등 적용 결사반대!!"라고 적힌 조끼를 입고 있다.ⓒ 연합뉴스&nbsp; [검증대상] "선진국에선 업종별로 최저임금 낮출 수 있다" 경영계 주장 2025년도 최저임금을 결정할 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수사중 특검 불가? 윤 대통령이 팀장 맡은 국정농단 특검도 ‘수사중’ 도입]]></title>
         <id>https://v.daum.net/v/20240522050502870</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240509205446372"/>
         <updated>2024-05-09T12:34:39.552Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에서 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 야당도 집권 시기 수사 중인 특검은 반대했다?]]></title>
-        <id>https://v.daum.net/v/20240509201315633</id>
-        <link href="https://v.daum.net/v/20240509201315633"/>
-        <updated>2024-05-09T11:17:02.543Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령은 특검은 기존 수사에 문제가 있을 때 하는 거라며 반대 입장을 분명히 했습니다. 그러면서 야당도 집권 시기에는 수사 중인 사건에 대한 특검을 늘 반대했다고 말했는데요. 팩트체크 &lt;알고보니&gt;에서 사실을 확인해 봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ [윤석열 대통령] "야당도 집권 시기에 어떤 특검 여론이 비등했]]></content>
     </entry>
 </feed>
