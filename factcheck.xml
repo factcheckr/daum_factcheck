@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T12:37:49.365Z</updated>
+    <updated>2024-05-22T13:22:58.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
+        <id>https://v.daum.net/v/20240522214934829</id>
+        <link href="https://v.daum.net/v/20240522214934829"/>
+        <updated>2024-05-22T13:21:48.712Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통 [사실은]]]></title>
         <id>https://v.daum.net/v/20240522203606585</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240517092949946</id>
         <link href="https://v.daum.net/v/20240517092949946"/>
         <updated>2024-05-17T01:22:24.682Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 맨발 걷기 '어싱 효과'…과학적 근거 있을까?]]></title>
-        <id>https://v.daum.net/v/20240516200556810</id>
-        <link href="https://v.daum.net/v/20240516200556810"/>
-        <updated>2024-05-16T11:17:27.348Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
     </entry>
 </feed>
