@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T10:21:40.333Z</updated>
+    <updated>2024-05-22T11:19:23.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
+        <id>https://v.daum.net/v/20240522193512339</id>
+        <link href="https://v.daum.net/v/20240522193512339"/>
+        <updated>2024-05-22T11:18:18.786Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["선진국은 업종별로 최저임금 낮춘다?" 경영계 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240522183600085</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240515204206625"/>
         <updated>2024-05-15T12:37:04.740Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 최근 중고거래를 한 일부 사람들에게&nbsp;국세청이&nbsp;세금을 내라고 안내문을 보냈습니다. 중고거래에 대한&nbsp;세금 부과 자체가 생소해서,&nbsp;혹시 자신도 세금을 내는 거 아닌지&nbsp;혼란스러워하는 사람들이 많은데요. 그 기준이 뭔지 팩트체크 사실운 코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 국세청이 중고거래 앱 이용자들에게 보낸 종합소득세 안내문입니다. 내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 말대로 금투세 도입 땐 증시 자금 이탈할까[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240509205446372</id>
-        <link href="https://v.daum.net/v/20240509205446372"/>
-        <updated>2024-05-09T12:34:39.552Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 9일 취임 2주년 기자회견에서 “금융투자소득세(금투세)를 폐지하지 않는다면 증시에서 엄청난 자금이 이탈될 것”이라고 말했다. “대만 같은 경우는 금투세를 시행하겠다는 발표만 했다가 증시가 난리가 나고 막대한 자금 이탈이 돼서 결국 추진을 못했다”면서 “1400만 개인투자자들의 막대한 타격이 예상된다”고도 했다. 금투세를 도입하면 정말 증시]]></content>
     </entry>
 </feed>
