@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-05-22T11:19:23.316Z</updated>
+    <updated>2024-05-22T12:37:49.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통]]></title>
+        <id>https://v.daum.net/v/20240522203606585</id>
+        <link href="https://v.daum.net/v/20240522203606585"/>
+        <updated>2024-05-22T12:36:56.059Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 최근, 교차로를&nbsp;진입하기 직전에 신호가 황색 등으로 바뀌면 차를 멈춰야 한다는&nbsp;대법원 판단이 나와 논란이 일고 있습니다. 교차로 한복판에서 차를 급하게 멈추면&nbsp;더 위험하다는 지적과 함께 관련법을 개정해야 한다는 목소리도&nbsp;나오는데요 다른 나라들은 어떤지, 팩트체크&nbsp;'사실은' 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 신호등이 황색으로 바뀌는 순간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나]]></title>
         <id>https://v.daum.net/v/20240517204812804</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240219204805235"/>
         <updated>2024-02-19T12:33:05.192Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 지난 설 연휴 내내 전국에 미세먼지가 심했었죠. 비슷한 시기 춘제 연휴를 맞은 중국의 폭죽놀이 때문이라는 논란이 있었는데, 과연 사실인지 팩트체크 '사실은' 코너에서 확인해봤습니다. 박세용 기자입니다. &lt;기자&gt; 춘제를 맞아 중국 전역에서 폭죽이 쏘아 올려지고, 도심 전체가 폭죽 불꽃과 희뿌연 연기에 휩싸입니다. 비슷한 시기인 설 연휴, 서울 도심도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더 바삭한 비법 있다" 다른 가게 고소…도용 인정, 어디까지?]]></title>
-        <id>https://v.daum.net/v/20240215204805854</id>
-        <link href="https://v.daum.net/v/20240215204805854"/>
-        <updated>2024-02-15T12:31:54.931Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 최근 전국에 여러 지점을 두고 있는 유명 탕후루 업체가 다른 가게를 고소하는 일이 있었습니다. 업체만의 비법을 도용했다는 건데요. 이 사례와 비슷한 고소 사건들이 많은데, 어디까지가 도용인 건지, 팩트 체크 사실은 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 대형 프랜차이즈 탕후루 업체 대표가 다른 가게를 고소한 뒤 공개한 영상입니다. 도용당해]]></content>
     </entry>
 </feed>

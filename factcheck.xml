@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T11:19:23.319Z</updated>
+    <updated>2024-05-22T12:37:49.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240522203606585</id>
+        <link href="https://v.daum.net/v/20240522203606585"/>
+        <updated>2024-05-22T12:36:44.794Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 최근, 교차로를&nbsp;진입하기 직전에 신호가 황색 등으로 바뀌면 차를 멈춰야 한다는&nbsp;대법원 판단이 나와 논란이 일고 있습니다. 교차로 한복판에서 차를 급하게 멈추면&nbsp;더 위험하다는 지적과 함께 관련법을 개정해야 한다는 목소리도&nbsp;나오는데요 다른 나라들은 어떤지, 팩트체크&nbsp;'사실은' 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 신호등이 황색으로 바뀌는 순간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
         <id>https://v.daum.net/v/20240522193512339</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240516200556810"/>
         <updated>2024-05-16T11:17:27.348Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 공원은 물론 인근 야산에서 맨발로 걷는 사람들을 쉽게 볼 수 있는데요. 이들 중에는 맨발로 걷는 과정에서 몸에 있는 유해 물질이 배출된다는 일명 '어싱 효과'를 믿고 있는 분들이 많습니다. 그런데 이 어싱 효과, 과학적 근거가 있는 걸까요? 이한나 기자가 사실확인 해봤습니다. 【 기자 】 요즘 들어 맨발 걷기를 즐겨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["중고거래도 세금 뗀다고요?" 펄쩍…혹시 나도? [사실은]]]></title>
-        <id>https://v.daum.net/v/20240515204206625</id>
-        <link href="https://v.daum.net/v/20240515204206625"/>
-        <updated>2024-05-15T12:37:04.740Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 최근 중고거래를 한 일부 사람들에게&nbsp;국세청이&nbsp;세금을 내라고 안내문을 보냈습니다. 중고거래에 대한&nbsp;세금 부과 자체가 생소해서,&nbsp;혹시 자신도 세금을 내는 거 아닌지&nbsp;혼란스러워하는 사람들이 많은데요. 그 기준이 뭔지 팩트체크 사실운 코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 국세청이 중고거래 앱 이용자들에게 보낸 종합소득세 안내문입니다. 내]]></content>
     </entry>
 </feed>
