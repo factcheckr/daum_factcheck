@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-23T13:23:15.652Z</updated>
+    <updated>2024-05-23T14:19:28.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
         <id>https://v.daum.net/v/20240523090357910</id>
