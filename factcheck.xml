@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-22T23:22:01.810Z</updated>
+    <updated>2024-05-23T01:22:23.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
+        <id>https://v.daum.net/v/20240523090357910</id>
+        <link href="https://v.daum.net/v/20240523090357910"/>
+        <updated>2024-05-23T01:21:03.092Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란 대통령이 탔던 헬기, 서방 제재 탓에 추락했다?]]></title>
         <id>https://v.daum.net/v/20240523050520109</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240520152920342"/>
         <updated>2024-05-20T07:20:03.005Z</updated>
         <content type="html"><![CDATA[추경호 국민의힘 원내대표는 20일 해병대 채 상병 특검법과 관련해 수사 중인 사안이라는 점, 여야 합의가 안됐다는 점 등을 이유로 “찬성할 수 없다”고 밝혔다. 윤석열 대통령의 재의요구권(거부권) 행사가 오는 21일 예상되는 상황에서 명분 쌓기에 나선 것으로 풀이된다. 하지만 특검법 반대를 위해 국민의힘이 내놓은 주장은 대체로 사실과 부합하지 않거나 과거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나 [사실은]]]></title>
-        <id>https://v.daum.net/v/20240517204812804</id>
-        <link href="https://v.daum.net/v/20240517204812804"/>
-        <updated>2024-05-17T12:34:30.655Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 요즘 아파트 단지나 주차장 입구를 입주민이 차로 막고 사라지는 일이 잇따르고 있죠. 최근 인천에서 이런 차량을 경찰이 강제로 견인하면서 속 시원하다는 반응이 많았습니다. 당연한 조치 같지만 과거에는 그러지 못했는데 이번에는 어떻게 가능했던 건지 팩트 체크 사실은 코너에서 박세용 기자가 확인해봤습니다. &lt;기자&gt; 인천의 한 아파트. 방문 차량이 드나드]]></content>
     </entry>
 </feed>
