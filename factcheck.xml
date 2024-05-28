@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-05-28T04:26:22.635Z</updated>
+    <updated>2024-05-28T05:20:39.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카드주인 찾아주려 300원 결제한 학생들, '범죄행위'라고? [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240528141802519</id>
+        <link href="https://v.daum.net/v/20240528141802519"/>
+        <updated>2024-05-28T05:19:31.385Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;JIBS 제주방송은 지난 22일 방송('결제금액 '300원'...사탕 같은 달콤한 양심')에서 편의점에서 300원을 결제해 신용카드 주인을 찾아준 제주 여학생 사례를 소개했다.ⓒ JIBS 제주방송&nbsp;&nbsp; 편의점에서 300원을 결제해 잃어버린 신용카드 주인을 찾아준 여학생들 사연이 인터넷에서 큰 화제가 되고 있다. 제주중앙여자고등학교에 재학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서울역 집회 뉴스에 4년 전 광화문 집회 영상이라니... [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240527184200985</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240521202515493"/>
         <updated>2024-05-21T12:36:06.875Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부는 해외 직구 제품에 대해 KC인증을 의무화하려 했던 이유에 대해 이틀 전 이렇게 설명했습니다. [김상모/국가기술표준원 제품안전정책국장 (지난 19일)] "KC 인증을 받은 제품이 안전하다고 확인이 되기 때문에 (인증 없는) 그런 제품을 차단하는 방안을 제시했었습니다." KC인증을 받은 제품은 안전하다는 정부의 설명, 얼마나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니]]></title>
-        <id>https://v.daum.net/v/20240521185542371</id>
-        <link href="https://v.daum.net/v/20240521185542371"/>
-        <updated>2024-05-21T10:20:29.644Z</updated>
-        <content type="html"><![CDATA[[앵커] 이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다. 특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지 박병현 기자가 따져봤습니다. [기자] 법무부는 우선 특검 추천권이 민주당에 있다는 게 위헌적이라고 가장 큰 이유로 들었습니다. 대통령의 특검 임명권]]></content>
     </entry>
 </feed>
