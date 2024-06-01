@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-01T20:20:10.172Z</updated>
+    <updated>2024-06-01T21:19:48.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 공공도서관은 장애인도서관의 대안일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240602060353070</id>
+        <link href="https://v.daum.net/v/20240602060353070"/>
+        <updated>2024-06-01T21:18:20.856Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이은도 김민수 인턴기자 = 장애인도서관이 줄고 있다. 그 대신 장애인은 공공도서관에서 원하는 정보를 얻을 수 있을까. 서울점자도서관이 2023년 12월 폐관했다. 여러 언론과 장애인 단체는 장애인이 정보를 얻을 수 있는 권리가 침해될 것을 우려했다. 전지혜 인천대 사회복지학과 교수는 지난 1월 한 언론 보도에서 "시각장애인에게 점자 사업은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카드주인 찾으려 300원 결제한 학생들, '범죄행위'라고? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240528141802519</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240522050502870"/>
         <updated>2024-05-21T23:19:57.525Z</updated>
         <content type="html"><![CDATA[(☞한겨레 뉴스레터 H:730 구독하기. 검색창에 ‘한겨레 h730’을 쳐보세요.) 21일 윤석열 대통령이 ‘순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안’(채 상병 특검법)에 재의요구권(거부권)을 행사한 것을 두고 대통령실과 여당은 “특검법이 헌법 정신에 부합하지 않는다”며 거부권 행사의 불가피성을 강조했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] KC인증이면 안전하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240521202515493</id>
-        <link href="https://v.daum.net/v/20240521202515493"/>
-        <updated>2024-05-21T12:36:06.875Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부는 해외 직구 제품에 대해 KC인증을 의무화하려 했던 이유에 대해 이틀 전 이렇게 설명했습니다. [김상모/국가기술표준원 제품안전정책국장 (지난 19일)] "KC 인증을 받은 제품이 안전하다고 확인이 되기 때문에 (인증 없는) 그런 제품을 차단하는 방안을 제시했었습니다." KC인증을 받은 제품은 안전하다는 정부의 설명, 얼마나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통 (다음 뉴스 ─ SBS 사실은)]]></title>
