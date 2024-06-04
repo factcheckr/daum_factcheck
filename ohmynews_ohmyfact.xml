@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2024-06-04T10:22:40.866Z</updated>
+    <updated>2024-06-04T11:19:16.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지구당은 사회주의 국가에나 있다" 주장은 '거짓']]></title>
+        <id>https://v.daum.net/v/20240604200000902</id>
+        <link href="https://v.daum.net/v/20240604200000902"/>
+        <updated>2024-06-04T11:19:04.630Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김재원 전 국민의힘 최고위원. 지난해 3월 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하는 모습.ⓒ 남소연&nbsp; [검증대상] "지구당은 사회주의 국가에나 있다" 김재원 전 최고위원 주장 20년 전 이른바 '돈 먹는 하마', '고비용 저효율'이라는 오명을 쓰고&nbsp; 사라진 지구당은 부활할 수 있을까. 이재명 더불어민주당 대표는 지난달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카드주인 찾으려 300원 결제한 학생들, '범죄행위'라고?]]></title>
         <id>https://v.daum.net/v/20240528141802519</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240314151200910"/>
         <updated>2024-03-14T06:24:18.496Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;진보당 22대 총선 출마자들이 지난해 12월 11일 오전 서울 여의도 국회본청 앞 계단에서 기자회견을 열고 "윤석열 정권 심판의 최전선에서 싸우겠다는 각오로 총선 출마"를 선언하고 있다. ⓒ 이정민[검증대상] "'윤석열 정권 심판' 정당 현수막은 선거법 위반" 선관위 문건 중앙선거관리위원회(중앙선관위)가 제22대 총선을 앞두고 개별 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼일절 노래' 교과서대로 부른다? 역대 기념식은 '원곡' 우세]]></title>
-        <id>https://v.daum.net/v/20240306170601868</id>
-        <link href="https://v.daum.net/v/20240306170601868"/>
-        <updated>2024-03-06T08:24:39.259Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 3월 1일 서울시 중구 유관순기념관에서 열린 105주년 3.1절 기념식에서 '삼일절 노래'를 제창하고 있다. 행사장 자막에는 ‘한강 물’ 대신 ‘한강은’으로 표시됐다ⓒ KTV&nbsp; 이재명 "삼일절 노래 가사 틀렸다" vs. 행안부 "수정된 교과서 반영" '자위대'와 '하얼빈 임시정부'로 얼룩진 105주년 삼일절을 둘러싼 논란이 '삼일]]></content>
     </entry>
 </feed>
