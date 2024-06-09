@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-08T23:21:20.606Z</updated>
+    <updated>2024-06-09T01:37:32.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...?]]></title>
+        <id>https://v.daum.net/v/20240609090240486</id>
+        <link href="https://v.daum.net/v/20240609090240486"/>
+        <updated>2024-06-09T01:36:23.433Z</updated>
+        <content type="html"><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경우도 있지만 장관이나 대통령이 발표를 하는 경우도 굉장히 흔합니다. 최근의 예시를 하나 들어드리면 오바마 대통령도 서부 이스트코스트(east]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 배터리·탄소국경제·디지털여권…전문가 3인이 말하는 유럽發 규제 中企 대응 전략]]></title>
         <id>https://v.daum.net/v/20240607060044321</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240523050520109"/>
         <updated>2024-05-22T20:20:31.581Z</updated>
         <content type="html"><![CDATA[에브라힘 라이시 이란 대통령이 사망 당시 탑승했던 추락 헬리콥터에 노후화에 따른 기술적 결함이 있었다는 사실이 밝혀지면서 이란의 항공기 운용 실태가 주목받고 있다. 서방의 제재로 대통령 헬기조차 정상적인 유지 보수가 어려웠을 가능성도 제기됐다. 이란 국영 IRNA 통신은 사고 다음 날 “라이시 대통령은 ‘기술적 고장(technical failure)’으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
-        <id>https://v.daum.net/v/20240522214934829</id>
-        <link href="https://v.daum.net/v/20240522214934829"/>
-        <updated>2024-05-22T13:21:48.712Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
     </entry>
 </feed>
