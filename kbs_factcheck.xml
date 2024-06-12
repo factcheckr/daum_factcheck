@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2024-06-12T09:22:47.501Z</updated>
+    <updated>2024-06-12T10:22:15.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육아휴직 장려금 준다더니… “지원 0건”]]></title>
+        <id>https://v.daum.net/v/20240612192007994</id>
+        <link href="https://v.daum.net/v/20240612192007994"/>
+        <updated>2024-06-12T10:21:35.550Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
         <id>https://v.daum.net/v/20240523090357910</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240404060001077"/>
         <updated>2024-04-03T21:16:57.297Z</updated>
         <content type="html"><![CDATA['국민 판다'로 사랑받던 자이언트 판다 푸바오가 어제(3일) 중국으로 반환된 가운데, 왜 푸바오가 중국으로 돌아가야 했는지 아쉬움의 목소리가 큽니다. 중국의 도시화와 밀렵 등으로 판다가 멸종위기를 맞았고, 이후 중국 정부에서 개체 수 보전을 위해 판다의 번식 등을 엄격히 관리하기 때문이라고 전해드린 적 있는데요. [연관 기사] 판다가 멸종위험종이 된 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택도시기금공사·글로벌어학타운…공약 실현 가능성은?]]></title>
-        <id>https://v.daum.net/v/20240402081631097</id>
-        <link href="https://v.daum.net/v/20240402081631097"/>
-        <updated>2024-04-01T23:19:56.354Z</updated>
-        <content type="html"><![CDATA[[KBS 제주] [앵커] 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 총선 후보자 토론회에서 나온 후보들의 정책을 검증합니다. 지난주 제주시갑 후보자 토론회에서 민주당 문대림 후보는  주택도시기금공사 설립을,  국민의힘 고광철 후보는  글로벌어학타운 공약을 내세우며 서로 가능한지를 두고 공방을 벌였는데요. 임연희 기자가 이들 공약의 이면을 확인해봤습]]></content>
     </entry>
 </feed>

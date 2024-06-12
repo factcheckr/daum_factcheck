@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-12T09:22:47.598Z</updated>
+    <updated>2024-06-12T10:22:15.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니… “지원 0건” (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240612192007994</id>
+        <link href="https://v.daum.net/v/20240612192007994"/>
+        <updated>2024-06-12T10:21:03.870Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240609090240486</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240523090357910"/>
         <updated>2024-05-23T01:21:03.092Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란 대통령이 탔던 헬기, 서방 제재 탓에 추락했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240523050520109</id>
-        <link href="https://v.daum.net/v/20240523050520109"/>
-        <updated>2024-05-22T20:20:31.581Z</updated>
-        <content type="html"><![CDATA[에브라힘 라이시 이란 대통령이 사망 당시 탑승했던 추락 헬리콥터에 노후화에 따른 기술적 결함이 있었다는 사실이 밝혀지면서 이란의 항공기 운용 실태가 주목받고 있다. 서방의 제재로 대통령 헬기조차 정상적인 유지 보수가 어려웠을 가능성도 제기됐다. 이란 국영 IRNA 통신은 사고 다음 날 “라이시 대통령은 ‘기술적 고장(technical failure)’으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['갈까 말까' 딜레마존…"안 겪어보면 몰라" 판결에 분통 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 용산참사가 일어난 지 15년이 지났지만, 유족들은 여전히 거리에서 '책임자 처벌'을 외치고 있습니다. "진상규명 책임자를 처벌하라!" 왜 유족들의 요구는 15년째 그대로인 건지, 팩트체크 &lt;알고보니&gt;에서 알아봤습니다. ◀ 리포트 ▶ 용산참사 당시 현장에는 농성이 시작된 지 불과 하루 만에 경찰특공대가 투입됐습니다. 지휘 책임자인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[육아휴직 장려금 준다더니… “지원 0건” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20240612192007994</id>
+        <link href="https://v.daum.net/v/20240612192007994"/>
+        <updated>2024-06-12T10:21:35.550Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에… (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20240523090357910</id>
         <link href="https://v.daum.net/v/20240523090357910"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20240404060001077"/>
         <updated>2024-04-03T21:16:29.922Z</updated>
         <content type="html"><![CDATA['국민 판다'로 사랑받던 자이언트 판다 푸바오가 어제(3일) 중국으로 반환된 가운데, 왜 푸바오가 중국으로 돌아가야 했는지 아쉬움의 목소리가 큽니다. 중국의 도시화와 밀렵 등으로 판다가 멸종위기를 맞았고, 이후 중국 정부에서 개체 수 보전을 위해 판다의 번식 등을 엄격히 관리하기 때문이라고 전해드린 적 있는데요. [연관 기사] 판다가 멸종위험종이 된 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택도시기금공사·글로벌어학타운…공약 실현 가능성은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240402081631097</id>
-        <link href="https://v.daum.net/v/20240402081631097"/>
-        <updated>2024-04-01T23:19:56.354Z</updated>
-        <content type="html"><![CDATA[[KBS 제주] [앵커] 정책 선거를 이끌고  유권자들의 판단을 돕기 위해 총선 후보자 토론회에서 나온 후보들의 정책을 검증합니다. 지난주 제주시갑 후보자 토론회에서 민주당 문대림 후보는  주택도시기금공사 설립을,  국민의힘 고광철 후보는  글로벌어학타운 공약을 내세우며 서로 가능한지를 두고 공방을 벌였는데요. 임연희 기자가 이들 공약의 이면을 확인해봤습]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>

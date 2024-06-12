@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-12T09:22:47.502Z</updated>
+    <updated>2024-06-12T10:22:15.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니… “지원 0건”]]></title>
+        <id>https://v.daum.net/v/20240612192007994</id>
+        <link href="https://v.daum.net/v/20240612192007994"/>
+        <updated>2024-06-12T10:21:03.870Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...?]]></title>
         <id>https://v.daum.net/v/20240609090240486</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240523090357910"/>
         <updated>2024-05-23T01:21:03.092Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란 대통령이 탔던 헬기, 서방 제재 탓에 추락했다?]]></title>
-        <id>https://v.daum.net/v/20240523050520109</id>
-        <link href="https://v.daum.net/v/20240523050520109"/>
-        <updated>2024-05-22T20:20:31.581Z</updated>
-        <content type="html"><![CDATA[에브라힘 라이시 이란 대통령이 사망 당시 탑승했던 추락 헬리콥터에 노후화에 따른 기술적 결함이 있었다는 사실이 밝혀지면서 이란의 항공기 운용 실태가 주목받고 있다. 서방의 제재로 대통령 헬기조차 정상적인 유지 보수가 어려웠을 가능성도 제기됐다. 이란 국영 IRNA 통신은 사고 다음 날 “라이시 대통령은 ‘기술적 고장(technical failure)’으로]]></content>
     </entry>
 </feed>
