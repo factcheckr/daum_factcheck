@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-12T11:19:27.820Z</updated>
+    <updated>2024-06-12T12:39:08.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 석유·가스 개발로 지진 날 수 있다?]]></title>
+        <id>https://v.daum.net/v/20240612202216500</id>
+        <link href="https://v.daum.net/v/20240612202216500"/>
+        <updated>2024-06-12T12:38:00.894Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 정부가 동해 석유·가스 개발 추진을 발표한 뒤, 인접한 포항 지역을 중심으로 지진 발생을 우려하는 목소리가 나오고 있습니다. 시추 과정에서 주변 지역에 지진이 일어날 수 있다는 건데요. 실제로 석유 시추와 지진은 얼마나 연관성이 있는 건지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 네덜란드 북부에 위치한 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육아휴직 장려금 준다더니…“지원 0건” [팩트체크K]]]></title>
         <id>https://v.daum.net/v/20240612192007994</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240527184200985"/>
         <updated>2024-05-27T10:21:25.128Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;‘매불쇼’는 27일 오후 라이브 방송 도중 내보낸 지난 25일 오후 서울역과 숭례문 사이에서 열린 '야당·시민사회 공동 채상병 특검법 거부 규탄 및 통과 촉구 범국민대회' 장면 가운데 '짧은뉴스' 영상(왼쪽)은 4년 전 광화문에서 열린 ‘조국 반대’ 보수단체 집회 영상이었다. ⓒ 매불쇼&nbsp; 유튜브 구독자 170만 명을 확보한 팟빵 '매불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] ‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에…]]></title>
-        <id>https://v.daum.net/v/20240523090357910</id>
-        <link href="https://v.daum.net/v/20240523090357910"/>
-        <updated>2024-05-23T01:21:03.092Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
     </entry>
 </feed>
