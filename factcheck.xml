@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-13T11:19:36.821Z</updated>
+    <updated>2024-06-13T12:44:50.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240613205706473</id>
+        <link href="https://v.daum.net/v/20240613205706473"/>
+        <updated>2024-06-13T12:41:53.128Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이 사건에 대한 관심이 최근 커지면서, 인구 10만 명 도시인 경남 밀양을&nbsp;근거 없이 비난하는&nbsp;목소리도 있었습니다. 여행하기&nbsp;위험한 도시라며&nbsp;밀양시청에 항의 전화도 빗발치고 있습니다. 실제 밀양시의&nbsp;범죄 통계는 어떤지, 저희 팩트체크 사실은&nbsp;코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 밀양시가 지역 홍보를 위해 운영 중인 유튜브 채널,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니…“지원 0건”]]></title>
         <id>https://v.daum.net/v/20240613090457154</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240604200000902"/>
         <updated>2024-06-04T11:18:01.700Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;김재원 전 국민의힘 최고위원. 지난해 3월 20일 서울 여의도 국회에서 열린 최고위원회의에서 발언하는 모습.ⓒ 남소연&nbsp; [검증대상] "지구당은 사회주의 국가에나 있다" 김재원 전 최고위원 주장 20년 전 이른바 '돈 먹는 하마', '고비용 저효율'이라는 오명을 쓰고&nbsp; 사라진 지구당은 부활할 수 있을까. 이재명 더불어민주당 대표는 지난달]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공공도서관은 장애인도서관의 대안일까?]]></title>
-        <id>https://v.daum.net/v/20240602060353070</id>
-        <link href="https://v.daum.net/v/20240602060353070"/>
-        <updated>2024-06-01T21:18:20.856Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이은도 김민수 인턴기자 = 장애인도서관이 줄고 있다. 그 대신 장애인은 공공도서관에서 원하는 정보를 얻을 수 있을까. 서울점자도서관이 2023년 12월 폐관했다. 여러 언론과 장애인 단체는 장애인이 정보를 얻을 수 있는 권리가 침해될 것을 우려했다. 전지혜 인천대 사회복지학과 교수는 지난 1월 한 언론 보도에서 "시각장애인에게 점자 사업은]]></content>
     </entry>
 </feed>
