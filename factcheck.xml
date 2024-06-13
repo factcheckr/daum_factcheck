@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-12T23:20:48.402Z</updated>
+    <updated>2024-06-13T01:25:30.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니…“지원 0건”]]></title>
+        <id>https://v.daum.net/v/20240613090457154</id>
+        <link href="https://v.daum.net/v/20240613090457154"/>
+        <updated>2024-06-13T01:24:12.752Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니…“지원 0건”]]></title>
         <id>https://v.daum.net/v/20240612215505164</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240602060353070"/>
         <updated>2024-06-01T21:18:20.856Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 이은도 김민수 인턴기자 = 장애인도서관이 줄고 있다. 그 대신 장애인은 공공도서관에서 원하는 정보를 얻을 수 있을까. 서울점자도서관이 2023년 12월 폐관했다. 여러 언론과 장애인 단체는 장애인이 정보를 얻을 수 있는 권리가 침해될 것을 우려했다. 전지혜 인천대 사회복지학과 교수는 지난 1월 한 언론 보도에서 "시각장애인에게 점자 사업은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카드주인 찾으려 300원 결제한 학생들, '범죄행위'라고? [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240528141802519</id>
-        <link href="https://v.daum.net/v/20240528141802519"/>
-        <updated>2024-05-28T05:19:31.385Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;JIBS 제주방송은 지난 22일 방송('결제금액 '300원'...사탕 같은 달콤한 양심')에서 편의점에서 300원을 결제해 신용카드 주인을 찾아준 제주 여학생 사례를 소개했다.ⓒ JIBS 제주방송&nbsp;&nbsp; 편의점에서 300원을 결제해 잃어버린 신용카드 주인을 찾아준 여학생들 사연이 인터넷에서 큰 화제가 되고 있다(관련기사: 신용카드 주운 제]]></content>
     </entry>
 </feed>
