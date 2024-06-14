@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T08:25:23.745Z</updated>
+    <updated>2024-06-14T09:27:11.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240614175700760</id>
+        <link href="https://v.daum.net/v/20240614175700760"/>
+        <updated>2024-06-14T09:24:23.539Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 국민권익위원회 정승윤 부위원장 겸 사무처장이 10일 오후 정부세종청사에서 브리핑을 열고 윤석열 대통령의 배우자 김건희 여사가 명품 가방을 수수했다는 내용의 비위 신고 사건을 '위반 사항 없음'으로 종결 처리했다.ⓒ 연합뉴스&nbsp; [검증대상] "김건희 명품 백, 외국인 선물이라 신고 의무 없다" 정승윤 권익위 부위원장 주장 윤석열 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240614104340404</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240607060044321"/>
         <updated>2024-06-06T21:19:40.661Z</updated>
         <content type="html"><![CDATA[유럽연합(EU) 배터리 규제가 내년 하반기 본격 시행을 앞두고 있다. 작년 8월 발효된 EU 배터리법은 배터리 생산·소비 전 과정에서 발생하는 온실가스 총량을 의미하는 탄소발자국 신고와 폐배터리 수거·공급망 실사를 의무화하는 것을 골자로 한다. EU 탄소국경조정제도(CBAM)도 2026년 1월 본격 시행을 앞두고 전환 기간에 들어간 상태다. 철강·알루미늄·]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수조원 계약' 빵빵 터진다는데…'기술 이전'이 뭐예요?[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240606070036995</id>
-        <link href="https://v.daum.net/v/20240606070036995"/>
-        <updated>2024-06-05T22:19:09.160Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]송연주 기자 = 뉴스에 종종 등장하는 소식 중 '신약 수조 원 대 기술 이전' '기술 수출' 같은 거래 소식이 있다. 6일 차바이오그룹의 커뮤니케이션 채널 뉴스룸의 '알아BIO'에 따르면 기술 이전(Licensing Out)이란 축적된 고도의 기술을 타사에 이전하는 것을 의미한다. 제약바이오 업계에선 신약이 될 수 있는 우수한 후보물]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
