@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-14T01:25:20.402Z</updated>
+    <updated>2024-06-14T02:38:23.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다?]]></title>
+        <id>https://v.daum.net/v/20240614104340404</id>
+        <link href="https://v.daum.net/v/20240614104340404"/>
+        <updated>2024-06-14T02:36:18.772Z</updated>
+        <content type="html"><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?” (10일, 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]“매우 희박”…‘최대 140억 배럴 석유·가스 매장 가능성’ 접한 전문가 7인]]></title>
         <id>https://v.daum.net/v/20240614043301481</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240606070036995"/>
         <updated>2024-06-05T22:19:09.160Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]송연주 기자 = 뉴스에 종종 등장하는 소식 중 '신약 수조 원 대 기술 이전' '기술 수출' 같은 거래 소식이 있다. 6일 차바이오그룹의 커뮤니케이션 채널 뉴스룸의 '알아BIO'에 따르면 기술 이전(Licensing Out)이란 축적된 고도의 기술을 타사에 이전하는 것을 의미한다. 제약바이오 업계에선 신약이 될 수 있는 우수한 후보물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포항 검증 美 액트지오가 구멍가게? 소유주, 최대 심해 유전 ‘가이아나’ 탐사 주도]]></title>
-        <id>https://v.daum.net/v/20240605010159239</id>
-        <link href="https://v.daum.net/v/20240605010159239"/>
-        <updated>2024-06-04T16:25:26.369Z</updated>
-        <content type="html"><![CDATA[3일 윤석열 대통령이 동해 심해 가스전 탐사·개발 관련 브리핑을 한 뒤 좌편향 매체들과 인사들을 중심으로 음모론이 퍼지고 있다. ①보고서 작성한 美 기업은 구멍가게? 윤 대통령은 3일 브리핑에서 “2023년 2월 세계 최고 수준의 심해 기술 평가 전문 기업인 미국의 액트지오(ACT-GEO)사에 물리 탐사 심층분석을 맡겼다”고 말했다. 방송인 김어준씨는 4일]]></content>
     </entry>
 </feed>

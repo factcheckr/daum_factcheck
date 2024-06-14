@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-06-14T01:25:20.395Z</updated>
+    <updated>2024-06-14T02:38:23.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년부터 카데바 확보 어렵다?]]></title>
+        <id>https://v.daum.net/v/20240614104340404</id>
+        <link href="https://v.daum.net/v/20240614104340404"/>
+        <updated>2024-06-14T02:38:22.941Z</updated>
+        <content type="html"><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?” (10일, 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...?]]></title>
         <id>https://v.daum.net/v/20240609090240486</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240109122441312"/>
         <updated>2024-01-09T04:23:47.967Z</updated>
         <content type="html"><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다. "민주당 국회의원 44%가 전과자" "(전과자 비율이) 다른 당보다 훨씬 높다." 과연 사실일까요? ━팩트체크① 21대 국회의원 중 전과자 몇 명?━ 지난해 7월 25일, 경제정의실천시민연합 조사해 발표한 내용이 있습니다. 이에 따르면 21대 국회 현역의원 283명(의원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 나무젓가락에 찔렸다? 음모론 대체 누가]]></title>
-        <id>https://v.daum.net/v/20240103194443831</id>
-        <link href="https://v.daum.net/v/20240103194443831"/>
-        <updated>2024-01-03T11:16:45.796Z</updated>
-        <content type="html"><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다. 습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다. 사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았던 부산대병원의 판단을 들어봤습니다. ━팩트체크① 수사 중인 경찰의 판단은?━ 경찰은 범행 도구에 대해 "길이 17cm, 날 길이 12.]]></content>
     </entry>
 </feed>
