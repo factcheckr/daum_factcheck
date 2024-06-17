@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T02:39:51.540Z</updated>
+    <updated>2024-06-17T03:24:31.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이재명, ‘쌍방울 송금은 주가부양 목적’ 법원도 인정했다는데… 판결문엔 없었다[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240617120914880</id>
+        <link href="https://v.daum.net/v/20240617120914880"/>
+        <updated>2024-06-17T03:23:28.328Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표가 한국 언론을 검찰의 ‘애완견’이라고 칭하는 취지의 발언을 하면서 근거로 제시한 사실관계가 잘못됐다는 지적이 일고 있다. 이 대표가 언급한 안부수 전 아태평화교류협의회 회장 1심 판결문, 이화영 전 경기도 평화부지사 1심 판결문, 국가정보원 보고서 등을 보면 이 대표의 논리에 허점이 있다는 것이 17일 법조계의 분석이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240614175700760</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240609090240486"/>
         <updated>2024-06-09T01:36:23.433Z</updated>
         <content type="html"><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경우도 있지만 장관이나 대통령이 발표를 하는 경우도 굉장히 흔합니다. 최근의 예시를 하나 들어드리면 오바마 대통령도 서부 이스트코스트(east]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 배터리·탄소국경제·디지털여권…전문가 3인이 말하는 유럽發 규제 中企 대응 전략 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240607060044321</id>
-        <link href="https://v.daum.net/v/20240607060044321"/>
-        <updated>2024-06-06T21:19:40.661Z</updated>
-        <content type="html"><![CDATA[유럽연합(EU) 배터리 규제가 내년 하반기 본격 시행을 앞두고 있다. 작년 8월 발효된 EU 배터리법은 배터리 생산·소비 전 과정에서 발생하는 온실가스 총량을 의미하는 탄소발자국 신고와 폐배터리 수거·공급망 실사를 의무화하는 것을 골자로 한다. EU 탄소국경조정제도(CBAM)도 2026년 1월 본격 시행을 앞두고 전환 기간에 들어간 상태다. 철강·알루미늄·]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
