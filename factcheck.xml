@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-17T20:20:28.798Z</updated>
+    <updated>2024-06-17T21:20:13.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240618043146117"/>
         <updated>2024-06-17T20:18:28.507Z</updated>
         <content type="html"><![CDATA['유통업체 역대 최대 과징금(1,400억 원+a)' 제재를 받은 쿠팡과 공정거래위원회의 공방이 계속되고 있다. 공정위는 쿠팡이 임직원을 시켜 유리한 구매 후기(리뷰)를 달게 하고, 알고리즘을 조작해 자체브랜드(PB) 상품을 상단에 노출시켰다고 보고 '위계에 의한 고객 유인행위' 혐의를 적용했다. 이에 쿠팡은 반박 자료를 5번이나 내는 등 강력 반발하고 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李 “안부수 판결땐 주가부양용 인정”… 재판부, 대북송금 쓰임새 판단 안해]]></title>
+        <id>https://v.daum.net/v/20240618005608280</id>
+        <link href="https://v.daum.net/v/20240618005608280"/>
+        <updated>2024-06-17T21:19:11.821Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표가 최근 ‘쌍방울 불법 대북 송금’ 사건을 “희대의 조작 사건”이라며 지적한 문제점은 크게 세 가지다. 하지만 법조계에선 “사실과 다른 부분이 많다”는 말이 나온다. 한 법조인은 “법을 왜곡하는 판검사를 처벌하는 ‘법 왜곡죄’를 만들겠다는 정당의 대표가 사실을 왜곡해서 되겠느냐”고 했다. ①같은 사건인데 다르게 판결? 이 대표는 지난]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명, ‘쌍방울 송금은 주가부양 목적’ 법원도 인정했다는데… 판결문엔 없었다[팩트체크]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240612202216500"/>
         <updated>2024-06-12T12:38:00.894Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 정부가 동해 석유·가스 개발 추진을 발표한 뒤, 인접한 포항 지역을 중심으로 지진 발생을 우려하는 목소리가 나오고 있습니다. 시추 과정에서 주변 지역에 지진이 일어날 수 있다는 건데요. 실제로 석유 시추와 지진은 얼마나 연관성이 있는 건지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 네덜란드 북부에 위치한 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아휴직 장려금 준다더니…“지원 0건” [팩트체크K]]]></title>
-        <id>https://v.daum.net/v/20240612192007994</id>
-        <link href="https://v.daum.net/v/20240612192007994"/>
-        <updated>2024-06-12T10:21:03.870Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
     </entry>
 </feed>
