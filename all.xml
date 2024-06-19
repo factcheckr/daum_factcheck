@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T19:17:40.414Z</updated>
+    <updated>2024-06-19T20:21:44.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]민주당 '동행명령' 강행 압박... 국회로 증인 끌고 올 수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240620043140916</id>
+        <link href="https://v.daum.net/v/20240620043140916"/>
+        <updated>2024-06-19T20:19:40.878Z</updated>
+        <content type="html"><![CDATA["필요한 경우 동행명령장을 발부해 강제구인하겠다" 정청래 법제사법위원장 더불어민주당이 약이 바짝 올랐다. 논란 끝에 법제사법위원회를 차지했지만 국무위원들이 상임위에 얼굴조차 비추지 않고 있기 때문이다. 이에 민주당은 아예 '채상병 특검법 관련 입법청문회'를 열어 12명의 증인을 무더기로 채택했다. 불출석 땐 강제로 끌고 오겠다거나,  형사처벌을 받을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['PB 상품 우대' 남들 다 하는데 진짜 쿠팡만 당한 걸까 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240618043146117</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240612202216500"/>
         <updated>2024-06-12T12:38:00.894Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 정부가 동해 석유·가스 개발 추진을 발표한 뒤, 인접한 포항 지역을 중심으로 지진 발생을 우려하는 목소리가 나오고 있습니다. 시추 과정에서 주변 지역에 지진이 일어날 수 있다는 건데요. 실제로 석유 시추와 지진은 얼마나 연관성이 있는 건지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 네덜란드 북부에 위치한 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아휴직 장려금 준다더니…“지원 0건” [팩트체크K] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240612192007994</id>
-        <link href="https://v.daum.net/v/20240612192007994"/>
-        <updated>2024-06-12T10:21:03.870Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
