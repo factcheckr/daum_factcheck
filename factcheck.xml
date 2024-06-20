@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-20T20:22:36.336Z</updated>
+    <updated>2024-06-20T21:20:38.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UN 장애인권리협약에 ‘탈시설’ 없다? [FACT IN 뉴스]]]></title>
+        <id>https://v.daum.net/v/20240621060341253</id>
+        <link href="https://v.daum.net/v/20240621060341253"/>
+        <updated>2024-06-20T21:19:33.204Z</updated>
+        <content type="html"><![CDATA[“유엔(장애인)권리협약에 ‘탈시설’이라는 말이 구체적으로 나와 있습니까?” &nbsp; “(유엔장애인권리협약에서) 명확하게 탈시설이란 용어를 직접 사용하지는 않고 있습니다.” &nbsp; 지난 17일 열린 서울시의회 보건복지위 전체회의에서 국민의힘 유만희 복지위 부위원장과 정상훈 서울시청 복지정책실장의 문답이다. 서울시&nbsp;‘장애인 탈시설 및 지역사회 정착지원에 관한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구가 러브콜 보낸 SMR... 정말 2033년 군위 산단서 가동 가능할까 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20240621043619051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240614104340404"/>
         <updated>2024-06-14T02:36:18.772Z</updated>
         <content type="html"><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?” (10일, 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]“매우 희박”…‘최대 140억 배럴 석유·가스 매장 가능성’ 접한 전문가 7인]]></title>
-        <id>https://v.daum.net/v/20240614043301481</id>
-        <link href="https://v.daum.net/v/20240614043301481"/>
-        <updated>2024-06-13T20:20:32.445Z</updated>
-        <content type="html"><![CDATA[최근에 최대 140억 배럴에 달하는 석유와 가스가 매장되어 있을 가능성이 매우 높다는 결과가 나왔고 유수 연구기관과 전문가들 검증도 거쳤습니다. 윤석열 대통령 윤석열 대통령이 3일  안덕근 산업통상자원부 장관은 한술 더 떠 "지금 최대 매장 가능성 140억 배럴 얘기를 하고 있는데 현재 가치로 따져보면 삼성전자 시가총액의 다섯 배 정도가 된다"고 말했]]></content>
     </entry>
 </feed>
