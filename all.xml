@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T10:22:19.216Z</updated>
+    <updated>2024-06-20T11:18:07.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240620194425409</id>
+        <link href="https://v.daum.net/v/20240620194425409"/>
+        <updated>2024-06-20T11:16:59.199Z</updated>
+        <content type="html"><![CDATA[[KBS 청주][기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]민주당 '동행명령' 강행 압박... 국회로 증인 끌고 올 수 있을까 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240620043140916</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240612215505164"/>
         <updated>2024-06-12T13:22:42.883Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 석유·가스 개발로 지진 날 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240612202216500</id>
-        <link href="https://v.daum.net/v/20240612202216500"/>
-        <updated>2024-06-12T12:38:00.894Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 최근 정부가 동해 석유·가스 개발 추진을 발표한 뒤, 인접한 포항 지역을 중심으로 지진 발생을 우려하는 목소리가 나오고 있습니다. 시추 과정에서 주변 지역에 지진이 일어날 수 있다는 건데요. 실제로 석유 시추와 지진은 얼마나 연관성이 있는 건지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 네덜란드 북부에 위치한 유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 중대재해처벌법 확대를 미룰 것을 주장해온 정부와 업계는 그 근거로 동네 식당과 카페 같은 영세 자영업자들의 피해를 들었습니다. [이정식/고용노동부 장관(어제)] "상시 근로자가 5명 이상인 동네 음식점이나 제과점 사장님도 중대재해처벌법 확대 적용 대상이 됩니다." 이런 골목 상인들이 중대재해법으로 처벌을 받을까 우려된다는 건데요]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20240620194425409</id>
+        <link href="https://v.daum.net/v/20240620194425409"/>
+        <updated>2024-06-20T11:17:30.993Z</updated>
+        <content type="html"><![CDATA[[KBS 청주][기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[육아휴직 장려금 준다더니…“지원 0건” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20240613090457154</id>
         <link href="https://v.daum.net/v/20240613090457154"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20240404214637081"/>
         <updated>2024-04-04T13:19:41.797Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 투표하기 전에, 후보의 정당이나 인물 못지 않게 공약을 챙겨보는 것이 중요한데요. KBS가 총선을 앞두고 충북 8개 선거구 모든 후보에게 대표 공약과 추진 계획에 대해 물었습니다. 입법 공약과 지역 공약에 대한 분석 결과를 차례로 소개해드립니다. 먼저, 후보들은 어떤 입법 활동을 약속했는지 팩트체크 K, 이유진 기자가 보도합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘상급종합병원·물류비·버스요금’…실현 가능한 공약? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240404214542051</id>
-        <link href="https://v.daum.net/v/20240404214542051"/>
-        <updated>2024-04-04T13:19:41.797Z</updated>
-        <content type="html"><![CDATA[[KBS 제주] [앵커] 정책 선거를 이끌고  유권자 판단을 돕기 위해 총선 후보자 토론회에서 나온 후보들의 정책을 검증하는 순서입니다. 이번엔 제주시을 선거구 후보자들이 도민의 생활 부담을 줄이겠다며 내놓은 공약을 살펴봤습니다. 허지영 기자입니다. [리포트] 지난 2일 제주시선거방송토론위원회 주관으로 열린 제주시을 선거구 후보자 토론회. [김한규/제주시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
