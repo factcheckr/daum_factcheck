@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-20T12:38:10.656Z</updated>
+    <updated>2024-06-20T13:23:22.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
+        <id>https://v.daum.net/v/20240620215228380</id>
+        <link href="https://v.daum.net/v/20240620215228380"/>
+        <updated>2024-06-20T13:21:59.654Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 고소득·고학력·자산가 '수혜' 저출생 대책?]]></title>
         <id>https://v.daum.net/v/20240620202401268</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240613205706473"/>
         <updated>2024-06-13T12:41:53.128Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 이 사건에 대한 관심이 최근 커지면서, 인구 10만 명 도시인 경남 밀양을&nbsp;근거 없이 비난하는&nbsp;목소리도 있었습니다. 여행하기&nbsp;위험한 도시라며&nbsp;밀양시청에 항의 전화도 빗발치고 있습니다. 실제 밀양시의&nbsp;범죄 통계는 어떤지, 저희 팩트체크 사실은&nbsp;코너에서 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 밀양시가 지역 홍보를 위해 운영 중인 유튜브 채널,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니…“지원 0건”]]></title>
-        <id>https://v.daum.net/v/20240613090457154</id>
-        <link href="https://v.daum.net/v/20240613090457154"/>
-        <updated>2024-06-13T01:24:12.752Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
     </entry>
 </feed>
