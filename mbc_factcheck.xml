@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-06-20T11:18:06.999Z</updated>
+    <updated>2024-06-20T12:38:10.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고소득·고학력·자산가 '수혜' 저출생 대책?]]></title>
+        <id>https://v.daum.net/v/20240620202401268</id>
+        <link href="https://v.daum.net/v/20240620202401268"/>
+        <updated>2024-06-20T12:37:18.855Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 세계 최저 수준인 출산율을 끌어올리겠다며, 정부가 어제 저출생 대책을 대대적으로 발표했습니다. 그런데, 그중에는 극히 일부에게만 혜택이 돌아가서 실효성이 있겠냐는 지적이 나오는 정책들도 적지 않은데요. 팩트체크 &lt;알고보니&gt;에서 구체적인 수치로 확인해 봤습니다. ◀ 리포트 ▶ 이번에 정부가 내놓은 주요 저출생 대책 중 하나는 주거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[석유·가스 개발로 지진 날 수 있다?]]></title>
         <id>https://v.daum.net/v/20240612202216500</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240130195811585"/>
         <updated>2024-01-30T11:15:54.485Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해처벌법 확대로 골목 식당·카페 타격?]]></title>
-        <id>https://v.daum.net/v/20240125195813011</id>
-        <link href="https://v.daum.net/v/20240125195813011"/>
-        <updated>2024-01-25T14:19:06.482Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 중대재해처벌법 확대를 미룰 것을 주장해온 정부와 업계는 그 근거로 동네 식당과 카페 같은 영세 자영업자들의 피해를 들었습니다. [이정식/고용노동부 장관(어제)] "상시 근로자가 5명 이상인 동네 음식점이나 제과점 사장님도 중대재해처벌법 확대 적용 대상이 됩니다." 이런 골목 상인들이 중대재해법으로 처벌을 받을까 우려된다는 건데요]]></content>
     </entry>
 </feed>

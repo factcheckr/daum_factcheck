@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-20T11:18:07.002Z</updated>
+    <updated>2024-06-20T12:38:10.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 고소득·고학력·자산가 '수혜' 저출생 대책?]]></title>
+        <id>https://v.daum.net/v/20240620202401268</id>
+        <link href="https://v.daum.net/v/20240620202401268"/>
+        <updated>2024-06-20T12:36:55.506Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 세계 최저 수준인 출산율을 끌어올리겠다며, 정부가 어제 저출생 대책을 대대적으로 발표했습니다. 그런데, 그중에는 극히 일부에게만 혜택이 돌아가서 실효성이 있겠냐는 지적이 나오는 정책들도 적지 않은데요. 팩트체크 &lt;알고보니&gt;에서 구체적인 수치로 확인해 봤습니다. ◀ 리포트 ▶ 이번에 정부가 내놓은 주요 저출생 대책 중 하나는 주거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
         <id>https://v.daum.net/v/20240620194425409</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240613090457154</id>
         <link href="https://v.daum.net/v/20240613090457154"/>
         <updated>2024-06-13T01:24:12.752Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 육아휴직 장려금 준다더니…“지원 0건”]]></title>
-        <id>https://v.daum.net/v/20240612215505164</id>
-        <link href="https://v.daum.net/v/20240612215505164"/>
-        <updated>2024-06-12T13:22:42.883Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
     </entry>
 </feed>
