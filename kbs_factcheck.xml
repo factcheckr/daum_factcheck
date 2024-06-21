@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2024-06-20T23:23:31.280Z</updated>
+    <updated>2024-06-21T01:24:46.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
+        <id>https://v.daum.net/v/20240621084325912</id>
+        <link href="https://v.daum.net/v/20240621084325912"/>
+        <updated>2024-06-21T01:24:10.745Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
         <id>https://v.daum.net/v/20240620215228380</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240405085455310"/>
         <updated>2024-04-05T01:16:42.527Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 투표하기 전에, 후보의 정당이나 인물 못지 않게 공약을 챙겨보는 것이 중요한데요. KBS가 총선을 앞두고 충북 8개 선거구 모든 후보에게 대표 공약과 추진 계획에 대해 물었습니다. 입법 공약과 지역 공약에 대한 분석 결과를 차례로 소개해드립니다. 먼저, 후보들은 어떤 입법 활동을 약속했는지 팩트체크 K, 이유진 기자가 보도합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북 후보 21명의 지역 공약은?]]></title>
-        <id>https://v.daum.net/v/20240404214640083</id>
-        <link href="https://v.daum.net/v/20240404214640083"/>
-        <updated>2024-04-04T13:19:41.797Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 국회의원은 법을 만들고 행정을 감시하지만 지역구 발전도 소홀할 수 없죠. 그런 만큼 '입법 공약' 못지 않게 '지역 발전 공약'에도 공을 들이고 있는데요. 주로 어떤 공약을 내걸고 있을까요? 가장 중요한 사업비는 어떻게 마련하겠다는 걸까요? 이어서 진희정 기자가 분석했습니다. [리포트] 충북 후보들이 제시한 지역 공약은 대규모 사회]]></content>
     </entry>
 </feed>
