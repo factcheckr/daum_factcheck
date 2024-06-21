@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-21T02:36:04.432Z</updated>
+    <updated>2024-06-21T03:24:05.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다?]]></title>
+        <id>https://v.daum.net/v/20240621115140497</id>
+        <link href="https://v.daum.net/v/20240621115140497"/>
+        <updated>2024-06-21T03:23:05.128Z</updated>
+        <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
         <id>https://v.daum.net/v/20240621084325912</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240617120914880"/>
         <updated>2024-06-17T03:23:28.328Z</updated>
         <content type="html"><![CDATA[이재명 더불어민주당 대표가 한국 언론을 검찰의 ‘애완견’이라고 칭하는 취지의 발언을 하면서 근거로 제시한 사실관계가 잘못됐다는 지적이 일고 있다. 이 대표가 언급한 안부수 전 아태평화교류협의회 회장 1심 판결문, 이화영 전 경기도 평화부지사 1심 판결문, 국가정보원 보고서 등을 보면 이 대표의 논리에 허점이 있다는 것이 17일 법조계의 분석이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240614175700760</id>
-        <link href="https://v.daum.net/v/20240614175700760"/>
-        <updated>2024-06-14T09:24:23.539Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 국민권익위원회 정승윤 부위원장 겸 사무처장이 10일 오후 정부세종청사에서 브리핑을 열고 윤석열 대통령의 배우자 김건희 여사가 명품 가방을 수수했다는 내용의 비위 신고 사건을 '위반 사항 없음'으로 종결 처리했다.ⓒ 연합뉴스&nbsp; [검증대상] "김건희 명품 백, 외국인 선물이라 신고 의무 없다" 정승윤 권익위 부위원장 주장 윤석열 대통령]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T02:36:04.453Z</updated>
+    <updated>2024-06-21T03:24:05.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240621115140497</id>
+        <link href="https://v.daum.net/v/20240621115140497"/>
+        <updated>2024-06-21T03:23:05.128Z</updated>
+        <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240621084325912</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240617120914880"/>
         <updated>2024-06-17T03:23:28.328Z</updated>
         <content type="html"><![CDATA[이재명 더불어민주당 대표가 한국 언론을 검찰의 ‘애완견’이라고 칭하는 취지의 발언을 하면서 근거로 제시한 사실관계가 잘못됐다는 지적이 일고 있다. 이 대표가 언급한 안부수 전 아태평화교류협의회 회장 1심 판결문, 이화영 전 경기도 평화부지사 1심 판결문, 국가정보원 보고서 등을 보면 이 대표의 논리에 허점이 있다는 것이 17일 법조계의 분석이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김건희 명품 백, 외국인 선물이라 신고 의무 없다" 주장은 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240614175700760</id>
-        <link href="https://v.daum.net/v/20240614175700760"/>
-        <updated>2024-06-14T09:24:23.539Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp; 국민권익위원회 정승윤 부위원장 겸 사무처장이 10일 오후 정부세종청사에서 브리핑을 열고 윤석열 대통령의 배우자 김건희 여사가 명품 가방을 수수했다는 내용의 비위 신고 사건을 '위반 사항 없음'으로 종결 처리했다.ⓒ 연합뉴스&nbsp; [검증대상] "김건희 명품 백, 외국인 선물이라 신고 의무 없다" 정승윤 권익위 부위원장 주장 윤석열 대통령]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 12일 오전 서울 여의도 국회 소통관에서 기자회견을 진행하고 있다.ⓒ 남소연&nbsp; [검증대상] "국민의힘 발의한 '조국 방지법', 위헌 소지 있다" 조국 주장 국민의힘에서 총선을 앞두고 6번째 정치개혁 공약으로 제시한 이른바 '조국·황운하 방지법'(아래 '조국 방지법')이 위헌 논란에 부딪혔다. 한동훈 국민의힘 비상]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[상속세 OECD 2위...전면 개편해야 한다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240621115140497</id>
+        <link href="https://v.daum.net/v/20240621115140497"/>
+        <updated>2024-06-21T03:24:04.831Z</updated>
+        <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내년부터 카데바 확보 어렵다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240614104340404</id>
         <link href="https://v.daum.net/v/20240614104340404"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240123120442830"/>
         <updated>2024-01-23T03:19:49.652Z</updated>
         <content type="html"><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령'이 된다는 논리입니다. 과연 그럴까요? ━팩트체크① 영부인 선물, 법에는 어떻게 규정?━ 대통령(영부인 포함)의 선물을 국고로 귀속시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240109122441312</id>
-        <link href="https://v.daum.net/v/20240109122441312"/>
-        <updated>2024-01-09T04:22:44.087Z</updated>
-        <content type="html"><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다. "민주당 국회의원 44%가 전과자" "(전과자 비율이) 다른 당보다 훨씬 높다." 과연 사실일까요? ━팩트체크① 21대 국회의원 중 전과자 몇 명?━ 지난해 7월 25일, 경제정의실천시민연합 조사해 발표한 내용이 있습니다. 이에 따르면 21대 국회 현역의원 283명(의원]]></content>
     </entry>
 </feed>
