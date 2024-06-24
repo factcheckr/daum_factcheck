@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-24T04:24:41.927Z</updated>
+    <updated>2024-06-24T05:21:15.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 치솟는 밥상 물가에 한은 vs 농식품부 설전… 누구 말이 맞나]]></title>
+        <id>https://v.daum.net/v/20240624133123962</id>
+        <link href="https://v.daum.net/v/20240624133123962"/>
+        <updated>2024-06-24T05:19:28.458Z</updated>
+        <content type="html"><![CDATA[한국은행이 국내 농산물·식료품 물가가 해외에 비해 높다는 연구 결과를 최근 발표하면서 농정 당국인 농림축산식품부와 대립각을 세우고 있다. 가계 물가 부담을 완화하기 위해서는 농산물의 수입을 장려해야 한다는 게 한은의 핵심 주장이다. 농식품부는 즉각적으로 반박했다. 송미령 농식품부 장관은 지난 19일 정부세종청사에서 열린 기자간담회에서 “(한은이) 농업 전문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다?]]></title>
         <id>https://v.daum.net/v/20240621115140497</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240618043146117"/>
         <updated>2024-06-17T20:18:28.507Z</updated>
         <content type="html"><![CDATA['유통업체 역대 최대 과징금(1,400억 원+a)' 제재를 받은 쿠팡과 공정거래위원회의 공방이 계속되고 있다. 공정위는 쿠팡이 임직원을 시켜 유리한 구매 후기(리뷰)를 달게 하고, 알고리즘을 조작해 자체브랜드(PB) 상품을 상단에 노출시켰다고 보고 '위계에 의한 고객 유인행위' 혐의를 적용했다. 이에 쿠팡은 반박 자료를 5번이나 내는 등 강력 반발하고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명, ‘쌍방울 송금은 주가부양 목적’ 법원도 인정했다는데… 판결문엔 없었다[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240617120914880</id>
-        <link href="https://v.daum.net/v/20240617120914880"/>
-        <updated>2024-06-17T03:23:28.328Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표가 한국 언론을 검찰의 ‘애완견’이라고 칭하는 취지의 발언을 하면서 근거로 제시한 사실관계가 잘못됐다는 지적이 일고 있다. 이 대표가 언급한 안부수 전 아태평화교류협의회 회장 1심 판결문, 이화영 전 경기도 평화부지사 1심 판결문, 국가정보원 보고서 등을 보면 이 대표의 논리에 허점이 있다는 것이 17일 법조계의 분석이다.]]></content>
     </entry>
 </feed>
