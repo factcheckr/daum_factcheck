@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-26T12:39:49.936Z</updated>
+    <updated>2024-06-26T13:23:09.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복]]></title>
+        <id>https://v.daum.net/v/20240626214557640</id>
+        <link href="https://v.daum.net/v/20240626214557640"/>
+        <updated>2024-06-26T13:21:58.509Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복]]></title>
         <id>https://v.daum.net/v/20240626195600585</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240620202401268"/>
         <updated>2024-06-20T12:36:55.506Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 세계 최저 수준인 출산율을 끌어올리겠다며, 정부가 어제 저출생 대책을 대대적으로 발표했습니다. 그런데, 그중에는 극히 일부에게만 혜택이 돌아가서 실효성이 있겠냐는 지적이 나오는 정책들도 적지 않은데요. 팩트체크 &lt;알고보니&gt;에서 구체적인 수치로 확인해 봤습니다. ◀ 리포트 ▶ 이번에 정부가 내놓은 주요 저출생 대책 중 하나는 주거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
-        <id>https://v.daum.net/v/20240620194425409</id>
-        <link href="https://v.daum.net/v/20240620194425409"/>
-        <updated>2024-06-20T11:16:59.199Z</updated>
-        <content type="html"><![CDATA[[KBS 청주][기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
 </feed>

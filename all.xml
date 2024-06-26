@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-26T12:39:49.978Z</updated>
+    <updated>2024-06-26T13:23:09.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240626214557640</id>
+        <link href="https://v.daum.net/v/20240626214557640"/>
+        <updated>2024-06-26T13:21:58.509Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240626195600585</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240620202401268"/>
         <updated>2024-06-20T12:36:55.506Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 세계 최저 수준인 출산율을 끌어올리겠다며, 정부가 어제 저출생 대책을 대대적으로 발표했습니다. 그런데, 그중에는 극히 일부에게만 혜택이 돌아가서 실효성이 있겠냐는 지적이 나오는 정책들도 적지 않은데요. 팩트체크 &lt;알고보니&gt;에서 구체적인 수치로 확인해 봤습니다. ◀ 리포트 ▶ 이번에 정부가 내놓은 주요 저출생 대책 중 하나는 주거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240620194425409</id>
-        <link href="https://v.daum.net/v/20240620194425409"/>
-        <updated>2024-06-20T11:16:59.199Z</updated>
-        <content type="html"><![CDATA[[KBS 청주][기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,6 +244,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20240626214557640</id>
+        <link href="https://v.daum.net/v/20240626214557640"/>
+        <updated>2024-06-26T13:22:30.479Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20240626195600585</id>
         <link href="https://v.daum.net/v/20240626195600585"/>
         <updated>2024-06-26T11:17:32.929Z</updated>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20240405102909731"/>
         <updated>2024-04-05T02:24:43.242Z</updated>
         <content type="html"><![CDATA[[KBS 제주] [앵커] 정책 선거를 이끌고  유권자 판단을 돕기 위해 총선 후보자 토론회에서 나온 후보들의 정책을 검증하는 순서입니다. 이번엔 제주시을 선거구 후보자들이 도민의 생활 부담을 줄이겠다며 내놓은 공약을 살펴봤습니다. 허지영 기자입니다. [리포트] 지난 2일 제주시선거방송토론위원회 주관으로 열린 제주시을 선거구 후보자 토론회. [김한규/제주시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북 후보 21명의 지역 공약은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240405085500311</id>
-        <link href="https://v.daum.net/v/20240405085500311"/>
-        <updated>2024-04-05T01:16:42.525Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 국회의원은 법을 만들고 행정을 감시하지만 지역구 발전도 소홀할 수 없죠. 그런 만큼 '입법 공약' 못지 않게 '지역 발전 공약'에도 공을 들이고 있는데요. 주로 어떤 공약을 내걸고 있을까요? 가장 중요한 사업비는 어떻게 마련하겠다는 걸까요? 이어서 진희정 기자가 분석했습니다. [리포트] 충북 후보들이 제시한 지역 공약은 대규모 사회]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
