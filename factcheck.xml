@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-27T20:22:25.248Z</updated>
+    <updated>2024-06-27T21:19:55.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상속세, 재산세 징수 잘되니 이중과세?]]></title>
+        <id>https://v.daum.net/v/20240628060040609</id>
+        <link href="https://v.daum.net/v/20240628060040609"/>
+        <updated>2024-06-27T21:18:50.082Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복]]></title>
         <id>https://v.daum.net/v/20240627085631789</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240621043619051"/>
         <updated>2024-06-20T20:20:18.258Z</updated>
         <content type="html"><![CDATA[대구경북 신공항 인근에 조성될 군위 첨단산업단지에 혁신형 소형모듈형원자로(i-SMR) 건설을 추진한다는 소식이 전해지면서, 갑론을박이 계속되고 있다. SMR 발전과 저렴한 산업용지를 기반으로 지역경제를 부흥시킬 수 있다는 기대가 나오는 반면, 지역 환경단체를 중심으로는 세계 어느 곳에도 지어진 적 없는 신형 원전인데다 바닷가가 아닌 내륙에 짓는다면 식수원을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
-        <id>https://v.daum.net/v/20240620215228380</id>
-        <link href="https://v.daum.net/v/20240620215228380"/>
-        <updated>2024-06-20T13:21:59.654Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
 </feed>

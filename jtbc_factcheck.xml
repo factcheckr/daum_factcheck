@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-06-27T20:22:25.249Z</updated>
+    <updated>2024-06-27T21:19:55.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상속세, 재산세 징수 잘되니 이중과세?]]></title>
+        <id>https://v.daum.net/v/20240628060040609</id>
+        <link href="https://v.daum.net/v/20240628060040609"/>
+        <updated>2024-06-27T21:19:54.559Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주도가 중국 섬으로 변하고 있다?]]></title>
         <id>https://v.daum.net/v/20240625180940280</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240131182811949"/>
         <updated>2024-01-31T10:19:58.465Z</updated>
         <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
-        <id>https://v.daum.net/v/20240123200523397</id>
-        <link href="https://v.daum.net/v/20240123200523397"/>
-        <updated>2024-01-23T11:17:17.185Z</updated>
-        <content type="html"><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content>
     </entry>
 </feed>
