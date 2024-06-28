@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-06-28T11:18:47.128Z</updated>
+    <updated>2024-06-28T12:39:04.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위험의 이주화' 어디까지 왔나?]]></title>
+        <id>https://v.daum.net/v/20240628202817495</id>
+        <link href="https://v.daum.net/v/20240628202817495"/>
+        <updated>2024-06-28T12:38:23.247Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 화성 화재 참사로 숨진 23명 가운데 18명이 외국인 노동자라는 사실이 알려지면서 '위험의 이주화'라는 말이 주목받고 있습니다. 위험한 일을 하청업체에 맡기는 외주화를 넘어 이제 외국인 노동자들에게 넘기는 '이주화'로 가고 있다는 건데요. '위험의 이주화', 어디까지 왔는지 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고소득·고학력·자산가 '수혜' 저출생 대책?]]></title>
         <id>https://v.daum.net/v/20240620202401268</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240208200415626"/>
         <updated>2024-02-08T11:17:48.023Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이태원참사 특별법'이 헌법 훼손·기본권 침해?]]></title>
-        <id>https://v.daum.net/v/20240130195811585</id>
-        <link href="https://v.daum.net/v/20240130195811585"/>
-        <updated>2024-01-30T11:15:54.485Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 정부가 오늘 이태원참사 특별법의 거부권 행사를 건의하면서 든 가장 큰 이유는 법안이 헌법 가치를 훼손하고, 국민의 기본권을 침해한다는 겁니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 따져봤습니다. ◀ 리포트 ▶ 정부가 헌법가치 훼손과 기본권 침해의 사례로 지목한 건 조사위원회에 부여된 '동행명령'과 '압수수색 의뢰' 권한입니다]]></content>
     </entry>
 </feed>
