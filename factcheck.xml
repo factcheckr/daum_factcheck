@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-06-30T01:39:21.562Z</updated>
+    <updated>2024-06-30T02:39:53.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["페인버스터, 분만 시 통증 줄여준다고?"[리얼팩트]]]></title>
+        <id>https://v.daum.net/v/20240630105812527</id>
+        <link href="https://v.daum.net/v/20240630105812527"/>
+        <updated>2024-06-30T02:38:47.321Z</updated>
+        <content type="html"><![CDATA[[세종=뉴시스] 박영주 기자 = 제왕절개 산모가 분만할 때 무통주사와 함께 사용하는 '페인버스터'를 두고 혼란이 가중되고 있다. 산모는 페인버스터를 무통주사와 함께 사용하지 못할 경우 분만 시 통증이 커질 수 있다고 우려하는 반면 정부는 페인버스터 효과가 불분명하다는 입장이다. 앞서 정부는 분만 시 무통주사와 수술 부위 국소마취제를 투여하는 '페인버스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '위험의 이주화' 어디까지 왔나?]]></title>
         <id>https://v.daum.net/v/20240628202817495</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240621084325912"/>
         <updated>2024-06-21T01:23:40.375Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UN 장애인권리협약에 ‘탈시설’ 없다? [FACT IN 뉴스]]]></title>
-        <id>https://v.daum.net/v/20240621060341253</id>
-        <link href="https://v.daum.net/v/20240621060341253"/>
-        <updated>2024-06-20T21:19:33.204Z</updated>
-        <content type="html"><![CDATA[“유엔(장애인)권리협약에 ‘탈시설’이라는 말이 구체적으로 나와 있습니까?” &nbsp; “(유엔장애인권리협약에서) 명확하게 탈시설이란 용어를 직접 사용하지는 않고 있습니다.” &nbsp; 지난 17일 열린 서울시의회 보건복지위 전체회의에서 국민의힘 유만희 복지위 부위원장과 정상훈 서울시청 복지정책실장의 문답이다. 서울시&nbsp;‘장애인 탈시설 및 지역사회 정착지원에 관한]]></content>
     </entry>
 </feed>
