@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T20:21:47.730Z</updated>
+    <updated>2024-07-01T21:20:46.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 광화문 광장에 100m 태극기 게양대 세운다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240702060140361</id>
+        <link href="https://v.daum.net/v/20240702060140361"/>
+        <updated>2024-07-01T21:19:36.811Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["페인버스터, 분만 시 통증 줄여준다고?"[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240630105812527</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240621115140497"/>
         <updated>2024-06-21T03:23:05.128Z</updated>
         <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240621084325912</id>
-        <link href="https://v.daum.net/v/20240621084325912"/>
-        <updated>2024-06-21T01:23:40.375Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조국 조국혁신당 대표가 12일 오전 서울 여의도 국회 소통관에서 기자회견을 진행하고 있다.ⓒ 남소연&nbsp; [검증대상] "국민의힘 발의한 '조국 방지법', 위헌 소지 있다" 조국 주장 국민의힘에서 총선을 앞두고 6번째 정치개혁 공약으로 제시한 이른바 '조국·황운하 방지법'(아래 '조국 방지법')이 위헌 논란에 부딪혔다. 한동훈 국민의힘 비상]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[광화문 광장에 100m 태극기 게양대 세운다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240702060140361</id>
+        <link href="https://v.daum.net/v/20240702060140361"/>
+        <updated>2024-07-01T21:20:45.822Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상속세, 재산세 징수 잘되니 이중과세? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240628060040609</id>
         <link href="https://v.daum.net/v/20240628060040609"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240220201643511"/>
         <updated>2024-02-20T12:32:18.092Z</updated>
         <content type="html"><![CDATA[[앵커] 전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다. 우리나라에 의사 많고, 의료 접근성도 높다는 게 이들의 주장인데 과연 사실인지, 강나현 기자가 팩트체크했습니다. [기자] 2.6명, 우리나라 인구 1000명당 의사 수입니다. 경제협력개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240131182811949</id>
-        <link href="https://v.daum.net/v/20240131182811949"/>
-        <updated>2024-01-31T10:18:55.934Z</updated>
-        <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-07-01T20:21:47.733Z</updated>
+    <updated>2024-07-01T21:20:46.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광화문 광장에 100m 태극기 게양대 세운다?]]></title>
+        <id>https://v.daum.net/v/20240702060140361</id>
+        <link href="https://v.daum.net/v/20240702060140361"/>
+        <updated>2024-07-01T21:20:45.822Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상속세, 재산세 징수 잘되니 이중과세?]]></title>
         <id>https://v.daum.net/v/20240628060040609</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240220201643511"/>
         <updated>2024-02-20T12:33:11.557Z</updated>
         <content type="html"><![CDATA[[앵커] 전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다. 우리나라에 의사 많고, 의료 접근성도 높다는 게 이들의 주장인데 과연 사실인지, 강나현 기자가 팩트체크했습니다. [기자] 2.6명, 우리나라 인구 1000명당 의사 수입니다. 경제협력개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가> 관련]]></title>
-        <id>https://v.daum.net/v/20240131182811949</id>
-        <link href="https://v.daum.net/v/20240131182811949"/>
-        <updated>2024-01-31T10:19:58.465Z</updated>
-        <content type="html"><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content>
     </entry>
 </feed>

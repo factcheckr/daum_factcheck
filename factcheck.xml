@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-01T20:21:47.714Z</updated>
+    <updated>2024-07-01T21:20:46.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 광화문 광장에 100m 태극기 게양대 세운다?]]></title>
+        <id>https://v.daum.net/v/20240702060140361</id>
+        <link href="https://v.daum.net/v/20240702060140361"/>
+        <updated>2024-07-01T21:19:36.811Z</updated>
+        <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["페인버스터, 분만 시 통증 줄여준다고?"[리얼팩트]]]></title>
         <id>https://v.daum.net/v/20240630105812527</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240621115140497"/>
         <updated>2024-06-21T03:23:05.128Z</updated>
         <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 과수화상병 확산…피해 실태와 원인, 전망은?]]></title>
-        <id>https://v.daum.net/v/20240621084325912</id>
-        <link href="https://v.daum.net/v/20240621084325912"/>
-        <updated>2024-06-21T01:23:40.375Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
 </feed>
