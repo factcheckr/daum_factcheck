@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-03T07:20:00.578Z</updated>
+    <updated>2024-07-03T08:26:59.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]국회 마비시킨 ‘한미일 동맹’, 무엇이 문제? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240703172121619</id>
+        <link href="https://v.daum.net/v/20240703172121619"/>
+        <updated>2024-07-03T08:25:51.975Z</updated>
+        <content type="html"><![CDATA[[이데일리 윤정훈 기자] 국회가 ‘한미일 동맹’이라는 말 한마디로 인해 파행되는 초유의 사태가 벌어졌다. 국회 대정부질문 첫날 김병주 더불어민주당 의원은 국민의힘의 ‘한미일 동맹’ 관련 논평을 지적하며 사과를 요구했다. 국민의힘은 김 의원이 막말을 했다며 먼저 사과하라고 맞섰다. 한미일 동맹이라는 말은 왜 국회 파행의 뇌관이 됐을까. 더불어민주당 김병주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 광화문 광장에 100m 태극기 게양대 세운다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240702060140361</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240624133123962"/>
         <updated>2024-06-24T05:19:28.458Z</updated>
         <content type="html"><![CDATA[한국은행이 국내 농산물·식료품 물가가 해외에 비해 높다는 연구 결과를 최근 발표하면서 농정 당국인 농림축산식품부와 대립각을 세우고 있다. 가계 물가 부담을 완화하기 위해서는 농산물의 수입을 장려해야 한다는 게 한은의 핵심 주장이다. 농식품부는 즉각적으로 반박했다. 송미령 농식품부 장관은 지난 19일 정부세종청사에서 열린 기자간담회에서 “(한은이) 농업 전문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240621115140497</id>
-        <link href="https://v.daum.net/v/20240621115140497"/>
-        <updated>2024-06-21T03:23:05.128Z</updated>
-        <content type="html"><![CDATA[“전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내고 있습니다. 성태윤 대통령실 정책실장은 한 방송에 출연해 “상속세를 손봐야 하는 시점”이라며 “우리나라 같은 형태의 상속세를 유지하는 국가가 많지 않다”고 개편 방침을 밝혔습니다. 다음날 추경호 국민의힘 원내대표도]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
