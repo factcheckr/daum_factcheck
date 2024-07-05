@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-05T01:26:32.932Z</updated>
+    <updated>2024-07-05T02:36:12.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 상속세가 가업 승계를 어렵게 만든다?]]></title>
+        <id>https://v.daum.net/v/20240705112040803</id>
+        <link href="https://v.daum.net/v/20240705112040803"/>
+        <updated>2024-07-05T02:35:07.081Z</updated>
+        <content type="html"><![CDATA[“우리나라 상속세 체계가 가업승계 관련 상당한 문제를 가지고 있습니다.  기업을 하고 있다가 물려주는 시점이 됐을 때 세금을 내고 나면 기업 경영권이나 기업 자체를 물려줄 수 있을지 불확실해지는, 특히 대주주 할증까지 존재하는 상황에서 60% 세금을 내게 되면 상당한 부담이 있습니다.” (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) J]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회 마비시킨 ‘한미일 동맹’, 무엇이 문제?[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240703172121619</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240625180940280"/>
         <updated>2024-06-25T09:21:04.476Z</updated>
         <content type="html"><![CDATA[최근 '제주도가 중국 섬으로 변하고 있다'는 기사가 화제였습니다. 대만 매체가 '섬뜩한 경고'를 했다는 내용에 여론의 관심이 집중됐습니다. “제주도, 중국의 섬으로 변하고 있다” 대만 언론의 경고 (20일, 조선일보) “'중국섬' 된 제주도, 韓 뭐하나”‥대만 언론 '섬뜩한 경고' (23일, MBC) 중국인이 산 제주 땅, 서울 중구만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 치솟는 밥상 물가에 한은 vs 농식품부 설전… 누구 말이 맞나]]></title>
-        <id>https://v.daum.net/v/20240624133123962</id>
-        <link href="https://v.daum.net/v/20240624133123962"/>
-        <updated>2024-06-24T05:19:28.458Z</updated>
-        <content type="html"><![CDATA[한국은행이 국내 농산물·식료품 물가가 해외에 비해 높다는 연구 결과를 최근 발표하면서 농정 당국인 농림축산식품부와 대립각을 세우고 있다. 가계 물가 부담을 완화하기 위해서는 농산물의 수입을 장려해야 한다는 게 한은의 핵심 주장이다. 농식품부는 즉각적으로 반박했다. 송미령 농식품부 장관은 지난 19일 정부세종청사에서 열린 기자간담회에서 “(한은이) 농업 전문]]></content>
     </entry>
 </feed>
