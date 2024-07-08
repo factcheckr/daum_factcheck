@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T21:21:10.599Z</updated>
+    <updated>2024-07-08T22:20:30.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]연이은 고령 운전자 사고…강제 '면허 반납' 필요한가 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240709063003603</id>
+        <link href="https://v.daum.net/v/20240709063003603"/>
+        <updated>2024-07-08T22:19:27.782Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 남해인 유수연 기자 = 9명의 사망자를 낸 '시청역 역주행 참사'가 발생한 지 이틀 만에 국립중앙의료원 차량 돌진 사고가 연이어 일어났습니다. 두 사고 차량의 운전자 나이는 각 만 68세, 80대로 확인돼 고령 운전자의 면허를 반납하게 해야 한다는 주장에 불을 붙였습니다. 하지만 초고령사회(만 65세 인구가 전체 인구의 20% 이상) 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 상속세가 가업 승계를 어렵게 만든다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240705112040803</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240626195600585"/>
         <updated>2024-06-26T11:17:32.929Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 제주도가 중국 섬으로 변하고 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240625180940280</id>
-        <link href="https://v.daum.net/v/20240625180940280"/>
-        <updated>2024-06-25T09:21:04.476Z</updated>
-        <content type="html"><![CDATA[최근 '제주도가 중국 섬으로 변하고 있다'는 기사가 화제였습니다. 대만 매체가 '섬뜩한 경고'를 했다는 내용에 여론의 관심이 집중됐습니다. “제주도, 중국의 섬으로 변하고 있다” 대만 언론의 경고 (20일, 조선일보) “'중국섬' 된 제주도, 韓 뭐하나”‥대만 언론 '섬뜩한 경고' (23일, MBC) 중국인이 산 제주 땅, 서울 중구만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["밀양은 성범죄 도시" 낙인에 주민들 고통…통계 따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
