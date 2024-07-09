@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-09T10:22:42.466Z</updated>
+    <updated>2024-07-09T11:18:35.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '실체적 진실' 드러나 특검 필요 없다?]]></title>
+        <id>https://v.daum.net/v/20240709201309120</id>
+        <link href="https://v.daum.net/v/20240709201309120"/>
+        <updated>2024-07-09T11:17:39.334Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 임성근 전 사단장은 무혐의라는 내용을 담은 경찰의 수사 결과가 나오자마자, 어제 대통령실은 마치 기다렸다는 듯 거부권 행사를 예고했죠. 그러면서 경찰이 밝힌 실체적 진실이 그동안 제기됐던 의혹과는 많이 다르다는 것이 드러났다고 설명했습니다. 경찰 수사에서 이렇게 나왔는데 특검을 할 필요가 뭐가 있냐는 취지였죠. 과연 합당한 설명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 K-팝 콘서트가 여가부 뒤처리라고?…축구경기 취소는[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240709091515924</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240627085631789</id>
         <link href="https://v.daum.net/v/20240627085631789"/>
         <updated>2024-06-27T01:24:57.872Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복]]></title>
-        <id>https://v.daum.net/v/20240626214557640</id>
-        <link href="https://v.daum.net/v/20240626214557640"/>
-        <updated>2024-06-26T13:21:58.509Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
     </entry>
 </feed>

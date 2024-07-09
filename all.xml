@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-09T10:22:42.461Z</updated>
+    <updated>2024-07-09T11:18:35.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '실체적 진실' 드러나 특검 필요 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240709201309120</id>
+        <link href="https://v.daum.net/v/20240709201309120"/>
+        <updated>2024-07-09T11:17:39.334Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 임성근 전 사단장은 무혐의라는 내용을 담은 경찰의 수사 결과가 나오자마자, 어제 대통령실은 마치 기다렸다는 듯 거부권 행사를 예고했죠. 그러면서 경찰이 밝힌 실체적 진실이 그동안 제기됐던 의혹과는 많이 다르다는 것이 드러났다고 설명했습니다. 경찰 수사에서 이렇게 나왔는데 특검을 할 필요가 뭐가 있냐는 취지였죠. 과연 합당한 설명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 K-팝 콘서트가 여가부 뒤처리라고?…축구경기 취소는[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240709091515924</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20240627085631789</id>
         <link href="https://v.daum.net/v/20240627085631789"/>
         <updated>2024-06-27T01:24:57.872Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240626214557640</id>
-        <link href="https://v.daum.net/v/20240626214557640"/>
-        <updated>2024-06-26T13:21:58.509Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
     </entry>
     <entry>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 한 지역에 기부하면 세금 혜택까지 받을 수 있는, 고향사랑 기부제에 참여한 사람들이 많습니다. 그런데 연말정산을 해봤더니 지자체에서 홍보했었던 혜택을 받지 못했다는 사례들도 있습니다. 어떻게 된 건지, 팩트체크 사실은 코너에서 박세용 기자가 확인해 봤습니다. &lt;기자&gt; '고향사랑 기부제'는 자신의 주소지가 아닌 지자체에 기부하면 10만 원까지는 전액]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['실체적 진실' 드러나 특검 필요 없다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240709201309120</id>
+        <link href="https://v.daum.net/v/20240709201309120"/>
+        <updated>2024-07-09T11:17:56.084Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 임성근 전 사단장은 무혐의라는 내용을 담은 경찰의 수사 결과가 나오자마자, 어제 대통령실은 마치 기다렸다는 듯 거부권 행사를 예고했죠. 그러면서 경찰이 밝힌 실체적 진실이 그동안 제기됐던 의혹과는 많이 다르다는 것이 드러났다고 설명했습니다. 경찰 수사에서 이렇게 나왔는데 특검을 할 필요가 뭐가 있냐는 취지였죠. 과연 합당한 설명]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['위험의 이주화' 어디까지 왔나? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20240628202817495</id>
         <link href="https://v.daum.net/v/20240628202817495"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20240217202513444"/>
         <updated>2024-02-17T12:29:30.586Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "영수회담은 없어진 방식"‥사실? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20240208200415626</id>
-        <link href="https://v.daum.net/v/20240208200415626"/>
-        <updated>2024-02-08T11:17:29.853Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ KBS 팩트체크K)]]></title>

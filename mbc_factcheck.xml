@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-07-09T10:22:42.455Z</updated>
+    <updated>2024-07-09T11:18:35.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['실체적 진실' 드러나 특검 필요 없다?]]></title>
+        <id>https://v.daum.net/v/20240709201309120</id>
+        <link href="https://v.daum.net/v/20240709201309120"/>
+        <updated>2024-07-09T11:17:56.084Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 임성근 전 사단장은 무혐의라는 내용을 담은 경찰의 수사 결과가 나오자마자, 어제 대통령실은 마치 기다렸다는 듯 거부권 행사를 예고했죠. 그러면서 경찰이 밝힌 실체적 진실이 그동안 제기됐던 의혹과는 많이 다르다는 것이 드러났다고 설명했습니다. 경찰 수사에서 이렇게 나왔는데 특검을 할 필요가 뭐가 있냐는 취지였죠. 과연 합당한 설명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위험의 이주화' 어디까지 왔나?]]></title>
         <id>https://v.daum.net/v/20240628202817495</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240217202513444"/>
         <updated>2024-02-17T12:29:51.294Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "영수회담은 없어진 방식"‥사실?]]></title>
-        <id>https://v.daum.net/v/20240208200415626</id>
-        <link href="https://v.daum.net/v/20240208200415626"/>
-        <updated>2024-02-08T11:17:48.023Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 94분 동안 이뤄진 대담에서 윤석열 대통령은 현안을 설명하며 과거 사례나, 통계를 언급하기도 했습니다. 사실관계는 어떤지, 팩트체크 &lt;알고보니&gt;에서 확인했습니다. ◀ 리포트 ▶ 대통령과 야당 대표가 만나는 영수회담에 대해 윤석열 대통령은 없어진 지 꽤 됐다고 말했습니다. [윤석열 대통령] "엄연히 당의 지도부라는 것과 대통령실은]]></content>
     </entry>
 </feed>
