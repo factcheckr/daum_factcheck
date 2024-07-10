@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-10T07:21:58.341Z</updated>
+    <updated>2024-07-10T08:28:13.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김건희 명품백이 대통령기록물? 국격이 있는데" 권익위원도 반대했다 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240710170300304</id>
+        <link href="https://v.daum.net/v/20240710170300304"/>
+        <updated>2024-07-10T08:27:06.466Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ 국민권익위, 대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서 공개&nbsp;정승윤 국민권익위원회 부위원장이 9일 오전 서울 종로구 정부서울청사 브리핑실에서 '대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서'를 공개하는 브리핑을 하고 있다. 신고사건 관련 의결서 대외 공개는 국민권익위 설치 이래 처음이다.ⓒ 이정민&nbsp; 국민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '실체적 진실' 드러나 특검 필요 없다?]]></title>
         <id>https://v.daum.net/v/20240709201309120</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240628060040609"/>
         <updated>2024-06-27T21:18:50.082Z</updated>
         <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 인구 감소 위기, ‘스포츠’로 극복]]></title>
-        <id>https://v.daum.net/v/20240627085631789</id>
-        <link href="https://v.daum.net/v/20240627085631789"/>
-        <updated>2024-06-27T01:24:57.872Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
     </entry>
 </feed>
