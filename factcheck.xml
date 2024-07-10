@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-10T11:18:40.028Z</updated>
+    <updated>2024-07-10T12:39:52.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭염에도 '노 에어컨'…"선수만 고생" 파리 무슨 일 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240710204522366</id>
+        <link href="https://v.daum.net/v/20240710204522366"/>
+        <updated>2024-07-10T12:38:43.393Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 40도를 넘나드는 더위 속에 이번 달 개막하는 파리 올림픽에서는 선수촌에 에어컨이 없습니다. 탄소 배출을 줄이겠다는 이유에서입니다. 선수들만 고생시킨다는 지적이 나오는데, 실제로 선수촌에 에어컨을 켜지 않는 게 환경에 얼마나 도움이 될지 팩트체크 코너에서 따져봤습니다. 박세용 기자입니다. &lt;기자&gt; 섭씨 40도를 넘나드는데, 선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["김건희 명품백이 대통령기록물? 국격이 있는데" 권익위원도 반대했다 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240710170300304</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240628202817495"/>
         <updated>2024-06-28T12:38:04.843Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 화성 화재 참사로 숨진 23명 가운데 18명이 외국인 노동자라는 사실이 알려지면서 '위험의 이주화'라는 말이 주목받고 있습니다. 위험한 일을 하청업체에 맡기는 외주화를 넘어 이제 외국인 노동자들에게 넘기는 '이주화'로 가고 있다는 건데요. '위험의 이주화', 어디까지 왔는지 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 상속세, 재산세 징수 잘되니 이중과세?]]></title>
-        <id>https://v.daum.net/v/20240628060040609</id>
-        <link href="https://v.daum.net/v/20240628060040609"/>
-        <updated>2024-06-27T21:18:50.082Z</updated>
-        <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
     </entry>
 </feed>
