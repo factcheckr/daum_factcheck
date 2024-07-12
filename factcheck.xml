@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-12T05:20:47.367Z</updated>
+    <updated>2024-07-12T06:29:05.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 채상병 특검법은 반헌법적이다?]]></title>
+        <id>https://v.daum.net/v/20240712150140053</id>
+        <link href="https://v.daum.net/v/20240712150140053"/>
+        <updated>2024-07-12T06:27:58.638Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안'(이하 채상병 특검법안)에 대해 두번째 재의요구권(거부권)을 행사했습니다. 이에 더불어민주당은 오는 19일 채상병 순직 1주기를 앞두고 “국민을 상대로 선전 포고를 한 것”이라며 재의결을 예고했고, 국민의힘은 “민주주의 원칙을 훼손한 반헌법적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭염에도 '노 에어컨'…"선수만 고생" 파리 무슨 일 [사실은]]]></title>
         <id>https://v.daum.net/v/20240710204522366</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240630105812527"/>
         <updated>2024-06-30T02:38:47.321Z</updated>
         <content type="html"><![CDATA[[세종=뉴시스] 박영주 기자 = 제왕절개 산모가 분만할 때 무통주사와 함께 사용하는 '페인버스터'를 두고 혼란이 가중되고 있다. 산모는 페인버스터를 무통주사와 함께 사용하지 못할 경우 분만 시 통증이 커질 수 있다고 우려하는 반면 정부는 페인버스터 효과가 불분명하다는 입장이다. 앞서 정부는 분만 시 무통주사와 수술 부위 국소마취제를 투여하는 '페인버스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '위험의 이주화' 어디까지 왔나?]]></title>
-        <id>https://v.daum.net/v/20240628202817495</id>
-        <link href="https://v.daum.net/v/20240628202817495"/>
-        <updated>2024-06-28T12:38:04.843Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 화성 화재 참사로 숨진 23명 가운데 18명이 외국인 노동자라는 사실이 알려지면서 '위험의 이주화'라는 말이 주목받고 있습니다. 위험한 일을 하청업체에 맡기는 외주화를 넘어 이제 외국인 노동자들에게 넘기는 '이주화'로 가고 있다는 건데요. '위험의 이주화', 어디까지 왔는지 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶]]></content>
     </entry>
 </feed>
