@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-18T04:25:52.387Z</updated>
+    <updated>2024-07-18T05:21:27.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240718140001806</id>
+        <link href="https://v.daum.net/v/20240718140001806"/>
+        <updated>2024-07-18T05:20:29.631Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;어린이 보호구역(스쿨존) 표지.ⓒ 김보성&nbsp; 윤석열 정부 첫 해인 2022년 교통법규 위반 과태료 부과 금액이 급증하면서 과태료 징수 결정액이 처음 2조 원을 돌파한 것으로 나타났다. 이 때문에 정치권과 일부 누리꾼은 윤석열 정부가 부족한 세수를 메우려고 교통 단속을 강화한 게 아니냐는 의혹을 제기하기도 했다.&nbsp; 윤석열 정부 들어 교통위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 채상병 특검법은 반헌법적이다?]]></title>
         <id>https://v.daum.net/v/20240712150140053</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240702060140361"/>
         <updated>2024-07-01T21:19:36.811Z</updated>
         <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["페인버스터, 분만 시 통증 줄여준다고?"[리얼팩트]]]></title>
-        <id>https://v.daum.net/v/20240630105812527</id>
-        <link href="https://v.daum.net/v/20240630105812527"/>
-        <updated>2024-06-30T02:38:47.321Z</updated>
-        <content type="html"><![CDATA[[세종=뉴시스] 박영주 기자 = 제왕절개 산모가 분만할 때 무통주사와 함께 사용하는 '페인버스터'를 두고 혼란이 가중되고 있다. 산모는 페인버스터를 무통주사와 함께 사용하지 못할 경우 분만 시 통증이 커질 수 있다고 우려하는 반면 정부는 페인버스터 효과가 불분명하다는 입장이다. 앞서 정부는 분만 시 무통주사와 수술 부위 국소마취제를 투여하는 '페인버스]]></content>
     </entry>
 </feed>
