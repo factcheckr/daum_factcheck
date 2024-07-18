@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-18T07:20:55.710Z</updated>
+    <updated>2024-07-18T08:27:33.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240718171841891</id>
+        <link href="https://v.daum.net/v/20240718171841891"/>
+        <updated>2024-07-18T08:25:27.425Z</updated>
+        <content type="html"><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240718140001806</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240703172121619"/>
         <updated>2024-07-03T08:25:51.975Z</updated>
         <content type="html"><![CDATA[[이데일리 윤정훈 기자] 국회가 ‘한미일 동맹’이라는 말 한마디로 인해 파행되는 초유의 사태가 벌어졌다. 국회 대정부질문 첫날 김병주 더불어민주당 의원은 국민의힘의 ‘한미일 동맹’ 관련 논평을 지적하며 사과를 요구했다. 국민의힘은 김 의원이 막말을 했다며 먼저 사과하라고 맞섰다. 한미일 동맹이라는 말은 왜 국회 파행의 뇌관이 됐을까. 더불어민주당 김병주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 광화문 광장에 100m 태극기 게양대 세운다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240702060140361</id>
-        <link href="https://v.daum.net/v/20240702060140361"/>
-        <updated>2024-07-01T21:19:36.811Z</updated>
-        <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폭염에도 '노 에어컨'…"선수만 고생" 파리 무슨 일 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[[박성우 기자] ▲ &nbsp;원 후보는 "유동수 의원과 차관을 만났다 이렇게 말씀하시는데 허위사실 공표, 과거에 이미 기소됐는데"라며 이 후보가 허위사실 공표로 기소된 전적을 언급했다.ⓒ OBS뉴스 유튜브 갈무리&nbsp; [검증 대상] 이재명 "GTX 노선 관련해 국토부차관-유동수 의원 만나 협의했다" 제1야당 대표와 전직 국토부장관이 맞붙은 '인천 계양을 이재명-원희룡]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240718171841891</id>
+        <link href="https://v.daum.net/v/20240718171841891"/>
+        <updated>2024-07-18T08:27:32.951Z</updated>
+        <content type="html"><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[채상병 특검법은 반헌법적이다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240712150140053</id>
         <link href="https://v.daum.net/v/20240712150140053"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240422192513014"/>
         <updated>2024-04-22T11:15:54.860Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령이 오는 6월 이탈리아 G7 정상회의에 초청받지 못하자 정치권에서 '외교 실패'란 지적이 나오며 공방이 벌어졌습니다. 이걸 놓고 대통령실은 "유럽이 의장국일 때는 아프리카 국가들 위주로 초청해 왔다"고 설명했는데, 따져보니 반은 맞고 반은 틀린 주장이었습니다. 윤샘이나 기자가 팩트체크했습니다. [기자] 해마다 열리는 G7 정상회의에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선관위 직원이 '새벽에 은밀히' 투표지 투입? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240408192142858</id>
-        <link href="https://v.daum.net/v/20240408192142858"/>
-        <updated>2024-04-08T10:24:26.591Z</updated>
-        <content type="html"><![CDATA[[앵커] 선관위 직원이 새벽에 사전 투표함을 열어 투표용지가 든 봉투를 넣는 CCTV 영상이 온라인으로 퍼지면서 부정선거 정황 아니냔 의혹이 제기됐습니다. 선관위는 곧바로 반박했는데, 배양진 기자가 팩트체크했습니다. [기자] 한 유튜버가 어제(7일) 새벽 촬영한 서울 은평구 선관위의 사전 투표함 CCTV 영상입니다. 새벽 3시쯤 선관위 직원이 투표함 봉인지]]></content>
     </entry>
 </feed>
