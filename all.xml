@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-22T10:23:26.581Z</updated>
+    <updated>2024-07-22T11:18:48.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 영부인의 '청사 밖 조사' 특혜 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240722200713021</id>
+        <link href="https://v.daum.net/v/20240722200713021"/>
+        <updated>2024-07-22T11:17:41.555Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 비공개 소환되고 검찰청사 밖에서 이뤄진 검건희 여사에 대한 검찰 조사에 대해 대통령실은, 경호상의 이유일뿐 특혜가 아니라고 밝혔습니다. 하지만 일반인은 상상할 수 없는 특혜라는 비판이 가라앉지 않고 있는데요. 특혜일까요, 아닐까요, 팩트체크 〈알고보니〉에서 과거 전현직 대통령 일가의 수사 사례를 통해 확인해 봤습니다. 이준범 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['과잉 경호' 법적 처벌 가능할까?…변우석-손흥민 사례 비교해 보니 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240720203006696</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240709091515924"/>
         <updated>2024-07-09T01:27:02.397Z</updated>
         <content type="html"><![CDATA[지난 8일 오후 국회 문화체육관광위원회에서 열린 문화체육관광부 등 업무보고에서 지난해 8월 열렸던 '2023 새만금 세계스카우트잼버리'에 관한 논쟁이 벌어졌다. 이날 초선 비례의원인 강유정 더불어민주당 의원은 업무보고 현안 질의를 통해 지난해 8월 11일 상암경기장에서 열렸던 'K-팝 라이브'를 문제삼았다. 특히 지난 4일 새로 임명된 용호성 문체부 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]연이은 고령 운전자 사고…강제 '면허 반납' 필요한가 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240709063003603</id>
-        <link href="https://v.daum.net/v/20240709063003603"/>
-        <updated>2024-07-08T22:19:27.782Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 남해인 유수연 기자 = 9명의 사망자를 낸 '시청역 역주행 참사'가 발생한 지 이틀 만에 국립중앙의료원 차량 돌진 사고가 연이어 일어났습니다. 두 사고 차량의 운전자 나이는 각 만 68세, 80대로 확인돼 고령 운전자의 면허를 반납하게 해야 한다는 주장에 불을 붙였습니다. 하지만 초고령사회(만 65세 인구가 전체 인구의 20% 이상) 진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['과잉 경호' 법적 처벌 가능할까?…변우석-손흥민 사례 비교해 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 요즘 일본에서 '연쇄상구균 독성쇼크증후군'이라고 불리는 감염병 환자가 크게 늘고 있습니다. 치사율이 30%에 달한다는 얘기까지 나와서 일본 여행 가기 겁난다는 사람들도 많은데요. 전염력이 어느 정도인지, 또 어떤 걸 조심해야 하는지 팩트 체크 사실은 코너에서 짚어봤습니다. 박세용 기자입니다. &lt;기자&gt; 일본에서 STSS 환자는 지난 1월과 2월에만]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영부인의 '청사 밖 조사' 특혜 아니다? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240722200713021</id>
+        <link href="https://v.daum.net/v/20240722200713021"/>
+        <updated>2024-07-22T11:18:02.005Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 비공개 소환되고 검찰청사 밖에서 이뤄진 검건희 여사에 대한 검찰 조사에 대해 대통령실은, 경호상의 이유일뿐 특혜가 아니라고 밝혔습니다. 하지만 일반인은 상상할 수 없는 특혜라는 비판이 가라앉지 않고 있는데요. 특혜일까요, 아닐까요, 팩트체크 〈알고보니〉에서 과거 전현직 대통령 일가의 수사 사례를 통해 확인해 봤습니다. 이준범 기]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['실체적 진실' 드러나 특검 필요 없다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20240709201309120</id>
         <link href="https://v.daum.net/v/20240709201309120"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20240311202809198"/>
         <updated>2024-07-19T03:25:31.600Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 윤석열 대통령이 오늘 강원도를 찾아 19번째 민생토론회를 열었습니다. 윤 대통령은 이 자리에서 케이블카 추가 건설, 첨단산업 육성, 산림자원 규제 완화 등 각종 대규모 지역 개발 정책들을 약속했습니다. [윤석열 대통령] "강원이 대한민국을 넘어 세계를 향해 도약할 수 있도록 우리 정부는 꼼꼼하게 확실하게 챙기겠습니다." 현장을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사 수 많으면 의료비도 많이 든다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20240217202513444</id>
-        <link href="https://v.daum.net/v/20240217202513444"/>
-        <updated>2024-07-19T03:25:31.600Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 의대 증원에 반발하는 의사들의 반대 논리 중 하나는 의사가 많으면 진료비도 많이 든다는 겁니다. 실제로 의사수와 진료비 사이에 상관관계가 있는 건지, 팩트체크 &lt;알고보니&gt;에서 관련 통계와 연구 결과를 확인해 봤습니다. ◀ 리포트 ▶ 진료비 급증의 근거는 의사 수가 많아져 경쟁이 치열해지면 수입 감소에 대응하기 위해 의사들이 환자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
