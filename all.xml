@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-23T19:17:42.962Z</updated>
+    <updated>2024-07-23T20:22:48.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[물 폭탄 맞은 논산·부여 수박 산지…올해도 '금수박' 때문에 속앓이해야 하나 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240724043029047</id>
+        <link href="https://v.daum.net/v/20240724043029047"/>
+        <updated>2024-07-23T20:21:54.488Z</updated>
+        <content type="html"><![CDATA[최근 장마로 수박 대표 산지 중 하나인 충남 논산시·부여군이 침수 피해를 입으면서 '수박 대란'에 대한 걱정이 커지고 있다. 논산·부여 농가는 보통 5월쯤 파종해 7월 수박을 수확한다고 한다. 그런데 최근 집중호우로 썩어버리거나 수분을 흡수해 당도가 낮아진 '비(非)상품' 수박이 늘어난 것이다. 논산 농가 관계자는 23일 "지난해 장마 때도 피해가 컸지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240723203922204</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240710170300304"/>
         <updated>2024-07-10T08:27:06.466Z</updated>
         <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ 국민권익위, 대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서 공개&nbsp;정승윤 국민권익위원회 부위원장이 9일 오전 서울 종로구 정부서울청사 브리핑실에서 '대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서'를 공개하는 브리핑을 하고 있다. 신고사건 관련 의결서 대외 공개는 국민권익위 설치 이래 처음이다.ⓒ 이정민&nbsp; 국민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '실체적 진실' 드러나 특검 필요 없다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240709201309120</id>
-        <link href="https://v.daum.net/v/20240709201309120"/>
-        <updated>2024-07-09T11:17:39.334Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 임성근 전 사단장은 무혐의라는 내용을 담은 경찰의 수사 결과가 나오자마자, 어제 대통령실은 마치 기다렸다는 듯 거부권 행사를 예고했죠. 그러면서 경찰이 밝힌 실체적 진실이 그동안 제기됐던 의혹과는 많이 다르다는 것이 드러났다고 설명했습니다. 경찰 수사에서 이렇게 나왔는데 특검을 할 필요가 뭐가 있냐는 취지였죠. 과연 합당한 설명]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나 (다음 뉴스 ─ SBS 사실은)]]></title>
