@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T20:22:24.176Z</updated>
+    <updated>2024-07-24T21:20:48.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[숲가꾸기가 우리 숲에 도움된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240725053304406</id>
+        <link href="https://v.daum.net/v/20240725053304406"/>
+        <updated>2024-07-24T21:19:53.004Z</updated>
+        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 초유의 팁스 R&D 예산 지급 지연,  스타트업계 발칵 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240724060144940</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240718140001806"/>
         <updated>2024-07-18T05:20:29.631Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;어린이 보호구역(스쿨존) 표지.ⓒ 김보성&nbsp; 윤석열 정부 첫 해인 2022년 교통법규 위반 과태료 부과 금액이 급증하면서 과태료 징수 결정액이 처음 2조 원을 돌파한 것으로 나타났다. 이 때문에 정치권과 일부 누리꾼은 윤석열 정부가 부족한 세수를 메우려고 교통 단속을 강화한 게 아니냐는 의혹을 제기하기도 했다.&nbsp; 윤석열 정부 들어 교통위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 채상병 특검법은 반헌법적이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240712150140053</id>
-        <link href="https://v.daum.net/v/20240712150140053"/>
-        <updated>2024-07-12T06:27:58.638Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안'(이하 채상병 특검법안)에 대해 두번째 재의요구권(거부권)을 행사했습니다. 이에 더불어민주당은 오는 19일 채상병 순직 1주기를 앞두고 “국민을 상대로 선전 포고를 한 것”이라며 재의결을 예고했고, 국민의힘은 “민주주의 원칙을 훼손한 반헌법적]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나 (다음 뉴스 ─ SBS 사실은)]]></title>
