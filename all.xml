@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-25T07:21:59.888Z</updated>
+    <updated>2024-07-25T08:29:11.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“가자에 식량난 없다”는 네타냐후···52분간 ‘강경 발언’ 쏟아낸 미 의회 연설[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240725165015886</id>
+        <link href="https://v.daum.net/v/20240725165015886"/>
+        <updated>2024-07-25T08:26:09.900Z</updated>
+        <content type="html"><![CDATA[베냐민 네타냐후 이스라엘 총리가 24일(현지시간) 미국 의회에서 가자지구 전쟁의 ‘완전한 승리’를 강조하며 강경 발언을 쏟아냈다. 그가 미 의회에서 연설한 것은 이번이 네 번째로 세계 각국 정상들 중 가장 많이 연단에 올랐으나, 지난해 10월 가자지구 전쟁 발발 이후로는 이번이 처음이다. 미 대선을 3개월 앞둔 시점에서 워싱턴을 찾은 네타냐후 총리는 조 바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 "대만, 美 반도체 산업 빼앗아" 주장…사실은?[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240725140256279</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240719191755714"/>
         <updated>2024-07-19T10:21:28.059Z</updated>
         <content type="html"><![CDATA[18일(현지시간) 93분간 진행된&nbsp;도널드 트럼프 전 미국 대통령의 공화당 대선 후보 수락 연설 내용에 대해&nbsp;뉴욕타임스(NYT)와 CNN방송 등 현지 언론은&nbsp;실시간&nbsp;팩트체크 작업을 펼쳤다. 트럼프 전 대통령 연설 중 주요 발언의 사실 여부를 되짚어본다. 미국 공화당 대선 후보로 공식 지명된 도널드 트럼프 전 대통령이 18일(현지시간) 위스콘신주 밀워키에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240718171841891</id>
-        <link href="https://v.daum.net/v/20240718171841891"/>
-        <updated>2024-07-18T08:25:27.425Z</updated>
-        <content type="html"><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나 (다음 뉴스 ─ SBS 사실은)]]></title>
