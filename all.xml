@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-25T04:28:06.159Z</updated>
+    <updated>2024-07-25T05:21:32.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[트럼프 "대만, 美 반도체 산업 빼앗아" 주장…사실은?[리얼팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240725140256279</id>
+        <link href="https://v.daum.net/v/20240725140256279"/>
+        <updated>2024-07-25T05:20:36.019Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 권성근 기자 = 미국 공화당 대선 후보인 도널드 트럼프 전 대통령은 바이든 행정부의 '반도체 지원법'을 정면 비판했다. 트럼프 전 대통령은 최근 미 언론과의 인터뷰에서 미국의 반도체 산업과 관련해 "대만이 우리 반도체 사업을 모두 가져갔다"며 "대만은 엄청나게 부유하다"고 주장했다. 그러면서 그는 "우리는 절대 그런 일이 일어나도록 놔두지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숲가꾸기가 우리 숲에 도움된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240725053304406</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240718171841891"/>
         <updated>2024-07-18T08:25:27.425Z</updated>
         <content type="html"><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 교통위반 과태료 역대 최대, 검증해보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240718140001806</id>
-        <link href="https://v.daum.net/v/20240718140001806"/>
-        <updated>2024-07-18T05:20:29.631Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;어린이 보호구역(스쿨존) 표지.ⓒ 김보성&nbsp; 윤석열 정부 첫 해인 2022년 교통법규 위반 과태료 부과 금액이 급증하면서 과태료 징수 결정액이 처음 2조 원을 돌파한 것으로 나타났다. 이 때문에 정치권과 일부 누리꾼은 윤석열 정부가 부족한 세수를 메우려고 교통 단속을 강화한 게 아니냐는 의혹을 제기하기도 했다.&nbsp; 윤석열 정부 들어 교통위]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나 (다음 뉴스 ─ SBS 사실은)]]></title>
