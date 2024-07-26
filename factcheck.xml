@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-26T11:21:59.054Z</updated>
+    <updated>2024-07-26T12:39:32.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["BTS 진 성화 봉송, 한국 정부가 돈 써서"?…팩트 체크 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240726204810853</id>
+        <link href="https://v.daum.net/v/20240726204810853"/>
+        <updated>2024-07-26T12:37:30.260Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 얼마 전 그룹 방탄소년단 멤버 진이 파리올림픽 성화 봉송에 참여해 화제가 됐죠. 그런데 일본에서는 이를 두고 한국 정부가 힘을 썼을 거라는 주장이 적지 않게 나오고 있습니다. 과연 근거가 있는 주장인지, 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 성화 봉송 주자로 나선 BTS의 맏형 진이 모습을 보이자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라가 동남아성 기후로 바뀌었다?]]></title>
         <id>https://v.daum.net/v/20240726100141041</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240723203922204"/>
         <updated>2024-07-23T12:39:26.977Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 축구 국가대표팀 감독 선임 과정을 놓고 비판이 거세지자 정부가 축구협회에 대한 감사에 착수했습니다. 그러자 축구협회 쪽에서 만약 정부가 개입할 경우 FIFA의 제재를 받아 월드컵 출전이 막힐 수 있다는 이야기를 하면서 논란이 더 커지고 있습니다. 과연 이게 맞는 말일지 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 영부인의 '청사 밖 조사' 특혜 아니다?]]></title>
-        <id>https://v.daum.net/v/20240722200713021</id>
-        <link href="https://v.daum.net/v/20240722200713021"/>
-        <updated>2024-07-22T11:17:41.555Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 비공개 소환되고 검찰청사 밖에서 이뤄진 검건희 여사에 대한 검찰 조사에 대해 대통령실은, 경호상의 이유일뿐 특혜가 아니라고 밝혔습니다. 하지만 일반인은 상상할 수 없는 특혜라는 비판이 가라앉지 않고 있는데요. 특혜일까요, 아닐까요, 팩트체크 〈알고보니〉에서 과거 전현직 대통령 일가의 수사 사례를 통해 확인해 봤습니다. 이준범 기]]></content>
     </entry>
 </feed>
