@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-25T23:22:47.297Z</updated>
+    <updated>2024-07-26T01:28:51.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라가 동남아성 기후로 바뀌었다?]]></title>
+        <id>https://v.daum.net/v/20240726100141041</id>
+        <link href="https://v.daum.net/v/20240726100141041"/>
+        <updated>2024-07-26T01:26:51.616Z</updated>
+        <content type="html"><![CDATA[올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되고 있습니다. 지난 10일 전북 군산에선 한 시간 동안 146mm의 폭우가 쏟아졌습니다. 군산 지역의 연평균 강수량이 1246㎜인데 1년 내릴 비의 11%가 넘는 양입니다. 기상청은 200년 만에 한 번 내릴 정도의 강한 비라고 밝혔습니다. 2년 전 전조(前兆)가 있었습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 '산림 바이오매스' 원목 태운다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240726053313030</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240722200713021"/>
         <updated>2024-07-22T11:17:41.555Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 비공개 소환되고 검찰청사 밖에서 이뤄진 검건희 여사에 대한 검찰 조사에 대해 대통령실은, 경호상의 이유일뿐 특혜가 아니라고 밝혔습니다. 하지만 일반인은 상상할 수 없는 특혜라는 비판이 가라앉지 않고 있는데요. 특혜일까요, 아닐까요, 팩트체크 〈알고보니〉에서 과거 전현직 대통령 일가의 수사 사례를 통해 확인해 봤습니다. 이준범 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['과잉 경호' 법적 처벌 가능할까?…변우석-손흥민 사례 비교해 보니 [사실은]]]></title>
-        <id>https://v.daum.net/v/20240720203006696</id>
-        <link href="https://v.daum.net/v/20240720203006696"/>
-        <updated>2024-07-20T12:35:43.561Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 최근 인천공항에서 배우 변우석 씨를 두고 과잉 경호 논란이 일었었죠. 이 사설 경호원들에게 법적인 책임까지 물을 수 있는 건지, 팩트체크 사실은 코너에서 쟁점별로 나눠서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 홍콩에서 팬 미팅을 마치고 귀국한 배우 변우석 씨, 출국 때보다 경호 인력을 반으로 줄여 3명만 배치했는데 인파가]]></content>
     </entry>
 </feed>
