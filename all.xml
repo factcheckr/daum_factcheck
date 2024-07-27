@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-27T20:21:23.165Z</updated>
+    <updated>2024-07-27T21:20:02.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[건물에 나무 심으면 친환경이다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240728060309511</id>
+        <link href="https://v.daum.net/v/20240728060309511"/>
+        <updated>2024-07-27T21:19:05.099Z</updated>
+        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나무 태우는 산림바이오매스, IPCC 인정한 탄소중립 에너지원이다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240727150301589</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240724060144940"/>
         <updated>2024-07-23T21:22:26.679Z</updated>
         <content type="html"><![CDATA[인공지능(AI) 관련 스타트업 A사는 지난해 중소벤처기업부로부터 유망 스타트업을 위한 연구·개발(R&amp;D) 과제를 받아 내년까지 이를 마치는 대가로 총 5억원을 받기로 하고 관련 인력을 뽑았다. 한데 A사는 별안간 올 하반기 중 시작하는 2년 차 과제 지원금을 80%만 지급하고, 20%는 내년에 주겠다는 통보를 받았다. 예산은 첫해 3억원이, 둘째 해 나머지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나무 베어 탄소 중립 해결한다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240724053301579</id>
-        <link href="https://v.daum.net/v/20240724053301579"/>
-        <updated>2024-07-23T21:22:26.679Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["BTS 진 성화 봉송, 한국 정부가 돈 써서"?…팩트 체크 (다음 뉴스 ─ SBS 사실은)]]></title>
