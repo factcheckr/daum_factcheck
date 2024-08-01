@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-07-31T23:20:57.837Z</updated>
+    <updated>2024-08-01T01:42:37.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 그냥 노는 대졸 백수 400만명 넘었다?]]></title>
+        <id>https://v.daum.net/v/20240801100040639</id>
+        <link href="https://v.daum.net/v/20240801100040639"/>
+        <updated>2024-08-01T01:41:30.747Z</updated>
+        <content type="html"><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임도 확대는 환경파괴다?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240730053301567</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240726053313030"/>
         <updated>2024-07-25T21:19:17.392Z</updated>
         <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가자에 식량난 없다”는 네타냐후···52분간 ‘강경 발언’ 쏟아낸 미 의회 연설[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240725165015886</id>
-        <link href="https://v.daum.net/v/20240725165015886"/>
-        <updated>2024-07-25T08:26:09.900Z</updated>
-        <content type="html"><![CDATA[베냐민 네타냐후 이스라엘 총리가 24일(현지시간) 미국 의회에서 가자지구 전쟁의 ‘완전한 승리’를 강조하며 강경 발언을 쏟아냈다. 그가 미 의회에서 연설한 것은 이번이 네 번째로 세계 각국 정상들 중 가장 많이 연단에 올랐으나, 지난해 10월 가자지구 전쟁 발발 이후로는 이번이 처음이다. 미 대선을 3개월 앞둔 시점에서 워싱턴을 찾은 네타냐후 총리는 조 바]]></content>
     </entry>
 </feed>
