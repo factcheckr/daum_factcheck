@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-08-12T10:23:51.135Z</updated>
+    <updated>2024-08-12T11:20:20.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴라이트가 역사기관장 점령했다?]]></title>
+        <id>https://v.daum.net/v/20240812201014938</id>
+        <link href="https://v.daum.net/v/20240812201014938"/>
+        <updated>2024-08-12T11:19:33.906Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 논란의 중심에 선 김형석 독립기념관장 외에도, 역사 관련 기관 요직을 뉴라이트 성향 인사들이 독식하고 있다는 지적이 나오고 있는데요. 국내 3대 역사기관의 현재 상황, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 동북아역사재단, 국사편찬위원회, 그리고 한국학중앙연구원은 정부 산하의 국내 3대 역사 기관으로 꼽힙니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영부인의 '청사 밖 조사' 특혜 아니다?]]></title>
         <id>https://v.daum.net/v/20240722200713021</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240325201614133"/>
         <updated>2024-07-19T03:25:31.593Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 총선이 다가오면서 언론사들도 경쟁적으로 여론조사 보도를 내놓고 있습니다. 그중에는 1주일 사이 정당 지지율이 급등했다거나, 반대로 급락했다는 자극적인 보도도 잇따르고 있는데요. 민심이 이렇게 1주일 단위로 크게 요동친다는 걸 믿을 수 있을지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 지난주 금요일에 나온 여론조사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 민생토론 '총선 개입 논란' 따져보니]]></title>
-        <id>https://v.daum.net/v/20240311202809198</id>
-        <link href="https://v.daum.net/v/20240311202809198"/>
-        <updated>2024-07-19T03:25:31.600Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 윤석열 대통령이 오늘 강원도를 찾아 19번째 민생토론회를 열었습니다. 윤 대통령은 이 자리에서 케이블카 추가 건설, 첨단산업 육성, 산림자원 규제 완화 등 각종 대규모 지역 개발 정책들을 약속했습니다. [윤석열 대통령] "강원이 대한민국을 넘어 세계를 향해 도약할 수 있도록 우리 정부는 꼼꼼하게 확실하게 챙기겠습니다." 현장을]]></content>
     </entry>
 </feed>

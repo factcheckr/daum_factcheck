@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-12T10:23:51.123Z</updated>
+    <updated>2024-08-12T11:20:20.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 뉴라이트가 역사기관장 점령했다?]]></title>
+        <id>https://v.daum.net/v/20240812201014938</id>
+        <link href="https://v.daum.net/v/20240812201014938"/>
+        <updated>2024-08-12T11:19:10.663Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 논란의 중심에 선 김형석 독립기념관장 외에도, 역사 관련 기관 요직을 뉴라이트 성향 인사들이 독식하고 있다는 지적이 나오고 있는데요. 국내 3대 역사기관의 현재 상황, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 동북아역사재단, 국사편찬위원회, 그리고 한국학중앙연구원은 정부 산하의 국내 3대 역사 기관으로 꼽힙니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크 '사실은'] 전기차 틀어막는다고 주차장이 더 안전해질까?]]></title>
         <id>https://v.daum.net/v/20240812124502257</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240727150301589</id>
         <link href="https://v.daum.net/v/20240727150301589"/>
         <updated>2024-07-27T06:25:51.729Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이 빨대가 플라스틱보다 친환경적이다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240727060323544</id>
-        <link href="https://v.daum.net/v/20240727060323544"/>
-        <updated>2024-07-26T21:20:19.026Z</updated>
         <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
 </feed>
