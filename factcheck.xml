@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-15T05:22:34.003Z</updated>
+    <updated>2024-08-15T06:30:06.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가?]]></title>
+        <id>https://v.daum.net/v/20240815150840730</id>
+        <link href="https://v.daum.net/v/20240815150840730"/>
+        <updated>2024-08-15T06:28:56.345Z</updated>
+        <content type="html"><![CDATA[지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격 논란이 계속되고 있습니다. 윤석열 대통령의 김 관장 임명이 반쪽 광복절을 만든 원인입니다. 독립운동가 후손 단체인 광복회는 임명 강행에 반대해 처음으로 광복절 기념식에 불참했고 48개 국내 역사학회와 단체는 임명 철회를 요구하는 공동 성명서를 발표했습니다. 김 관장은 "사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]중국산이 더 위험?…배터리 정보공개는 양날의 검]]></title>
         <id>https://v.daum.net/v/20240815080013735</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240728150302130</id>
         <link href="https://v.daum.net/v/20240728150302130"/>
         <updated>2024-07-28T06:26:43.844Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물에 나무 심으면 친환경이다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240728060309511</id>
-        <link href="https://v.daum.net/v/20240728060309511"/>
-        <updated>2024-07-27T21:19:05.099Z</updated>
         <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
 </feed>
