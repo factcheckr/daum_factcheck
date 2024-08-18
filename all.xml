@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-18T20:21:11.539Z</updated>
+    <updated>2024-08-18T21:20:37.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한동훈-이복현, 엇갈린 금투세 해석…누가 맞을까?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240819053304307</id>
+        <link href="https://v.daum.net/v/20240819053304307"/>
+        <updated>2024-08-18T21:18:33.589Z</updated>
+        <content type="html"><![CDATA[한동훈 "현재 사모펀드 환매하면 최대 49.5% 과세인데 금투세 강행되면 27.5%로 세율 자체가 줄어…."(2024.8.8. 최고위원회 회의) 이복현 "개인이 직접 투자할 경우 예를 들어 20%의 세율 부담하는데 (사모)펀드에 담으면 50% 부담하게 돼…."(2024.8.8. 자산운용사 CEO 간담회 후 언론 브리핑) 금융투자소득세는 '부자 증세'일까요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240815150840730</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20240729053301145</id>
         <link href="https://v.daum.net/v/20240729053301145"/>
         <updated>2024-07-28T21:19:55.912Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나무만 심으면 기후변화 해결된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240728150302130</id>
-        <link href="https://v.daum.net/v/20240728150302130"/>
-        <updated>2024-07-28T06:26:43.844Z</updated>
         <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
     <entry>
