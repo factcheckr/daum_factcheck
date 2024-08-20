@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-20T05:20:34.807Z</updated>
+    <updated>2024-08-20T06:31:34.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[한동훈-이복현, 엇갈린 금투세 해석…누가 맞을까?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240819053304307</id>
