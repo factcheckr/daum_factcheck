@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-21T12:40:20.404Z</updated>
+    <updated>2024-08-21T13:27:29.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 [사실은]]]></title>
         <id>https://v.daum.net/v/20240821205109867</id>
