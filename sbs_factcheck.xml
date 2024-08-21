@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-08-21T11:16:59.156Z</updated>
+    <updated>2024-08-21T12:40:20.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의]]></title>
+        <id>https://v.daum.net/v/20240821205109867</id>
+        <link href="https://v.daum.net/v/20240821205109867"/>
+        <updated>2024-08-21T12:39:28.116Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 음주 운전하다가 사고를 낸 뒤에 아예 술을 더 마셔서 경찰의 음주측정을 방해하는 범죄가 잇따르고 있습니다. 이걸 막기 위한 이른바 '김호중 방지법'이 국회에 발의됐는데, 가수 김호중 씨 팬들이 심각한 명예훼손이라며 반대하고 나섰습니다. 정말 그런 것인지 팩트체크 '사실은' 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 최근 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[억대 받는 선수도…메달리스트 포상에 세금 펑펑?]]></title>
         <id>https://v.daum.net/v/20240809204209603</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240419210307489"/>
         <updated>2024-07-19T03:25:22.448Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 마시면 취한 느낌이 드는 데, 알코올은 들어 있지 않은 술이 나와서 논란이 되고 있다는 소식 어제(18일) 전해 드렸습니다. 음주 단속에도 걸리지 않는데 이거 위험한 거 아니냐, 혹시 무슨 마약 성분 든 거 아니냐, 이런 궁금증도 꼬리를 물고 이어졌습니다. 그래서 저희가 술의 성분을 더 취재해 봤습니다. 팩트 체크 사실은 코너 박세용 기자입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알코올 없이도 취한 느낌" 논란의 술…마시고 운전해도 '0.000%']]></title>
-        <id>https://v.daum.net/v/20240418204507578</id>
-        <link href="https://v.daum.net/v/20240418204507578"/>
-        <updated>2024-07-19T03:25:22.448Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 알코올이 없는데 마시면 취한다는 술이 영국에서&nbsp;판매되고 있습니다. 국내에서도 이걸 마셔보는 영상이 잇따라 올라오고 있는데&nbsp;정말 술을 마신 것처럼 취하는 건지.&nbsp;만약 취한다면 음주운전 단속에서는 어떻게 되는지 궁금해하는 분들 많습니다. 팩트체크 사실은 팀에서 직접 확인해 봤습니다. 박세용 기자입니다. &lt;기자&gt; 영국의 한 대학교수가 알코올 없는 술을]]></content>
     </entry>
 </feed>

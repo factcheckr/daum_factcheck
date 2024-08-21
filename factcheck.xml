@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-21T11:16:59.148Z</updated>
+    <updated>2024-08-21T12:40:20.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240821205109867</id>
+        <link href="https://v.daum.net/v/20240821205109867"/>
+        <updated>2024-08-21T12:39:18.521Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 음주 운전하다가 사고를 낸 뒤에 아예 술을 더 마셔서 경찰의 음주측정을 방해하는 범죄가 잇따르고 있습니다. 이걸 막기 위한 이른바 '김호중 방지법'이 국회에 발의됐는데, 가수 김호중 씨 팬들이 심각한 명예훼손이라며 반대하고 나섰습니다. 정말 그런 것인지 팩트체크 '사실은' 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 최근 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈-이복현, 엇갈린 금투세 해석…누가 맞을까?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240819053304307</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240730053301567</id>
         <link href="https://v.daum.net/v/20240730053301567"/>
         <updated>2024-07-29T21:21:29.208Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미이용' 산림바이오매스 몰아주기 역효과 나고 있다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240729053301145</id>
-        <link href="https://v.daum.net/v/20240729053301145"/>
-        <updated>2024-07-28T21:19:55.912Z</updated>
         <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
 </feed>
