@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-22T08:28:06.830Z</updated>
+    <updated>2024-08-22T09:22:57.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]'과충전' 놓고 격돌한 민관…쟁점 5가지]]></title>
+        <id>https://v.daum.net/v/20240822174945026</id>
+        <link href="https://v.daum.net/v/20240822174945026"/>
+        <updated>2024-08-22T09:21:51.591Z</updated>
+        <content type="html"><![CDATA[전기차 화재 예방대책의 일환으로 거론된 과충전 제한 방안을 둘러싸고 논란이 사그라들지 않고 있다. 화재원인이 특정되지 않은 상황에서 서울시가 나서 충전율에 따라 주차장을 쓰지 못하도록 하는 방안을 추진하고 있기 때문이다. 전기차 차주를 비롯해 완성차 제작사, 정부에선 이에 대해 부정적인 입장을 내비쳤다. 쟁점사안을 정리해봤다. 과충전이 화재 위험 높인다?서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 [사실은]]]></title>
         <id>https://v.daum.net/v/20240821205109867</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240801100040639"/>
         <updated>2024-08-01T01:41:30.747Z</updated>
         <content type="html"><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임도 확대는 환경파괴다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240730053301567</id>
-        <link href="https://v.daum.net/v/20240730053301567"/>
-        <updated>2024-07-29T21:21:29.208Z</updated>
-        <content type="html"><![CDATA[편집자 주'탄소 중립'. 배출한 이산화탄소만큼 흡수해 결과적으로 순 배출량을 '0'으로 만들자는 의미다. 폭염과 한파, 홍수 등 세계 곳곳에서 이상 기후 현상이 잦아지면서 탄소 중립은 인류의 최우선 과제 중 하나가 됐다. 친환경이 어느 때보다 중요한 시기, 한국의 초록이 '녹'슬고 있다. CBS노컷뉴스는 '독이 된 녹색, 친환경의 배신: 숲이 위험하다' 연]]></content>
     </entry>
 </feed>
