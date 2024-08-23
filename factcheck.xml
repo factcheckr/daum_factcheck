@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-23T09:22:50.784Z</updated>
+    <updated>2024-08-23T10:23:26.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240823185101981</id>
+        <link href="https://v.daum.net/v/20240823185101981"/>
+        <updated>2024-08-23T10:22:08.128Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;일부 언론은 23일 부천 호텔 화재 사건 관련 한 생존자가 "일산화탄소는 물에 녹는다"라는 지식을 활용해 샤워기 물을 틀었다고 보도했다.ⓒ 뉴스119명의 사상자가 발생한 22일 경기도 부천시 호텔 화재 현장에서 구조된 한 투숙객이 "일산화탄소가 물에 녹는다"는 지식을 활용해 살 수 있었다는 보도가 나와 논란이 되고 있다. 일부 언론은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]'과충전' 놓고 격돌한 민관…쟁점 5가지]]></title>
         <id>https://v.daum.net/v/20240822174945026</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240807181502067"/>
         <updated>2024-08-07T09:22:35.398Z</updated>
         <content type="html"><![CDATA[‘최저임금도 못 받는 9급 공무원’. 최근 ‘저연차 공무원 엑소더스’의 원인으로 지목된 열악한 처우를 상징하는 표현이다. 전국공무원노동조합 소속 청년공무원 150여명은 지난 6일 기자회견을 열고 “월급이 최저임금(월 206만원)보다 적다”며 임금·수당 현실화를 촉구했다. 이들은 ‘4년차 9급 실수령액 194만원’, ‘10년차 실수령액 250만원’이라며 “더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 그냥 노는 대졸 백수 400만명 넘었다?]]></title>
-        <id>https://v.daum.net/v/20240801100040639</id>
-        <link href="https://v.daum.net/v/20240801100040639"/>
-        <updated>2024-08-01T01:41:30.747Z</updated>
-        <content type="html"><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content>
     </entry>
 </feed>
