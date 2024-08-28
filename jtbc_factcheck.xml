@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-08-27T23:22:05.189Z</updated>
+    <updated>2024-08-28T01:39:47.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래된 나무젓가락 사용하면 간암 걸린다?]]></title>
+        <id>https://v.daum.net/v/20240828100231975</id>
+        <link href="https://v.daum.net/v/20240828100231975"/>
+        <updated>2024-08-28T01:39:47.072Z</updated>
+        <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일제 강점기 우리 국민은 일본 국적인가?]]></title>
         <id>https://v.daum.net/v/20240815150840730</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240614104340404"/>
         <updated>2024-06-14T02:38:22.941Z</updated>
         <content type="html"><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?” (10일, 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...?]]></title>
-        <id>https://v.daum.net/v/20240609090240486</id>
-        <link href="https://v.daum.net/v/20240609090240486"/>
-        <updated>2024-06-09T01:37:32.146Z</updated>
-        <content type="html"><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경우도 있지만 장관이나 대통령이 발표를 하는 경우도 굉장히 흔합니다. 최근의 예시를 하나 들어드리면 오바마 대통령도 서부 이스트코스트(east]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-27T23:22:05.204Z</updated>
+    <updated>2024-08-28T01:39:47.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 오래된 나무젓가락 사용하면 간암 걸린다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240828100231975</id>
+        <link href="https://v.daum.net/v/20240828100231975"/>
+        <updated>2024-08-28T01:38:49.911Z</updated>
+        <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240823185101981</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240809204209603"/>
         <updated>2024-08-09T12:39:38.027Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 올림픽에서 메달을 딴 선수들은 포상금을 받습니다. 그런데 무슨 돈으로 이 포상금을 주는 건지 만약 그게 다 세금에서 나오는 거라면 좀 과한 거 아니냐는 의견도 있습니다. 이 내용, 팩트체크 '사실은' 코너에서 이 내용 확인해 봤습니다. 안상우 기자입니다. &lt;기자&gt; 한 직장인 익명 커뮤니티에선 공무원은 30년 일해야 받는 연금을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9급 월급 222만 2000원… 최저임금보다 16만원 많이 받는다[팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240807181502067</id>
-        <link href="https://v.daum.net/v/20240807181502067"/>
-        <updated>2024-08-07T09:22:35.398Z</updated>
-        <content type="html"><![CDATA[‘최저임금도 못 받는 9급 공무원’. 최근 ‘저연차 공무원 엑소더스’의 원인으로 지목된 열악한 처우를 상징하는 표현이다. 전국공무원노동조합 소속 청년공무원 150여명은 지난 6일 기자회견을 열고 “월급이 최저임금(월 206만원)보다 적다”며 임금·수당 현실화를 촉구했다. 이들은 ‘4년차 9급 실수령액 194만원’, ‘10년차 실수령액 250만원’이라며 “더]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 현직 대통령을 앞세운 여당 후보가 당선에 유리할까요? 지난 2020년 21대 총선 당시 여당이었던 더불어민주당에 이어, 22대 총선 국민의힘 후보들의]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오래된 나무젓가락 사용하면 간암 걸린다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240828100231975</id>
+        <link href="https://v.daum.net/v/20240828100231975"/>
+        <updated>2024-08-28T01:39:47.072Z</updated>
+        <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일제 강점기 우리 국민은 일본 국적인가? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240815150840730</id>
         <link href="https://v.daum.net/v/20240815150840730"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240614104340404"/>
         <updated>2024-06-14T02:36:18.772Z</updated>
         <content type="html"><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠다고 시작한 의대 증원으로 인해 오히려 질 떨어지는 교육을 받은 의사 양성으로 인해 결국 국민들만 피해보는 것이 아닌가?” (10일, 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240609090240486</id>
-        <link href="https://v.daum.net/v/20240609090240486"/>
-        <updated>2024-06-09T01:36:23.433Z</updated>
-        <content type="html"><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경우도 있지만 장관이나 대통령이 발표를 하는 경우도 굉장히 흔합니다. 최근의 예시를 하나 들어드리면 오바마 대통령도 서부 이스트코스트(east]]></content>
     </entry>
 </feed>

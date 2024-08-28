@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-27T23:22:05.198Z</updated>
+    <updated>2024-08-28T01:39:47.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 오래된 나무젓가락 사용하면 간암 걸린다?]]></title>
+        <id>https://v.daum.net/v/20240828100231975</id>
+        <link href="https://v.daum.net/v/20240828100231975"/>
+        <updated>2024-08-28T01:38:49.911Z</updated>
+        <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240823185101981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240809204209603"/>
         <updated>2024-08-09T12:39:38.027Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 올림픽에서 메달을 딴 선수들은 포상금을 받습니다. 그런데 무슨 돈으로 이 포상금을 주는 건지 만약 그게 다 세금에서 나오는 거라면 좀 과한 거 아니냐는 의견도 있습니다. 이 내용, 팩트체크 '사실은' 코너에서 이 내용 확인해 봤습니다. 안상우 기자입니다. &lt;기자&gt; 한 직장인 익명 커뮤니티에선 공무원은 30년 일해야 받는 연금을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9급 월급 222만 2000원… 최저임금보다 16만원 많이 받는다[팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20240807181502067</id>
-        <link href="https://v.daum.net/v/20240807181502067"/>
-        <updated>2024-08-07T09:22:35.398Z</updated>
-        <content type="html"><![CDATA[‘최저임금도 못 받는 9급 공무원’. 최근 ‘저연차 공무원 엑소더스’의 원인으로 지목된 열악한 처우를 상징하는 표현이다. 전국공무원노동조합 소속 청년공무원 150여명은 지난 6일 기자회견을 열고 “월급이 최저임금(월 206만원)보다 적다”며 임금·수당 현실화를 촉구했다. 이들은 ‘4년차 9급 실수령액 194만원’, ‘10년차 실수령액 250만원’이라며 “더]]></content>
     </entry>
 </feed>
