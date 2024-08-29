@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-08-29T10:24:16.875Z</updated>
+    <updated>2024-08-29T11:19:48.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채상병 청문회에서 외압 없음이 드러났다?]]></title>
+        <id>https://v.daum.net/v/20240829195813350</id>
+        <link href="https://v.daum.net/v/20240829195813350"/>
+        <updated>2024-08-29T11:19:00.515Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령은 채상병 사건 수사에 대해, 외압의 실체가 없는 것이 청문회를 통해 자연스럽게 드러난 것 아닌가라고 했는데요. 과연 그랬던 건지 팩트체크 알고보니에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 지난 6월, 채상병 특검법 입법 청문회는 핵심 증인들의 선서 거부로 시작됐습니다. [이종섭/전 국방부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴라이트가 역사기관장 점령했다?]]></title>
         <id>https://v.daum.net/v/20240812201014938</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240416203413729"/>
         <updated>2024-07-19T03:25:31.592Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사로 가족과 친구를 잃은 세월호 피해자들은 지난 10년간 온갖 가짜뉴스와 모욕에도 시달려 왔습니다. [김순길/세월호 희생자 진윤희 학생 어머니] "저희에게 모진 말을 해대는 시민도 만났고, 때로는 언론인들이 제대로 된 진실을 보도하지 않고 왜곡된 보도를 해서 저희에게 상처를 주는 일도 많았습니다." 정부 조사 결과, 세월호 피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일주일 새 급등-급락' 여론조사, 믿을 수 있나?]]></title>
-        <id>https://v.daum.net/v/20240325201614133</id>
-        <link href="https://v.daum.net/v/20240325201614133"/>
-        <updated>2024-07-19T03:25:31.593Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 총선이 다가오면서 언론사들도 경쟁적으로 여론조사 보도를 내놓고 있습니다. 그중에는 1주일 사이 정당 지지율이 급등했다거나, 반대로 급락했다는 자극적인 보도도 잇따르고 있는데요. 민심이 이렇게 1주일 단위로 크게 요동친다는 걸 믿을 수 있을지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 지난주 금요일에 나온 여론조사]]></content>
     </entry>
 </feed>

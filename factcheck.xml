@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-08-29T10:24:16.872Z</updated>
+    <updated>2024-08-29T11:19:48.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 채상병 청문회에서 외압 없음이 드러났다?]]></title>
+        <id>https://v.daum.net/v/20240829195813350</id>
+        <link href="https://v.daum.net/v/20240829195813350"/>
+        <updated>2024-08-29T11:18:39.365Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령은 채상병 사건 수사에 대해, 외압의 실체가 없는 것이 청문회를 통해 자연스럽게 드러난 것 아닌가라고 했는데요. 과연 그랬던 건지 팩트체크 알고보니에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 지난 6월, 채상병 특검법 입법 청문회는 핵심 증인들의 선서 거부로 시작됐습니다. [이종섭/전 국방부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은]]]></title>
         <id>https://v.daum.net/v/20240828204812554</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240812201014938"/>
         <updated>2024-08-12T11:19:10.663Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 논란의 중심에 선 김형석 독립기념관장 외에도, 역사 관련 기관 요직을 뉴라이트 성향 인사들이 독식하고 있다는 지적이 나오고 있는데요. 국내 3대 역사기관의 현재 상황, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 동북아역사재단, 국사편찬위원회, 그리고 한국학중앙연구원은 정부 산하의 국내 3대 역사 기관으로 꼽힙니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크 '사실은'] 전기차 틀어막는다고 주차장이 더 안전해질까?]]></title>
-        <id>https://v.daum.net/v/20240812124502257</id>
-        <link href="https://v.daum.net/v/20240812124502257"/>
-        <updated>2024-08-12T08:27:14.832Z</updated>
-        <content type="html"><![CDATA[퇴근길, 아파트 지하주차장에 들어서서 빈자리를 찾고 있었습니다. 비어있는 곳이 눈에 들어와 가까이 가보니 바로 옆 칸에는 전기차가 주차돼 있었습니다. 평소였다면 아무 생각 없이 주차했겠지만, 다른 빈자리를 찾아 주차했습니다. 지난 1일 인천 청라의 한 아파트 지하주차장에서 전기차 화재가 발생한 이후, 의심과 불안의 시선이 우리 주변의 전기차로 향하고]]></content>
     </entry>
 </feed>
