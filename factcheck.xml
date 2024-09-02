@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-02T15:24:01.404Z</updated>
+    <updated>2024-09-02T16:29:29.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[계엄 유지하려면, ‘불체포 특권’ 野의원 42명 체포해야]]></title>
+        <id>https://v.daum.net/v/20240903005621781</id>
+        <link href="https://v.daum.net/v/20240903005621781"/>
+        <updated>2024-09-02T16:28:07.040Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 “각종 제보를 받았다”면서 2주째 ‘윤석열 정권의 계엄령 준비설’을 제기하고 있다. 특히 이재명 대표가 지난 1일 국민의힘 한동훈 대표와의 회담 모두 발언에서 “계엄 해제를 국회가 요구하는 것을 막기 위해 국회의원들을 계엄 선포와 동시에 체포·구금하겠다는 계획을 꾸몄다는 얘기도 있다”고 하면서 수위가 더 높아지는 상황이다. 이에 대해 대통령실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명이 띄운 '계엄령 괴담'...정말 실현 가능할까]]></title>
         <id>https://v.daum.net/v/20240902183229146</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240819053304307"/>
         <updated>2024-08-18T21:18:33.589Z</updated>
         <content type="html"><![CDATA[한동훈 "현재 사모펀드 환매하면 최대 49.5% 과세인데 금투세 강행되면 27.5%로 세율 자체가 줄어…."(2024.8.8. 최고위원회 회의) 이복현 "개인이 직접 투자할 경우 예를 들어 20%의 세율 부담하는데 (사모)펀드에 담으면 50% 부담하게 돼…."(2024.8.8. 자산운용사 CEO 간담회 후 언론 브리핑) 금융투자소득세는 '부자 증세'일까요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가?]]></title>
-        <id>https://v.daum.net/v/20240815150840730</id>
-        <link href="https://v.daum.net/v/20240815150840730"/>
-        <updated>2024-08-15T06:28:56.345Z</updated>
-        <content type="html"><![CDATA[지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격 논란이 계속되고 있습니다. 윤석열 대통령의 김 관장 임명이 반쪽 광복절을 만든 원인입니다. 독립운동가 후손 단체인 광복회는 임명 강행에 반대해 처음으로 광복절 기념식에 불참했고 48개 국내 역사학회와 단체는 임명 철회를 요구하는 공동 성명서를 발표했습니다. 김 관장은 "사]]></content>
     </entry>
 </feed>
