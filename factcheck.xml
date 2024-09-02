@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-02T20:24:45.988Z</updated>
+    <updated>2024-09-02T21:20:57.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]이재명이 주장한 '계엄령 준비설', 근거는?…현실성 있나]]></title>
+        <id>https://v.daum.net/v/20240903060631603</id>
+        <link href="https://v.daum.net/v/20240903060631603"/>
+        <updated>2024-09-02T21:19:46.112Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표가 '계엄령 선포' 가능성을 공식 언급하면서 발언의 근거가 무엇인지 관심이 집중되고 있다. 그간 김민석 민주당 최고위원 등 야권 일각에서 '계엄령 준비설'을 거론해왔지만, 이 대표가 11년 만의 여야 대표회담에서 이를 직접 언급한 것은 의미가 남다르단 점에서다. 3일 정치권에 따르면 이 대표는 전날 한동훈 국민의힘 대표와의 회담 모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '계엄' 선포 가능한가?... "민주당이 근거부터 대야"  [팩트체크]]]></title>
         <id>https://v.daum.net/v/20240903043252406</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240822174945026"/>
         <updated>2024-08-22T09:21:51.591Z</updated>
         <content type="html"><![CDATA[전기차 화재 예방대책의 일환으로 거론된 과충전 제한 방안을 둘러싸고 일고 있는 논란이 사그라들지 않고 있다. 화재 원인이 특정되지 않은 상황에서 서울시가 나서 충전율에 따라 주차장을 쓰지 못하도록 하는 방안을 추진하고 있기 때문이다. 전기차 차주를 비롯해 완성차 제작사, 정부에선 이에 대해 부정적인 입장을 내비쳤다. 쟁점 사안을 정리해봤다. 과충전이 화재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김호중 방지법'이 명예훼손?…"이름 빼라" 팬들 항의 [사실은]]]></title>
-        <id>https://v.daum.net/v/20240821205109867</id>
-        <link href="https://v.daum.net/v/20240821205109867"/>
-        <updated>2024-08-21T12:39:18.521Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 음주 운전하다가 사고를 낸 뒤에 아예 술을 더 마셔서 경찰의 음주측정을 방해하는 범죄가 잇따르고 있습니다. 이걸 막기 위한 이른바 '김호중 방지법'이 국회에 발의됐는데, 가수 김호중 씨 팬들이 심각한 명예훼손이라며 반대하고 나섰습니다. 정말 그런 것인지 팩트체크 '사실은' 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 최근 ']]></content>
     </entry>
 </feed>
