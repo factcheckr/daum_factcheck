@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-02T09:25:27.695Z</updated>
+    <updated>2024-09-02T10:25:13.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명이 띄운 '계엄령 괴담'...정말 실현 가능할까]]></title>
+        <id>https://v.daum.net/v/20240902183229146</id>
+        <link href="https://v.daum.net/v/20240902183229146"/>
+        <updated>2024-09-02T10:24:06.837Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표가 '계엄령 선포' 가능성을 공식 언급하면서 발언의 근거가 무엇인지 관심이 집중되고 있다. 그간 김민석 민주당 최고위원 등 야권 일각에서 '계엄령 준비설'을 거론해왔지만, 이 대표가 11년 만의 여야 대표회담에서 이를 직접 언급한 것은 의미가 남다르단 점에서다. 3일 정치권에 따르면 이 대표는 전날 한동훈 국민의힘 대표와의 회담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딥페이크 가담자 '22만명'?…과연 사실일까[노컷체크]]]></title>
         <id>https://v.daum.net/v/20240830140305811</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240815150840730"/>
         <updated>2024-08-15T06:28:56.345Z</updated>
         <content type="html"><![CDATA[지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격 논란이 계속되고 있습니다. 윤석열 대통령의 김 관장 임명이 반쪽 광복절을 만든 원인입니다. 독립운동가 후손 단체인 광복회는 임명 강행에 반대해 처음으로 광복절 기념식에 불참했고 48개 국내 역사학회와 단체는 임명 철회를 요구하는 공동 성명서를 발표했습니다. 김 관장은 "사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]중국산이 더 위험?…배터리 정보공개는 양날의 검]]></title>
-        <id>https://v.daum.net/v/20240815080013735</id>
-        <link href="https://v.daum.net/v/20240815080013735"/>
-        <updated>2024-08-15T02:24:58.732Z</updated>
-        <content type="html"><![CDATA[정부가 국내에 시판하는 모든 전기차에 대해 배터리 정보 공개를 권고하면서 거의 모든 자동차 제조사들이 자사 홈페이지에 배터리 정보를 게시하고 있다. 14일 기준 현대차·기아, KG모빌리티, BMW, 메르세데스-벤츠, 폭스바겐, 아우디, 볼보, 스텔란티스 등 9개 완성차 브랜드가 배터리 정보를 공개했다. 테슬라와 GM은 아직 공개전이다. 현재까지 공개된 국내]]></content>
     </entry>
 </feed>
