@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-03T17:23:33.307Z</updated>
+    <updated>2024-09-03T18:30:21.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크]이재명이 주장한 '계엄령 준비설', 근거는?…현실성 있나]]></title>
         <id>https://v.daum.net/v/20240903060631603</id>
