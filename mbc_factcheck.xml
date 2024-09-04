@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-09-04T11:18:45.514Z</updated>
+    <updated>2024-09-04T12:43:41.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차별금지법이 공산주의 혁명 부른다?]]></title>
+        <id>https://v.daum.net/v/20240904203107866</id>
+        <link href="https://v.daum.net/v/20240904203107866"/>
+        <updated>2024-09-04T12:42:56.640Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 어제 열린 국회 인사청문회에서 안창호 국가인권위원장 후보자는 차별금지법이 공산주의 혁명을 부를 수 있다고 말했습니다. [신장식/조국혁신당 의원] "차별금지법이 공산주의 혁명에 이용될 우려가 있어요?" [안창호/국가인권위원장 후보자] "동성애나 이런 것은 그런 특정 이념에 의한 그 수단이다, 그런 형태를 혁명을 위한…" 성별과 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채상병 청문회에서 외압 없음이 드러났다?]]></title>
         <id>https://v.daum.net/v/20240829195813350</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240430203114745"/>
         <updated>2024-07-19T03:25:31.591Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세월호 가짜뉴스와 혐오의 10년‥사실은?]]></title>
-        <id>https://v.daum.net/v/20240416203413729</id>
-        <link href="https://v.daum.net/v/20240416203413729"/>
-        <updated>2024-07-19T03:25:31.592Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 참사로 가족과 친구를 잃은 세월호 피해자들은 지난 10년간 온갖 가짜뉴스와 모욕에도 시달려 왔습니다. [김순길/세월호 희생자 진윤희 학생 어머니] "저희에게 모진 말을 해대는 시민도 만났고, 때로는 언론인들이 제대로 된 진실을 보도하지 않고 왜곡된 보도를 해서 저희에게 상처를 주는 일도 많았습니다." 정부 조사 결과, 세월호 피]]></content>
     </entry>
 </feed>
