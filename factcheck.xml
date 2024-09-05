@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-05T10:24:33.694Z</updated>
+    <updated>2024-09-05T11:20:08.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구]]></title>
+        <id>https://v.daum.net/v/20240905201222677</id>
+        <link href="https://v.daum.net/v/20240905201222677"/>
+        <updated>2024-09-05T11:19:05.368Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 차별금지법이 공산주의 혁명 부른다?]]></title>
         <id>https://v.daum.net/v/20240904203107866</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240828100231975"/>
         <updated>2024-08-28T01:38:49.911Z</updated>
         <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240823185101981</id>
-        <link href="https://v.daum.net/v/20240823185101981"/>
-        <updated>2024-08-23T10:22:08.128Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;일부 언론은 23일 부천 호텔 화재 사건 관련 한 생존자가 "일산화탄소는 물에 녹는다"라는 지식을 활용해 샤워기 물을 틀었다고 보도했다.ⓒ 뉴스119명의 사상자가 발생한 22일 경기도 부천시 호텔 화재 현장에서 구조된 한 투숙객이 "일산화탄소가 물에 녹는다"는 지식을 활용해 살 수 있었다는 보도가 나와 논란이 되고 있다. 일부 언론은]]></content>
     </entry>
 </feed>

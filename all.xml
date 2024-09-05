@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-05T10:24:33.706Z</updated>
+    <updated>2024-09-05T11:20:08.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240905201222677</id>
+        <link href="https://v.daum.net/v/20240905201222677"/>
+        <updated>2024-09-05T11:19:05.368Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 차별금지법이 공산주의 혁명 부른다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240904203107866</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240828100231975"/>
         <updated>2024-08-28T01:38:49.911Z</updated>
         <content type="html"><![CDATA[최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다. 나무젓가락에 생긴 아플라톡신(Aflatoxin·곰팡이 독소) 때문에 젓가락 사용자가 목숨을 잃을 수 있다는 내용입니다. 관련 내용이 국내 언론과 온라인 커뮤니티 등을 통해 빠르게 확산되면서 나무젓가락에 대한 불안감과 공포가 커지고 있는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일산화탄소 물에 녹아 살았다" 잘못된 보도였다 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240823185101981</id>
-        <link href="https://v.daum.net/v/20240823185101981"/>
-        <updated>2024-08-23T10:22:08.128Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;일부 언론은 23일 부천 호텔 화재 사건 관련 한 생존자가 "일산화탄소는 물에 녹는다"라는 지식을 활용해 샤워기 물을 틀었다고 보도했다.ⓒ 뉴스119명의 사상자가 발생한 22일 경기도 부천시 호텔 화재 현장에서 구조된 한 투숙객이 "일산화탄소가 물에 녹는다"는 지식을 활용해 살 수 있었다는 보도가 나와 논란이 되고 있다. 일부 언론은]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20240905201222677</id>
+        <link href="https://v.daum.net/v/20240905201222677"/>
+        <updated>2024-09-05T11:19:34.103Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20240627085631789</id>
         <link href="https://v.daum.net/v/20240627085631789"/>
@@ -317,13 +324,6 @@
         <id>https://v.daum.net/v/20240522214934829</id>
         <link href="https://v.daum.net/v/20240522214934829"/>
         <updated>2024-05-22T13:21:48.712Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고향사랑기부금’ 충북 31억 원 모였지만, 곳간에… (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240522193512339</id>
-        <link href="https://v.daum.net/v/20240522193512339"/>
-        <updated>2024-05-22T11:18:18.786Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 이 화면상의 인물들, 너무나 익숙해서 누구나 다 아실 겁니다. 배우 유해진, PD 나영석, 그리고 가수 미주와 원슈타인입니다. 모두 충북 출신이죠. 넷의 공통점이 또 있습니다. 충북에 고향사랑기부금을 낸 기부자들이라는 겁니다. 꼭 내가 태어난 고향이 아니어도, 지금 사는 곳을 제외한 어느 시·군에든 기부금을 낼 수 있습니다. 1명이 한 해]]></content>
     </entry>
     <entry>
