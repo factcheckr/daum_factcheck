@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-05T23:24:22.264Z</updated>
+    <updated>2024-09-06T01:41:33.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구]]></title>
+        <id>https://v.daum.net/v/20240906084524920</id>
+        <link href="https://v.daum.net/v/20240906084524920"/>
+        <updated>2024-09-06T01:40:12.786Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구]]></title>
         <id>https://v.daum.net/v/20240905214423982</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240829195813350"/>
         <updated>2024-08-29T11:18:39.365Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령은 채상병 사건 수사에 대해, 외압의 실체가 없는 것이 청문회를 통해 자연스럽게 드러난 것 아닌가라고 했는데요. 과연 그랬던 건지 팩트체크 알고보니에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 지난 6월, 채상병 특검법 입법 청문회는 핵심 증인들의 선서 거부로 시작됐습니다. [이종섭/전 국방부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비싼 영화 관람료, 배우 출연료 탓?"…따져 보니 [사실은]]]></title>
-        <id>https://v.daum.net/v/20240828204812554</id>
-        <link href="https://v.daum.net/v/20240828204812554"/>
-        <updated>2024-08-28T12:41:28.922Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 영화 관람료가 너무 비싸서 사람들이 극장에 잘 가지 않는다고 한 최민식 배우의 발언을 놓고 최근 논쟁이 일었습니다. 배우들의 출연료부터 먼저 낮춰야 한다는 지적도 있었는데, 그렇다면 우리나라 영화 관람료가 정말 비싼 것인지, 또 이게 배우 출연료와는 얼마나 관계가 있는 건지, 팩트체크 '사실은' 코너에서 따져봤습니다. 안상우 기자입니다.]]></content>
     </entry>
 </feed>
