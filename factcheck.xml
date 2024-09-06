@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-06T08:28:18.613Z</updated>
+    <updated>2024-09-06T09:25:30.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 딥페이크 범죄, 법망 빠져나갈 수 있다?]]></title>
+        <id>https://v.daum.net/v/20240906180052733</id>
+        <link href="https://v.daum.net/v/20240906180052733"/>
+        <updated>2024-09-06T09:24:33.045Z</updated>
+        <content type="html"><![CDATA[“대한민국 경찰이 X나 한가한 것도 아니고 텔레그램 가입자가 9억명이라는데 CEO 잡혔다고 방 다 털리면 전세계 사람들 다 조사해야 함. 게다가 방에 들어간 사람들 신원따는 것도 쉬운 게 아닌데 얘가 들어가서 뭘했는지까지 다 정리해서 수사 못함... (후략)” 포털사이트 딥페이크 관련 카페에 올라온 글입니다. 최근 '성전 카페'(성범죄 등 형사범죄 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구]]></title>
         <id>https://v.daum.net/v/20240906084524920</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240830140305811"/>
         <updated>2024-08-30T05:21:23.128Z</updated>
         <content type="html"><![CDATA[핵심요약딥페이크 공포 확산…"한국인 가담자 22만명" 주장 나와 "텔레그램 이용자 숫자 따지면 불가, 불안 과장" 반박도 판정 결과, '거짓' 최근 딥페이크 불법 합성물 관련 피해가 새롭게 조명받는 가운데 '가해자가 22만명'에 달한다는 주장을 두고 갑론을박이 한창이다. '22만'이라는 숫자가 나오게 된 배경과 사실 여부를 따져봤다. 여성단체 "가해자 22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 채상병 청문회에서 외압 없음이 드러났다?]]></title>
-        <id>https://v.daum.net/v/20240829195813350</id>
-        <link href="https://v.daum.net/v/20240829195813350"/>
-        <updated>2024-08-29T11:18:39.365Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령은 채상병 사건 수사에 대해, 외압의 실체가 없는 것이 청문회를 통해 자연스럽게 드러난 것 아닌가라고 했는데요. 과연 그랬던 건지 팩트체크 알고보니에서 따져봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 지난 6월, 채상병 특검법 입법 청문회는 핵심 증인들의 선서 거부로 시작됐습니다. [이종섭/전 국방부]]></content>
     </entry>
 </feed>
