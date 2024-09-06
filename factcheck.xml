@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-06T11:21:08.361Z</updated>
+    <updated>2024-09-06T12:42:33.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["엄마가 깔아줄게" 수능 보는 학부모들…효과는 [사실은]]]></title>
+        <id>https://v.daum.net/v/20240906203906694</id>
+        <link href="https://v.daum.net/v/20240906203906694"/>
+        <updated>2024-09-06T12:40:42.252Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 올해 수능 시험을 자녀와 함께 보겠다는 부모들이 있습니다. 일부 선택 과목에서 일부러 낮은 점수를 받아서 자기 아이들 표준점수를 높여주겠다는 겁니다. 이게 가능한 이야긴 건지, 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 최근 한 학부모가 온라인 입시 커뮤니티에 올린 수능 응시원서 접수증입니다. 화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 딥페이크 범죄, 법망 빠져나갈 수 있다?]]></title>
         <id>https://v.daum.net/v/20240906180052733</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240902183229146"/>
         <updated>2024-09-02T10:24:06.837Z</updated>
         <content type="html"><![CDATA[이재명 더불어민주당 대표가 '계엄령 선포' 가능성을 공식 언급하면서 발언의 근거가 무엇인지 관심이 집중되고 있다. 그간 김민석 민주당 최고위원 등 야권 일각에서 '계엄령 준비설'을 거론해왔지만, 이 대표가 11년 만의 여야 대표회담에서 이를 직접 언급한 것은 의미가 남다르단 점에서다. 3일 정치권에 따르면 이 대표는 전날 한동훈 국민의힘 대표와의 회담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥페이크 가담자 '22만명'?…과연 사실일까[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20240830140305811</id>
-        <link href="https://v.daum.net/v/20240830140305811"/>
-        <updated>2024-08-30T05:21:23.128Z</updated>
-        <content type="html"><![CDATA[핵심요약딥페이크 공포 확산…"한국인 가담자 22만명" 주장 나와 "텔레그램 이용자 숫자 따지면 불가, 불안 과장" 반박도 판정 결과, '거짓' 최근 딥페이크 불법 합성물 관련 피해가 새롭게 조명받는 가운데 '가해자가 22만명'에 달한다는 주장을 두고 갑론을박이 한창이다. '22만'이라는 숫자가 나오게 된 배경과 사실 여부를 따져봤다. 여성단체 "가해자 22]]></content>
     </entry>
 </feed>
