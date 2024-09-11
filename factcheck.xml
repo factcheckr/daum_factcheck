@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-11T10:23:59.025Z</updated>
+    <updated>2024-09-11T11:21:12.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 추석 연휴에 문 여는 병·의원 하루 평균 8천 곳?]]></title>
+        <id>https://v.daum.net/v/20240911192854166</id>
+        <link href="https://v.daum.net/v/20240911192854166"/>
+        <updated>2024-09-11T11:20:19.428Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령은 어제(10일) 이번 추석 연휴에는 지난 설이나 예년에 비해 훨씬 많은 병의원이 당직의료기관으로 신청해 줬다며, 정부의 안내에 따라주면 걱정 없이 의료 서비스를 받을 수 있다고 강조했습니다. 이희령 기자가 팩트체크 해봤습니다. [기자] 정부는 이번 추석 연휴 동안 하루 평균 8000곳 가까운 병원이 문을 연다고 했습니다. [정윤순/보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이민자가 개와 고양이 잡아먹는다" 트럼프 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20240911152700419</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240903043252406"/>
         <updated>2024-09-02T20:23:32.221Z</updated>
         <content type="html"><![CDATA[느닷없이 '계엄 논쟁'이 불거졌다. 이재명 더불어민주당 대표가 1일 윤석열 대통령의 계엄 선포 가능성을 공개 제기하면서다. 계엄은 정부 수립 이래 10차례 선포됐는데 1979년 박정희 전 대통령 암살을 이유로 450여일간 지속된 10·26 계엄이 마지막이다. 정권 보위를 위해 계엄을 악용했던 독재 정권의 암울한 기억을 떠올리게 하는 만큼, 대통령실이 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계엄 유지하려면, ‘불체포 특권’ 野의원 42명 체포해야]]></title>
-        <id>https://v.daum.net/v/20240903005621781</id>
-        <link href="https://v.daum.net/v/20240903005621781"/>
-        <updated>2024-09-02T16:28:07.040Z</updated>
-        <content type="html"><![CDATA[더불어민주당이 “각종 제보를 받았다”면서 2주째 ‘윤석열 정권의 계엄령 준비설’을 제기하고 있다. 특히 이재명 대표가 지난 1일 국민의힘 한동훈 대표와의 회담 모두 발언에서 “계엄 해제를 국회가 요구하는 것을 막기 위해 국회의원들을 계엄 선포와 동시에 체포·구금하겠다는 계획을 꾸몄다는 얘기도 있다”고 하면서 수위가 더 높아지는 상황이다. 이에 대해 대통령실]]></content>
     </entry>
 </feed>
