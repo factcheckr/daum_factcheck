@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-11T05:23:30.628Z</updated>
+    <updated>2024-09-11T06:31:53.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이민자가 개를 잡아먹는다" 트럼프 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240911152700419</id>
+        <link href="https://v.daum.net/v/20240911152700419"/>
+        <updated>2024-09-11T06:30:50.865Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;미국 공화당 대선 후보인 도널드 트럼프 전 대통령이 10일(현지 시각) 펜실베이니아주 필라델피아 국립헌법센터에서 열린 카멀라 해리스 민주당 후보와의 TV 토론에서 발언하고 있다. 2024.09.11ⓒ 연합뉴스도널드 트럼프 전 대통령(공화당 대선 후보)이 10일(현지 시각) 미국 펜실베이니아주 필라델피아 국립헌법센터에서 해리스 카멀라 부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["엄마가 깔아줄게" 수능 보는 학부모들…효과는 [사실은]]]></title>
         <id>https://v.daum.net/v/20240906203906694</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240903005621781"/>
         <updated>2024-09-02T16:28:07.040Z</updated>
         <content type="html"><![CDATA[더불어민주당이 “각종 제보를 받았다”면서 2주째 ‘윤석열 정권의 계엄령 준비설’을 제기하고 있다. 특히 이재명 대표가 지난 1일 국민의힘 한동훈 대표와의 회담 모두 발언에서 “계엄 해제를 국회가 요구하는 것을 막기 위해 국회의원들을 계엄 선포와 동시에 체포·구금하겠다는 계획을 꾸몄다는 얘기도 있다”고 하면서 수위가 더 높아지는 상황이다. 이에 대해 대통령실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명이 띄운 '계엄령 괴담'...정말 실현 가능할까]]></title>
-        <id>https://v.daum.net/v/20240902183229146</id>
-        <link href="https://v.daum.net/v/20240902183229146"/>
-        <updated>2024-09-02T10:24:06.837Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표가 '계엄령 선포' 가능성을 공식 언급하면서 발언의 근거가 무엇인지 관심이 집중되고 있다. 그간 김민석 민주당 최고위원 등 야권 일각에서 '계엄령 준비설'을 거론해왔지만, 이 대표가 11년 만의 여야 대표회담에서 이를 직접 언급한 것은 의미가 남다르단 점에서다. 3일 정치권에 따르면 이 대표는 전날 한동훈 국민의힘 대표와의 회담]]></content>
     </entry>
 </feed>
