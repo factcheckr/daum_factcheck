@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-09-13T10:24:45.116Z</updated>
+    <updated>2024-09-13T11:20:03.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스?]]></title>
+        <id>https://v.daum.net/v/20240913201005451</id>
+        <link href="https://v.daum.net/v/20240913201005451"/>
+        <updated>2024-09-13T11:19:20.420Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 연휴 기간 응급실 진료에 대한 우려가 커지는 상황에서 한덕수 국무총리는 어제 응급실 뺑뺑이로 사망자가 속출한다는 건 가짜 뉴스라고 주장했습니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶ 어제, 국회 대정부질문. 응급실 뺑뺑이 사망에 대한 질문을 받자 한덕수 국무총리는 과장됐다고 반박했습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차별금지법이 공산주의 혁명 부른다?]]></title>
         <id>https://v.daum.net/v/20240904203107866</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240503202517952"/>
         <updated>2024-07-19T03:25:31.590Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 채상병 특검법을 반대하는 대통령실과 여당은 주로 절차적인 문제를 지적하고 있습니다. 특검의 도입 시점과 법안 통과 과정 등이 적절하지 않아, 이대로 시행되면 나쁜 선례를 남기게 된다는 건데요. 맞는 얘기인지, 팩트체크 알고보니에서 따져봤습니다. ◀ 리포트 ▶ 대통령실과 여당은 우선 경찰과 공수처에서 채상병 사건을 수사중이라며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 특별법, 조사위에 영장청구권 준다?]]></title>
-        <id>https://v.daum.net/v/20240430203114745</id>
-        <link href="https://v.daum.net/v/20240430203114745"/>
-        <updated>2024-07-19T03:25:31.591Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
     </entry>
 </feed>

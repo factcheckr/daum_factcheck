@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-13T10:24:45.121Z</updated>
+    <updated>2024-09-13T11:20:03.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] "응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스?]]></title>
+        <id>https://v.daum.net/v/20240913201005451</id>
+        <link href="https://v.daum.net/v/20240913201005451"/>
+        <updated>2024-09-13T11:19:04.475Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 연휴 기간 응급실 진료에 대한 우려가 커지는 상황에서 한덕수 국무총리는 어제 응급실 뺑뺑이로 사망자가 속출한다는 건 가짜 뉴스라고 주장했습니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶ 어제, 국회 대정부질문. 응급실 뺑뺑이 사망에 대한 질문을 받자 한덕수 국무총리는 과장됐다고 반박했습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은]]]></title>
         <id>https://v.daum.net/v/20240912204216346</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240905201222677"/>
         <updated>2024-09-05T11:19:05.368Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 차별금지법이 공산주의 혁명 부른다?]]></title>
-        <id>https://v.daum.net/v/20240904203107866</id>
-        <link href="https://v.daum.net/v/20240904203107866"/>
-        <updated>2024-09-04T12:42:36.433Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 어제 열린 국회 인사청문회에서 안창호 국가인권위원장 후보자는 차별금지법이 공산주의 혁명을 부를 수 있다고 말했습니다. [신장식/조국혁신당 의원] "차별금지법이 공산주의 혁명에 이용될 우려가 있어요?" [안창호/국가인권위원장 후보자] "동성애나 이런 것은 그런 특정 이념에 의한 그 수단이다, 그런 형태를 혁명을 위한…" 성별과 인]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-13T10:24:45.128Z</updated>
+    <updated>2024-09-13T11:20:03.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] "응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240913201005451</id>
+        <link href="https://v.daum.net/v/20240913201005451"/>
+        <updated>2024-09-13T11:19:04.475Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 연휴 기간 응급실 진료에 대한 우려가 커지는 상황에서 한덕수 국무총리는 어제 응급실 뺑뺑이로 사망자가 속출한다는 건 가짜 뉴스라고 주장했습니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶ 어제, 국회 대정부질문. 응급실 뺑뺑이 사망에 대한 질문을 받자 한덕수 국무총리는 과장됐다고 반박했습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240912204216346</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240905201222677"/>
         <updated>2024-09-05T11:19:05.368Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 차별금지법이 공산주의 혁명 부른다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240904203107866</id>
-        <link href="https://v.daum.net/v/20240904203107866"/>
-        <updated>2024-09-04T12:42:36.433Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 어제 열린 국회 인사청문회에서 안창호 국가인권위원장 후보자는 차별금지법이 공산주의 혁명을 부를 수 있다고 말했습니다. [신장식/조국혁신당 의원] "차별금지법이 공산주의 혁명에 이용될 우려가 있어요?" [안창호/국가인권위원장 후보자] "동성애나 이런 것은 그런 특정 이념에 의한 그 수단이다, 그런 형태를 혁명을 위한…" 성별과 인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 요즘 아파트 단지나 주차장 입구를 입주민이 차로 막고 사라지는 일이 잇따르고 있죠. 최근 인천에서 이런 차량을 경찰이 강제로 견인하면서 속 시원하다는 반응이 많았습니다. 당연한 조치 같지만 과거에는 그러지 못했는데 이번에는 어떻게 가능했던 건지 팩트 체크 사실은 코너에서 박세용 기자가 확인해봤습니다. &lt;기자&gt; 인천의 한 아파트. 방문 차량이 드나드]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스? (다음 뉴스 ─ MBC 알고보니)]]></title>
+        <id>https://v.daum.net/v/20240913201005451</id>
+        <link href="https://v.daum.net/v/20240913201005451"/>
+        <updated>2024-09-13T11:19:20.420Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 이렇게 연휴 기간 응급실 진료에 대한 우려가 커지는 상황에서 한덕수 국무총리는 어제 응급실 뺑뺑이로 사망자가 속출한다는 건 가짜 뉴스라고 주장했습니다. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. ◀ 리포트 ▶ 어제, 국회 대정부질문. 응급실 뺑뺑이 사망에 대한 질문을 받자 한덕수 국무총리는 과장됐다고 반박했습니다.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차별금지법이 공산주의 혁명 부른다? (다음 뉴스 ─ MBC 알고보니)]]></title>
         <id>https://v.daum.net/v/20240904203107866</id>
         <link href="https://v.daum.net/v/20240904203107866"/>
@@ -234,13 +241,6 @@
         <link href="https://v.daum.net/v/20240503202517952"/>
         <updated>2024-07-19T03:25:31.590Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 채상병 특검법을 반대하는 대통령실과 여당은 주로 절차적인 문제를 지적하고 있습니다. 특검의 도입 시점과 법안 통과 과정 등이 적절하지 않아, 이대로 시행되면 나쁜 선례를 남기게 된다는 건데요. 맞는 얘기인지, 팩트체크 알고보니에서 따져봤습니다. ◀ 리포트 ▶ 대통령실과 여당은 우선 경찰과 공수처에서 채상병 사건을 수사중이라며,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 특별법, 조사위에 영장청구권 준다? (다음 뉴스 ─ MBC 알고보니)]]></title>
-        <id>https://v.daum.net/v/20240430203114745</id>
-        <link href="https://v.daum.net/v/20240430203114745"/>
-        <updated>2024-07-19T03:25:31.591Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 어제 열린 영수회담에서 주요 관심 사안 중 하나가 이태원참사 특별법이었는데요. 윤석열 대통령은 특별법 수용 요구에 공감한다면서도, 법리적으로 문제가 있다고 밝혔습니다. [이도운/대통령실 홍보수석] "민간조사위원회에서 영장 청구권을 갖는 등 법리적으로 문제가 있을 부분이 있기 때문에 이런 부분은 조금 해소하고‥" 민간인 조사위가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
