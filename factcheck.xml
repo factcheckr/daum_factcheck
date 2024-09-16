@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-16T08:30:29.893Z</updated>
+    <updated>2024-09-16T09:29:34.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일에서 한국산 미역 구하기 어려운 까닭 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20240916180639064</id>
+        <link href="https://v.daum.net/v/20240916180639064"/>
+        <updated>2024-09-16T09:28:30.553Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;독일 바덴-뷔템베르크주 화학수의검사청(CVUA)은 지난 2월 6일 ‘해조류의 요오드는 좋은 공급원인가’라는 제목의 보고서에서 “요오드는 필수 미량원소이지만 과량 섭취 시 건강에 해로울 수 있다”고 경고했다.ⓒ CVUA요즘 독일에서 말린 미역 같은 한국산 수산물을 구하기 어렵다는 제보가 들어왔습니다. 독일과 한국을 자주 오가는 A씨는 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 추석 전 응급의료에 대한 우려, 정부와 야당의 엇갈린 시선]]></title>
         <id>https://v.daum.net/v/20240915213600731</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240906084524920</id>
         <link href="https://v.daum.net/v/20240906084524920"/>
         <updated>2024-09-06T01:40:12.786Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구]]></title>
-        <id>https://v.daum.net/v/20240905214423982</id>
-        <link href="https://v.daum.net/v/20240905214423982"/>
-        <updated>2024-09-05T13:26:10.212Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
     </entry>
 </feed>
