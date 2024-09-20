@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-20T06:32:31.231Z</updated>
+    <updated>2024-09-20T07:22:49.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 가로수 심어 보행자 안전 책임진다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240920155150028</id>
+        <link href="https://v.daum.net/v/20240920155150028"/>
+        <updated>2024-09-20T07:21:42.445Z</updated>
+        <content type="html"><![CDATA[지난 7월 1일 서울 시청역 인근의 차량 역주행 사고로 9명의 시민이 목숨을 잃었습니다. 이들은 보행로에 서있다 갑자기 돌진한 차량에 속수무책으로 사고를 당했는데요. 서울시가 보행로로 돌진하는 차량에 의한 시민들의 피해를 줄이겠다며 가로수 식재 계획을 발표했습니다. 보행자가 많은 곳에 굵은 가로수를 심어 갑자기 돌진하는 차량을 막겠다는 겁니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일에서 한국산 미역 구하기 어려운 까닭 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240916180639064</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240906180052733"/>
         <updated>2024-09-06T09:24:33.045Z</updated>
         <content type="html"><![CDATA[“대한민국 경찰이 X나 한가한 것도 아니고 텔레그램 가입자가 9억명이라는데 CEO 잡혔다고 방 다 털리면 전세계 사람들 다 조사해야 함. 게다가 방에 들어간 사람들 신원따는 것도 쉬운 게 아닌데 얘가 들어가서 뭘했는지까지 다 정리해서 수사 못함... (후략)” 포털사이트 딥페이크 관련 카페에 올라온 글입니다. 최근 '성전 카페'(성범죄 등 형사범죄 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240906084524920</id>
-        <link href="https://v.daum.net/v/20240906084524920"/>
-        <updated>2024-09-06T01:40:12.786Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -579,6 +579,13 @@
         <content type="html"><![CDATA[선거 공보는 국회의원 후보자의 약력과 재산 상황, 공약 등 필수 정보가 담겼을 뿐 아니라 선거 전략도 가늠할 수 있습니다. 후보들은 저마다 득표에 도움이 될 만한 유력 정치인이나 유명인을 내세우기도 하는데요. 지금까지 22대 총선 후보자 선거 공보에 현직 대통령과 당 대표 사진을 얼마나 사용했는지 살펴봤습니다. 마지막으로 이들 사진이 선거 결과에는 어떤 영]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가로수 심어 보행자 안전 책임진다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20240920155150028</id>
+        <link href="https://v.daum.net/v/20240920155150028"/>
+        <updated>2024-09-20T07:22:48.630Z</updated>
+        <content type="html"><![CDATA[지난 7월 1일 서울 시청역 인근의 차량 역주행 사고로 9명의 시민이 목숨을 잃었습니다. 이들은 보행로에 서있다 갑자기 돌진한 차량에 속수무책으로 사고를 당했는데요. 서울시가 보행로로 돌진하는 차량에 의한 시민들의 피해를 줄이겠다며 가로수 식재 계획을 발표했습니다. 보행자가 많은 곳에 굵은 가로수를 심어 갑자기 돌진하는 차량을 막겠다는 겁니다.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[온누리 상품권, 전통시장 살리기 효과 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
         <id>https://v.daum.net/v/20240912170151235</id>
         <link href="https://v.daum.net/v/20240912170151235"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20240702060140361"/>
         <updated>2024-07-01T21:19:36.811Z</updated>
         <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상속세, 재산세 징수 잘되니 이중과세? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240628060040609</id>
-        <link href="https://v.daum.net/v/20240628060040609"/>
-        <updated>2024-06-27T21:18:50.082Z</updated>
-        <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
     </entry>
 </feed>

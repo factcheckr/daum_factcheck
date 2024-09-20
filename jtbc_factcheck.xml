@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-09-20T06:32:31.242Z</updated>
+    <updated>2024-09-20T07:22:49.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가로수 심어 보행자 안전 책임진다?]]></title>
+        <id>https://v.daum.net/v/20240920155150028</id>
+        <link href="https://v.daum.net/v/20240920155150028"/>
+        <updated>2024-09-20T07:22:48.630Z</updated>
+        <content type="html"><![CDATA[지난 7월 1일 서울 시청역 인근의 차량 역주행 사고로 9명의 시민이 목숨을 잃었습니다. 이들은 보행로에 서있다 갑자기 돌진한 차량에 속수무책으로 사고를 당했는데요. 서울시가 보행로로 돌진하는 차량에 의한 시민들의 피해를 줄이겠다며 가로수 식재 계획을 발표했습니다. 보행자가 많은 곳에 굵은 가로수를 심어 갑자기 돌진하는 차량을 막겠다는 겁니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온누리 상품권, 전통시장 살리기 효과 있다?]]></title>
         <id>https://v.daum.net/v/20240912170151235</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240702060140361"/>
         <updated>2024-07-01T21:20:45.822Z</updated>
         <content type="html"><![CDATA[━━━━━━━━━ "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이 태극기 국가상징조형물을 세우겠습니다" (오세훈 시장, 6월 25일 참전용사 간담회) 한국전쟁 74주년이던 지난달 25일 나온 오세훈 서울시장의 발표에 찬반 여론이 팽팽히 맞서고 있습니다. "보수도 민주도 태극기는 하나"란 지지 의견과 "시대에 역행하는 국수주의 발상"이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상속세, 재산세 징수 잘되니 이중과세?]]></title>
-        <id>https://v.daum.net/v/20240628060040609</id>
-        <link href="https://v.daum.net/v/20240628060040609"/>
-        <updated>2024-06-27T21:19:54.559Z</updated>
-        <content type="html"><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content>
     </entry>
 </feed>
