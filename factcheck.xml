@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-22T07:20:17.601Z</updated>
+    <updated>2024-09-22T08:27:18.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['악마의 편집?'…노홍철 비즈니스석 교환 사건 자세히 뜯어보니[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20240922162128971</id>
+        <link href="https://v.daum.net/v/20240922162128971"/>
+        <updated>2024-09-22T08:26:11.127Z</updated>
+        <content type="html"><![CDATA[지난 20일 인천에서 출발해 이탈리아 밀라노까지 가는 장거리 비행기 노선에서 방송인 노홍철에게 자리 교환을 요청했던 부부가 공분을 사며 논란이 되고 있다. 부부 중 아내가 "연예인 아니세요?"라고 말을 건 뒤, 노홍철에게 남편과 나란히 앉기 위해 앞 좌석과 바꿔달라고 했던 것을 노홍철이 자신의 유튜브 채널에 그대로 공개하면서 인터넷 커뮤니티 등에 급속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 가로수 심어 보행자 안전 책임진다?]]></title>
         <id>https://v.daum.net/v/20240920155150028</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240906203906694"/>
         <updated>2024-09-06T12:40:42.252Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 올해 수능 시험을 자녀와 함께 보겠다는 부모들이 있습니다. 일부 선택 과목에서 일부러 낮은 점수를 받아서 자기 아이들 표준점수를 높여주겠다는 겁니다. 이게 정말 가능한 이야기인 건지, 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 최근 한 학부모가 온라인 입시 커뮤니티에 올린 수능 응시원서 접수증입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 딥페이크 범죄, 법망 빠져나갈 수 있다?]]></title>
-        <id>https://v.daum.net/v/20240906180052733</id>
-        <link href="https://v.daum.net/v/20240906180052733"/>
-        <updated>2024-09-06T09:24:33.045Z</updated>
-        <content type="html"><![CDATA[“대한민국 경찰이 X나 한가한 것도 아니고 텔레그램 가입자가 9억명이라는데 CEO 잡혔다고 방 다 털리면 전세계 사람들 다 조사해야 함. 게다가 방에 들어간 사람들 신원따는 것도 쉬운 게 아닌데 얘가 들어가서 뭘했는지까지 다 정리해서 수사 못함... (후략)” 포털사이트 딥페이크 관련 카페에 올라온 글입니다. 최근 '성전 카페'(성범죄 등 형사범죄 전]]></content>
     </entry>
 </feed>
