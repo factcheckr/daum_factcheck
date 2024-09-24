@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-24T14:21:14.316Z</updated>
+    <updated>2024-09-24T15:25:30.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[체코 원전, 美지식재산권이 걸림돌?… 수출 권리 지금도 유효]]></title>
+        <id>https://v.daum.net/v/20240925001805935</id>
+        <link href="https://v.daum.net/v/20240925001805935"/>
+        <updated>2024-09-24T15:24:23.849Z</updated>
+        <content type="html"><![CDATA[내년 3월 최종 계약을 앞둔 24조원 규모의 체코 원전 수출을 둘러싼 논란이 잦아들지 않고 있다. 미국 웨스팅하우스의 지식재산권(IP) 문제 제기, 미국 에너지부 수출통제법 관련 논란에다 ‘덤핑 계약’이라는 주장까지 더해졌다. 이 주장들이 맞물리며 원전 수출 자체가 무산될 수도 있다는 극단적인 주장까지 나오는 상황이다. 하지만 원전 전문가들은 해당 의혹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '북한 7차 핵실험' 김정은 결심만 남았다? 전문가들 "북한에 오히려 손해"]]></title>
         <id>https://v.daum.net/v/20240924153940011</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240911192854166"/>
         <updated>2024-09-11T11:20:19.428Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령은 어제(10일) 이번 추석 연휴에는 지난 설이나 예년에 비해 훨씬 많은 병의원이 당직의료기관으로 신청해 줬다며, 정부의 안내에 따라주면 걱정 없이 의료 서비스를 받을 수 있다고 강조했습니다. 이희령 기자가 팩트체크 해봤습니다. [기자] 정부는 이번 추석 연휴 동안 하루 평균 8000곳 가까운 병원이 문을 연다고 했습니다. [정윤순/보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이민자가 개와 고양이 잡아먹는다" 트럼프 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240911152700419</id>
-        <link href="https://v.daum.net/v/20240911152700419"/>
-        <updated>2024-09-11T06:30:50.865Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;미국 공화당 대선 후보인 도널드 트럼프 전 대통령이 10일(현지 시각) 펜실베이니아주 필라델피아 국립헌법센터에서 열린 카멀라 해리스 민주당 후보와의 TV 토론에서 발언하고 있다. 2024.09.11ⓒ 연합뉴스도널드 트럼프 전 대통령(공화당 대선 후보)이 10일(현지 시각) 미국 펜실베이니아주 필라델피아 국립헌법센터에서 해리스 카멀라 부]]></content>
     </entry>
 </feed>
