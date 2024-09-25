@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-09-25T11:20:54.070Z</updated>
+    <updated>2024-09-25T12:46:26.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학교 안 '폰 금지'는 인권침해?…다른 나라는]]></title>
+        <id>https://v.daum.net/v/20240925203606738</id>
+        <link href="https://v.daum.net/v/20240925203606738"/>
+        <updated>2024-09-25T12:45:30.737Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이렇게 스마트폰이 아이들에게 미치는 악영향 때문에 여러 나라들이 적어도 학교에서만큼은 스마트폰 사용을 제한하는 법을 시행하고 있습니다. 하지만 우리나라에서는 인권침해라는 인권위 판단이 유지되고 있어서 현장의 혼란이 적지 않습니다. 이 문제, 팩트체크 사실은 코너에서 안상우 기자가 자세히 알아봤습니다. &lt;기자&gt; 종이 울리자 학생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관광 온 중국인이 운전?…전문가들 '부정적' 이유]]></title>
         <id>https://v.daum.net/v/20240912204216346</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240522203606585"/>
         <updated>2024-07-19T03:25:22.444Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 최근, 교차로를&nbsp;진입하기 직전에 신호가 황색 등으로 바뀌면 차를 멈춰야 한다는&nbsp;대법원 판단이 나와 논란이 일고 있습니다. 교차로 한복판에서 차를 급하게 멈추면&nbsp;더 위험하다는 지적과 함께 관련법을 개정해야 한다는 목소리도&nbsp;나오는데요. 다른 나라들은 어떤지, 팩트체크&nbsp;'사실은' 코너에서 박세용 기자가 따져봤습니다. &lt;기자&gt; 신호등이 황색으로 바뀌는 순]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기적 주차 테러, 이례적 '사이다 결말'…어떻게 가능했나]]></title>
-        <id>https://v.daum.net/v/20240517204812804</id>
-        <link href="https://v.daum.net/v/20240517204812804"/>
-        <updated>2024-07-19T03:25:22.447Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 요즘 아파트 단지나 주차장 입구를 입주민이 차로 막고 사라지는 일이 잇따르고 있죠. 최근 인천에서 이런 차량을 경찰이 강제로 견인하면서 속 시원하다는 반응이 많았습니다. 당연한 조치 같지만 과거에는 그러지 못했는데 이번에는 어떻게 가능했던 건지 팩트 체크 사실은 코너에서 박세용 기자가 확인해봤습니다. &lt;기자&gt; 인천의 한 아파트. 방문 차량이 드나드]]></content>
     </entry>
 </feed>
