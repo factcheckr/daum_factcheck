@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2024-09-25T10:27:23.633Z</updated>
+    <updated>2024-09-25T11:20:54.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰의 '수심위 결론 뒤집기' 과거사례 따져보니]]></title>
+        <id>https://v.daum.net/v/20240925200113019</id>
+        <link href="https://v.daum.net/v/20240925200113019"/>
+        <updated>2024-09-25T11:20:10.708Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이제 관심은 기소하라는 수사심의위의 권고를, 검찰이 받아들이느냐겠죠. 그런데 과거에도 수심위의 결론을 검찰이 수용하지 않은 사례가 있었다며, 기소하지 않아도 이상한 건 아니란 얘기를 흘리는 이들이 있습니다만, 자세히 살펴보면 수사하고 기소하라고 권하는 걸 검찰이 마다한 경우는 한 번도 없었습니다. 팩트체크 알고보니에서 이준범 기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["응급실 뺑뺑이에 국민 죽어나가"는 가짜 뉴스?]]></title>
         <id>https://v.daum.net/v/20240913201005451</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240509201315633"/>
         <updated>2024-07-19T03:25:31.587Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령은 특검은 기존 수사에 문제가 있을 때 하는 거라며 반대 입장을 분명히 했습니다. 그러면서 야당도 집권 시기에는 수사 중인 사건에 대한 특검을 늘 반대했다고 말했는데요. 팩트체크 &lt;알고보니&gt;에서 사실을 확인해 봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ [윤석열 대통령] "야당도 집권 시기에 어떤 특검 여론이 비등했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채상병 특검법이 나쁜 선례 남긴다?]]></title>
-        <id>https://v.daum.net/v/20240503202517952</id>
-        <link href="https://v.daum.net/v/20240503202517952"/>
-        <updated>2024-07-19T03:25:31.590Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 채상병 특검법을 반대하는 대통령실과 여당은 주로 절차적인 문제를 지적하고 있습니다. 특검의 도입 시점과 법안 통과 과정 등이 적절하지 않아, 이대로 시행되면 나쁜 선례를 남기게 된다는 건데요. 맞는 얘기인지, 팩트체크 알고보니에서 따져봤습니다. ◀ 리포트 ▶ 대통령실과 여당은 우선 경찰과 공수처에서 채상병 사건을 수사중이라며,]]></content>
     </entry>
 </feed>
