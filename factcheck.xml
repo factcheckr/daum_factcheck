@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-09-28T23:23:07.871Z</updated>
+    <updated>2024-09-29T01:53:57.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한 번 쯤 들어본 '선풍기 사망설', 왜 생겼을까?]]></title>
+        <id>https://v.daum.net/v/20240929105100057</id>
+        <link href="https://v.daum.net/v/20240929105100057"/>
+        <updated>2024-09-29T01:52:35.403Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 지난&nbsp;한 주간 있었던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["유승준, 관광비자로 오면 되잖아"..대표적 가짜뉴스[팩트체크]]]></title>
         <id>https://v.daum.net/v/20240928080001894</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240916180639064"/>
         <updated>2024-09-16T09:28:30.553Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;독일 바덴-뷔템베르크주 화학수의검사청(CVUA)은 지난 2월 6일 ‘해조류의 요오드는 좋은 공급원인가’라는 제목의 보고서에서 “요오드는 필수 미량원소이지만 과량 섭취 시 건강에 해로울 수 있다”고 경고했다.ⓒ CVUA요즘 독일에서 말린 미역 같은 한국산 수산물을 구하기 어렵다는 제보가 들어왔습니다. 독일과 한국을 자주 오가는 A씨는 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 추석 전 응급의료에 대한 우려, 정부와 야당의 엇갈린 시선]]></title>
-        <id>https://v.daum.net/v/20240915213600731</id>
-        <link href="https://v.daum.net/v/20240915213600731"/>
-        <updated>2024-09-15T12:39:44.018Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) &gt; 지난&nbsp;한 주간 있었던]]></content>
     </entry>
 </feed>
