@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-02T21:24:32.478Z</updated>
+    <updated>2024-10-02T22:24:04.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금투세가 사모펀드 투자자 감세?···“반은 맞고 반은 틀리다”[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20241003070005815</id>
+        <link href="https://v.daum.net/v/20241003070005815"/>
+        <updated>2024-10-02T22:23:04.916Z</updated>
+        <content type="html"><![CDATA[여야가 내년 시행 예정인 금융투자소득세(금투세)를 두고 ‘사모펀드 절세 논쟁’을 벌이고 있다. 한동훈 국민의힘 대표가 야당 일부의 금투세 도입론에 대해 “사모펀드 투자자 절세용”이라고 주장하면서다. 사모펀드에 투자한 야당 인사들이 본인들에게 적용되는 세금을 줄이기 위해 금투세를 도입하려는 것 아니냐는 것이다. 참여연대·경제정의실천시민연합·포용재정포럼·민주사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한 번 쯤 들어본 '선풍기 사망설', 왜 생겼을까?]]></title>
         <id>https://v.daum.net/v/20240929105100057</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240920155150028"/>
         <updated>2024-09-20T07:21:42.445Z</updated>
         <content type="html"><![CDATA[지난 7월 1일 서울 시청역 인근의 차량 역주행 사고로 9명의 시민이 목숨을 잃었습니다. 이들은 보행로에 서있다 갑자기 돌진한 차량에 속수무책으로 사고를 당했는데요. 서울시가 보행로로 돌진하는 차량에 의한 시민들의 피해를 줄이겠다며 가로수 식재 계획을 발표했습니다. 보행자가 많은 곳에 굵은 가로수를 심어 갑자기 돌진하는 차량을 막겠다는 겁니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일에서 한국산 미역 구하기 어려운 까닭 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20240916180639064</id>
-        <link href="https://v.daum.net/v/20240916180639064"/>
-        <updated>2024-09-16T09:28:30.553Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;독일 바덴-뷔템베르크주 화학수의검사청(CVUA)은 지난 2월 6일 ‘해조류의 요오드는 좋은 공급원인가’라는 제목의 보고서에서 “요오드는 필수 미량원소이지만 과량 섭취 시 건강에 해로울 수 있다”고 경고했다.ⓒ CVUA요즘 독일에서 말린 미역 같은 한국산 수산물을 구하기 어렵다는 제보가 들어왔습니다. 독일과 한국을 자주 오가는 A씨는 1]]></content>
     </entry>
 </feed>

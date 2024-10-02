@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2024-10-02T21:24:32.485Z</updated>
+    <updated>2024-10-02T22:24:04.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금투세가 사모펀드 투자자 감세?···“반은 맞고 반은 틀리다”]]></title>
+        <id>https://v.daum.net/v/20241003070005815</id>
+        <link href="https://v.daum.net/v/20241003070005815"/>
+        <updated>2024-10-02T22:23:47.995Z</updated>
+        <content type="html"><![CDATA[여야가 내년 시행 예정인 금융투자소득세(금투세)를 두고 ‘사모펀드 절세 논쟁’을 벌이고 있다. 한동훈 국민의힘 대표가 야당 일부의 금투세 도입론에 대해 “사모펀드 투자자 절세용”이라고 주장하면서다. 사모펀드에 투자한 야당 인사들이 본인들에게 적용되는 세금을 줄이기 위해 금투세를 도입하려는 것 아니냐는 것이다. 참여연대·경제정의실천시민연합·포용재정포럼·민주사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“가자에 식량난 없다”는 네타냐후···52분간 ‘강경 발언’ 쏟아낸 미 의회 연설]]></title>
         <id>https://v.daum.net/v/20240725165015886</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20230717163049145"/>
         <updated>2023-07-17T08:27:50.513Z</updated>
         <content type="html"><![CDATA[이번에 내린 역대급 폭우로 피해가 속출하자 ‘4대강’이 또 다시 소환됐다. 지난 주말 포털 기사 댓글과 사회관계망서비스(SNS)에선 “4대강 보를 해체한 지역에 피해가 심하게 일어나고 있다”는 주장과 “보가 홍수위를 높였다” 등 상반된 주장이 충돌했다. 정진석 국민의힘 의원은 17일 충남 공주시 수해 피해지역을 찾은 자리에서 취재진에게 “4대강 사업으로 강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종점에 나들목이 없어 김 여사 땅 혜택 없다? 1km 밑에 나들목 있어]]></title>
-        <id>https://v.daum.net/v/20230709174405674</id>
-        <link href="https://v.daum.net/v/20230709174405674"/>
-        <updated>2023-07-09T09:19:30.733Z</updated>
-        <content type="html"><![CDATA[서울-양평 고속도로의 종점이 경기 양평군의 윤석열 대통령 배우자 김건희 여사 땅 부근으로 바뀐 사실이 알려지면서 야당의 특혜 의혹 제기와 정부·여당의 반박으로 정치권이 연일 시끄럽다. 과연 정부·여당 주장대로 김 여사 땅에 혜택이 없는지, 더불어민주당도 2년 전엔 노선 변경을 추진했는지, 변경된 노선이 더 경제성이 있는지 양측의 주장을 정리하고 지금까지 드]]></content>
     </entry>
 </feed>
