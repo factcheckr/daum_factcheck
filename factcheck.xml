@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-02T17:20:24.497Z</updated>
+    <updated>2024-10-02T18:32:53.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한 번 쯤 들어본 '선풍기 사망설', 왜 생겼을까?]]></title>
         <id>https://v.daum.net/v/20240929105100057</id>
