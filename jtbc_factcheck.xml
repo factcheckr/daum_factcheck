@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-10-04T04:28:00.444Z</updated>
+    <updated>2024-10-04T05:24:47.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지역화폐법 개정안 부익부 빈익빈 초래한다?]]></title>
+        <id>https://v.daum.net/v/20241004140041067</id>
+        <link href="https://v.daum.net/v/20241004140041067"/>
+        <updated>2024-10-04T05:24:47.227Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 2일 이른바 쌍특검법과 지역사랑상품권(화폐)법 개정안에 대한 거부권(재의요구권)을 행사했습니다. 이번 정부 들어 24번째 거부권입니다. 이에 앞서 정부는 지난달 30일 국무회의에서 해당 법률안에 대해 재의 요구 건의안을 의결했는데요. 당시 한덕수 국무총리는 지역사랑상품권 관련 법 개정안에 대해 "지방자치단체 자치권의 근간을 훼손하고, 헌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반려동물 보유세, 도입 필요할까?]]></title>
         <id>https://v.daum.net/v/20240927160141922</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240718171841891"/>
         <updated>2024-07-18T08:27:32.951Z</updated>
         <content type="html"><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채상병 특검법은 반헌법적이다?]]></title>
-        <id>https://v.daum.net/v/20240712150140053</id>
-        <link href="https://v.daum.net/v/20240712150140053"/>
-        <updated>2024-07-12T06:29:05.097Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률안'(이하 채상병 특검법안)에 대해 두번째 재의요구권(거부권)을 행사했습니다. 이에 더불어민주당은 오는 19일 채상병 순직 1주기를 앞두고 “국민을 상대로 선전 포고를 한 것”이라며 재의결을 예고했고, 국민의힘은 “민주주의 원칙을 훼손한 반헌법적]]></content>
     </entry>
 </feed>

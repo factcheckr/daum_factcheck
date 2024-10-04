@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-04T04:28:00.442Z</updated>
+    <updated>2024-10-04T05:24:47.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 지역화폐법 개정안 부익부 빈익빈 초래한다?]]></title>
+        <id>https://v.daum.net/v/20241004140041067</id>
+        <link href="https://v.daum.net/v/20241004140041067"/>
+        <updated>2024-10-04T05:22:39.295Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 2일 이른바 쌍특검법과 지역사랑상품권(화폐)법 개정안에 대한 거부권(재의요구권)을 행사했습니다. 이번 정부 들어 24번째 거부권입니다. 이에 앞서 정부는 지난달 30일 국무회의에서 해당 법률안에 대해 재의 요구 건의안을 의결했는데요. 당시 한덕수 국무총리는 지역사랑상품권 관련 법 개정안에 대해 "지방자치단체 자치권의 근간을 훼손하고, 헌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금투세가 사모펀드 투자자 감세?···“반은 맞고 반은 틀리다”[팩트체크]]]></title>
         <id>https://v.daum.net/v/20241003070005815</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240922162128971"/>
         <updated>2024-09-22T08:26:11.127Z</updated>
         <content type="html"><![CDATA[지난 20일 인천에서 출발해 이탈리아 밀라노까지 가는 장거리 비행기 노선에서 방송인 노홍철에게 자리 교환을 요청했던 부부가 공분을 사며 논란이 되고 있다. 부부 중 아내가 "연예인 아니세요?"라고 말을 건 뒤, 노홍철에게 남편과 나란히 앉기 위해 앞 좌석과 바꿔달라고 했던 것을 노홍철이 자신의 유튜브 채널에 그대로 공개하면서 인터넷 커뮤니티 등에 급속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 가로수 심어 보행자 안전 책임진다?]]></title>
-        <id>https://v.daum.net/v/20240920155150028</id>
-        <link href="https://v.daum.net/v/20240920155150028"/>
-        <updated>2024-09-20T07:21:42.445Z</updated>
-        <content type="html"><![CDATA[지난 7월 1일 서울 시청역 인근의 차량 역주행 사고로 9명의 시민이 목숨을 잃었습니다. 이들은 보행로에 서있다 갑자기 돌진한 차량에 속수무책으로 사고를 당했는데요. 서울시가 보행로로 돌진하는 차량에 의한 시민들의 피해를 줄이겠다며 가로수 식재 계획을 발표했습니다. 보행자가 많은 곳에 굵은 가로수를 심어 갑자기 돌진하는 차량을 막겠다는 겁니다.]]></content>
     </entry>
 </feed>
