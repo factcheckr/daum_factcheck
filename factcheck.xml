@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-07T23:23:47.129Z</updated>
+    <updated>2024-10-08T01:47:14.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 단양천댐 선정 근거 미공개…“부동산 투기 우려”]]></title>
+        <id>https://v.daum.net/v/20241008091633888</id>
+        <link href="https://v.daum.net/v/20241008091633888"/>
+        <updated>2024-10-08T01:46:09.680Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 신규 댐 건설 후보지로 단양이 선정돼 지역 반발이 거센데요. 단양군이 댐 후보지로 정해진 이유에 대해 정부가 이렇다 할 근거를 밝히지 않고 있어 의문과 갈등이 더 커지고 있습니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] ["단양천댐, 즉각 철회하라! 철회하라! 철회하라!"] 지난 7월 말, 환경부가 발표한 기후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 단양천댐 선정 근거 미공개…“부동산 투기 우려”]]></title>
         <id>https://v.daum.net/v/20241007214647412</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240925203606738"/>
         <updated>2024-09-25T12:45:19.658Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 이렇게 스마트폰이 아이들에게 미치는 악영향 때문에 여러 나라들이 적어도 학교에서만큼은 스마트폰 사용을 제한하는 법을 시행하고 있습니다. 하지만 우리나라에서는 인권침해라는 인권위 판단이 유지되고 있어서 현장의 혼란이 적지 않습니다. 이 문제, 팩트체크 사실은 코너에서 안상우 기자가 자세히 알아봤습니다. &lt;기자&gt; 종이 울리자 학생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 검찰의 '수심위 결론 뒤집기' 과거사례 따져보니]]></title>
-        <id>https://v.daum.net/v/20240925200113019</id>
-        <link href="https://v.daum.net/v/20240925200113019"/>
-        <updated>2024-09-25T11:19:52.274Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이제 관심은 기소하라는 수사심의위의 권고를, 검찰이 받아들이느냐겠죠. 그런데 과거에도 수심위의 결론을 검찰이 수용하지 않은 사례가 있었다며, 기소하지 않아도 이상한 건 아니란 얘기를 흘리는 이들이 있습니다만, 자세히 살펴보면 수사하고 기소하라고 권하는 걸 검찰이 마다한 경우는 한 번도 없었습니다. 팩트체크 알고보니에서 이준범 기]]></content>
     </entry>
 </feed>
