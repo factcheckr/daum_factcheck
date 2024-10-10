@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T10:25:23.739Z</updated>
+    <updated>2024-10-10T11:21:47.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241010193845906</id>
+        <link href="https://v.daum.net/v/20241010193845906"/>
+        <updated>2024-10-10T11:19:42.048Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오토바이 같은  이륜차 소음 피해가 끊이지 않자, 정부가 신고 포상금제를 도입했습니다. 소음을 키우는  불법 개조 사례를 신고받아 개선하겠다는 건데요. 충북에선 1년이 넘도록 관련 조치가 이뤄지지 않고 있습니다. 팩트체크 K, 진희정 기자가 취재했습니다. [리포트] 한밤 주택가에서 굉음을 내며 질주하는 오토바이. 이런 이륜차 소음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 단양천댐 선정 근거 미공개…“부동산 투기 우려” (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241008091633888</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240927160141922"/>
         <updated>2024-09-27T07:21:44.341Z</updated>
         <content type="html"><![CDATA[반려동물 보유세 도입 논의가 다시 한번 여론의 도마에 올랐습니다. 농림축산식품부가 도입을 검토하는 것은 아니라고 선을 그었지만, 반려동물 양육 가구가 2020년 기준 300만 가구(통계청, 인구총조사)를 넘기면서 도입 가능성에 대한 시민들의 관심이 뜨겁습니다. 앞서 지난 4월 치러진 22대 총선에서도 각 정당들이 반려동물과 유기동물에 대한 공약을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 학교 안 '폰 금지'는 인권침해?…다른 나라는 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240925203606738</id>
-        <link href="https://v.daum.net/v/20240925203606738"/>
-        <updated>2024-09-25T12:45:19.658Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 이렇게 스마트폰이 아이들에게 미치는 악영향 때문에 여러 나라들이 적어도 학교에서만큼은 스마트폰 사용을 제한하는 법을 시행하고 있습니다. 하지만 우리나라에서는 인권침해라는 인권위 판단이 유지되고 있어서 현장의 혼란이 적지 않습니다. 이 문제, 팩트체크 사실은 코너에서 안상우 기자가 자세히 알아봤습니다. &lt;기자&gt; 종이 울리자 학생]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국산 김치 먹기 어려워지나…'금배추' 대책은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -243,6 +243,13 @@
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령은 특검은 기존 수사에 문제가 있을 때 하는 거라며 반대 입장을 분명히 했습니다. 그러면서 야당도 집권 시기에는 수사 중인 사건에 대한 특검을 늘 반대했다고 말했는데요. 팩트체크 &lt;알고보니&gt;에서 사실을 확인해 봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ [윤석열 대통령] "야당도 집권 시기에 어떤 특검 여론이 비등했]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20241010193845906</id>
+        <link href="https://v.daum.net/v/20241010193845906"/>
+        <updated>2024-10-10T11:21:09.498Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오토바이 같은  이륜차 소음 피해가 끊이지 않자, 정부가 신고 포상금제를 도입했습니다. 소음을 키우는  불법 개조 사례를 신고받아 개선하겠다는 건데요. 충북에선 1년이 넘도록 관련 조치가 이뤄지지 않고 있습니다. 팩트체크 K, 진희정 기자가 취재했습니다. [리포트] 한밤 주택가에서 굉음을 내며 질주하는 오토바이. 이런 이륜차 소음]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[단양천댐 선정 근거 미공개…“부동산 투기 우려” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20241008091633888</id>
         <link href="https://v.daum.net/v/20241008091633888"/>
@@ -318,13 +325,6 @@
         <link href="https://v.daum.net/v/20240620194425409"/>
         <updated>2024-06-20T11:16:59.199Z</updated>
         <content type="html"><![CDATA[[KBS 청주][기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아휴직 장려금 준다더니…“지원 0건” (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240613090457154</id>
-        <link href="https://v.daum.net/v/20240613090457154"/>
-        <updated>2024-06-13T01:24:12.752Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 올해 육아휴직중인 옥천 주민들은 계획대로라면 매달 30만 원씩 받을 수 있는데요. 이 육아휴직 장려금이 아직 한 건도, 한 푼도 지원되지 않았다고 합니다. 언제부터 받을 수 있는지도 기약이 없는데요. 어찌 된 일인지 팩트체크K, 이유진 기자가 취재했습니다. [리포트] 30여 년 전, 인구가 약 6만 9천여 명이었던 옥천군. 2년 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 앞 ‘미니 가습기’, 습도 조절 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
