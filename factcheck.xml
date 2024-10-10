@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-10T12:45:16.206Z</updated>
+    <updated>2024-10-10T13:30:53.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘이륜차 소음’ 단속·신고 포상 지지부진]]></title>
+        <id>https://v.daum.net/v/20241010215132121</id>
+        <link href="https://v.daum.net/v/20241010215132121"/>
+        <updated>2024-10-10T13:29:58.127Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오토바이 같은  이륜차 소음 피해가 끊이지 않자, 정부가 신고 포상금제를 도입했습니다. 소음을 키우는  불법 개조 사례를 신고받아 개선하겠다는 건데요. 충북에선 1년이 넘도록 관련 조치가 이뤄지지 않고 있습니다. 팩트체크 K, 진희정 기자가 취재했습니다. [리포트] 한밤 주택가에서 굉음을 내며 질주하는 오토바이. 이런 이륜차 소음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘이륜차 소음’ 단속·신고 포상 지지부진]]></title>
         <id>https://v.daum.net/v/20241010193845906</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240928080001894"/>
         <updated>2024-09-27T23:22:08.540Z</updated>
         <content type="html"><![CDATA[가수 유승준의 비자 신청을 주LA총영사관이 다시 거절한 것으로 알려지면서 논란이 반복되고 있다. 2015년 처음으로 주LA총영사관이 유승준의 F-4(재외동포체류)비자 신청을 거부한 이후 이번이 벌써 세번째 소송 개시다. 주LA총영사관은 지난 6월 18일자로 유승준이 지난 2월 신청했던 사증(비자)발급에 대해 거부처분 통보를 했다. 앞서 비자발급거부 취소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 반려동물 보유세, 도입 필요할까?]]></title>
-        <id>https://v.daum.net/v/20240927160141922</id>
-        <link href="https://v.daum.net/v/20240927160141922"/>
-        <updated>2024-09-27T07:21:44.341Z</updated>
-        <content type="html"><![CDATA[반려동물 보유세 도입 논의가 다시 한번 여론의 도마에 올랐습니다. 농림축산식품부가 도입을 검토하는 것은 아니라고 선을 그었지만, 반려동물 양육 가구가 2020년 기준 300만 가구(통계청, 인구총조사)를 넘기면서 도입 가능성에 대한 시민들의 관심이 뜨겁습니다. 앞서 지난 4월 치러진 22대 총선에서도 각 정당들이 반려동물과 유기동물에 대한 공약을]]></content>
     </entry>
 </feed>
