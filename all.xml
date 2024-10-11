@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T23:22:54.568Z</updated>
+    <updated>2024-10-11T01:46:20.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241011093252377</id>
+        <link href="https://v.daum.net/v/20241011093252377"/>
+        <updated>2024-10-11T01:45:25.444Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오토바이 같은  이륜차 소음 피해가 끊이지 않자, 정부가 신고 포상금제를 도입했습니다. 소음을 키우는  불법 개조 사례를 신고받아 개선하겠다는 건데요. 충북에선 1년이 넘도록 관련 조치가 이뤄지지 않고 있습니다. 팩트체크 K, 진희정 기자가 취재했습니다. [리포트] 한밤 주택가에서 굉음을 내며 질주하는 오토바이. 이런 이륜차 소음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241010215132121</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20240929105100057"/>
         <updated>2024-09-29T01:52:35.403Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 09월 14일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 지난&nbsp;한 주간 있었던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유승준, 관광비자로 오면 되잖아"..대표적 가짜뉴스[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20240928080001894</id>
-        <link href="https://v.daum.net/v/20240928080001894"/>
-        <updated>2024-09-27T23:22:08.540Z</updated>
-        <content type="html"><![CDATA[가수 유승준의 비자 신청을 주LA총영사관이 다시 거절한 것으로 알려지면서 논란이 반복되고 있다. 2015년 처음으로 주LA총영사관이 유승준의 F-4(재외동포체류)비자 신청을 거부한 이후 이번이 벌써 세번째 소송 개시다. 주LA총영사관은 지난 6월 18일자로 유승준이 지난 2월 신청했던 사증(비자)발급에 대해 거부처분 통보를 했다. 앞서 비자발급거부 취소]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국산 김치 먹기 어려워지나…'금배추' 대책은? (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,6 +244,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20241011093252377</id>
+        <link href="https://v.daum.net/v/20241011093252377"/>
+        <updated>2024-10-11T01:45:48.386Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오토바이 같은  이륜차 소음 피해가 끊이지 않자, 정부가 신고 포상금제를 도입했습니다. 소음을 키우는  불법 개조 사례를 신고받아 개선하겠다는 건데요. 충북에선 1년이 넘도록 관련 조치가 이뤄지지 않고 있습니다. 팩트체크 K, 진희정 기자가 취재했습니다. [리포트] 한밤 주택가에서 굉음을 내며 질주하는 오토바이. 이런 이륜차 소음]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이륜차 소음’ 단속·신고 포상 지지부진 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20241010215132121</id>
         <link href="https://v.daum.net/v/20241010215132121"/>
         <updated>2024-10-10T13:29:58.127Z</updated>
@@ -317,13 +324,6 @@
         <id>https://v.daum.net/v/20240621084325912</id>
         <link href="https://v.daum.net/v/20240621084325912"/>
         <updated>2024-06-21T01:23:40.375Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과수화상병 확산…피해 실태와 원인, 전망은? (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240620215228380</id>
-        <link href="https://v.daum.net/v/20240620215228380"/>
-        <updated>2024-06-20T13:21:59.654Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 치료제가 없는 과수화상병이 충북 북부를 중심으로 확산하고 있습니다. 피해 농가의 모습인데요. 중장비가 과수화상병에 걸린 사과나무들을  전부 땅속에 묻고 있습니다. 피해 농민에게는 잠정적인 폐업 선고나 다름 없는데요. 올해 충북에서 농가 58곳이 피해를 입었습니다. 전국 전체 피해 규모의 절반이 충북에 몰렸습니다. 화상병 피해를 입어]]></content>
     </entry>
     <entry>
