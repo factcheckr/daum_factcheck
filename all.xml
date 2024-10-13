@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-13T13:28:52.988Z</updated>
+    <updated>2024-10-13T14:21:14.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 화장품과 건강기능식품 허위광고 사례들 체크! (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241013231501917</id>
+        <link href="https://v.daum.net/v/20241013231501917"/>
+        <updated>2024-10-13T14:19:19.291Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 10월 12일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 지난&nbsp;한 주간 있었던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '한강 노벨상 축전', 챗GPT로 썼다?  AI 검사기 돌려보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241011203600933</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241004140041067"/>
         <updated>2024-10-04T05:22:39.295Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 2일 이른바 쌍특검법과 지역사랑상품권(화폐)법 개정안에 대한 거부권(재의요구권)을 행사했습니다. 이번 정부 들어 24번째 거부권입니다. 이에 앞서 정부는 지난달 30일 국무회의에서 해당 법률안에 대해 재의 요구 건의안을 의결했는데요. 당시 한덕수 국무총리는 지역사랑상품권 관련 법 개정안에 대해 "지방자치단체 자치권의 근간을 훼손하고, 헌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금투세가 사모펀드 투자자 감세?···“반은 맞고 반은 틀리다”[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241003070005815</id>
-        <link href="https://v.daum.net/v/20241003070005815"/>
-        <updated>2024-10-02T22:23:04.916Z</updated>
-        <content type="html"><![CDATA[여야가 내년 시행 예정인 금융투자소득세(금투세)를 두고 ‘사모펀드 절세 논쟁’을 벌이고 있다. 한동훈 국민의힘 대표가 야당 일부의 금투세 도입론에 대해 “사모펀드 투자자 절세용”이라고 주장하면서다. 사모펀드에 투자한 야당 인사들이 본인들에게 적용되는 세금을 줄이기 위해 금투세를 도입하려는 것 아니냐는 것이다. 참여연대·경제정의실천시민연합·포용재정포럼·민주사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국산 김치 먹기 어려워지나…'금배추' 대책은? (다음 뉴스 ─ SBS 사실은)]]></title>
