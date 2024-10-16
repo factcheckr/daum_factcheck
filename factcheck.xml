@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-16T10:26:20.449Z</updated>
+    <updated>2024-10-16T11:22:03.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 청주 대농지구 복합 개발 논란…“공익 우선시해야”]]></title>
+        <id>https://v.daum.net/v/20241016193747850</id>
+        <link href="https://v.daum.net/v/20241016193747850"/>
+        <updated>2024-10-16T11:20:12.305Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 청주 대농지구 일대에 또 아파트 건립이 추진됩니다. 10여 년 전, 청주시가 공공청사 용지로 기부채납 받은 부지인데요. 주택 과잉 공급 상황 속에, 더 공익적인 활용안을 찾아야 한다는 목소리가 큽니다. 팩트체크 K, 이정훈 기자가 취재했습니다. [리포트] 청주 대농지구 일대의 만 7천여 ㎡ 부지입니다. 대농2·3지구 사업 시행자인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241016184801054</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241007214647412"/>
         <updated>2024-10-07T13:30:09.923Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 신규 댐 건설 후보지로 단양이 선정돼 지역 반발이 거센데요. 단양군이 댐 후보지로 정해진 이유에 대해 정부가 이렇다 할 근거를 밝히지 않고 있어 의문과 갈등이 더 커지고 있습니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] ["단양천댐, 즉각 철회하라! 철회하라! 철회하라!"] 지난 7월 말, 환경부가 발표한 기후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정근식, 토론회 보이콧" 조전혁, 논란되자 뒤늦게 페북글 삭제 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20241007181200290</id>
-        <link href="https://v.daum.net/v/20241007181200290"/>
-        <updated>2024-10-07T09:25:50.498Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ ▲&nbsp;조전혁 서울시교육감 후보가 6일 오후 서울 영등포구 KBS에서 열린 서울시교육감보궐선거 후보자 대담회에 참석해 시작을 기다리고 있다. 2024.10.6ⓒ 연합뉴스서울시교육감 보궐선거 후보자 상호 토론회 무산 파장이 '토론회 보이콧'을 둘러싼 허위사실 유포 논란으로 번졌다. 서울특별시선거관리위원회 선거방송토론위원회(아래 서울시선관위)에]]></content>
     </entry>
 </feed>
