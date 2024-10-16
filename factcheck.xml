@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-16T09:27:08.299Z</updated>
+    <updated>2024-10-16T10:26:20.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["고교 무상교육 예산 99% 삭감"이 '가짜뉴스'라는 국민의힘 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241016184801054</id>
+        <link href="https://v.daum.net/v/20241016184801054"/>
+        <updated>2024-10-16T10:24:23.127Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;한동훈 국민의힘 대표가 14일 오전 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다.ⓒ 남소연국민의힘에서 10·16 재보궐선거를 앞두고 '윤 정부, 고교 무상교육 예산 99% 삭감'이란 현수막을 내건 더불어민주당 국회의원을 허위사실 공표로 고발해 논란이 일고 있다. 국민의힘 법률자문위원회(위원장 주진우 의원)는 16일 오후 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 한강 작가 소설이 역사 왜곡?]]></title>
         <id>https://v.daum.net/v/20241014200713307</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241007181200290"/>
         <updated>2024-10-07T09:25:50.498Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ ▲&nbsp;조전혁 서울시교육감 후보가 6일 오후 서울 영등포구 KBS에서 열린 서울시교육감보궐선거 후보자 대담회에 참석해 시작을 기다리고 있다. 2024.10.6ⓒ 연합뉴스서울시교육감 보궐선거 후보자 상호 토론회 무산 파장이 '토론회 보이콧'을 둘러싼 허위사실 유포 논란으로 번졌다. 서울특별시선거관리위원회 선거방송토론위원회(아래 서울시선관위)에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 국산 김치 먹기 어려워지나…'금배추' 대책은?]]></title>
-        <id>https://v.daum.net/v/20241004204215545</id>
-        <link href="https://v.daum.net/v/20241004204215545"/>
-        <updated>2024-10-04T12:44:39.105Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 김장철은 다가오는데 배추값이 떨어지질 않아서 소비자들의 걱정이 많습니다. 기후 변화로 이상 고온 현상이 잦아지면서 앞으로는 국산 김치를 먹기가 쉽지 않을 거란 전망도 있습니다. 대책은 없는 건지 팩트체크 '사실은' 코너에서 짚어봤습니다. 안상우 기자입니다. &lt;기자&gt; 올해 배추 가격 폭등의 가장 큰 이유는 '이상 고온', 이번이]]></content>
     </entry>
 </feed>
