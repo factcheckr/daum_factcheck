@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1664634</id>
     <title>다음 뉴스 ─ KBS 팩트체크K</title>
-    <updated>2024-10-16T23:24:13.453Z</updated>
+    <updated>2024-10-17T01:48:25.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청주 대농지구 복합 개발 논란…“공익 우선해야”]]></title>
+        <id>https://v.daum.net/v/20241017091431495</id>
+        <link href="https://v.daum.net/v/20241017091431495"/>
+        <updated>2024-10-17T01:47:46.826Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 청주 대농지구 일대에 또 아파트 건립이 추진됩니다. 10여 년 전, 청주시가 공공청사 용지로 기부채납 받은 부지인데요. 주택 과잉 공급 상황 속에, 더 공익적인 활용안을 찾아야 한다는 목소리가 큽니다. 팩트체크 K, 이정훈 기자가 취재했습니다. [리포트] 청주 대농지구 일대의 만 7천여 ㎡ 부지입니다. 대농2·3지구 사업 시행자인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청주 대농지구 복합 개발 논란…“공익 우선해야”]]></title>
         <id>https://v.daum.net/v/20241016215624989</id>
@@ -80,13 +87,6 @@
         <id>https://v.daum.net/v/20240627085631789</id>
         <link href="https://v.daum.net/v/20240627085631789"/>
         <updated>2024-06-27T01:25:26.412Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인구 감소 위기, ‘스포츠’로 극복]]></title>
-        <id>https://v.daum.net/v/20240626214557640</id>
-        <link href="https://v.daum.net/v/20240626214557640"/>
-        <updated>2024-06-26T13:22:30.479Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [기자] 저출생 여파로 인구 감소가 최대 위기로 떠올랐습니다. 충북도  11개 시·군 가운데 6곳이 인구 감소 지역입니다. 자치단체마다 인구 유치에 사활을 걸고 있습니다. 전입 지원금,  귀농·귀촌인 지원, 청년 창업, 기업 유치, 관광까지. 다양한 시책을 쏟아내고 있는데요. 눈여겨볼만한 이색 정책이 있습니다. 바로, 스포츠입니다. 스포츠로]]></content>
     </entry>
 </feed>
