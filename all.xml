@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T23:23:12.132Z</updated>
+    <updated>2024-10-22T01:48:35.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 보험 사각지대 드러난 충북형 도시농부 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241022085441608</id>
+        <link href="https://v.daum.net/v/20241022085441608"/>
+        <updated>2024-10-22T01:47:37.856Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 자치단체가 일손이 부족한 농가에 도시의 인력을 지원하고 인건비도 보조해 주는 충북형 도시농부 사업이 한창인데요. 최근, 충청북도가 모든 참여 농가에 산업재해보상보험에 가입하라고 독려하고 나섰습니다. 제도의 허점이 드러나섭니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 시각 장애인 아내와 복숭아 농장을 운영하는 72살 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 보험 사각지대 드러난 충북형 도시농부 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241021214053980</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241014200713307"/>
         <updated>2024-10-14T11:19:50.529Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 한강 작가에게 노벨문학상을 수여한 스웨덴 한림원은 한 작가의 작품에 대해 "역사적 트라우마에 맞섰다"고 평가했습니다. 그런데 지난 주말 사이 일부 보수층에서 한 작가의 소설이 "역사를 왜곡했다"고 주장해 논란이 됐는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 확인해 봤습니다. ◀ 리포트 ▶ 노벨문학상 발표 이후 한 국내 작가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화장품과 건강기능식품 허위광고 사례들 체크! (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241013231501917</id>
-        <link href="https://v.daum.net/v/20241013231501917"/>
-        <updated>2024-10-13T14:19:19.291Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 10월 12일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 지난&nbsp;한 주간 있었던]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['채식주의자' 청소년에 유해?…성교육 전문가 답은 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -244,6 +244,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[보험 사각지대 드러난 충북형 도시농부 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
+        <id>https://v.daum.net/v/20241022085441608</id>
+        <link href="https://v.daum.net/v/20241022085441608"/>
+        <updated>2024-10-22T01:48:02.614Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 자치단체가 일손이 부족한 농가에 도시의 인력을 지원하고 인건비도 보조해 주는 충북형 도시농부 사업이 한창인데요. 최근, 충청북도가 모든 참여 농가에 산업재해보상보험에 가입하라고 독려하고 나섰습니다. 제도의 허점이 드러나섭니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 시각 장애인 아내와 복숭아 농장을 운영하는 72살 김]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보험 사각지대 드러난 충북형 도시농부 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
         <id>https://v.daum.net/v/20241021214053980</id>
         <link href="https://v.daum.net/v/20241021214053980"/>
         <updated>2024-10-21T12:45:48.649Z</updated>
@@ -317,13 +324,6 @@
         <id>https://v.daum.net/v/20240905214423982</id>
         <link href="https://v.daum.net/v/20240905214423982"/>
         <updated>2024-09-05T13:26:10.212Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥페이크 성범죄 ‘처벌 사각지대’ 여전…개선 촉구 (다음 뉴스 ─ KBS 팩트체크K)]]></title>
-        <id>https://v.daum.net/v/20240905201222677</id>
-        <link href="https://v.daum.net/v/20240905201222677"/>
-        <updated>2024-09-05T11:19:05.368Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 인공지능을 이용한 딥페이크, 이른바 불법 합성물 성범죄가 확산하고 있는데요. 현행법상 처벌의 사각지대를 악용한 범죄가 끊이지 않아, 대책 마련이 시급합니다. 팩트체크 K, 그 실태를 송근섭 기자가 취재했습니다. [리포트] 최근 무분별하게 확산하고 있는 딥페이크, 불법 합성물 성범죄. 특정인의 얼굴 사진과 음란물을 합성하는 수법으로,]]></content>
     </entry>
     <entry>
