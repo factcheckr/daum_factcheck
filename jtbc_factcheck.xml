@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-10-25T06:33:06.627Z</updated>
+    <updated>2024-10-25T07:23:41.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한군 러시아 파병 추정 영상 조작일까?]]></title>
+        <id>https://v.daum.net/v/20241025161641144</id>
+        <link href="https://v.daum.net/v/20241025161641144"/>
+        <updated>2024-10-25T07:23:40.578Z</updated>
+        <content type="html"><![CDATA[국가정보원에 이어 미국 국방부와 북대서양조약기구(나토·NATO)가 북한의 러시아 파병을 확인하면서 국내외 긴장감이 커지고 있습니다. 그동안 북한이 파병에 대해 입장을 내지 않아 여러 논란이 불거졌는데요. 이는 우크라이나 전략소통·정보보안센터(SPRAVDI)가 지난 18일 공개한 영상 때문입니다. 동양인으로 보이는 사람들이 군복을 입고 줄을 서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역화폐법 개정안 지자체 자치권 침해한다?]]></title>
         <id>https://v.daum.net/v/20241018175840189</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240801100040639"/>
         <updated>2024-08-01T01:42:36.858Z</updated>
         <content type="html"><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라가 동남아성 기후로 바뀌었다?]]></title>
-        <id>https://v.daum.net/v/20240726100141041</id>
-        <link href="https://v.daum.net/v/20240726100141041"/>
-        <updated>2024-07-26T01:28:50.401Z</updated>
-        <content type="html"><![CDATA[올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되고 있습니다. 지난 10일 전북 군산에선 한 시간 동안 146mm의 폭우가 쏟아졌습니다. 군산 지역의 연평균 강수량이 1246㎜인데 1년 내릴 비의 11%가 넘는 양입니다. 기상청은 200년 만에 한 번 내릴 정도의 강한 비라고 밝혔습니다. 2년 전 전조(前兆)가 있었습]]></content>
     </entry>
 </feed>
