@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-10-25T08:30:08.470Z</updated>
+    <updated>2024-10-25T09:26:41.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[취재파일] '채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까? [사실은]]]></title>
+        <id>https://v.daum.net/v/20241025173638905</id>
+        <link href="https://v.daum.net/v/20241025173638905"/>
+        <updated>2024-10-25T09:24:41.792Z</updated>
+        <content type="html"><![CDATA[지난 10일 한강 작가의 노벨문학상 수상 소식은 모두에게 충격이었습니다. 당사자인 한 씨도 "매우 놀랍고 영광스럽다"라며 수상 소감을 밝혔고, 이런 호재를 예상치 못했던 출판계도 이른바 '한강 신드롬'에 행복한 비명을 지르고 있습니다. 그런데, 교육 현장도 큰 충격에 휩싸였습니다. 지난해 경기도의 한 고등학교에서 "청소년 성교육에 유해하다"며 한 씨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 북한군 러시아 파병 추정 영상 조작일까?]]></title>
         <id>https://v.daum.net/v/20241025161641144</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241018210305367"/>
         <updated>2024-10-18T12:44:01.868Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 한강 작가의 대표작 채식주의자가 지난해 한 고등학교에서 유해 도서로 판단돼 폐기된 걸 두고 논란이 일고 있죠. 작품성과는 별개로, 일부 선정적인 대목이 학생에게 유해할 수 있다는 건데 시대착오적이라는 비판도 적지 않습니다. 과연 성교육 전문가들은 어떻게 보고 있는지 팩트 체크 사실은 코너에서 확인해 봤습니다. 안상우 기자입니다. &lt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 지역화폐법 개정안 지자체 자치권 침해한다?]]></title>
-        <id>https://v.daum.net/v/20241018175840189</id>
-        <link href="https://v.daum.net/v/20241018175840189"/>
-        <updated>2024-10-18T09:24:57.246Z</updated>
-        <content type="html"><![CDATA[지역사랑상품권에 대한 재의요구권 행사 이유 중 앞서 '부익부 빈익빈 발생'  팩트체크에 이어 두 번째 팩트체크입니다. 한덕수 국무총리는 지난달 30일 지역화폐 개정안에 대해 "지방자치단체 자치권의 근간을 훼손하고 헌법이 부여하고 있는 정부의 예산편성권을 침해할 소지가 크다"고 설명했습니다. ━① 지방자치단체의 자치권을 침해한다?━ "첫째, 지방]]></content>
     </entry>
 </feed>
