@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-26T21:20:46.959Z</updated>
+    <updated>2024-10-26T22:21:51.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '새로운 노인이 온다' 달라지는 노인 세대와 변화는? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241027071842254</id>
+        <link href="https://v.daum.net/v/20241027071842254"/>
+        <updated>2024-10-26T22:20:56.200Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 10월 26일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용산 특별감찰관 尹 공약? 당대표 관여 월권? 따져보니[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241026043006635</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241021214053980"/>
         <updated>2024-10-21T12:45:48.649Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 자치단체가 일손이 부족한 농가에 도시의 인력을 지원하고 인건비도 보조해 주는 충북형 도시농부 사업이 한창인데요. 최근, 충청북도가 모든 참여 농가에 산업재해보상보험에 가입하라고 독려하고 나섰습니다. 제도의 허점이 드러나섭니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 시각 장애인 아내와 복숭아 농장을 운영하는 72살 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 체코 원전 금융 지원 논란… “수출 금융, 수주 경쟁력 요소” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241020060122440</id>
-        <link href="https://v.daum.net/v/20241020060122440"/>
-        <updated>2024-10-19T21:20:42.269Z</updated>
-        <content type="html"><![CDATA[문재인 정부 임기였던 2021년 현대건설은 파나마의 수도인 파나마시티에 25㎞의 고가철로와 역사 13개 등을 짓는 총 사업비 28억달러 규모의 ‘메트로 3호선 사업’을 수주하면서 한국수출입은행(이하 수은)에 금융 지원을 요청했다. 수은은 현대건설에 중장기 수출 채권 매입 방식으로 총 7억6000만달러를 지원했다. 파나마 메트로공사가 공정률에 따라 현대건설에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까? (다음 뉴스 ─ SBS 사실은)]]></title>
