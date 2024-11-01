@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/1453</id>
     <title>다음 뉴스 ─ JTBC 팩트체크</title>
-    <updated>2024-11-01T06:34:44.094Z</updated>
+    <updated>2024-11-01T07:23:04.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 러시아 파병 “국제법 규범에 부합한다”?]]></title>
+        <id>https://v.daum.net/v/20241101160011010</id>
+        <link href="https://v.daum.net/v/20241101160011010"/>
+        <updated>2024-11-01T07:23:03.892Z</updated>
+        <content type="html"><![CDATA[“지금 국제보도계가 떠들고 있는 그러한 일(북한군 러시아 파병)이 있다면 그것은 국제법적 규범에 부합되는 행동일 것이라고 생각한다” (지난 25일, 조선중앙통신) 북한은 러시아 파병설에 대해 '사실이라면 국제법상 문제가 없다'는 입장을 내놨습니다. '국제 규범에 부합한다'는 북한의 주장이 사실일까요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한군 러시아 파병 추정 영상 조작일까?]]></title>
         <id>https://v.daum.net/v/20241025161641144</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240815150840730"/>
         <updated>2024-08-15T06:30:05.503Z</updated>
         <content type="html"><![CDATA[지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격 논란이 계속되고 있습니다. 윤석열 대통령의 김 관장 임명이 반쪽 광복절을 만든 원인입니다. 독립운동가 후손 단체인 광복회는 임명 강행에 반대해 처음으로 광복절 기념식에 불참했고 48개 국내 역사학회와 단체는 임명 철회를 요구하는 공동 성명서를 발표했습니다. 김 관장은 "사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥 노는 대졸 백수 400만명 넘었다?]]></title>
-        <id>https://v.daum.net/v/20240801100040639</id>
-        <link href="https://v.daum.net/v/20240801100040639"/>
-        <updated>2024-08-01T01:42:36.858Z</updated>
-        <content type="html"><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content>
     </entry>
 </feed>
