@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-03T01:54:20.983Z</updated>
+    <updated>2024-11-03T03:01:03.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무단횡단' 단속해도 보행자 사망 1위인 국가는? [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241103110010805</id>
+        <link href="https://v.daum.net/v/20241103110010805"/>
+        <updated>2024-11-03T02:58:57.687Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 일본 도쿄 횡단보도(자료사진)&nbsp;ⓒ coryschadt on Unsplash미국 뉴욕시가 66년 만에 '무단횡단 금지법'을 없애 화제가 되고 있다. 지난 10월 30일(현지시간) 미국 현지 언론 보도에 따르면, 뉴욕시의회가 그동안 관행화된 무단횡단을 허용하는 조례를 통과시킨 지 한 달이 지나 자동 발효됐다(관련기사 : 뉴욕에서 무단횡단은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 북한, 러시아 파병 “국제법 규범에 부합한다”?]]></title>
         <id>https://v.daum.net/v/20241101160011010</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241024210320739"/>
         <updated>2024-10-24T12:45:02.773Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 비만 치료에 탁월한 효과가 있다고 알려진 '위고비'가 최근 우리나라에서 출시돼 인기를 끌고 있습니다. 그런데 일부 병원에서 몸무게가 정상인 사람들에게도 미용 목적으로 이걸 처방해 주고 있습니다. 문제가 없는 건지 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 위고비를 처방해 준다는 한 병원. 자리에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삐라 사진 올리면 국보법 위반?" 경찰 답변은 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20241024174802456</id>
-        <link href="https://v.daum.net/v/20241024174802456"/>
-        <updated>2024-10-24T09:24:37.009Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;24일 오전 서울 용산 대통령실 청사 인근 거리에 북한 쓰레기 풍선을 통해 살포된 것으로 추정되는 전단들이 떨어져 있다. 북한이 24일 새벽에 대남 쓰레기 풍선 약 20개를 부양했고 수도권에서 10여 개의 낙하물을 확인했다고 합동참모본부가 이날 밝혔다. 2024.10.24ⓒ 연합뉴스[기사보강: 25일 오전 11시 50분] 24일 새벽]]></content>
     </entry>
 </feed>
