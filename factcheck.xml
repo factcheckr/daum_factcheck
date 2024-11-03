@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-03T09:24:46.624Z</updated>
+    <updated>2024-11-03T10:26:19.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠팡이츠의 무료 배달은 정말 '무료'일까 [팩트파인더]]]></title>
+        <id>https://v.daum.net/v/20241103190145817</id>
+        <link href="https://v.daum.net/v/20241103190145817"/>
+        <updated>2024-11-03T10:25:12.548Z</updated>
+        <content type="html"><![CDATA[지난달 28일 열린 제9차 ‘배달플랫폼·입점업체 상생협의체’는 쿠팡이츠가 고수한 수수료안 때문에 논의가 막혔다. 쿠팡이츠는 현재 운영 중인 요금제(무료배달+중개 수수료 9.8%)나 ‘중개수수료 5%+배달비 음식점 전액 부담’에서 물러서기 어렵다는 입장을 고수했다. 여러 이점이 있는 무료 배달을 포기할 수 없다는 이유에서다. 일부 소비자단체는 정부가 무료 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무단횡단' 단속해도 보행자 사망 1위인 국가는? [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241103110010805</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241025161641144"/>
         <updated>2024-10-25T07:22:36.904Z</updated>
         <content type="html"><![CDATA[국가정보원에 이어 미국 국방부와 북대서양조약기구(나토·NATO)가 북한의 러시아 파병을 확인하면서 국내외 긴장감이 커지고 있습니다. 그동안 북한이 파병에 대해 입장을 내지 않아 여러 논란이 불거졌는데요. 이는 우크라이나 전략소통·정보보안센터(SPRAVDI)가 지난 18일 공개한 영상 때문입니다. 동양인으로 보이는 사람들이 군복을 입고 줄을 서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '기적의 비만약' 위고비…'미용 목적' 처방 성행]]></title>
-        <id>https://v.daum.net/v/20241024210320739</id>
-        <link href="https://v.daum.net/v/20241024210320739"/>
-        <updated>2024-10-24T12:45:02.773Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 비만 치료에 탁월한 효과가 있다고 알려진 '위고비'가 최근 우리나라에서 출시돼 인기를 끌고 있습니다. 그런데 일부 병원에서 몸무게가 정상인 사람들에게도 미용 목적으로 이걸 처방해 주고 있습니다. 문제가 없는 건지 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 위고비를 처방해 준다는 한 병원. 자리에]]></content>
     </entry>
 </feed>
