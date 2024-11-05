@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-05T22:23:06.396Z</updated>
+    <updated>2024-11-05T23:23:00.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '빼빼로데이'는 제과업체가 만들었다?]]></title>
+        <id>https://v.daum.net/v/20241106081655748</id>
+        <link href="https://v.daum.net/v/20241106081655748"/>
+        <updated>2024-11-05T23:22:06.730Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 11월 11일 '빼빼로데이'가 다가오면 온라인 커뮤니티 등에서는 빼빼로데이가 특정 제과업체와 유통업계가 만들어낸 상술이라는 비판을 심심찮게 찾아볼 수 있다. 가족, 연인, 친구, 직장 동료를 가리지 않고 얇은 막대 모양의 초콜릿 과자를 주고받는 이 기념일은 수십 년을 거쳐 사실상 한국의 토종 문화로 자리 잡았지만, 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]]]></title>
         <id>https://v.daum.net/v/20241105210609587</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241028151052151"/>
         <updated>2024-10-28T06:33:42.197Z</updated>
         <content type="html"><![CDATA[[이데일리 김진수 기자] CG인바이츠(083790)의 자회사 CG파마슈티컬스(이하 CGP)를 두고 CG인바이츠와 조중명 전 CG인바이츠 창업주 회장 간에 갈등의 골이 깊어지고 있다. 올해 2월 CG인바이츠는 조 전 회장과 주식매매계약 및 개발 중인 췌장암 치료제 ‘아이발티노스타트’ 임상에 대한 권한을 주고받으며 관계를 잘 마무리 짓는 듯 했으나 불과 8개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '새로운 노인이 온다' 달라지는 노인 세대와 변화는?]]></title>
-        <id>https://v.daum.net/v/20241027071842254</id>
-        <link href="https://v.daum.net/v/20241027071842254"/>
-        <updated>2024-10-26T23:21:55.746Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 10월 26일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한]]></content>
     </entry>
 </feed>
