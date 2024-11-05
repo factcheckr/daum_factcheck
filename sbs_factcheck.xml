@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2024-11-05T11:19:30.208Z</updated>
+    <updated>2024-11-05T12:42:30.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니]]></title>
+        <id>https://v.daum.net/v/20241105210609587</id>
+        <link href="https://v.daum.net/v/20241105210609587"/>
+        <updated>2024-11-05T12:41:45.876Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 이번 미국 대선을 앞두고 트럼프의 당선 가능성이 높아질 때마다, 비트코인 가격도 함께 올랐죠. 트럼프가 미국을 가상자산의 중심지로 만들겠다며 공약까지 내놔서, 이걸 믿고 비트코인 투자에 뛰어든 사람들이 적지 않은데요. 실현 가능한건지 팩트체크 사실은 코너에서 짚어봤습니다. 안상우 기자입니다. &lt;기자&gt; 트럼프는 미국을 가장자산의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['채식주의자'가 유해한 걸까? '채식주의자 논란'이 유해한 걸까?]]></title>
         <id>https://v.daum.net/v/20241025173638905</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240726204810853"/>
         <updated>2024-07-26T12:37:40.467Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 얼마 전 그룹 방탄소년단 멤버 진이 파리올림픽 성화 봉송에 참여해 화제가 됐죠. 그런데 일본에서는 이를 두고 한국 정부가 힘을 썼을 거라는 주장이 적지 않게 나오고 있습니다. 과연 근거가 있는 주장인지, 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 성화 봉송 주자로 나선 BTS의 맏형 진이 모습을 보이자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최악 땐 월드컵 못 나가"…축구협회 감사 못 하나]]></title>
-        <id>https://v.daum.net/v/20240723203922204</id>
-        <link href="https://v.daum.net/v/20240723203922204"/>
-        <updated>2024-07-23T12:39:36.162Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 축구 국가대표팀 감독 선임 과정을 놓고 비판이 거세지자 정부가 축구협회에 대한 감사에 착수했습니다. 그러자 축구협회 쪽에서 만약 정부가 개입할 경우 FIFA의 제재를 받아 월드컵 출전이 막힐 수 있다는 이야기를 하면서 논란이 더 커지고 있습니다. 과연 이게 맞는 말일지 팩트체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기]]></content>
     </entry>
 </feed>
