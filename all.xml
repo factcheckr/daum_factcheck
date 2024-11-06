@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T22:23:42.682Z</updated>
+    <updated>2024-11-06T23:21:58.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241107081520253</id>
+        <link href="https://v.daum.net/v/20241107081520253"/>
+        <updated>2024-11-06T23:21:05.516Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = "국가채무가 1천조원을 넘었다", "국가부채가 2천조원을 경신했다" 등 최근 들어 나랏빚 관련 보도가 심심치 않게 나오고 있다. 세수 결손 등으로 정부의 실질적인 살림살이를 보여주는 관리재정수지가 대규모 적자를 기록하자 나랏빚이 심각하다는 우려가 일각에서 제기되면서 정치권뿐만 아니라 온라인 커뮤니티에서도 논란이 분분하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '빼빼로데이'는 제과업체가 만들었다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241106081655748</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241031060146915"/>
         <updated>2024-10-30T21:21:27.540Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 한송아 기자 = 반려견과 함께 사는 데에는 다양한 건강상 이점이 있다. 혈압과 콜레스테롤 수치를 감소시키고, 외로움과 불안감, 외상 후 스트레스 장애 증상을 완화하는 등의 효과가 있다는 연구 결과도 있다. 하지만 때때로 인수공통감염병에 의해 서로를 아프게 할 수 있는 세균을 옮길 수 있다. 반려견이 핥은 뒤 사지 절단?…'매우 드문 사례]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] CG인바이츠-조중명 전 회장 ‘입장 차이’…핵심은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241028151052151</id>
-        <link href="https://v.daum.net/v/20241028151052151"/>
-        <updated>2024-10-28T06:33:42.197Z</updated>
-        <content type="html"><![CDATA[[이데일리 김진수 기자] CG인바이츠(083790)의 자회사 CG파마슈티컬스(이하 CGP)를 두고 CG인바이츠와 조중명 전 CG인바이츠 창업주 회장 간에 갈등의 골이 깊어지고 있다. 올해 2월 CG인바이츠는 조 전 회장과 주식매매계약 및 개발 중인 췌장암 치료제 ‘아이발티노스타트’ 임상에 대한 권한을 주고받으며 관계를 잘 마무리 짓는 듯 했으나 불과 8개]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
