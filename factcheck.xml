@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-07T11:20:58.996Z</updated>
+    <updated>2024-11-07T12:43:22.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20241107195844573"/>
         <updated>2024-11-07T11:20:05.717Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령은 이렇게 사실상 김 여사에 대한 특검을 거부하며 같은 사건에 대해 다시 재판을 청구하지 않는 '일사부재리 원칙'을 언급했고 미국을 예로 들며 특검엔 위헌적 요소가 있다고 했습니다. 하지만 윤 대통령 스스로 이명박 전 대통령을 다시 수사해 끝내 구속시키고 유죄를 받아낸 바 있습니다. 윤 대통령의 발언, 연지환 기자가 팩트체크 했습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 ‘김건희·명태균’ 해명, ‘검사 윤석열’로 반박 가능하다[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20241107192957109</id>
+        <link href="https://v.daum.net/v/20241107192957109"/>
+        <updated>2024-11-07T12:42:28.915Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 7일 약 140분간 대국민 담화와 기자회견을 했다. 최근 김건희 여사가 연루된 사건, 정치 브로커 명태균씨 관련 의혹들이 쏟아진 상황을 반영하듯 기자들의 질문과 윤 대통령의 답변은 이런 이슈들에 집중했다. 경향신문은 윤 대통령이 쏟아낸 말 가운데 김 여사, 명씨 관련 내용을 중심으로 사실에 부합하는지 확인해 봤다. 결론부터 말하자면 검찰총장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241103190145817"/>
         <updated>2024-11-03T10:25:12.548Z</updated>
         <content type="html"><![CDATA[지난달 28일 열린 제9차 ‘배달플랫폼·입점업체 상생협의체’는 쿠팡이츠가 고수한 수수료안 때문에 논의가 막혔다. 쿠팡이츠는 현재 운영 중인 요금제(무료배달+중개 수수료 9.8%)나 ‘중개수수료 5%+배달비 음식점 전액 부담’에서 물러서기 어렵다는 입장을 고수했다. 여러 이점이 있는 무료 배달을 포기할 수 없다는 이유에서다. 일부 소비자단체는 정부가 무료 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무단횡단' 단속해도 보행자 사망 1위인 국가는? [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20241103110010805</id>
-        <link href="https://v.daum.net/v/20241103110010805"/>
-        <updated>2024-11-03T02:58:57.687Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ 일본 도쿄 횡단보도(자료사진)&nbsp;ⓒ coryschadt on Unsplash미국 뉴욕시가 66년 만에 '무단횡단 금지법'을 없애 화제가 되고 있다. 지난 10월 30일(현지시간) 미국 현지 언론 보도에 따르면, 뉴욕시의회가 그동안 관행화된 무단횡단을 허용하는 조례를 통과시킨 지 한 달이 지나 자동 발효됐다(관련기사 : 뉴욕에서 무단횡단은]]></content>
     </entry>
 </feed>
