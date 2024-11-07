@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-07T22:21:53.582Z</updated>
+    <updated>2024-11-07T23:21:57.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국의 '한국인 비자 면제'는 깜짝 발표였다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241108081511831</id>
+        <link href="https://v.daum.net/v/20241108081511831"/>
+        <updated>2024-11-07T23:21:04.202Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 중국이 8일부터 한국에 대해 내년 말까지 한시적 단기 비자 면제 조치를 하자 수교 30년이 넘었는데 중국의 비자 면제가 처음이냐며 놀랍다는 반응이 온라인 커뮤니티에 속속 올라오고 있다. 아울러 중국 정부가 비자 면제를 갑자기 발표한 것을 두고도 이게 진짜냐는 말까지 나오고 있다. 사회주의 국가 특성상 중국은 상대 국가와 인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 특검은 반헌법? 김 여사 활동 중단해왔다? 팩트체크 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241107201607913</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241104171801961"/>
         <updated>2024-11-04T08:30:02.779Z</updated>
         <content type="html"><![CDATA[여야 정치권이 금융투자소득세(금투세)를 도입하는 데 맞춰 증권거래세의 세율을 꾸준히 인하한 결과 세수 손실이 수조 원에 달한다는 지적이 나온다. 실제 증권시장 거래대금과 세수 추이로 따져 보면 약 4조 원대의 세수가 손실됐을 것으로 추정된다. 증권거래세율 인하의 전제였던 금투세 도입이 사실상 무산되면서 세수 확보에 경고등이 켜졌다. 결국 폐지로 정리된 금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡이츠의 무료 배달은 정말 '무료'일까 [팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241103190145817</id>
-        <link href="https://v.daum.net/v/20241103190145817"/>
-        <updated>2024-11-03T10:25:12.548Z</updated>
-        <content type="html"><![CDATA[지난달 28일 열린 제9차 ‘배달플랫폼·입점업체 상생협의체’는 쿠팡이츠가 고수한 수수료안 때문에 논의가 막혔다. 쿠팡이츠는 현재 운영 중인 요금제(무료배달+중개 수수료 9.8%)나 ‘중개수수료 5%+배달비 음식점 전액 부담’에서 물러서기 어렵다는 입장을 고수했다. 여러 이점이 있는 무료 배달을 포기할 수 없다는 이유에서다. 일부 소비자단체는 정부가 무료 배]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
