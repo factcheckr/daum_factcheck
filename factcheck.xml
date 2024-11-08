@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-08T01:45:43.033Z</updated>
+    <updated>2024-11-08T02:52:34.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241108110000969</id>
+        <link href="https://v.daum.net/v/20241108110000969"/>
+        <updated>2024-11-08T02:51:37.596Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ 답변하는 윤석열 대통령&nbsp;윤석열 대통령이 7일 오전 서울 용산 대통령실 청사 브리핑실에서 열린 '대국민담화 및 기자회견'에서 질문에 답변하고 있다.ⓒ 연합뉴스윤석열 대통령이 7일 서울 용산 대통령실에서 열린 기자회견에서 "대통령과 여당이 반대하는 특검을 임명한다는 것 자체가 법률로는 뭐든지 된다는 거기 때문에 그 자체가 기본적으로 헌법에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국의 '한국인 비자 면제'는 깜짝 발표였다?]]></title>
         <id>https://v.daum.net/v/20241108081511831</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241105081702074"/>
         <updated>2024-11-04T23:23:29.269Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = '괴짜 경영자'로 알려진 일론 머스크 테슬라 최고경영자(CEO)가 또다시 한국의 저출산을 우려하는 목소리를 냈다. 한국의 인구가 현재의 3분의 1 수준으로 감소할 것이란 우울한 전망을 내놓은 것이다. 그동안에도 인구 감소를 인류가 당면한 최대 위협이라고 강조해왔던 머스크가 한국을 '콕' 집어 구체적인 감소 수치를 제시한 탓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권거래세 인하로 세금 수조 원 손해 봤다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20241104171801961</id>
-        <link href="https://v.daum.net/v/20241104171801961"/>
-        <updated>2024-11-04T08:30:02.779Z</updated>
-        <content type="html"><![CDATA[여야 정치권이 금융투자소득세(금투세)를 도입하는 데 맞춰 증권거래세의 세율을 꾸준히 인하한 결과 세수 손실이 수조 원에 달한다는 지적이 나온다. 실제 증권시장 거래대금과 세수 추이로 따져 보면 약 4조 원대의 세수가 손실됐을 것으로 추정된다. 증권거래세율 인하의 전제였던 금투세 도입이 사실상 무산되면서 세수 확보에 경고등이 켜졌다. 결국 폐지로 정리된 금]]></content>
     </entry>
 </feed>
