@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-10T01:50:32.866Z</updated>
+    <updated>2024-11-10T02:54:57.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '뉴진스'도 걸린 광고 심의, 허위 광고 사례 체크!]]></title>
+        <id>https://v.daum.net/v/20241110111500925</id>
+        <link href="https://v.daum.net/v/20241110111500925"/>
+        <updated>2024-11-10T02:54:09.777Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 11월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 러시아 파병 북한군 관련 이미지 진짜다?]]></title>
         <id>https://v.daum.net/v/20241108140010981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241106081655748"/>
         <updated>2024-11-05T23:22:06.730Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 11월 11일 '빼빼로데이'가 다가오면 온라인 커뮤니티 등에서는 빼빼로데이가 특정 제과업체와 유통업계가 만들어낸 상술이라는 비판을 심심찮게 찾아볼 수 있다. 가족, 연인, 친구, 직장 동료를 가리지 않고 얇은 막대 모양의 초콜릿 과자를 주고받는 이 기념일은 수십 년을 거쳐 사실상 한국의 토종 문화로 자리 잡았지만, 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 [사실은]]]></title>
-        <id>https://v.daum.net/v/20241105210609587</id>
-        <link href="https://v.daum.net/v/20241105210609587"/>
-        <updated>2024-11-05T12:41:37.118Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 이번 미국 대선을 앞두고 트럼프의 당선 가능성이 높아질 때마다, 비트코인 가격도 함께 올랐죠. 트럼프가 미국을 가상자산의 중심지로 만들겠다며 공약까지 내놔서, 이걸 믿고 비트코인 투자에 뛰어든 사람들이 적지 않은데요. 실현 가능한 건지 팩트체크 사실은 코너에서 짚어봤습니다. 안상우 기자입니다. &lt;기자&gt; 트럼프는 미국을 가상자산]]></content>
     </entry>
 </feed>
