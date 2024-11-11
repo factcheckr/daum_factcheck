@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-11T22:22:06.759Z</updated>
+    <updated>2024-11-11T23:21:59.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 북한의 우크라이나 파병은 국제법 위반이다?]]></title>
+        <id>https://v.daum.net/v/20241112081700729</id>
+        <link href="https://v.daum.net/v/20241112081700729"/>
+        <updated>2024-11-11T23:21:07.387Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우크라이나를 침공한 러시아에 북한군이 파병되자 우리나라뿐만 아니라 미국 등 전 세계의 이목이 쏠리고 있다. 우리나라를 포함해 미국, 유럽연합(EU) 등 대부분 국가가 북한군의 러시아 파병을 국제법 위반이라고 강력히 비난하고 있지만 러시아와 북한은 적법하다며 항변하고 있다. 최근에는 북한군이 러시아와 우크라이나의 전장에 실제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '저마다 제각각'…집회 산정 인원 누가 맞나?]]></title>
         <id>https://v.daum.net/v/20241111081654653</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241107192957109"/>
         <updated>2024-11-07T12:42:28.915Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 7일 약 140분간 대국민 담화와 기자회견을 했다. 최근 김건희 여사가 연루된 사건, 정치 브로커 명태균씨 관련 의혹들이 쏟아진 상황을 반영하듯 기자들의 질문과 윤 대통령의 답변은 이런 이슈들에 집중했다. 경향신문은 윤 대통령이 쏟아낸 말 가운데 김 여사, 명씨 관련 내용을 중심으로 사실에 부합하는지 확인해 봤다. 결론부터 말하자면 검찰총장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '1천조' 넘은 나랏빚 괜찮은가?…재정 건전성 영향은]]></title>
-        <id>https://v.daum.net/v/20241107081520253</id>
-        <link href="https://v.daum.net/v/20241107081520253"/>
-        <updated>2024-11-06T23:21:05.516Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = "국가채무가 1천조원을 넘었다", "국가부채가 2천조원을 경신했다" 등 최근 들어 나랏빚 관련 보도가 심심치 않게 나오고 있다. 세수 결손 등으로 정부의 실질적인 살림살이를 보여주는 관리재정수지가 대규모 적자를 기록하자 나랏빚이 심각하다는 우려가 일각에서 제기되면서 정치권뿐만 아니라 온라인 커뮤니티에서도 논란이 분분하기]]></content>
     </entry>
 </feed>
