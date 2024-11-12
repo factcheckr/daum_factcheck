@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-12T07:21:51.816Z</updated>
+    <updated>2024-11-12T08:29:17.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국은 판례를 개별 사안 판결로 본다”는 경찰청장···맞는 말일까[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20241112162846601</id>
+        <link href="https://v.daum.net/v/20241112162846601"/>
+        <updated>2024-11-12T08:28:25.644Z</updated>
+        <content type="html"><![CDATA[지난 주말 ‘윤석열 정권 퇴진’을 요구한 민주노총 집회에서 경찰과 시위대가 충돌한 이후 노·정 갈등이 이어지고 있다. 노조 측은 연행된 조합원들의 구속 전 피의자심문(영장실질심사)을 앞두고 경찰의 탄압을 규탄했지만 경찰은 ‘불법 집회’라며 노조 집행부로의 수사 확대를 예고했다. 그런 와중에 조지호 경찰청장이 경찰의 강경 진압 의혹을 부인하며 “집회·시위에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 북한의 우크라이나 파병은 국제법 위반이다?]]></title>
         <id>https://v.daum.net/v/20241112081700729</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241107195844573"/>
         <updated>2024-11-07T11:20:05.717Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령은 이렇게 사실상 김 여사에 대한 특검을 거부하며 같은 사건에 대해 다시 재판을 청구하지 않는 '일사부재리 원칙'을 언급했고 미국을 예로 들며 특검엔 위헌적 요소가 있다고 했습니다. 하지만 윤 대통령 스스로 이명박 전 대통령을 다시 수사해 끝내 구속시키고 유죄를 받아낸 바 있습니다. 윤 대통령의 발언, 연지환 기자가 팩트체크 했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 ‘김건희·명태균’ 해명, ‘검사 윤석열’로 반박 가능하다[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20241107192957109</id>
-        <link href="https://v.daum.net/v/20241107192957109"/>
-        <updated>2024-11-07T12:42:28.915Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 7일 약 140분간 대국민 담화와 기자회견을 했다. 최근 김건희 여사가 연루된 사건, 정치 브로커 명태균씨 관련 의혹들이 쏟아진 상황을 반영하듯 기자들의 질문과 윤 대통령의 답변은 이런 이슈들에 집중했다. 경향신문은 윤 대통령이 쏟아낸 말 가운데 김 여사, 명씨 관련 내용을 중심으로 사실에 부합하는지 확인해 봤다. 결론부터 말하자면 검찰총장]]></content>
     </entry>
 </feed>

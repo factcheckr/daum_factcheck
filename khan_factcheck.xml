@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2024-11-12T07:21:51.819Z</updated>
+    <updated>2024-11-12T08:29:17.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국은 판례를 개별 사안 판결로 본다”는 경찰청장···맞는 말일까]]></title>
+        <id>https://v.daum.net/v/20241112162846601</id>
+        <link href="https://v.daum.net/v/20241112162846601"/>
+        <updated>2024-11-12T08:29:02.389Z</updated>
+        <content type="html"><![CDATA[지난 주말 ‘윤석열 정권 퇴진’을 요구한 민주노총 집회에서 경찰과 시위대가 충돌한 이후 노·정 갈등이 이어지고 있다. 노조 측은 연행된 조합원들의 구속 전 피의자심문(영장실질심사)을 앞두고 경찰의 탄압을 규탄했지만 경찰은 ‘불법 집회’라며 노조 집행부로의 수사 확대를 예고했다. 그런 와중에 조지호 경찰청장이 경찰의 강경 진압 의혹을 부인하며 “집회·시위에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 ‘김건희·명태균’ 해명, ‘검사 윤석열’로 반박 가능하다]]></title>
         <id>https://v.daum.net/v/20241107192957109</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231205185407843"/>
         <updated>2023-12-05T10:21:44.086Z</updated>
         <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“선진국 중 공영방송이 이렇게 많은 나라가 없다”는 이동관, 따져보니]]></title>
-        <id>https://v.daum.net/v/20230820164301054</id>
-        <link href="https://v.daum.net/v/20230820164301054"/>
-        <updated>2023-08-20T08:22:36.557Z</updated>
-        <content type="html"><![CDATA[이동관 방송통신위원장 후보자는 지난 18일 국회에서 열린 청문회에서 “선진국 어느 나라도 공영방송이 이렇게 많은 나라가 없다”라며 “자유로운 정보 소통을 위해서는 공영방송은 최소화하고, 경쟁체제 속에서 소비자가 선택하도록 하는 게 올바르다”라고 말했다. 자유로운 소통을 위해서는 공영방송 ‘축소’와 민영화가 필요하다는 말이다. 경향신문은 이 후보자의 주장대로]]></content>
     </entry>
 </feed>
