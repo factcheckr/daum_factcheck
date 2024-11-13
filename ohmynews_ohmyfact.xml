@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2024-11-13T02:52:58.174Z</updated>
+    <updated>2024-11-13T03:27:50.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다]]></title>
+        <id>https://v.daum.net/v/20241113121500954</id>
+        <link href="https://v.daum.net/v/20241113121500954"/>
+        <updated>2024-11-13T03:27:42.243Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유튜브 계정 '블락킹'에서 지난 8일 올린 영상. 윤석열 대통령 기자회견에서 질문한 &lt;부산일보&gt; 박석호 기자가 '소리 소문도 없이 사라졌다'고 주장했지만 사실이 아니었다.ⓒ 유튜브"지금 TV를 통해서 회견을 지켜보는 국민들이 과연 대통령께서 무엇에 대해서 우리에게 사과를 했는지 어리둥절할 것 같습니다." 지난 7일 윤석열 대통령 기자회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓]]></title>
         <id>https://v.daum.net/v/20241108110000969</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20240718140001806"/>
         <updated>2024-07-18T05:21:18.347Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;어린이 보호구역(스쿨존) 표지.ⓒ 김보성&nbsp; 윤석열 정부 첫 해인 2022년 교통법규 위반 과태료 부과 금액이 급증하면서 과태료 징수 결정액이 처음 2조 원을 돌파한 것으로 나타났다. 이 때문에 정치권과 일부 누리꾼은 윤석열 정부가 부족한 세수를 메우려고 교통 단속을 강화한 게 아니냐는 의혹을 제기하기도 했다.&nbsp; 윤석열 정부 들어 교통위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김건희 명품백이 대통령기록물? 국격이 있는데" 권익위원도 반대했다]]></title>
-        <id>https://v.daum.net/v/20240710170300304</id>
-        <link href="https://v.daum.net/v/20240710170300304"/>
-        <updated>2024-07-10T08:28:03.903Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] &nbsp;▲ 국민권익위, 대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서 공개&nbsp;정승윤 국민권익위원회 부위원장이 9일 오전 서울 종로구 정부서울청사 브리핑실에서 '대통령과 그 배우자 등의 청탁금지법 위반의혹 신고사건 의결서'를 공개하는 브리핑을 하고 있다. 신고사건 관련 의결서 대외 공개는 국민권익위 설치 이래 처음이다.ⓒ 이정민&nbsp; 국민]]></content>
     </entry>
 </feed>

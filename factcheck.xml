@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-13T02:52:58.168Z</updated>
+    <updated>2024-11-13T03:27:50.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 '팩폭'한 기자가 사라졌다? 허위 영상이었다  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241113121500954</id>
+        <link href="https://v.daum.net/v/20241113121500954"/>
+        <updated>2024-11-13T03:26:54.793Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유튜브 계정 '블락킹'에서 지난 8일 올린 영상. 윤석열 대통령 기자회견에서 질문한 &lt;부산일보&gt; 박석호 기자가 '소리 소문도 없이 사라졌다'고 주장했지만 사실이 아니었다.ⓒ 유튜브"지금 TV를 통해서 회견을 지켜보는 국민들이 과연 대통령께서 무엇에 대해서 우리에게 사과를 했는지 어리둥절할 것 같습니다." 지난 7일 윤석열 대통령 기자회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 수능일에 미역국 먹으면 안 되나?]]></title>
         <id>https://v.daum.net/v/20241113081812654</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241107201607913"/>
         <updated>2024-11-07T11:20:05.716Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 오늘 기자회견에서 윤 대통령은 특검법안을 반헌법적이라고 주장하며, 김건희 여사는 이미 대외활동을 사실상 중단해왔다고 말했죠. 또 국회 시정연설 불참에 대해선 야당의 망신주기 때문이라고 밝혔는데요. 오늘 나온 윤 대통령의 주요 발언들, 이준범 기자가 &lt;알고보니&gt;에서 팩트 체크했습니다. ◀ 리포트 ▶ [윤석열 대통령] "대통령과 여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 미국 대통령도 의회 외면?…두 번 탄핵소추된 트럼프는]]></title>
-        <id>https://v.daum.net/v/20241107200213648</id>
-        <link href="https://v.daum.net/v/20241107200213648"/>
-        <updated>2024-11-07T11:20:05.716Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령은 미국 정치와 비교하면서 "야당이 탄핵 소추를 남발한다" 그래서 국회에 안 갔다고 밝혔습니다. 그러나 이걸 반박하는 게 바로 트럼프 당선인입니다. 트럼프는 지난 임기 때 탄핵 소추를 두 번이나 당하고도 의회 연설을 했기 때문입니다. 박소연 기자가 윤 대통령의 이 발언도 팩트체크했습니다. [기자] 윤석열 대통령은 야당이 탄핵소추와 특검법]]></content>
     </entry>
 </feed>
