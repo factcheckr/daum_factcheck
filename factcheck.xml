@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-13T22:23:12.378Z</updated>
+    <updated>2024-11-13T23:22:21.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 폭등한 '도지코인'을 머스크가 만들었다?]]></title>
+        <id>https://v.daum.net/v/20241114081513641</id>
+        <link href="https://v.daum.net/v/20241114081513641"/>
+        <updated>2024-11-13T23:21:28.576Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 도널드 트럼프가 미국 대통령에 당선되면서 최대 지지자인 일론 머스크 테슬라 최고경영자(CEO)가 밀고 있는 도지코인(dogecoin)이 최근 폭등해 가상화폐 시장에서 주목받고 있다. 온라인 커뮤니티에서는 도지코인이 갑자기 급등하자 "'도지코인 아버지(dogefather)'로 불리는 머스크가 만든 코인이냐?", "머스크가 도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]  생수병 라벨 수능 부정행위로 적발됐다?]]></title>
         <id>https://v.daum.net/v/20241113160536954</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241108140010981"/>
         <updated>2024-11-08T05:22:21.887Z</updated>
         <content type="html"><![CDATA[러시아-우크라이나 전쟁에 파병된 북한군 추정 사진이 전 세계 소셜미디어네트워크(SNS)와 우크라이나 매체를 통해 흘러나오고 있습니다. 가짜 영상도 있지만 진위를 가리기 어려운 영상과 사진도 적지 않습니다. 북한의 참전이 기정 사실화되었지만 참전의 실상과 실패를 알리려는 우크라이나 정부의 심리전이란 주장도 나옵니다. 지난 6일 젤렌스키 우크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대통령·여당 반대하는 특검은 위헌" 윤석열 주장은 거짓 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20241108110000969</id>
-        <link href="https://v.daum.net/v/20241108110000969"/>
-        <updated>2024-11-08T02:51:37.596Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ 답변하는 윤석열 대통령&nbsp;윤석열 대통령이 7일 오전 서울 용산 대통령실 청사 브리핑실에서 열린 '대국민담화 및 기자회견'에서 질문에 답변하고 있다.ⓒ 연합뉴스윤석열 대통령이 7일 서울 용산 대통령실에서 열린 기자회견에서 "대통령과 여당이 반대하는 특검을 임명한다는 것 자체가 법률로는 뭐든지 된다는 거기 때문에 그 자체가 기본적으로 헌법에]]></content>
     </entry>
 </feed>
