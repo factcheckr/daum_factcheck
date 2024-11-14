@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-14T22:23:07.241Z</updated>
+    <updated>2024-11-14T23:24:45.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '성관계 합의' 앱 법적 효력 있나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241115081512716</id>
+        <link href="https://v.daum.net/v/20241115081512716"/>
+        <updated>2024-11-14T23:23:53.167Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 성폭력 무고 관련 처벌을 피하기 위해 성관계 전 상호 동의를 명시하는 애플리케이션(앱)이 등장해 온라인 커뮤니티 등에서 관심을 끌고 있다. 소셜미디어(SNS)에서는 이 앱에 대해 "만일의 상황에 대비해 유용할 수 있겠다"라는 반응도 있지만 "억지로 동의하게 하면 어떻게 하나", "법적으로 문제없나" 등 다양한 의견이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대법원 예산 증액이 야당의 회유책?" <조선> 주장 따져보니 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241114165102236</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241111081654653"/>
         <updated>2024-11-10T23:20:56.560Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상이 모이는 대규모 집회가 열릴 때마다 참가자 규모에 대한 경찰 추산치와 집회 주최 측 주장이 다른 경우가 많다. 온라인 커뮤니티에서 대규모 집회 시 모인 인원의 규모를 놓고 논쟁하는 것도 이 때문이다. 경찰은 참가자 수를 의도적으로 축소한 것 아니냐는 의심을 받고, 주최 측은 명확한 근거도 없이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '뉴진스'도 걸린 광고 심의, 허위 광고 사례 체크! (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241110111500925</id>
-        <link href="https://v.daum.net/v/20241110111500925"/>
-        <updated>2024-11-10T02:54:09.777Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 11월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
