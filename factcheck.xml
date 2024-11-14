@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-14T07:22:25.193Z</updated>
+    <updated>2024-11-14T08:30:41.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대법원 예산 증액이 야당의 회유책?" <조선> 주장 따져보니 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241114165102236</id>
+        <link href="https://v.daum.net/v/20241114165102236"/>
+        <updated>2024-11-14T08:29:53.837Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;조선일보는 11월 11일 사설 '李 대표 판결 앞두고 법원 예산 늘려준 민주당'에서 "민주당이 국회 법사위 예산심사에서 대법원의 내년 예산을 200여억 원 증액시켰다. 정부가 올해보다 늘려 국회에 올린 예산액을 민주당이 추가 증액한 것으로, 전례 드문 일이다"라면서, "오는 15·25일 이 대표 사건의 판결을 내릴 법원은 예산 증액으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 폭등한 '도지코인'을 머스크가 만들었다?]]></title>
         <id>https://v.daum.net/v/20241114081513641</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241110111500925"/>
         <updated>2024-11-10T02:54:09.777Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 11월 9일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 러시아 파병 북한군 관련 이미지 진짜다?]]></title>
-        <id>https://v.daum.net/v/20241108140010981</id>
-        <link href="https://v.daum.net/v/20241108140010981"/>
-        <updated>2024-11-08T05:22:21.887Z</updated>
-        <content type="html"><![CDATA[러시아-우크라이나 전쟁에 파병된 북한군 추정 사진이 전 세계 소셜미디어네트워크(SNS)와 우크라이나 매체를 통해 흘러나오고 있습니다. 가짜 영상도 있지만 진위를 가리기 어려운 영상과 사진도 적지 않습니다. 북한의 참전이 기정 사실화되었지만 참전의 실상과 실패를 알리려는 우크라이나 정부의 심리전이란 주장도 나옵니다. 지난 6일 젤렌스키 우크]]></content>
     </entry>
 </feed>
