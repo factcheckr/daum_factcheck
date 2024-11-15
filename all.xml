@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-15T10:26:25.169Z</updated>
+    <updated>2024-11-15T11:20:18.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '집값 오르는데'…안정적 노후 '주택연금' 유리할까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241115201431389</id>
+        <link href="https://v.daum.net/v/20241115201431389"/>
+        <updated>2024-11-15T11:19:32.077Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 은퇴 후 주택을 담보로 매달 생활비를 받는 주택연금, 가입해야 하나 말아야 하나 고민하는 분들 있으시죠. 특히나 기준금리 인하로 집값이 오르면, 지금 가입하는 게 손해라 생각하실 수도 있는데요. 김태형 기자가 사실확인에서 알아봤습니다. 【 기자 】 건설업에 종사하다 은퇴한 이경춘 씨는 벌이가 없어도 캠핑카를 몰고 전국 곳곳을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '성관계 합의' 앱 법적 효력 있나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241115081512716</id>
@@ -66,13 +73,6 @@
         <link href="https://v.daum.net/v/20241112081700729"/>
         <updated>2024-11-11T23:21:07.387Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우크라이나를 침공한 러시아에 북한군이 파병되자 우리나라뿐만 아니라 미국 등 전 세계의 이목이 쏠리고 있다. 우리나라를 포함해 미국, 유럽연합(EU) 등 대부분 국가가 북한군의 러시아 파병을 국제법 위반이라고 강력히 비난하고 있지만 러시아와 북한은 적법하다며 항변하고 있다. 최근에는 북한군이 러시아와 우크라이나의 전장에 실제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '저마다 제각각'…집회 산정 인원 누가 맞나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241111081654653</id>
-        <link href="https://v.daum.net/v/20241111081654653"/>
-        <updated>2024-11-10T23:20:56.560Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상이 모이는 대규모 집회가 열릴 때마다 참가자 규모에 대한 경찰 추산치와 집회 주최 측 주장이 다른 경우가 많다. 온라인 커뮤니티에서 대규모 집회 시 모인 인원의 규모를 놓고 논쟁하는 것도 이 때문이다. 경찰은 참가자 수를 의도적으로 축소한 것 아니냐는 의심을 받고, 주최 측은 명확한 근거도 없이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 당선되면 '100만 코인' 비축?…따져보니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -395,13 +395,6 @@
         <link href="https://v.daum.net/v/20221123195349815"/>
         <updated>2024-01-25T14:19:25.034Z</updated>
         <content type="html"><![CDATA[대장동 사건으로 구속됐던 인물들, 차례로 풀려나고 있죠. 보신 것처럼 구속 기간이 끝나는 당일 새벽 0시가 지나자마자 석방되는데요. 이렇게 한밤중에 나오는 이유, 알아봅니다. 대장동 사건 핵심 인물 김만배 씨도 원칙적으로는 내일 밤까지 구치소에 있어야 하지만, 지금부터 약 4시간 반쯤 뒤면 풀려날 예정입니다. 우리 법에서는 교도소나 구치소에 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADHD 치료제 먹으면 공부가 잘 된다? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20221116195454626</id>
-        <link href="https://v.daum.net/v/20221116195454626"/>
-        <updated>2024-01-25T14:19:25.037Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 학원가에서 시작합니다. 매년 입시철이면 주의력결핍 과다행동장애, 즉 ADHD 치료제가 논란이 됩니다. 일부 학부모들 사이에선 '공부 잘하는 약'으로 입소문도 나 있는 약인데요. 정말 공부에 도움이 되는지, 건강에 문제는 없는 약인지 따져봅니다. ADHD 치료제가 엉뚱하게도 공부 잘하는 약으로 입소문을 탄 것은 2000년대 초반으로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“한국은 판례를 개별 사안 판결로 본다”는 경찰청장···맞는 말일까 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>

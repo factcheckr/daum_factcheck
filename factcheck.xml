@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-15T10:26:25.159Z</updated>
+    <updated>2024-11-15T11:20:18.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '집값 오르는데'…안정적 노후 '주택연금' 유리할까?]]></title>
+        <id>https://v.daum.net/v/20241115201431389</id>
+        <link href="https://v.daum.net/v/20241115201431389"/>
+        <updated>2024-11-15T11:19:32.077Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 은퇴 후 주택을 담보로 매달 생활비를 받는 주택연금, 가입해야 하나 말아야 하나 고민하는 분들 있으시죠. 특히나 기준금리 인하로 집값이 오르면, 지금 가입하는 게 손해라 생각하실 수도 있는데요. 김태형 기자가 사실확인에서 알아봤습니다. 【 기자 】 건설업에 종사하다 은퇴한 이경춘 씨는 벌이가 없어도 캠핑카를 몰고 전국 곳곳을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '성관계 합의' 앱 법적 효력 있나?]]></title>
         <id>https://v.daum.net/v/20241115081512716</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241112081700729"/>
         <updated>2024-11-11T23:21:07.387Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우크라이나를 침공한 러시아에 북한군이 파병되자 우리나라뿐만 아니라 미국 등 전 세계의 이목이 쏠리고 있다. 우리나라를 포함해 미국, 유럽연합(EU) 등 대부분 국가가 북한군의 러시아 파병을 국제법 위반이라고 강력히 비난하고 있지만 러시아와 북한은 적법하다며 항변하고 있다. 최근에는 북한군이 러시아와 우크라이나의 전장에 실제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '저마다 제각각'…집회 산정 인원 누가 맞나?]]></title>
-        <id>https://v.daum.net/v/20241111081654653</id>
-        <link href="https://v.daum.net/v/20241111081654653"/>
-        <updated>2024-11-10T23:20:56.560Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 우리나라에서는 수만 명 이상이 모이는 대규모 집회가 열릴 때마다 참가자 규모에 대한 경찰 추산치와 집회 주최 측 주장이 다른 경우가 많다. 온라인 커뮤니티에서 대규모 집회 시 모인 인원의 규모를 놓고 논쟁하는 것도 이 때문이다. 경찰은 참가자 수를 의도적으로 축소한 것 아니냐는 의심을 받고, 주최 측은 명확한 근거도 없이]]></content>
     </entry>
 </feed>
