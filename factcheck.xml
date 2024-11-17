@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-17T22:22:20.462Z</updated>
+    <updated>2024-11-17T23:23:32.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 25년 후엔 젊은이 1명이 노인 1명을 부양한다?]]></title>
+        <id>https://v.daum.net/v/20241118081703875</id>
+        <link href="https://v.daum.net/v/20241118081703875"/>
+        <updated>2024-11-17T23:22:38.601Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤 후엔 20대 이상의 이른바 '중추 인구' 1명이 65세 이상 노인 1명을 부양하는 상황이 벌어질까. 부영그룹 회장인 이중근 대한노인회장이 지난달 21일 취임 일성으로 노인 연령 기준을 65세에서 75세로 올리자고 제안하면서 제시했던 근거인데 온라인 커뮤니티 등에서도 이를 두고 갑론을박이 적지 않았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은]]]></title>
         <id>https://v.daum.net/v/20241117203306839</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241113121500954"/>
         <updated>2024-11-13T03:26:54.793Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;유튜브 계정 '블락킹'에서 지난 8일 올린 영상. 윤석열 대통령 기자회견에서 질문한 &lt;부산일보&gt; 박석호 기자가 '소리 소문도 없이 사라졌다'고 주장했지만 사실이 아니었다.ⓒ 유튜브"지금 TV를 통해서 회견을 지켜보는 국민들이 과연 대통령께서 무엇에 대해서 우리에게 사과를 했는지 어리둥절할 것 같습니다." 지난 7일 윤석열 대통령 기자회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 수능일에 미역국 먹으면 안 되나?]]></title>
-        <id>https://v.daum.net/v/20241113081812654</id>
-        <link href="https://v.daum.net/v/20241113081812654"/>
-        <updated>2024-11-12T23:21:31.031Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 가까워지면 SNS와 온라인 커뮤니티에는 '수능 날 피해야 할 음식'이라는 게시물을 쉽게 볼 수 있다. 시험 볼 때 사회 통념상 미역국처럼 피하는 음식이 있는가 하면 특정 음식은 수험생에게 복통과 설사 등 위장 장애를 일으켜 자칫 시험을 망칠 수 있다. 반면 어떤 음식은 수험생의 집중력을 높여준]]></content>
     </entry>
 </feed>
