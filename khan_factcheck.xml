@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5028270</id>
     <title>다음 뉴스 ─ 경향신문 팩트체크</title>
-    <updated>2024-11-18T07:24:03.581Z</updated>
+    <updated>2024-11-18T08:33:25.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이재명 법정구속 가능하다”는 여당 주장, 사실일까]]></title>
+        <id>https://v.daum.net/v/20241118164440697</id>
+        <link href="https://v.daum.net/v/20241118164440697"/>
+        <updated>2024-11-18T08:33:10.826Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표의 위증교사 사건 1심 선고가 일주일 앞으로 다가오면서 국민의힘에서 이 대표의 법정구속도 가능하다는 주장이 나왔다. 작년에 국회에서 통과된 이 대표의 체포동의안에 위증교사 사건이 포함돼 있으므로 오는 25일 이 대표가 실형을 선고받으면 국회가 추가로 체포동의안을 처리할 필요가 없다는 주장이다. 이런 주장은 법무부 장관 시절 이 대표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국은 판례를 개별 사안 판결로 본다”는 경찰청장···맞는 말일까]]></title>
         <id>https://v.daum.net/v/20241112162846601</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20231225094005733"/>
         <updated>2023-12-25T01:20:41.901Z</updated>
         <content type="html"><![CDATA[‘김건희 여사 특검법’ 정국이 본격화하고 있다. 더불어민주당 주도로 지난 4월 신속처리안건(패스트트랙)에 지정된 ‘대통령 배우자 김건희의 도이치모터스 주가조작 의혹 진상규명을 위한 특별검사 임명 등에 관한 법률안’은 국회법에 따라 오는 28일 예정된 국회 본회의에 자동 상정된다. 민주당은 법안 처리를 예고했고, 윤석열 대통령은 ‘배우자 방탄’에 따른 여론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이플 ‘남혐 집게손가락’의 끊이지 않는 음모론]]></title>
-        <id>https://v.daum.net/v/20231205185407843</id>
-        <link href="https://v.daum.net/v/20231205185407843"/>
-        <updated>2023-12-05T10:21:44.086Z</updated>
-        <content type="html"><![CDATA[메이플스토리 ‘집게손가락’ 의혹을 제기하는 남초 커뮤니티 유저들의 주장은 간단했다. 페미니즘 사상을 지지하는 여성 애니메이터가 엔젤릭버스터(엔버) MV에 ‘남성혐오’ 표현인 집게손가락을 몰래 집어넣었다는 것이었다. 커뮤니티 유저들은 뿌리의 다른 작업물을 0.1초 프레임 단위로 분석하며 “집게손가락이 한두 개가 아니다”라고 주장했다. 그러나 스튜디오 뿌리가]]></content>
     </entry>
 </feed>
