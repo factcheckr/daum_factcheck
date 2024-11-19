@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-19T07:23:12.750Z</updated>
+    <updated>2024-11-19T08:31:29.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 트럼프는 '한국 조선 실력' 예전부터 알고 있었다?]]></title>
         <id>https://v.daum.net/v/20241119061519588</id>
