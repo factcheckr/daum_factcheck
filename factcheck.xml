@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-19T19:19:50.415Z</updated>
+    <updated>2024-11-19T20:28:30.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241120051200175</id>
+        <link href="https://v.daum.net/v/20241120051200175"/>
+        <updated>2024-11-19T20:25:51.217Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;박장범 KBS 사장 후보자가 19일 오전 서울 여의도 국회 과학기술정보방송통신위원회 인사청문회에 출석해 의원들의 질의를 경청하고 있다.ⓒ 유성호박장범 "영국 태블릿에도 수신료 부과, 수신료 확대 방안 중 하나로 검토" 박장범 KBS 사장 후보자가 휴대전화에 TV를 직접 수신할 수 있는 기능을 추가해 수신료 수입을 늘리겠다고 밝혀 논란이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] ‘파우치’는 상품명? 사안 축소?…박장범 해명 일리 있나]]></title>
         <id>https://v.daum.net/v/20241119174641557</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241115201431389"/>
         <updated>2024-11-15T11:19:32.077Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 은퇴 후 주택을 담보로 매달 생활비를 받는 주택연금, 가입해야 하나 말아야 하나 고민하는 분들 있으시죠. 특히나 기준금리 인하로 집값이 오르면, 지금 가입하는 게 손해라 생각하실 수도 있는데요. 김태형 기자가 사실확인에서 알아봤습니다. 【 기자 】 건설업에 종사하다 은퇴한 이경춘 씨는 벌이가 없어도 캠핑카를 몰고 전국 곳곳을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '성관계 합의' 앱 법적 효력 있나?]]></title>
-        <id>https://v.daum.net/v/20241115081512716</id>
-        <link href="https://v.daum.net/v/20241115081512716"/>
-        <updated>2024-11-14T23:23:53.167Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 성폭력 무고 관련 처벌을 피하기 위해 성관계 전 상호 동의를 명시하는 애플리케이션(앱)이 등장해 온라인 커뮤니티 등에서 관심을 끌고 있다. 소셜미디어(SNS)에서는 이 앱에 대해 "만일의 상황에 대비해 유용할 수 있겠다"라는 반응도 있지만 "억지로 동의하게 하면 어떻게 하나", "법적으로 문제없나" 등 다양한 의견이]]></content>
     </entry>
 </feed>
