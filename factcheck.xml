@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-19T22:23:14.470Z</updated>
+    <updated>2024-11-19T23:23:22.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 전동 킥보드, 전면 금지할 수 있나?]]></title>
+        <id>https://v.daum.net/v/20241120081514916</id>
+        <link href="https://v.daum.net/v/20241120081514916"/>
+        <updated>2024-11-19T23:22:31.567Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라.", "제발 전국 전면 금지 걸어라.", "킥보드는 길거리 암 덩어리다." 서울시가 지난 5일 전국 최초로 일부 도로에서 전동 킥보드의 통행을 금지하는 '킥보드 없는 거리'를 추진하겠다고 발표하자 온라인 커뮤니티에 올라온 네티즌들의 반응이다. 도심뿐 아니라 주택가 골목 어디에나 방치된 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241120051200175</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241117190250772"/>
         <updated>2024-11-17T10:24:08.745Z</updated>
         <content type="html"><![CDATA["자영업자와 살자고 내놓은 상생안이 아니라 쿠팡 배민과의 상생안이겠죠. 저희한테는 '배달비 상승안'이나 다름없습니다." (전국가맹점주협의회 관계자) '110일 협상' 끝에 배달수수료 부담을 줄이기 위한 상생안이 나왔지만 정작 가맹점주의 표정은 싸늘하다. 배달수수료가 일부 줄어든 것으로 보이지만 가맹점주가 실제 부담하는 비용은 오히려 더 커졌다는 것이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '집값 오르는데'…안정적 노후 '주택연금' 유리할까?]]></title>
-        <id>https://v.daum.net/v/20241115201431389</id>
-        <link href="https://v.daum.net/v/20241115201431389"/>
-        <updated>2024-11-15T11:19:32.077Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 은퇴 후 주택을 담보로 매달 생활비를 받는 주택연금, 가입해야 하나 말아야 하나 고민하는 분들 있으시죠. 특히나 기준금리 인하로 집값이 오르면, 지금 가입하는 게 손해라 생각하실 수도 있는데요. 김태형 기자가 사실확인에서 알아봤습니다. 【 기자 】 건설업에 종사하다 은퇴한 이경춘 씨는 벌이가 없어도 캠핑카를 몰고 전국 곳곳을]]></content>
     </entry>
 </feed>
