@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-20T22:23:58.874Z</updated>
+    <updated>2024-11-20T23:23:41.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 '시니어 아미' 도입 가능한가? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241121081512023</id>
+        <link href="https://v.daum.net/v/20241121081512023"/>
+        <updated>2024-11-20T23:22:50.701Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 온라인 커뮤니티와 뉴스 댓글 창을 뜨겁게 달군 몇장의 사진이 있다. 고령자들이 모여 전시에 예비 병력으로 국가에 봉사한다는 목표로 창단한 사단법인 '시니어 아미' 회원들이 군복과 총기를 갖춘 채 시가지 전투를 비롯한 기초군사훈련을 받는 사진이었다. 누구보다 진지하게 훈련에 임하는 이들의 모습에 "진정한 희생과 봉사에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241120103604924</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241118081703875"/>
         <updated>2024-11-17T23:22:38.601Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤 후엔 20대 이상의 이른바 '중추 인구' 1명이 65세 이상 노인 1명을 부양하는 상황이 벌어질까. 부영그룹 회장인 이중근 대한노인회장이 지난달 21일 취임 일성으로 노인 연령 기준을 65세에서 75세로 올리자고 제안하면서 제시했던 근거인데 온라인 커뮤니티 등에서도 이를 두고 갑론을박이 적지 않았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트럼프발 관세'에 아이폰 급등?…한국에도 영향 줄까 [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241117203306839</id>
-        <link href="https://v.daum.net/v/20241117203306839"/>
-        <updated>2024-11-17T12:41:43.767Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 트럼프 대통령 당선인이 강도 높은 관세를 예고하면서 아이폰 같은 전자기기 가격이, 폭등할 것이라는 전망이 나옵니다. 대부분의 아이폰이 중국에서 만들어져서 미국으로 들어오기 때문입니다. 이 여파가 우리나라 시장에도 영향을 주는 거 아니냐, 이런 우려가 적지 않은데요. 정말 그럴지, 팩트체크 사실은 코너에서 안상우 기자가 따져봤습니다.]]></content>
     </entry>
 </feed>
