@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-21T22:23:21.716Z</updated>
+    <updated>2024-11-21T23:23:53.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 가짜 신분증으로 술·담배…고3도 처벌받나?]]></title>
+        <id>https://v.daum.net/v/20241122081507926</id>
+        <link href="https://v.daum.net/v/20241122081507926"/>
+        <updated>2024-11-21T23:23:04.474Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 끝나면 입시 스트레스에서 해방되는 수험생들과 달리 음식점·편의점을 운영하는 소상공인들은 불안에 떨곤 한다. 수능이 끝난 일부 고3 학생들이 음주와 흡연 등 일탈 행위를 하는 경우가 있어 자칫 신분증 검사를 소홀히 했다가 행정처분을 받아 생업에 직격탄을 입고 재판에 넘겨질 수도 있기 때문이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 '시니어 아미' 도입 가능한가?]]></title>
         <id>https://v.daum.net/v/20241121081512023</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241118112247292"/>
         <updated>2024-11-18T03:03:24.972Z</updated>
         <content type="html"><![CDATA[한미사이언스와 한미약품의 올 3분기 말 직원 수가 전년도 말보다 늘었다. 사진은 서울 송파구 한미사이언스 본사. /사진=뉴스1한미약품그룹 오너 일가의 경영권 분쟁으로 직원들의 이직 행렬이 늘었다는 주장은 사실이 아닌 것으로 나타났다. 그룹 지주사인 한미사이언스와 핵심 계열사 한미약품 모두 직원 수가 늘었으며 퇴사자 수만 놓고 봤을 땐 평년과 비슷한 수준을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 25년 후엔 젊은이 1명이 노인 1명을 부양한다?]]></title>
-        <id>https://v.daum.net/v/20241118081703875</id>
-        <link href="https://v.daum.net/v/20241118081703875"/>
-        <updated>2024-11-17T23:22:38.601Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라에서 25년쯤 후엔 20대 이상의 이른바 '중추 인구' 1명이 65세 이상 노인 1명을 부양하는 상황이 벌어질까. 부영그룹 회장인 이중근 대한노인회장이 지난달 21일 취임 일성으로 노인 연령 기준을 65세에서 75세로 올리자고 제안하면서 제시했던 근거인데 온라인 커뮤니티 등에서도 이를 두고 갑론을박이 적지 않았다.]]></content>
     </entry>
 </feed>
