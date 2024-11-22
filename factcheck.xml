@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-22T07:22:56.642Z</updated>
+    <updated>2024-11-22T08:31:05.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 골프장 취재 건조물 침입이다?]]></title>
+        <id>https://v.daum.net/v/20241122170009373</id>
+        <link href="https://v.daum.net/v/20241122170009373"/>
+        <updated>2024-11-22T08:30:15.194Z</updated>
+        <content type="html"><![CDATA[국방부가 관리하는 서울 태릉 체력단련장(이하 태릉골프장)에서 윤석열 대통령이 지속적으로 골프를 한 사실이 드러나 논란이 일고 있습니다. 지난 9일에는 이 모습을 취재하려던 기자를 대통령실 경호처 직원들이 잡아 휴대폰을 뺏고 경찰로 넘겼습니다. 언론탄압, 입틀막 등 논란이 커지자 경호처가 입장을 밝혔는데요. “대통령 경호를 하던 곳이다", "일반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 가짜 신분증으로 술·담배…고3도 처벌받나?]]></title>
         <id>https://v.daum.net/v/20241122081507926</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241118163005036"/>
         <updated>2024-11-19T13:31:56.292Z</updated>
         <content type="html"><![CDATA[(시사저널=공성윤 기자) 이재명 더불어민주당 대표의 공직선거법 위반 혐의 1심 재판에서는 생소한 개념이 등장한다. '서로 사귀어 놀거나 왕래하다'란 뜻의 '교유(交遊)'다. 이는 검찰이 공소장을 변경할 때 대장동 개발사업 실무자였던 고(故) 김문기 전 성남도시개발공사 처장과 이 대표의 관계를 설명하면서 처음 등장했다. 민주당에선 "검찰이 사전에도 없는 개념]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 한미약품, 경영권 분쟁에 이직 행렬?… 직원 수 되레 늘었다]]></title>
-        <id>https://v.daum.net/v/20241118112247292</id>
-        <link href="https://v.daum.net/v/20241118112247292"/>
-        <updated>2024-11-18T03:03:24.972Z</updated>
-        <content type="html"><![CDATA[한미사이언스와 한미약품의 올 3분기 말 직원 수가 전년도 말보다 늘었다. 사진은 서울 송파구 한미사이언스 본사. /사진=뉴스1한미약품그룹 오너 일가의 경영권 분쟁으로 직원들의 이직 행렬이 늘었다는 주장은 사실이 아닌 것으로 나타났다. 그룹 지주사인 한미사이언스와 핵심 계열사 한미약품 모두 직원 수가 늘었으며 퇴사자 수만 놓고 봤을 땐 평년과 비슷한 수준을]]></content>
     </entry>
 </feed>
