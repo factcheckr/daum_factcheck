@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-25T22:22:16.739Z</updated>
+    <updated>2024-11-25T23:24:06.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 비트코인이 주요국 법정화폐 될 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241126081517478</id>
+        <link href="https://v.daum.net/v/20241126081517478"/>
+        <updated>2024-11-25T23:23:23.946Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 '디지털 금'으로 불리는 가상화폐 비트코인의 가격이 급등하면서 전 세계 주요 매체뿐만 아니라 온라인 커뮤니티에서 비트코인에 대한 관심이 폭증하고 있다. 특히, 엘살바도르에서 비트코인이 법정화폐로 통용되고 있는 것을 주목하며 "비트코인이 진짜 돈이 된 거냐", "비트코인이 우리나라에서도 법정화폐가 될 수 있냐"는 게시글]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 한일관계 '물 반 컵' 채워졌나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241125203116590</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241119174641557"/>
         <updated>2024-11-19T13:31:56.289Z</updated>
         <content type="html"><![CDATA[(시사저널=공성윤 기자) '파우치 논란'이 국회로 번졌다. 18일 과학기술정보방송통신위원회에서 열린 박장범 KBS 사장 후보자 인사청문회는 그의 파우치 발언을 둘러싼 공방으로 채워졌다. 지난 2월 윤석열 대통령과의 대담이 방송될 때부터 논란을 빚은 사안인데, 대담 진행자였던 박 앵커가 사장 후보자가 되면서 다시 뜨거운 감자가 됐다. 우선 논란의 발단이 된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 트럼프는 '한국 조선 실력' 예전부터 알고 있었다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241119061519588</id>
-        <link href="https://v.daum.net/v/20241119061519588"/>
-        <updated>2024-11-18T21:20:16.477Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 도널드 트럼프 미국 대통령 당선인이 대선 승리 직후 미국 조선업에 한국의 도움과 협력이 필요하다고 발언하자 온라인 커뮤니티 등에서는 "갑자기 왜 한국 조선이 나오지", "한국 조선에 대해 정말 아는 게 있나"라는 게시글이 많이 올라왔다. 트럼프 당선인이 미국 대통령 당선 후 윤석열 대통령과 첫 통화에서 언급한 내용이라는 점]]></content>
     </entry>
 </feed>
