@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-24T23:24:26.323Z</updated>
+    <updated>2024-11-25T01:55:42.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 뉴진스 하니는 근로자가 아니다?]]></title>
+        <id>https://v.daum.net/v/20241125081513420</id>
+        <link href="https://v.daum.net/v/20241125081513420"/>
+        <updated>2024-11-25T01:53:54.935Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 한해 수십억 원을 버는 연예인들은 근로기준법상 근로자가 될 수 없는 것일까. 걸그룹 뉴진스 멤버 하니를 근로기준법상 근로자로 보기 어렵다는 노동 당국의 입장이 나오자 근로자임을 판단하는 기준에 관심이 쏠리고 있다. 온라인에선 '1년에 50억원 넘게 받는 하니가 근로자라고 주장하는 것이 말도 안 된다'는 여론이 적지 않다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령 골프장 취재 건조물 침입이다?]]></title>
         <id>https://v.daum.net/v/20241122170009373</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241118164440697"/>
         <updated>2024-11-18T08:32:33.356Z</updated>
         <content type="html"><![CDATA[이재명 더불어민주당 대표의 위증교사 사건 1심 선고가 일주일 앞으로 다가오면서 국민의힘에서 이 대표의 법정구속도 가능하다는 주장이 나왔다. 작년에 국회에서 통과된 이 대표의 체포동의안에 위증교사 사건이 포함돼 있으므로 오는 25일 이 대표가 실형을 선고받으면 국회가 추가로 체포동의안을 처리할 필요가 없다는 주장이다. 이런 주장은 법무부 장관 시절 이 대표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 사전에도 없는 단어로 처벌?…이재명 옭아맨 ‘교유’의 정체]]></title>
-        <id>https://v.daum.net/v/20241118163005036</id>
-        <link href="https://v.daum.net/v/20241118163005036"/>
-        <updated>2024-11-19T13:31:56.292Z</updated>
-        <content type="html"><![CDATA[(시사저널=공성윤 기자) 이재명 더불어민주당 대표의 공직선거법 위반 혐의 1심 재판에서는 생소한 개념이 등장한다. '서로 사귀어 놀거나 왕래하다'란 뜻의 '교유(交遊)'다. 이는 검찰이 공소장을 변경할 때 대장동 개발사업 실무자였던 고(故) 김문기 전 성남도시개발공사 처장과 이 대표의 관계를 설명하면서 처음 등장했다. 민주당에선 "검찰이 사전에도 없는 개념]]></content>
     </entry>
 </feed>
