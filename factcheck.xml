@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-25T11:20:43.122Z</updated>
+    <updated>2024-11-25T12:49:26.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 한일관계 '물 반 컵' 채워졌나?]]></title>
+        <id>https://v.daum.net/v/20241125203116590</id>
+        <link href="https://v.daum.net/v/20241125203116590"/>
+        <updated>2024-11-25T12:48:44.960Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난해 3월 우리 정부는 강제동원 배상금을 일본기업 대신 내준다는 '제3자 변제안'을 발표하며 이렇게 말했습니다. [박진/전 외교부 장관] "물컵에 비유하면 물컵에 물이 절반 이상은 찼다고 생각을 합니다. 그리고 앞으로 이어질 일본의 성의 있는 호응에 따라서 그 물컵은 더 채워질 것으로 기대를 합니다." 그 사이 일본은 과연 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 뉴진스 하니는 근로자가 아니다?]]></title>
         <id>https://v.daum.net/v/20241125081513420</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241119061519588"/>
         <updated>2024-11-18T21:20:16.477Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 도널드 트럼프 미국 대통령 당선인이 대선 승리 직후 미국 조선업에 한국의 도움과 협력이 필요하다고 발언하자 온라인 커뮤니티 등에서는 "갑자기 왜 한국 조선이 나오지", "한국 조선에 대해 정말 아는 게 있나"라는 게시글이 많이 올라왔다. 트럼프 당선인이 미국 대통령 당선 후 윤석열 대통령과 첫 통화에서 언급한 내용이라는 점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이재명 법정구속 가능하다”는 여당 주장, 사실일까[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20241118164440697</id>
-        <link href="https://v.daum.net/v/20241118164440697"/>
-        <updated>2024-11-18T08:32:33.356Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표의 위증교사 사건 1심 선고가 일주일 앞으로 다가오면서 국민의힘에서 이 대표의 법정구속도 가능하다는 주장이 나왔다. 작년에 국회에서 통과된 이 대표의 체포동의안에 위증교사 사건이 포함돼 있으므로 오는 25일 이 대표가 실형을 선고받으면 국회가 추가로 체포동의안을 처리할 필요가 없다는 주장이다. 이런 주장은 법무부 장관 시절 이 대표]]></content>
     </entry>
 </feed>
