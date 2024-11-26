@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-26T22:24:02.296Z</updated>
+    <updated>2024-11-26T23:23:47.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 'SNS 바바리맨'은 처벌 못 하나?]]></title>
+        <id>https://v.daum.net/v/20241127081509554</id>
+        <link href="https://v.daum.net/v/20241127081509554"/>
+        <updated>2024-11-26T23:23:05.221Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 한 걸그룹 출신 가수는 유튜브 방송에 출연해 "인스타그램 다이렉트 메시지(DM)로 자기 특정 신체 부위를 찍어 보내는 분이 정말 많다"고 고충을 털어놨다. 연예인뿐만 아니라 인플루언서와 일반인들까지도 성별, 나이, 국적을 가리지 않는 음란 메시지가 시도 때도 없이 쏟아진다고 호소한다. 예전에 주로 여학교 앞에서 트렌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상법 개정하면 해외 투기자본 기승? “기껏해야 견제 역할”[팩트체크]]]></title>
         <id>https://v.daum.net/v/20241127070010895</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241122081507926"/>
         <updated>2024-11-21T23:23:04.474Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 끝나면 입시 스트레스에서 해방되는 수험생들과 달리 음식점·편의점을 운영하는 소상공인들은 불안에 떨곤 한다. 수능이 끝난 일부 고3 학생들이 음주와 흡연 등 일탈 행위를 하는 경우가 있어 자칫 신분증 검사를 소홀히 했다가 행정처분을 받아 생업에 직격탄을 입고 재판에 넘겨질 수도 있기 때문이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 '시니어 아미' 도입 가능한가?]]></title>
-        <id>https://v.daum.net/v/20241121081512023</id>
-        <link href="https://v.daum.net/v/20241121081512023"/>
-        <updated>2024-11-20T23:22:50.701Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 온라인 커뮤니티와 뉴스 댓글 창을 뜨겁게 달군 몇장의 사진이 있다. 고령자들이 모여 전시에 예비 병력으로 국가에 봉사한다는 목표로 창단한 사단법인 '시니어 아미' 회원들이 군복과 총기를 갖춘 채 시가지 전투를 비롯한 기초군사훈련을 받는 사진이었다. 누구보다 진지하게 훈련에 임하는 이들의 모습에 "진정한 희생과 봉사에]]></content>
     </entry>
 </feed>
