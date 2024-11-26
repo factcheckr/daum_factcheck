@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-26T21:23:16.412Z</updated>
+    <updated>2024-11-26T22:24:02.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상법 개정하면 해외 투기자본 기승? “기껏해야 견제 역할”[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20241127070010895</id>
+        <link href="https://v.daum.net/v/20241127070010895"/>
+        <updated>2024-11-26T22:23:13.449Z</updated>
+        <content type="html"><![CDATA[더불어민주당이 이사의 충실의무 대상을 회사에서 ‘모든 주주’로 확대하는 상법 개정을 추진하고, 재계와 여당이 연일 반대 입장을 표명하면서 상법 개정 여부가 코리아 디스카운트 해소와 맞물려 최대 쟁점으로 떠올랐다. 야당은 국내 대기업 이사회들이 지배주주의 지배권을 강화하기 위해 ‘쪼개기 상장’ 등으로 소액주주들을 희생시켜왔다고 지적한다. 그 결과 투자자들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 자영업자 울리는 '대량 노쇼'…형사 처벌 가능할까?]]></title>
         <id>https://v.daum.net/v/20241126195418185</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241121081512023"/>
         <updated>2024-11-20T23:22:50.701Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 온라인 커뮤니티와 뉴스 댓글 창을 뜨겁게 달군 몇장의 사진이 있다. 고령자들이 모여 전시에 예비 병력으로 국가에 봉사한다는 목표로 창단한 사단법인 '시니어 아미' 회원들이 군복과 총기를 갖춘 채 시가지 전투를 비롯한 기초군사훈련을 받는 사진이었다. 누구보다 진지하게 훈련에 임하는 이들의 모습에 "진정한 희생과 봉사에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재파일] 트럼프와 비트코인, 이번엔 꽃길만 걸을까? [사실은]]]></title>
-        <id>https://v.daum.net/v/20241120103604924</id>
-        <link href="https://v.daum.net/v/20241120103604924"/>
-        <updated>2024-11-20T01:50:33.715Z</updated>
-        <content type="html"><![CDATA[영국의 이코노미스트는 올 한 해 전 세계에 가장 큰 영향을 끼칠 정치적 이벤트로 미국의 대선을 꼽았습니다. 그 대선에서 도널드 트럼프가 재선에 성공했습니다. 그리고 이 소식에 가장 크게 반응한 건 다름 아닌 비트코인입니다. &nbsp; 트럼프의 당선 확률에 따라 출렁이던 비트코인 가격은 트럼프 당선 이후 1BTC에 9만4천 달러를 돌파하면서 역대 최고가를 갈아치]]></content>
     </entry>
 </feed>
