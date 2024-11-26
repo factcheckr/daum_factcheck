@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-26T10:27:31.742Z</updated>
+    <updated>2024-11-26T11:20:37.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 자영업자 울리는 '대량 노쇼'…형사 처벌 가능할까?]]></title>
+        <id>https://v.daum.net/v/20241126195418185</id>
+        <link href="https://v.daum.net/v/20241126195418185"/>
+        <updated>2024-11-26T11:19:46.268Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 예약이나 주문을 해놓고 나타나지 않는 걸 이른바 '노쇼'라고 하죠. 요즘은 '노쇼'를 방지하려고 예약금을 내게 하는 곳도 늘고 있는데 행여나 손님들의 반감을 살까 봐 참고 넘기는 자영업자분들도 많다고 합니다. 이러한 노쇼 행위를 형사 처벌할 수 있을지 장동건 기자가 사실확인에서 알아봤습니다. 【 기자 】 카페 주인이 누군가에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '수사 중 사안' 전례 없다? 정부 '특검법 거부' 논리 따져보니]]></title>
         <id>https://v.daum.net/v/20241126190452336</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241120103604924"/>
         <updated>2024-11-20T01:50:33.715Z</updated>
         <content type="html"><![CDATA[영국의 이코노미스트는 올 한 해 전 세계에 가장 큰 영향을 끼칠 정치적 이벤트로 미국의 대선을 꼽았습니다. 그 대선에서 도널드 트럼프가 재선에 성공했습니다. 그리고 이 소식에 가장 크게 반응한 건 다름 아닌 비트코인입니다. &nbsp; 트럼프의 당선 확률에 따라 출렁이던 비트코인 가격은 트럼프 당선 이후 1BTC에 9만4천 달러를 돌파하면서 역대 최고가를 갈아치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 전동 킥보드, 전면 금지할 수 있나?]]></title>
-        <id>https://v.daum.net/v/20241120081514916</id>
-        <link href="https://v.daum.net/v/20241120081514916"/>
-        <updated>2024-11-19T23:22:31.567Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라.", "제발 전국 전면 금지 걸어라.", "킥보드는 길거리 암 덩어리다." 서울시가 지난 5일 전국 최초로 일부 도로에서 전동 킥보드의 통행을 금지하는 '킥보드 없는 거리'를 추진하겠다고 발표하자 온라인 커뮤니티에 올라온 네티즌들의 반응이다. 도심뿐 아니라 주택가 골목 어디에나 방치된 전]]></content>
     </entry>
 </feed>
