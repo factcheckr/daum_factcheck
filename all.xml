@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T09:26:54.839Z</updated>
+    <updated>2024-11-26T10:27:31.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '수사 중 사안' 전례 없다? 정부 '특검법 거부' 논리 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241126190452336</id>
+        <link href="https://v.daum.net/v/20241126190452336"/>
+        <updated>2024-11-26T10:26:39.862Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부는 이번 김 여사 특검법에 대해서는 야당에게 무제한 비토권이 있다며 무늬만 제3자 추천이라고 문제 삼았습니다. 또 수사 중인 사안에는 특검을 도입할 수 없다는 주장도 반복했습니다. 하지만 당장 윤석열 대통령이 수사팀장을 맡았던 '박근혜 정부 국정농단 특검'만 봐도 야당에게만 특검 추천권이 있었고, 검찰이 특별수사본부를 꾸려 수사하는 도중에 특]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 가습기 틀면 난방비 아낀다?! 난방비 절약 팩트체크! (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241126095804762</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241120081514916"/>
         <updated>2024-11-19T23:22:31.567Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = "그냥 전동 킥보드 전면 금지 해라.", "제발 전국 전면 금지 걸어라.", "킥보드는 길거리 암 덩어리다." 서울시가 지난 5일 전국 최초로 일부 도로에서 전동 킥보드의 통행을 금지하는 '킥보드 없는 거리'를 추진하겠다고 발표하자 온라인 커뮤니티에 올라온 네티즌들의 반응이다. 도심뿐 아니라 주택가 골목 어디에나 방치된 전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영국은 태블릿에도 수신료 부과?" 박장범 발언 검증해보니  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241120051200175</id>
-        <link href="https://v.daum.net/v/20241120051200175"/>
-        <updated>2024-11-19T20:25:51.217Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;박장범 KBS 사장 후보자가 19일 오전 서울 여의도 국회 과학기술정보방송통신위원회 인사청문회에 출석해 의원들의 질의를 경청하고 있다.ⓒ 유성호박장범 "영국 태블릿에도 수신료 부과, 수신료 확대 방안 중 하나로 검토" 박장범 KBS 사장 후보자가 휴대전화에 TV를 직접 수신할 수 있는 기능을 추가해 수신료 수입을 늘리겠다고 밝혀 논란이]]></content>
     </entry>
 </feed>
