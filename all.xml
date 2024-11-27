@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-27T22:23:46.933Z</updated>
+    <updated>2024-11-27T23:24:06.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 흉악범들 신상 공개만이 정답이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241128081652403</id>
+        <link href="https://v.daum.net/v/20241128081652403"/>
+        <updated>2024-11-27T23:23:16.720Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 한 현역 장교가 동료 여성 군무원을 살해한 뒤 시신을 훼손하고 유기한 사건을 계기로 피의자의 신상정보 공개가 다시 화제의 중심에 섰다. 경찰이 지난 7일 피의자의 신상정보를 공개하겠다고 결정하자 당시 피의자 신분이었던 양광준(38)씨가 이런 결정에 반발, 법원에 신상 공개 집행정지 가처분 신청을 냈다. 당시 온라인에선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 'SNS 바바리맨'은 처벌 못 하나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241127081509554</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241122170009373"/>
         <updated>2024-11-22T08:30:15.194Z</updated>
         <content type="html"><![CDATA[국방부가 관리하는 서울 태릉 체력단련장(이하 태릉골프장)에서 윤석열 대통령이 지속적으로 골프를 한 사실이 드러나 논란이 일고 있습니다. 지난 9일에는 이 모습을 취재하려던 기자를 대통령실 경호처 직원들이 잡아 휴대폰을 뺏고 경찰로 넘겼습니다. 언론탄압, 입틀막 등 논란이 커지자 경호처가 입장을 밝혔는데요. “대통령 경호를 하던 곳이다", "일반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 가짜 신분증으로 술·담배…고3도 처벌받나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241122081507926</id>
-        <link href="https://v.daum.net/v/20241122081507926"/>
-        <updated>2024-11-21T23:23:04.474Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 매년 대학수학능력시험(수능)이 끝나면 입시 스트레스에서 해방되는 수험생들과 달리 음식점·편의점을 운영하는 소상공인들은 불안에 떨곤 한다. 수능이 끝난 일부 고3 학생들이 음주와 흡연 등 일탈 행위를 하는 경우가 있어 자칫 신분증 검사를 소홀히 했다가 행정처분을 받아 생업에 직격탄을 입고 재판에 넘겨질 수도 있기 때문이다.]]></content>
     </entry>
 </feed>
