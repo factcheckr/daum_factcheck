@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-28T22:23:49.174Z</updated>
+    <updated>2024-11-28T23:23:49.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 기록적인 폭설에도 겨울이 짧아진다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241129081652743</id>
+        <link href="https://v.daum.net/v/20241129081652743"/>
+        <updated>2024-11-28T23:22:56.377Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름에 이어 짧은 가을을 거쳐 최근 기록적인 폭설이 내리면서 12월 겨울의 문턱에 성큼 다가섰다. 예전에는 선선한 바람이 불던 9월 중순까지도 올해는 무더위가 이어지면서 여름이 길어졌고, 그만큼 겨울은 짧아졌다고 느끼는 사람들이 많다. 온라인 커뮤니티 등에는 "겨울옷은 비싼데 사봐야 얼마 입지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '더 미룰 수 없다'는 가상자산 과세, 주요국은 다 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241129072010725</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241126190452336"/>
         <updated>2024-11-26T10:26:39.862Z</updated>
         <content type="html"><![CDATA[[앵커] 정부는 이번 김 여사 특검법에 대해서는 야당에게 무제한 비토권이 있다며 무늬만 제3자 추천이라고 문제 삼았습니다. 또 수사 중인 사안에는 특검을 도입할 수 없다는 주장도 반복했습니다. 하지만 당장 윤석열 대통령이 수사팀장을 맡았던 '박근혜 정부 국정농단 특검'만 봐도 야당에게만 특검 추천권이 있었고, 검찰이 특별수사본부를 꾸려 수사하는 도중에 특]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 가습기 틀면 난방비 아낀다?! 난방비 절약 팩트체크! (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241126095804762</id>
-        <link href="https://v.daum.net/v/20241126095804762"/>
-        <updated>2024-11-26T01:53:14.491Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 11월 23일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 : 사실 확인이 필요한 허위의심 정보에 대해]]></content>
     </entry>
 </feed>
