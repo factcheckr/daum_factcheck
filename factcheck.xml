@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-28T08:32:37.901Z</updated>
+    <updated>2024-11-28T09:27:01.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한동훈 대표 차량 교통법규 위반?]]></title>
+        <id>https://v.daum.net/v/20241128174828949</id>
+        <link href="https://v.daum.net/v/20241128174828949"/>
+        <updated>2024-11-28T09:26:08.772Z</updated>
+        <content type="html"><![CDATA[한동훈 국민의힘 대표가 탄 차량이 보행 신호 상태의 횡단보도와 인도 위에 차를 세운 영상이 공개되면서 한 대표 차량이 교통 법규를 위반한 것 아니냐는 논란이 벌어졌습니다. 각종 온라인 커뮤니티에는 “법무부 장관 출신 정당 대표가 법을 어겨도 되냐”는 등의 항의 글이 올라왔고 법 위반이라는 시민의 신고가 경찰에 접수되기도 했습니다. JTBC 팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 반도체특별법, 비교해보니…미·일 법률로 촘촘, 한국은 정부 입맛대로]]></title>
         <id>https://v.daum.net/v/20241128153015798</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241126081517478"/>
         <updated>2024-11-25T23:23:23.946Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 '디지털 금'으로 불리는 가상화폐 비트코인의 가격이 급등하면서 전 세계 주요 매체뿐만 아니라 온라인 커뮤니티에서 비트코인에 대한 관심이 폭증하고 있다. 특히, 엘살바도르에서 비트코인이 법정화폐로 통용되고 있는 것을 주목하며 "비트코인이 진짜 돈이 된 거냐", "비트코인이 우리나라에서도 법정화폐가 될 수 있냐"는 게시글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 한일관계 '물 반 컵' 채워졌나?]]></title>
-        <id>https://v.daum.net/v/20241125203116590</id>
-        <link href="https://v.daum.net/v/20241125203116590"/>
-        <updated>2024-11-25T12:48:44.960Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 지난해 3월 우리 정부는 강제동원 배상금을 일본기업 대신 내준다는 '제3자 변제안'을 발표하며 이렇게 말했습니다. [박진/전 외교부 장관] "물컵에 비유하면 물컵에 물이 절반 이상은 찼다고 생각을 합니다. 그리고 앞으로 이어질 일본의 성의 있는 호응에 따라서 그 물컵은 더 채워질 것으로 기대를 합니다." 그 사이 일본은 과연 나]]></content>
     </entry>
 </feed>
