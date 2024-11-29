@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-29T07:26:01.903Z</updated>
+    <updated>2024-11-29T08:31:46.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은]방시혁, IPO로 4000억 챙겼다?… "리스크 감수한 결단"]]></title>
+        <id>https://v.daum.net/v/20241129164523293</id>
+        <link href="https://v.daum.net/v/20241129164523293"/>
+        <updated>2024-11-29T08:30:55.184Z</updated>
+        <content type="html"><![CDATA[방시혁 하이브 의장이 지난 5월 오후 서울 중구 한 호텔에서 빈 자이드 알 나하얀 아랍에미리트(UAE) 대통령과의 간담회에 참석하고 있다. /사진=뉴스1방시혁 의장이 하이브 상장 당시 사모펀드와의 '비밀 계약'으로 4000억원을 챙겼다는 의혹이 일었지만 실상은 리스크를 떠안은 방 의장의 결단이라는 시각이 많다. 상장 주관사 및 대형 로펌들로부터 엄격한 검]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 기록적인 폭설에도 겨울이 짧아진다?]]></title>
         <id>https://v.daum.net/v/20241129081652743</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241126195418185"/>
         <updated>2024-11-26T11:19:46.268Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 예약이나 주문을 해놓고 나타나지 않는 걸 이른바 '노쇼'라고 하죠. 요즘은 '노쇼'를 방지하려고 예약금을 내게 하는 곳도 늘고 있는데 행여나 손님들의 반감을 살까 봐 참고 넘기는 자영업자분들도 많다고 합니다. 이러한 노쇼 행위를 형사 처벌할 수 있을지 장동건 기자가 사실확인에서 알아봤습니다. 【 기자 】 카페 주인이 누군가에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '수사 중 사안' 전례 없다? 정부 '특검법 거부' 논리 따져보니]]></title>
-        <id>https://v.daum.net/v/20241126190452336</id>
-        <link href="https://v.daum.net/v/20241126190452336"/>
-        <updated>2024-11-26T10:26:39.862Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부는 이번 김 여사 특검법에 대해서는 야당에게 무제한 비토권이 있다며 무늬만 제3자 추천이라고 문제 삼았습니다. 또 수사 중인 사안에는 특검을 도입할 수 없다는 주장도 반복했습니다. 하지만 당장 윤석열 대통령이 수사팀장을 맡았던 '박근혜 정부 국정농단 특검'만 봐도 야당에게만 특검 추천권이 있었고, 검찰이 특별수사본부를 꾸려 수사하는 도중에 특]]></content>
     </entry>
 </feed>
