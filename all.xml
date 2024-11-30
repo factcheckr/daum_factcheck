@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-30T11:19:59.146Z</updated>
+    <updated>2024-11-30T12:43:49.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241130203007406</id>
+        <link href="https://v.daum.net/v/20241130203007406"/>
+        <updated>2024-11-30T12:42:59.177Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 구글 위성지도에 우크라이나 비밀 군사기지가 노출됐다며 우크라이나가 구글 측에 항의하는 일이 있었습니다. 이 구글 지도에는 우리나라 군사시설도 고스란히 드러나고 있습니다. 이거는 괜찮은 건지, 팩트체크 사실은 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 지금 이곳은 군사분계선으로부터 10여 km 떨어진 민간인 통제 구역입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은]방시혁, IPO로 4000억 챙겼다?… "리스크 감수한 결단" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241129164523293</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241127070010895"/>
         <updated>2024-11-26T22:23:13.449Z</updated>
         <content type="html"><![CDATA[더불어민주당이 이사의 충실의무 대상을 회사에서 ‘모든 주주’로 확대하는 상법 개정을 추진하고, 재계와 여당이 연일 반대 입장을 표명하면서 상법 개정 여부가 코리아 디스카운트 해소와 맞물려 최대 쟁점으로 떠올랐다. 야당은 국내 대기업 이사회들이 지배주주의 지배권을 강화하기 위해 ‘쪼개기 상장’ 등으로 소액주주들을 희생시켜왔다고 지적한다. 그 결과 투자자들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 자영업자 울리는 '대량 노쇼'…형사 처벌 가능할까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241126195418185</id>
-        <link href="https://v.daum.net/v/20241126195418185"/>
-        <updated>2024-11-26T11:19:46.268Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 예약이나 주문을 해놓고 나타나지 않는 걸 이른바 '노쇼'라고 하죠. 요즘은 '노쇼'를 방지하려고 예약금을 내게 하는 곳도 늘고 있는데 행여나 손님들의 반감을 살까 봐 참고 넘기는 자영업자분들도 많다고 합니다. 이러한 노쇼 행위를 형사 처벌할 수 있을지 장동건 기자가 사실확인에서 알아봤습니다. 【 기자 】 카페 주인이 누군가에]]></content>
     </entry>
 </feed>
