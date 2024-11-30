@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-11-30T17:20:10.837Z</updated>
+    <updated>2024-11-30T18:30:54.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니]]></title>
         <id>https://v.daum.net/v/20241130203007406</id>
