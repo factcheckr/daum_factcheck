@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T21:24:05.012Z</updated>
+    <updated>2024-12-03T22:24:25.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라에만 '예체능 병역 특례' 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241204072007584</id>
+        <link href="https://v.daum.net/v/20241204072007584"/>
+        <updated>2024-12-03T22:23:44.089Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올 시즌을 마치고 은퇴한 야구 스타 추신수(42)는 최근 한 언론 인터뷰에서 2010년 아시안게임 금메달로 병역 특례를 받은 후 국가대표 차출을 거부했다는 의혹에 대해 "구단에서 반대한 것"이라고 해명했다. 미국프로야구 메이저리그(MLB)에서 가장 성공한 한국인 타자로 인기를 누린 추신수가 공개 해명까지 했음에도 온라인 커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 쌍둥이 출생 정말 늘었나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241203072048382</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241128145701927"/>
         <updated>2024-11-28T06:34:12.127Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;한동훈 국민의힘 대표는 지금까지 실제 자신과 가족이 당원 게시판에 글을 올렸는지 확인해 주지 않고 있다. 사진은 지난 27일 오전 서울 여의도 국회에서 '정년연장의 쟁점과 과제'를 주제로 열린 격차해소특별위원회 정책토론회에 참석한 모습.ⓒ 남소연실명 확인이 필요한 국민의힘 당원 게시판에 한동훈 국민의힘 대표와 그 가족 이름으로 윤석열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 흉악범들 신상 공개만이 정답이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241128081652403</id>
-        <link href="https://v.daum.net/v/20241128081652403"/>
-        <updated>2024-11-27T23:23:16.720Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 한 현역 장교가 동료 여성 군무원을 살해한 뒤 시신을 훼손하고 유기한 사건을 계기로 피의자의 신상정보 공개가 다시 화제의 중심에 섰다. 경찰이 지난 7일 피의자의 신상정보를 공개하겠다고 결정하자 당시 피의자 신분이었던 양광준(38)씨가 이런 결정에 반발, 법원에 신상 공개 집행정지 가처분 신청을 냈다. 당시 온라인에선]]></content>
     </entry>
 </feed>
