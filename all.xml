@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-04T07:26:04.652Z</updated>
+    <updated>2024-12-04T08:33:10.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 비상 계엄 요건 갖췄다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241204162808007</id>
+        <link href="https://v.daum.net/v/20241204162808007"/>
+        <updated>2024-12-04T08:32:22.002Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령이 오늘 새벽 6시간 만에 비상계엄 선포를 해제했지만 그 여파는 한국 사회를 뒤흔들고 있습니다. 윤 대통령은 비상계엄을 선포하면서 그 이유로 ① 판사 겁박, 검사 탄핵 등 사법 업무 마비 ② 행안부 장관ㆍ방통위원장ㆍ감사원장 탄핵 등 행정부 마비 ③ 치안 예산 삭감으로 마약 천국, 민생 치안 공황 상태 야기 ④ 재해 대책 예비비 1조원 삭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 계엄령 선포는 반헌법적이다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241204103545206</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241128174828949"/>
         <updated>2024-11-28T09:26:08.772Z</updated>
         <content type="html"><![CDATA[한동훈 국민의힘 대표가 탄 차량이 보행 신호 상태의 횡단보도와 인도 위에 차를 세운 영상이 공개되면서 한 대표 차량이 교통 법규를 위반한 것 아니냐는 논란이 벌어졌습니다. 각종 온라인 커뮤니티에는 “법무부 장관 출신 정당 대표가 법을 어겨도 되냐”는 등의 항의 글이 올라왔고 법 위반이라는 시민의 신고가 경찰에 접수되기도 했습니다. JTBC 팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 반도체특별법, 비교해보니…미·일 법률로 촘촘, 한국은 정부 입맛대로 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241128153015798</id>
-        <link href="https://v.daum.net/v/20241128153015798"/>
-        <updated>2024-11-28T06:34:12.124Z</updated>
-        <content type="html"><![CDATA[반도체 산업이 위기라는 이유로 정부와 여당이 ‘반도체산업 경쟁력 강화 및 혁신성장을 위한 특별법’(반도체특별법) 제정을 추진하고 있다. 해당 법안에는 반도체산업 연구개발 노동자 가운데 일정 수준 이상의 ‘고임금 노동자’에게는 주 52시간 노동상한제와 초과근로수당 지급 규제를 면제할 수 있는 내용이 포함돼있다. 이로 인한 장시간노동에 따른 건강권 침해 우려가]]></content>
     </entry>
 </feed>
