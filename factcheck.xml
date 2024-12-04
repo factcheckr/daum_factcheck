@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-04T21:23:49.975Z</updated>
+    <updated>2024-12-04T22:25:34.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 내가 산 전자담배는 법상 '담배'가 아니다?]]></title>
+        <id>https://v.daum.net/v/20241205072014345</id>
+        <link href="https://v.daum.net/v/20241205072014345"/>
+        <updated>2024-12-04T22:23:52.094Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 시중에선 '전자담배'로 팔리고 있는데 법에선 '담배'가 아니다? 최근 전자담배의 '몸통'에 해당하는 흡연 전용 기구에도 경고문구를 붙이는 내용의 법 개정안이 발의됐다는 소식에 온라인 커뮤니티 등에선 "이게 담배가 아니었네"라는 반응이 나오고 있다. 그동안 전자담배용 연초 제품이나 니코틴 용액에만 경고문구가 표시됐다. 일반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계엄령은 불가능? 조선일보는 왜 틀렸나 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241204190308954</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241129081652743"/>
         <updated>2024-11-28T23:22:56.377Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름에 이어 짧은 가을을 거쳐 최근 기록적인 폭설이 내리면서 12월 겨울의 문턱에 성큼 다가섰다. 예전에는 선선한 바람이 불던 9월 중순까지도 올해는 무더위가 이어지면서 여름이 길어졌고, 그만큼 겨울은 짧아졌다고 느끼는 사람들이 많다. 온라인 커뮤니티 등에는 "겨울옷은 비싼데 사봐야 얼마 입지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '더 미룰 수 없다'는 가상자산 과세, 주요국은 다 한다?]]></title>
-        <id>https://v.daum.net/v/20241129072010725</id>
-        <link href="https://v.daum.net/v/20241129072010725"/>
-        <updated>2024-11-28T22:23:05.858Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 박현영 기자 = 가상자산(암호화폐) 과세 유예 여부를 놓고 여야가 막판 줄다리기 중인 가운데, 미국·일본 등 주요국은 이미 과세를 하고 있어 우리나라도 더 이상 미룰 수 없다는 의견이 나온다. 시장 규모가 가장 큰 미국을 비롯해 주요국들이 모두 세금을 매기고 있는 것은 사실이다. 단, 구체적인 방법에 대해서는 살펴볼 필요가 있다. 우리]]></content>
     </entry>
 </feed>
