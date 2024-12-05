@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-05T19:20:11.505Z</updated>
+    <updated>2024-12-05T20:27:46.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['예산 폭거' 거론하며 계엄 발표한 尹...매년 진통 겪는데 올해는 왜?[팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241206043104603</id>
+        <link href="https://v.daum.net/v/20241206043104603"/>
+        <updated>2024-12-05T20:26:58.855Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 3일 비상계엄을 선포하면서 정부 관료에 대한 야당의 잇따른 탄핵 발의와 함께 '예산 폭거'를 이유로 들었다. 특히 더불어민주당이 정부안에서 4조 원 넘게 감액하면서 국가 본질의 기능을 훼손했다고 주장했다. 예산안 통과 과정에서 매년 일어났던 진통인데 올해 유독 갈등을 증폭시킨 이유는 뭔지 짚어봤다. ①야당표 단독 감액 예산, 초유의 사태였]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 비상계엄 포고령 제1호는 적법하다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241205162020928</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241202081513665"/>
         <updated>2024-12-01T23:22:52.823Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 온라인 커뮤니티와 언론 매체에서 한 유명 연예인을 둘러싼 사망보험금 논란이 뜨거웠다. 수십 개의 보험을 들어 사망보험금 액수를 늘리려 한 게 아니냐는 추측성 보도까지 나오고 있는데, 과연 사망보험을 이렇게 많이 들어 수십억 원의 보험금을 받는 게 가능할까. 결론부터 말하자면 사망보험 상품은 여러 보험사에 중복으로 가입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 구글 어스, 북 군사위성보다 더 위험하다?…따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241130203007406</id>
-        <link href="https://v.daum.net/v/20241130203007406"/>
-        <updated>2024-11-30T12:42:59.177Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 구글 위성지도에 우크라이나 비밀 군사기지가 노출됐다며 우크라이나가 구글 측에 항의하는 일이 있었습니다. 이 구글 지도에는 우리나라 군사시설도 고스란히 드러나고 있습니다. 이거는 괜찮은 건지, 팩트체크 사실은 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 지금 이곳은 군사분계선으로부터 10여 km 떨어진 민간인 통제 구역입니다.]]></content>
     </entry>
 </feed>
