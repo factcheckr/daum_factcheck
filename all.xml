@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-05T05:25:28.598Z</updated>
+    <updated>2024-12-05T06:35:12.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독] 계엄군 탄통에 '5.56mm 보통탄'... "실탄 확실" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241205151205105</id>
+        <link href="https://v.daum.net/v/20241205151205105"/>
+        <updated>2024-12-05T06:34:21.738Z</updated>
+        <content type="html"><![CDATA[[김시연, 권우성 기자] ▲ &nbsp;12월 3일 비상계엄 발령 당시 국회 정문 앞 육군 코란도스포츠 차량 뒷좌석에서 촬영된 탄통 사진에 5.56mm 보통탄(KA071) 수량 300, 9mm 보통탄(KA360) 수량 1OO'이 적혀 있었고, LOT(제조단위) 번호까지 명확히 확인된다. 이 탄통 역시 튼튼한 자물쇠로 잠겨 있었다.ⓒ 권우성지난 12월 3일 윤석열 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 내가 산 전자담배는 법상 '담배'가 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241205072014345</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241129164523293"/>
         <updated>2024-11-29T08:30:55.184Z</updated>
         <content type="html"><![CDATA[방시혁 하이브 의장이 지난 5월 오후 서울 중구 한 호텔에서 빈 자이드 알 나하얀 아랍에미리트(UAE) 대통령과의 간담회에 참석하고 있다. /사진=뉴스1방시혁 의장이 하이브 상장 당시 사모펀드와의 '비밀 계약'으로 4000억원을 챙겼다는 의혹이 일었지만 실상은 리스크를 떠안은 방 의장의 결단이라는 시각이 많다. 상장 주관사 및 대형 로펌들로부터 엄격한 검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 기록적인 폭설에도 겨울이 짧아진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241129081652743</id>
-        <link href="https://v.daum.net/v/20241129081652743"/>
-        <updated>2024-11-28T23:22:56.377Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 유난히도 길고도 무더웠던 올해 여름에 이어 짧은 가을을 거쳐 최근 기록적인 폭설이 내리면서 12월 겨울의 문턱에 성큼 다가섰다. 예전에는 선선한 바람이 불던 9월 중순까지도 올해는 무더위가 이어지면서 여름이 길어졌고, 그만큼 겨울은 짧아졌다고 느끼는 사람들이 많다. 온라인 커뮤니티 등에는 "겨울옷은 비싼데 사봐야 얼마 입지]]></content>
     </entry>
 </feed>
