@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-05T21:23:55.852Z</updated>
+    <updated>2024-12-05T22:24:22.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 결혼 축의금 얼마 내면 적당할까?]]></title>
+        <id>https://v.daum.net/v/20241206072011572</id>
+        <link href="https://v.daum.net/v/20241206072011572"/>
+        <updated>2024-12-05T22:23:34.172Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 한 유명 연예인이 무명 시절 때 친한 지인 결혼식에 가서 축의금을 5만원밖에 못 내서 미안한 마음에 밥을 먹지 않고 결혼식장을 나왔다는 고백이 언론에 보도되면서 화제에 올랐다. 이 연예인처럼 우리나라 사람들이 일상생활에서 고민하는 순간 중의 하나가 바로 결혼 축의금을 얼마 내야 할지다. 청첩장을 접할 때마다 3만원,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['예산 폭거' 거론하며 계엄 발표한 尹...매년 진통 겪는데 올해는 왜?[팩트파인더]]]></title>
         <id>https://v.daum.net/v/20241206043104603</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241203072048382"/>
         <updated>2024-12-02T22:23:44.474Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가족 행복 네트워크 출범', '생후 7개월 쌍둥이 딸 살해 혐의 40대 친모 구속', '자연임신 다섯쌍둥이 가정에 9인승 카니발 선물'. 최근 한 달간 쌍둥이 관련 기사의 제목이다. 이런 기사가 나올 때마다 온라인 커뮤니티나 기사 댓글에 '요새 쌍둥이가 많아지긴 했다'는 의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 사망보험만 수십 개 가입할 수 있다?]]></title>
-        <id>https://v.daum.net/v/20241202081513665</id>
-        <link href="https://v.daum.net/v/20241202081513665"/>
-        <updated>2024-12-01T23:22:52.823Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 온라인 커뮤니티와 언론 매체에서 한 유명 연예인을 둘러싼 사망보험금 논란이 뜨거웠다. 수십 개의 보험을 들어 사망보험금 액수를 늘리려 한 게 아니냐는 추측성 보도까지 나오고 있는데, 과연 사망보험을 이렇게 많이 들어 수십억 원의 보험금을 받는 게 가능할까. 결론부터 말하자면 사망보험 상품은 여러 보험사에 중복으로 가입]]></content>
     </entry>
 </feed>
