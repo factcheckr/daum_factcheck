@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-06T22:24:59.553Z</updated>
+    <updated>2024-12-06T23:24:00.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 12·3 비상계엄 내란죄 아니다?]]></title>
+        <id>https://v.daum.net/v/20241207080005404</id>
+        <link href="https://v.daum.net/v/20241207080005404"/>
+        <updated>2024-12-06T23:23:17.554Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령의 비상계엄 선포와 그에 따른 김용현 전 국방부장관의 지시, 군의 국회 진입 등에 대해 내란과 반란이라는 시각이 많습니다. 이에 대해 윤 대통령은 야당의 입법 폭거에 대한 경고였다, 김 전 국방부장관은 대통령의 의지에 따른 것이며, 불법 선거 의혹 때문이라는 주장을 펼치고 있습니다. 정부와 여당 일부 인사들은 윤 대통령의 주장에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 결혼 축의금 얼마 내면 적당할까?]]></title>
         <id>https://v.daum.net/v/20241206072011572</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241204072007584"/>
         <updated>2024-12-03T22:23:44.089Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올 시즌을 마치고 은퇴한 야구 스타 추신수(42)는 최근 한 언론 인터뷰에서 2010년 아시안게임 금메달로 병역 특례를 받은 후 국가대표 차출을 거부했다는 의혹에 대해 "구단에서 반대한 것"이라고 해명했다. 미국프로야구 메이저리그(MLB)에서 가장 성공한 한국인 타자로 인기를 누린 추신수가 공개 해명까지 했음에도 온라인 커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 쌍둥이 출생 정말 늘었나?]]></title>
-        <id>https://v.daum.net/v/20241203072048382</id>
-        <link href="https://v.daum.net/v/20241203072048382"/>
-        <updated>2024-12-02T22:23:44.474Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = '쌍둥이 형제가 공군 학사장교로 임관', '쌍둥이 가족 행복 네트워크 출범', '생후 7개월 쌍둥이 딸 살해 혐의 40대 친모 구속', '자연임신 다섯쌍둥이 가정에 9인승 카니발 선물'. 최근 한 달간 쌍둥이 관련 기사의 제목이다. 이런 기사가 나올 때마다 온라인 커뮤니티나 기사 댓글에 '요새 쌍둥이가 많아지긴 했다'는 의]]></content>
     </entry>
 </feed>
