@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-07T05:24:14.245Z</updated>
+    <updated>2024-12-07T06:32:52.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '6인 체제' 헌재, 탄핵 선고 가능하다?]]></title>
+        <id>https://v.daum.net/v/20241207140005629</id>
+        <link href="https://v.daum.net/v/20241207140005629"/>
+        <updated>2024-12-07T06:32:06.978Z</updated>
+        <content type="html"><![CDATA[내일(7일) 오후 국회 본회의에서 윤석열 대통령 탄핵소추안 표결이 예정된 가운데 현재 6인 체제인 헌법재판소의 탄핵 심판 결정이 가능한지 여부에 대한 궁금증이 커지고 있습니다. 탄핵소추안의 국회 통과 이후 상황에 국민적 관심이 쏠리고 있는 상황에서 JTBC 팩트체크팀은 헌재의 탄핵 심판 절차의 진행이 가능한지를 따져봤습니다. ━ ① 헌재, 탄핵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 12·3 비상계엄 내란죄 아니다?]]></title>
         <id>https://v.daum.net/v/20241207080005404</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241204103545206"/>
         <updated>2024-12-04T01:55:49.772Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 3일 오후 10시 28분 비상계엄령을 선포했습니다. 계엄령 선포 직후 박안수 계엄사령관이 헌법이 보장한 기본권을 제한하는 포고령을 발표했습니다. 공수부대가 헬기를 타고 국회에 난입했습니다. 경찰이 국회 출입을 통제하고, 포고령에선 정치활동과 언론의 자유 침해, 영장없는 체포 등이 언급됐습니다. 대한민국의 시계가 45년 전인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에만 '예체능 병역 특례' 있다?]]></title>
-        <id>https://v.daum.net/v/20241204072007584</id>
-        <link href="https://v.daum.net/v/20241204072007584"/>
-        <updated>2024-12-03T22:23:44.089Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올 시즌을 마치고 은퇴한 야구 스타 추신수(42)는 최근 한 언론 인터뷰에서 2010년 아시안게임 금메달로 병역 특례를 받은 후 국가대표 차출을 거부했다는 의혹에 대해 "구단에서 반대한 것"이라고 해명했다. 미국프로야구 메이저리그(MLB)에서 가장 성공한 한국인 타자로 인기를 누린 추신수가 공개 해명까지 했음에도 온라인 커]]></content>
     </entry>
 </feed>
