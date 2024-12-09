@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T21:24:27.187Z</updated>
+    <updated>2024-12-09T22:24:52.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 유튜버는 세금 안 내도 괜찮다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241210072010054</id>
+        <link href="https://v.daum.net/v/20241210072010054"/>
+        <updated>2024-12-09T22:24:02.486Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 유명 유튜버 중에 수억 원을 벌고도 세금을 내지 않다가 적발됐다는 보도가 나오자 온라인 커뮤니티에서는 유튜버 세금을 놓고 적정성 논란이 뜨겁다. "방에서 혼자서 취미로 하는 유튜버가 무슨 세금이냐?", "그래도 돈을 버니깐 유튜버는 무조건 신고하고 세금을 내야 한다", "10만명 이상 구독자를 가진 대형 유튜버만 세금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '내란 수사' 급한데 검·경·공 사건 쟁탈전… 누구 말이 맞나 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241210001014409</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241206043104603"/>
         <updated>2024-12-05T20:26:58.855Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 3일 비상계엄을 선포하면서 정부 관료에 대한 야당의 잇따른 탄핵 발의와 함께 '예산 폭거'를 이유로 들었다. 특히 더불어민주당이 정부안에서 4조 원 넘게 감액하면서 국가 본질의 기능을 훼손했다고 주장했다. 예산안 통과 과정에서 매년 일어났던 진통인데 올해 유독 갈등을 증폭시킨 이유는 뭔지 짚어봤다. ①야당표 단독 감액 예산, 초유의 사태였]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 비상계엄 포고령 제1호는 적법하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241205162020928</id>
-        <link href="https://v.daum.net/v/20241205162020928"/>
-        <updated>2024-12-05T07:26:37.916Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령의 비상계엄 선포 파장으로 국정이 마비됐습니다. 대통령실 실장들과 수석비서관들이 사의를 표명했습니다. 비상계엄을 건의한 김용현 국방부장관도 사표를 냈고, 윤 대통령이 바로 수리했습니다. 해외에선 한국의 정치 상황에 비상한 관심을 보이고 있으며 국내외 경제 상황도 충격파가 이어지고 있습니다. 대통령실은 외신에 '헌법 틀 안]]></content>
     </entry>
 </feed>
