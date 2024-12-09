@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T11:21:51.136Z</updated>
+    <updated>2024-12-09T12:51:44.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '국정농단' 당시 민주당도 총리에게 맡기자고 했다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241209205814410</id>
+        <link href="https://v.daum.net/v/20241209205814410"/>
+        <updated>2024-12-09T12:50:52.042Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 어제 국민의힘 한동훈 대표가 발표한 내용이죠. 여당 대표와 총리가 대통령 대신 국정을 맡겠다는 식의 수습책에 비판이 그야말로 쏟아지자, 한 대표는 과거 민주당도 제안했던 내용이라고 반박했는데요. 한동훈 대표의 이 반박이 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 한동훈 국민의힘 대표는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 김용현, "계엄군 선거 수사 판단할 수 있다"? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241209153003027</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241205151205105"/>
         <updated>2024-12-05T06:34:21.738Z</updated>
         <content type="html"><![CDATA[[김시연, 권우성 기자] ▲ &nbsp;12월 3일 비상계엄 발령 당시 국회 정문 앞 육군 코란도스포츠 차량 뒷좌석에서 촬영된 탄통 사진에 5.56mm 보통탄(KA071) 수량 300, 9mm 보통탄(KA360) 수량 1OO'이 적혀 있었고, LOT(제조단위) 번호까지 명확히 확인된다. 이 탄통 역시 튼튼한 자물쇠로 잠겨 있었다.ⓒ 권우성지난 3일 윤석열 대통령의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 내가 산 전자담배는 법상 '담배'가 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241205072014345</id>
-        <link href="https://v.daum.net/v/20241205072014345"/>
-        <updated>2024-12-04T22:23:52.094Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 시중에선 '전자담배'로 팔리고 있는데 법에선 '담배'가 아니다? 최근 전자담배의 '몸통'에 해당하는 흡연 전용 기구에도 경고문구를 붙이는 내용의 법 개정안이 발의됐다는 소식에 온라인 커뮤니티 등에선 "이게 담배가 아니었네"라는 반응이 나오고 있다. 그동안 전자담배용 연초 제품이나 니코틴 용액에만 경고문구가 표시됐다. 일반]]></content>
     </entry>
 </feed>
