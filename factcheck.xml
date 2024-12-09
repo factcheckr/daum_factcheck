@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-09T16:32:54.976Z</updated>
+    <updated>2024-12-09T17:23:53.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '내란 수사' 급한데 검·경·공 사건 쟁탈전… 누구 말이 맞나]]></title>
         <id>https://v.daum.net/v/20241210001014409</id>
