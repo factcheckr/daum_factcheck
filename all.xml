@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-10T21:23:50.517Z</updated>
+    <updated>2024-12-10T22:24:18.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 헷갈리는 상설 특검ㆍ일반 특검 뭐가 다른가? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241211072012890</id>
+        <link href="https://v.daum.net/v/20241211072012890"/>
+        <updated>2024-12-10T22:23:34.839Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 야당 주도로 국회에서 '12·3 비상계엄 사태'에 대한 상설 특검이 가동되기 위한 절차가 완료된 데 이어 개별 특검법안의 제정도 추진되는 상황에서 상설 특검과 일반 특검의 차이에 대한 궁금증이 일고 있다. 양 특검 제도를 쉽게 구분하자면 상설 특검은 '특별검사의 임명 등에 관한 법률'(이하 상설특검법)에 따라 진행되는 특검]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 유튜버는 세금 안 내도 괜찮다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241210072010054</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241206072011572"/>
         <updated>2024-12-05T22:23:34.172Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 한 유명 연예인이 무명 시절 때 친한 지인 결혼식에 가서 축의금을 5만원밖에 못 내서 미안한 마음에 밥을 먹지 않고 결혼식장을 나왔다는 고백이 언론에 보도되면서 화제에 올랐다. 이 연예인처럼 우리나라 사람들이 일상생활에서 고민하는 순간 중의 하나가 바로 결혼 축의금을 얼마 내야 할지다. 청첩장을 접할 때마다 3만원,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['예산 폭거' 거론하며 계엄 발표한 尹...매년 진통 겪는데 올해는 왜?[팩트파인더] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241206043104603</id>
-        <link href="https://v.daum.net/v/20241206043104603"/>
-        <updated>2024-12-05T20:26:58.855Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 3일 비상계엄을 선포하면서 정부 관료에 대한 야당의 잇따른 탄핵 발의와 함께 '예산 폭거'를 이유로 들었다. 특히 더불어민주당이 정부안에서 4조 원 넘게 감액하면서 국가 본질의 기능을 훼손했다고 주장했다. 예산안 통과 과정에서 매년 일어났던 진통인데 올해 유독 갈등을 증폭시킨 이유는 뭔지 짚어봤다. ①야당표 단독 감액 예산, 초유의 사태였]]></content>
     </entry>
 </feed>
