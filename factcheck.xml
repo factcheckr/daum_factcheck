@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-11T09:27:37.665Z</updated>
+    <updated>2024-12-11T10:27:33.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대법원 판례 들어 '내란' 아니다?…윤상현 주장 따져보니]]></title>
+        <id>https://v.daum.net/v/20241211185650224</id>
+        <link href="https://v.daum.net/v/20241211185650224"/>
+        <updated>2024-12-11T10:26:50.005Z</updated>
+        <content type="html"><![CDATA[[앵커] 앞서 보신 것처럼 국민의힘에서는 윤 대통령의 비상계엄 선포가 '고도의 정치 행위'라며 대법원 판례도 있다고 주장했는데 과연 이 주장이 맞는지, 박소연 기자와 팩트체크해보겠습니다. 박 기자, 윤상현 의원이 주장하는 대법원 판례가 어떤 걸 말하는 겁니까? [기자] 이러한 대법원 판례가 있다는 주장부터 일정 부분 사실과 다릅니다. 윤 의원이 언급한 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여인형, “맞든 틀리든 군인은 명령 따라야 한다”?]]></title>
         <id>https://v.daum.net/v/20241211173811765</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241208084211818"/>
         <updated>2024-12-08T02:02:46.491Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 12월 7일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '6인 체제' 헌재, 탄핵 선고 가능하다?]]></title>
-        <id>https://v.daum.net/v/20241207140005629</id>
-        <link href="https://v.daum.net/v/20241207140005629"/>
-        <updated>2024-12-07T06:32:06.978Z</updated>
-        <content type="html"><![CDATA[내일(7일) 오후 국회 본회의에서 윤석열 대통령 탄핵소추안 표결이 예정된 가운데 현재 6인 체제인 헌법재판소의 탄핵 심판 결정이 가능한지 여부에 대한 궁금증이 커지고 있습니다. 탄핵소추안의 국회 통과 이후 상황에 국민적 관심이 쏠리고 있는 상황에서 JTBC 팩트체크팀은 헌재의 탄핵 심판 절차의 진행이 가능한지를 따져봤습니다. ━① 헌재, 탄핵 심판 결정]]></content>
     </entry>
 </feed>
