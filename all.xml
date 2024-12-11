@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T11:21:01.084Z</updated>
+    <updated>2024-12-11T12:50:38.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 대통령 탄핵이 헌정 중단·국가 혼란 부른다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241211203406195</id>
+        <link href="https://v.daum.net/v/20241211203406195"/>
+        <updated>2024-12-11T12:49:48.675Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령 탄핵을 반대하는 국민의힘은, 탄핵이 되면 헌정이 중단되고 국가적 혼란이 커질 거라며 공포를 확산시키려 합니다. 그런데, 이 말이 정말 사실일까요? 그래서 저희가 8년 전 박근혜 전 대통령 탄핵 당시엔 정말 혼란이 커졌는지 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ [정세균/당시 국회의장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대법원 판례 들어 '내란' 아니다?…윤상현 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241211185650224</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241209072007725"/>
         <updated>2024-12-08T22:22:26.785Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 중독성이 강한 온라인 도박이 최근 10대 청소년 사이에 빠르게 퍼지고 있다. 경찰청이 지난 11월 초 발표한 청소년 사이버 도박 검거 실태에 따르면 만 9세 어린이까지도 사이버 도박에 손을 댔다가 경찰에 붙잡히기도 했다. 과거 몇몇 학생들이 교과서 위 동전을 뒤집던 '판치기' 수준을 넘어, 이제는 성인에게도 부담스러운 금액]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 도로 제설제가 자동차 부식시킨다? 폭설과 관련된 여러 썰들 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241208084211818</id>
-        <link href="https://v.daum.net/v/20241208084211818"/>
-        <updated>2024-12-08T02:02:46.491Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 12월 7일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
     </entry>
 </feed>
