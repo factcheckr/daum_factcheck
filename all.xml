@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T10:27:35.955Z</updated>
+    <updated>2024-12-12T11:21:08.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241212195411712</id>
+        <link href="https://v.daum.net/v/20241212195411712"/>
+        <updated>2024-12-12T11:20:22.644Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 오늘(12일) 담화를 들어보면 검찰 출신인 윤 대통령은 탄핵 심판과&nbsp;수사 과정에서&nbsp;끝까지 법리 다툼을 해보겠다는 생각이 강해 보입니다. 비상계엄 선포는 대통령의&nbsp;통치행위고, 그건&nbsp;사법심사 대상이&nbsp;되지 않는다고 강조한 것도 이런 맥락입니다. 이게 과연 맞는 말일지, 판례는 어떻게 되어있을지 팩트체크&nbsp;'사실은' 코너에서 따져봤습니다. 안상우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 12·12 담화 속 '5대 거짓말' - ⑤ "선관위 전산시스템 엉터리, 어떻게 신뢰하나" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241212185231567</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241212165524957"/>
         <updated>2024-12-12T08:31:46.933Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 12일 담화에서 자신이 비상계엄을 선포한 이유로 선거관리시스템의 취약성에 따른 선거결과 조작 가능성과 야당의 형법 개정안(간첩법) 반대 등을 내세웠다. 윤 대통령의 이 같은 주장은 어디까지 사실일까. 윤 대통령은 이날 "작년 하반기 선거관리위원회를 비롯한 헌법기관들과 정부 기관에 대해 북한의 해킹 공격이 있었다"며 "(점검 결과) 국정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 ‘거대야당의 안보 위협’으로 비상계엄을? [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241212161012242</id>
-        <link href="https://v.daum.net/v/20241212161012242"/>
-        <updated>2024-12-12T07:24:15.630Z</updated>
-        <content type="html"><![CDATA[내란죄 피의자인 윤석열 대통령이 비상계엄 선포의 이유로 ‘거대 야당의 국가안보 위협’을 내세웠다. 윤 대통령이 근거로 든 사건 중에는 대공 혐의점이 없어 경찰이 피의자를 석방한 사례도 있었고, 야당은 간첩죄 처벌 범위를 넓히는 형법 개정을 반대하는 게 아니라 검토 중이다. 비상계엄 선포의 명분으로 든 윤 대통령의 주장이 사실과 다른 것이다. 윤 대통령은]]></content>
     </entry>
 </feed>
