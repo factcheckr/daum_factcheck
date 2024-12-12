@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-12T21:24:19.329Z</updated>
+    <updated>2024-12-12T22:24:31.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '한국행 이민자' 세계 최고 수준이다?]]></title>
+        <id>https://v.daum.net/v/20241213072012292</id>
+        <link href="https://v.daum.net/v/20241213072012292"/>
+        <updated>2024-12-12T22:23:49.001Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 지난해 전 세계 주요 국가 가운데 한국으로 가는 이민자가 세계 최고 수준이라는 보도가 나오자 세간의 관심을 끌었다. 온라인 커뮤니티에서는 "원래 우리나라의 이민 제한 정책 세지 않았나", "이민자가 이렇게 많다니 실감 나지 않는다", "인구가 줄어드니 이민자 받는 게 최선이다", "지방 공장에 내려갔더니 식당에 외국인 직원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 尹 "해킹으로 선거 조작 가능"...선관위 "사실상 불가능"]]></title>
         <id>https://v.daum.net/v/20241213052102353</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212182446047"/>
         <updated>2024-12-12T09:26:46.540Z</updated>
         <content type="html"><![CDATA[[앵커] 조금 전 보신 것처럼 지금 관저 앞 상황이 심각해 보이는 상황인데요. 상황은 계속해서 저희가 전해드리도록 하고요. 윤석열 대통령, 대국민 담화를 통해 직접 여러 가지 사실 관계를 설명하며, 내란 아니다, 불법 계엄 아니다, 주장했습니다. 조목조목 팩트 체크 해보겠습니다. 따져볼 대목이 한 둘이 아닌데, 우선 "2시간짜리 내란이라는 게 있느냐"는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“계엄은 통치행위, 사법심사 대상 아냐” 윤석열 담화는 거짓 주장]]></title>
-        <id>https://v.daum.net/v/20241212175017103</id>
-        <link href="https://v.daum.net/v/20241212175017103"/>
-        <updated>2024-12-12T09:26:46.543Z</updated>
-        <content type="html"><![CDATA[내란죄 피의자 윤석열 대통령이 12일 대국민 담화에서 “비상계엄 선포권 행사는 사법심사의 대상이 되지 않는 통치행위”라며 자신의 형사적 책임을 피하려 했지만 법률 전문가들은 사실과 다른 주장이라고 못 박았다. 우선 ‘통치행위’라는 명분으로 법적 책임을 면제받을 수 없다고 했다. 고등법원의 한 판사는 “통치행위란 법률적 개념이 아니어서 ‘사법심사의 대상]]></content>
     </entry>
 </feed>
