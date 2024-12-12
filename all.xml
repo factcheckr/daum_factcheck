@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T08:34:25.344Z</updated>
+    <updated>2024-12-12T09:27:29.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 12·12 담화 속 '5대 거짓말' - ① "도대체 2시간짜리 내란이 있느냐" (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241212182446047</id>
+        <link href="https://v.daum.net/v/20241212182446047"/>
+        <updated>2024-12-12T09:26:46.540Z</updated>
+        <content type="html"><![CDATA[[앵커] 조금 전 보신 것처럼 지금 관저 앞 상황이 심각해 보이는 상황인데요. 상황은 계속해서 저희가 전해드리도록 하고요. 윤석열 대통령, 대국민 담화를 통해 직접 여러 가지 사실 관계를 설명하며, 내란 아니다, 불법 계엄 아니다, 주장했습니다. 조목조목 팩트 체크 해보겠습니다. 따져볼 대목이 한 둘이 아닌데, 우선 "2시간짜리 내란이라는 게 있느냐"는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“계엄은 통치행위, 사법심사 대상 아냐” 윤석열 담화는 거짓 주장 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241212175017103</id>
+        <link href="https://v.daum.net/v/20241212175017103"/>
+        <updated>2024-12-12T09:26:46.543Z</updated>
+        <content type="html"><![CDATA[내란죄 피의자 윤석열 대통령이 12일 대국민 담화에서 “비상계엄 선포권 행사는 사법심사의 대상이 되지 않는 통치행위”라며 자신의 형사적 책임을 피하려 했지만 법률 전문가들은 사실과 다른 주장이라고 못 박았다. 우선 ‘통치행위’라는 명분으로 법적 책임을 면제받을 수 없다고 했다. 고등법원의 한 판사는 “통치행위란 법률적 개념이 아니어서 ‘사법심사의 대상이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 "국회 병력 300명"도 거짓, "질서유지"도 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241212172409103</id>
@@ -59,19 +73,5 @@
         <link href="https://v.daum.net/v/20241212113509334"/>
         <updated>2024-12-12T03:06:48.320Z</updated>
         <content type="html"><![CDATA[12·3 내란사태 피의자인 윤석열 대통령이 비상계엄 선포의 주요 이유로 지난 4·10 총선 부정선거를 주장했다. 여당의 기록적 참패 이유가 북한 등의 선거 데이터 해킹·조작 때문이라는 극우 유튜버 주장을 맹신한 결과로 보인다. 앞서 국민의힘은 총선 백서를 통해 △김건희 여사 명품가방 수수 △이종섭 전 국방부 장관의 ‘런종섭’ 논란 △황상무 전 시민사회수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비상계엄, 사법심사 대상 아니다" 윤석열 주장 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241212110601693</id>
-        <link href="https://v.daum.net/v/20241212110601693"/>
-        <updated>2024-12-12T03:06:48.321Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령이 12일 용산 대통령실에서 대국민 담화를 하고 있다.ⓒ 대통령실윤석열 대통령은 12일 오전 대국민담화를 통해 지난 3일 자신이 선포한 비상계엄의 정당성을 주장했다. 하지만 이날 담화 내용 가운데 상당수는 헌법이나 법률, 대법원 판례와 어긋나고, 지금까지 내란 가담자의 증언과도 배치된다. 이에 지금까지 이미 언론 보도 등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“윤석열 계엄은 고도의 정치행위” 윤상현 주장…일부 대목 부풀려 전체 왜곡[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241212105840215</id>
-        <link href="https://v.daum.net/v/20241212105840215"/>
-        <updated>2024-12-12T03:06:48.321Z</updated>
-        <content type="html"><![CDATA[윤상현 국민의힘 의원은 지난 11일 윤석열 대통령의 12·3 비상계엄 사태에 대해 대법원 판례를 언급하며 옹호했다. 윤 의원은 대통령의 비상계엄 선포가 “사법심사를 자제해야 할 고도의 정치행위”라고 옹호했는데 이런 주장은 얼마나 사실일까. 12일 경향신문이 윤 의원이 언급한 대법원 판례들을 확인한 결과 윤 의원은 각 판례의 극히 일부 대목을 부풀려 전체를]]></content>
     </entry>
 </feed>
