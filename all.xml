@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T05:25:04.176Z</updated>
+    <updated>2024-12-12T06:35:41.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["국회 출입 안 막았다" 윤석열의 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://v.daum.net/v/20241212123003266"/>
         <updated>2024-12-12T04:29:31.378Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;윤석열 대통령이 3일 오후 비상계엄을 선포한 가운데 경찰 병력이 여의도 국회를 에워싸고 외부인의 출입을 통제하고 있다.ⓒ 유성호윤석열 대통령이 12일 오전 대국민담화를 통해 지난 3일 자신이 선포한 비상계엄의 정당성을 주장했다. 하지만 이날 담화 내용 가운데 상당수는 헌법이나 법률, 대법원 판례와 어긋나고, 지금까지 내란 가담자의 증언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["거대 야당, 국가보안법 폐지 시도" 윤석열 주장 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241212121801957</id>
+        <link href="https://v.daum.net/v/20241212121801957"/>
+        <updated>2024-12-12T06:34:55.589Z</updated>
+        <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;12일 오전 윤석열 대통령이 지난 3일 저녁 비상계엄 선포 관련 대국민담화를 발표하는 가운데, 서울역 대합실에서 시민들이 생중계를 시청하고 있다.ⓒ 권우성윤석열 대통령이 12일 대국민 담화에서 12.3 내란 사태의 정당성을 주장하며 "(거대 야당이) 지난 정권 당시 국정원의 대공수사권을 박탈한 것도 모자라서, 국가보안법 폐지도 시도하고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선관위 ‘총선 데이터’ 해킹?…윤석열 당선도 부정하는 꼴 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241211093020007"/>
         <updated>2024-12-11T01:55:59.999Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 도와 시·군의 조례같은 자치 법규를 주민 스스로 발의해 만들 수 있는 제도가 시행된 지 25년이 됐는데요. 특히 2년 전부터는 청구 기준이 크게 완화됐지만 현실적인 제약이 커 효과가 미미합니다. 팩트체크 K, 그 실태와 한계를 이유진 기자가 취재했습니다. [리포트] 지난해 제정된 충청북도의 고려인 주민 지원 조례입니다. 현재 충북에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 헷갈리는 상설 특검·일반 특검 뭐가 다른가? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241211072012890</id>
-        <link href="https://v.daum.net/v/20241211072012890"/>
-        <updated>2024-12-10T22:23:34.839Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 야당 주도로 국회에서 '12·3 비상계엄 사태'에 대한 상설 특검이 가동되기 위한 절차가 완료된 데 이어 개별 특검법안의 제정도 추진되는 상황에서 상설 특검과 일반 특검의 차이에 대한 궁금증이 일고 있다. 양 특검 제도를 쉽게 구분하자면 상설 특검은 '특별검사의 임명 등에 관한 법률'(이하 상설특검법)에 따라 진행되는 특검]]></content>
     </entry>
 </feed>
