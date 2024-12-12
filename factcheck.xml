@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-12T11:21:08.981Z</updated>
+    <updated>2024-12-12T12:51:09.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 비상계엄이 ‘야당 경고’ 차원이었다는 윤의 궤변]]></title>
+        <id>https://v.daum.net/v/20241212212024112</id>
+        <link href="https://v.daum.net/v/20241212212024112"/>
+        <updated>2024-12-12T12:50:14.892Z</updated>
+        <content type="html"><![CDATA[내란죄 피의자 윤석열 대통령은 12일 대국민 담화에서 12·3 내란사태를 두고 ‘과거의 계엄과 달리 거대 야당의 망국적 행태를 상징적으로 알리기 위한 계엄이었다’는 궤변을 늘어놨다. 그의 말은 내란에 연루된 군·경·정부 관계자들 증언과는 판이하게 엇갈린다. ①국방부 장관하고만 논의했다? 윤 대통령은 이날 담화에서 “비상계엄을 준비하면서 오로지 국방장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '12·12 내란 담화' 속 대통령의 거짓말]]></title>
+        <id>https://v.daum.net/v/20241212204922660</id>
+        <link href="https://v.daum.net/v/20241212204922660"/>
+        <updated>2024-12-12T12:50:14.892Z</updated>
+        <content type="html"><![CDATA[[앵커] 조금 전 보신 것처럼 지금 관저 앞 상황이 심각해 보이는 상황인데요. 상황은 계속해서 저희가 전해드리도록 하고요. 윤석열 대통령, 대국민 담화를 통해 직접 여러 가지 사실 관계를 설명하며, 내란 아니다, 불법 계엄 아니다, 주장했습니다. 조목조목 팩트 체크 해보겠습니다. 따져볼 대목이 한 둘이 아닌데, 우선 "2시간짜리 내란이라는 게 있느냐"는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대]]></title>
         <id>https://v.daum.net/v/20241212195411712</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241212172409103"/>
         <updated>2024-12-12T08:31:46.929Z</updated>
         <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;12일 오전 윤석열 대통령이 지난 3일 저녁 비상계엄 선포 관련 대국민담화를 발표하는 가운데, 서울역 대합실에서 시민들이 생중계를 시청하고 있다.ⓒ 권우성윤석열 대통령은 12일 대국민담화에서 자신의 내란 행위를 부정하며 "300명 미만의 실무장하지 않은 병력으로 그 넓디넓은 국회 공간을 상당 기간 장악할 수 없다"라고 주장했지만, 이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 12·12 담화 체크 ①]]></title>
-        <id>https://v.daum.net/v/20241212172400089</id>
-        <link href="https://v.daum.net/v/20241212172400089"/>
-        <updated>2024-12-12T08:31:46.929Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 12.3 비상계엄 실패 후 두 번째 담화를 발표했습니다. 윤 대통령은 비상계엄을 생각하게 된 배경과 절차, 계엄 선포와 해제 과정 등에 대해 자신의 주장을 내놓았습니다. JTBC 팩트체크팀은 12.3 계엄 이후 드러난 사실과 다양한 근거를 통해 윤 대통령의 주장을 검증해보겠습니다. ━ 계엄은 고도의 통치행위라 사법심사의 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤 대통령 "선거조작·野 간첩법 반대" 주장…사실은]]></title>
-        <id>https://v.daum.net/v/20241212165524957</id>
-        <link href="https://v.daum.net/v/20241212165524957"/>
-        <updated>2024-12-12T08:31:46.933Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 12일 담화에서 자신이 비상계엄을 선포한 이유로 선거관리시스템의 취약성에 따른 선거결과 조작 가능성과 야당의 형법 개정안(간첩법) 반대 등을 내세웠다. 윤 대통령의 이 같은 주장은 어디까지 사실일까. 윤 대통령은 이날 "작년 하반기 선거관리위원회를 비롯한 헌법기관들과 정부 기관에 대해 북한의 해킹 공격이 있었다"며 "(점검 결과) 국정원]]></content>
     </entry>
 </feed>
