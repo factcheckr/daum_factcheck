@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-13T22:24:58.924Z</updated>
+    <updated>2024-12-13T23:23:40.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열, 12·12 담화 체크 ④]]></title>
+        <id>https://v.daum.net/v/20241214080005685</id>
+        <link href="https://v.daum.net/v/20241214080005685"/>
+        <updated>2024-12-13T23:22:51.925Z</updated>
+        <content type="html"><![CDATA["저를 탄핵하든, 수사하든 저는 이에 당당히 맞설 것입니다. 저는 이번 계엄 선포와 관련해서 법적, 정치적 책임 문제를 회피하지 않겠다고 이미 말씀드린 바 있습니다." 12.12 담화에서 윤석열 대통령은 탄핵과 수사 모든 법적 절차에 맞서고 회피하지 않겠다고 밝혔습니다. 탄핵에 동의하지 못하고, 하야할 뜻도 없음을 선언했습니다. 이런 가운데 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열, 12·12 담화 체크 ③]]></title>
         <id>https://v.daum.net/v/20241213175933310</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212185142560"/>
         <updated>2024-12-12T10:26:42.675Z</updated>
         <content type="html"><![CDATA[[앵커] 계속해서 윤 대통령의 담화문 내용 짚어보겠습니다. 윤 대통령은 비상계엄조치는 고도의 정치적 판단이었고, 이러한 고도의 통치 행위는 사법 심사 대상이 되지 않는다고 주장했는데, 과연 맞는 주장인지, 윤 대통령 담화 내용부터 보겠습니다. [하루가 멀다 하고 다수의 힘으로 입법 폭거를 일삼고 오로지 방탄에만 혈안 되어 있는 거대 야당의 의회 독재에 맞]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 12·12 담화 속 '5대 거짓말' - ③ "선관위, 데이터 조작 없다는 변명만"]]></title>
-        <id>https://v.daum.net/v/20241212183600283</id>
-        <link href="https://v.daum.net/v/20241212183600283"/>
-        <updated>2024-12-12T10:26:42.676Z</updated>
-        <content type="html"><![CDATA[[앵커] 다음은 선관위 관련 발언입니다. 윤 대통령이 상당한 비중을 둬서 발언을 했는데 검증해 볼 부분이 있습니다. 들어보겠습니다. [국정원 직원이 해커로서 해킹을 시도하자 얼마든지 데이터 조작이 가능하였고 방화벽도 사실상 없는 것이나 마찬가지였습니다. 선관위도 국정원의 보안 점검 과정에 입회하여 지켜보았지만, 자신들이 직접 데이터를 조작한 일이 없다는]]></content>
     </entry>
 </feed>
