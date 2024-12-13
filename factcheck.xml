@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-13T08:32:51.180Z</updated>
+    <updated>2024-12-13T09:26:42.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤석열, 12·12 담화 체크 ③]]></title>
+        <id>https://v.daum.net/v/20241213175933310</id>
+        <link href="https://v.daum.net/v/20241213175933310"/>
+        <updated>2024-12-13T09:25:51.661Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 12·3 비상계엄 해제 후 두 번째 담화문에서 거대 야당인 민주당의 예산 폭거에 정상적인 국정 운영이 불가능할 정도라고 토로했습니다. 그러면서 민생 치안 관련 예산을 대거 삭감한 거대야당(더불어민주당)이 반국가 세력이라고 주장했습니다. JTBC 팩트체크팀은 윤 대통령이 12·12 담화문에서 밝힌 예산 폭거에 대한 주장을 확인해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열, 12·12 담화 체크 ②]]></title>
         <id>https://v.daum.net/v/20241213102247262</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212183600283"/>
         <updated>2024-12-12T10:26:42.676Z</updated>
         <content type="html"><![CDATA[[앵커] 다음은 선관위 관련 발언입니다. 윤 대통령이 상당한 비중을 둬서 발언을 했는데 검증해 볼 부분이 있습니다. 들어보겠습니다. [국정원 직원이 해커로서 해킹을 시도하자 얼마든지 데이터 조작이 가능하였고 방화벽도 사실상 없는 것이나 마찬가지였습니다. 선관위도 국정원의 보안 점검 과정에 입회하여 지켜보았지만, 자신들이 직접 데이터를 조작한 일이 없다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 12·12 담화 속 '5대 거짓말' - ② "실무장 않은 병력으로 국회 장악?"]]></title>
-        <id>https://v.daum.net/v/20241212183037188</id>
-        <link href="https://v.daum.net/v/20241212183037188"/>
-        <updated>2024-12-12T10:26:42.679Z</updated>
-        <content type="html"><![CDATA[[앵커] 이어서 두번째론 이 발언을 팩트체크해보죠. '실무장은 하지 말라고 했다, 국회 무력화하려는 의도 아니었다'는 주장입니다. 대통령 발언 직접 들려드리겠습니다. [300명 미만의 실무장하지 않은 병력으로 그 넓디 넓은 국회 공간을 상당 기간 장악할 수 없는 것입니다. 만일 국회 기능을 마비시키려 했다면, 평일이 아닌 주말을 기해서 계엄을 발동했을 것]]></content>
     </entry>
 </feed>
