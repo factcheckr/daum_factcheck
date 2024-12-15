@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-15T21:21:59.137Z</updated>
+    <updated>2024-12-15T22:23:41.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '로또복권 1등' 당첨 조작할 수 있다?]]></title>
+        <id>https://v.daum.net/v/20241216072014795</id>
+        <link href="https://v.daum.net/v/20241216072014795"/>
+        <updated>2024-12-15T22:22:51.352Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 운이 겹쳐 돈을 많이 벌게 되는 경우에 '로또 아파트', '로또 청약' 등 로또라는 단어를 앞에 쓰는 경우가 많다. 그만큼 우리나라 사람들에게 로또복권은 일확천금의 상징인 셈이다. 이렇다 보니 조금이라도 로또복권 관련해 논란의 여지가 생기면 조작, 위변조 등 각종 설이 난무하게 된다. 과연 로또복권 1등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 윤석열 12·12 담화, 탄핵심판 늘어진다? ④]]></title>
         <id>https://v.daum.net/v/20241214080005685</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212185231567"/>
         <updated>2024-12-12T10:26:42.674Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령은 계엄을 선포할 수밖에 없었던 이유 중 하나로 선관위 문제 등을 얘기했습니다. 지난해 국정원의 선관위 점검 결과를 보고 받은 뒤 충격을 받았다며 국방 장관에게 선관위 시스템을 점검하도록 지시했다고 했습니다. 이 발언을 이번엔 다른 측면으로 짚어보겠습니다. 윤 대통령 해당 발언부터 듣고 오겠습니다. [저는 당시 대통령으로서 국정원의 보고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 12·12 담화 속 '5대 거짓말' - ④ "계엄, 헌법 틀 내 대통령 권한 행사"]]></title>
-        <id>https://v.daum.net/v/20241212185142560</id>
-        <link href="https://v.daum.net/v/20241212185142560"/>
-        <updated>2024-12-12T10:26:42.675Z</updated>
-        <content type="html"><![CDATA[[앵커] 계속해서 윤 대통령의 담화문 내용 짚어보겠습니다. 윤 대통령은 비상계엄조치는 고도의 정치적 판단이었고, 이러한 고도의 통치 행위는 사법 심사 대상이 되지 않는다고 주장했는데, 과연 맞는 주장인지, 윤 대통령 담화 내용부터 보겠습니다. [하루가 멀다 하고 다수의 힘으로 입법 폭거를 일삼고 오로지 방탄에만 혈안 되어 있는 거대 야당의 의회 독재에 맞]]></content>
     </entry>
 </feed>
