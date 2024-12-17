@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-17T01:56:18.757Z</updated>
+    <updated>2024-12-17T03:05:48.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241217112710500</id>
+        <link href="https://v.daum.net/v/20241217112710500"/>
+        <updated>2024-12-17T03:04:50.602Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;권성동 국민의힘 당 대표 권한대행 겸 원내대표가 17일 오전 서울 국회에서 열린 원내대책회의에서 윤석열 대통령 탄핵 사건을 심리할 헌법재판소 재판관 임명에 대해 한덕수 대통령 권한대행이 임명할 수 없다고 주장했다.ⓒ 유성호 ▲ 권성동 “한덕수 권한대행, 헌법재판관 임명 못 해” ⓒ 유성호 국민의힘이 윤석열 대통령 탄핵심판을 앞두고 헌법]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 바나나맛우유도 국가유산이 될 수 있다?]]></title>
         <id>https://v.daum.net/v/20241217072008950</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212204922660"/>
         <updated>2024-12-12T12:50:14.892Z</updated>
         <content type="html"><![CDATA[[앵커] 조금 전 보신 것처럼 지금 관저 앞 상황이 심각해 보이는 상황인데요. 상황은 계속해서 저희가 전해드리도록 하고요. 윤석열 대통령, 대국민 담화를 통해 직접 여러 가지 사실 관계를 설명하며, 내란 아니다, 불법 계엄 아니다, 주장했습니다. 조목조목 팩트 체크 해보겠습니다. 따져볼 대목이 한 둘이 아닌데, 우선 "2시간짜리 내란이라는 게 있느냐"는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "비상계엄=통치행위" 면죄부?…판례는 정반대]]></title>
-        <id>https://v.daum.net/v/20241212195411712</id>
-        <link href="https://v.daum.net/v/20241212195411712"/>
-        <updated>2024-12-12T11:20:22.644Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 오늘(12일) 담화를 들어보면 검찰 출신인 윤 대통령은 탄핵 심판과&nbsp;수사 과정에서&nbsp;끝까지 법리 다툼을 해보겠다는 생각이 강해 보입니다. 비상계엄 선포는 대통령의&nbsp;통치행위고, 그건&nbsp;사법심사 대상이&nbsp;되지 않는다고 강조한 것도 이런 맥락입니다. 이게 과연 맞는 말일지, 판례는 어떻게 되어있을지 팩트체크&nbsp;'사실은' 코너에서 따져봤습니다. 안상우]]></content>
     </entry>
 </feed>
