@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-17T09:27:57.489Z</updated>
+    <updated>2024-12-17T10:27:27.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 헌법재판관, 권한대행이 임명할 수 없다? '권성동 주장' 따져 보니]]></title>
+        <id>https://v.daum.net/v/20241217190054334</id>
+        <link href="https://v.daum.net/v/20241217190054334"/>
+        <updated>2024-12-17T10:26:39.529Z</updated>
+        <content type="html"><![CDATA[[앵커] 보신 것처럼 대통령이 아닌 한덕수 권한대행은 헌법재판관 임명할 수 없다는 국민의힘 권성동 원내대표, 7년 전 박근혜 전 대통령 탄핵 때는 정반대의 주장을 했습니다. 그건 야당도 마찬가지인데, 실제 법률 전문가들은 어떻게 보고 있는지 하혜빈 기자가 따져봤습니다. [기자] 여야는 한덕수 대통령 권한대행이 헌법재판관을 임명할 수 있는가를 놓고 의견이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241217112710500</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241212212024112"/>
         <updated>2024-12-12T12:50:14.892Z</updated>
         <content type="html"><![CDATA[내란죄 피의자 윤석열 대통령은 12일 대국민 담화에서 12·3 내란사태를 두고 ‘과거의 계엄과 달리 거대 야당의 망국적 행태를 상징적으로 알리기 위한 계엄이었다’는 궤변을 늘어놨다. 그의 말은 내란에 연루된 군·경·정부 관계자들 증언과는 판이하게 엇갈린다. ①국방부 장관하고만 논의했다? 윤 대통령은 이날 담화에서 “비상계엄을 준비하면서 오로지 국방장관하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '12·12 내란 담화' 속 대통령의 거짓말]]></title>
-        <id>https://v.daum.net/v/20241212204922660</id>
-        <link href="https://v.daum.net/v/20241212204922660"/>
-        <updated>2024-12-12T12:50:14.892Z</updated>
-        <content type="html"><![CDATA[[앵커] 조금 전 보신 것처럼 지금 관저 앞 상황이 심각해 보이는 상황인데요. 상황은 계속해서 저희가 전해드리도록 하고요. 윤석열 대통령, 대국민 담화를 통해 직접 여러 가지 사실 관계를 설명하며, 내란 아니다, 불법 계엄 아니다, 주장했습니다. 조목조목 팩트 체크 해보겠습니다. 따져볼 대목이 한 둘이 아닌데, 우선 "2시간짜리 내란이라는 게 있느냐"는]]></content>
     </entry>
 </feed>
