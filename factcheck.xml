@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-17T12:51:42.122Z</updated>
+    <updated>2024-12-17T13:33:45.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “‘문화의 바다’는 지방이양사업…국비 지원 부적절”]]></title>
+        <id>https://v.daum.net/v/20241217215425323</id>
+        <link href="https://v.daum.net/v/20241217215425323"/>
+        <updated>2024-12-17T13:32:57.356Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] '문화의 바다'라는 충청북도의 역점 사업이 있습니다. 도청과 도심을 연계한 지역 활성화 사업인데요. 국고 보조를 할 수 없는  '지방이양사업'이라는 감사원의 판단이 나와, 사업 추진에 빨간불이 켜졌습니다. 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 청주 원도심 활성화를 위해 충북도청 일대를 보행자 중심의 관광지로 조성하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 권성동, 권한대행은 재판관 임명 못한다?]]></title>
         <id>https://v.daum.net/v/20241217204612358</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241213102247262"/>
         <updated>2024-12-13T01:56:57.851Z</updated>
         <content type="html"><![CDATA[윤석열 대통령의 12·12 담화에서 "질서 유지를 위해 소수 병력을 잠시 투입한 것"이고 주장했습니다. "무장도 하지 않았고, 안전 유지에 최선을 다하도록 지시했다"고 설명했습니다. JTBC 팩트체크팀이 윤 대통령의 주장을 12·3 비상계엄 당시 상황 등을 통해 팩트체크했습니다. ━ 질서 유지를 위해 실무장하지 않은 소수 병력만 투입했다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '한국행 이민자' 세계 최고 수준이다?]]></title>
-        <id>https://v.daum.net/v/20241213072012292</id>
-        <link href="https://v.daum.net/v/20241213072012292"/>
-        <updated>2024-12-12T22:23:49.001Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 지난해 전 세계 주요 국가 가운데 한국으로 가는 이민자가 세계 최고 수준이라는 보도가 나오자 세간의 관심을 끌었다. 온라인 커뮤니티에서는 "원래 우리나라의 이민 제한 정책 세지 않았나", "이민자가 이렇게 많다니 실감 나지 않는다", "인구가 줄어드니 이민자 받는 게 최선이다", "지방 공장에 내려갔더니 식당에 외국인 직원]]></content>
     </entry>
 </feed>
