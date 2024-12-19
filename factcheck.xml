@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-18T23:23:09.901Z</updated>
+    <updated>2024-12-19T01:53:15.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20241219072006199"/>
         <updated>2024-12-18T22:23:03.024Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 세계에서 가장 유명한 기념일인 성탄절이 엿새 앞으로 다가왔다. 성탄절은 기독교 문화에서 비롯된 날이지만 이젠 종교적 의미를 넘어 우리나라에서도 가족과 연인들이 함께 보내는 축제로 자리 잡았다. 성탄절(聖誕節)의 말뜻은 '예수(성인)가 태어난 날'이지만, 이날은 엄밀히 말하면 예수의 탄생을 기념하고 축하하는 날일 뿐 실제로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수도권 사전투표 득표율이 다 같다고?…90%가 달랐다 [부정선거론자 주장 팩트체크]]]></title>
+        <id>https://v.daum.net/v/20241219050045342</id>
+        <link href="https://v.daum.net/v/20241219050045342"/>
+        <updated>2024-12-19T01:52:33.451Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령이 주장하는 12·3 비상계엄의 목적 중 하나는 부정선거 의혹에 대한 사실 확인이다. 그는 12일 담화에서 “이번에 국방장관에게 선관위 전산시스템을 점검하도록 지시한 것”이라고 말했다. 실제 계엄군은 선거인 명부가 보관된 중앙선관위 서버실에 가장 먼저 진입했다. 일부 극우 유튜버와 정치인이 제기해 온 부정선거 음모론이 계엄 사태의 주요 원인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 저작권료 때문에 길거리에 캐럴 사라졌다?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241216072014795"/>
         <updated>2024-12-15T22:22:51.352Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 운이 겹쳐 돈을 많이 벌게 되는 경우에 '로또 아파트', '로또 청약' 등 로또라는 단어를 앞에 쓰는 경우가 많다. 그만큼 우리나라 사람들에게 로또복권은 일확천금의 상징인 셈이다. 이렇다 보니 조금이라도 로또복권 관련해 논란의 여지가 생기면 조작, 위변조 등 각종 설이 난무하게 된다. 과연 로또복권 1등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤석열 12·12 담화, 탄핵심판 늘어진다? ④]]></title>
-        <id>https://v.daum.net/v/20241214080005685</id>
-        <link href="https://v.daum.net/v/20241214080005685"/>
-        <updated>2024-12-13T23:22:51.925Z</updated>
-        <content type="html"><![CDATA["저를 탄핵하든, 수사하든 저는 이에 당당히 맞설 것입니다. 저는 이번 계엄 선포와 관련해서 법적, 정치적 책임 문제를 회피하지 않겠다고 이미 말씀드린 바 있습니다." 12.12 담화에서 윤석열 대통령은 탄핵과 수사 모든 법적 절차에 맞서고 회피하지 않겠다고 밝혔습니다. 탄핵에 동의하지 못하고, 하야할 뜻도 없음을 선언했습니다. 이런 가운데 국]]></content>
     </entry>
 </feed>
