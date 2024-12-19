@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-19T21:21:45.910Z</updated>
+    <updated>2024-12-19T22:22:15.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 여객기 비상구 강제로 열면 중형 받는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241220072008728</id>
+        <link href="https://v.daum.net/v/20241220072008728"/>
+        <updated>2024-12-19T22:21:27.066Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 지난달 국내 공항에서 출발을 준비 중이던 여객기 내에서 한 승객이 비상구를 강제로 열어 이륙이 지연되는 등 최근 들어 여객기 비상구 관련 사고가 끊이지 않고 있다. 온라인 커뮤니티나 관련 보도의 댓글에는 "승객이 비상구를 여는 것은 고의적이기 때문에 엄벌에 처해야 한다", "이륙했는데 승객이 비상구 열면 모든 승객이 위험에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] ‘뉴진즈’로 독자 활동 나선 뉴진스 논란… 투자금 이상 벌어주면 계약해지 가능? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241219113104143</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241217112710500"/>
         <updated>2024-12-17T03:04:50.602Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;권성동 국민의힘 당 대표 권한대행 겸 원내대표가 17일 오전 서울 국회에서 열린 원내대책회의에서 윤석열 대통령 탄핵 사건을 심리할 헌법재판소 재판관 임명에 대해 한덕수 대통령 권한대행이 임명할 수 없다고 주장했다.ⓒ 유성호 ▲ 권성동 “한덕수 권한대행, 헌법재판관 임명 못 해” ⓒ 유성호 국민의힘이 윤석열 대통령 탄핵심판을 앞두고 헌법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 바나나맛우유도 국가유산이 될 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241217072008950</id>
-        <link href="https://v.daum.net/v/20241217072008950"/>
-        <updated>2024-12-16T22:22:50.222Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 반투명한 항아리 모양 용기에 초록색 뚜껑. 우리나라 사람이라면 누구나 한 번쯤 먹어봤을 빙그레의 '바나나맛우유'다. 지난 11월 빙그레는 이 바나나맛우유의 용기를 국가등록문화유산으로 올리겠다는 계획을 밝혀 세간의 화제가 됐다. 흔히 '국가 유산'이라고 하면 숭례문이나 대동여지도처럼 역사적 가치를 지닌 사적·유물을 떠올리기]]></content>
     </entry>
 </feed>
