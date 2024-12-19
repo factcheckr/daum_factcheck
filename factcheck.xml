@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-19T01:53:15.540Z</updated>
+    <updated>2024-12-19T03:01:38.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] ‘뉴진즈’로 독자 활동 나선 뉴진스 논란… 투자금 이상 벌어주면 계약해지 가능?]]></title>
+        <id>https://v.daum.net/v/20241219113104143</id>
+        <link href="https://v.daum.net/v/20241219113104143"/>
+        <updated>2024-12-19T03:00:53.336Z</updated>
+        <content type="html"><![CDATA[최근 유명 걸그룹 뉴진스가 소속사인 어도어를 상대로 ‘전속계약을 해지하겠다’고 선언했다. 그러면서 “이미 투자금을 초과하는 이익을 어도어와 하이브에 돌려주었다”고 했다. 어도어는 국내 최대 연예기획사 하이브의 주요 레이블(계열사) 중 하나다. 어도어의 유일한 소속 아티스트는 뉴진스다. 이에 대해 어도어 측은 전속계약이 여전히 유효하다고 주장하며 전속계약 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 성탄절에 예수가 태어난 게 아니다?]]></title>
         <id>https://v.daum.net/v/20241219072006199</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241217072008950"/>
         <updated>2024-12-16T22:22:50.222Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 반투명한 항아리 모양 용기에 초록색 뚜껑. 우리나라 사람이라면 누구나 한 번쯤 먹어봤을 빙그레의 '바나나맛우유'다. 지난 11월 빙그레는 이 바나나맛우유의 용기를 국가등록문화유산으로 올리겠다는 계획을 밝혀 세간의 화제가 됐다. 흔히 '국가 유산'이라고 하면 숭례문이나 대동여지도처럼 역사적 가치를 지닌 사적·유물을 떠올리기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '로또복권 1등' 당첨 조작할 수 있다?]]></title>
-        <id>https://v.daum.net/v/20241216072014795</id>
-        <link href="https://v.daum.net/v/20241216072014795"/>
-        <updated>2024-12-15T22:22:51.352Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 운이 겹쳐 돈을 많이 벌게 되는 경우에 '로또 아파트', '로또 청약' 등 로또라는 단어를 앞에 쓰는 경우가 많다. 그만큼 우리나라 사람들에게 로또복권은 일확천금의 상징인 셈이다. 이렇다 보니 조금이라도 로또복권 관련해 논란의 여지가 생기면 조작, 위변조 등 각종 설이 난무하게 된다. 과연 로또복권 1등]]></content>
     </entry>
 </feed>
