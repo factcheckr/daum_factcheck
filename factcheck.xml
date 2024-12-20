@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-20T12:44:07.845Z</updated>
+    <updated>2024-12-20T13:27:31.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] ‘화훼 농가’ 폭설 피해 큰 데…“재해보험 구멍”]]></title>
+        <id>https://v.daum.net/v/20241220214451703</id>
+        <link href="https://v.daum.net/v/20241220214451703"/>
+        <updated>2024-12-20T13:26:46.885Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 오늘 밤에도 눈 소식이 있는데 지난 폭설에  큰 피해를 입은 중부권의 최대 화훼 생산지, 음성 지역에서는 여전히 복구가 진행 중입니다. 그런데  농작물재해보험 적용도 제대로 받지 못해  어려움을 겪는 농가가 많다고 합니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 지난달 폭설 피해를 본 음성의 한 화훼 농장. 엿가락처럼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 여객기 비상구 강제로 열면 중형 받는다?]]></title>
         <id>https://v.daum.net/v/20241220072008728</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241217190054334"/>
         <updated>2024-12-17T10:26:39.529Z</updated>
         <content type="html"><![CDATA[[앵커] 보신 것처럼 대통령이 아닌 한덕수 권한대행은 헌법재판관 임명할 수 없다는 국민의힘 권성동 원내대표, 7년 전 박근혜 전 대통령 탄핵 때는 정반대의 주장을 했습니다. 그건 야당도 마찬가지인데, 실제 법률 전문가들은 어떻게 보고 있는지 하혜빈 기자가 따져봤습니다. [기자] 여야는 한덕수 대통령 권한대행이 헌법재판관을 임명할 수 있는가를 놓고 의견이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["권한대행은 헌법재판관 임명 못 한다" 권성동 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20241217112710500</id>
-        <link href="https://v.daum.net/v/20241217112710500"/>
-        <updated>2024-12-17T03:04:50.602Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;권성동 국민의힘 당 대표 권한대행 겸 원내대표가 17일 오전 서울 국회에서 열린 원내대책회의에서 윤석열 대통령 탄핵 사건을 심리할 헌법재판소 재판관 임명에 대해 한덕수 대통령 권한대행이 임명할 수 없다고 주장했다.ⓒ 유성호 ▲ 권성동 “한덕수 권한대행, 헌법재판관 임명 못 해” ⓒ 유성호 국민의힘이 윤석열 대통령 탄핵심판을 앞두고 헌법]]></content>
     </entry>
 </feed>
