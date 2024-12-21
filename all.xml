@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-21T18:29:06.260Z</updated>
+    <updated>2024-12-21T19:17:21.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 요즘 많이 먹는 귤과 딸기에 관한 오해와 진실 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241222035100720</id>
+        <link href="https://v.daum.net/v/20241222035100720"/>
+        <updated>2024-12-21T19:16:35.878Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 12월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] ‘화훼 농가’ 폭설 피해 큰데…“재해보험 구멍” (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241220214451703</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241217195929412"/>
         <updated>2024-12-17T11:20:28.200Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] '문화의 바다'라는 충청북도의 역점 사업이 있습니다. 도청과 도심을 연계한 지역 활성화 사업인데요. 국고 보조를 할 수 없는  '지방이양사업'이라는 감사원의 판단이 나와, 사업 추진에 빨간불이 켜졌습니다. 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 청주 원도심 활성화를 위해 충북도청 일대를 보행자 중심의 관광지로 조성하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 헌법재판관, 권한대행이 임명할 수 없다? '권성동 주장' 따져 보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241217190054334</id>
-        <link href="https://v.daum.net/v/20241217190054334"/>
-        <updated>2024-12-17T10:26:39.529Z</updated>
-        <content type="html"><![CDATA[[앵커] 보신 것처럼 대통령이 아닌 한덕수 권한대행은 헌법재판관 임명할 수 없다는 국민의힘 권성동 원내대표, 7년 전 박근혜 전 대통령 탄핵 때는 정반대의 주장을 했습니다. 그건 야당도 마찬가지인데, 실제 법률 전문가들은 어떻게 보고 있는지 하혜빈 기자가 따져봤습니다. [기자] 여야는 한덕수 대통령 권한대행이 헌법재판관을 임명할 수 있는가를 놓고 의견이]]></content>
     </entry>
 </feed>
