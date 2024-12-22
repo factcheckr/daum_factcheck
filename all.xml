@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-22T21:20:43.685Z</updated>
+    <updated>2024-12-22T22:21:27.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 겨울마다 쌓이는 눈, 누가 치워야 하나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241223072006621</id>
+        <link href="https://v.daum.net/v/20241223072006621"/>
+        <updated>2024-12-22T22:20:38.140Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 겨울에 내리는 눈은 반갑기도 하지만 귀찮기도 하다. 차도에 쌓인 눈으로 차들이 엉금엉금 갈 수밖에 없고 추돌 사고가 날 위험도 있기 때문이다. 보행자들도 마찬가지다. 발걸음을 내디딜 때마다 신발이 젖기 일쑤고 눈길에 엉덩방아를 찧을 수도 있다. 지난달 말 수도권 폭설 사태처럼 많은 눈이 내릴 경우 스키를 타고 출근하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '비혼 출생' 사회적 화두로…'혼외자' 용어가 편견 조장? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241222201213957</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241217215425323"/>
         <updated>2024-12-17T13:32:57.356Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] '문화의 바다'라는 충청북도의 역점 사업이 있습니다. 도청과 도심을 연계한 지역 활성화 사업인데요. 국고 보조를 할 수 없는  '지방이양사업'이라는 감사원의 판단이 나와, 사업 추진에 빨간불이 켜졌습니다. 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 청주 원도심 활성화를 위해 충북도청 일대를 보행자 중심의 관광지로 조성하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 권성동, 권한대행은 재판관 임명 못한다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241217204612358</id>
-        <link href="https://v.daum.net/v/20241217204612358"/>
-        <updated>2024-12-17T12:50:57.664Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ "대통령 권한대행은 대통령 직무정지 시 헌법재판관을 임명할 수 없다"고 한 권성동 국민의힘 원내대표. 그런데 본인이 탄핵소추위원장이었던 박근혜 전 대통령 탄핵소추 당시에는 지금과 말이 완전히 달랐습니다. 후임 헌법재판관 임명 절차가 빨리 이뤄져야 한다고 촉구하고 나섰던 건데요. 권성동 원내대표의 달라진 말을 팩트체크 알고보니에서]]></content>
     </entry>
 </feed>
