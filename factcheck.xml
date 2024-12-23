@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-23T22:21:42.816Z</updated>
+    <updated>2024-12-23T23:21:50.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 커피값이 세계적으로 비싸다?]]></title>
+        <id>https://v.daum.net/v/20241224072009224</id>
+        <link href="https://v.daum.net/v/20241224072009224"/>
+        <updated>2024-12-23T23:21:01.015Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 커피 원두 가격이 가파르게 오른다는 보도가 이어지자 일상에서 커피 한 잔의 여유를 즐기는 직장인들이 사이에서 "이젠 커피도 줄여야 하는 것 아닌가?"라는 우려가 커지고 있다. 특히 우리나라의 커피값이 다른 나라에 비해 비싸다는 이야기가 온라인 커뮤니티 등에서 제기되면서 경제적 부담이 크다는 인식도 적지 않게 퍼져 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 조선일보가 띄우고 정부여당이 받고…"특검법 위헌" 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20241223194727405</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241219050045342"/>
         <updated>2024-12-19T01:52:33.451Z</updated>
         <content type="html"><![CDATA[윤석열 대통령이 주장하는 12·3 비상계엄의 목적 중 하나는 부정선거 의혹에 대한 사실 확인이다. 그는 12일 담화에서 “이번에 국방장관에게 선관위 전산시스템을 점검하도록 지시한 것”이라고 말했다. 실제 계엄군은 선거인 명부가 보관된 중앙선관위 서버실에 가장 먼저 진입했다. 일부 극우 유튜버와 정치인이 제기해 온 부정선거 음모론이 계엄 사태의 주요 원인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 저작권료 때문에 길거리에 캐럴 사라졌다?]]></title>
-        <id>https://v.daum.net/v/20241218072008075</id>
-        <link href="https://v.daum.net/v/20241218072008075"/>
-        <updated>2024-12-17T22:22:59.228Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 크리스마스가 가까워지는 12월, 길거리에서 캐럴을 들을 수 없는 이유가 정말 저작권료 때문일까? 1990년대, '길보드'(길거리에서 불법 복제 음반을 판매하던 노점상)가 성행하던 시절에는 해마다 이맘때쯤 거리에서 울려 퍼지는 캐럴 덕분에 연말 분위기가 물씬 풍기곤 했다. 그러나 이러한 음반 판매 리어카들이 사라지고, 일반]]></content>
     </entry>
 </feed>
