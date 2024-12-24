@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-24T08:29:38.143Z</updated>
+    <updated>2024-12-24T09:24:08.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“아이유·홍준표 미국 입국 못하게”···보수층 퍼지는 ‘CIA 신고 운동’[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241224181050326</id>
+        <link href="https://v.daum.net/v/20241224181050326"/>
+        <updated>2024-12-24T09:23:15.317Z</updated>
+        <content type="html"><![CDATA[일부 보수 지지자들 사이에서 윤석열 대통령 탄핵 촉구 집회를 지지한 연예인 등 유명인을 상대로 한 ‘CIA(미국 중앙정보국) 신고 운동’이 벌어지고 있다. ‘종북세력·반미주의자’로 몰아 미국 입국심사를 까다롭게 하거나 무비자 입국 프로그램 발급을 막기 위한 것이다. 하지만 이 같은 움직임은 실효성이 없는 행위인 것으로 확인됐다. 24일 경향신문 취재 결과,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 커피값이 세계적으로 비싸다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241224072009224</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241219072006199"/>
         <updated>2024-12-18T22:23:03.024Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 세계에서 가장 유명한 기념일인 성탄절이 엿새 앞으로 다가왔다. 성탄절은 기독교 문화에서 비롯된 날이지만 이젠 종교적 의미를 넘어 우리나라에서도 가족과 연인들이 함께 보내는 축제로 자리 잡았다. 성탄절(聖誕節)의 말뜻은 '예수(성인)가 태어난 날'이지만, 이날은 엄밀히 말하면 예수의 탄생을 기념하고 축하하는 날일 뿐 실제로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수도권 사전투표 득표율이 다 같다고?…90%가 달랐다 [부정선거론자 주장 팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241219050045342</id>
-        <link href="https://v.daum.net/v/20241219050045342"/>
-        <updated>2024-12-19T01:52:33.451Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 주장하는 12·3 비상계엄의 목적 중 하나는 부정선거 의혹에 대한 사실 확인이다. 그는 12일 담화에서 “이번에 국방장관에게 선관위 전산시스템을 점검하도록 지시한 것”이라고 말했다. 실제 계엄군은 선거인 명부가 보관된 중앙선관위 서버실에 가장 먼저 진입했다. 일부 극우 유튜버와 정치인이 제기해 온 부정선거 음모론이 계엄 사태의 주요 원인]]></content>
     </entry>
 </feed>
