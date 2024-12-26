@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-26T10:24:15.833Z</updated>
+    <updated>2024-12-26T11:19:15.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 외신이 계엄 사태에 대해 "민주주의 작동" 보도?]]></title>
+        <id>https://v.daum.net/v/20241226194047023</id>
+        <link href="https://v.daum.net/v/20241226194047023"/>
+        <updated>2024-12-26T11:18:30.201Z</updated>
+        <content type="html"><![CDATA[[앵커] 또 한 가지 팩트체크해보겠습니다. 김용현 전 장관 측은 외신들이 계엄 선포부터 해제된 지금까지 상황 전체를 "민주주의 작동"이라고 보도한다고 주장했습니다. 그러나 외신들이 말하는 한국의 민주주의에 계엄 선포는 포함돼 있지 않습니다. 서울외신기자클럽은 "윤 대통령의 계엄 선포는 민주주의를 부정하는 행위라고 보도해 왔다"는 입장을 JTBC에 전해왔습]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 국회 비상조치가 대통령의 고유권한?]]></title>
+        <id>https://v.daum.net/v/20241226193518950</id>
+        <link href="https://v.daum.net/v/20241226193518950"/>
+        <updated>2024-12-26T11:18:30.201Z</updated>
+        <content type="html"><![CDATA[[앵커] 지금부터는 김용현 전 장관 측의 주장, 하나씩 팩트체크해보겠습니다. 계엄군의 국회 난입에 대해 "국회를 중심으로 한 비상조치는 대통령의 고유 권한"이라고 주장했습니다. 그러나 헌법이나 법률 어디에도 그런 권한은 없습니다. 오히려 과거 신군부 판결 때 '국헌문란' 행위이고 시도만으로 처벌될 수 있다고 결론 난 내용입니다. 유선의 기자의 팩트체크입니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김용현 변호인의 '부정선거' 주장, 윤석열 판박이... 다 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20241226180604146</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241222201213957"/>
         <updated>2024-12-22T11:16:29.608Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 최근 배우 정우성이 모델 문가비와 혼인하지 않고 아들을 낳으면서 '비혼 출산'이 사회적 화두로 떠올랐는데요. 우리 사회에서 가족의 전통적인 관념을 다시 한번 돌아보게 만드는 계기도 됐습니다. '혼외자'라는 단어가 부정적 인식을 부추기고 있다는 지적도 있는데, 박혜빈 기자가 사실확인에서 알아봤습니다. 【 기자 】 청룡영화상 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 요즘 많이 먹는 귤과 딸기에 관한 오해와 진실]]></title>
-        <id>https://v.daum.net/v/20241222035100720</id>
-        <link href="https://v.daum.net/v/20241222035100720"/>
-        <updated>2024-12-21T19:16:35.878Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2024년 12월 21일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] ‘화훼 농가’ 폭설 피해 큰데…“재해보험 구멍”]]></title>
-        <id>https://v.daum.net/v/20241220214451703</id>
-        <link href="https://v.daum.net/v/20241220214451703"/>
-        <updated>2024-12-20T13:26:46.885Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 오늘 밤에도 눈 소식이 있는데 지난 폭설에  큰 피해를 입은 중부권의 최대 화훼 생산지, 음성 지역에서는 여전히 복구가 진행 중입니다. 그런데  농작물재해보험 적용도 제대로 받지 못해  어려움을 겪는 농가가 많다고 합니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 지난달 폭설 피해를 본 음성의 한 화훼 농장. 엿가락처럼]]></content>
     </entry>
 </feed>
