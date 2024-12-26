@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-26T08:29:17.210Z</updated>
+    <updated>2024-12-26T09:24:03.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용현 변호인의 '부정선거' 주장, 윤석열 판박이... 다 거짓 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20241226180604146</id>
+        <link href="https://v.daum.net/v/20241226180604146"/>
+        <updated>2024-12-26T09:23:21.343Z</updated>
+        <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;김용현 전 국방부 장관 변호인단인 유승수(오른쪽), 이하상 변호사가 26일 오전 서울 서초구 한국컨퍼런스센터에서 기자회견을 하고 있다.ⓒ 연합뉴스12·3 내란 사태의 핵심 인물인 김용현 전 국방부 장관이 26일 변호인단을 통해 "(계엄 선포는)대한민국 선거에 관한 국민적 의혹을 해소하고 규명하기 위함"이라며 "중앙선거관리위원회(선관위)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 30대 결혼이 대세다?]]></title>
         <id>https://v.daum.net/v/20241226072009731</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[&lt;앵커&gt; 선거관리위원회가 국가정보원의 보안점검에 제대로 응하지 않았다, 윤석열 대통령이 비상계엄을 선포한 이유 가운데 하나로 부정선거 의혹을 제시하며 말한 내용이죠. 극우 유튜버들도 계속해서 같은 주장을 하고 있는데, 과연 이 말들이 맞는 건지 팩트체크 사실은 코너에서 따져봤습니다.&nbsp; 안상우 기자입니다. &lt;기자&gt; 윤석열 대통령은 지난]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아이유·홍준표 미국 입국 못하게”···보수층 퍼지는 ‘CIA 신고 운동’[팩트체크]]]></title>
+        <title type="html"><![CDATA[“아이유·홍준표 미국 입국 못 하게”···보수층 퍼지는 ‘CIA 신고 운동’[팩트체크]]]></title>
         <id>https://v.daum.net/v/20241224181050326</id>
         <link href="https://v.daum.net/v/20241224181050326"/>
         <updated>2024-12-24T09:23:15.317Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241220214451703"/>
         <updated>2024-12-20T13:26:46.885Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 오늘 밤에도 눈 소식이 있는데 지난 폭설에  큰 피해를 입은 중부권의 최대 화훼 생산지, 음성 지역에서는 여전히 복구가 진행 중입니다. 그런데  농작물재해보험 적용도 제대로 받지 못해  어려움을 겪는 농가가 많다고 합니다. 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 지난달 폭설 피해를 본 음성의 한 화훼 농장. 엿가락처럼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 여객기 비상구 강제로 열면 중형 받는다?]]></title>
-        <id>https://v.daum.net/v/20241220072008728</id>
-        <link href="https://v.daum.net/v/20241220072008728"/>
-        <updated>2024-12-19T22:21:27.066Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 지난달 국내 공항에서 출발을 준비 중이던 여객기 내에서 한 승객이 비상구를 강제로 열어 이륙이 지연되는 등 최근 들어 여객기 비상구 관련 사고가 끊이지 않고 있다. 온라인 커뮤니티나 관련 보도의 댓글에는 "승객이 비상구를 여는 것은 고의적이기 때문에 엄벌에 처해야 한다", "이륙했는데 승객이 비상구 열면 모든 승객이 위험에]]></content>
     </entry>
 </feed>
