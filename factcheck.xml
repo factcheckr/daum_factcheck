@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2024-12-26T21:21:12.878Z</updated>
+    <updated>2024-12-26T22:21:56.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 넘쳐나는 '지라시', 단순 유포는 괜찮다?]]></title>
+        <id>https://v.daum.net/v/20241227072008530</id>
+        <link href="https://v.daum.net/v/20241227072008530"/>
+        <updated>2024-12-26T22:21:11.905Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 지난달 롯데그룹이 모라토리엄(지급유예)을 선언하고 전체 직원의 50% 이상 감원이 예상된다는 내용의 지라시(정보지)가 온라인상에 퍼져 곤욕을 치렀다. 이로 인해 계열사 주가가 폭락해 하루 만에 시가총액이 약 6천억원 증발하자 롯데 측은 반박 자료를 내고 경찰에 지라시 작성 및 유포자에 대한 수사를 의뢰했다. 지난달 배우 정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 외신이 계엄 사태에 대해 "민주주의 작동" 보도?]]></title>
         <id>https://v.daum.net/v/20241226194047023</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241223072006621"/>
         <updated>2024-12-22T22:20:38.140Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 겨울에 내리는 눈은 반갑기도 하지만 귀찮기도 하다. 차도에 쌓인 눈으로 차들이 엉금엉금 갈 수밖에 없고 추돌 사고가 날 위험도 있기 때문이다. 보행자들도 마찬가지다. 발걸음을 내디딜 때마다 신발이 젖기 일쑤고 눈길에 엉덩방아를 찧을 수도 있다. 지난달 말 수도권 폭설 사태처럼 많은 눈이 내릴 경우 스키를 타고 출근하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '비혼 출생' 사회적 화두로…'혼외자' 용어가 편견 조장?]]></title>
-        <id>https://v.daum.net/v/20241222201213957</id>
-        <link href="https://v.daum.net/v/20241222201213957"/>
-        <updated>2024-12-22T11:16:29.608Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 최근 배우 정우성이 모델 문가비와 혼인하지 않고 아들을 낳으면서 '비혼 출산'이 사회적 화두로 떠올랐는데요. 우리 사회에서 가족의 전통적인 관념을 다시 한번 돌아보게 만드는 계기도 됐습니다. '혼외자'라는 단어가 부정적 인식을 부추기고 있다는 지적도 있는데, 박혜빈 기자가 사실확인에서 알아봤습니다. 【 기자 】 청룡영화상 시]]></content>
     </entry>
 </feed>
