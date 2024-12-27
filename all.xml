@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-27T10:24:02.680Z</updated>
+    <updated>2024-12-27T11:19:18.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 경제 불안은 탄핵 때문? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241227201311919</id>
+        <link href="https://v.daum.net/v/20241227201311919"/>
+        <updated>2024-12-27T11:18:36.400Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이렇게 치솟은 환율과 어려운 경제를 두고 국민의힘은, 내란죄 피의자를 문제 삼는 게 아니라 탄핵 심판을 지연시키면서 불확실성을 증폭시켰던 한덕수 총리에 대해 야당이 탄핵소추안을 발의했기 때문이라고 주장했죠. 최근 경제 불안의 원인이 내란이 아니라 야당에 있다는 주장인데요. 이런 주장을 그대로 퍼나르는 이들도 있는데, 과연 맞는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 넘쳐나는 '지라시', 단순 유포는 괜찮다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241227072008530</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20241223194727405"/>
         <updated>2024-12-23T11:18:40.156Z</updated>
         <content type="html"><![CDATA[[앵커] "특검법에 위헌 소지가 있다" 보수매체가 이런 식의 기사를 쓰고 국민의힘이, 또 정부가 같은 주장을 하는 게 반복되고 있습니다. 이 주장 맞는 건지, 유선의 기자와 따져보겠습니다. 유 기자, 주말부터 보이더군요? 아침에 이런 기사가 나오면 곧바로 여권에서 똑같은 얘기를 하는 식으로요. [기자] 네, 지난 21일 토요일 자 조선일보를 보겠습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 겨울마다 쌓이는 눈, 누가 치워야 하나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241223072006621</id>
-        <link href="https://v.daum.net/v/20241223072006621"/>
-        <updated>2024-12-22T22:20:38.140Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 겨울에 내리는 눈은 반갑기도 하지만 귀찮기도 하다. 차도에 쌓인 눈으로 차들이 엉금엉금 갈 수밖에 없고 추돌 사고가 날 위험도 있기 때문이다. 보행자들도 마찬가지다. 발걸음을 내디딜 때마다 신발이 젖기 일쑤고 눈길에 엉덩방아를 찧을 수도 있다. 지난달 말 수도권 폭설 사태처럼 많은 눈이 내릴 경우 스키를 타고 출근하는]]></content>
     </entry>
 </feed>
