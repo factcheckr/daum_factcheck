@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-31T10:24:21.531Z</updated>
+    <updated>2024-12-31T11:18:49.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '콘크리트 둔덕' 문제없다? '재질·위치' 규정 따져 보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241231200542458</id>
+        <link href="https://v.daum.net/v/20241231200542458"/>
+        <updated>2024-12-31T11:18:07.675Z</updated>
+        <content type="html"><![CDATA[[앵커] 정부는 '콘크리트 둔덕이라 해도, 활주로 끝에서 충분히 떨어져 있기 때문에, 규정상 문제가 없다'는 입장입니다. 정말 그런지, 여러 지침을 근거로 따져봤습니다. 박준우 기자가 팩트체크 해드립니다. [기자] 쟁점 중 하나는 참사를 키운 콘크리트 둔덕이 안전상 장애물 없이 평평해야 하는 활주로 종단안전구역 안에 있었느냐입니다. 착륙을 유도해 주는 로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이 영장은 불법? 쇼핑하듯 청구?…윤 대통령 측 '궤변들' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20241231192811889</id>
+        <link href="https://v.daum.net/v/20241231192811889"/>
+        <updated>2024-12-31T11:18:07.676Z</updated>
+        <content type="html"><![CDATA[[앵커] 궤변으로 여론전을 펴는 윤석열 대통령 측의 주장을 하나하나 하나하나 팩트체크해 바로 잡아보겠습니다. 법조팀 박병현 기자가 나와 있습니다. 박 기자, 윤석열 대통령 변호인 윤갑근 변호사가 법원에서 발부한 체포영장을 불법이라고 단정 지었는데 이 주장부터 따져보죠. [기자] &lt; 불법 영장? &gt; 윤갑근 변호사는 경찰과 공수처가 공조수사본부를 꾸린 걸 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 폭설로 지각·결근하면 면책된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20241231072005598</id>
@@ -59,19 +73,5 @@
         <link href="https://v.daum.net/v/20241226193518950"/>
         <updated>2024-12-26T11:18:30.201Z</updated>
         <content type="html"><![CDATA[[앵커] 지금부터는 김용현 전 장관 측의 주장, 하나씩 팩트체크해보겠습니다. 계엄군의 국회 난입에 대해 "국회를 중심으로 한 비상조치는 대통령의 고유 권한"이라고 주장했습니다. 그러나 헌법이나 법률 어디에도 그런 권한은 없습니다. 오히려 과거 신군부 판결 때 '국헌문란' 행위이고 시도만으로 처벌될 수 있다고 결론 난 내용입니다. 유선의 기자의 팩트체크입니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용현 변호인의 '부정선거' 주장, 윤석열 판박이... 다 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241226180604146</id>
-        <link href="https://v.daum.net/v/20241226180604146"/>
-        <updated>2024-12-26T09:23:21.343Z</updated>
-        <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;김용현 전 국방부 장관 변호인단인 유승수(오른쪽), 이하상 변호사가 26일 오전 서울 서초구 한국컨퍼런스센터에서 기자회견을 하고 있다.ⓒ 연합뉴스12·3 내란 사태의 핵심 인물인 김용현 전 국방부 장관이 26일 변호인단을 통해 "(계엄 선포는)대한민국 선거에 관한 국민적 의혹을 해소하고 규명하기 위함"이라며 "중앙선거관리위원회(선관위)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 30대 결혼이 대세다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20241226072009731</id>
-        <link href="https://v.daum.net/v/20241226072009731"/>
-        <updated>2024-12-25T22:21:04.928Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 미혼 남녀가 늘면서 대기업뿐만 아니라 중소기업에서도 20대에 결혼한 직원을 찾아보기 어렵다는 말이 많이 나오고 있다. 우리나라 남녀의 초혼 연령이 30대 초반으로 높아졌다는 언론 보도가 나오자 기사 댓글과 온라인 커뮤니티 등에는 "우리 회사도 대부분 30대에 결혼하더라", "20대 때 돈 벌어서 결혼하기는 불가능하다"]]></content>
     </entry>
 </feed>
