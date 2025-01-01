@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-01T22:21:40.215Z</updated>
+    <updated>2025-01-01T23:22:00.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 연말연시 술자리…소주 2병을 마셔도 덜 취한다?]]></title>
+        <id>https://v.daum.net/v/20250102072007921</id>
+        <link href="https://v.daum.net/v/20250102072007921"/>
+        <updated>2025-01-01T23:21:12.060Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피하려 해도 송년회 등으로 술자리에 한두 번은 참석하게 된다. 오랜만에 술을 마시다 보면 가끔 자신이 예전보다 술이 세졌다고 '착각'할 수 있다. 소주 2병을 마셨는데도 별로 취하지 않은 자신을 발견했을 때처럼 말이다. 이는 그동안 운동을 열심히 한 덕분일까? 사실 그보다는 과거 도수가 높았던]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '콘크리트 둔덕' 문제없다? '재질·위치' 규정 따져 보니]]></title>
         <id>https://v.daum.net/v/20241231200542458</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241226194047023"/>
         <updated>2024-12-26T11:18:30.201Z</updated>
         <content type="html"><![CDATA[[앵커] 또 한 가지 팩트체크해보겠습니다. 김용현 전 장관 측은 외신들이 계엄 선포부터 해제된 지금까지 상황 전체를 "민주주의 작동"이라고 보도한다고 주장했습니다. 그러나 외신들이 말하는 한국의 민주주의에 계엄 선포는 포함돼 있지 않습니다. 서울외신기자클럽은 "윤 대통령의 계엄 선포는 민주주의를 부정하는 행위라고 보도해 왔다"는 입장을 JTBC에 전해왔습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국회 비상조치가 대통령의 고유권한?]]></title>
-        <id>https://v.daum.net/v/20241226193518950</id>
-        <link href="https://v.daum.net/v/20241226193518950"/>
-        <updated>2024-12-26T11:18:30.201Z</updated>
-        <content type="html"><![CDATA[[앵커] 지금부터는 김용현 전 장관 측의 주장, 하나씩 팩트체크해보겠습니다. 계엄군의 국회 난입에 대해 "국회를 중심으로 한 비상조치는 대통령의 고유 권한"이라고 주장했습니다. 그러나 헌법이나 법률 어디에도 그런 권한은 없습니다. 오히려 과거 신군부 판결 때 '국헌문란' 행위이고 시도만으로 처벌될 수 있다고 결론 난 내용입니다. 유선의 기자의 팩트체크입니]]></content>
     </entry>
 </feed>
