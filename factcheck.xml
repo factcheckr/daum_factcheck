@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-04T22:20:52.559Z</updated>
+    <updated>2025-01-04T23:22:15.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 제주항공 여객기 사고를 전한 언론의 재난보도 문제점]]></title>
+        <id>https://v.daum.net/v/20250105072509336</id>
+        <link href="https://v.daum.net/v/20250105072509336"/>
+        <updated>2025-01-04T23:21:30.550Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 1월 4일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '탄핵 절차'에 문제 있다? 윤 대통령 측 답변서 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20250103203725928</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241230075818778"/>
         <updated>2024-12-29T23:20:37.744Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 쌍둥이를 넘어 삼둥이, 사둥이에 오둥이까지, 출산율이 바닥을 치는 요즘에도 다태아 출산 소식은 끊이지 않고 있습니다. 예전보다 주변에 쌍둥이가 많다고 느끼는 분들도 적지 않은데요. 출산율은 저조한데, 다태아는 늘었다, 정말 그럴까요? 최은미 기자가 '사실확인'해봤습니다. 【 기자 】 "아빠 사랑해요" 하나도 둘도 아니고,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '한국 최고층' 롯데월드타워 얼마나 비쌀까?]]></title>
-        <id>https://v.daum.net/v/20241230072013278</id>
-        <link href="https://v.daum.net/v/20241230072013278"/>
-        <updated>2024-12-29T23:20:37.744Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 롯데그룹이 국내 최고층 빌딩인 롯데월드타워를 은행권에 담보로 제공하기로 하면서 온라인 커뮤니티와 관련 기사의 댓글에는 이 빌딩의 값어치를 놓고 각종 의견이 쏟아졌다. 높이 555m, 123층에 달하는 우리나라 랜드마크 빌딩이라는 점에서 롯데월드타워는 꾸준히 국민의 관심을 받아왔다. 롯데월드타워는 처음에 공개됐을 때는]]></content>
     </entry>
 </feed>
