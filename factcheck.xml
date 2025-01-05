@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-05T22:21:02.368Z</updated>
+    <updated>2025-01-05T23:21:20.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 항공기 블랙박스는 검은색이 아니다?]]></title>
+        <id>https://v.daum.net/v/20250106072008807</id>
+        <link href="https://v.daum.net/v/20250106072008807"/>
+        <updated>2025-01-05T23:20:27.726Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 제주항공 참사의 원인 규명에 있어 핵심 역할을 하게될 블랙박스의 모습을 보면 '블랙'(black)이라는 명칭과 달리 실제로는 주황색이다. 언론 등에서는 이 블랙박스를 두고 '비행기록장치'(FDR)라고도 하고 '음성기록장치'(CVR)라고도 부른다. 그렇다면 비행기 블랙박스는 언제 주황색으로 바뀌었고, 구체적으로 어떤 장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내란죄 빼면 탄핵소추 무효? "붙든 안붙든 헌재가 판단할 일" [팩트체크]]]></title>
         <id>https://v.daum.net/v/20250106050028142</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241231200542458"/>
         <updated>2024-12-31T11:18:07.675Z</updated>
         <content type="html"><![CDATA[[앵커] 정부는 '콘크리트 둔덕이라 해도, 활주로 끝에서 충분히 떨어져 있기 때문에, 규정상 문제가 없다'는 입장입니다. 정말 그런지, 여러 지침을 근거로 따져봤습니다. 박준우 기자가 팩트체크 해드립니다. [기자] 쟁점 중 하나는 참사를 키운 콘크리트 둔덕이 안전상 장애물 없이 평평해야 하는 활주로 종단안전구역 안에 있었느냐입니다. 착륙을 유도해 주는 로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 불법 영장? 쇼핑하듯 청구?…윤 대통령 측 '궤변들']]></title>
-        <id>https://v.daum.net/v/20241231192811889</id>
-        <link href="https://v.daum.net/v/20241231192811889"/>
-        <updated>2024-12-31T11:18:07.676Z</updated>
-        <content type="html"><![CDATA[[앵커] 궤변으로 여론전을 펴는 윤석열 대통령 측의 주장을 하나하나 하나하나 팩트체크해 바로 잡아보겠습니다. 법조팀 박병현 기자가 나와 있습니다. 박 기자, 윤석열 대통령 변호인 윤갑근 변호사가 법원에서 발부한 체포영장을 불법이라고 단정 지었는데 이 주장부터 따져보죠. [기자] &lt; 불법 영장? &gt; 윤갑근 변호사는 경찰과 공수처가 공조수사본부를 꾸린 걸 ']]></content>
     </entry>
 </feed>
