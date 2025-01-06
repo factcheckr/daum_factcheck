@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-06T21:21:57.827Z</updated>
+    <updated>2025-01-06T22:22:13.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국은 정말 부동산의 나라인가?]]></title>
+        <id>https://v.daum.net/v/20250107072010829</id>
+        <link href="https://v.daum.net/v/20250107072010829"/>
+        <updated>2025-01-06T22:21:23.481Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 전통적으로 가장 중요한 자산으로 주택이나 토지, 즉 부동산을 선호해왔다. 과거에는 집과 토지가 유일한 자산이었기 때문이다. 근래 들어 주식이나 가상화폐, 채권 등 다양한 금융 자산이 나왔지만 아직까지 우리나라에서는 부동산이 자산 1순위라는 인식이 저변에 깔려있다. 최근 우리나라 한 가구당 부동산 자산이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '내란죄 철회'로 탄핵 사유가 달라졌다?]]></title>
         <id>https://v.daum.net/v/20250106204013835</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250102140007627"/>
         <updated>2025-01-02T05:22:17.181Z</updated>
         <content type="html"><![CDATA[한덕수 국무총리는 탄핵 전 "여야 '합의'가 될 때까지 헌법재판관의 임명을 보류하겠다"고 밝혔습니다. 그러면서 "역대 헌법재판관 중 여야 합의 없이 임명된 사례가 없다"고도 주장했습니다. “만약 불가피하게 이런 권한을 행사해야 한다면 국민의 대표인 국회에서 여야 합의가 먼저 이루어지는 것이 지금까지 우리 헌정사에서 단 한 번도 깨진 적 없는 관례라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 연말연시 술자리…소주 2병을 마셔도 덜 취한다?]]></title>
-        <id>https://v.daum.net/v/20250102072007921</id>
-        <link href="https://v.daum.net/v/20250102072007921"/>
-        <updated>2025-01-01T23:21:12.060Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피하려 해도 송년회 등으로 술자리에 한두 번은 참석하게 된다. 오랜만에 술을 마시다 보면 가끔 자신이 예전보다 술이 세졌다고 '착각'할 수 있다. 소주 2병을 마셨는데도 별로 취하지 않은 자신을 발견했을 때처럼 말이다. 이는 그동안 운동을 열심히 한 덕분일까? 사실 그보다는 과거 도수가 높았던]]></content>
     </entry>
 </feed>
