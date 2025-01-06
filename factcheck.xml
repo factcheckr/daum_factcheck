@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-06T11:19:29.908Z</updated>
+    <updated>2025-01-06T12:46:34.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '내란죄 철회'로 탄핵 사유가 달라졌다?]]></title>
+        <id>https://v.daum.net/v/20250106204013835</id>
+        <link href="https://v.daum.net/v/20250106204013835"/>
+        <updated>2025-01-06T12:45:46.403Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 대통령 변호인단과 여당의 주장은 국회가 탄핵안의 내용을 바꾸려면, 의결부터 다시 해야 한다는 겁니다. 팩트체크 &lt;알고보니&gt;에서 지난 두 차례 헌재 변론기일의 내용과 전례를 통해, 맞는 얘기인지 알아봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 국회는 크게 두 가지 탄핵 사유를 들었습니다. 비상계엄 선포의 위헌과 위법, 그리고 내란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 항공기 블랙박스는 검은색이 아니다?]]></title>
         <id>https://v.daum.net/v/20250106072008807</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250102072007921"/>
         <updated>2025-01-01T23:21:12.060Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 연말연시가 되면 저녁 약속을 피하려 해도 송년회 등으로 술자리에 한두 번은 참석하게 된다. 오랜만에 술을 마시다 보면 가끔 자신이 예전보다 술이 세졌다고 '착각'할 수 있다. 소주 2병을 마셨는데도 별로 취하지 않은 자신을 발견했을 때처럼 말이다. 이는 그동안 운동을 열심히 한 덕분일까? 사실 그보다는 과거 도수가 높았던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '콘크리트 둔덕' 문제없다? '재질·위치' 규정 따져 보니]]></title>
-        <id>https://v.daum.net/v/20241231200542458</id>
-        <link href="https://v.daum.net/v/20241231200542458"/>
-        <updated>2024-12-31T11:18:07.675Z</updated>
-        <content type="html"><![CDATA[[앵커] 정부는 '콘크리트 둔덕이라 해도, 활주로 끝에서 충분히 떨어져 있기 때문에, 규정상 문제가 없다'는 입장입니다. 정말 그런지, 여러 지침을 근거로 따져봤습니다. 박준우 기자가 팩트체크 해드립니다. [기자] 쟁점 중 하나는 참사를 키운 콘크리트 둔덕이 안전상 장애물 없이 평평해야 하는 활주로 종단안전구역 안에 있었느냐입니다. 착륙을 유도해 주는 로]]></content>
     </entry>
 </feed>
