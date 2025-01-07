@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-07T21:22:39.616Z</updated>
+    <updated>2025-01-07T22:23:05.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 연말정산은 정말 '13월의 월급'일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250108072017225</id>
+        <link href="https://v.daum.net/v/20250108072017225"/>
+        <updated>2025-01-07T22:22:09.094Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인들은 아직 작년과 결별하기 이르다. 이른바 '13월의 월급'이라 불리는 연말정산이 곧 시작되기 때문이다. 연말연시 각종 모임이 잦고 설 명절 준비로 지출이 부담스러운 이들에게 연말정산 환급액은 달콤한 '용돈'처럼 여겨지곤 한다. 하지만 연말정산이 꼭 세금을 돌려받는 절차일까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250108054201734</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250103203725928"/>
         <updated>2025-01-03T12:44:07.137Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령이 헌법재판소에 처음으로 낸 이 40쪽짜리의 답변서, 팩트체크 해드릴 내용이 꽤 많습니다. 이어서 스튜디오에서 좀 더 따져보겠습니다. 유선의 기자, 윤석열 대통령 측 주장 바로 팩트체크해보죠. 첫 번째로 탄핵소추 절차에 문제가 있다는거죠. [기자] 네, 국회법 제130조 제1항을 들고 나왔습니다. 탄핵소추가 발의되면 국회의장은 처음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 제주항공 참사 구조 도중 소방관 순직했다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250103092734451</id>
-        <link href="https://v.daum.net/v/20250103092734451"/>
-        <updated>2025-01-03T01:46:19.401Z</updated>
-        <content type="html"><![CDATA[(무안=연합뉴스) 장지현 이성민 기자 = 제주항공 참사를 수습하던 소방관이 순직했다는 내용의 영상이 소셜네트워크서비스(SNS)를 통해 확산하고 있다. 순직했다는 소방관의 이름을 거론하며 실제 있었던 일인 것처럼 영상은 소개하고 있지만, 이는 사실이 아닌 것으로 드러났다. 3일 소방청에 따르면 최근 한 유튜브 채널에 '무안공항의 마지막 손길'이라는 제목의 영]]></content>
     </entry>
 </feed>
