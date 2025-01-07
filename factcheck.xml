@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-07T20:25:22.518Z</updated>
+    <updated>2025-01-07T21:22:39.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["비상계엄, 신의 한 수"는 김형석 명예교수 사칭 글  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250108054201734</id>
+        <link href="https://v.daum.net/v/20250108054201734"/>
+        <updated>2025-01-07T21:21:47.649Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;보수우파 유튜버인 ‘이호근방송’은 지난 12월 24일 &lt;'비상계엄은 신의 한수였다' 김형석 연세대학교 명예교수의 주장&gt;이라는 제목의 영상에서 김형석 교수가 "비상계엄은 대한민국의 치부를 드러낸 신의 한 수였다"고 밝혔다고 주장했지만, 해당 대목은 다른 사람이 쓴 글을 짜깁기한 것이었다.ⓒ 오마이뉴스원로 철학자인 김형석 연세대 철학과 명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '개인 사병' 전락한 경호처‥폐지가 답?]]></title>
         <id>https://v.daum.net/v/20250107200112047</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250103092734451"/>
         <updated>2025-01-03T01:46:19.401Z</updated>
         <content type="html"><![CDATA[(무안=연합뉴스) 장지현 이성민 기자 = 제주항공 참사를 수습하던 소방관이 순직했다는 내용의 영상이 소셜네트워크서비스(SNS)를 통해 확산하고 있다. 순직했다는 소방관의 이름을 거론하며 실제 있었던 일인 것처럼 영상은 소개하고 있지만, 이는 사실이 아닌 것으로 드러났다. 3일 소방청에 따르면 최근 한 유튜브 채널에 '무안공항의 마지막 손길'이라는 제목의 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 외국인이 국내 주택 대거 사들였다?]]></title>
-        <id>https://v.daum.net/v/20250103072010376</id>
-        <link href="https://v.daum.net/v/20250103072010376"/>
-        <updated>2025-01-02T22:21:13.186Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 언론 보도를 보면 외국인들이 서울 강남의 아파트를 사들이고 있다는 보도가 심심치 않게 나오고 있다. 국내 장기 체류 외국인이 200만명에 달하는 시대에 외국인들이 국내 주택을 소유하는 것 자체가 문제 될 건 없다. 하지만 실거주용 주택 보유와 달리 일부 외국인이 국내 법규의 허점을 이용해 부동산 투기를 하는 경우가]]></content>
     </entry>
 </feed>
