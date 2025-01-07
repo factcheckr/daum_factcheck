@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-07T10:26:45.904Z</updated>
+    <updated>2025-01-07T11:19:30.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '개인 사병' 전락한 경호처‥폐지가 답?]]></title>
+        <id>https://v.daum.net/v/20250107200112047</id>
+        <link href="https://v.daum.net/v/20250107200112047"/>
+        <updated>2025-01-07T11:18:46.159Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이처럼 대통령 경호처가 정당한 법 집행을 근거 없이 완강히 거부하며 일부 수뇌부에 의해 사실상 '개인 사병'으로 전락하자, 경호처를 이대로 놔둬도 되느냐는 지적이 줄을 잇고 있습니다. 그런데 미국을 비롯한 세계 주요 국가를 살펴보면, 우리처럼 사유화될 수 있는 경호처 형태를 찾아보긴 어렵습니다. 이번 사태로 자멸하고 있는 경호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국은 정말 부동산의 나라인가?]]></title>
         <id>https://v.daum.net/v/20250107072010829</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250103072010376"/>
         <updated>2025-01-02T22:21:13.186Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 언론 보도를 보면 외국인들이 서울 강남의 아파트를 사들이고 있다는 보도가 심심치 않게 나오고 있다. 국내 장기 체류 외국인이 200만명에 달하는 시대에 외국인들이 국내 주택을 소유하는 것 자체가 문제 될 건 없다. 하지만 실거주용 주택 보유와 달리 일부 외국인이 국내 법규의 허점을 이용해 부동산 투기를 하는 경우가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 헌법재판관 임명에 여야 합의 필수다?]]></title>
-        <id>https://v.daum.net/v/20250102140007627</id>
-        <link href="https://v.daum.net/v/20250102140007627"/>
-        <updated>2025-01-02T05:22:17.181Z</updated>
-        <content type="html"><![CDATA[한덕수 국무총리는 탄핵 전 "여야 '합의'가 될 때까지 헌법재판관의 임명을 보류하겠다"고 밝혔습니다. 그러면서 "역대 헌법재판관 중 여야 합의 없이 임명된 사례가 없다"고도 주장했습니다. “만약 불가피하게 이런 권한을 행사해야 한다면 국민의 대표인 국회에서 여야 합의가 먼저 이루어지는 것이 지금까지 우리 헌정사에서 단 한 번도 깨진 적 없는 관례라]]></content>
     </entry>
 </feed>
