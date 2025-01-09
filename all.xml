@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-09T09:24:53.705Z</updated>
+    <updated>2025-01-09T10:25:28.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤 대통령 지지율, 한 달 사이 22.1%p 급등? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250109191444937</id>
+        <link href="https://v.daum.net/v/20250109191444937"/>
+        <updated>2025-01-09T10:24:31.976Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 법치를 무너뜨리는 발언을 더욱 거침없이 쏟아내는 것도, 국민의힘과 정부 기관이 이를 비호하고 나서는 것도, 최근 지지율이 올랐다는 판단 때문으로 보입니다. 실제 한 달 사이 지지율이 20%P 넘게 올랐다는 보도들이 나오고 이를 대통령 지지층이 적극적으로 퍼 나르고 있는데 저희가 취재해 보니 해당 여론조사를 한 조사기관조차도 그렇]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '허위 영상물' 딥페이크는 10대 청소년이 만든다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250109072008555</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250106043033967"/>
         <updated>2025-01-05T20:22:26.546Z</updated>
         <content type="html"><![CDATA[국회 탄핵소추단이 윤석열 대통령 탄핵소추 사유에서 내란죄를 철회한 것을 두고 대통령실과 여당이 공세를 퍼붓고 있다. 사실과 다른 얘기들까지 나오며 논란에 불이 붙는 모양새다. 5일 법조계에 따르면, 탄핵소추단은 이달 3일 열린 2차 변론준비기일에서 윤 대통령 탄핵안에서 '12·3 불법계엄' 관련 내란죄, 직권남용권리행사죄, 특수공무집행방해죄 등 형법상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 제주항공 여객기 사고를 전한 언론의 재난보도 문제점 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250105072509336</id>
-        <link href="https://v.daum.net/v/20250105072509336"/>
-        <updated>2025-01-04T23:21:30.550Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 1월 4일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허위]]></content>
     </entry>
 </feed>
