@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-10T11:19:39.267Z</updated>
+    <updated>2025-01-10T12:45:51.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["탄핵집회에 중국인 대거 참석" 주장, 검증해보니  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250110210002961</id>
+        <link href="https://v.daum.net/v/20250110210002961"/>
+        <updated>2025-01-10T12:45:02.863Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;‘윤석열 즉각퇴진 사회대개혁 4차 범시민대행진’이 2024년 12월 28일 오후 서울 광화문 앞에서 윤석열퇴진 비상행동 주최로 열린 가운데, 참가자들이 응원봉 불빛을 밝히며 행진을 시작하고 있다.ⓒ 권우성국민의힘 친윤석열계 국회의원들이 최근 "윤석열 탄핵 찬성 집회에 중국인이 대거 참여하고 있다"면서 이른바 '반중 정서' 확산에 앞장서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 공조본의 윤석열 체포 시도가 망신주기다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250110160007665</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250106072008807"/>
         <updated>2025-01-05T23:20:27.726Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 제주항공 참사의 원인 규명에 있어 핵심 역할을 하게될 블랙박스의 모습을 보면 '블랙'(black)이라는 명칭과 달리 실제로는 주황색이다. 언론 등에서는 이 블랙박스를 두고 '비행기록장치'(FDR)라고도 하고 '음성기록장치'(CVR)라고도 부른다. 그렇다면 비행기 블랙박스는 언제 주황색으로 바뀌었고, 구체적으로 어떤 장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내란죄 빼면 탄핵소추 무효? "붙든 안붙든 헌재가 판단할 일" [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250106050028142</id>
-        <link href="https://v.daum.net/v/20250106050028142"/>
-        <updated>2025-01-05T20:22:26.545Z</updated>
-        <content type="html"><![CDATA[국회 탄핵소추단이 지난 3일 윤석열 대통령에 대한 탄핵소추 혐의 중 형법상 내란죄 부분을 제외하겠다고 밝히면서 논란이 커지고 있다. 윤 대통령 측은 “탄핵소추 의결서 내용을 바꾸는 것이니 국회의 의결을 새로 받아야 한다”며 강력 반발했다. 정치적 의도도 문제지만 법적으로 가능한지 여부도 논쟁거리다. 양측의 주장을 따져봤다. ━ ①국회의 탄핵소추 사유,]]></content>
     </entry>
 </feed>
