@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-12T22:21:06.527Z</updated>
+    <updated>2025-01-12T23:21:28.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '근태 불량' 사회복무요원은 현역 재입대한다?]]></title>
+        <id>https://v.daum.net/v/20250113072013907</id>
+        <link href="https://v.daum.net/v/20250113072013907"/>
+        <updated>2025-01-12T23:20:36.644Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 사회복무요원 복무 기간 당시 부실 근무 의혹을 받는 그룹 '위너'의 송민호에 대한 논란이 가시지 않고 있다. 송씨는 공황장애 등으로 4급 보충역 판정을 받고 재작년 3월부터 지난달 23일까지 서울 마포구의 한 주민편의시설에서 복무했지만, 건강상 이유 등을 들며 잦은 무단결근과 업무 태만을 했다는 혐의로 입건돼 경찰 조사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 오송참사 수사 결과, 논란 계속…남은 쟁점은?]]></title>
         <id>https://v.daum.net/v/20250110220808675</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250107072010829"/>
         <updated>2025-01-06T22:21:23.481Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들은 전통적으로 가장 중요한 자산으로 주택이나 토지, 즉 부동산을 선호해왔다. 과거에는 집과 토지가 유일한 자산이었기 때문이다. 근래 들어 주식이나 가상화폐, 채권 등 다양한 금융 자산이 나왔지만 아직까지 우리나라에서는 부동산이 자산 1순위라는 인식이 저변에 깔려있다. 최근 우리나라 한 가구당 부동산 자산이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '내란죄 철회'로 탄핵 사유가 달라졌다?]]></title>
-        <id>https://v.daum.net/v/20250106204013835</id>
-        <link href="https://v.daum.net/v/20250106204013835"/>
-        <updated>2025-01-06T12:45:46.403Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 대통령 변호인단과 여당의 주장은 국회가 탄핵안의 내용을 바꾸려면, 의결부터 다시 해야 한다는 겁니다. 팩트체크 &lt;알고보니&gt;에서 지난 두 차례 헌재 변론기일의 내용과 전례를 통해, 맞는 얘기인지 알아봤습니다. 이준범 기자입니다. ◀ 리포트 ▶ 국회는 크게 두 가지 탄핵 사유를 들었습니다. 비상계엄 선포의 위헌과 위법, 그리고 내란]]></content>
     </entry>
 </feed>
