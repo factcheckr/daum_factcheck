@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-13T22:20:39.797Z</updated>
+    <updated>2025-01-13T23:21:11.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '오겜2'는 정말 우리나라 전통놀이인가?(종합) (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250114080935242</id>
+        <link href="https://v.daum.net/v/20250114080935242"/>
+        <updated>2025-01-13T23:20:18.573Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 드라마 '오징어 게임' 시즌 2가 전작에 이어 세계적인 인기를 끌면서 이번에도 드라마 속 게임들이 외국인들의 높은 관심을 받고 있다. 우선 전작에도 나온 바 있는 '무궁화꽃이 피었습니다'가 드라마 초반부를 장식했고, 드라마 중반엔 '5인 6각' 경기로 딱지치기, 비석 치기, 공기놀이, 팽이치기, 제기차기 등 게임 5개가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 과잉수사 남발 '무제한' 특검?…근거 부족한 '위헌' 주장 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250113194050483</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250108054201734"/>
         <updated>2025-01-07T21:21:47.649Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;보수우파 유튜버인 ‘이호근방송’은 지난 12월 24일 &lt;'비상계엄은 신의 한수였다' 김형석 연세대학교 명예교수의 주장&gt;이라는 제목의 영상에서 김형석 교수가 "비상계엄은 대한민국의 치부를 드러낸 신의 한 수였다"고 밝혔다고 주장했지만, 해당 대목은 다른 사람이 쓴 글을 짜깁기한 것이었다.ⓒ 오마이뉴스[기사 수정 : 1월 8일 오전 11시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '개인 사병' 전락한 경호처‥폐지가 답? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250107200112047</id>
-        <link href="https://v.daum.net/v/20250107200112047"/>
-        <updated>2025-01-07T11:18:46.159Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 이처럼 대통령 경호처가 정당한 법 집행을 근거 없이 완강히 거부하며 일부 수뇌부에 의해 사실상 '개인 사병'으로 전락하자, 경호처를 이대로 놔둬도 되느냐는 지적이 줄을 잇고 있습니다. 그런데 미국을 비롯한 세계 주요 국가를 살펴보면, 우리처럼 사유화될 수 있는 경호처 형태를 찾아보긴 어렵습니다. 이번 사태로 자멸하고 있는 경호]]></content>
     </entry>
 </feed>
