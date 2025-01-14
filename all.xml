@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-14T21:21:45.251Z</updated>
+    <updated>2025-01-14T22:22:08.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 10억원 이상 있으면 한국에서 부자다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250115072012271</id>
+        <link href="https://v.daum.net/v/20250115072012271"/>
+        <updated>2025-01-14T22:21:20.629Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 매년 금융사들이 부자를 분석하는 보고서를 낼 때마다 온라인 커뮤니티에서는 과연 몇억원 정도가 있어야 우리나라에서 부자라고 할 수 있는지가 화제에 오른다. 부자 보고서의 관련 기사 댓글에는 "강남 30평대 아파트에 고급 외제 승용차 정도는 있어야 한다", "금융 자산이 최소 10억원 이상이 돼야 한다", "세금은 1년에 억원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '정진석 호소문' 팩트체크‥윤석열은 억울한 피해자? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250114201314429</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250109072008555"/>
         <updated>2025-01-08T22:21:14.193Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리가 일상에서 접하는 유튜브나 인스타그램 등을 볼 때마다 이게 진짜가 맞냐는 생각이 들 때가 있다. 그만큼 최근 들어 딥페이크(허위 영상물)가 많아져 소셜미디어(SNS) 동영상도 믿기 힘든 시대가 됐기 때문이다. 특히 최근에는 연예인 얼굴 등을 교묘하게 딥페이크로 편집하는 성범죄도 발생해 정부가 대대적인 단속에 나서고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 연말정산은 정말 '13월의 월급'일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250108072017225</id>
-        <link href="https://v.daum.net/v/20250108072017225"/>
-        <updated>2025-01-07T22:22:09.094Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 2025년 새해가 밝은지도 일주일이 지났지만 직장인들은 아직 작년과 결별하기 이르다. 이른바 '13월의 월급'이라 불리는 연말정산이 곧 시작되기 때문이다. 연말연시 각종 모임이 잦고 설 명절 준비로 지출이 부담스러운 이들에게 연말정산 환급액은 달콤한 '용돈'처럼 여겨지곤 한다. 하지만 연말정산이 꼭 세금을 돌려받는 절차일까]]></content>
     </entry>
 </feed>
