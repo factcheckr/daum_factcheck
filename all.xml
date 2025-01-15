@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-15T08:28:52.154Z</updated>
+    <updated>2025-01-15T09:23:46.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250115180908329</id>
+        <link href="https://v.daum.net/v/20250115180908329"/>
+        <updated>2025-01-15T09:23:02.569Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;12.3 내란 우두머리 피의자 윤석열 대통령이 공수처와 경찰에 체포된 뒤 그의 페이스북 계정에 올라온 육필 원고.ⓒ 윤석열 페이스북"살인범을 특정하지 못해서, 살인사건을 음모론이라고 우기는 여론 조성 역시, 투개표 부정선거 시스템의 한 축을 구성합니다." 내란 우두머리 혐의로 체포돼 고위공직자범죄수사처(공수처)에서 조사를 받고 있는 윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "체포영장 절차 무효, 불법" 거짓 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250115133302463</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250110210002961"/>
         <updated>2025-01-10T12:45:02.863Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;‘윤석열 즉각퇴진 사회대개혁 4차 범시민대행진’이 2024년 12월 28일 오후 서울 광화문 앞에서 윤석열퇴진 비상행동 주최로 열린 가운데, 참가자들이 응원봉 불빛을 밝히며 행진을 시작하고 있다.ⓒ 권우성국민의힘 친윤석열계 국회의원들이 최근 "윤석열 탄핵 찬성 집회에 중국인이 대거 참여하고 있다"면서 이른바 '반중 정서' 확산에 앞장서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공조본의 윤석열 체포 시도가 망신주기다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250110160007665</id>
-        <link href="https://v.daum.net/v/20250110160007665"/>
-        <updated>2025-01-10T07:21:40.423Z</updated>
-        <content type="html"><![CDATA[“체포에 굉장히 집착하고 있는 이유는 망신주기 이상의 것이 아니다. 저는 그렇게 봅니다." (1월 8일, 윤석열 탄핵심판 대리인단 기자 간담회 중 윤갑근 변호사 발언) 8일 윤석열 탄핵심판 법률대리인단은 기자 간담회를 열어 "(공조수사본부가) 체포에 집착하는 것은 망신주기"라고 주장했습니다. 체포영장 집행이 내란 혐의에 대한 조사보다 윤 대통령에]]></content>
     </entry>
 </feed>
