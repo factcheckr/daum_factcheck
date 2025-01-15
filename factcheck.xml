@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-15T04:26:52.670Z</updated>
+    <updated>2025-01-15T05:23:10.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[체포 직전 "영장무효" 외친 윤 대통령… "법원이 세 번 인정" 거짓]]></title>
+        <id>https://v.daum.net/v/20250115133302463</id>
+        <link href="https://v.daum.net/v/20250115133302463"/>
+        <updated>2025-01-15T05:22:25.030Z</updated>
+        <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;윤석열 대통령이 15일 공수처 출석 관련 대국민 담화를 하고 있다. 대통령실 제공.ⓒ 연합뉴스내란죄 혐의를 받는 윤석열 대통령이 15일 사상 처음 현직 대통령 신분으로 수사기관에 체포되기 직전 영상 메시지에서 "이 나라는 법이 모두 무너졌다"라며 "불법의 불법의 불법이 자행되고 무효인 체포영장에 의한 절차"라고 주장했지만, 이는 사실이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 1월 31일도 임시공휴일?…알고보니 가짜뉴스]]></title>
         <id>https://v.daum.net/v/20250115095438392</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250110160007665"/>
         <updated>2025-01-10T07:21:40.423Z</updated>
         <content type="html"><![CDATA[“체포에 굉장히 집착하고 있는 이유는 망신주기 이상의 것이 아니다. 저는 그렇게 봅니다." (1월 8일, 윤석열 탄핵심판 대리인단 기자 간담회 중 윤갑근 변호사 발언) 8일 윤석열 탄핵심판 법률대리인단은 기자 간담회를 열어 "(공조수사본부가) 체포에 집착하는 것은 망신주기"라고 주장했습니다. 체포영장 집행이 내란 혐의에 대한 조사보다 윤 대통령에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤 대통령 지지율, 한 달 사이 22.1%p 급등?]]></title>
-        <id>https://v.daum.net/v/20250109191444937</id>
-        <link href="https://v.daum.net/v/20250109191444937"/>
-        <updated>2025-01-09T10:24:31.976Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤석열 대통령이 법치를 무너뜨리는 발언을 더욱 거침없이 쏟아내는 것도, 국민의힘과 정부 기관이 이를 비호하고 나서는 것도, 최근 지지율이 올랐다는 판단 때문으로 보입니다. 실제 한 달 사이 지지율이 20%P 넘게 올랐다는 보도들이 나오고 이를 대통령 지지층이 적극적으로 퍼 나르고 있는데 저희가 취재해 보니 해당 여론조사를 한 조사기관조차도 그렇]]></content>
     </entry>
 </feed>
