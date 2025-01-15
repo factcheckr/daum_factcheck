@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-15T09:23:46.992Z</updated>
+    <updated>2025-01-15T10:24:16.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "유혈사태 막기 위해 불법이지만 응한다"? 따져본 '말말말' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250115184208003</id>
+        <link href="https://v.daum.net/v/20250115184208003"/>
+        <updated>2025-01-15T10:23:25.206Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤 대통령이 쏟아낸 발언들, 바로 팩트체크해 드리겠습니다. 일단 '유혈사태 막기 위해 응한다'는 말부터 사실과 다릅니다. 애초 경호처를 사병처럼 부리며 충돌을 무릅쓰게 한 것도 대통령이고, 오늘(15일)은 경호관들이 길을 터주며 협조해주고 있던 상황이었습니다. 강희연 기자입니다. [기자] [불미스러운 유혈사태를 막기 위해서 일단 불법 수사이긴 하지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250115180908329</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250110220808675"/>
         <updated>2025-01-10T13:27:14.196Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 오송 지하차도 참사와 관련해 중대재해처벌법 위반 혐의로 고발된 김영환 지사는 불기소, 이범석 청주시장은 기소 처분을 받았는데요. 엇갈린 수사 결론에 논란이 계속되고 있습니다. 앞으로 남은 재판과 재수사 과정에서는 어떤 부분이 핵심 쟁점이 될까요? 팩트체크 K, 송근섭 기자가 짚어봤습니다. [리포트] 이범석 청주시장과 김영환 지사의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["탄핵집회에 중국인 대거 참석" 주장, 검증해보니  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250110210002961</id>
-        <link href="https://v.daum.net/v/20250110210002961"/>
-        <updated>2025-01-10T12:45:02.863Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;‘윤석열 즉각퇴진 사회대개혁 4차 범시민대행진’이 2024년 12월 28일 오후 서울 광화문 앞에서 윤석열퇴진 비상행동 주최로 열린 가운데, 참가자들이 응원봉 불빛을 밝히며 행진을 시작하고 있다.ⓒ 권우성국민의힘 친윤석열계 국회의원들이 최근 "윤석열 탄핵 찬성 집회에 중국인이 대거 참여하고 있다"면서 이른바 '반중 정서' 확산에 앞장서]]></content>
     </entry>
 </feed>
