@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-15T21:20:40.605Z</updated>
+    <updated>2025-01-15T22:21:37.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이젠 한강에서 썰매를 탈 수 없다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250116072007496</id>
+        <link href="https://v.daum.net/v/20250116072007496"/>
+        <updated>2025-01-15T22:20:44.082Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 과거 한겨울이면 꽁꽁 얼어붙은 한강 위에서 시민들이 썰매를 타곤 했다는 이야기가 전해 내려온다. 하지만 언젠가부터 얼어붙은 한강에서 아이들이 뛰어노는 장면은 상상하기 쉽지 않다. 지난 10일 서울의 최저기온이 영하 12도까지 내려가고 체감기온은 영하 21.7도에 달하는 '냉동고 추위'에도 한강은 얼지 않았다. 왜 한강은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "유혈사태 막기 위해 불법이지만 응한다"? 따져본 '말말말' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250115184208003</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250113072013907"/>
         <updated>2025-01-12T23:20:36.644Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 사회복무요원 복무 기간 당시 부실 근무 의혹을 받는 그룹 '위너'의 송민호에 대한 논란이 가시지 않고 있다. 송씨는 공황장애 등으로 4급 보충역 판정을 받고 재작년 3월부터 지난달 23일까지 서울 마포구의 한 주민편의시설에서 복무했지만, 건강상 이유 등을 들며 잦은 무단결근과 업무 태만을 했다는 혐의로 입건돼 경찰 조사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 오송참사 수사 결과, 논란 계속…남은 쟁점은? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250110220808675</id>
-        <link href="https://v.daum.net/v/20250110220808675"/>
-        <updated>2025-01-10T13:27:14.196Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 오송 지하차도 참사와 관련해 중대재해처벌법 위반 혐의로 고발된 김영환 지사는 불기소, 이범석 청주시장은 기소 처분을 받았는데요. 엇갈린 수사 결론에 논란이 계속되고 있습니다. 앞으로 남은 재판과 재수사 과정에서는 어떤 부분이 핵심 쟁점이 될까요? 팩트체크 K, 송근섭 기자가 짚어봤습니다. [리포트] 이범석 청주시장과 김영환 지사의]]></content>
     </entry>
 </feed>
