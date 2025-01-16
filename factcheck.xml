@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-16T22:21:30.857Z</updated>
+    <updated>2025-01-16T23:23:03.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '한국인의 추억' 공중전화가 거리서 사라진다?]]></title>
+        <id>https://v.daum.net/v/20250117072014977</id>
+        <link href="https://v.daum.net/v/20250117072014977"/>
+        <updated>2025-01-16T23:22:17.486Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 거리를 지나다 보면 우체통과 함께 이용하는 사람이 거의 없어 이제는 애물단지 취급을 받는 공용 시설이 있다. 바로 공중전화다. 1980~90년대만 해도 공중전화부스에 길게 늘어선 대기 행렬뿐만 아니라 앞사람이 전화를 오래 건다고 시비가 붙는 경우도 적지 않았다. 하지만 휴대전화의 등장으로 2000년대 들어 인기가 시들해진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 공수처가 '관저 출입허가 공문' 조작? 윤 측 주장 따져보니]]></title>
         <id>https://v.daum.net/v/20250116192913513</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250114201314429"/>
         <updated>2025-01-14T11:18:08.847Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 정진석 비서실장은 '호소문'이라고 이름 붙인 이 장문의 글에서 시종일관 윤 대통령이 억울한 피해자인 것처럼 주장했는데요. 수사기관이 유독 윤 대통령에게만 가혹한 건지, 아니면 윤 대통령만 유별난 특혜를 누리고 있는 건지, 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 정진석 대통령비서실장은 윤석열 대통령의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '오겜2'는 정말 우리나라 전통놀이인가?(종합)]]></title>
-        <id>https://v.daum.net/v/20250114080935242</id>
-        <link href="https://v.daum.net/v/20250114080935242"/>
-        <updated>2025-01-13T23:20:18.573Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 드라마 '오징어 게임' 시즌 2가 전작에 이어 세계적인 인기를 끌면서 이번에도 드라마 속 게임들이 외국인들의 높은 관심을 받고 있다. 우선 전작에도 나온 바 있는 '무궁화꽃이 피었습니다'가 드라마 초반부를 장식했고, 드라마 중반엔 '5인 6각' 경기로 딱지치기, 비석 치기, 공기놀이, 팽이치기, 제기차기 등 게임 5개가]]></content>
     </entry>
 </feed>
