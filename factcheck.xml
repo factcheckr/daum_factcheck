@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-16T09:23:59.010Z</updated>
+    <updated>2025-01-16T10:24:40.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은]업비트, 문 닫는다(?)… 신규 회원만 코인 입출금 3개월 정지]]></title>
+        <id>https://v.daum.net/v/20250116191957351</id>
+        <link href="https://v.daum.net/v/20250116191957351"/>
+        <updated>2025-01-16T10:23:52.229Z</updated>
+        <content type="html"><![CDATA[두나무가 운영하는 국내 1위 코인 거래소 업비트. /사진=뉴스1IT 기업 두나무가 운영하는 국내 1위 가상자산 거래소 '업비트'가 금융당국의 갑작스러운 제재 위기에 봉착했다. 제재가 현실화되면 신규 고객 유입에 차질이 생길 수 있지만 업비트는 성실하게 소명해 문제를 해결하겠다는 입장이다. 16일 금융권에 따르면 업비트는 지난 9일 금융위원회 금융정보분석원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이젠 한강에서 썰매를 탈 수 없다?]]></title>
         <id>https://v.daum.net/v/20250116072007496</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250113194050483"/>
         <updated>2025-01-13T11:19:12.571Z</updated>
         <content type="html"><![CDATA[[앵커] 보신 것처럼 국민의힘은 내란 특검법에 포함된 '외환죄'를 문제 삼으며 수사 범위가 지나치게 넓다, 군사 기밀까지 유출될 수 있다며 반발하고 있습니다. 그러나 과거 특검 사례와 헌법재판소 판단 등을 살펴보면 이런 주장은 근거가 부족합니다. 최규진 기자의 팩트체크입니다. [기자] 야권이 공동발의한 내란특검법을 두고 여당은 무제한 특검이라며 위헌이라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '근태 불량' 사회복무요원은 현역 재입대한다?]]></title>
-        <id>https://v.daum.net/v/20250113072013907</id>
-        <link href="https://v.daum.net/v/20250113072013907"/>
-        <updated>2025-01-12T23:20:36.644Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 사회복무요원 복무 기간 당시 부실 근무 의혹을 받는 그룹 '위너'의 송민호에 대한 논란이 가시지 않고 있다. 송씨는 공황장애 등으로 4급 보충역 판정을 받고 재작년 3월부터 지난달 23일까지 서울 마포구의 한 주민편의시설에서 복무했지만, 건강상 이유 등을 들며 잦은 무단결근과 업무 태만을 했다는 혐의로 입건돼 경찰 조사를]]></content>
     </entry>
 </feed>
