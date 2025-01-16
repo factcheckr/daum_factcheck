@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-16T10:24:40.229Z</updated>
+    <updated>2025-01-16T11:18:51.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사실은]업비트, 문 닫는다(?)… 신규 회원만 코인 입출금 3개월 정지]]></title>
+        <title type="html"><![CDATA[[팩트체크] 공수처가 '관저 출입허가 공문' 조작? 윤 측 주장 따져보니]]></title>
+        <id>https://v.daum.net/v/20250116192913513</id>
+        <link href="https://v.daum.net/v/20250116192913513"/>
+        <updated>2025-01-16T11:17:58.484Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤 대통령 측은 체포 과정에 반발하면서 공수처가 육군 55경비단에게 받은 '출입 허가 공문'을 문제 삼고 있습니다. 이게 조작된 공문이고, 도장도 강압적으로 받았다는 게 윤 대통령 측 주장인데, 저희가 육군에 확인해 보니 사실이 아니었습니다. 조보경 기자의 팩트체크입니다. [기자] 윤석열 대통령에 대한 2차 체포영장 집행 전날, 공수처가 55경비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사실은]업비트, 문 닫는다?… 신규 회원만 코인 입출금 3개월 정지]]></title>
         <id>https://v.daum.net/v/20250116191957351</id>
         <link href="https://v.daum.net/v/20250116191957351"/>
         <updated>2025-01-16T10:23:52.229Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250114080935242"/>
         <updated>2025-01-13T23:20:18.573Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 드라마 '오징어 게임' 시즌 2가 전작에 이어 세계적인 인기를 끌면서 이번에도 드라마 속 게임들이 외국인들의 높은 관심을 받고 있다. 우선 전작에도 나온 바 있는 '무궁화꽃이 피었습니다'가 드라마 초반부를 장식했고, 드라마 중반엔 '5인 6각' 경기로 딱지치기, 비석 치기, 공기놀이, 팽이치기, 제기차기 등 게임 5개가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 과잉수사 남발 '무제한' 특검?…근거 부족한 '위헌' 주장]]></title>
-        <id>https://v.daum.net/v/20250113194050483</id>
-        <link href="https://v.daum.net/v/20250113194050483"/>
-        <updated>2025-01-13T11:19:12.571Z</updated>
-        <content type="html"><![CDATA[[앵커] 보신 것처럼 국민의힘은 내란 특검법에 포함된 '외환죄'를 문제 삼으며 수사 범위가 지나치게 넓다, 군사 기밀까지 유출될 수 있다며 반발하고 있습니다. 그러나 과거 특검 사례와 헌법재판소 판단 등을 살펴보면 이런 주장은 근거가 부족합니다. 최규진 기자의 팩트체크입니다. [기자] 야권이 공동발의한 내란특검법을 두고 여당은 무제한 특검이라며 위헌이라고]]></content>
     </entry>
 </feed>
