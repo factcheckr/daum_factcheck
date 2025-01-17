@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-17T11:19:57.085Z</updated>
+    <updated>2025-01-17T12:42:31.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250117202512848</id>
+        <link href="https://v.daum.net/v/20250117202512848"/>
+        <updated>2025-01-17T12:41:45.566Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤 대통령과 가장 가까웠고 함께 내란을 공모한 혐의를 받는 김용현 전 국방장관인데요. 앞서 보신 것처럼 윤 대통령은 특히 위헌성이 명백한 계엄포고령 1호를 꼭 집어서, 김 전 장관에게 책임을 돌리고 있습니다. 김 전 장관이 과거의 계엄 포고문을 잘못 베낀 탓에 빚어진 일이라는 게 윤 대통령 측 주장인데요. 사실 여부를 떠나서 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 트럼프 취임식에 초청받았다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250117150217433</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250115095438392"/>
         <updated>2025-01-15T01:44:03.911Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 정부가 설 연휴 전날인 오는 27일을 임시 공휴일로 지정하는 안건을 의결했지만 소셜미디어(SNS) 등에서는 31일도 임시 공휴일에 지정됐다는 가짜뉴스가 나돌고 있다. 온라인 커뮤니티 등에서는 "1월 31일도 쉰다고 하던데", "1월 27일 대신 1월 31일에 쉰다"라는 글도 적지 않게 찾아볼 수 있다. 물론 이런 가짜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 10억원 이상 있으면 한국에서 부자다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250115072012271</id>
-        <link href="https://v.daum.net/v/20250115072012271"/>
-        <updated>2025-01-14T22:21:20.629Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 매년 금융사들이 부자를 분석하는 보고서를 낼 때마다 온라인 커뮤니티에서는 과연 몇억원 정도가 있어야 우리나라에서 부자라고 할 수 있는지가 화제에 오른다. 부자 보고서의 관련 기사 댓글에는 "강남 30평대 아파트에 고급 외제 승용차 정도는 있어야 한다", "금융 자산이 최소 10억원 이상이 돼야 한다", "세금은 1년에 억원]]></content>
     </entry>
 </feed>
