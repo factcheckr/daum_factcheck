@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-17T05:21:35.197Z</updated>
+    <updated>2025-01-17T06:31:09.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 트럼프 취임식에 초청받았다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250117150217433</id>
+        <link href="https://v.daum.net/v/20250117150217433"/>
+        <updated>2025-01-17T06:30:22.823Z</updated>
+        <content type="html"><![CDATA["이번에 트럼프 대통령 취임식에 민간인 최초로 저와 저의 집사람을 초대했습니다" (전광훈 사랑제일교회 목사, 지난달 16일, 전광훈 TV) 오는 20일(현지시간) 도널드 트럼프 미국 대통령 당선인의 취임식이 열립니다. 종교계는 물론 "트럼프 취임식에 초청받았다"는 정·재계 인사들의 발표가 이어지고 있습니다. 트럼프 취임식에 초청을 받았다는 주장이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '한국인의 추억' 공중전화가 거리서 사라진다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250117072014977</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250115072012271"/>
         <updated>2025-01-14T22:21:20.629Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 매년 금융사들이 부자를 분석하는 보고서를 낼 때마다 온라인 커뮤니티에서는 과연 몇억원 정도가 있어야 우리나라에서 부자라고 할 수 있는지가 화제에 오른다. 부자 보고서의 관련 기사 댓글에는 "강남 30평대 아파트에 고급 외제 승용차 정도는 있어야 한다", "금융 자산이 최소 10억원 이상이 돼야 한다", "세금은 1년에 억원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '정진석 호소문' 팩트체크‥윤석열은 억울한 피해자? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250114201314429</id>
-        <link href="https://v.daum.net/v/20250114201314429"/>
-        <updated>2025-01-14T11:18:08.847Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 정진석 비서실장은 '호소문'이라고 이름 붙인 이 장문의 글에서 시종일관 윤 대통령이 억울한 피해자인 것처럼 주장했는데요. 수사기관이 유독 윤 대통령에게만 가혹한 건지, 아니면 윤 대통령만 유별난 특혜를 누리고 있는 건지, 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 정진석 대통령비서실장은 윤석열 대통령의]]></content>
     </entry>
 </feed>
