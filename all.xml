@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-17T12:42:31.595Z</updated>
+    <updated>2025-01-17T13:25:59.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네   [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250117214801910</id>
+        <link href="https://v.daum.net/v/20250117214801910"/>
+        <updated>2025-01-17T13:25:12.540Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;&lt;서울의 소리&gt; 여론조사 전문가인 김남기 박사는 지난 15, 16일 윈지코리아컨설팅에 의뢰해 진행한 정치 현안 여론조사에서 20대라고 밝힌 응답자 가운데 ‘디토(ditto), 오엠지(OMG)를 부른 가수를 ‘뉴진스’라고 정확히 맞힌 사람은 75.5%였다고 밝혔다.ⓒ 서울의소리인기가요 디토, 오엠지를 부른 가수가 누구인지 알고 계십니까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '국회 활동 금지' 포고령은 잘못 베낀 것? 또 거짓말 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250117202512848</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250115133302463"/>
         <updated>2025-01-15T05:22:25.030Z</updated>
         <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;윤석열 대통령이 15일 공수처 출석 관련 대국민 담화를 하고 있다. 대통령실 제공.ⓒ 연합뉴스내란죄 혐의를 받는 윤석열 대통령이 15일 사상 처음 현직 대통령 신분으로 수사기관에 체포되기 직전 영상 메시지에서 "이 나라는 법이 모두 무너졌다"라며 "불법의 불법의 불법이 자행되고 무효인 체포영장에 의한 절차"라고 주장했지만, 이는 사실이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 1월 31일도 임시공휴일?…알고보니 가짜뉴스 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250115095438392</id>
-        <link href="https://v.daum.net/v/20250115095438392"/>
-        <updated>2025-01-15T01:44:03.911Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 정부가 설 연휴 전날인 오는 27일을 임시 공휴일로 지정하는 안건을 의결했지만 소셜미디어(SNS) 등에서는 31일도 임시 공휴일에 지정됐다는 가짜뉴스가 나돌고 있다. 온라인 커뮤니티 등에서는 "1월 31일도 쉰다고 하던데", "1월 27일 대신 1월 31일에 쉰다"라는 글도 적지 않게 찾아볼 수 있다. 물론 이런 가짜뉴스]]></content>
     </entry>
 </feed>
