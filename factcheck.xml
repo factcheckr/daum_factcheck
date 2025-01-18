@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-18T16:26:18.747Z</updated>
+    <updated>2025-01-18T17:18:06.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 공기 정화 식물, 얼마나 효과있나?]]></title>
+        <id>https://v.daum.net/v/20250119015513105</id>
+        <link href="https://v.daum.net/v/20250119015513105"/>
+        <updated>2025-01-18T17:17:23.644Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 1월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네   [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250117214801910</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250115180908329"/>
         <updated>2025-01-15T09:23:02.569Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;12.3 내란 우두머리 피의자 윤석열 대통령이 공수처와 경찰에 체포된 뒤 그의 페이스북 계정에 올라온 육필 원고.ⓒ 윤석열 페이스북"살인범을 특정하지 못해서, 살인사건을 음모론이라고 우기는 여론 조성 역시, 투개표 부정선거 시스템의 한 축을 구성합니다." 내란 우두머리 혐의로 체포돼 고위공직자범죄수사처(공수처)에서 조사를 받고 있는 윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "체포영장 절차 무효, 불법" 거짓 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250115133302463</id>
-        <link href="https://v.daum.net/v/20250115133302463"/>
-        <updated>2025-01-15T05:22:25.030Z</updated>
-        <content type="html"><![CDATA[[김성욱 기자] ▲ &nbsp;윤석열 대통령이 15일 공수처 출석 관련 대국민 담화를 하고 있다. 대통령실 제공.ⓒ 연합뉴스내란죄 혐의를 받는 윤석열 대통령이 15일 사상 처음 현직 대통령 신분으로 수사기관에 체포되기 직전 영상 메시지에서 "이 나라는 법이 모두 무너졌다"라며 "불법의 불법의 불법이 자행되고 무효인 체포영장에 의한 절차"라고 주장했지만, 이는 사실이]]></content>
     </entry>
 </feed>
