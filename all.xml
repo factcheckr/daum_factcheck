@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-19T21:19:43.972Z</updated>
+    <updated>2025-01-19T22:21:49.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 대학 등록금은 비싼 편이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250120072008656</id>
+        <link href="https://v.daum.net/v/20250120072008656"/>
+        <updated>2025-01-19T22:21:02.130Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 고등학생 10명 중 7명이 대학교에 진학하는 시대가 되면서 올해도 대학의 등록금 인상 여부에 우리 사회의 관심이 쏠리고 있다. 일부 사립대는 십수년간 이어진 등록금 동결로 재정이 한계에 이르렀다면서 인상을 결정했고 거점국립대는 동결하기로 했다. 정부는 고물가 시대에 학생과 학부모의 부담이 늘어날 것을 우려해 올해도 대학들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 공기 정화 식물, 얼마나 효과있나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250119015513105</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250115184208003"/>
         <updated>2025-01-15T10:23:25.206Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령이 쏟아낸 발언들, 바로 팩트체크해 드리겠습니다. 일단 '유혈사태 막기 위해 응한다'는 말부터 사실과 다릅니다. 애초 경호처를 사병처럼 부리며 충돌을 무릅쓰게 한 것도 대통령이고, 오늘(15일)은 경호관들이 길을 터주며 협조해주고 있던 상황이었습니다. 강희연 기자입니다. [기자] [불미스러운 유혈사태를 막기 위해서 일단 불법 수사이긴 하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열이 밤새 썼다는 글, 명백한 허위 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250115180908329</id>
-        <link href="https://v.daum.net/v/20250115180908329"/>
-        <updated>2025-01-15T09:23:02.569Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;12.3 내란 우두머리 피의자 윤석열 대통령이 공수처와 경찰에 체포된 뒤 그의 페이스북 계정에 올라온 육필 원고.ⓒ 윤석열 페이스북"살인범을 특정하지 못해서, 살인사건을 음모론이라고 우기는 여론 조성 역시, 투개표 부정선거 시스템의 한 축을 구성합니다." 내란 우두머리 혐의로 체포돼 고위공직자범죄수사처(공수처)에서 조사를 받고 있는 윤]]></content>
     </entry>
 </feed>
