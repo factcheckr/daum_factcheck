@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-20T11:19:08.000Z</updated>
+    <updated>2025-01-20T12:44:53.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 국민의힘 너도나도 "트럼프 대통령 취임식 참석"‥친분 있어서?]]></title>
+        <id>https://v.daum.net/v/20250120203716012</id>
+        <link href="https://v.daum.net/v/20250120203716012"/>
+        <updated>2025-01-20T12:44:07.909Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 트럼프 미국 대통령 취임식에 참석한다며, 여권 정치인은 물론 전광훈 목사까지 미국으로 향하고 있습니다. 이들은 "초청을 받았다"며 트럼프 대통령과 가까운 사람만 취임식에 참석할 수 있는 것처럼 설명하고 있는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 내란 동조 집회를 주도하는 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250120134801497</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250116191957351"/>
         <updated>2025-01-16T10:23:52.229Z</updated>
         <content type="html"><![CDATA[두나무가 운영하는 국내 1위 코인 거래소 업비트. /사진=뉴스1IT 기업 두나무가 운영하는 국내 1위 가상자산 거래소 '업비트'가 금융당국의 갑작스러운 제재 위기에 봉착했다. 제재가 현실화되면 신규 고객 유입에 차질이 생길 수 있지만 업비트는 성실하게 소명해 문제를 해결하겠다는 입장이다. 16일 금융권에 따르면 업비트는 지난 9일 금융위원회 금융정보분석원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이젠 한강에서 썰매를 탈 수 없다?]]></title>
-        <id>https://v.daum.net/v/20250116072007496</id>
-        <link href="https://v.daum.net/v/20250116072007496"/>
-        <updated>2025-01-15T22:20:44.082Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 과거 한겨울이면 꽁꽁 얼어붙은 한강 위에서 시민들이 썰매를 타곤 했다는 이야기가 전해 내려온다. 하지만 언젠가부터 얼어붙은 한강에서 아이들이 뛰어노는 장면은 상상하기 쉽지 않다. 지난 10일 서울의 최저기온이 영하 12도까지 내려가고 체감기온은 영하 21.7도에 달하는 '냉동고 추위'에도 한강은 얼지 않았다. 왜 한강은]]></content>
     </entry>
 </feed>
