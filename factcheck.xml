@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-20T07:24:03.065Z</updated>
+    <updated>2025-01-20T08:30:26.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250120134801497</id>
