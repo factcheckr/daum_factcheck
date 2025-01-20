@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-20T04:27:39.530Z</updated>
+    <updated>2025-01-20T05:23:59.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250120134801497</id>
+        <link href="https://v.daum.net/v/20250120134801497"/>
+        <updated>2025-01-20T05:23:08.051Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;JTBC 뉴스룸은 19일 "폭동 생중계하며 적극 지시...극우 유튜버들은 ‘증거 인멸 중’”이라는 제목의 뉴스 영상에서 서울서부지법 폭동 상황을 생중계한 보수 성향 유튜버들과 함께 진보 성향으로 분류되는 '어쩔아재' 유튜버 영상도 포함시켰고 현장음에 “밀어 밀어! 들어가 들어가!”라는 자막을 넣어 마치 해당 유튜버가 발언한 것처럼 보도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 대학 등록금은 비싼 편이다?]]></title>
         <id>https://v.daum.net/v/20250120072008656</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250116072007496"/>
         <updated>2025-01-15T22:20:44.082Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 과거 한겨울이면 꽁꽁 얼어붙은 한강 위에서 시민들이 썰매를 타곤 했다는 이야기가 전해 내려온다. 하지만 언젠가부터 얼어붙은 한강에서 아이들이 뛰어노는 장면은 상상하기 쉽지 않다. 지난 10일 서울의 최저기온이 영하 12도까지 내려가고 체감기온은 영하 21.7도에 달하는 '냉동고 추위'에도 한강은 얼지 않았다. 왜 한강은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "유혈사태 막기 위해 불법이지만 응한다"? 따져본 '말말말']]></title>
-        <id>https://v.daum.net/v/20250115184208003</id>
-        <link href="https://v.daum.net/v/20250115184208003"/>
-        <updated>2025-01-15T10:23:25.206Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령이 쏟아낸 발언들, 바로 팩트체크해 드리겠습니다. 일단 '유혈사태 막기 위해 응한다'는 말부터 사실과 다릅니다. 애초 경호처를 사병처럼 부리며 충돌을 무릅쓰게 한 것도 대통령이고, 오늘(15일)은 경호관들이 길을 터주며 협조해주고 있던 상황이었습니다. 강희연 기자입니다. [기자] [불미스러운 유혈사태를 막기 위해서 일단 불법 수사이긴 하지]]></content>
     </entry>
 </feed>
