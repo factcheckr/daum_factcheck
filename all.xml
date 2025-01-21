@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-20T23:20:46.128Z</updated>
+    <updated>2025-01-21T01:44:03.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[취재파일] 초유의 법원 난동, '국민저항권'이라 처벌 안 받는다? [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250121103604897</id>
+        <link href="https://v.daum.net/v/20250121103604897"/>
+        <updated>2025-01-21T01:43:12.187Z</updated>
+        <content type="html"><![CDATA[지난 19일 새벽, 윤석열 대통령에 대한 구속영장이 발부되자 법원을 둘러싸고 있던 지지자들은 초유의 법원 난동 사태를 일으켰습니다. 순식간에 경찰 벽을 뚫고 법원 경내로 들어와 유리창을 깨고 법원으로 침입한 다음 구속영장을 발부한 판사를 찾는 모습은 법치주의가 위협받는 현실을 그대로 보여주었습니다. 법원 난동 사태는 실시간으로 유튜브를 통해 중계되기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 치명적인 코로나 변이 유행?…알고보니 가짜뉴스 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250121072007269</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250117072014977"/>
         <updated>2025-01-16T23:22:17.486Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 거리를 지나다 보면 우체통과 함께 이용하는 사람이 거의 없어 이제는 애물단지 취급을 받는 공용 시설이 있다. 바로 공중전화다. 1980~90년대만 해도 공중전화부스에 길게 늘어선 대기 행렬뿐만 아니라 앞사람이 전화를 오래 건다고 시비가 붙는 경우도 적지 않았다. 하지만 휴대전화의 등장으로 2000년대 들어 인기가 시들해진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공수처가 '관저 출입허가 공문' 조작? 윤 측 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250116192913513</id>
-        <link href="https://v.daum.net/v/20250116192913513"/>
-        <updated>2025-01-16T11:17:58.484Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령 측은 체포 과정에 반발하면서 공수처가 육군 55경비단에게 받은 '출입 허가 공문'을 문제 삼고 있습니다. 이게 조작된 공문이고, 도장도 강압적으로 받았다는 게 윤 대통령 측 주장인데, 저희가 육군에 확인해 보니 사실이 아니었습니다. 조보경 기자의 팩트체크입니다. [기자] 윤석열 대통령에 대한 2차 체포영장 집행 전날, 공수처가 55경비]]></content>
     </entry>
 </feed>
