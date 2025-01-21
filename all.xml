@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-21T22:21:43.851Z</updated>
+    <updated>2025-01-21T23:21:33.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 서부지법 난동…1980년대 이후 첫 법원 습격 사건 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250122072211562</id>
+        <link href="https://v.daum.net/v/20250122072211562"/>
+        <updated>2025-01-21T23:20:44.027Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령의 구속영장 발부 결정에 반발한 지지자들이 해당 법원을 습격해 난동을 벌인 사태를 두고 일부 언론에서는 '사상 초유'의 일이라고 지적했다. 민주주의 국가에서 사법부의 중심인 법원이 무분별한 폭력행위로 '무법지대'로 전락한 사태는 좀처럼 찾아보기 힘든 광경이기 때문이다. 하지만 굴곡진 한국 현대사를 돌아보면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초유의 법원 난동, '국민저항권'이라 처벌 안 받는다? [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250121103604897</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250117150217433"/>
         <updated>2025-01-17T06:30:22.823Z</updated>
         <content type="html"><![CDATA["이번에 트럼프 대통령 취임식에 민간인 최초로 저와 저의 집사람을 초대했습니다" (전광훈 사랑제일교회 목사, 지난달 16일, 전광훈 TV) 오는 20일(현지시간) 도널드 트럼프 미국 대통령 당선인의 취임식이 열립니다. 종교계는 물론 "트럼프 취임식에 초청받았다"는 정·재계 인사들의 발표가 이어지고 있습니다. 트럼프 취임식에 초청을 받았다는 주장이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '한국인의 추억' 공중전화가 거리서 사라진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250117072014977</id>
-        <link href="https://v.daum.net/v/20250117072014977"/>
-        <updated>2025-01-16T23:22:17.486Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 거리를 지나다 보면 우체통과 함께 이용하는 사람이 거의 없어 이제는 애물단지 취급을 받는 공용 시설이 있다. 바로 공중전화다. 1980~90년대만 해도 공중전화부스에 길게 늘어선 대기 행렬뿐만 아니라 앞사람이 전화를 오래 건다고 시비가 붙는 경우도 적지 않았다. 하지만 휴대전화의 등장으로 2000년대 들어 인기가 시들해진]]></content>
     </entry>
 </feed>
