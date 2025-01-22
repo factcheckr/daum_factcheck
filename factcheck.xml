@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-22T10:23:11.962Z</updated>
+    <updated>2025-01-22T11:19:00.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화]]></title>
+        <id>https://v.daum.net/v/20250122193453924</id>
+        <link href="https://v.daum.net/v/20250122193453924"/>
+        <updated>2025-01-22T11:18:13.369Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서부지법 난동…1980년대 이후 첫 법원 습격 사건]]></title>
         <id>https://v.daum.net/v/20250122072211562</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250117202512848"/>
         <updated>2025-01-17T12:41:45.566Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤 대통령과 가장 가까웠고 함께 내란을 공모한 혐의를 받는 김용현 전 국방장관인데요. 앞서 보신 것처럼 윤 대통령은 특히 위헌성이 명백한 계엄포고령 1호를 꼭 집어서, 김 전 장관에게 책임을 돌리고 있습니다. 김 전 장관이 과거의 계엄 포고문을 잘못 베낀 탓에 빚어진 일이라는 게 윤 대통령 측 주장인데요. 사실 여부를 떠나서 과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 트럼프 취임식에 초청받았다?]]></title>
-        <id>https://v.daum.net/v/20250117150217433</id>
-        <link href="https://v.daum.net/v/20250117150217433"/>
-        <updated>2025-01-17T06:30:22.823Z</updated>
-        <content type="html"><![CDATA["이번에 트럼프 대통령 취임식에 민간인 최초로 저와 저의 집사람을 초대했습니다" (전광훈 사랑제일교회 목사, 지난달 16일, 전광훈 TV) 오는 20일(현지시간) 도널드 트럼프 미국 대통령 당선인의 취임식이 열립니다. 종교계는 물론 "트럼프 취임식에 초청받았다"는 정·재계 인사들의 발표가 이어지고 있습니다. 트럼프 취임식에 초청을 받았다는 주장이]]></content>
     </entry>
 </feed>
