@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-22T21:18:12.015Z</updated>
+    <updated>2025-01-22T22:21:48.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 설날에 떡국은 우리나라만 먹나?]]></title>
+        <id>https://v.daum.net/v/20250123072012145</id>
+        <link href="https://v.daum.net/v/20250123072012145"/>
+        <updated>2025-01-22T22:20:58.411Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = '떡국을 먹어야 한 살을 먹는다'는 말이 있을 정도로 떡국은 설날 식탁에서 빼놓을 수 없는 한국인의 대표적인 명절 음식이다. 김이 모락모락 나는 뽀얀 고깃국물에 하얀 가래떡을 넣고 고명을 올린 떡국 한 그릇은 한 해의 건강과 행복을 기원하는 의미를 담아 단순한 음식을 넘어선 특별한 전통으로 자리 잡았다. 그렇다면 새해에 떡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화]]></title>
         <id>https://v.daum.net/v/20250122215312175</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250119015513105"/>
         <updated>2025-01-18T17:17:23.644Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 1월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치 여론조사에 등장한 '뉴진스', 이런 함정이 있었네   [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250117214801910</id>
-        <link href="https://v.daum.net/v/20250117214801910"/>
-        <updated>2025-01-17T13:25:12.540Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;&lt;서울의 소리&gt; 여론조사 전문가인 김남기 박사는 지난 15, 16일 윈지코리아컨설팅에 의뢰해 진행한 정치 현안 여론조사에서 20대라고 밝힌 응답자 가운데 ‘디토(ditto), 오엠지(OMG)를 부른 가수를 ‘뉴진스’라고 정확히 맞힌 사람은 75.5%였다고 밝혔다.ⓒ 서울의소리인기가요 디토, 오엠지를 부른 가수가 누구인지 알고 계십니까?]]></content>
     </entry>
 </feed>
