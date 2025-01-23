@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-22T23:21:51.528Z</updated>
+    <updated>2025-01-23T01:44:40.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250123085344433</id>
+        <link href="https://v.daum.net/v/20250123085344433"/>
+        <updated>2025-01-23T01:43:55.530Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 설날에 떡국은 우리나라만 먹나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250123072012145</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250120072008656"/>
         <updated>2025-01-19T22:21:02.130Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 고등학생 10명 중 7명이 대학교에 진학하는 시대가 되면서 올해도 대학의 등록금 인상 여부에 우리 사회의 관심이 쏠리고 있다. 일부 사립대는 십수년간 이어진 등록금 동결로 재정이 한계에 이르렀다면서 인상을 결정했고 거점국립대는 동결하기로 했다. 정부는 고물가 시대에 학생과 학부모의 부담이 늘어날 것을 우려해 올해도 대학들이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 공기 정화 식물, 얼마나 효과있나? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250119015513105</id>
-        <link href="https://v.daum.net/v/20250119015513105"/>
-        <updated>2025-01-18T17:17:23.644Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 1월 18일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
     </entry>
 </feed>
