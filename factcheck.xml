@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-23T21:21:44.680Z</updated>
+    <updated>2025-01-23T22:22:11.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 설날 세뱃돈 얼마가 적당할까?]]></title>
+        <id>https://v.daum.net/v/20250124072008644</id>
+        <link href="https://v.daum.net/v/20250124072008644"/>
+        <updated>2025-01-23T22:21:20.412Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 매년 설날이 다가오면 어린 조카 등 친인척 자녀들에게 세뱃돈을 얼마 정도 주면 좋을지 한 번쯤은 고민하게 된다. 오랜만에 보는 자리인데 세뱃돈 때문에 인색하다는 말을 듣기도 싫지만 과하게 줬다는 뒷말 또한 듣기 싫기 때문이다. 온라인 커뮤니티에도 설 세뱃돈 관련 글이 올라오면 적정 금액을 놓고 의견이 엇갈린다. 아울러 과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열·김용현 "의원 아닌 요원 빼내라 했다" 주장 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250123165401477</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250120203716012"/>
         <updated>2025-01-20T12:44:07.909Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 트럼프 미국 대통령 취임식에 참석한다며, 여권 정치인은 물론 전광훈 목사까지 미국으로 향하고 있습니다. 이들은 "초청을 받았다"며 트럼프 대통령과 가까운 사람만 취임식에 참석할 수 있는 것처럼 설명하고 있는데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 내란 동조 집회를 주도하는 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["극좌 유튜버, 극우 유튜버 가장해 폭동 선동" 거짓 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250120134801497</id>
-        <link href="https://v.daum.net/v/20250120134801497"/>
-        <updated>2025-01-20T05:23:08.051Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;JTBC 뉴스룸은 19일 "폭동 생중계하며 적극 지시...극우 유튜버들은 ‘증거 인멸 중’”이라는 제목의 뉴스 영상에서 서울서부지법 폭동 상황을 생중계한 보수 성향 유튜버들과 함께 진보 성향으로 분류되는 '어쩔아재' 유튜버 영상도 포함시켰고 현장음에 “밀어 밀어! 들어가 들어가!”라는 자막을 넣어 마치 해당 유튜버가 발언한 것처럼 보도]]></content>
     </entry>
 </feed>
