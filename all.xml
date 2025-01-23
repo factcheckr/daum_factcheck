@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-23T07:22:52.917Z</updated>
+    <updated>2025-01-23T08:29:16.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["국회의원 아닌 요원 빼내라 했다"? 김용현 주장 '거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250123165401477</id>
+        <link href="https://v.daum.net/v/20250123165401477"/>
+        <updated>2025-01-23T08:28:31.469Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;내란 우두머리 혐의로 구속된 윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵 심판 4차 변론에 출석한 가운데 증인석이 비어있다 . ⓒ 사진공동취재단윤석열-김용현 쪽 "국회에서 '의원' 아닌 '요원' 빼내라고 한 것" 주장 윤석열 대통령과 김용현 전 국방장관이 지난 12.3 내란 사태 당시 국회의사당에서 빼내라고 지시한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250123085344433</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250120134801497"/>
         <updated>2025-01-20T05:23:08.051Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;JTBC 뉴스룸은 19일 "폭동 생중계하며 적극 지시...극우 유튜버들은 ‘증거 인멸 중’”이라는 제목의 뉴스 영상에서 서울서부지법 폭동 상황을 생중계한 보수 성향 유튜버들과 함께 진보 성향으로 분류되는 '어쩔아재' 유튜버 영상도 포함시켰고 현장음에 “밀어 밀어! 들어가 들어가!”라는 자막을 넣어 마치 해당 유튜버가 발언한 것처럼 보도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 대학 등록금은 비싼 편이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250120072008656</id>
-        <link href="https://v.daum.net/v/20250120072008656"/>
-        <updated>2025-01-19T22:21:02.130Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 고등학생 10명 중 7명이 대학교에 진학하는 시대가 되면서 올해도 대학의 등록금 인상 여부에 우리 사회의 관심이 쏠리고 있다. 일부 사립대는 십수년간 이어진 등록금 동결로 재정이 한계에 이르렀다면서 인상을 결정했고 거점국립대는 동결하기로 했다. 정부는 고물가 시대에 학생과 학부모의 부담이 늘어날 것을 우려해 올해도 대학들이]]></content>
     </entry>
 </feed>
