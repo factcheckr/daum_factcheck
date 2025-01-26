@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-26T11:17:11.518Z</updated>
+    <updated>2025-01-26T12:39:09.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] 위법 명령 불복종 조항…군 기강 무너진다?]]></title>
+        <id>https://v.daum.net/v/20250126204815596</id>
+        <link href="https://v.daum.net/v/20250126204815596"/>
+        <updated>2025-01-26T12:38:21.497Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 비상계엄 사태 이후, 군인들이 위법한 명령에는 복종하지 않도록 하는 법안들이 잇따라 발의됐습니다. 여기에 군 기강이 무너질 것이라는 우려도 나오는데요. 그럼, 다른 나라는 어떻게 하고 있는지 팩트체크 사실은 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 12·3 계엄 당시 반헌법적인 명령을 그대로 따랐던 군 수뇌부. [박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 멸종위기종 ‘수달’ 잇따라 도심 출몰…개체 수 늘었나?]]></title>
         <id>https://v.daum.net/v/20250125223251977</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250122072211562"/>
         <updated>2025-01-21T23:20:44.027Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령의 구속영장 발부 결정에 반발한 지지자들이 해당 법원을 습격해 난동을 벌인 사태를 두고 일부 언론에서는 '사상 초유'의 일이라고 지적했다. 민주주의 국가에서 사법부의 중심인 법원이 무분별한 폭력행위로 '무법지대'로 전락한 사태는 좀처럼 찾아보기 힘든 광경이기 때문이다. 하지만 굴곡진 한국 현대사를 돌아보면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초유의 법원 난동, '국민저항권'이라 처벌 안 받는다? [사실은]]]></title>
-        <id>https://v.daum.net/v/20250121103604897</id>
-        <link href="https://v.daum.net/v/20250121103604897"/>
-        <updated>2025-01-21T01:43:12.187Z</updated>
-        <content type="html"><![CDATA[지난 19일 새벽, 윤석열 대통령에 대한 구속영장이 발부되자 법원을 둘러싸고 있던 지지자들은 초유의 법원 난동 사태를 일으켰습니다. 순식간에 경찰 벽을 뚫고 법원 경내로 들어와 유리창을 깨고 법원으로 침입한 다음 구속영장을 발부한 판사를 찾는 모습은 법치주의가 위협받는 현실을 그대로 보여주었습니다. 법원 난동 사태는 실시간으로 유튜브를 통해 중계되기]]></content>
     </entry>
 </feed>
