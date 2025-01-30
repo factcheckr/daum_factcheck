@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-30T22:21:19.729Z</updated>
+    <updated>2025-01-30T23:22:54.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 남자는 병역복무로 손해배상금 적게 계산된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250131072009842</id>
+        <link href="https://v.daum.net/v/20250131072009842"/>
+        <updated>2025-01-30T23:22:08.011Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 미성년자가 사고로 심하게 다치거나 숨졌을 경우 받게 될 손해배상금이 성별에 따라 차이가 날 수 있을까. 남자는 병역 복무 기간 마땅한 수입이 없기 때문에 장래에 받게 될 소득을 추정할 때 소득 발생 추정 기간에서 이 복무기간이 제외돼 생긴 일이었다. 이는 그동안의 관례로 2000년 4월 대법원 판례가 이를 확정했다. 하지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 실패 예상한 계엄 선포?…기존 주장 되풀이한 '옥중 메시지' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250128190011998</id>
@@ -65,13 +72,6 @@
         <id>https://v.daum.net/v/20250122215312175</id>
         <link href="https://v.daum.net/v/20250122215312175"/>
         <updated>2025-01-22T13:27:08.714Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250122193453924</id>
-        <link href="https://v.daum.net/v/20250122193453924"/>
-        <updated>2025-01-22T11:18:13.369Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
     </entry>
 </feed>
