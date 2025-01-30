@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-30T12:44:12.639Z</updated>
+    <updated>2025-01-30T13:27:06.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 실패 예상한 계엄 선포?…기존 주장 되풀이한 '옥중 메시지']]></title>
         <id>https://v.daum.net/v/20250128190011998</id>
