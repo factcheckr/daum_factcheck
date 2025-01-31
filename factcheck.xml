@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-30T23:22:54.052Z</updated>
+    <updated>2025-01-31T01:44:47.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북 소방헬기 20년 만에 교체하는데…“예산에 발목”]]></title>
+        <id>https://v.daum.net/v/20250131093034639</id>
+        <link href="https://v.daum.net/v/20250131093034639"/>
+        <updated>2025-01-31T01:44:00.911Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 도입한 지 20년이나 지난 충북 소방헬기 교체가 올해부터 본격적으로 추진되는데요. 헬기 제조사들이 일제히 가격을 인상해 난관에 부딪혔습니다. 팩트체크 K, 송근섭 기자가 취재했습니다. [리포트] 야산 중턱에서 하얀 연기가 피어오릅니다. 소방헬기까지 동원됐지만, 산불은 1시간 10분 만에야 꺼졌습니다. 이렇게 충북에선 한 해 평균 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 남자는 병역복무로 손해배상금 적게 계산된다?]]></title>
         <id>https://v.daum.net/v/20250131072009842</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250123072012145"/>
         <updated>2025-01-22T22:20:58.411Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = '떡국을 먹어야 한 살을 먹는다'는 말이 있을 정도로 떡국은 설날 식탁에서 빼놓을 수 없는 한국인의 대표적인 명절 음식이다. 김이 모락모락 나는 뽀얀 고깃국물에 하얀 가래떡을 넣고 고명을 올린 떡국 한 그릇은 한 해의 건강과 행복을 기원하는 의미를 담아 단순한 음식을 넘어선 특별한 전통으로 자리 잡았다. 그렇다면 새해에 떡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화]]></title>
-        <id>https://v.daum.net/v/20250122215312175</id>
-        <link href="https://v.daum.net/v/20250122215312175"/>
-        <updated>2025-01-22T13:27:08.714Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
     </entry>
 </feed>
