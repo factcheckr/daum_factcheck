@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-01-31T20:23:53.059Z</updated>
+    <updated>2025-01-31T21:20:33.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]‘혐중론’ 확산에 다시 살아난 ‘화교 특별전형’ 논란]]></title>
+        <id>https://v.daum.net/v/20250201060502314</id>
+        <link href="https://v.daum.net/v/20250201060502314"/>
+        <updated>2025-01-31T21:19:44.691Z</updated>
+        <content type="html"><![CDATA[“화교특별전형 아셨나요? 서울대 의대도 간다네요.” 대입 관련 한 온라인 커뮤니티에 이런 제목으로 게시글이 올라오자 댓글 수십 개가 달렸다. “음모론”이라거나 “터무니없는 거짓선동” 등의 댓글이 대부분이었지만 “화교 입시 혜택을 계속 공론화하고 투명하게 밝혀야 한다”는 댓글도 슬그머니 끼어들었다. 최근 온라인 커뮤니티와 에스엔에스(SNS)를 중심으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 충북 소방헬기 20년 만에 교체하는데…예산에 ‘발목’]]></title>
         <id>https://v.daum.net/v/20250131220721424</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250123165401477"/>
         <updated>2025-01-23T08:28:31.469Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;구속중인 김용현 전 국방부장관이 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 증인으로 출석했다.ⓒ 헌법재판소 화면 캡춰윤석열-김용현 쪽 "국회에서 '의원' 아닌 '요원' 빼내라고 한 것" 주장 윤석열 대통령과 김용현 전 국방장관이 지난 12.3 내란 사태 당시 국회의사당에서 빼내라고 지시한 건 국회의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 주민 주도 ‘진천·음성’ 통합 논의 본격화]]></title>
-        <id>https://v.daum.net/v/20250123085344433</id>
-        <link href="https://v.daum.net/v/20250123085344433"/>
-        <updated>2025-01-23T01:43:55.530Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 충북 혁신도시를 공유하는  진천군과 음성군에서 주민 주도의 통합 절차가 본격화됐습니다. 민간 단체가  통합 주민투표 실시를 위한  서명부를 제출하면서 관련 행정절차가 진행 중인데요. 팩트체크 K, 현재 상황과 앞으로의 전망을 정진규 기자가 취재했습니다. [리포트] 진천군과 음성군은  각각 2027년과 2030년까지 독자적인 시 승격]]></content>
     </entry>
 </feed>
