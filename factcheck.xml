@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-01T13:23:21.974Z</updated>
+    <updated>2025-02-01T14:19:08.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 신년 새해에 넘쳐나는 다이어트 정보 바로보기]]></title>
+        <id>https://v.daum.net/v/20250201231309495</id>
+        <link href="https://v.daum.net/v/20250201231309495"/>
+        <updated>2025-02-01T14:18:18.406Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 1일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) :&nbsp;사실 확인이 필요한 허위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] ‘혐중론’ 확산에 다시 살아난 ‘화교 특별전형’ 논란]]></title>
         <id>https://v.daum.net/v/20250201060502314</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250124072008644"/>
         <updated>2025-01-23T22:21:20.412Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 매년 설날이 다가오면 어린 조카 등 친인척 자녀들에게 세뱃돈을 얼마 정도 주면 좋을지 한 번쯤은 고민하게 된다. 오랜만에 보는 자리인데 세뱃돈 때문에 인색하다는 말을 듣기도 싫지만 과하게 줬다는 뒷말 또한 듣기 싫기 때문이다. 온라인 커뮤니티에도 설 세뱃돈 관련 글이 올라오면 적정 금액을 놓고 의견이 엇갈린다. 아울러 과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열·김용현 "의원 아닌 요원 빼내라 했다" 주장 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250123165401477</id>
-        <link href="https://v.daum.net/v/20250123165401477"/>
-        <updated>2025-01-23T08:28:31.469Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;구속중인 김용현 전 국방부장관이 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 증인으로 출석했다.ⓒ 헌법재판소 화면 캡춰윤석열-김용현 쪽 "국회에서 '의원' 아닌 '요원' 빼내라고 한 것" 주장 윤석열 대통령과 김용현 전 국방장관이 지난 12.3 내란 사태 당시 국회의사당에서 빼내라고 지시한 건 국회의]]></content>
     </entry>
 </feed>
