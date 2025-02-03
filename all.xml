@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-03T21:21:25.940Z</updated>
+    <updated>2025-02-03T22:21:43.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우체통에는 편지만 넣을 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250204072010800</id>
+        <link href="https://v.daum.net/v/20250204072010800"/>
+        <updated>2025-02-03T22:20:58.814Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 우체통이 40여년 만에 '에코 우체통'으로 모습을 바꾸며 환경보호 창구 역할도 한다는 보도가 나오면서 우체통의 활용도에 대한 궁금증이 일고 있다. 이메일이 대중화되기 시작한 1990년대 중반 이후 태어난 세대는 우체통 자체를 접하기도 쉽지 않은 상황에서 우체통의 이런 '변신'이 새로울 수밖에 없기 때문이다. 그렇다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 헌법재판소 결정 안 따라도 그만? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250203202810367</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250128190011998"/>
         <updated>2025-01-28T10:23:29.104Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령이 설 연휴에도 옥중 메시지로 여론전에 나섰습니다. 법조팀 여도현 기자와 하나씩 팩트체크 해보겠습니다. 여 기자, 메시지를 정리해보면 '실패한 계엄이니까 내란이 아니다'란 이야기로 보여요. 그동안 계속 반복해왔던 주장이죠? [기자] 네, 헌법재판소에 나와서도 되풀이했던 주장입니다. 들어보시죠. [탄핵심판 4차 변론 (지난 23일) : 반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] 위법 명령 불복종 조항…군 기강 무너진다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250126204815596</id>
-        <link href="https://v.daum.net/v/20250126204815596"/>
-        <updated>2025-01-26T12:38:21.497Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 비상계엄 사태 이후, 군인들이 위법한 명령에는 복종하지 않도록 하는 법안들이 잇따라 발의됐습니다. 여기에 군 기강이 무너질 것이라는 우려도 나오는데요. 그럼, 다른 나라는 어떻게 하고 있는지 팩트체크 사실은 코너에서 안상우 기자가 따져봤습니다. &lt;기자&gt; 12·3 계엄 당시 반헌법적인 명령을 그대로 따랐던 군 수뇌부. [박]]></content>
     </entry>
 </feed>
