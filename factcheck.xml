@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-04T22:21:47.952Z</updated>
+    <updated>2025-02-04T23:22:53.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] AI가 인간의 모든 일자리를 대체한다?]]></title>
+        <id>https://v.daum.net/v/20250205072012485</id>
+        <link href="https://v.daum.net/v/20250205072012485"/>
+        <updated>2025-02-04T23:21:05.169Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 10년간 급속히 발전한 인공지능(AI·Artificial Intelligence)이 다양한 산업에 빠르게 도입되면서 그 활용도는 갈수록 높아지고 있다. AI가 생산성을 향상하고 인간에게 편의를 제공하는 긍정적인 역할도 있지만, 인간의 기존 직업이 AI로 대체돼 많은 근로자가 일자리를 잃게 될 것이라는 우려도 커지고 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우체통에는 편지만 넣을 수 있다?]]></title>
         <id>https://v.daum.net/v/20250204072010800</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250131072009842"/>
         <updated>2025-01-30T23:22:08.011Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 미성년자가 사고로 심하게 다치거나 숨졌을 경우 받게 될 손해배상금이 성별에 따라 차이가 날 수 있을까. 남자는 병역 복무 기간 마땅한 수입이 없기 때문에 장래에 받게 될 소득을 추정할 때 소득 발생 추정 기간에서 이 복무기간이 제외돼 생긴 일이었다. 이는 그동안의 관례로 2000년 4월 대법원 판례가 이를 확정했다. 하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 실패 예상한 계엄 선포?…기존 주장 되풀이한 '옥중 메시지']]></title>
-        <id>https://v.daum.net/v/20250128190011998</id>
-        <link href="https://v.daum.net/v/20250128190011998"/>
-        <updated>2025-01-28T10:23:29.104Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령이 설 연휴에도 옥중 메시지로 여론전에 나섰습니다. 법조팀 여도현 기자와 하나씩 팩트체크 해보겠습니다. 여 기자, 메시지를 정리해보면 '실패한 계엄이니까 내란이 아니다'란 이야기로 보여요. 그동안 계속 반복해왔던 주장이죠? [기자] 네, 헌법재판소에 나와서도 되풀이했던 주장입니다. 들어보시죠. [탄핵심판 4차 변론 (지난 23일) : 반]]></content>
     </entry>
 </feed>
