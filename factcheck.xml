@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-05T21:21:56.424Z</updated>
+    <updated>2025-02-05T22:23:50.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 로또복권은 현금으로만 구입할 수 있다?]]></title>
+        <id>https://v.daum.net/v/20250206072008001</id>
+        <link href="https://v.daum.net/v/20250206072008001"/>
+        <updated>2025-02-05T22:22:58.697Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 일확천금의 기회로 여겨지는 로또복권을 복권판매점에서 처음 또는 가끔 구입하는 사람들이 자주 겪게 되는 일 중의 하나가 바로 신용카드를 꺼냈다가 거부당하는 것이다. '현금 없는 사회'로 변모하는 우리나라에서 카드 결제가 일상화돼있지만, 로또복권만큼은 카드 결제가 안 되고 현금만 받기 때문이다. 이 때문에 온라인 커뮤니티 등에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "체포지시 없었다" "싹 다 잡아들이라"…'엇갈린 증언' 누가 거짓말?]]></title>
         <id>https://v.daum.net/v/20250205201034157</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250131220721424"/>
         <updated>2025-01-31T13:25:16.796Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 도입한 지 20년이나 지난 충북 소방헬기 교체가 올해부터 본격적으로 추진되는데요. 헬기 제조사들이 일제히 가격을 인상해 난관에 부딪혔습니다. 팩트체크 K, 박미영 기자가 취재했습니다. [리포트] 야산 중턱에서 하얀 연기가 피어오릅니다. 소방헬기까지 동원됐지만, 산불은 1시간 10분 만에 꺼졌습니다. 이렇게 충북에선 한 해 평균 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북 소방헬기 20년 만에 교체하는데…“예산에 발목”]]></title>
-        <id>https://v.daum.net/v/20250131093034639</id>
-        <link href="https://v.daum.net/v/20250131093034639"/>
-        <updated>2025-01-31T01:44:00.911Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 도입한 지 20년이나 지난 충북 소방헬기 교체가 올해부터 본격적으로 추진되는데요. 헬기 제조사들이 일제히 가격을 인상해 난관에 부딪혔습니다. 팩트체크 K, 송근섭 기자가 취재했습니다. [리포트] 야산 중턱에서 하얀 연기가 피어오릅니다. 소방헬기까지 동원됐지만, 산불은 1시간 10분 만에야 꺼졌습니다. 이렇게 충북에선 한 해 평균 2]]></content>
     </entry>
 </feed>
