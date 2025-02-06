@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-06T12:45:02.330Z</updated>
+    <updated>2025-02-06T13:28:17.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K]② “개헌으로 지방 분권”…취지와 구상은? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250206214907603</id>
+        <link href="https://v.daum.net/v/20250206214907603"/>
+        <updated>2025-02-06T13:27:24.511Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 진희정 기자 (5w1h@kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K]① ‘권력구조 개편’ 개헌 논의, 40년 가까이 공전 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250206214904602</id>
+        <link href="https://v.daum.net/v/20250206214904602"/>
+        <updated>2025-02-06T13:27:24.513Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] 이유진 기자 (reasontrue@kbs.co.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한국산 세탁기' 때렸던 트럼프…실속 챙기고 '생색' [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250206205709878</id>
@@ -59,19 +73,5 @@
         <link href="https://v.daum.net/v/20250203202810367"/>
         <updated>2025-02-03T12:45:09.064Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 국민의힘에서는 최상목 대통령 권한대행이 마은혁 헌법재판관 후보자를 임명하지 않은 것이 위헌이라는 결정이 나와도, 마 후보자를 임명하지 말라는 목소리가 나오고 있습니다. 헌법재판소의 결정을 따르지 않아도 된다는 건데요. 맞는 얘기인지 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 예정된 선고 일정을 하루 앞둔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중국인 해커' 가짜뉴스 원조는 부정선거론자가 쓴 소설? [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250203173300705</id>
-        <link href="https://v.daum.net/v/20250203173300705"/>
-        <updated>2025-02-03T09:24:46.027Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;박성미 작가가 2일 자신의 페이스북에 올린 '가짜뉴스 증폭기' 인포그래픽. 지난해 12월 12일 디시인사이드 동덕여대 갤러리에 올린 이른바 '48시간좌'의 '소설'이 &lt;스카이데일리&gt; '선거연수원 중국인 해커 체포' 오보 원조라고 밝혔다.ⓒ 박성미 작가 제공&lt;스카이데일리&gt; '선거연수원 중국인 해커 99명 체포' 보도가 '가짜뉴스'로 드러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 연이은 사고…여객기 타도 정말 안전할까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250203072013571</id>
-        <link href="https://v.daum.net/v/20250203072013571"/>
-        <updated>2025-02-02T23:19:52.498Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 미국 워싱턴DC 인근에서 여객기와 군용 헬기 충돌 등 최근 국내외에서 여객기 사고가 연이어 발생하자 온라인 커뮤니티 등에서는 "이제는 비행기 타기 겁난다"는 반응이 쏟아지고 있다. 올해 설 연휴에는 해외여행을 떠나는 사람들이 많아 인천국제공항이 북새통을 이뤘는데 예약된 여행 일정 때문에 여객기에 탑승해 안전벨트를 매면서도]]></content>
     </entry>
 </feed>
