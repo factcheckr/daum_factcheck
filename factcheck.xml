@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-06T23:24:28.159Z</updated>
+    <updated>2025-02-07T01:46:47.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K]② “개헌으로 지방 분권”…취지와 구상은?]]></title>
+        <id>https://v.daum.net/v/20250207084008233</id>
+        <link href="https://v.daum.net/v/20250207084008233"/>
+        <updated>2025-02-07T01:45:55.415Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 이렇게 정치적 이해가 갈려 번번이 중단됐던 개헌 논의가 최근, 비상 계엄 사태로 다시 수면 위로 떠올랐습니다. 이번 개헌 논의의 핵심도 '권력 분산'인데요. 대통령 통치 권력뿐만 아니라 중앙 정부의 권한도 나눠 지방 분권을 이뤄야 한다는 요구가 거셉니다. 그 취지와 구상을 진희정 기자가 보도합니다. [리포트] 정치권을 중심으로  이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K]① ‘권력구조 개편’ 개헌 논의, 40년 가까이 공전]]></title>
+        <id>https://v.daum.net/v/20250207083451134</id>
+        <link href="https://v.daum.net/v/20250207083451134"/>
+        <updated>2025-02-07T01:45:55.418Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 비상계엄 이후 탄핵 국면에 접어든 뒤, 개헌이 활발하게 논의되고 있습니다. 현행 대통령제의 폐단을 줄이자는 취지에선데요. 수십 년 동안 번번이 불거진 개헌 논의가 이번엔 실효를 거둘까요? 관련 취지와 상황, 집중적으로 살펴봅니다. 먼저, 40년 가까이  공전을 거듭한 개헌 추진의 역사를  이유진 기자가 짚어봅니다. [리포트] 우리나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 약탈된 고려불상 소유권이 일본에 있다?]]></title>
         <id>https://v.daum.net/v/20250207072015884</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20250205201034157"/>
         <updated>2025-02-05T11:18:25.431Z</updated>
         <content type="html"><![CDATA[[앵커] 윤석열 대통령 탄핵심판에 나온 이진우, 여인형 전 사령관과 홍장원 전 국정원 1차장의 증언은 엇갈렸습니다. 홍 전 차장은 '대통령이 싹 다 잡아들이라 했다'고 일관되게 증언하고 있는 반면, 두 전직 사령관은 대통령 관련 부분은 답변을 거부하거나 '대통령이 누군가를 체포하라 한 적 없다'는 등의 증언을 이어갔는데 누구 말이 맞는 건지, 김혜미 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] AI가 인간의 모든 일자리를 대체한다?]]></title>
-        <id>https://v.daum.net/v/20250205072012485</id>
-        <link href="https://v.daum.net/v/20250205072012485"/>
-        <updated>2025-02-04T23:21:05.169Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 10년간 급속히 발전한 인공지능(AI·Artificial Intelligence)이 다양한 산업에 빠르게 도입되면서 그 활용도는 갈수록 높아지고 있다. AI가 생산성을 향상하고 인간에게 편의를 제공하는 긍정적인 역할도 있지만, 인간의 기존 직업이 AI로 대체돼 많은 근로자가 일자리를 잃게 될 것이라는 우려도 커지고 있]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우체통에는 편지만 넣을 수 있다?]]></title>
-        <id>https://v.daum.net/v/20250204072010800</id>
-        <link href="https://v.daum.net/v/20250204072010800"/>
-        <updated>2025-02-03T22:20:58.814Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 우체통이 40여년 만에 '에코 우체통'으로 모습을 바꾸며 환경보호 창구 역할도 한다는 보도가 나오면서 우체통의 활용도에 대한 궁금증이 일고 있다. 이메일이 대중화되기 시작한 1990년대 중반 이후 태어난 세대는 우체통 자체를 접하기도 쉽지 않은 상황에서 우체통의 이런 '변신'이 새로울 수밖에 없기 때문이다. 그렇다]]></content>
     </entry>
 </feed>
