@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-07T08:28:45.844Z</updated>
+    <updated>2025-02-07T09:24:27.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 계엄 호수 위 달그림자다?]]></title>
+        <id>https://v.daum.net/v/20250207174659758</id>
+        <link href="https://v.daum.net/v/20250207174659758"/>
+        <updated>2025-02-07T09:23:38.068Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 헌법재판소의 제5차 탄핵심판 변론기일에서 12.3 비상계엄과 관련한 수사와 재판, 탄핵심판에 대해 "호수 위에 떠 있는 달그림자를 쫓아가는 느낌을 많이 받았다"고 말했습니다. 이진우 전 수도방위사령관에 대한 소추대리인단과 윤 대통령 측 대리인단의 증인신문이 모두 끝난 뒤 발언 내용입니다. 그는 이 말에 앞서 "실제 정치인들을 체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["중증외상 수련센터 예산, 국회가 전액 삭감" 오세훈 주장은 '거짓' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250207143301889</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250206200330007"/>
         <updated>2025-02-06T11:18:40.281Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 이유진 기자 (reasontrue@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 로또복권은 현금으로만 구입할 수 있다?]]></title>
-        <id>https://v.daum.net/v/20250206072008001</id>
-        <link href="https://v.daum.net/v/20250206072008001"/>
-        <updated>2025-02-05T22:22:58.697Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 일확천금의 기회로 여겨지는 로또복권을 복권판매점에서 처음 또는 가끔 구입하는 사람들이 자주 겪게 되는 일 중의 하나가 바로 신용카드를 꺼냈다가 거부당하는 것이다. '현금 없는 사회'로 변모하는 우리나라에서 카드 결제가 일상화돼있지만, 로또복권만큼은 카드 결제가 안 되고 현금만 받기 때문이다. 이 때문에 온라인 커뮤니티 등에]]></content>
     </entry>
 </feed>
