@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-07T10:25:43.858Z</updated>
+    <updated>2025-02-07T11:19:01.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 윤 대통령, '인원' 표현 써본 적 없다?]]></title>
+        <id>https://v.daum.net/v/20250207200413300</id>
+        <link href="https://v.daum.net/v/20250207200413300"/>
+        <updated>2025-02-07T11:18:15.179Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ '사람'이라는 표현을 놔두고 '인원'이라는 표현을 써본 적이 없다는 윤 대통령 주장이 무색해지는 사례는 어제 탄핵심판에서만 확인되는 게 아닙니다. 헌재 신문 과정은 물론 간담회나 토론회, 대국민연설에서도 '인원'이라는 말이 수차례 등장합니다. 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해봤습니다. ◀ 리포트 ▶ 취임 한 달이 지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 윤 대통령 "인원이란 말 써본 적이 없다"?]]></title>
+        <id>https://v.daum.net/v/20250207193113730</id>
+        <link href="https://v.daum.net/v/20250207193113730"/>
+        <updated>2025-02-07T11:18:15.189Z</updated>
+        <content type="html"><![CDATA[[앵커] 곽종근 전 특전사령관은 윤 대통령 면전에서도 "대통령이 국회에서 인원들을 끌어내라고 했다"고 일관되게 증언했습니다. 그러자, 윤 대통령은 "인원이라는 말을 써본 적이 없다"며 목소리를 높였는데요. 앞서 전해드린 대로 단어 하나하나를 따져가며 '구체적인 지시를 한 바 없다. 그러니 잘못도 없다' 이걸 주장해 보려는 겁니다. 본질을 감추려는 시도이고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 계엄 호수 위 달그림자다?]]></title>
         <id>https://v.daum.net/v/20250207174659758</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20250206205709878"/>
         <updated>2025-02-06T12:44:10.635Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 자신의 목적을 달성하기 위해서 관세를 무기처럼 쓰고 있는 트럼프 대통령이&nbsp;최근 관세 조치의&nbsp;성공 사례로 한국산 세탁기를&nbsp;꼽았습니다. 덤핑 판매되고 있던&nbsp;한국산 세탁기에&nbsp;관세를 매겨서&nbsp;미국 회사들을&nbsp;살렸단 겁니다. 정말 이게 사실인지 팩트체크 &lt;사실은&gt; 팀에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 지난달 27일 열린 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K]② “개헌으로 지방 분권”…취지와 구상은?]]></title>
-        <id>https://v.daum.net/v/20250206200335010</id>
-        <link href="https://v.daum.net/v/20250206200335010"/>
-        <updated>2025-02-06T11:18:40.278Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 진희정 기자 (5w1h@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K]① ‘권력구조 개편’ 개헌 논의, 40년 가까이 공전]]></title>
-        <id>https://v.daum.net/v/20250206200330007</id>
-        <link href="https://v.daum.net/v/20250206200330007"/>
-        <updated>2025-02-06T11:18:40.281Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 이유진 기자 (reasontrue@kbs.co.kr)]]></content>
     </entry>
 </feed>
