@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-09T21:20:46.546Z</updated>
+    <updated>2025-02-09T22:21:56.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '착오 송금' 알면서 써도 되나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250210072011258</id>
+        <link href="https://v.daum.net/v/20250210072011258"/>
+        <updated>2025-02-09T22:21:12.816Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 평소에 은행을 통해 비대면으로 돈을 이체하거나 송금하다 보면 복잡한 계좌번호 때문에 숫자를 잘못 누르는 경우가 있다. 특히, 스마트폰에서 모바일뱅킹을 하려면 상대적으로 손이 큰 남성의 경우 터치패드에 원하는 숫자가 아닌 다른 숫자가 눌러지는 경우도 적지 않게 발생한다. 만일 송금 또는 이체 계좌번호가 제대로 입력됐는지 확]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 윤 대통령, '인원' 표현 써본 적 없다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250207200413300</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250206214904602"/>
         <updated>2025-02-06T13:27:24.513Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 이유진 기자 (reasontrue@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국산 세탁기' 때렸던 트럼프…실속 챙기고 '생색' [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250206205709878</id>
-        <link href="https://v.daum.net/v/20250206205709878"/>
-        <updated>2025-02-06T12:44:10.635Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 자신의 목적을 달성하기 위해서 관세를 무기처럼 쓰고 있는 트럼프 대통령이&nbsp;최근 관세 조치의&nbsp;성공 사례로 한국산 세탁기를&nbsp;꼽았습니다. 덤핑 판매되고 있던&nbsp;한국산 세탁기에&nbsp;관세를 매겨서&nbsp;미국 회사들을&nbsp;살렸단 겁니다. 정말 이게 사실인지 팩트체크 &lt;사실은&gt; 팀에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 지난달 27일 열린 미국]]></content>
     </entry>
 </feed>
