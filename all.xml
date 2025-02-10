@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-10T04:28:59.033Z</updated>
+    <updated>2025-02-10T05:23:25.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이재명 "후보자 허위사실공표 처벌 조항, 한국 유일" 대체로 거짓  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250210133600505</id>
+        <link href="https://v.daum.net/v/20250210133600505"/>
+        <updated>2025-02-10T05:22:38.121Z</updated>
+        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;이재명 더불어민주당 대표가 지난 1월 23일 오전 서울 여의도 국회 당대표회의실에서 신년기자회견을 열어 취재기자들의 질문에 답변하고 있다.ⓒ 유성호[검증 대상] "후보자 행위에 대해 허위사실 공표 처벌 조항은 한국이 유일" "후보자의 행위에 대해서 허위사실을 공표하면 처벌한다는 조항이 전 세계에 대한민국이 유일하다고 알려져 있다." 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '착오 송금' 알면서 써도 되나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250210072011258</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250206214907603"/>
         <updated>2025-02-06T13:27:24.511Z</updated>
         <content type="html"><![CDATA[[KBS 청주] 진희정 기자 (5w1h@kbs.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K]① ‘권력구조 개편’ 개헌 논의, 40년 가까이 공전 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250206214904602</id>
-        <link href="https://v.daum.net/v/20250206214904602"/>
-        <updated>2025-02-06T13:27:24.513Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] 이유진 기자 (reasontrue@kbs.co.kr)]]></content>
     </entry>
 </feed>
