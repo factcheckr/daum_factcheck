@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-11T21:21:49.365Z</updated>
+    <updated>2025-02-11T22:22:02.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라에서 우표가 사라진다?]]></title>
+        <id>https://v.daum.net/v/20250212072009582</id>
+        <link href="https://v.daum.net/v/20250212072009582"/>
+        <updated>2025-02-11T22:21:15.915Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 40~50대 이상이라면 어릴 적에 우표를 붙여 친구나 친척 등에게 마음을 담아 편지를 보낸 추억을 대부분 갖고 있다. 이처럼 우표는 불과 20~30년 전만 해도 중요한 송달 수단인 우편의 요금을 낸 표시로 우편물에 붙이는 증표였다. 하지만 이제는 온라인 커뮤니티 등에서는 우표 관련 얘기가 나오면 "아직도 우표를 쓰나"",]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도”]]></title>
         <id>https://v.daum.net/v/20250211214650546</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250207193113730"/>
         <updated>2025-02-07T11:18:15.189Z</updated>
         <content type="html"><![CDATA[[앵커] 곽종근 전 특전사령관은 윤 대통령 면전에서도 "대통령이 국회에서 인원들을 끌어내라고 했다"고 일관되게 증언했습니다. 그러자, 윤 대통령은 "인원이라는 말을 써본 적이 없다"며 목소리를 높였는데요. 앞서 전해드린 대로 단어 하나하나를 따져가며 '구체적인 지시를 한 바 없다. 그러니 잘못도 없다' 이걸 주장해 보려는 겁니다. 본질을 감추려는 시도이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 계엄 호수 위 달그림자다?]]></title>
-        <id>https://v.daum.net/v/20250207174659758</id>
-        <link href="https://v.daum.net/v/20250207174659758"/>
-        <updated>2025-02-07T09:23:38.068Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 헌법재판소의 제5차 탄핵심판 변론기일에서 12.3 비상계엄과 관련한 수사와 재판, 탄핵심판에 대해 "호수 위에 떠 있는 달그림자를 쫓아가는 느낌을 많이 받았다"고 말했습니다. 이진우 전 수도방위사령관에 대한 소추대리인단과 윤 대통령 측 대리인단의 증인신문이 모두 끝난 뒤 발언 내용입니다. 그는 이 말에 앞서 "실제 정치인들을 체]]></content>
     </entry>
 </feed>
