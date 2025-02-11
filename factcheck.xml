@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-11T12:45:25.255Z</updated>
+    <updated>2025-02-11T13:29:30.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도”]]></title>
+        <id>https://v.daum.net/v/20250211214650546</id>
+        <link href="https://v.daum.net/v/20250211214650546"/>
+        <updated>2025-02-11T13:28:41.381Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 대학 입학생 줄어드는데, 외국인 유학생은 늘어]]></title>
         <id>https://v.daum.net/v/20250211214402517</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250207174659758"/>
         <updated>2025-02-07T09:23:38.068Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 헌법재판소의 제5차 탄핵심판 변론기일에서 12.3 비상계엄과 관련한 수사와 재판, 탄핵심판에 대해 "호수 위에 떠 있는 달그림자를 쫓아가는 느낌을 많이 받았다"고 말했습니다. 이진우 전 수도방위사령관에 대한 소추대리인단과 윤 대통령 측 대리인단의 증인신문이 모두 끝난 뒤 발언 내용입니다. 그는 이 말에 앞서 "실제 정치인들을 체]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["중증외상 수련센터 예산, 국회가 전액 삭감" 오세훈 주장은 '거짓' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250207143301889</id>
-        <link href="https://v.daum.net/v/20250207143301889"/>
-        <updated>2025-02-07T06:31:49.455Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;오세훈 서울시장이 4일 오전 서울시청에서 열린 2025 신년 외신기자 간담회에서 발언하고 있다. 2025.2.4ⓒ 연합뉴스고려대구로병원 중증외상 전문의 수련센터가 정부 예산 삭감으로 운영 중단 위기에 처하자, 서울시에서 재난관리기금 5억 원을 투입하기로 했다(관련기사 : '중증외상 수련센터' 급한 불 껐다... 오세훈 "5억 투입" h]]></content>
     </entry>
 </feed>
