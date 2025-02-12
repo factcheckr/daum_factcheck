@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-12T12:44:58.597Z</updated>
+    <updated>2025-02-12T13:28:30.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충주시 “인구 27만 명 목표”…계획과 과제]]></title>
+        <id>https://v.daum.net/v/20250212215443124</id>
+        <link href="https://v.daum.net/v/20250212215443124"/>
+        <updated>2025-02-12T13:27:45.731Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 최근, 중부내륙철도 개통으로 지역 발전의 호재를 맞은 충북 제2의 도시, 충주시가 미래 청사진을 내놨습니다. 점점 줄어드는 인구를 다시 27만 명까지 늘리겠다는 계획인데요. 어떤 구상인지, 과제는 뭔지, 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 충북에서 청주시에 이어 두 번째로 인구가 많은 도시, 충주시입니다. 면적은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 윤 대통령, 야당이 박수 안 쳐서 계엄했다?]]></title>
         <id>https://v.daum.net/v/20250212201616508</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250211193209009"/>
         <updated>2025-02-11T11:19:14.514Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 대학 입학생 줄어드는데, 외국인 유학생은 늘어]]></title>
-        <id>https://v.daum.net/v/20250211193033984</id>
-        <link href="https://v.daum.net/v/20250211193033984"/>
-        <updated>2025-02-11T11:19:14.520Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 학령 인구 감소로 충북의 대학 신입생도 갈수록 줄어들고 있는데요. 외국에서 온 유학생은 눈에 띄게 늘고 있습니다. 지역 대학, 나아가 충북의 존립을 위한 유학생 유치도 활발한데요. 팩트체크 K, 먼저 우리 대학가의 실상을 민수아 기자가 보도합니다. [리포트] 저출생 여파로 해마다 눈에 띄게 줄어드는 학령 인구. 그마저도 수도권 명문]]></content>
     </entry>
 </feed>
