@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-12T21:22:21.159Z</updated>
+    <updated>2025-02-12T22:22:28.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국만 '현금 없는 사회'로 바뀐다?]]></title>
+        <id>https://v.daum.net/v/20250213072009719</id>
+        <link href="https://v.daum.net/v/20250213072009719"/>
+        <updated>2025-02-12T22:21:47.384Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = "누구나 가슴 속에 3천원쯤은 있는 거예요!" 한겨울 언제 어디서 마주칠지 모르는 노점에서 붕어빵을 사 먹기 위해 현금 몇천원 정도는 갖고 다녀야 한다는 의미인데, 한 드라마의 유명 대사를 패러디한 이 유행어마저 이제는 옛말이 됐다. 시민들의 지갑에서 현금이 점점 사라지자 대부분의 노점상도 현금 대신 계좌이체를 받기 시작했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 충주시 “인구 27만 명 목표”…계획과 과제]]></title>
         <id>https://v.daum.net/v/20250212215443124</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250211214402517"/>
         <updated>2025-02-11T12:44:38.532Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 학령 인구 감소로 충북의 대학 신입생도 갈수록 줄어들고 있는데요. 외국에서 온 유학생은 눈에 띄게 늘고 있습니다. 지역 대학, 나아가 충북의 존립을 위한 유학생 유치도 활발한데요. 팩트체크 K, 먼저 우리 대학가의 실상을 민수아 기자가 보도합니다. [리포트] 저출생 여파로 해마다 눈에 띄게 줄어드는 학령 인구. 그마저도 수도권 명문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도”]]></title>
-        <id>https://v.daum.net/v/20250211193209009</id>
-        <link href="https://v.daum.net/v/20250211193209009"/>
-        <updated>2025-02-11T11:19:14.514Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
     </entry>
 </feed>
