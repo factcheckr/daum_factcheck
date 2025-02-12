@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-11T23:23:27.803Z</updated>
+    <updated>2025-02-12T01:46:34.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도”]]></title>
+        <id>https://v.daum.net/v/20250212091448224</id>
+        <link href="https://v.daum.net/v/20250212091448224"/>
+        <updated>2025-02-12T01:45:49.094Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 대학 입학생 줄어드는데, 외국인 유학생은 늘어]]></title>
+        <id>https://v.daum.net/v/20250212091445223</id>
+        <link href="https://v.daum.net/v/20250212091445223"/>
+        <updated>2025-02-12T01:45:49.095Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 학령 인구 감소로 충북의 대학 신입생도 갈수록 줄어들고 있는데요. 외국에서 온 유학생은 눈에 띄게 늘고 있습니다. 지역 대학, 나아가 충북의 존립을 위한 유학생 유치도 활발한데요. 팩트체크 K, 먼저 우리 대학가의 실상을 민수아 기자가 보도합니다. [리포트] 저출생 여파로 해마다 눈에 띄게 줄어드는 학령 인구. 그마저도 수도권 명문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라에서 우표가 사라진다?]]></title>
         <id>https://v.daum.net/v/20250212072009582</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20250210072011258"/>
         <updated>2025-02-09T22:21:12.816Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 평소에 은행을 통해 비대면으로 돈을 이체하거나 송금하다 보면 복잡한 계좌번호 때문에 숫자를 잘못 누르는 경우가 있다. 특히, 스마트폰에서 모바일뱅킹을 하려면 상대적으로 손이 큰 남성의 경우 터치패드에 원하는 숫자가 아닌 다른 숫자가 눌러지는 경우도 적지 않게 발생한다. 만일 송금 또는 이체 계좌번호가 제대로 입력됐는지 확]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 윤 대통령, '인원' 표현 써본 적 없다?]]></title>
-        <id>https://v.daum.net/v/20250207200413300</id>
-        <link href="https://v.daum.net/v/20250207200413300"/>
-        <updated>2025-02-07T11:18:15.179Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ '사람'이라는 표현을 놔두고 '인원'이라는 표현을 써본 적이 없다는 윤 대통령 주장이 무색해지는 사례는 어제 탄핵심판에서만 확인되는 게 아닙니다. 헌재 신문 과정은 물론 간담회나 토론회, 대국민연설에서도 '인원'이라는 말이 수차례 등장합니다. 팩트체크 &lt;알고보니&gt;에서 이준범 기자가 확인해봤습니다. ◀ 리포트 ▶ 취임 한 달이 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤 대통령 "인원이란 말 써본 적이 없다"?]]></title>
-        <id>https://v.daum.net/v/20250207193113730</id>
-        <link href="https://v.daum.net/v/20250207193113730"/>
-        <updated>2025-02-07T11:18:15.189Z</updated>
-        <content type="html"><![CDATA[[앵커] 곽종근 전 특전사령관은 윤 대통령 면전에서도 "대통령이 국회에서 인원들을 끌어내라고 했다"고 일관되게 증언했습니다. 그러자, 윤 대통령은 "인원이라는 말을 써본 적이 없다"며 목소리를 높였는데요. 앞서 전해드린 대로 단어 하나하나를 따져가며 '구체적인 지시를 한 바 없다. 그러니 잘못도 없다' 이걸 주장해 보려는 겁니다. 본질을 감추려는 시도이고]]></content>
     </entry>
 </feed>
