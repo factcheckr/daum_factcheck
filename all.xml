@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-13T21:21:38.822Z</updated>
+    <updated>2025-02-13T22:22:23.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 트럼프 관세 부과가 미국 경제에 큰 도움된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250214072010053</id>
+        <link href="https://v.daum.net/v/20250214072010053"/>
+        <updated>2025-02-13T22:21:35.735Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 도널드 트럼프 미국 대통령이 취임 후 연일 전 세계를 상대로 관세 부과 정책을 발표하면서 글로벌 경제를 뒤흔들고 있다. 이는 마가(MAGA·Make America Great Again·미국을 다시 위대하게·트럼프의 선거 구호)를 내세운 트럼프 대통령의 '관세 폭탄' 행보로 볼 수 있지만 미국에 반드시 큰 이득이 되지는 않을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["문형배 재판관이 음란물에 댓글 달았다" 주장은 '새빨간 거짓' [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250213130300355</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250212091448224"/>
         <updated>2025-02-12T01:45:49.094Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 대학 입학생 줄어드는데, 외국인 유학생은 늘어 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250212091445223</id>
-        <link href="https://v.daum.net/v/20250212091445223"/>
-        <updated>2025-02-12T01:45:49.095Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 학령 인구 감소로 충북의 대학 신입생도 갈수록 줄어들고 있는데요. 외국에서 온 유학생은 눈에 띄게 늘고 있습니다. 지역 대학, 나아가 충북의 존립을 위한 유학생 유치도 활발한데요. 팩트체크 K, 먼저 우리 대학가의 실상을 민수아 기자가 보도합니다. [리포트] 저출생 여파로 해마다 눈에 띄게 줄어드는 학령 인구. 그마저도 수도권 명문]]></content>
     </entry>
 </feed>
