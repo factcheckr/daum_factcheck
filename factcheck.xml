@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-13T02:52:43.337Z</updated>
+    <updated>2025-02-13T03:28:24.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "52시간 예외 인정+주4일제"..가능할까?[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20250213121215405</id>
+        <link href="https://v.daum.net/v/20250213121215405"/>
+        <updated>2025-02-13T03:27:42.024Z</updated>
+        <content type="html"><![CDATA[이재명 더불어민주당 대표가 10일 오전 서울 여의도 국회에서 열린 제433회 국회(임시회) 제2차 본회의에서 교섭단체 대표연설을 하고 있다. [이데일리 노진환 기자][이데일리 김정민 경제전문기자] 이재명 더불어민주당 대표가 원내교섭단체 연설에서 주 52시간제 예외 인정과 주4일제 도입을 함께 언급한 이후 논란이 뜨겁다. 여권에서는 이 대표가 현실적으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 충주시 “인구 27만 명 목표”…계획과 과제]]></title>
         <id>https://v.daum.net/v/20250213090139049</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250212072009582"/>
         <updated>2025-02-11T22:21:15.915Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 40~50대 이상이라면 어릴 적에 우표를 붙여 친구나 친척 등에게 마음을 담아 편지를 보낸 추억을 대부분 갖고 있다. 이처럼 우표는 불과 20~30년 전만 해도 중요한 송달 수단인 우편의 요금을 낸 표시로 우편물에 붙이는 증표였다. 하지만 이제는 온라인 커뮤니티 등에서는 우표 관련 얘기가 나오면 "아직도 우표를 쓰나"",]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도”]]></title>
-        <id>https://v.daum.net/v/20250211214650546</id>
-        <link href="https://v.daum.net/v/20250211214650546"/>
-        <updated>2025-02-11T13:28:41.381Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
     </entry>
 </feed>
