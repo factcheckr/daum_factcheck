@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-14T10:25:15.508Z</updated>
+    <updated>2025-02-14T11:19:13.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "헌재, 일제 치하 일본인 재판관보다 못하다"? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250214195300463</id>
+        <link href="https://v.daum.net/v/20250214195300463"/>
+        <updated>2025-02-14T11:18:25.140Z</updated>
+        <content type="html"><![CDATA[[앵커] 이렇게 헌재에서 윤 대통령과 변호인단이 궤변을 쏟아내고 있는 가운데 한 현직 검사장은 오히려 헌재를 탓하며 "일제 치하 일본인 재판관보다 못하다"고 비난했습니다. 윤 대통령의 탄핵 심판을 역사적인 '안중근 의사'의 재판에 빗댄 것 자체도 말이 안 되지만, 굳이 따져보니 그나마도 대부분 사실과 달랐습니다. 팩트체크, 김혜미 기자입니다. [기자] 윤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 트럼프 관세 부과가 미국 경제에 큰 도움된다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250214072010053</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250212154500373"/>
         <updated>2025-02-12T07:21:01.136Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ 국가인권위원회 2차 전원위원회&nbsp;안창호 국가인권위원회 위원장이 10일 서울 중구 국가인권위에서 열린 제2차 전원위원회에서 발언하고 있다.ⓒ 공동취재사진국가인권위원회(아래 인권위)가 지난 10일 윤석열 대통령의 탄핵심판 방어권 보장을 권고하는 안건을 의결하는 과정에서 "선진국에서도 계엄 선포를 많이 한다"며 12.3내란을 정당화하는 발언이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “유학비자 완화…우수 인재 정착 유도” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250212091448224</id>
-        <link href="https://v.daum.net/v/20250212091448224"/>
-        <updated>2025-02-12T01:45:49.094Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 이런 유학생을 충북의 인재로 키우고 지역에 정착하도록 돕자는 논의가 활발합니다. 당장, 유학 비자 조건부터 완화하자는 움직임이 활발한데요. 법무부의 지역별 맞춤형 광역비자 시범 사업에 충북이 도전장을 내밀었습니다. 그 취지와 기대 효과를 이유진 기자가 취재했습니다. [리포트] 2017년부터 우리나라에서 경영학을 공부하고 있는 베트남]]></content>
     </entry>
 </feed>
