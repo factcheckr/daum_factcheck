@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-15T20:23:13.391Z</updated>
+    <updated>2025-02-15T21:20:47.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 보조배터리 등 강화된 기내반입 제한 조치 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250216055706518</id>
+        <link href="https://v.daum.net/v/20250216055706518"/>
+        <updated>2025-02-15T21:19:56.666Z</updated>
+        <content type="html"><![CDATA[■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허위 의심 정보에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 헌재, 일제 재판관보다 못하다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250215100005791</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250212201616508"/>
         <updated>2025-02-12T11:19:19.563Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 어제 탄핵심판 변론에서 윤석열 대통령은 다시 한 번 탄핵의 배경으로, 계엄의 배경으로 야당의 적대적인 태도를 꼽았습니다. 그 근거로 연설을 하러 국회를 찾은 자신에게, 야당 의원들이 박수도 쳐주지 않았다고 말했는데요. 이게 과연 계엄의 이유가 될 만한 일인지, 팩트체크 &lt;알고보니&gt;에서 확인해봤습니다. 이준범 기자입니다. ◀ 리포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 계엄 국무회의 '사후 결재' 가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250212195734160</id>
-        <link href="https://v.daum.net/v/20250212195734160"/>
-        <updated>2025-02-12T11:19:19.563Z</updated>
-        <content type="html"><![CDATA[[앵커] 계엄 선포 직전 5분 만에 끝난 국무회의, 정상적인 회의였다면 문서에 장관들 서명이 있어야 하는데 이것조차 없었습니다. 이에 대해 윤 대통령은 "계엄은 사후 결재가 가능하다"고 주장했습니다. 그러나 아무런 법적 근거가 없는 주장입니다. 김혜미 기자가 팩트체크 했습니다. [기자] 윤 대통령은 줄곧 계엄이 "헌법적 결단이자 대통령의 통치행위"라고 주]]></content>
     </entry>
 </feed>
