@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-17T02:55:58.974Z</updated>
+    <updated>2025-02-17T03:29:51.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 포박하려는 게 아니었다? 김현태 단장 말 뒤집는 결정적 사진 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250217120900576</id>
+        <link href="https://v.daum.net/v/20250217120900576"/>
+        <updated>2025-02-17T03:29:05.917Z</updated>
+        <content type="html"><![CDATA[[김시연, 유성호 기자] ▲ &nbsp;윤석열 대통령이 비상계엄을 선포한 지난해 12월 3일 오후 무장한 계엄군이 국회 본청 출입을 막기 위해 청테이프로 문을 걸어 잠그고 있다. 육군특수전사령부 707특수임무단(707특임단) 소속으로 확인된 대원이 오른쪽 허벅지 벨트에 수갑 대용으로 쓰이는 케이블타이(빨간색 원)를 휴대하고 있다.ⓒ 유성호▲ &nbsp;지난해 12월 3일 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국산 '딥시크 포비아' 왜 생겼나?]]></title>
         <id>https://v.daum.net/v/20250217072008884</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250213090139049"/>
         <updated>2025-02-13T01:46:16.343Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 최근, 중부내륙철도 개통으로 지역 발전의 호재를 맞은 충북 제2의 도시, 충주시가 미래 청사진을 내놨습니다. 점점 줄어드는 인구를 다시 27만 명까지 늘리겠다는 계획인데요. 어떤 구상인지, 과제는 뭔지, 팩트체크 K, 송국회 기자가 취재했습니다. [리포트] 충북에서 청주시에 이어 두 번째로 인구가 많은 도시, 충주시입니다. 면적은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국만 '현금 없는 사회'로 바뀐다?]]></title>
-        <id>https://v.daum.net/v/20250213072009719</id>
-        <link href="https://v.daum.net/v/20250213072009719"/>
-        <updated>2025-02-12T22:21:47.384Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = "누구나 가슴 속에 3천원쯤은 있는 거예요!" 한겨울 언제 어디서 마주칠지 모르는 노점에서 붕어빵을 사 먹기 위해 현금 몇천원 정도는 갖고 다녀야 한다는 의미인데, 한 드라마의 유명 대사를 패러디한 이 유행어마저 이제는 옛말이 됐다. 시민들의 지갑에서 현금이 점점 사라지자 대부분의 노점상도 현금 대신 계좌이체를 받기 시작했]]></content>
     </entry>
 </feed>
