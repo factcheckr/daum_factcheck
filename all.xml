@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-18T21:21:56.927Z</updated>
+    <updated>2025-02-18T22:22:40.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 갑자기 튀어나온 일각의 하야설…與일축속 국내외 사례는 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250219072011637</id>
+        <link href="https://v.daum.net/v/20250219072011637"/>
+        <updated>2025-02-18T22:21:54.359Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 윤석열 대통령이 헌법재판소의 탄핵 심판 선고 전에 하야 등 거취 결정을 할 수 있다는 주장이 일각에서 제기됐다. 보수 논객 조갑제씨는 최근 "윤 대통령이 어떤 계산을 할지 모르지만 전격 하야 성명을 발표할 가능성이 있다"고 언급해 불씨를 키웠다. 하지만 윤 대통령 측은 물론 여당인 국민의힘도 있을 수 없는 일이라고 분명하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 충북도청 시설 개선에 800억 원?…“미래 준비” vs “예산 낭비” (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250218214832996</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250214195300463"/>
         <updated>2025-02-14T11:18:25.140Z</updated>
         <content type="html"><![CDATA[[앵커] 이렇게 헌재에서 윤 대통령과 변호인단이 궤변을 쏟아내고 있는 가운데 한 현직 검사장은 오히려 헌재를 탓하며 "일제 치하 일본인 재판관보다 못하다"고 비난했습니다. 윤 대통령의 탄핵 심판을 역사적인 '안중근 의사'의 재판에 빗댄 것 자체도 말이 안 되지만, 굳이 따져보니 그나마도 대부분 사실과 달랐습니다. 팩트체크, 김혜미 기자입니다. [기자] 윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 트럼프 관세 부과가 미국 경제에 큰 도움된다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250214072010053</id>
-        <link href="https://v.daum.net/v/20250214072010053"/>
-        <updated>2025-02-13T22:21:35.735Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 도널드 트럼프 미국 대통령이 취임 후 연일 전 세계를 상대로 관세 부과 정책을 발표하면서 글로벌 경제를 뒤흔들고 있다. 이는 마가(MAGA·Make America Great Again·미국을 다시 위대하게·트럼프의 선거 구호)를 내세운 트럼프 대통령의 '관세 폭탄' 행보로 볼 수 있지만 미국에 반드시 큰 이득이 되지는 않을]]></content>
     </entry>
 </feed>
