@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-18T10:25:48.407Z</updated>
+    <updated>2025-02-18T11:19:49.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북도청 시설 개선에 800억 원?…“미래 준비” vs “예산 낭비”]]></title>
+        <id>https://v.daum.net/v/20250218192434889</id>
+        <link href="https://v.daum.net/v/20250218192434889"/>
+        <updated>2025-02-18T11:18:56.787Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 청소년 갈수록 뚱뚱해진다?]]></title>
         <id>https://v.daum.net/v/20250218072012680</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250213130300355"/>
         <updated>2025-02-13T04:27:13.694Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;문형배 헌법재판소장 권한대행이 13일 서울 종로구 헌법재판소에서 열린 '윤석열 대통령 탄핵심판 8차 변론'에 참석해 자리하고 있다.ⓒ 사진공동취재단윤석열 대통령 탄핵심판을 진행 중인 헌법재판관의 개인 신상을 겨냥한 일부 윤석열 지지자와 국민의힘의 마타도어가 도를 넘고 있다. 일부 보수 성향 인터넷매체는 지난 11일 문형배 헌법재판관(헌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "52시간 예외 인정+주4일제"..가능할까?[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250213121215405</id>
-        <link href="https://v.daum.net/v/20250213121215405"/>
-        <updated>2025-02-13T03:27:42.024Z</updated>
-        <content type="html"><![CDATA[이재명 더불어민주당 대표가 10일 오전 서울 여의도 국회에서 열린 제433회 국회(임시회) 제2차 본회의에서 교섭단체 대표연설을 하고 있다. [이데일리 노진환 기자][이데일리 김정민 경제전문기자] 이재명 더불어민주당 대표가 원내교섭단체 연설에서 주 52시간제 예외 인정과 주4일제 도입을 함께 언급한 이후 논란이 뜨겁다. 여권에서는 이 대표가 현실적으로]]></content>
     </entry>
 </feed>
