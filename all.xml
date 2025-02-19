@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-19T21:22:00.406Z</updated>
+    <updated>2025-02-19T22:21:33.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국 '결핵 발생률'이 세계 최고다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250220072008433</id>
+        <link href="https://v.daum.net/v/20250220072008433"/>
+        <updated>2025-02-19T22:20:45.003Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 우리나라의 결핵 환자 발생률이 경제협력개발기구(OECD) 회원국 가운데 2위라는 보도가 나오자 온라인 커뮤니티 등에서 사실 여부를 놓고 주목받았다. 우리나라가 선진국 반열에 오른 만큼 결핵은 먼 나라 이야기로만 들리기 때문이다. 결핵은 좋게 말하면 '사회경제적 질병', 나쁘게 말하면 '후진국 질병'으로 불린다. 실제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '헌재 탄핵심판, 중국이 조종 중'? 음모론 실체는 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250219192413836</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250216063034783"/>
         <updated>2025-02-15T22:21:04.410Z</updated>
         <content type="html"><![CDATA[“2월에 할인 프로모션을 한다며 20%를 할인해 달라고 하더라고요. 우리가 100% 부담하는 방식이라 어렵다고 하니 5유로(10% 수준)만이라도 내려달라더군요. 대신 ‘민다’에서 가격을 10% 올리면 결국 ‘마이리얼트립’에서 20% 할인가를 적용하는 셈이라는 대체 옵션까지 알려주더라고요.” 지난 12일 한인 민박 전문 플랫폼 ‘민다’의 김윤희 대표는 유럽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 보조배터리 등 강화된 기내반입 제한 조치 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250216055706518</id>
-        <link href="https://v.daum.net/v/20250216055706518"/>
-        <updated>2025-02-15T21:19:56.666Z</updated>
-        <content type="html"><![CDATA[■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허위 의심 정보에]]></content>
     </entry>
 </feed>
