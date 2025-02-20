@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-20T10:25:44.403Z</updated>
+    <updated>2025-02-20T11:19:47.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화]]></title>
+        <id>https://v.daum.net/v/20250220192955050</id>
+        <link href="https://v.daum.net/v/20250220192955050"/>
+        <updated>2025-02-20T11:19:03.134Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['민주당 중도보수' 논란 속…李 "주4일제와 52시간제 예외는 양립" 가능할까[노컷체크]]]></title>
         <id>https://v.daum.net/v/20250220092701658</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250217120900576"/>
         <updated>2025-02-17T03:29:05.917Z</updated>
         <content type="html"><![CDATA[[김시연, 유성호 기자] ▲ &nbsp;윤석열 대통령이 비상계엄을 선포한 지난해 12월 3일 오후 무장한 계엄군이 국회 본청 출입을 막기 위해 청테이프로 문을 걸어 잠그고 있다. 육군특수전사령부 707특수임무단(707특임단) 소속으로 확인된 대원이 오른쪽 허벅지 벨트에 수갑 대용으로 쓰이는 케이블타이(빨간색 원)를 휴대하고 있다.ⓒ 유성호▲ &nbsp;지난해 12월 3일 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국산 '딥시크 포비아' 왜 생겼나?]]></title>
-        <id>https://v.daum.net/v/20250217072008884</id>
-        <link href="https://v.daum.net/v/20250217072008884"/>
-        <updated>2025-02-16T22:20:42.740Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 중국이 최근 선보인 생성형 인공지능(AI) '딥시크(deepseek)'가 저비용·고효율 모델로 전 세계적으로 주목을 받았지만 세계 각국에서 정보 유출 우려로 사용을 금지하는 등 논란이 이어지고 있다. 우리나라에선 정부 부처와 기관들이 외부 네트워크와 연결된 컴퓨터에서 딥시크 접속을 제한했고, 주요 기업들도 업무 용도로 사]]></content>
     </entry>
 </feed>
