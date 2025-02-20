@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-20T22:22:48.325Z</updated>
+    <updated>2025-02-20T23:23:00.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화]]></title>
+        <id>https://v.daum.net/v/20250221081709946</id>
+        <link href="https://v.daum.net/v/20250221081709946"/>
+        <updated>2025-02-20T23:22:10.581Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 담뱃값은 싼 편이다?]]></title>
         <id>https://v.daum.net/v/20250221072008003</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20250218214832996</id>
         <link href="https://v.daum.net/v/20250218214832996"/>
         <updated>2025-02-18T13:27:55.968Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북도청 시설 개선에 800억 원?…“미래 준비” vs “예산 낭비”]]></title>
-        <id>https://v.daum.net/v/20250218192434889</id>
-        <link href="https://v.daum.net/v/20250218192434889"/>
-        <updated>2025-02-18T11:18:56.787Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
     </entry>
 </feed>
