@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-20T21:21:02.216Z</updated>
+    <updated>2025-02-20T22:22:48.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 담뱃값은 싼 편이다?]]></title>
+        <id>https://v.daum.net/v/20250221072008003</id>
+        <link href="https://v.daum.net/v/20250221072008003"/>
+        <updated>2025-02-20T22:21:59.235Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 정부가 흡연율 감소를 내세우며 담뱃값을 2천500원에서 4천500원으로 인상한 지 10년이 지났다. 질병관리청의 '2023 국민건강통계'에 따르면 성인 흡연자 중 '1개월 이내에 금연할 계획이 있다'는 응답은 전체의 13.1%에 불과해 금연 계획률이 최근 3년 연속 하락세를 보였을 뿐만 아니라 2005년 이후 가장 낮은 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화]]></title>
         <id>https://v.daum.net/v/20250220214040079</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250218192434889"/>
         <updated>2025-02-18T11:18:56.787Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 청소년 갈수록 뚱뚱해진다?]]></title>
-        <id>https://v.daum.net/v/20250218072012680</id>
-        <link href="https://v.daum.net/v/20250218072012680"/>
-        <updated>2025-02-17T22:21:18.016Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 서구화된 식습관과 만성적인 운동 부족으로 우리나라 소아·청소년의 비만이 우려된다는 보도를 최근 심심치 않게 접할 수 있다. 최근 몇 년간 어린 세대를 중심으로 인기를 끈 흑당, 마라탕, 탕후루, 요구르트 아이스크림 등 고열량·고당분 식품은 비만 문제를 심화하는 원인으로 지목돼 비판의 대상이 되기도 했다. 소아청소년기 비만]]></content>
     </entry>
 </feed>
