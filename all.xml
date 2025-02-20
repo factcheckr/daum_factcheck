@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-20T11:19:47.128Z</updated>
+    <updated>2025-02-20T12:46:15.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250220214040079</id>
+        <link href="https://v.daum.net/v/20250220214040079"/>
+        <updated>2025-02-20T12:45:28.518Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250220192955050</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250218072012680"/>
         <updated>2025-02-17T22:21:18.016Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 서구화된 식습관과 만성적인 운동 부족으로 우리나라 소아·청소년의 비만이 우려된다는 보도를 최근 심심치 않게 접할 수 있다. 최근 몇 년간 어린 세대를 중심으로 인기를 끈 흑당, 마라탕, 탕후루, 요구르트 아이스크림 등 고열량·고당분 식품은 비만 문제를 심화하는 원인으로 지목돼 비판의 대상이 되기도 했다. 소아청소년기 비만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 포박하려는 게 아니었다? 김현태 단장 말 뒤집는 결정적 사진 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250217120900576</id>
-        <link href="https://v.daum.net/v/20250217120900576"/>
-        <updated>2025-02-17T03:29:05.917Z</updated>
-        <content type="html"><![CDATA[[김시연, 유성호 기자] ▲ &nbsp;윤석열 대통령이 비상계엄을 선포한 지난해 12월 3일 오후 무장한 계엄군이 국회 본청 출입을 막기 위해 청테이프로 문을 걸어 잠그고 있다. 육군특수전사령부 707특수임무단(707특임단) 소속으로 확인된 대원이 오른쪽 허벅지 벨트에 수갑 대용으로 쓰이는 케이블타이(빨간색 원)를 휴대하고 있다.ⓒ 유성호▲ &nbsp;지난해 12월 3일 오]]></content>
     </entry>
 </feed>
