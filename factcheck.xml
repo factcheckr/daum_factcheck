@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-19T23:22:22.013Z</updated>
+    <updated>2025-02-20T01:48:05.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['민주당 중도보수' 논란 속…李 "주4일제와 52시간제 예외는 양립" 가능할까[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20250220092701658</id>
+        <link href="https://v.daum.net/v/20250220092701658"/>
+        <updated>2025-02-20T01:47:16.778Z</updated>
+        <content type="html"><![CDATA[핵심요약李 "노동 양으로 승부? 선진국 될 수 없다" 2주 전엔 "몰아서 일하기 왜 안되나" AI 선두 주자 美 보니…'양립 가능' 노동계 "이론적으로 가능해도…총 노동시간 연장 우려" 판정 결과, '절반의 사실' "몰아서 일하는 것을 허용해달라는 것은 합리적인 요구로 보인다" (3일 국회 민주당 정책 토론회) "과학 기술의 시대, 이제는 노동이 양으로 승]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국 '결핵 발생률'이 세계 최고다?]]></title>
         <id>https://v.daum.net/v/20250220072008433</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250217072008884"/>
         <updated>2025-02-16T22:20:42.740Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 중국이 최근 선보인 생성형 인공지능(AI) '딥시크(deepseek)'가 저비용·고효율 모델로 전 세계적으로 주목을 받았지만 세계 각국에서 정보 유출 우려로 사용을 금지하는 등 논란이 이어지고 있다. 우리나라에선 정부 부처와 기관들이 외부 네트워크와 연결된 컴퓨터에서 딥시크 접속을 제한했고, 주요 기업들도 업무 용도로 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] ‘한인민박 DB’ 두고 10억 소송… 마이리얼트립 vs 민다]]></title>
-        <id>https://v.daum.net/v/20250216063034783</id>
-        <link href="https://v.daum.net/v/20250216063034783"/>
-        <updated>2025-02-15T22:21:04.410Z</updated>
-        <content type="html"><![CDATA[“2월에 할인 프로모션을 한다며 20%를 할인해 달라고 하더라고요. 우리가 100% 부담하는 방식이라 어렵다고 하니 5유로(10% 수준)만이라도 내려달라더군요. 대신 ‘민다’에서 가격을 10% 올리면 결국 ‘마이리얼트립’에서 20% 할인가를 적용하는 셈이라는 대체 옵션까지 알려주더라고요.” 지난 12일 한인 민박 전문 플랫폼 ‘민다’의 김윤희 대표는 유럽]]></content>
     </entry>
 </feed>
