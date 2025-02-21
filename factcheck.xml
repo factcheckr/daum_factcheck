@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-21T11:21:02.998Z</updated>
+    <updated>2025-02-21T12:45:17.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '홍장원 메모'는 체포 명단 아니다?]]></title>
+        <id>https://v.daum.net/v/20250221202515103</id>
+        <link href="https://v.daum.net/v/20250221202515103"/>
+        <updated>2025-02-21T12:44:35.181Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤 대통령은 어제 체포 명단의 존재를 부인하며 홍장원 전 차장이 자신의 격려 전화를 체포지시로 만들어냈다는 주장을 폈습니다. 계엄 당시 여인형 전 사령관이 홍 전 차장에게 불러준 명단은, 체포와는 관계 없는 단순한 위치 파악 목적이었다는 건데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 그동안의 검찰 조사와 헌재 변론에서 드러난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] '헌법 84조' 대통령 당선자도 적용되나]]></title>
         <id>https://v.daum.net/v/20250221193006321</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250220092701658"/>
         <updated>2025-02-20T01:47:16.778Z</updated>
         <content type="html"><![CDATA[핵심요약李 "노동 양으로 승부? 선진국 될 수 없다" 2주 전엔 "몰아서 일하기 왜 안되나" AI 선두 주자 美 보니…'양립 가능' 노동계 "이론적으로 가능해도…총 노동시간 연장 우려" 판정 결과, '절반의 사실' "몰아서 일하는 것을 허용해달라는 것은 합리적인 요구로 보인다" (3일 국회 민주당 정책 토론회) "과학 기술의 시대, 이제는 노동이 양으로 승]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국 '결핵 발생률'이 세계 최고다?]]></title>
-        <id>https://v.daum.net/v/20250220072008433</id>
-        <link href="https://v.daum.net/v/20250220072008433"/>
-        <updated>2025-02-19T22:20:45.003Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 우리나라의 결핵 환자 발생률이 경제협력개발기구(OECD) 회원국 가운데 2위라는 보도가 나오자 온라인 커뮤니티 등에서 사실 여부를 놓고 주목받았다. 우리나라가 선진국 반열에 오른 만큼 결핵은 먼 나라 이야기로만 들리기 때문이다. 결핵은 좋게 말하면 '사회경제적 질병', 나쁘게 말하면 '후진국 질병'으로 불린다. 실제]]></content>
     </entry>
 </feed>
