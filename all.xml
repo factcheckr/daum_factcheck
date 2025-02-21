@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-21T10:25:17.771Z</updated>
+    <updated>2025-02-21T11:21:02.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] '헌법 84조' 대통령 당선자도 적용되나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250221193006321</id>
+        <link href="https://v.daum.net/v/20250221193006321"/>
+        <updated>2025-02-21T11:20:17.782Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 이재명 더불어민주당 대표는 공직선거법 재판 1심에서 징역 1년에 집행유예 2년을 선고받았죠. 이대로라면 다음 대선 출마가 불가능하지만, 아직 2심이 진행 중입니다. 만약 대법원의 최종 선고가 나기 전에 조기 대선이 치러져 이 대표가 당선된다면 진행 중이었던 재판은 중지되는 걸까요, 아니면 그대로 진행되는 걸까요? 사실확인에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 180도 달라진 '여인형 평가'…오락가락 대통령 진술 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250221191945203</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250220072008433"/>
         <updated>2025-02-19T22:20:45.003Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 우리나라의 결핵 환자 발생률이 경제협력개발기구(OECD) 회원국 가운데 2위라는 보도가 나오자 온라인 커뮤니티 등에서 사실 여부를 놓고 주목받았다. 우리나라가 선진국 반열에 오른 만큼 결핵은 먼 나라 이야기로만 들리기 때문이다. 결핵은 좋게 말하면 '사회경제적 질병', 나쁘게 말하면 '후진국 질병'으로 불린다. 실제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '헌재 탄핵심판, 중국이 조종 중'? 음모론 실체는 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250219192413836</id>
-        <link href="https://v.daum.net/v/20250219192413836"/>
-        <updated>2025-02-19T11:19:12.143Z</updated>
-        <content type="html"><![CDATA[[앵커] 이뿐 아니라 헌법재판소가 중국에 의해 조종당하고 있다는 음모론까지 등장했습니다. 헌법재판소 연구원들이 중국인들이라는 건데, 아무 근거도 없는 거짓 주장입니다. 팩트체크, 김혜미 기자입니다. [기자] '탄핵 심판이 중국의 뜻대로 이뤄지고 있다' 이 같은 막무가내식 주장은 이 장면에서부터 시작합니다. [문형배/헌법재판관 (지난 13일 / 탄핵심판 8]]></content>
     </entry>
 </feed>
