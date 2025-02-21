@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-21T09:24:49.652Z</updated>
+    <updated>2025-02-21T10:25:17.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 180도 달라진 '여인형 평가'…오락가락 대통령 진술 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250221191945203</id>
+        <link href="https://v.daum.net/v/20250221191945203"/>
+        <updated>2025-02-21T10:24:26.025Z</updated>
+        <content type="html"><![CDATA[[앵커] 이렇게 윤 대통령 측은 분초까지 따져가며 홍장원 전 차장의 신빙성을 공격했지만, 정작 윤 대통령은 핵심적인 부분에 대해서도 오락가락 말을 바꿨습니다. 김혜미 기자와 팩트체크 해보겠습니다. 김 기자, 우선 따져볼 게 여인형 전 사령관에 대한 윤 대통령의 진술입니다. 바뀌었죠? [기자] 앞서 전해드린 것처럼 윤 대통령은 "여 사령관이 수사 개념이 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[707특임단 작전관 "코브라 타이, 포박용 맞다", <오마이뉴스> 보도 사실 확인 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250221160614429</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250219192413836"/>
         <updated>2025-02-19T11:19:12.143Z</updated>
         <content type="html"><![CDATA[[앵커] 이뿐 아니라 헌법재판소가 중국에 의해 조종당하고 있다는 음모론까지 등장했습니다. 헌법재판소 연구원들이 중국인들이라는 건데, 아무 근거도 없는 거짓 주장입니다. 팩트체크, 김혜미 기자입니다. [기자] '탄핵 심판이 중국의 뜻대로 이뤄지고 있다' 이 같은 막무가내식 주장은 이 장면에서부터 시작합니다. [문형배/헌법재판관 (지난 13일 / 탄핵심판 8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북도청 시설 개선에 800억 원?…“미래 준비” vs “예산 낭비” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250219085230438</id>
-        <link href="https://v.daum.net/v/20250219085230438"/>
-        <updated>2025-02-19T01:46:49.204Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
     </entry>
 </feed>
