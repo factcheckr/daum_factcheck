@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-20T23:23:00.753Z</updated>
+    <updated>2025-02-21T01:48:15.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['민주당, 중도보수' 말했던 김대중·문재인, 이런 이유 때문이었다  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250221092400911</id>
+        <link href="https://v.daum.net/v/20250221092400911"/>
+        <updated>2025-02-21T01:47:31.146Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;더불어민주당 이재명 대표가 19일 서울 마포구 상암동 MBC에서 '100분 토론'에 출연해 발언하고 있다. [더불어민주당 제공]ⓒ 연합뉴스이재명 더불어민주당 대표가 최근 이른바 '우클릭'을 부정하면서 "우리(민주당)는 진보가 아니라 사실 중도보수 정도의 포지션을 갖고 있다"고 말해 당 안팎에서 논란이 되고 있다(관련 기사 : 이재명 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화]]></title>
         <id>https://v.daum.net/v/20250221081709946</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250219072011637"/>
         <updated>2025-02-18T22:21:54.359Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 윤석열 대통령이 헌법재판소의 탄핵 심판 선고 전에 하야 등 거취 결정을 할 수 있다는 주장이 일각에서 제기됐다. 보수 논객 조갑제씨는 최근 "윤 대통령이 어떤 계산을 할지 모르지만 전격 하야 성명을 발표할 가능성이 있다"고 언급해 불씨를 키웠다. 하지만 윤 대통령 측은 물론 여당인 국민의힘도 있을 수 없는 일이라고 분명하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북도청 시설 개선에 800억 원?…“미래 준비” vs “예산 낭비”]]></title>
-        <id>https://v.daum.net/v/20250218214832996</id>
-        <link href="https://v.daum.net/v/20250218214832996"/>
-        <updated>2025-02-18T13:27:55.968Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 88년 된 충북도청 곳곳이 달라지고 있습니다. 청사 곳곳을 손보는데 무려 800억 원이 투입되는데요. 미래를 내다보는 사업이라는 기대와, 예산 낭비라는 우려가 맞섭니다. 그 실상을 팩트체크 K, 이유진 기자가 취재했습니다. [리포트] 민선 8기 취임 이후 대대적인 청사 정비에 나선 김영환 지사. 도청 옥상에 정원을 조성하고,  문서]]></content>
     </entry>
 </feed>
