@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-21T23:23:30.676Z</updated>
+    <updated>2025-02-22T01:45:33.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 헌법재판소, 중국인들이 조종한다?]]></title>
+        <id>https://v.daum.net/v/20250222100007975</id>
+        <link href="https://v.daum.net/v/20250222100007975"/>
+        <updated>2025-02-22T01:43:52.928Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령의 탄핵심판과 내란 혐의에 대한 형사재판을 중국 국적의 법조인들이 조종한다는 주장이 윤석열 대통령 지지세력을 중심으로 빠르게 퍼졌습니다. 헌법연구관들과 판사의 이름이 특이하고, 발음에 중국 억양이 섞여 들린다는 걸 근거로 제시하고 있습니다. JTBC 팩트체크팀이 '중국 조종설'과 관련한 내용에 대해 따져봤습니다. ━ ① 헌법재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '홍장원 메모'는 체포 명단 아니다?]]></title>
         <id>https://v.daum.net/v/20250221202515103</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250220192955050"/>
         <updated>2025-02-20T11:19:03.134Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민주당 중도보수' 논란 속…李 "주4일제와 52시간제 예외는 양립" 가능할까[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20250220092701658</id>
-        <link href="https://v.daum.net/v/20250220092701658"/>
-        <updated>2025-02-20T01:47:16.778Z</updated>
-        <content type="html"><![CDATA[핵심요약李 "노동 양으로 승부? 선진국 될 수 없다" 2주 전엔 "몰아서 일하기 왜 안되나" AI 선두 주자 美 보니…'양립 가능' 노동계 "이론적으로 가능해도…총 노동시간 연장 우려" 판정 결과, '절반의 사실' "몰아서 일하는 것을 허용해달라는 것은 합리적인 요구로 보인다" (3일 국회 민주당 정책 토론회) "과학 기술의 시대, 이제는 노동이 양으로 승]]></content>
     </entry>
 </feed>
