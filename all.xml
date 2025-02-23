@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-23T21:21:16.164Z</updated>
+    <updated>2025-02-23T22:21:37.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국 군사력 정말 세계 5위일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250224072015675</id>
+        <link href="https://v.daum.net/v/20250224072015675"/>
+        <updated>2025-02-23T22:20:49.058Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 러시아와 우크라이나의 전쟁, 중동 분쟁 등이 이어지면서 한 국가가 제대로 된 군사력을 갖는 게 얼마나 중요한지에 대해 관심이 쏠리고 있다. 군사력은 경제력을 바탕으로 다양한 무기와 군인 등이 갖춰져야 하므로 단기간에 증강되기 어려운 구조를 갖고 있다. 최근 한국의 군사력이 세계 5위라는 보도가 나오자 온라인 커뮤니티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 무심코 잡은 개구리에 징역형? 야생생물법 체크! (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250224064306242</id>
+        <link href="https://v.daum.net/v/20250224064306242"/>
+        <updated>2025-02-23T22:20:49.062Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 우크라이나 전쟁 포로가 된 북한군인들…한국행 가능한가? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250223201213777</id>
@@ -58,20 +72,6 @@
         <id>https://v.daum.net/v/20250221081709946</id>
         <link href="https://v.daum.net/v/20250221081709946"/>
         <updated>2025-02-20T23:22:10.581Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 담뱃값은 싼 편이다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250221072008003</id>
-        <link href="https://v.daum.net/v/20250221072008003"/>
-        <updated>2025-02-20T22:21:59.235Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 정부가 흡연율 감소를 내세우며 담뱃값을 2천500원에서 4천500원으로 인상한 지 10년이 지났다. 질병관리청의 '2023 국민건강통계'에 따르면 성인 흡연자 중 '1개월 이내에 금연할 계획이 있다'는 응답은 전체의 13.1%에 불과해 금연 계획률이 최근 3년 연속 하락세를 보였을 뿐만 아니라 2005년 이후 가장 낮은 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250220214040079</id>
-        <link href="https://v.daum.net/v/20250220214040079"/>
-        <updated>2025-02-20T12:45:28.518Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
     </entry>
 </feed>
