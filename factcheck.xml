@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-23T10:23:58.964Z</updated>
+    <updated>2025-02-23T11:19:13.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 우크라이나 전쟁 포로가 된 북한군인들…한국행 가능한가?]]></title>
+        <id>https://v.daum.net/v/20250223201213777</id>
+        <link href="https://v.daum.net/v/20250223201213777"/>
+        <updated>2025-02-23T11:18:31.015Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 우크라이나군의 전쟁 포로가 된 북한군이 전쟁이 끝나게 된다면 북한이 아닌 대한민국에 가고 싶다는 뜻을 밝혔습니다. 공개적으로 귀순 의사를 밝힌 건데, 현실화될 수 있는 사안일까요. 사실확인에서 강재묵 기자가 알아봤습니다. 【 기자 】 국제법상 전쟁 포로는 '본국 송환'을 원칙으로 하고 있습니다. 전쟁 포로 대우에 관한 내용을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 헌법재판소, 중국인들이 조종한다?]]></title>
         <id>https://v.daum.net/v/20250222100007975</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20250220214040079</id>
         <link href="https://v.daum.net/v/20250220214040079"/>
         <updated>2025-02-20T12:45:28.518Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “인재 유출 막아라”…충북도·대학 상생 ‘RISE’ 본격화]]></title>
-        <id>https://v.daum.net/v/20250220192955050</id>
-        <link href="https://v.daum.net/v/20250220192955050"/>
-        <updated>2025-02-20T11:19:03.134Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 정부의 대학 재정 지원 권한이  각 시·도로 대폭 이양됐습니다. 지역 발전 전략에 맞게  인재를 키워 지역 성장의 토대를 마련하려는 건데요. 이런 RISE(라이즈) 사업의 배경과 충북의 전망을 팩트체크 K, 진희정 기자가 보도합니다. [리포트] 2022년 기준  충북 17개 대학 취업자 가운데,  지역에서 일자리를 찾은 사람은  2]]></content>
     </entry>
 </feed>
