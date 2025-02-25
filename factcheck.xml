@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-25T21:22:21.905Z</updated>
+    <updated>2025-02-25T22:23:54.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 고령 운전자일수록 교통사고 많이 낸다?]]></title>
+        <id>https://v.daum.net/v/20250226072010184</id>
+        <link href="https://v.daum.net/v/20250226072010184"/>
+        <updated>2025-02-25T22:23:05.640Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 들어 고령 운전자에 의한 교통사고와 이에 따른 인명 피해가 이어지자 일각에서 노인 운전면허 제도를 정비해야 한다는 목소리가 나오고 있다. 지난해 7월 서울 시청역 인근에서 68세 운전자의 역주행 사고로 14명의 사상자가 발생했고, 12월에는 양천구 목동 시장에서 74세 치매 운전자의 자동차 돌진으로 13명이 죽거나 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] “대통령 당선되면 재판 정지되는 건 다수설” 이재명 주장은 사실일까]]></title>
         <id>https://v.daum.net/v/20250225092021790</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250221202515103"/>
         <updated>2025-02-21T12:44:35.181Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤 대통령은 어제 체포 명단의 존재를 부인하며 홍장원 전 차장이 자신의 격려 전화를 체포지시로 만들어냈다는 주장을 폈습니다. 계엄 당시 여인형 전 사령관이 홍 전 차장에게 불러준 명단은, 체포와는 관계 없는 단순한 위치 파악 목적이었다는 건데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 그동안의 검찰 조사와 헌재 변론에서 드러난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '헌법 84조' 대통령 당선자도 적용되나]]></title>
-        <id>https://v.daum.net/v/20250221193006321</id>
-        <link href="https://v.daum.net/v/20250221193006321"/>
-        <updated>2025-02-21T11:20:17.782Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 이재명 더불어민주당 대표는 공직선거법 재판 1심에서 징역 1년에 집행유예 2년을 선고받았죠. 이대로라면 다음 대선 출마가 불가능하지만, 아직 2심이 진행 중입니다. 만약 대법원의 최종 선고가 나기 전에 조기 대선이 치러져 이 대표가 당선된다면 진행 중이었던 재판은 중지되는 걸까요, 아니면 그대로 진행되는 걸까요? 사실확인에서]]></content>
     </entry>
 </feed>
