@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-26T08:33:00.549Z</updated>
+    <updated>2025-02-26T09:26:02.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“야당 국방예산 삭감, 군 무력화” 윤석열 최종 진술은 ‘거짓’ [팩트체크]]]></title>
+        <id>https://v.daum.net/v/20250226180506450</id>
+        <link href="https://v.daum.net/v/20250226180506450"/>
+        <updated>2025-02-26T09:25:12.713Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 지난 25일 탄핵심판 최종의견 진술에서 “거대야당은 핵심 국방예산을 삭감해 우리 군을 무력화하고 하고 있다”고 주장하며, 지휘정찰사업, 전술데이터링크 시스템 성능개량 사업, 장거리 함대공 유도탄 사업, 정밀유도포탄 연구개발사업, 드론방어예산 등 5개 사업을 사례로 들었다. 윤 대통령은 “도대체 누구의 지시를 받아서 핵심예산만 딱딱 골라 삭감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 업비트 영업정지 제재에…투자자 '패닉'이라고?]]></title>
         <id>https://v.daum.net/v/20250226144923122</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250223201213777"/>
         <updated>2025-02-23T11:18:31.015Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 우크라이나군의 전쟁 포로가 된 북한군이 전쟁이 끝나게 된다면 북한이 아닌 대한민국에 가고 싶다는 뜻을 밝혔습니다. 공개적으로 귀순 의사를 밝힌 건데, 현실화될 수 있는 사안일까요. 사실확인에서 강재묵 기자가 알아봤습니다. 【 기자 】 국제법상 전쟁 포로는 '본국 송환'을 원칙으로 하고 있습니다. 전쟁 포로 대우에 관한 내용을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 헌법재판소, 중국인들이 조종한다?]]></title>
-        <id>https://v.daum.net/v/20250222100007975</id>
-        <link href="https://v.daum.net/v/20250222100007975"/>
-        <updated>2025-02-22T01:43:52.928Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령의 탄핵심판과 내란 혐의에 대한 형사재판을 중국 국적의 법조인들이 조종한다는 주장이 윤석열 대통령 지지세력을 중심으로 빠르게 퍼졌습니다. 헌법연구관들과 판사의 이름이 특이하고, 발음에 중국 억양이 섞여 들린다는 걸 근거로 제시하고 있습니다. JTBC 팩트체크팀이 '중국 조종설'과 관련한 내용에 대해 따져봤습니다. ━ ① 헌법재]]></content>
     </entry>
 </feed>
