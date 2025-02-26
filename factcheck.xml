@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-26T21:22:48.636Z</updated>
+    <updated>2025-02-26T22:23:18.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국 대기업 신입 연봉은 세계 최고 수준이다?]]></title>
+        <id>https://v.daum.net/v/20250227072013903</id>
+        <link href="https://v.daum.net/v/20250227072013903"/>
+        <updated>2025-02-26T22:22:30.317Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 우리나라 대기업의 대졸 신입사원 평균 연봉이 5천만원을 넘었다는 보도가 나오자 온라인 커뮤니티 등에서는 "대기업 신입사원의 연봉이 너무 과하다", "이 정도 연봉은 받아야 한다" 등 각종 의견이 쏟아졌다. 우리나라 대기업 중에 삼성, SK, 현대차그룹, 롯데, 두산 등은 세계적인 기업이라는 점에서 그에 걸맞은 연봉을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부가 깎고, 여야 합의로 줄인 국방 예산…윤석열 ‘무조건 야당 탓’]]></title>
         <id>https://v.daum.net/v/20250226215006104</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250225072012591"/>
         <updated>2025-02-24T22:22:12.133Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라의 이혼율이 경제협력개발기구(OECD) 회원국 가운데 상위권이며 아시아 국가 1위라는 내용이 연초부터 온라인 커뮤니티 등에 돌면서 진짜가 맞는지에 대해 논란이 일었다. 최근 들어 이혼 등으로 다시 혼자가 된 이른바 '돌싱'을 주제로 한 드라마나 예능이 일상화될 정도로 우리나라에서 이혼은 이제 드문 일이 아니다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국인 99명 오키나와 압송설…"완전 소설 같은 이야기" [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250225050025673</id>
-        <link href="https://v.daum.net/v/20250225050025673"/>
-        <updated>2025-02-24T20:26:20.600Z</updated>
-        <content type="html"><![CDATA[12·3 비상계엄 당일 중국인 99명이 체포돼 일본 오키나와로 이송됐다는 주장이 제기됐던 중앙선관위 선거연수원(수원)을 지난 19일 중앙일보가 직접 찾았다. 우파 성향 매체가 중국인 99명이 체포됐다고 지목한 곳은 연수원 제2생활관이었다. 이곳에서 3년째 생활 중인 선관위 A사무관(51)은 “처음 들었을 땐 헛웃음만 나왔다. 완전 소설 같은 얘기였기 때문]]></content>
     </entry>
 </feed>
