@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T10:26:40.651Z</updated>
+    <updated>2025-02-26T11:20:30.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 尹 "거대 야당이 방산 기밀 유출하고 군 무력화 시도했다" 주장... 사실 관계 확인 해보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250226193033166</id>
+        <link href="https://v.daum.net/v/20250226193033166"/>
+        <updated>2025-02-26T11:19:43.514Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령은 25일 열린 탄핵심판 최후 진술에서 '12·3 불법 계엄'의 불가피성을 역설하는 데 주력했다. 특히 윤 대통령은 "거대 야당이 추진한 방위사업법 개정안 탓에 방산 기밀이 유출될 수 있다", "야당이 군을 무력화하는 데 앞장서고 있다"며 더불어민주당을 겨냥했다. 이런 윤 대통령의 주장에 대해 사실 관계를 확인해 봤더니 야당의 법안 추진에 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '대통령 계엄선포' 심판 대상 아니다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250226185634646</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250224072015675"/>
         <updated>2025-02-23T22:20:49.058Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 러시아와 우크라이나의 전쟁, 중동 분쟁 등이 이어지면서 한 국가가 제대로 된 군사력을 갖는 게 얼마나 중요한지에 대해 관심이 쏠리고 있다. 군사력은 경제력을 바탕으로 다양한 무기와 군인 등이 갖춰져야 하므로 단기간에 증강되기 어려운 구조를 갖고 있다. 최근 한국의 군사력이 세계 5위라는 보도가 나오자 온라인 커뮤니티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 무심코 잡은 개구리에 징역형? 야생생물법 체크! (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250224064306242</id>
-        <link href="https://v.daum.net/v/20250224064306242"/>
-        <updated>2025-02-23T22:20:49.062Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
     </entry>
 </feed>
