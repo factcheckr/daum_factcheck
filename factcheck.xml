@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-26T09:26:02.301Z</updated>
+    <updated>2025-02-26T10:26:40.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '대통령 계엄선포' 심판 대상 아니다?]]></title>
+        <id>https://v.daum.net/v/20250226185634646</id>
+        <link href="https://v.daum.net/v/20250226185634646"/>
+        <updated>2025-02-26T10:25:58.643Z</updated>
+        <content type="html"><![CDATA[[앵커] 또 최후 변론에서 윤 대통령이 반복하고 또 반복한 건 계엄 선포는 대통령 고유 권한이라 심판의 대상이 아니라는 주장입니다. 12·3 계엄령의 위헌·위법성을 덮는 차원을 넘어 아예 심판의 본질 자체를 외면한 채 법 위에서 서겠다는 전략인데 이 주장이 어떻게 잘못된 것인지, 이 부분부터 팩트체크가 시급합니다. 김혜미 기자가 준비했습니다. [기자] 계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“야당 국방예산 삭감, 군 무력화” 윤석열 최종 진술은 ‘거짓’ [팩트체크]]]></title>
         <id>https://v.daum.net/v/20250226180506450</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250224064306242"/>
         <updated>2025-02-23T22:20:49.062Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 2월 22일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 아나운서(이하 최휘) : 사실 확인이 필요한 허]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 우크라이나 전쟁 포로가 된 북한군인들…한국행 가능한가?]]></title>
-        <id>https://v.daum.net/v/20250223201213777</id>
-        <link href="https://v.daum.net/v/20250223201213777"/>
-        <updated>2025-02-23T11:18:31.015Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 우크라이나군의 전쟁 포로가 된 북한군이 전쟁이 끝나게 된다면 북한이 아닌 대한민국에 가고 싶다는 뜻을 밝혔습니다. 공개적으로 귀순 의사를 밝힌 건데, 현실화될 수 있는 사안일까요. 사실확인에서 강재묵 기자가 알아봤습니다. 【 기자 】 국제법상 전쟁 포로는 '본국 송환'을 원칙으로 하고 있습니다. 전쟁 포로 대우에 관한 내용을]]></content>
     </entry>
 </feed>
