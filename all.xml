@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T12:47:08.004Z</updated>
+    <updated>2025-02-26T13:30:46.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정부가 깎고, 여야 합의로 줄인 국방 예산…윤석열 ‘무조건 야당 탓’ (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250226215006104</id>
+        <link href="https://v.daum.net/v/20250226215006104"/>
+        <updated>2025-02-26T13:30:01.730Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령이 헌법재판소(헌재) 탄핵심판 변론 최종 의견 진술에서 ‘야당이 국방 예산을 삭감해 군을 무력화했다’고 주장했지만, 해당 예산은 정부 스스로 감액하거나 여야 합의로 삭감된 것으로 26일 확인됐다. 윤 대통령이 야당을 공격하면서 거론한 사례들 대부분이 팩트를 왜곡하거나, 아전인수식으로 해석했다는 비판이 나온다. 윤 대통령은 지난 25일 헌재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 윤 대통령, 최종 변론까지 끝없는 '거짓말' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250226203112143</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250225050025673"/>
         <updated>2025-02-24T20:26:20.600Z</updated>
         <content type="html"><![CDATA[12·3 비상계엄 당일 중국인 99명이 체포돼 일본 오키나와로 이송됐다는 주장이 제기됐던 중앙선관위 선거연수원(수원)을 지난 19일 중앙일보가 직접 찾았다. 우파 성향 매체가 중국인 99명이 체포됐다고 지목한 곳은 연수원 제2생활관이었다. 이곳에서 3년째 생활 중인 선관위 A사무관(51)은 “처음 들었을 땐 헛웃음만 나왔다. 완전 소설 같은 얘기였기 때문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반도체 주52시간, 전세계에 없다"는 권성동 말, 대체로 거짓 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250224202707118</id>
-        <link href="https://v.daum.net/v/20250224202707118"/>
-        <updated>2025-02-24T12:46:57.840Z</updated>
-        <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;권성동 국민의힘 원내대표가 20일 오전 서울 여의도 국회에서 열린 비상대책위원회의에서 발언 도중 헛기침을 하고 있다.ⓒ 남소연[검증 대상] "고소득 R&amp;D 인력의 근무 시간을 규제하는 나라는 없다" "반도체 연구 인력이 주52시간 근무에 발목 잡힌 나라는 (한국을 제외하고) 전 세계에 어디에도 없다." 권성동 국민의힘 원내대표가 지난]]></content>
     </entry>
 </feed>
