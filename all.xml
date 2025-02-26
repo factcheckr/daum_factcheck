@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T11:20:30.397Z</updated>
+    <updated>2025-02-26T12:47:08.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 윤 대통령, 최종 변론까지 끝없는 '거짓말' (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250226203112143</id>
+        <link href="https://v.daum.net/v/20250226203112143"/>
+        <updated>2025-02-26T12:46:17.545Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령에게 반성이 없는 이유는, 잘못을 인정하지 않기 때문이겠죠. 어제도 비상계엄이 정당했다는 억지를 이어갔는데, 그나마 그 근거라고 제시한 것들마저도 하나같이 틀린 내용들이었습니다. 마지막까지 계속된 윤 대통령의 거짓말들을, 팩트체크 알고보니에서 이준범 기자가 검증했습니다. ◀ 리포트 ▶ 탄핵심판 최후진술]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 尹 "거대 야당이 방산 기밀 유출하고 군 무력화 시도했다" 주장... 사실 관계 확인 해보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250226193033166</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250224202707118"/>
         <updated>2025-02-24T12:46:57.840Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ &nbsp;권성동 국민의힘 원내대표가 20일 오전 서울 여의도 국회에서 열린 비상대책위원회의에서 발언 도중 헛기침을 하고 있다.ⓒ 남소연[검증 대상] "고소득 R&amp;D 인력의 근무 시간을 규제하는 나라는 없다" "반도체 연구 인력이 주52시간 근무에 발목 잡힌 나라는 (한국을 제외하고) 전 세계에 어디에도 없다." 권성동 국민의힘 원내대표가 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국 군사력 정말 세계 5위일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250224072015675</id>
-        <link href="https://v.daum.net/v/20250224072015675"/>
-        <updated>2025-02-23T22:20:49.058Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 러시아와 우크라이나의 전쟁, 중동 분쟁 등이 이어지면서 한 국가가 제대로 된 군사력을 갖는 게 얼마나 중요한지에 대해 관심이 쏠리고 있다. 군사력은 경제력을 바탕으로 다양한 무기와 군인 등이 갖춰져야 하므로 단기간에 증강되기 어려운 구조를 갖고 있다. 최근 한국의 군사력이 세계 5위라는 보도가 나오자 온라인 커뮤니티]]></content>
     </entry>
 </feed>
