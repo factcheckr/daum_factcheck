@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-26T05:23:22.076Z</updated>
+    <updated>2025-02-26T06:33:30.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 업비트 영업정지 제재에…투자자 '패닉'이라고?]]></title>
+        <id>https://v.daum.net/v/20250226144923122</id>
+        <link href="https://v.daum.net/v/20250226144923122"/>
+        <updated>2025-02-26T06:32:44.004Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 박현영 블록체인전문기자 = "업비트 영업정지요? 이제 업비트 못 쓰는 거예요?" 독보적 점유율을 자랑하는 1위 가상자산(암호화폐) 거래소 업비트 운영사 두나무가 25일 금융당국으로부터 3개월 일부 영업정지 제재를 받았다는 소식이 알려지면서 일대 혼란이 빚어지고 있다. '영업정지 제재'와 관련해 일부 투자자들이 업비트가 영업을 중단하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 고령 운전자일수록 교통사고 많이 낸다?]]></title>
         <id>https://v.daum.net/v/20250226072010184</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250222100007975"/>
         <updated>2025-02-22T01:43:52.928Z</updated>
         <content type="html"><![CDATA[윤석열 대통령의 탄핵심판과 내란 혐의에 대한 형사재판을 중국 국적의 법조인들이 조종한다는 주장이 윤석열 대통령 지지세력을 중심으로 빠르게 퍼졌습니다. 헌법연구관들과 판사의 이름이 특이하고, 발음에 중국 억양이 섞여 들린다는 걸 근거로 제시하고 있습니다. JTBC 팩트체크팀이 '중국 조종설'과 관련한 내용에 대해 따져봤습니다. ━ ① 헌법재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '홍장원 메모'는 체포 명단 아니다?]]></title>
-        <id>https://v.daum.net/v/20250221202515103</id>
-        <link href="https://v.daum.net/v/20250221202515103"/>
-        <updated>2025-02-21T12:44:35.181Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤 대통령은 어제 체포 명단의 존재를 부인하며 홍장원 전 차장이 자신의 격려 전화를 체포지시로 만들어냈다는 주장을 폈습니다. 계엄 당시 여인형 전 사령관이 홍 전 차장에게 불러준 명단은, 체포와는 관계 없는 단순한 위치 파악 목적이었다는 건데요. 맞는 얘기인지, 팩트체크 &lt;알고보니&gt;에서 그동안의 검찰 조사와 헌재 변론에서 드러난]]></content>
     </entry>
 </feed>
