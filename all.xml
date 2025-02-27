@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-27T10:26:15.718Z</updated>
+    <updated>2025-02-27T11:20:27.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 탄핵심판 쟁점마다 말 바꾼 윤 대통령‥왜? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250227201913216</id>
+        <link href="https://v.daum.net/v/20250227201913216"/>
+        <updated>2025-02-27T11:19:35.154Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 탄핵심판에서 윤 대통령 측은 주요 쟁점에 대한 정면승부보다는 증인들의 말이 바뀌었다고 주장하며, 신빙성 깎아내리기에 집중하는 듯 보였습니다. 하지만 정작 주요 사안에 대해 여러 차례 말을 바꾼 건 윤석열 대통령 자신이었는데요. 변론이 진행되면서 계속 달라진 윤 대통령의 말을 팩트체크 '알고보니'에서 이준범 기자가 따져봤습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 화재 때 도어락 파손, 소방서가 물어줘야 한다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250227100006515</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250226072010184"/>
         <updated>2025-02-25T22:23:05.640Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 들어 고령 운전자에 의한 교통사고와 이에 따른 인명 피해가 이어지자 일각에서 노인 운전면허 제도를 정비해야 한다는 목소리가 나오고 있다. 지난해 7월 서울 시청역 인근에서 68세 운전자의 역주행 사고로 14명의 사상자가 발생했고, 12월에는 양천구 목동 시장에서 74세 치매 운전자의 자동차 돌진으로 13명이 죽거나 다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] “대통령 당선되면 재판 정지되는 건 다수설” 이재명 주장은 사실일까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250225092021790</id>
-        <link href="https://v.daum.net/v/20250225092021790"/>
-        <updated>2025-02-25T01:49:15.549Z</updated>
-        <content type="html"><![CDATA[(시사저널=김현지 기자) 형사사건으로 재판을 받다가 대통령이 되면 그 재판은 중지되는 것일까. 기존에 진행 중인 재판은 대통령 임기 5년 동안&nbsp;멈추는 것일까. 현재 다섯 건의 재판을 받고 있는 이재명 더불어민주당 대표가 최근 한 방송에서 "대통령에 당선되면 재판이 정지되는 건 다수설"이라고 주장했지만, 이는 사실과 다르다는 게 법조계 중론이다. 대통령에게는]]></content>
     </entry>
 </feed>
