@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-02-26T23:24:06.501Z</updated>
+    <updated>2025-02-27T01:50:58.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 화재 때 도어락 파손, 소방서가 물어줘야 한다?]]></title>
+        <id>https://v.daum.net/v/20250227100006515</id>
+        <link href="https://v.daum.net/v/20250227100006515"/>
+        <updated>2025-02-27T01:50:15.320Z</updated>
+        <content type="html"><![CDATA[광주광역시의 화재 현장을 수색하던 중 현관문과 잠금장치(도어락)를 파손한 관할 소방서에 세대주들이 수리비를 물어내라고 요구한 사실이 언론을 통해 뒤늦게 알려져 논란이 됐습니다. 6세대가 총 500만원을 청구했는데 '목숨을 걸고 생명을 구한 소방관이 수리비까지 책임져야 하느냐' 며 공분이 일었습니다. 그러자 강기정 광주시장이 소셜미디어(SNS)에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국 대기업 신입 연봉은 세계 최고 수준이다?]]></title>
         <id>https://v.daum.net/v/20250227072013903</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250225092021790"/>
         <updated>2025-02-25T01:49:15.549Z</updated>
         <content type="html"><![CDATA[(시사저널=김현지 기자) 형사사건으로 재판을 받다가 대통령이 되면 그 재판은 중지되는 것일까. 기존에 진행 중인 재판은 대통령 임기 5년 동안&nbsp;멈추는 것일까. 현재 다섯 건의 재판을 받고 있는 이재명 더불어민주당 대표가 최근 한 방송에서 "대통령에 당선되면 재판이 정지되는 건 다수설"이라고 주장했지만, 이는 사실과 다르다는 게 법조계 중론이다. 대통령에게는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 이혼율이 아시아 최고다?]]></title>
-        <id>https://v.daum.net/v/20250225072012591</id>
-        <link href="https://v.daum.net/v/20250225072012591"/>
-        <updated>2025-02-24T22:22:12.133Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라의 이혼율이 경제협력개발기구(OECD) 회원국 가운데 상위권이며 아시아 국가 1위라는 내용이 연초부터 온라인 커뮤니티 등에 돌면서 진짜가 맞는지에 대해 논란이 일었다. 최근 들어 이혼 등으로 다시 혼자가 된 이른바 '돌싱'을 주제로 한 드라마나 예능이 일상화될 정도로 우리나라에서 이혼은 이제 드문 일이 아니다. 그]]></content>
     </entry>
 </feed>
