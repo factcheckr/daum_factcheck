@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-03T21:24:23.703Z</updated>
+    <updated>2025-03-03T22:23:43.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 모든 재판은 세 번 판결 받을 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250304072008517</id>
+        <link href="https://v.daum.net/v/20250304072008517"/>
+        <updated>2025-03-03T22:22:57.404Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 각종 정치 현안과 관련된 재판이 열리면서 재판 절차에 대한 국민적 관심이 높다. 흔히 '삼세판'이라는 말처럼 재판도 세 번의 판결을 받을 수 있는 '삼심제'가 일반적인 상식으로 여겨지지만, 모든 재판이 그렇지는 않다. 어떤 사건은 한 번의 판결로 끝나기도 하고, 또 어떤 사건은 결론이 바뀌어 대여섯번의 재판을 거치기도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 낙동강 강변서 숨 쉬면 콧속 조류독소 쌓인다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250228194418544</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250226185634646"/>
         <updated>2025-02-26T10:25:58.643Z</updated>
         <content type="html"><![CDATA[[앵커] 또 최후 변론에서 윤 대통령이 반복하고 또 반복한 건 계엄 선포는 대통령 고유 권한이라 심판의 대상이 아니라는 주장입니다. 12·3 계엄령의 위헌·위법성을 덮는 차원을 넘어 아예 심판의 본질 자체를 외면한 채 법 위에서 서겠다는 전략인데 이 주장이 어떻게 잘못된 것인지, 이 부분부터 팩트체크가 시급합니다. 김혜미 기자가 준비했습니다. [기자] 계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“야당 국방예산 삭감, 군 무력화” 윤석열 최종 진술은 ‘거짓’ [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250226180506450</id>
-        <link href="https://v.daum.net/v/20250226180506450"/>
-        <updated>2025-02-26T09:25:12.713Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 지난 25일 탄핵심판 최종의견 진술에서 “거대야당은 핵심 국방예산을 삭감해 우리 군을 무력화하고 하고 있다”고 주장하며, 지휘정찰사업, 전술데이터링크 시스템 성능개량 사업, 장거리 함대공 유도탄 사업, 정밀유도포탄 연구개발사업, 드론방어예산 등 5개 사업을 사례로 들었다. 윤 대통령은 “도대체 누구의 지시를 받아서 핵심예산만 딱딱 골라 삭감]]></content>
     </entry>
 </feed>
