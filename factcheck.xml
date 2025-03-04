@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-04T07:24:23.001Z</updated>
+    <updated>2025-03-04T08:29:04.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초고령화 진입한 일본은 상속세 강화···거꾸로 가자는 여야[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20250304165540217</id>
+        <link href="https://v.daum.net/v/20250304165540217"/>
+        <updated>2025-03-04T08:28:16.763Z</updated>
+        <content type="html"><![CDATA[여야가 ‘상속세 감세’ 시동을 걸고 있지만 저출생과 초고령 사회에 진입한 한국에선 도리어 상속세 과세를 강화해야 한다는 지적이 나왔다. 특히 이재명 더불어민주당 대표 주장대로 상속세 면제 기준을 10억원에서 18억원으로 올리면 상위 10%에게 혜택이 돌아간다는 지적이 나온다. 국민의힘은 상속세 최고세율이 50%에 달한다면서 감세를 주장하지만, 상속세 실효세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 모든 재판은 세 번 판결 받을 수 있다?]]></title>
         <id>https://v.daum.net/v/20250304072008517</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250226193033166"/>
         <updated>2025-02-26T11:19:43.514Z</updated>
         <content type="html"><![CDATA[윤석열 대통령은 25일 열린 탄핵심판 최후 진술에서 '12·3 불법 계엄'의 불가피성을 역설하는 데 주력했다. 특히 윤 대통령은 "거대 야당이 추진한 방위사업법 개정안 탓에 방산 기밀이 유출될 수 있다", "야당이 군을 무력화하는 데 앞장서고 있다"며 더불어민주당을 겨냥했다. 이런 윤 대통령의 주장에 대해 사실 관계를 확인해 봤더니 야당의 법안 추진에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '대통령 계엄선포' 심판 대상 아니다?]]></title>
-        <id>https://v.daum.net/v/20250226185634646</id>
-        <link href="https://v.daum.net/v/20250226185634646"/>
-        <updated>2025-02-26T10:25:58.643Z</updated>
-        <content type="html"><![CDATA[[앵커] 또 최후 변론에서 윤 대통령이 반복하고 또 반복한 건 계엄 선포는 대통령 고유 권한이라 심판의 대상이 아니라는 주장입니다. 12·3 계엄령의 위헌·위법성을 덮는 차원을 넘어 아예 심판의 본질 자체를 외면한 채 법 위에서 서겠다는 전략인데 이 주장이 어떻게 잘못된 것인지, 이 부분부터 팩트체크가 시급합니다. 김혜미 기자가 준비했습니다. [기자] 계]]></content>
     </entry>
 </feed>
