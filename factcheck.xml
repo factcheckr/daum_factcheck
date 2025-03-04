@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-04T21:23:23.060Z</updated>
+    <updated>2025-03-04T22:21:56.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라에도 희토류가 있다?]]></title>
+        <id>https://v.daum.net/v/20250305072009127</id>
+        <link href="https://v.daum.net/v/20250305072009127"/>
+        <updated>2025-03-04T22:21:12.743Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 미국이 러시아와 전쟁 중인 우크라이나에 지원한 무기 등에 대한 대가로 희토류(Rare Earth Elements, REEs) 등 주요 광물 개발 지분을 요구하면서 온라인 커뮤니티 등에서는 희토류가 주목받았다. "희토류를 스텔스 전투기 만드는 데도 쓴다는데 그렇게 중요한 거냐?", "우리나라에만 왜 희토류가 없는 거냐?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초고령화 진입한 일본은 상속세 강화···거꾸로 가자는 여야[팩트체크]]]></title>
         <id>https://v.daum.net/v/20250304165540217</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250226203112143"/>
         <updated>2025-02-26T12:46:17.545Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령에게 반성이 없는 이유는, 잘못을 인정하지 않기 때문이겠죠. 어제도 비상계엄이 정당했다는 억지를 이어갔는데, 그나마 그 근거라고 제시한 것들마저도 하나같이 틀린 내용들이었습니다. 마지막까지 계속된 윤 대통령의 거짓말들을, 팩트체크 알고보니에서 이준범 기자가 검증했습니다. ◀ 리포트 ▶ 탄핵심판 최후진술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 尹 "거대 야당이 방산 기밀 유출하고 군 무력화 시도했다" 주장... 사실 관계 확인 해보니]]></title>
-        <id>https://v.daum.net/v/20250226193033166</id>
-        <link href="https://v.daum.net/v/20250226193033166"/>
-        <updated>2025-02-26T11:19:43.514Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령은 25일 열린 탄핵심판 최후 진술에서 '12·3 불법 계엄'의 불가피성을 역설하는 데 주력했다. 특히 윤 대통령은 "거대 야당이 추진한 방위사업법 개정안 탓에 방산 기밀이 유출될 수 있다", "야당이 군을 무력화하는 데 앞장서고 있다"며 더불어민주당을 겨냥했다. 이런 윤 대통령의 주장에 대해 사실 관계를 확인해 봤더니 야당의 법안 추진에 대]]></content>
     </entry>
 </feed>
