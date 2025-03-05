@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-05T15:26:02.782Z</updated>
+    <updated>2025-03-05T16:37:15.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실확인] 한국 관세, 미국보다 4배 높나?]]></title>
         <id>https://v.daum.net/v/20250305190816014</id>
