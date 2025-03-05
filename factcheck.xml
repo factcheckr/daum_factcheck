@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-05T04:28:48.975Z</updated>
+    <updated>2025-03-05T05:24:27.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약사들 욕받이 된 다이소 3천원 영양제, "알고보니 10배 더 비싸다?"[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20250305141500001</id>
+        <link href="https://v.daum.net/v/20250305141500001"/>
+        <updated>2025-03-05T05:23:38.872Z</updated>
+        <content type="html"><![CDATA[핵심요약약사들 "불매운동"까지 나온 '다이소 건기식 대란' '3천원 비타민' '5천원 칼슘'에 "약국, 그동안 폭리" 비난 약국선 안 팔던 '건기식'…"완전히 다른 시장" "따져보면 다이소 제품 10배 더 비싸다?" 주장 나오지만 업계 관계자 "식품 vs 의약품, 단순 비교 불가" 일부 약사는 '불매운동'까지 예고했다. 한 제약사는 제품 출시 단 5일 만에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라에도 희토류가 있다?]]></title>
         <id>https://v.daum.net/v/20250305072009127</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250226215006104"/>
         <updated>2025-02-26T13:30:01.730Z</updated>
         <content type="html"><![CDATA[윤석열 대통령이 헌법재판소(헌재) 탄핵심판 변론 최종 의견 진술에서 ‘야당이 국방 예산을 삭감해 군을 무력화했다’고 주장했지만, 해당 예산은 정부 스스로 감액하거나 여야 합의로 삭감된 것으로 26일 확인됐다. 윤 대통령이 야당을 공격하면서 거론한 사례들 대부분이 팩트를 왜곡하거나, 아전인수식으로 해석했다는 비판이 나온다. 윤 대통령은 지난 25일 헌재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 윤 대통령, 최종 변론까지 끝없는 '거짓말']]></title>
-        <id>https://v.daum.net/v/20250226203112143</id>
-        <link href="https://v.daum.net/v/20250226203112143"/>
-        <updated>2025-02-26T12:46:17.545Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 앞서 보신 것처럼 윤 대통령에게 반성이 없는 이유는, 잘못을 인정하지 않기 때문이겠죠. 어제도 비상계엄이 정당했다는 억지를 이어갔는데, 그나마 그 근거라고 제시한 것들마저도 하나같이 틀린 내용들이었습니다. 마지막까지 계속된 윤 대통령의 거짓말들을, 팩트체크 알고보니에서 이준범 기자가 검증했습니다. ◀ 리포트 ▶ 탄핵심판 최후진술]]></content>
     </entry>
 </feed>
