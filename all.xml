@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-05T21:23:09.680Z</updated>
+    <updated>2025-03-05T22:23:45.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국 경찰만 실탄 못 쏜다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250306070030928</id>
+        <link href="https://v.daum.net/v/20250306070030928"/>
+        <updated>2025-03-05T22:22:56.791Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 경찰관을 흉기로 공격한 남성이 제압되는 과정에서 총탄에 맞아 숨지는 사건이 발생하면서 총기 사용 기준을 둘러싼 논란이 제기됐다. 위험한 치안 현장에서 경찰관의 판단을 지지하는 여론이 강하지만, 실제 경찰관들은 '권총은 쏘는 게 아니라 던지는 것'이라고 말할 정도로 총기 사용을 꺼리는 게 현실이다. 온라인 커뮤니티와 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 트럼프 "韓관세 美의 4배"는 '왜곡'…"국내 정치용 메시지" (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250306043142787</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250228072015144"/>
         <updated>2025-02-27T22:24:21.125Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 지난해 말 수도권광역급행철도(GTX)-A의 개통을 계기로 온라인 커뮤니티 등에서 "경기도민은 인생의 20%를 지하철에서 보낸다"는 밈이 돌았다. 경기도민 다수가 많은 시간을 서울로 출·퇴근하는 데에 쓸 수밖에 없는 현실을 자조적으로 표현한 것이다. 2022년 국회 행정안전위원회 국정감사에선 조응천 당시 의원이 장거리 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 탄핵심판 쟁점마다 말 바꾼 윤 대통령‥왜? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250227201913216</id>
-        <link href="https://v.daum.net/v/20250227201913216"/>
-        <updated>2025-02-27T11:19:35.154Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 탄핵심판에서 윤 대통령 측은 주요 쟁점에 대한 정면승부보다는 증인들의 말이 바뀌었다고 주장하며, 신빙성 깎아내리기에 집중하는 듯 보였습니다. 하지만 정작 주요 사안에 대해 여러 차례 말을 바꾼 건 윤석열 대통령 자신이었는데요. 변론이 진행되면서 계속 달라진 윤 대통령의 말을 팩트체크 '알고보니'에서 이준범 기자가 따져봤습니다.]]></content>
     </entry>
 </feed>
