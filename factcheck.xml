@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-05T19:20:18.987Z</updated>
+    <updated>2025-03-05T20:27:26.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 트럼프 "韓관세 美의 4배"는 '왜곡'…"국내 정치용 메시지"]]></title>
+        <id>https://v.daum.net/v/20250306043142787</id>
+        <link href="https://v.daum.net/v/20250306043142787"/>
+        <updated>2025-03-05T20:26:45.007Z</updated>
+        <content type="html"><![CDATA["한국이 미국보다 4배 높은 관세를 부과하고 있다." 도널드 트럼프 미국 대통령이 4일(현지시간) 미국 워싱턴 DC 연방의회 의사당에서 진행된 상·하원 합동회의 연설에서 우리나라에 상호관세 부과를 시사하며 한 말이다. 확인 결과, 이는 왜곡이었다. 미국과 체결한 자유무역협정(FTA)에 따라 대미 수입품에 대한 평균 관세율은 0%대다. 5일 기획재정부 등에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 한국 관세, 미국보다 4배 높나?]]></title>
         <id>https://v.daum.net/v/20250305190816014</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250227201913216"/>
         <updated>2025-02-27T11:19:35.154Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 탄핵심판에서 윤 대통령 측은 주요 쟁점에 대한 정면승부보다는 증인들의 말이 바뀌었다고 주장하며, 신빙성 깎아내리기에 집중하는 듯 보였습니다. 하지만 정작 주요 사안에 대해 여러 차례 말을 바꾼 건 윤석열 대통령 자신이었는데요. 변론이 진행되면서 계속 달라진 윤 대통령의 말을 팩트체크 '알고보니'에서 이준범 기자가 따져봤습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 화재 때 도어락 파손, 소방서가 물어줘야 한다?]]></title>
-        <id>https://v.daum.net/v/20250227100006515</id>
-        <link href="https://v.daum.net/v/20250227100006515"/>
-        <updated>2025-03-05T13:30:05.325Z</updated>
-        <content type="html"><![CDATA[광주광역시의 화재 현장을 수색하던 중 현관문과 잠금장치(도어락)를 파손한 관할 소방서에 세대주들이 수리비를 물어내라고 요구한 사실이 언론을 통해 뒤늦게 알려져 논란이 됐습니다. 6세대가 총 500만원을 청구했는데 '목숨을 걸고 생명을 구한 소방관이 수리비까지 책임져야 하느냐' 며 공분이 일었습니다. 그러자 강기정 광주시장이 소셜미디어(SNS)에]]></content>
     </entry>
 </feed>
