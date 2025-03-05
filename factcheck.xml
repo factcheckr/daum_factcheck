@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-05T07:23:39.338Z</updated>
+    <updated>2025-03-05T08:32:07.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 관세, 미국보다 4배 높다" 트럼프의 거짓말 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250305170608257</id>
+        <link href="https://v.daum.net/v/20250305170608257"/>
+        <updated>2025-03-05T08:31:19.898Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;도널드 트럼프 대통령이 2025년 3월 4일(현지시간) 워싱턴 국회의사당에서 열린 상하원 합동 회의에서 연설하고 있다.ⓒ AP photo/ 연합뉴스도널드 트럼프 미국 대통령이 "한국이 미국보다 4배 높은 관세를 부과하고 있다"고 주장했다. 트럼프는 4일(미국 현지시간) 워싱턴DC 연방의사당에서 한 상하원 합동 연설에서 "셀 수 없이 많]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약사들 욕받이 된 다이소 3천원 영양제, "알고보니 10배 더 비싸다?"[노컷체크]]]></title>
         <id>https://v.daum.net/v/20250305141500001</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250227072013903"/>
         <updated>2025-02-26T22:22:30.317Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 우리나라 대기업의 대졸 신입사원 평균 연봉이 5천만원을 넘었다는 보도가 나오자 온라인 커뮤니티 등에서는 "대기업 신입사원의 연봉이 너무 과하다", "이 정도 연봉은 받아야 한다" 등 각종 의견이 쏟아졌다. 우리나라 대기업 중에 삼성, SK, 현대차그룹, 롯데, 두산 등은 세계적인 기업이라는 점에서 그에 걸맞은 연봉을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 깎고, 여야 합의로 줄인 국방 예산…윤석열 ‘무조건 야당 탓’]]></title>
-        <id>https://v.daum.net/v/20250226215006104</id>
-        <link href="https://v.daum.net/v/20250226215006104"/>
-        <updated>2025-02-26T13:30:01.730Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 헌법재판소(헌재) 탄핵심판 변론 최종 의견 진술에서 ‘야당이 국방 예산을 삭감해 군을 무력화했다’고 주장했지만, 해당 예산은 정부 스스로 감액하거나 여야 합의로 삭감된 것으로 26일 확인됐다. 윤 대통령이 야당을 공격하면서 거론한 사례들 대부분이 팩트를 왜곡하거나, 아전인수식으로 해석했다는 비판이 나온다. 윤 대통령은 지난 25일 헌재]]></content>
     </entry>
 </feed>
