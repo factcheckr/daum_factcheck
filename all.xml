@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-05T23:24:32.015Z</updated>
+    <updated>2025-03-06T01:51:59.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 한국 관세, 미국보다 4배 높나? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250306091210797</id>
+        <link href="https://v.daum.net/v/20250306091210797"/>
+        <updated>2025-03-06T01:51:11.732Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 트럼프 대통령은 한국 관세가 미국보다 4배 높다고 목소리를 높였지만, 근거를 제시하진 않았습니다. 무슨 근거로 이런 주장을 했는지, 정말 맞는 말인지 이혁근 기자가 양국 통상정책을 들여다보며 사실확인을 해봤습니다. 【 기자 】 지난 3일 미국 무역대표부가 내놓은 통상정책 아젠다 보고서입니다. 한국이 세계무역기구 WTO 가입국에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국 경찰만 실탄 못 쏜다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250306070030928</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250228194418544"/>
         <updated>2025-02-28T11:19:23.562Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 여름이면 낙동강이 녹조로 뒤덮였다는 소식 자주 전해 드렸는데요. 녹조에서 나온 독소가 공기 중에 퍼지고, 주민들의 콧속으로 들어가 건강에 악영향을 끼친다는 환경단체 발표 뒤 논란이 거셉니다. 실제 독소가 공기 중에 퍼지는지부터 환경부와 환경단체의 주장이 엇갈리는데, 어느 쪽이 사실일까요. 사실확인, 김민수 기자가 알아봤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 경기도 살면 인생의 20%를 지하철서 보낸다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250228072015144</id>
-        <link href="https://v.daum.net/v/20250228072015144"/>
-        <updated>2025-02-27T22:24:21.125Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 지난해 말 수도권광역급행철도(GTX)-A의 개통을 계기로 온라인 커뮤니티 등에서 "경기도민은 인생의 20%를 지하철에서 보낸다"는 밈이 돌았다. 경기도민 다수가 많은 시간을 서울로 출·퇴근하는 데에 쓸 수밖에 없는 현실을 자조적으로 표현한 것이다. 2022년 국회 행정안전위원회 국정감사에선 조응천 당시 의원이 장거리 출]]></content>
     </entry>
 </feed>
