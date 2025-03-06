@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-06T11:21:10.883Z</updated>
+    <updated>2025-03-06T12:49:46.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] '김건희 의혹'에 거짓말로 일관한 대국민 회견 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250306202510137</id>
+        <link href="https://v.daum.net/v/20250306202510137"/>
+        <updated>2025-03-06T12:48:59.859Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 순진한 아내를 악마화한다던 대통령의 이야기 기억하실 겁니다. 윤 대통령은 탄핵소추 전까지 네 차례 대국민 기자회견을 했고 특히 김건희 여사와 관련한 각종 의혹 해명에 공을 들였죠. 하지만 뻔뻔스럽게도 대통령이 국민들에게 해명이라고 했던 말들 가운데 상당수는 거짓이었습니다. 윤 대통령이 기자회견에서 했던 거짓말들, 팩트체크 알고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "헌법 위에 '국민저항권' 있다"? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250306194535361</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250305170608257"/>
         <updated>2025-03-05T08:31:19.898Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;도널드 트럼프 대통령이 2025년 3월 4일(현지시간) 워싱턴 국회의사당에서 열린 상하원 합동 회의에서 연설하고 있다.ⓒ AP photo/ 연합뉴스도널드 트럼프 미국 대통령이 "한국이 미국보다 4배 높은 관세를 부과하고 있다"고 주장했다. 트럼프는 4일(미국 현지시간) 워싱턴DC 연방의사당에서 한 상하원 합동 연설에서 "셀 수 없이 많]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약사들 욕받이 된 다이소 3천원 영양제, "알고보니 10배 더 비싸다?"[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250305141500001</id>
-        <link href="https://v.daum.net/v/20250305141500001"/>
-        <updated>2025-03-05T05:23:38.872Z</updated>
-        <content type="html"><![CDATA[핵심요약약사들 "불매운동"까지 나온 '다이소 건기식 대란' '3천원 비타민' '5천원 칼슘'에 "약국, 그동안 폭리" 비난 약국선 안 팔던 '건기식'…"완전히 다른 시장" "따져보면 다이소 제품 10배 더 비싸다?" 주장 나오지만 업계 관계자 "식품 vs 의약품, 단순 비교 불가" 일부 약사는 '불매운동'까지 예고했다. 한 제약사는 제품 출시 단 5일 만에]]></content>
     </entry>
 </feed>
