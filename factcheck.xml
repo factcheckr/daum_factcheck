@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-06T10:27:37.141Z</updated>
+    <updated>2025-03-06T11:21:10.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "헌법 위에 '국민저항권' 있다"?]]></title>
+        <id>https://v.daum.net/v/20250306194535361</id>
+        <link href="https://v.daum.net/v/20250306194535361"/>
+        <updated>2025-03-06T11:19:27.740Z</updated>
+        <content type="html"><![CDATA[[앵커] [전광훈/사랑제일교회 목사 (지난 1일 / 유튜브 '전광훈 TV') : 오늘 이 시간부로 국민저항권이 완성이 됐습니다. 이 국민저항권은 헌법 위의 권위를 가지고 있는 것입니다.] 극렬 지지자들이 한 목소리로 강조하는 국민저항권, 심지어 헌법보다 위에 있다고 하는데 바로 팩트체크해 보겠습니다. 김혜미 기자, '국민저항권'이라는 게 무엇인지부터 짚어]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북 도시가스 공급 천차만별…‘사각지대’ 여전]]></title>
+        <id>https://v.daum.net/v/20250306193920237</id>
+        <link href="https://v.daum.net/v/20250306193920237"/>
+        <updated>2025-03-06T11:19:27.742Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 이재명이 쏘아올린 'K-엔비디아' 불가능하다?]]></title>
         <id>https://v.daum.net/v/20250306170006708</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20250305141500001"/>
         <updated>2025-03-05T05:23:38.872Z</updated>
         <content type="html"><![CDATA[핵심요약약사들 "불매운동"까지 나온 '다이소 건기식 대란' '3천원 비타민' '5천원 칼슘'에 "약국, 그동안 폭리" 비난 약국선 안 팔던 '건기식'…"완전히 다른 시장" "따져보면 다이소 제품 10배 더 비싸다?" 주장 나오지만 업계 관계자 "식품 vs 의약품, 단순 비교 불가" 일부 약사는 '불매운동'까지 예고했다. 한 제약사는 제품 출시 단 5일 만에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라에도 희토류가 있다?]]></title>
-        <id>https://v.daum.net/v/20250305072009127</id>
-        <link href="https://v.daum.net/v/20250305072009127"/>
-        <updated>2025-03-04T22:21:12.743Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 미국이 러시아와 전쟁 중인 우크라이나에 지원한 무기 등에 대한 대가로 희토류(Rare Earth Elements, REEs) 등 주요 광물 개발 지분을 요구하면서 온라인 커뮤니티 등에서는 희토류가 주목받았다. "희토류를 스텔스 전투기 만드는 데도 쓴다는데 그렇게 중요한 거냐?", "우리나라에만 왜 희토류가 없는 거냐?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초고령화 진입한 일본은 상속세 강화···거꾸로 가자는 여야[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250304165540217</id>
-        <link href="https://v.daum.net/v/20250304165540217"/>
-        <updated>2025-03-04T08:28:16.763Z</updated>
-        <content type="html"><![CDATA[여야가 ‘상속세 감세’ 시동을 걸고 있지만 저출생과 초고령 사회에 진입한 한국에선 도리어 상속세 과세를 강화해야 한다는 지적이 나왔다. 특히 이재명 더불어민주당 대표 주장대로 상속세 면제 기준을 10억원에서 18억원으로 올리면 상위 10%에게 혜택이 돌아간다는 지적이 나온다. 국민의힘은 상속세 최고세율이 50%에 달한다면서 감세를 주장하지만, 상속세 실효세]]></content>
     </entry>
 </feed>
