@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-06T12:49:46.240Z</updated>
+    <updated>2025-03-06T13:31:01.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북 도시가스 공급 천차만별…‘사각지대’ 여전]]></title>
+        <id>https://v.daum.net/v/20250306215234362</id>
+        <link href="https://v.daum.net/v/20250306215234362"/>
+        <updated>2025-03-06T13:30:09.852Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '김건희 의혹'에 거짓말로 일관한 대국민 회견]]></title>
         <id>https://v.daum.net/v/20250306202510137</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250305190816014"/>
         <updated>2025-03-05T10:25:47.699Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 트럼프 대통령은 한국 관세가 미국보다 4배 높다고 목소리를 높였지만, 근거를 제시하진 않았습니다. 무슨 근거로 이런 주장을 했는지, 정말 맞는 말인지 이혁근 기자가 양국 통상정책을 들여다보며 사실확인을 해봤습니다. 【 기자 】 지난 3일 미국 무역대표부가 내놓은 통상정책 아젠다 보고서입니다. 한국이 세계무역기구 WTO 가입국에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 관세, 미국보다 4배 높다" 트럼프의 거짓말 [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250305170608257</id>
-        <link href="https://v.daum.net/v/20250305170608257"/>
-        <updated>2025-03-05T08:31:19.898Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;도널드 트럼프 대통령이 2025년 3월 4일(현지시간) 워싱턴 국회의사당에서 열린 상하원 합동 회의에서 연설하고 있다.ⓒ AP photo/ 연합뉴스도널드 트럼프 미국 대통령이 "한국이 미국보다 4배 높은 관세를 부과하고 있다"고 주장했다. 트럼프는 4일(미국 현지시간) 워싱턴DC 연방의사당에서 한 상하원 합동 연설에서 "셀 수 없이 많]]></content>
     </entry>
 </feed>
