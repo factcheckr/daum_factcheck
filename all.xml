@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-06T07:26:00.731Z</updated>
+    <updated>2025-03-06T08:30:58.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 이재명이 쏘아올린 'K-엔비디아' 불가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250306170006708</id>
+        <link href="https://v.daum.net/v/20250306170006708"/>
+        <updated>2025-03-06T08:30:16.637Z</updated>
+        <content type="html"><![CDATA[“(예를 들어) 저는 가능하다고 보는데, 엔비디아 같은 회사가 하나 새로 생겼다. 그중에 국민의 몫, 지분이 30%다. 그래서 70%는 민간이 가지고 30%를 국민 모두가 나누면 굳이 세금에 막 그렇게 의존하지 않아도 되는 사회가 오지 않을까…” (이재명 대표, 지난 2일, 민주연구원 유튜브 채널 'OPQR') “다들 아시는 것처럼 대만의 TSMC도 정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 옹호 영화 ‘힘내라 대한민국’···역사적 사실이 담겼을까[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250306165720604</id>
+        <link href="https://v.daum.net/v/20250306165720604"/>
+        <updated>2025-03-06T08:30:16.638Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령의 12·3 비상계엄 사태를 옹호하는 영화 &lt;힘내라 대한민국&gt;이 지난 5일까지 4만여명의 관객을 동원했다. 영화를 본 윤 대통령 지지자들은 관람평으로 “제주 4·3 사건, 대구 사건, 여수 순천 사건 등 조선공산당의 패악질을 알게 된 ‘필수 관람 영화’” “광복 이후 한국 역사를 제대로 알 수 있다”는 등 반응을 남겼다. 영화에 담긴 내용은 실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 한국 관세, 미국보다 4배 높나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250306091210797</id>
@@ -59,19 +73,5 @@
         <link href="https://v.daum.net/v/20250304165540217"/>
         <updated>2025-03-04T08:28:16.763Z</updated>
         <content type="html"><![CDATA[여야가 ‘상속세 감세’ 시동을 걸고 있지만 저출생과 초고령 사회에 진입한 한국에선 도리어 상속세 과세를 강화해야 한다는 지적이 나왔다. 특히 이재명 더불어민주당 대표 주장대로 상속세 면제 기준을 10억원에서 18억원으로 올리면 상위 10%에게 혜택이 돌아간다는 지적이 나온다. 국민의힘은 상속세 최고세율이 50%에 달한다면서 감세를 주장하지만, 상속세 실효세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 모든 재판은 세 번 판결 받을 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250304072008517</id>
-        <link href="https://v.daum.net/v/20250304072008517"/>
-        <updated>2025-03-03T22:22:57.404Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 각종 정치 현안과 관련된 재판이 열리면서 재판 절차에 대한 국민적 관심이 높다. 흔히 '삼세판'이라는 말처럼 재판도 세 번의 판결을 받을 수 있는 '삼심제'가 일반적인 상식으로 여겨지지만, 모든 재판이 그렇지는 않다. 어떤 사건은 한 번의 판결로 끝나기도 하고, 또 어떤 사건은 결론이 바뀌어 대여섯번의 재판을 거치기도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] 낙동강 강변서 숨 쉬면 콧속 조류독소 쌓인다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250228194418544</id>
-        <link href="https://v.daum.net/v/20250228194418544"/>
-        <updated>2025-02-28T11:19:23.562Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 여름이면 낙동강이 녹조로 뒤덮였다는 소식 자주 전해 드렸는데요. 녹조에서 나온 독소가 공기 중에 퍼지고, 주민들의 콧속으로 들어가 건강에 악영향을 끼친다는 환경단체 발표 뒤 논란이 거셉니다. 실제 독소가 공기 중에 퍼지는지부터 환경부와 환경단체의 주장이 엇갈리는데, 어느 쪽이 사실일까요. 사실확인, 김민수 기자가 알아봤]]></content>
     </entry>
 </feed>
