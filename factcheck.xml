@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-06T23:23:32.635Z</updated>
+    <updated>2025-03-07T01:52:34.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 충북 도시가스 공급 천차만별…사각지대 여전]]></title>
+        <id>https://v.daum.net/v/20250307083340447</id>
+        <link href="https://v.daum.net/v/20250307083340447"/>
+        <updated>2025-03-07T01:51:42.370Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 초등학교 신입생이 사라진다?]]></title>
         <id>https://v.daum.net/v/20250307072019000</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250306070030928"/>
         <updated>2025-03-05T22:22:56.791Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 경찰관을 흉기로 공격한 남성이 제압되는 과정에서 총탄에 맞아 숨지는 사건이 발생하면서 총기 사용 기준을 둘러싼 논란이 제기됐다. 위험한 치안 현장에서 경찰관의 판단을 지지하는 여론이 강하지만, 실제 경찰관들은 '권총은 쏘는 게 아니라 던지는 것'이라고 말할 정도로 총기 사용을 꺼리는 게 현실이다. 온라인 커뮤니티와 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 트럼프 "韓관세 美의 4배"는 '왜곡'…"국내 정치용 메시지"]]></title>
-        <id>https://v.daum.net/v/20250306043142787</id>
-        <link href="https://v.daum.net/v/20250306043142787"/>
-        <updated>2025-03-05T20:26:45.007Z</updated>
-        <content type="html"><![CDATA["한국이 미국보다 4배 높은 관세를 부과하고 있다." 도널드 트럼프 미국 대통령이 4일(현지시간) 미국 워싱턴 DC 연방의회 의사당에서 진행된 상·하원 합동회의 연설에서 우리나라에 상호관세 부과를 시사하며 한 말이다. 확인 결과, 이는 왜곡이었다. 미국과 체결한 자유무역협정(FTA)에 따라 대미 수입품에 대한 평균 관세율은 0%대다. 5일 기획재정부 등에]]></content>
     </entry>
 </feed>
