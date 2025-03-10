@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-10T11:19:48.636Z</updated>
+    <updated>2025-03-10T12:49:27.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[20m 뒤처져 사망, 교사 탓?…"다 없애라, 어떻게 알아채" [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250310210020447</id>
+        <link href="https://v.daum.net/v/20250310210020447"/>
+        <updated>2025-03-10T12:48:36.262Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 3년 전&nbsp;현장학습에 갔었던 한 초등학생이&nbsp;버스에 치여 숨지는 일이 있었습니다. 그런데 최근 1심 법원이&nbsp;당시 인솔 교사에게&nbsp;유죄를 선고하자, 교원단체들이 반발하고 있습니다. 왜 교사가 책임을&nbsp;져야 하냐며 아예&nbsp;체험학습을 폐지하자는 주장도 나오고 있는데, 뭐가 사실일지 저희 팩트 체크 '사실은' 코너에서 확인해 봤습니다. 안상우 기자입니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 헌재 탄핵심판 절차에 문제 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250310202813902</id>
+        <link href="https://v.daum.net/v/20250310202813902"/>
+        <updated>2025-03-10T12:48:36.264Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 검찰 수뇌부가 손을 놓으면서 윤 대통령이 풀려나자 이제 국민의힘은 헌법재판소를 향해 공격을 집중하고 있습니다. 탄핵심판이 졸속으로 진행됐다는 건데 이게 맞는 얘기인지, 팩트체크 알고보니에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 탄핵심판이 적법 절차를 따르지 않았다고 주장한 권성동 국민의힘 원내대표는 먼저 탄핵심판이 형사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '국민 메신저' 카카오톡은 한국만 쓴다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250310072016344</id>
@@ -59,19 +73,5 @@
         <link href="https://v.daum.net/v/20250306193920237"/>
         <updated>2025-03-06T11:19:27.742Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 이재명이 쏘아올린 'K-엔비디아' 불가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250306170006708</id>
-        <link href="https://v.daum.net/v/20250306170006708"/>
-        <updated>2025-03-06T08:30:16.637Z</updated>
-        <content type="html"><![CDATA[“(예를 들어) 저는 가능하다고 보는데, 엔비디아 같은 회사가 하나 새로 생겼다. 그중에 국민의 몫, 지분이 30%다. 그래서 70%는 민간이 가지고 30%를 국민 모두가 나누면 굳이 세금에 막 그렇게 의존하지 않아도 되는 사회가 오지 않을까…” (이재명 대표, 지난 2일, 민주연구원 유튜브 채널 'OPQR') “다들 아시는 것처럼 대만의 TSMC도 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 옹호 영화 ‘힘내라 대한민국’···역사적 사실이 담겼을까[팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250306165720604</id>
-        <link href="https://v.daum.net/v/20250306165720604"/>
-        <updated>2025-03-06T08:30:16.638Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령의 12·3 비상계엄 사태를 옹호하는 영화 &lt;힘내라 대한민국&gt;이 지난 5일까지 4만여명의 관객을 동원했다. 영화를 본 윤 대통령 지지자들은 관람평으로 “제주 4·3 사건, 대구 사건, 여수 순천 사건 등 조선공산당의 패악질을 알게 된 ‘필수 관람 영화’” “광복 이후 한국 역사를 제대로 알 수 있다”는 등 반응을 남겼다. 영화에 담긴 내용은 실]]></content>
     </entry>
 </feed>
