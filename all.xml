@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-11T21:19:32.422Z</updated>
+    <updated>2025-03-11T22:23:33.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라도 투자이민을 받는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250312065511938</id>
+        <link href="https://v.daum.net/v/20250312065511938"/>
+        <updated>2025-03-11T22:22:48.894Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 도널드 트럼프 미국 대통령이 거액의 돈을 정부에 직접 내면 영주권을 주는 제도를 도입하겠다고 밝히자 온라인 커뮤니티 등에서 투자이민제도가 주목받고 있다. 외신에 따르면 트럼프 대통령은 기존의 투자이민 비자(EB-5) 대신 '골드카드'를 도입하겠다고 밝혔다. 그러면서 골드카드를 500만달러(약 71억원)에 판매하겠다고 덧붙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국이 북한‧이란 같은 '민감국가' 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250312050344473</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250306215234362"/>
         <updated>2025-03-06T13:30:09.852Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '김건희 의혹'에 거짓말로 일관한 대국민 회견 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250306202510137</id>
-        <link href="https://v.daum.net/v/20250306202510137"/>
-        <updated>2025-03-06T12:48:59.859Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 순진한 아내를 악마화한다던 대통령의 이야기 기억하실 겁니다. 윤 대통령은 탄핵소추 전까지 네 차례 대국민 기자회견을 했고 특히 김건희 여사와 관련한 각종 의혹 해명에 공을 들였죠. 하지만 뻔뻔스럽게도 대통령이 국민들에게 해명이라고 했던 말들 가운데 상당수는 거짓이었습니다. 윤 대통령이 기자회견에서 했던 거짓말들, 팩트체크 알고]]></content>
     </entry>
 </feed>
