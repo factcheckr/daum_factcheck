@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-11T19:21:58.789Z</updated>
+    <updated>2025-03-11T20:27:08.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국이 북한‧이란 같은 '민감국가' 된다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20250312050344473</id>
+        <link href="https://v.daum.net/v/20250312050344473"/>
+        <updated>2025-03-11T20:26:17.216Z</updated>
+        <content type="html"><![CDATA[핵무장론의 나비효과일까美 테러지원‧핵비확산 '민감국가'에 韓 지정 움직임 원자력‧인공지능 등 핵심산업 한미협력 걸림돌 지정되면 동맹국 초유…핵무장 주장 때문 관측도 정부는 최종 확정 아니라지만 공식 통보도 못 받아 미국 에너지부가 한국을 '민감국가'로 지정하려 한다는 움직임이 포착돼 정부가 발칵 뒤집어졌다. 미국이 기존에 지정한 민감국가에는 중국, 북한,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '귀 막아도 들리네'…집회 소음 못 막나?]]></title>
         <id>https://v.daum.net/v/20250311072008467</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250306202510137"/>
         <updated>2025-03-06T12:48:59.859Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 순진한 아내를 악마화한다던 대통령의 이야기 기억하실 겁니다. 윤 대통령은 탄핵소추 전까지 네 차례 대국민 기자회견을 했고 특히 김건희 여사와 관련한 각종 의혹 해명에 공을 들였죠. 하지만 뻔뻔스럽게도 대통령이 국민들에게 해명이라고 했던 말들 가운데 상당수는 거짓이었습니다. 윤 대통령이 기자회견에서 했던 거짓말들, 팩트체크 알고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "헌법 위에 '국민저항권' 있다"?]]></title>
-        <id>https://v.daum.net/v/20250306194535361</id>
-        <link href="https://v.daum.net/v/20250306194535361"/>
-        <updated>2025-03-06T11:19:27.740Z</updated>
-        <content type="html"><![CDATA[[앵커] [전광훈/사랑제일교회 목사 (지난 1일 / 유튜브 '전광훈 TV') : 오늘 이 시간부로 국민저항권이 완성이 됐습니다. 이 국민저항권은 헌법 위의 권위를 가지고 있는 것입니다.] 극렬 지지자들이 한 목소리로 강조하는 국민저항권, 심지어 헌법보다 위에 있다고 하는데 바로 팩트체크해 보겠습니다. 김혜미 기자, '국민저항권'이라는 게 무엇인지부터 짚어]]></content>
     </entry>
 </feed>
