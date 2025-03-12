@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T12:51:07.033Z</updated>
+    <updated>2025-03-12T13:34:43.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250312215244327</id>
+        <link href="https://v.daum.net/v/20250312215244327"/>
+        <updated>2025-03-12T13:31:51.675Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250312193305500</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250307120141545"/>
         <updated>2025-03-07T03:34:58.168Z</updated>
         <content type="html"><![CDATA[‘서울서부지법 난동 사태’로 구속된 이들을 변호하고 있는 ‘자유청년변호인단’은 지난달 28일 보도자료를 통해 남부구치소가 난동 사태 수용자들에게 “부당한 차별을 가하고 있다”는 의혹을 제기했다. 이 같은 의혹이 퍼지면서 윤석열 대통령 지지자들이 남부구치소에 항의 민원을 넣으면서 구치소는 업무 마비 수준의 피해를 겪고 있다. 반탄(탄핵반대) 커뮤니티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 충북 도시가스 공급 천차만별…사각지대 여전 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250307083340447</id>
-        <link href="https://v.daum.net/v/20250307083340447"/>
-        <updated>2025-03-07T01:51:42.370Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
     </entry>
 </feed>
