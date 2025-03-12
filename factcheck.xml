@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-12T10:26:31.856Z</updated>
+    <updated>2025-03-12T11:20:45.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’]]></title>
+        <id>https://v.daum.net/v/20250312193305500</id>
+        <link href="https://v.daum.net/v/20250312193305500"/>
+        <updated>2025-03-12T11:20:00.184Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문형배가 김정일과 악수? 국힘 김근식 사진이 문형배로 둔갑 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250312190001727</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250307083340447"/>
         <updated>2025-03-07T01:51:42.370Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 도시가스가 확대 보급돼 웬만한 지역에선 간편하게 연결해 난방하고 음식을 조리하는데요. 충북 어디든 다 그런 건 아닙니다. 도농 간, 지역 간 에너지 복지 격차가 심각한데요. 팩트체크K, 송국회 기자가 취재했습니다. [리포트] 상가와 원룸이 밀집한 충주의 한 도심 외곽 지역. 대학가 근처인데도 도시가스가 공급되지 않아 주로 20~30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 초등학교 신입생이 사라진다?]]></title>
-        <id>https://v.daum.net/v/20250307072019000</id>
-        <link href="https://v.daum.net/v/20250307072019000"/>
-        <updated>2025-03-06T22:23:06.902Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 올해 신입생이 한명도 없는 초등학교가 전국에 180개교가 넘는다는 보도가 나오자 온라인 커뮤니티에서는 저출산의 여파가 실감 난다는 반응이 나오고 있다. 특히 '콩나물시루'와 같은 빽빽한 교실에서 학창 시절을 보냈던 중장년층에게는 '신입생 0명'이라는 현실이 더욱 낯설게 다가올 수 있다. 과연 초등학교 학생 수가 과거에 비]]></content>
     </entry>
 </feed>
