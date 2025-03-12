@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T21:23:17.121Z</updated>
+    <updated>2025-03-12T22:24:28.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한반도 뒤덮는 황사와 미세먼지는 다르다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250313065512712</id>
+        <link href="https://v.daum.net/v/20250313065512712"/>
+        <updated>2025-03-12T22:23:39.338Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 추운 겨울이 지나고 봄이 다가오면서 예년처럼 황사(黃沙)가 한반도를 위협하고 있다. 중국 등에서 발생한 황사가 몰려오자 온라인 커뮤니티와 관련 뉴스 댓글 등에는 "황사와 같은 미세먼지 때문에 살기 힘들다", "황사가 결국 미세먼지 아니냐?" 등 황사와 미세먼지를 혼동하는 의견을 적지 않게 볼 수 있다. 그렇다면 과연 황사와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250312215244327</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250310072016344"/>
         <updated>2025-03-09T23:17:45.912Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 스마트폰 등 정보통신(IT) 기기의 발달로 소셜미디어(SNS)가 우리 생활 깊숙이 들어오면서 의사소통의 창구인 메신저가 주목받고 있다. 그중에서도 카카오톡은 사실상 우리나라 모든 국민이 쓰는 메신저라서 직장 업무뿐만 아니라 가족, 친구 간에 연락하는 주요 통로로 이용되고 있다. 카카오톡에 장애가 생기면 '대한민국이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스톱더스틸’ 읽어 2명 징벌방?… 가짜뉴스 홍역 앓는 남부구치소 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250307120141545</id>
-        <link href="https://v.daum.net/v/20250307120141545"/>
-        <updated>2025-03-07T03:34:58.168Z</updated>
-        <content type="html"><![CDATA[‘서울서부지법 난동 사태’로 구속된 이들을 변호하고 있는 ‘자유청년변호인단’은 지난달 28일 보도자료를 통해 남부구치소가 난동 사태 수용자들에게 “부당한 차별을 가하고 있다”는 의혹을 제기했다. 이 같은 의혹이 퍼지면서 윤석열 대통령 지지자들이 남부구치소에 항의 민원을 넣으면서 구치소는 업무 마비 수준의 피해를 겪고 있다. 반탄(탄핵반대) 커뮤니티]]></content>
     </entry>
 </feed>
