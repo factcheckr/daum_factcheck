@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-13T20:26:58.705Z</updated>
+    <updated>2025-03-13T21:24:10.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] “뉴진스 버리고, 수납하려 했다”… 어도어 가처분 쟁점 세 가지]]></title>
+        <id>https://v.daum.net/v/20250314060052534</id>
+        <link href="https://v.daum.net/v/20250314060052534"/>
+        <updated>2025-03-13T21:22:30.511Z</updated>
+        <content type="html"><![CDATA[14일 국내 최대 연예기획사 하이브 산하 소속사 어도어가 뉴진스(새 활동명 NJZ)를 상대로 제기한 ‘기획사 지위보전 및 광고계약 체결 등 금지 가처분’ 심리(심문)가 종결된다. 이를 앞두고 12일 뉴진스 팬덤인 팀 버니즈는 재판부에 탄원서를 제출해 힘을 보태고 나섰다. 팀 버니즈는 “신뢰 관계가 파탄 난 적대적 환경에서 전속 활동을 강제당한다면, 멤버들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["베꼈네" 무조건 생떼?…한국 있는데 중국 없었다 [사실은]]]></title>
         <id>https://v.daum.net/v/20250313205425054</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250312050344473"/>
         <updated>2025-03-11T20:26:17.216Z</updated>
         <content type="html"><![CDATA[핵무장론의 나비효과일까美 테러지원‧핵비확산 '민감국가'에 韓 지정 움직임 원자력‧인공지능 등 핵심산업 한미협력 걸림돌 지정되면 동맹국 초유…핵무장 주장 때문 관측도 정부는 최종 확정 아니라지만 공식 통보도 못 받아 미국 에너지부가 한국을 '민감국가'로 지정하려 한다는 움직임이 포착돼 정부가 발칵 뒤집어졌다. 미국이 기존에 지정한 민감국가에는 중국, 북한,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '귀 막아도 들리네'…집회 소음 못 막나?]]></title>
-        <id>https://v.daum.net/v/20250311072008467</id>
-        <link href="https://v.daum.net/v/20250311072008467"/>
-        <updated>2025-03-10T22:22:31.283Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 각종 정치 현안과 관련한 집회와 시위가 장기화하면서 주민 불편 등 소음 피해도 갈수록 커지고 있다. 특히 헌법재판소가 위치한 서울 종로구 안국역 인근과 광화문 광장 등은 연일 열리는 집회로 인해 소음 민원이 급증하고 있으며, 주변 상인들도 소음 공해로 인한 매출 감소로 울상을 짓고 있다. 그렇다면 법적으로 허용되는 집]]></content>
     </entry>
 </feed>
