@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T21:24:10.616Z</updated>
+    <updated>2025-03-13T22:23:16.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '뜨거운 감자' 군 가산점제 재도입 가능한가? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250314065512307</id>
+        <link href="https://v.daum.net/v/20250314065512307"/>
+        <updated>2025-03-13T22:22:26.755Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 병역 의무를 마친 남성이 공무원 채용 시험에 응시하면 가산점을 주는 내용의 법안이 올해 초 국회에 제출되자 과거 위헌 결정으로 폐지된 군 가산점 제도가 온라인 커뮤니티 등에서 주목을 받았다. 헌법재판소는 지난 1999년 12월 군 가산점 제도가 헌법상 근거가 없고 성 차별적인 제도라며 위헌 결정을 내렸다. 하지만 이 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] “뉴진스 버리고, 수납하려 했다”… 어도어 가처분 쟁점 세 가지 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250314060052534</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250312065511938"/>
         <updated>2025-03-11T22:22:48.894Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 도널드 트럼프 미국 대통령이 거액의 돈을 정부에 직접 내면 영주권을 주는 제도를 도입하겠다고 밝히자 온라인 커뮤니티 등에서 투자이민제도가 주목받고 있다. 외신에 따르면 트럼프 대통령은 기존의 투자이민 비자(EB-5) 대신 '골드카드'를 도입하겠다고 밝혔다. 그러면서 골드카드를 500만달러(약 71억원)에 판매하겠다고 덧붙]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이 북한‧이란 같은 '민감국가' 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250312050344473</id>
-        <link href="https://v.daum.net/v/20250312050344473"/>
-        <updated>2025-03-11T20:26:17.216Z</updated>
-        <content type="html"><![CDATA[핵무장론의 나비효과일까美 테러지원‧핵비확산 '민감국가'에 韓 지정 움직임 원자력‧인공지능 등 핵심산업 한미협력 걸림돌 지정되면 동맹국 초유…핵무장 주장 때문 관측도 정부는 최종 확정 아니라지만 공식 통보도 못 받아 미국 에너지부가 한국을 '민감국가'로 지정하려 한다는 움직임이 포착돼 정부가 발칵 뒤집어졌다. 미국이 기존에 지정한 민감국가에는 중국, 북한,]]></content>
     </entry>
 </feed>
