@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T10:27:11.250Z</updated>
+    <updated>2025-03-13T11:21:13.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "100% 각하 확신"…'대통령 탄핵' 사유는 2가지뿐? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250313194309708</id>
+        <link href="https://v.daum.net/v/20250313194309708"/>
+        <updated>2025-03-13T11:20:28.168Z</updated>
+        <content type="html"><![CDATA[[앵커] 윤 대통령 탄핵을 막아야 한다고 앞장서서 주장하는 사람, 한국사 강사 전한길 씨입니다. 그런데 아예 사실이 아닌 잘못된 주장이 많습니다. 김혜미 기자와 팩트체크해 보겠습니다. 김 기자, 전한길 씨가 어제 국회에서 강연을 했었죠? [기자] 네, 그렇습니다. 윤석열 정부 비서관 출신인 국민의힘 강승규 의원 주최로 열린 '국민저항권'에 관한 세미나였는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250313090446638</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250310210020447"/>
         <updated>2025-03-10T12:48:36.262Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 3년 전&nbsp;현장학습에 갔었던 한 초등학생이&nbsp;버스에 치여 숨지는 일이 있었습니다. 그런데 최근 1심 법원이&nbsp;당시 인솔 교사에게&nbsp;유죄를 선고하자, 교원단체들이 반발하고 있습니다. 왜 교사가 책임을&nbsp;져야 하냐며 아예&nbsp;체험학습을 폐지하자는 주장도 나오고 있는데, 뭐가 사실일지 저희 팩트 체크 '사실은' 코너에서 확인해 봤습니다. 안상우 기자입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 헌재 탄핵심판 절차에 문제 있다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250310202813902</id>
-        <link href="https://v.daum.net/v/20250310202813902"/>
-        <updated>2025-03-10T12:48:36.264Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 검찰 수뇌부가 손을 놓으면서 윤 대통령이 풀려나자 이제 국민의힘은 헌법재판소를 향해 공격을 집중하고 있습니다. 탄핵심판이 졸속으로 진행됐다는 건데 이게 맞는 얘기인지, 팩트체크 알고보니에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 탄핵심판이 적법 절차를 따르지 않았다고 주장한 권성동 국민의힘 원내대표는 먼저 탄핵심판이 형사]]></content>
     </entry>
 </feed>
