@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T23:24:18.157Z</updated>
+    <updated>2025-03-13T01:53:15.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250313090446638</id>
+        <link href="https://v.daum.net/v/20250313090446638"/>
+        <updated>2025-03-13T01:52:25.143Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한반도 뒤덮는 황사와 미세먼지는 다르다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250313065512712</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250310202813902"/>
         <updated>2025-03-10T12:48:36.264Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 검찰 수뇌부가 손을 놓으면서 윤 대통령이 풀려나자 이제 국민의힘은 헌법재판소를 향해 공격을 집중하고 있습니다. 탄핵심판이 졸속으로 진행됐다는 건데 이게 맞는 얘기인지, 팩트체크 알고보니에서 이준범 기자가 확인해 봤습니다. ◀ 리포트 ▶ 탄핵심판이 적법 절차를 따르지 않았다고 주장한 권성동 국민의힘 원내대표는 먼저 탄핵심판이 형사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '국민 메신저' 카카오톡은 한국만 쓴다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250310072016344</id>
-        <link href="https://v.daum.net/v/20250310072016344"/>
-        <updated>2025-03-09T23:17:45.912Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 스마트폰 등 정보통신(IT) 기기의 발달로 소셜미디어(SNS)가 우리 생활 깊숙이 들어오면서 의사소통의 창구인 메신저가 주목받고 있다. 그중에서도 카카오톡은 사실상 우리나라 모든 국민이 쓰는 메신저라서 직장 업무뿐만 아니라 가족, 친구 간에 연락하는 주요 통로로 이용되고 있다. 카카오톡에 장애가 생기면 '대한민국이]]></content>
     </entry>
 </feed>
