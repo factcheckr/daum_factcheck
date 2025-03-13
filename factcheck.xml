@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-13T11:21:13.191Z</updated>
+    <updated>2025-03-13T12:49:33.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["베꼈네" 무조건 생떼?…한국 있는데 중국 없었다 [사실은]]]></title>
+        <id>https://v.daum.net/v/20250313205425054</id>
+        <link href="https://v.daum.net/v/20250313205425054"/>
+        <updated>2025-03-13T12:48:43.490Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 한 이탈리아 패션 브랜드가 우리나라의 매듭 장인과 협업해서 만든 제품을 놓고, 최근 중국에서 논란이 불거졌습니다. 중국 고유의 매듭 문화를 한국이 도용했다는 겁니다. 중국의 이런 주장이 과연 사실인지, 팩트체크 '사실은' 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 서울시 무형문화재 김은영 매듭장이 우리 전통 매듭으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "100% 각하 확신"…'대통령 탄핵' 사유는 2가지뿐?]]></title>
         <id>https://v.daum.net/v/20250313194309708</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250311072008467"/>
         <updated>2025-03-10T22:22:31.283Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 최근 각종 정치 현안과 관련한 집회와 시위가 장기화하면서 주민 불편 등 소음 피해도 갈수록 커지고 있다. 특히 헌법재판소가 위치한 서울 종로구 안국역 인근과 광화문 광장 등은 연일 열리는 집회로 인해 소음 민원이 급증하고 있으며, 주변 상인들도 소음 공해로 인한 매출 감소로 울상을 짓고 있다. 그렇다면 법적으로 허용되는 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20m 뒤처져 사망, 교사 탓?…"다 없애라, 어떻게 알아채" [사실은]]]></title>
-        <id>https://v.daum.net/v/20250310210020447</id>
-        <link href="https://v.daum.net/v/20250310210020447"/>
-        <updated>2025-03-10T12:48:36.262Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 3년 전&nbsp;현장학습에 갔었던 한 초등학생이&nbsp;버스에 치여 숨지는 일이 있었습니다. 그런데 최근 1심 법원이&nbsp;당시 인솔 교사에게&nbsp;유죄를 선고하자, 교원단체들이 반발하고 있습니다. 왜 교사가 책임을&nbsp;져야 하냐며 아예&nbsp;체험학습을 폐지하자는 주장도 나오고 있는데, 뭐가 사실일지 저희 팩트 체크 '사실은' 코너에서 확인해 봤습니다. 안상우 기자입니다]]></content>
     </entry>
 </feed>
