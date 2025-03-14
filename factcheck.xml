@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-14T19:20:56.515Z</updated>
+    <updated>2025-03-14T20:26:17.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA['미니 레드카펫'이 캐나다의 복수? 사우디는 맨바닥 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250314180600687</id>
