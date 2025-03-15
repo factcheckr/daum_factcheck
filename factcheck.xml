@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-15T22:23:12.736Z</updated>
+    <updated>2025-03-15T23:21:32.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]4000억 카드값으로 돈놀이한 홈플러스, 증권사 탓일까?]]></title>
+        <id>https://v.daum.net/v/20250316073302967</id>
+        <link href="https://v.daum.net/v/20250316073302967"/>
+        <updated>2025-03-15T23:20:41.727Z</updated>
+        <content type="html"><![CDATA["홈플러스는 카드로 물품을 구매했고, 증권사가 카드사의 카드물품채권을 사서 유동화한 것이다. 홈플러스가 투자자들에게 판매를 한 것이 아니라 정확한 내용을 모른다." (서울=뉴스1) 강수련 김도엽 기자 = 홈플러스 최대주주이자 대한민국 최대 사모펀드 MBK의 김광일 부회장이 지난 14일 열린 기자간담회에서 4000억 원대 손실이 예상되는 홈플러스 자산유동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 후기인 줄 알았는데 광고, 속지 않는 방법]]></title>
         <id>https://v.daum.net/v/20250315215701380</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250313090446638"/>
         <updated>2025-03-13T01:52:25.143Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한반도 뒤덮는 황사와 미세먼지는 다르다?]]></title>
-        <id>https://v.daum.net/v/20250313065512712</id>
-        <link href="https://v.daum.net/v/20250313065512712"/>
-        <updated>2025-03-12T22:23:39.338Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 추운 겨울이 지나고 봄이 다가오면서 예년처럼 황사(黃沙)가 한반도를 위협하고 있다. 중국 등에서 발생한 황사가 몰려오자 온라인 커뮤니티와 관련 뉴스 댓글 등에는 "황사와 같은 미세먼지 때문에 살기 힘들다", "황사가 결국 미세먼지 아니냐?" 등 황사와 미세먼지를 혼동하는 의견을 적지 않게 볼 수 있다. 그렇다면 과연 황사와]]></content>
     </entry>
 </feed>
