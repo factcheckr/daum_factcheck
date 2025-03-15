@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-15T12:42:34.330Z</updated>
+    <updated>2025-03-15T13:26:18.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 후기인 줄 알았는데 광고, 속지 않는 방법]]></title>
+        <id>https://v.daum.net/v/20250315215701380</id>
+        <link href="https://v.daum.net/v/20250315215701380"/>
+        <updated>2025-03-15T13:25:30.205Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 : 사실 확인이 필요한 허위 의심 정보에 대해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미니 레드카펫'이 캐나다의 복수? 사우디는 맨바닥 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250314180600687</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250313065512712"/>
         <updated>2025-03-12T22:23:39.338Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 추운 겨울이 지나고 봄이 다가오면서 예년처럼 황사(黃沙)가 한반도를 위협하고 있다. 중국 등에서 발생한 황사가 몰려오자 온라인 커뮤니티와 관련 뉴스 댓글 등에는 "황사와 같은 미세먼지 때문에 살기 힘들다", "황사가 결국 미세먼지 아니냐?" 등 황사와 미세먼지를 혼동하는 의견을 적지 않게 볼 수 있다. 그렇다면 과연 황사와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’]]></title>
-        <id>https://v.daum.net/v/20250312215244327</id>
-        <link href="https://v.daum.net/v/20250312215244327"/>
-        <updated>2025-03-12T13:31:51.675Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
     </entry>
 </feed>
