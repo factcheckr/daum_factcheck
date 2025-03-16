@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-16T21:21:05.752Z</updated>
+    <updated>2025-03-16T22:22:08.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라 지하철 요금은 비싸다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250317065515224</id>
+        <link href="https://v.daum.net/v/20250317065515224"/>
+        <updated>2025-03-16T22:21:24.262Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올해 상반기 중 서울을 비롯한 수도권 지하철 기본요금을 현행 1천400원에서 1천550원으로 인상을 추진한다는 보도가 나오자 온라인 커뮤니티에서 큰 주목을 받았다. 지난 2023년 1천250원에서 1천400원으로 오른 지 2년 만에 다시 불거진 요금 인상 논의이기 때문이다. 바뀌는 요금으로 하루 두 번씩 지하철을 탄다고 가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]4000억 카드값으로 돈놀이한 홈플러스, 증권사 탓일까? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250316073302967</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250313194309708"/>
         <updated>2025-03-13T11:20:28.168Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 대통령 탄핵을 막아야 한다고 앞장서서 주장하는 사람, 한국사 강사 전한길 씨입니다. 그런데 아예 사실이 아닌 잘못된 주장이 많습니다. 김혜미 기자와 팩트체크해 보겠습니다. 김 기자, 전한길 씨가 어제 국회에서 강연을 했었죠? [기자] 네, 그렇습니다. 윤석열 정부 비서관 출신인 국민의힘 강승규 의원 주최로 열린 '국민저항권'에 관한 세미나였는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 고향사랑기부제 기금 활용 ‘천차만별’ (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250313090446638</id>
-        <link href="https://v.daum.net/v/20250313090446638"/>
-        <updated>2025-03-13T01:52:25.143Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 내 주소지가 아닌 다른 지역에 기부하고 답례품도 받는 제도, 바로 '고향사랑기부제'입니다. 사업 이름처럼 주로 출향 인사들이 고향에 기부하는데요. 주요 현안에 적극 활용하는 지역이 있는가 하면, 쌓아두고만 있는 곳도 적지 않습니다. 팩트체크 K, 시행 3년 차를 맞은 고향사랑기부제의 의미와 과제를 이유진 기자가 보도합니다. [리포트]]></content>
     </entry>
 </feed>
