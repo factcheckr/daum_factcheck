@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-17T21:23:45.366Z</updated>
+    <updated>2025-03-17T22:24:46.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 반려묘 시대인데 동네마다 길고양이가 있다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250318065509872</id>
+        <link href="https://v.daum.net/v/20250318065509872"/>
+        <updated>2025-03-17T22:24:01.822Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들에게 가장 친숙한 동물은 개와 고양이다. 반려견, 반려묘라고 할 정도로 개와 고양이는 이미 가족의 일원으로 우리 일상생활 속에 들어와 있다. 하지만 동네를 지나다 보면 길에서 사는 야생 고양이, 즉 길고양이를 한두마리씩 보게 된다. 반려묘 시대에 도심이나 주택가에서 자연적으로 번식하며 자생적으로 살아가는 길]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라 지하철 요금은 비싸다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250317065515224</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250313205425054"/>
         <updated>2025-03-13T12:48:43.490Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 한 이탈리아 패션 브랜드가 우리나라의 매듭 장인과 협업해서 만든 제품을 놓고, 최근 중국에서 논란이 불거졌습니다. 중국 고유의 매듭 문화를 한국이 도용했다는 겁니다. 중국의 이런 주장이 과연 사실인지, 팩트체크 '사실은' 코너에서 따져봤습니다. 안상우 기자입니다. &lt;기자&gt; 서울시 무형문화재 김은영 매듭장이 우리 전통 매듭으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "100% 각하 확신"…'대통령 탄핵' 사유는 2가지뿐? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250313194309708</id>
-        <link href="https://v.daum.net/v/20250313194309708"/>
-        <updated>2025-03-13T11:20:28.168Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 대통령 탄핵을 막아야 한다고 앞장서서 주장하는 사람, 한국사 강사 전한길 씨입니다. 그런데 아예 사실이 아닌 잘못된 주장이 많습니다. 김혜미 기자와 팩트체크해 보겠습니다. 김 기자, 전한길 씨가 어제 국회에서 강연을 했었죠? [기자] 네, 그렇습니다. 윤석열 정부 비서관 출신인 국민의힘 강승규 의원 주최로 열린 '국민저항권'에 관한 세미나였는]]></content>
     </entry>
 </feed>
