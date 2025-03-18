@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-18T21:22:40.603Z</updated>
+    <updated>2025-03-18T22:23:42.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 식물인간과 뇌사는 다르다?]]></title>
+        <id>https://v.daum.net/v/20250319065511997</id>
+        <link href="https://v.daum.net/v/20250319065511997"/>
+        <updated>2025-03-18T22:22:54.336Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 뇌사 상태에서 치료받다가 숨진 초등학생의 유족이 자식의 장기를 기증하겠다는 뉴스가 나오자 온라인 커뮤니티에서 논란이 일었다. "뇌사면 식물인간인데 살아날 수 있는 상황에서 왜 장기를 기증하냐?", "뇌사와 식물인간이 무엇이 같냐?" 등 뇌사와 식물인간을 어떻게 볼지를 놓고 의견이 대립한 것이었다. 그렇다면 식물인간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 야당 경고? 대국민 호소? 윤 대통령의 오락가락 계엄 목적]]></title>
         <id>https://v.daum.net/v/20250318201609057</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250314121204131"/>
         <updated>2025-03-14T03:35:27.626Z</updated>
         <content type="html"><![CDATA[검찰은 지난 7일 서울중앙지법의 윤석열 대통령에 대한 구속취소 결정이 나오자 다음날 윤 대통령을 풀어줬습니다. 2심 법원의 판단 요구를 포기한 것인데, 12일 천대엽 법원행정처장(대법관)이 국회 법제사법위원회에서 “아직 기간이 남아있다”며 “즉시항고가 가능하다”는 취지의 설명을 하며 논란이 더 커졌습니다. 하지만 검찰은 13일 다시 포기 의사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰이 중국 가서 ‘집회탄압 기술’ 배웠다?… ‘공안 유착’ 가짜뉴스 횡행[팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250314120315934</id>
-        <link href="https://v.daum.net/v/20250314120315934"/>
-        <updated>2025-03-14T03:35:27.627Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령 탄핵 반대(반탄) 진영 커뮤니티를 중심으로 한국 경찰이 중국 공안과 유착 관계에 있다는 ‘차이나 게이트 의혹’이 제기되고 있다. 지난 1월 15일 윤석열 대통령에 대한 체포영장이 집행되자 이에 불복하는 지지자들이 “좌파 경찰이 불법을 자행하고 있다”고 주장하면서부터다. 이들은 중국 공안이 한국으로 들어와 집회 참여자들을 탄압하고 있으]]></content>
     </entry>
 </feed>
