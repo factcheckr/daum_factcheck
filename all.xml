@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-19T06:34:52.071Z</updated>
+    <updated>2025-03-19T07:25:17.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] “서해에 계엄 이후 설치된 제3의 중국 구조물은 없다” (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250319161506907</id>
+        <link href="https://v.daum.net/v/20250319161506907"/>
+        <updated>2025-03-19T07:24:26.943Z</updated>
+        <content type="html"><![CDATA[중국이 서해의 한·중 잠정조치수역에 무단으로 대형 철제 구조물을 설치했고 이를 조사하려던 한국 조사선을 폭력적으로 막았다는 소식이 지난 18일 전해졌다. 12·3 비상계엄과 탄핵 정국으로 한국이 혼란스러운 상황을 틈타 중국이 새로 구조물을 설치해 서해를 중국의 ‘내해’로 만들려는 조치를 급속도로 진행하고 있다는 우려가 함께 제기됐다. 중국이 한국의 조사를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "민감국가, 별일 아니다"? 30년 전엔 '총력 대응' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250319150006411</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250315215701380"/>
         <updated>2025-03-15T13:25:30.205Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 : 사실 확인이 필요한 허위 의심 정보에 대해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 레드카펫'이 캐나다의 복수? 사우디는 맨바닥 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250314180600687</id>
-        <link href="https://v.daum.net/v/20250314180600687"/>
-        <updated>2025-03-14T09:25:17.062Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;마코 루비오 미국 국무장관이 12일(현지시간) G7 외무장관 회담 참석을 위해 캐나다 퀘백 장 르사주 국제공항에 도착하고 있다.ⓒ 로이터/연합뉴스지난 12일(현지시간) G7(주요 7개국) 외무장관 회의 참석차 전용기로 캐나다를 방문한 마코 루비오 미국 국무장관을 맞은 작은 레드카펫이 인터넷에서 조롱거리가 되고 있다. &lt;아이리시 스타&gt;]]></content>
     </entry>
 </feed>
