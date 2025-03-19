@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-19T21:23:46.495Z</updated>
+    <updated>2025-03-19T22:24:21.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국인 '스트레스' 세계 최고 수준이다?]]></title>
+        <id>https://v.daum.net/v/20250320065509347</id>
+        <link href="https://v.daum.net/v/20250320065509347"/>
+        <updated>2025-03-19T22:23:39.554Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 높은 교육열과 업무 강도, 비싼 물가와 치솟는 부동산 가격, 치열한 경쟁사회. 이는 세계 10위권의 경제 강국이자 K-컬쳐로 주목받는 한국 사회의 어두운 이면이다. 최근 온라인커뮤니티에는 "경제협력개발기구(OECD) 국가 중 스트레스가 가장 높은 나라로 한국이 1위를 기록했다"는 게시물이 주목받았다. 많은 한국인이 다양]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국이 계엄 틈타 서해에 구조물 설치?…“사실 아냐”]]></title>
         <id>https://v.daum.net/v/20250319161506907</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250316073302967"/>
         <updated>2025-03-15T23:20:41.727Z</updated>
         <content type="html"><![CDATA["홈플러스는 카드로 물품을 구매했고, 증권사가 카드사의 카드물품채권을 사서 유동화한 것이다. 홈플러스가 투자자들에게 판매를 한 것이 아니라 정확한 내용을 모른다." (서울=뉴스1) 강수련 김도엽 기자 = 홈플러스 최대주주이자 대한민국 최대 사모펀드 MBK의 김광일 부회장이 지난 14일 열린 기자간담회에서 4000억 원대 손실이 예상되는 홈플러스 자산유동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 후기인 줄 알았는데 광고, 속지 않는 방법]]></title>
-        <id>https://v.daum.net/v/20250315215701380</id>
-        <link href="https://v.daum.net/v/20250315215701380"/>
-        <updated>2025-03-15T13:25:30.205Z</updated>
-        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◇ 최휘 : 사실 확인이 필요한 허위 의심 정보에 대해]]></content>
     </entry>
 </feed>
