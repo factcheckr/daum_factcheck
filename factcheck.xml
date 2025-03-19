@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-19T05:24:05.813Z</updated>
+    <updated>2025-03-19T06:34:52.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "민감국가, 별일 아니다"? 30년 전엔 '총력 대응']]></title>
+        <id>https://v.daum.net/v/20250319150006411</id>
+        <link href="https://v.daum.net/v/20250319150006411"/>
+        <updated>2025-03-19T06:34:03.489Z</updated>
+        <content type="html"><![CDATA[미국이 한국을 에너지 안보상 주의를 필요로하는 민감국가로 지정한 데 대한 논란이 가라앉지 않고 있습니다. 외교부는 17일 뒤늦게 "외교 정책상 문제가 아니라 보안 관련 문제가 이유인 것으로 파악됐다"고 밝혔습니다. 야당 주장처럼 핵무장론 때문에 조치가 이뤄진 건 아니라는 취지입니다. 외교부는 "과거에도 민감국가 리스트에 포함됐다가 미국 측과의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 식물인간과 뇌사는 다르다?]]></title>
         <id>https://v.daum.net/v/20250319065511997</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250314180600687"/>
         <updated>2025-03-14T09:25:17.062Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;마코 루비오 미국 국무장관이 12일(현지시간) G7 외무장관 회담 참석을 위해 캐나다 퀘백 장 르사주 국제공항에 도착하고 있다.ⓒ 로이터/연합뉴스지난 12일(현지시간) G7(주요 7개국) 외무장관 회의 참석차 전용기로 캐나다를 방문한 마코 루비오 미국 국무장관을 맞은 작은 레드카펫이 인터넷에서 조롱거리가 되고 있다. &lt;아이리시 스타&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 윤 대통령 석방 적법했다?… 한 사람 위한 혜택]]></title>
-        <id>https://v.daum.net/v/20250314121204131</id>
-        <link href="https://v.daum.net/v/20250314121204131"/>
-        <updated>2025-03-14T03:35:27.626Z</updated>
-        <content type="html"><![CDATA[검찰은 지난 7일 서울중앙지법의 윤석열 대통령에 대한 구속취소 결정이 나오자 다음날 윤 대통령을 풀어줬습니다. 2심 법원의 판단 요구를 포기한 것인데, 12일 천대엽 법원행정처장(대법관)이 국회 법제사법위원회에서 “아직 기간이 남아있다”며 “즉시항고가 가능하다”는 취지의 설명을 하며 논란이 더 커졌습니다. 하지만 검찰은 13일 다시 포기 의사를]]></content>
     </entry>
 </feed>
