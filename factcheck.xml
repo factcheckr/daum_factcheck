@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-20T10:27:22.608Z</updated>
+    <updated>2025-03-20T11:20:39.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] "탄핵 각하될 거다"?…선고 늦어지자 판치는 '가짜뉴스']]></title>
+        <id>https://v.daum.net/v/20250320195721548</id>
+        <link href="https://v.daum.net/v/20250320195721548"/>
+        <updated>2025-03-20T11:19:55.764Z</updated>
+        <content type="html"><![CDATA[[앵커] 늦어지는 윤 대통령 탄핵 선고를 놓고, 잘못된 '거짓 정보'들이 퍼지고 있습니다. 이미 각하로 결론 났다는 식인데, 김혜미 기자와 팩트체크해 보겠습니다. 소위 '지라시'라고 하죠, 어떤 거짓정보들이 있는겁니까? [기자] 팩트체크팀에서 몇 개를 추려봤습니다. 어떻게 결론이 났다더라, 몇 일에 선고한다더라 등 다양합니다. 오늘(20일)은 이 부분,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 청사에 걸린 '윤석열 파면' 현수막 위법이다?]]></title>
         <id>https://v.daum.net/v/20250320153003546</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250318065509872"/>
         <updated>2025-03-17T22:24:01.822Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들에게 가장 친숙한 동물은 개와 고양이다. 반려견, 반려묘라고 할 정도로 개와 고양이는 이미 가족의 일원으로 우리 일상생활 속에 들어와 있다. 하지만 동네를 지나다 보면 길에서 사는 야생 고양이, 즉 길고양이를 한두마리씩 보게 된다. 반려묘 시대에 도심이나 주택가에서 자연적으로 번식하며 자생적으로 살아가는 길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 지하철 요금은 비싸다?]]></title>
-        <id>https://v.daum.net/v/20250317065515224</id>
-        <link href="https://v.daum.net/v/20250317065515224"/>
-        <updated>2025-03-16T22:21:24.262Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올해 상반기 중 서울을 비롯한 수도권 지하철 기본요금을 현행 1천400원에서 1천550원으로 인상을 추진한다는 보도가 나오자 온라인 커뮤니티에서 큰 주목을 받았다. 지난 2023년 1천250원에서 1천400원으로 오른 지 2년 만에 다시 불거진 요금 인상 논의이기 때문이다. 바뀌는 요금으로 하루 두 번씩 지하철을 탄다고 가]]></content>
     </entry>
 </feed>
