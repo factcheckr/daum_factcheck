@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-20T21:23:25.750Z</updated>
+    <updated>2025-03-20T22:23:27.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '김이박'만 있는게 아니네…우리나라 성씨는]]></title>
+        <id>https://v.daum.net/v/20250321065512670</id>
+        <link href="https://v.daum.net/v/20250321065512670"/>
+        <updated>2025-03-20T22:22:37.204Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 외국인들은 한국인에 대해 말할 때 왜 이렇게 '김(Kim)'씨가 많냐고 자주 얘기한다. 실제로도 우리나라 인구 5명 중 1명꼴로 김(金)씨인 게 사실이다 보니 외국인들에게 한국인하면 '김'이라는 성씨가 가장 익숙할 수밖에 없기도 하다. 하지만 우리나라에 김씨뿐만 아니라 무려 5천개가 넘는 성씨가 있다고 하는 게 과연 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] "탄핵 각하될 거다"?…선고 늦어지자 판치는 '가짜뉴스']]></title>
         <id>https://v.daum.net/v/20250320195721548</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250318154535984"/>
         <updated>2025-03-18T07:24:13.734Z</updated>
         <content type="html"><![CDATA[/사진==연합뉴스 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진위를 취재하고, 팩트를 확인합니다. "이 뉴스, 진짜인가요?" 구독자 여러분들의 많은 제보 바랍니다 &lt;편집자주&gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 반려묘 시대인데 동네마다 길고양이가 있다?]]></title>
-        <id>https://v.daum.net/v/20250318065509872</id>
-        <link href="https://v.daum.net/v/20250318065509872"/>
-        <updated>2025-03-17T22:24:01.822Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 사람들에게 가장 친숙한 동물은 개와 고양이다. 반려견, 반려묘라고 할 정도로 개와 고양이는 이미 가족의 일원으로 우리 일상생활 속에 들어와 있다. 하지만 동네를 지나다 보면 길에서 사는 야생 고양이, 즉 길고양이를 한두마리씩 보게 된다. 반려묘 시대에 도심이나 주택가에서 자연적으로 번식하며 자생적으로 살아가는 길]]></content>
     </entry>
 </feed>
