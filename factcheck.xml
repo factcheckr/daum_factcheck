@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-21T11:21:06.053Z</updated>
+    <updated>2025-03-21T12:47:54.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당의 계란 자작극? 윤 지지자들 '황당 주장'  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250321205401851</id>
+        <link href="https://v.daum.net/v/20250321205401851"/>
+        <updated>2025-03-21T12:47:06.983Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;디시인사이드 국민의힘, 미국정치 갤러리 등에 확산된 ‘민주당의 계란자작극 정리’에서는 “비도 안 오는데 경찰들이 우산을 들고 있다. 혹시 계란이 날아올 걸 알고 있나?”라며 자작극 근거로 삼았다.ⓒ 디시인사이드지난 20일 오전 서울 종로구 헌법재판소 앞에서 '윤석열 신속파면 촉구 기자회견'을 진행하던 더불어민주당 의원들 사이에 계란이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '김이박'만 있는게 아니네…우리나라 성씨는]]></title>
         <id>https://v.daum.net/v/20250321065512670</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250318170129179"/>
         <updated>2025-03-18T08:31:39.221Z</updated>
         <content type="html"><![CDATA[미국이 다음달 2일 상호관세 발표를 예고한 가운데 백악관 핵심 당국자가 한국을 유럽, 중국과 함께 미국의 주요 무역 적자국으로 콕 집어 언급하면서 상호관세에 대한 우려가 높아진다. 앞서 도널드 트럼프 미국 대통령이 미국 의회 연설에서 "한국의 평균 관세는 (미국보다) 4배 높다"고 언급하는 등 한국을 향한 상호관세 압박이 현실화하고 있는 것이다. 미국이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인에 퍼진 '장발'·'금발' 경찰은 '가짜'?… 기동대 소속 '진짜 경찰' [팩트, 첵첵첵]]]></title>
-        <id>https://v.daum.net/v/20250318154535984</id>
-        <link href="https://v.daum.net/v/20250318154535984"/>
-        <updated>2025-03-18T07:24:13.734Z</updated>
-        <content type="html"><![CDATA[/사진==연합뉴스 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진위를 취재하고, 팩트를 확인합니다. "이 뉴스, 진짜인가요?" 구독자 여러분들의 많은 제보 바랍니다 &lt;편집자주&gt;]]></content>
     </entry>
 </feed>
