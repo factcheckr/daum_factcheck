@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-23T21:21:19.753Z</updated>
+    <updated>2025-03-23T22:23:53.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 자동차 주행거리 짧으면 사고도 줄어든다?]]></title>
+        <id>https://v.daum.net/v/20250324065513057</id>
+        <link href="https://v.daum.net/v/20250324065513057"/>
+        <updated>2025-03-23T22:23:03.515Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라 손해보험사들이 판매하는 자동차보험에는 실제 주행거리에 따라 보험료를 차등 적용하는 주행거리 연동 특별약관이 있다. 이는 자동차를 적게 운행할수록 사고 발생 빈도도 줄어든다는 가정을 전제로 한 것이다. 그렇다면 정말로 자동차 주행거리와 교통사고가 상관관계가 있을까. 연합뉴스 팩트체크부로 문의한 독자 메일이 와서 이를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당의 계란 자작극? 윤 지지자들 '황당 주장'  [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250321205401851</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250318201609057"/>
         <updated>2025-03-18T11:20:11.314Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 대통령 탄핵 심판의 또 다른 핵심 쟁점은 '계엄의 목적'입니다. 윤 대통령은 계엄선포가 정당했다고 주장하고 있지만, 정작 그 목적에 대해서는 '야당 경고용'이었다, '대국민 호소용'이었다, 오락가락해 왔는데요. 계엄 목적에 대한 윤 대통령의 달라진 말을 팩트체크 〈알고보니〉에서 이준범 기자가 짚어봤습니다. ◀ 리포트 ▶]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크]美, '무역적자국'으로 한국 콕 집었다…상호관세 임박?]]></title>
-        <id>https://v.daum.net/v/20250318170129179</id>
-        <link href="https://v.daum.net/v/20250318170129179"/>
-        <updated>2025-03-18T08:31:39.221Z</updated>
-        <content type="html"><![CDATA[미국이 다음달 2일 상호관세 발표를 예고한 가운데 백악관 핵심 당국자가 한국을 유럽, 중국과 함께 미국의 주요 무역 적자국으로 콕 집어 언급하면서 상호관세에 대한 우려가 높아진다. 앞서 도널드 트럼프 미국 대통령이 미국 의회 연설에서 "한국의 평균 관세는 (미국보다) 4배 높다"고 언급하는 등 한국을 향한 상호관세 압박이 현실화하고 있는 것이다. 미국이]]></content>
     </entry>
 </feed>
