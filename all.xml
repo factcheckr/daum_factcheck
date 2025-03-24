@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-24T21:24:01.734Z</updated>
+    <updated>2025-03-24T22:25:13.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '한국인의 반찬' 콩나물, 우리나라만 먹는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250325065524501</id>
+        <link href="https://v.daum.net/v/20250325065524501"/>
+        <updated>2025-03-24T22:24:22.712Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 특유의 아삭한 식감과 개운한 맛으로 국과 무침 등에 쓰이는 콩나물은 한국인의 식탁에서 빼놓을 수 없는 식재료다. 콩나물의 씨앗인 대두는 인간의 먹거리와 가축의 사료 등으로 인기 있지만, 싹을 틔워 재배한 콩나물은 한국인들만 먹는다는 내용이 최근 온라인 커뮤니티에 올라와 화제가 됐다. 그렇다면 콩나물은 다른나라 사람들이 먹지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연금개혁, 중장년만 꿀 빤다?… 젊을수록 소득대체율 효과 크다 [팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250324195302274</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250319161506907"/>
         <updated>2025-03-19T07:24:26.943Z</updated>
         <content type="html"><![CDATA[중국이 서해의 한·중 잠정조치수역에 무단으로 대형 철제 구조물을 설치했고 이를 조사하려던 한국 조사선을 폭력적으로 막았다는 소식이 지난 18일 전해졌다. 12·3 비상계엄과 탄핵 정국으로 한국이 혼란스러운 상황을 틈타 중국이 새로 구조물을 설치해 서해를 중국의 ‘내해’로 만들려는 조치를 급속도로 진행하고 있다는 우려가 함께 제기됐다. 중국이 한국의 조사를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "민감국가, 별일 아니다"? 30년 전엔 '총력 대응' (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250319150006411</id>
-        <link href="https://v.daum.net/v/20250319150006411"/>
-        <updated>2025-03-19T06:34:03.489Z</updated>
-        <content type="html"><![CDATA[미국이 한국을 에너지 안보상 주의를 필요로하는 민감국가로 지정한 데 대한 논란이 가라앉지 않고 있습니다. 외교부는 17일 뒤늦게 "외교 정책상 문제가 아니라 보안 관련 문제가 이유인 것으로 파악됐다"고 밝혔습니다. 야당 주장처럼 핵무장론 때문에 조치가 이뤄진 건 아니라는 취지입니다. 외교부는 "과거에도 민감국가 리스트에 포함됐다가 미국 측과의]]></content>
     </entry>
 </feed>
