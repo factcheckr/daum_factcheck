@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-24T10:28:15.414Z</updated>
+    <updated>2025-03-24T11:20:55.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연금개혁, 중장년만 꿀 빤다?… 젊을수록 소득대체율 효과 크다[팩트 체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250324195302274</id>
+        <link href="https://v.daum.net/v/20250324195302274"/>
+        <updated>2025-03-24T11:20:07.297Z</updated>
+        <content type="html"><![CDATA[18년 만에 국회를 통과한 국민연금 개혁안을 두고 ‘중장년만 꿀 빠는 청년 독박 개혁’이란 프레임이 씌워지고 있다. 과연 보험료율을 현행 9%에서 13%로, 소득대체율을 현재 41.5%(2028년 40%)에서 43%로 올리는 ‘더 내고 더 받는’ 개혁안은 개악인 걸까. 이는 상당 부분 부정확한 정보에 기반하고 있다. 소득대체율 인상 효과를 더 많이 누리게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "누구나 최상목 체포 가능" 대체로 사실 [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250324161501654</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250319150006411"/>
         <updated>2025-03-19T06:34:03.489Z</updated>
         <content type="html"><![CDATA[미국이 한국을 에너지 안보상 주의를 필요로하는 민감국가로 지정한 데 대한 논란이 가라앉지 않고 있습니다. 외교부는 17일 뒤늦게 "외교 정책상 문제가 아니라 보안 관련 문제가 이유인 것으로 파악됐다"고 밝혔습니다. 야당 주장처럼 핵무장론 때문에 조치가 이뤄진 건 아니라는 취지입니다. 외교부는 "과거에도 민감국가 리스트에 포함됐다가 미국 측과의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 식물인간과 뇌사는 다르다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250319065511997</id>
-        <link href="https://v.daum.net/v/20250319065511997"/>
-        <updated>2025-03-18T22:22:54.336Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 뇌사 상태에서 치료받다가 숨진 초등학생의 유족이 자식의 장기를 기증하겠다는 뉴스가 나오자 온라인 커뮤니티에서 논란이 일었다. "뇌사면 식물인간인데 살아날 수 있는 상황에서 왜 장기를 기증하냐?", "뇌사와 식물인간이 무엇이 같냐?" 등 뇌사와 식물인간을 어떻게 볼지를 놓고 의견이 대립한 것이었다. 그렇다면 식물인간]]></content>
     </entry>
 </feed>
