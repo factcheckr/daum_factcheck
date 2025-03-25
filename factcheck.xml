@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-25T07:27:01.719Z</updated>
+    <updated>2025-03-25T08:31:53.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 탄핵 반대 집회에 가짜 경찰이 침투했다?]]></title>
+        <id>https://v.daum.net/v/20250325170505704</id>
+        <link href="https://v.daum.net/v/20250325170505704"/>
+        <updated>2025-03-25T08:31:06.045Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령 탄핵 반대 집회에 이른바 '가짜 경찰' 주장이 소셜미디어(SNS) 등을 통해 퍼지고 있습니다. 현장에 투입된 경찰들의 용모 등을 지적하며 경찰을 사칭한 민간인이라는 주장입니다. 여기에 더 보태 중국 공안이 한국 경찰로 위장했다는 소문까지 만들어 퍼나르고 있습니다. 경찰청 홈페이지 게시판엔 '가짜 경찰 해명' '중국 경찰 퇴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연금개혁은 젊은 층 손해? 크레디트 넣으면 얘기 달라진다 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20250325144658072</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250320153003546"/>
         <updated>2025-03-20T06:33:24.321Z</updated>
         <content type="html"><![CDATA[헌법재판소의 윤석열 대통령 탄핵심판 선고가 임박하자 파면 찬성과 반대를 외치는 갈등도 커지고 있습니다. 각자의 목소리를 현수막에 담아 표현하는 사례도 늘고 있는데요. 일부 단체장들은 청사에 현수막을 내걸었고 1인 시위까지 나섰습니다. 보수 시민단체 등이 이런 행위를 공무원법과 선거법을 위반한 것이라며 고발해 수사로까지 이어지고 있습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 한국인 '스트레스' 세계 최고 수준이다?]]></title>
-        <id>https://v.daum.net/v/20250320065509347</id>
-        <link href="https://v.daum.net/v/20250320065509347"/>
-        <updated>2025-03-19T22:23:39.554Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 높은 교육열과 업무 강도, 비싼 물가와 치솟는 부동산 가격, 치열한 경쟁사회. 이는 세계 10위권의 경제 강국이자 K-컬처로 주목받는 한국 사회의 어두운 이면이다. 최근 온라인커뮤니티에는 "경제협력개발기구(OECD) 국가 중 스트레스가 가장 높은 나라로 한국이 1위를 기록했다"는 게시물이 주목받았다. 많은 한국인이 다양]]></content>
     </entry>
 </feed>
