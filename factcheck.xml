@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-25T21:23:33.005Z</updated>
+    <updated>2025-03-25T22:25:15.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라만 혼인신고하면 돈 주나?]]></title>
+        <id>https://v.daum.net/v/20250326065508136</id>
+        <link href="https://v.daum.net/v/20250326065508136"/>
+        <updated>2025-03-25T22:24:29.891Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 올해 서울에서 혼인신고를 한 부부는 10월께부터 현금이나 포인트로 100만원을 받게 된다는 보도가 나오자 온라인 커뮤니티 등에서 주목받고 있다. 온라인 커뮤니티와 관련 뉴스 댓글에서는 "지자체에서 돈까지 준다고 하니 혼인 신고하고 싶다", "가짜 혼인 신고가 판을 칠 수 있다", "이미 혼인 신고한 신혼부부는 혜택이 없냐?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LMO 농산물 정말 나쁠까… 이미 사료용 5종·식용 6종 수입]]></title>
         <id>https://v.daum.net/v/20250326021615789</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250324161501654"/>
         <updated>2025-03-24T07:25:39.542Z</updated>
         <content type="html"><![CDATA[[곽우신 기자] ▲ 최상목 직무유기 고발&nbsp;'최상목 대통령 권한대행 직무유기 10만 국민고발운동'을 펼치고 있는 판사 출신 차성안 서울시립대 법학전문대학원 교수가 지난 11일 오전 서울 서초구 서울중앙지검 앞에서 마은혁 헌법재판관 후보 임명보류 부작위 헌법소원을 제기한 김정환 변호사(법무법인 도담) 등과 함께 '최상목 직무유기 고발 기자회견'을 열어 10만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 자동차 주행거리 짧으면 사고도 줄어든다?]]></title>
-        <id>https://v.daum.net/v/20250324065513057</id>
-        <link href="https://v.daum.net/v/20250324065513057"/>
-        <updated>2025-03-23T22:23:03.515Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라 손해보험사들이 판매하는 자동차보험에는 실제 주행거리에 따라 보험료를 차등 적용하는 주행거리 연동 특별약관이 있다. 이는 자동차를 적게 운행할수록 사고 발생 빈도도 줄어든다는 가정을 전제로 한 것이다. 그렇다면 정말로 자동차 주행거리와 교통사고가 상관관계가 있을까. 연합뉴스 팩트체크부로 문의한 독자 메일이 와서 이를]]></content>
     </entry>
 </feed>
