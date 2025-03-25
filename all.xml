@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-25T17:23:45.026Z</updated>
+    <updated>2025-03-25T18:34:02.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[LMO 농산물 정말 나쁠까… 이미 사료용 5종·식용 6종 수입 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250326021615789</id>
+        <link href="https://v.daum.net/v/20250326021615789"/>
+        <updated>2025-03-25T18:33:15.842Z</updated>
+        <content type="html"><![CDATA[미국산 유전자변형생물체(LMO) 감자 수입 허가 심사가 ‘9부 능선’을 넘으면서 우려의 목소리가 나오고 있다. 수입 허가 심사 대상이 ‘식용’이다 보니 몸에 해를 끼칠 수 있는 것 아니냐는 걱정이다. 국민일보는 25일 여러 농업 전문가에게 문의해 LMO 감자의 안전성을 팩트체크했다. ① 논란이 일고 있는 LMO 농산물은=미국 감자 생산업체 ‘심플로트’가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “농사 안 짓는데…” 도시형 귀촌인 맞춤 지원 필요 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250325215707050</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250324065513057"/>
         <updated>2025-03-23T22:23:03.515Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 우리나라 손해보험사들이 판매하는 자동차보험에는 실제 주행거리에 따라 보험료를 차등 적용하는 주행거리 연동 특별약관이 있다. 이는 자동차를 적게 운행할수록 사고 발생 빈도도 줄어든다는 가정을 전제로 한 것이다. 그렇다면 정말로 자동차 주행거리와 교통사고가 상관관계가 있을까. 연합뉴스 팩트체크부로 문의한 독자 메일이 와서 이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당의 계란 자작극? 윤 지지자들 '황당 주장'  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250321205401851</id>
-        <link href="https://v.daum.net/v/20250321205401851"/>
-        <updated>2025-03-21T12:47:06.983Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;디시인사이드 국민의힘, 미국정치 갤러리 등에 확산된 ‘민주당의 계란자작극 정리’에서는 “비도 안 오는데 경찰들이 우산을 들고 있다. 혹시 계란이 날아올 걸 알고 있나?”라며 자작극 근거로 삼았다.ⓒ 디시인사이드 지난 20일 오전 서울 종로구 헌법재판소 앞에서 '윤석열 신속파면 촉구 기자회견'을 진행하던 더불어민주당 의원들 사이에 계란이]]></content>
     </entry>
 </feed>
