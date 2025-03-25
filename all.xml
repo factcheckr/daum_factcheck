@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-25T05:25:29.857Z</updated>
+    <updated>2025-03-25T06:35:01.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연금개혁은 젊은 층 손해? 크레디트 넣으면 얘기 달라진다 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250325144658072</id>
+        <link href="https://v.daum.net/v/20250325144658072"/>
+        <updated>2025-03-25T06:34:10.232Z</updated>
+        <content type="html"><![CDATA[연금개혁안이 국회를 통과한 후 30,40대 국회의원과 일부 중진 의원이 "젊은 층에 부담 준다" "젊은 층에 독박"이라고 비판하면서 '젊은 층 손해' 목소리가 커지고 있다. 이번 개혁은 내년부터 2033년까지 보험료를 9%에서 13%로 올리고, 소득대체율을 내년에 43%로 올리는 게 핵심이다. 소득대체율은 생애소득 대비 노후연금액의 비율을 말한다. 원래는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '한국인의 반찬' 콩나물, 우리나라만 먹는다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250325065524501</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250320065509347"/>
         <updated>2025-03-19T22:23:39.554Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 높은 교육열과 업무 강도, 비싼 물가와 치솟는 부동산 가격, 치열한 경쟁사회. 이는 세계 10위권의 경제 강국이자 K-컬처로 주목받는 한국 사회의 어두운 이면이다. 최근 온라인커뮤니티에는 "경제협력개발기구(OECD) 국가 중 스트레스가 가장 높은 나라로 한국이 1위를 기록했다"는 게시물이 주목받았다. 많은 한국인이 다양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국이 계엄 틈타 서해에 구조물 설치?…“사실 아냐” (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250319161506907</id>
-        <link href="https://v.daum.net/v/20250319161506907"/>
-        <updated>2025-03-19T07:24:26.943Z</updated>
-        <content type="html"><![CDATA[중국이 서해의 한·중 잠정조치수역에 무단으로 대형 철제 구조물을 설치했고 이를 조사하려던 한국 조사선을 폭력적으로 막았다는 소식이 지난 18일 전해졌다. 12·3 비상계엄과 탄핵 정국으로 한국이 혼란스러운 상황을 틈타 중국이 새로 구조물을 설치해 서해를 중국의 ‘내해’로 만들려는 조치를 급속도로 진행하고 있다는 우려가 함께 제기됐다. 중국이 한국의 조사를]]></content>
     </entry>
 </feed>
