@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-26T21:23:29.082Z</updated>
+    <updated>2025-03-26T22:24:13.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 산불 내면 처벌은 우리나라가 가장 약하다?]]></title>
+        <id>https://v.daum.net/v/20250327065509282</id>
+        <link href="https://v.daum.net/v/20250327065509282"/>
+        <updated>2025-03-26T22:23:24.478Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 지난 주말 전국에서 동시다발적으로 발생한 산불이 크게 번지면서 사망자까지 속출하자 산불 유발자에 대한 처벌 수위를 높여야 한다는 여론이 거세지고 있다. 산불 관련 기사의 댓글이나 온라인 커뮤니티에선 법에서 정한 형량이 낮기 때문에 산불이 빈번하게 발생하고 있다는 지적이 이어지고 있다. "패가망신시킬 정도로 엄벌에 처해야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대 최악 '괴물 산불'…"처벌이 너무 약해요", 사실일까?[노컷체크]]]></title>
         <id>https://v.daum.net/v/20250326170306938</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250325170505704"/>
         <updated>2025-03-25T08:31:06.045Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 탄핵 반대 집회에 이른바 '가짜 경찰' 주장이 소셜미디어(SNS) 등을 통해 퍼지고 있습니다. 현장에 투입된 경찰들의 용모 등을 지적하며 경찰을 사칭한 민간인이라는 주장입니다. 여기에 더 보태 중국 공안이 한국 경찰로 위장했다는 소문까지 만들어 퍼나르고 있습니다. 경찰청 홈페이지 게시판엔 '가짜 경찰 해명' '중국 경찰 퇴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연금개혁은 젊은 층 손해? 크레디트 넣으면 얘기 달라진다 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250325144658072</id>
-        <link href="https://v.daum.net/v/20250325144658072"/>
-        <updated>2025-03-25T06:34:10.232Z</updated>
-        <content type="html"><![CDATA[연금개혁안이 국회를 통과한 후 30,40대 국회의원과 일부 중진 의원이 "젊은 층에 부담 준다" "젊은 층에 독박"이라고 비판하면서 '젊은 층 손해' 목소리가 커지고 있다. 이번 개혁은 내년부터 2033년까지 보험료를 9%에서 13%로 올리고, 소득대체율을 내년에 43%로 올리는 게 핵심이다. 소득대체율은 생애소득 대비 노후연금액의 비율을 말한다. 원래는]]></content>
     </entry>
 </feed>
