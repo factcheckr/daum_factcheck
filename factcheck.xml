@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-26T03:03:06.507Z</updated>
+    <updated>2025-03-26T04:29:28.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['산불 비상' 경북 경찰기동대가 남태령에? "바리케이드 빌려준 것"  [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250326121201324</id>
+        <link href="https://v.daum.net/v/20250326121201324"/>
+        <updated>2025-03-26T04:28:39.312Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;남태령 시위 참가자로 추정되는 A씨는 26일 오전 자신의 X(옛 트위터) 계정에 남태령에서 촬영한 사진이라면서 ‘경북 1기동대’라는 스티커가 붙은 경찰 바리케이드 사진을 올렸다. ‘경북 1기동대’는 경북경찰청 직할 경찰관기동대다. 하지만 경북경찰청은 1기동대는 25일 경북 영덕에 투입됐고, 바리케이드는 서울경찰청에 빌려준 것이라고 밝혔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] “농사 안 짓는데…” 도시형 귀촌인 맞춤 지원 필요]]></title>
         <id>https://v.daum.net/v/20250326085314595</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250325065524501"/>
         <updated>2025-03-24T22:24:22.712Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 특유의 아삭한 식감과 개운한 맛으로 국과 무침 등에 쓰이는 콩나물은 한국인의 식탁에서 빼놓을 수 없는 식재료다. 콩나물의 씨앗인 대두는 인간의 먹거리와 가축의 사료 등으로 인기 있지만, 싹을 틔워 재배한 콩나물은 한국인들만 먹는다는 내용이 최근 온라인 커뮤니티에 올라와 화제가 됐다. 그렇다면 콩나물은 다른나라 사람들이 먹지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연금개혁, 중장년만 꿀 빤다?… 젊을수록 소득대체율 효과 크다 [팩트 체크]]]></title>
-        <id>https://v.daum.net/v/20250324195302274</id>
-        <link href="https://v.daum.net/v/20250324195302274"/>
-        <updated>2025-03-24T11:20:07.297Z</updated>
-        <content type="html"><![CDATA[18년 만에 국회를 통과한 국민연금 개혁안을 두고 ‘중장년만 꿀 빠는 청년 독박 개혁’이란 프레임이 씌워지고 있다. 과연 보험료율을 현행 9%에서 13%로, 소득대체율을 현재 41.5%(2028년 40%)에서 43%로 올리는 ‘더 내고 더 받는’ 개혁안은 개악인 걸까. 이는 상당 부분 부정확한 정보에 기반하고 있다. 소득대체율 인상 효과를 더 많이 누리게]]></content>
     </entry>
 </feed>
