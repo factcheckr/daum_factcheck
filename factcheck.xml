@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-27T10:27:55.888Z</updated>
+    <updated>2025-03-27T11:20:30.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 산불 커진 이유가…'진화 헬기' 부족한 탓?]]></title>
+        <id>https://v.daum.net/v/20250327194025883</id>
+        <link href="https://v.daum.net/v/20250327194025883"/>
+        <updated>2025-03-27T11:19:41.405Z</updated>
+        <content type="html"><![CDATA[[앵커] 이번 산불을 괴물로 키운 건 산불 진화 헬기가 부족한 탓이라는 분석이 나옵니다. 바로 김혜미 기자와 팩트체크 해보겠습니다. 김 기자, 실제 산불 진화 헬기 수가 적습니까? [기자] 부족한 건 사실입니다. 산림청이 보유한 산불 진화용 헬기는 50대 정도입니다. 하지만 실제 큰 산불에서 힘을 발휘할 수 있는 대형 헬기는 7대 밖에 없습니다. 3000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 산불 내면 처벌은 우리나라가 가장 약하다?]]></title>
         <id>https://v.daum.net/v/20250327065509282</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250325194053592"/>
         <updated>2025-03-25T11:20:51.495Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 직장은 도시에 그대로 두고 사는 곳만 농촌으로 옮기는 이들이 늘고 있습니다. 이른바 '도시형 귀촌인'인데요. 이런 귀촌인을 유치하려는 지원책은 여전히 '농업' 위주여서 실효성이 떨어진단 지적입니다. 팩트체크 K, 그 실태와 과제를 정진규 기자가 취재했습니다. [리포트] 10년 전, 청주에서 증평의 한 귀촌인 마을로 이주한 직장인 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 탄핵 반대 집회에 가짜 경찰이 침투했다?]]></title>
-        <id>https://v.daum.net/v/20250325170505704</id>
-        <link href="https://v.daum.net/v/20250325170505704"/>
-        <updated>2025-03-25T08:31:06.045Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령 탄핵 반대 집회에 이른바 '가짜 경찰' 주장이 소셜미디어(SNS) 등을 통해 퍼지고 있습니다. 현장에 투입된 경찰들의 용모 등을 지적하며 경찰을 사칭한 민간인이라는 주장입니다. 여기에 더 보태 중국 공안이 한국 경찰로 위장했다는 소문까지 만들어 퍼나르고 있습니다. 경찰청 홈페이지 게시판엔 '가짜 경찰 해명' '중국 경찰 퇴]]></content>
     </entry>
 </feed>
