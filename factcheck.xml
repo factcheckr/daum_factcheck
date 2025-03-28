@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-28T22:23:17.397Z</updated>
+    <updated>2025-03-28T23:23:52.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 이준혁 "소방관 출신이라, 산불 현장 달려갔다"는 SNS '속보' [팩트, 첵첵첵]]]></title>
+        <id>https://v.daum.net/v/20250329073006814</id>
+        <link href="https://v.daum.net/v/20250329073006814"/>
+        <updated>2025-03-28T23:23:09.775Z</updated>
+        <content type="html"><![CDATA[드라마 '맨몸의 소방관' 속 배우 이준혁/사진=KBS, 얼반웍스미디어 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진위를 취재하고, 팩트를 확인합니다. "이 뉴스, 진짜인가요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대형 산불 내면 손해배상 모두 책임진다?]]></title>
         <id>https://v.daum.net/v/20250328065624213</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250325215707050"/>
         <updated>2025-03-25T13:32:28.909Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 직장은 도시에 그대로 두고 사는 곳만 농촌으로 옮기는 이들이 늘고 있습니다. 이른바 '도시형 귀촌인'인데요. 이런 귀촌인을 유치하려는 지원책은 여전히 '농업' 위주여서 실효성이 떨어진단 지적입니다. 팩트체크 K, 그 실태와 과제를 정진규 기자가 취재했습니다. [리포트] 10년 전, 청주에서 증평의 한 귀촌인 마을로 이주한 직장인 임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 헌재 앞 가짜경찰? 이들이 중국인? '억지 주장' 사실은…]]></title>
-        <id>https://v.daum.net/v/20250325195308799</id>
-        <link href="https://v.daum.net/v/20250325195308799"/>
-        <updated>2025-03-25T11:20:51.494Z</updated>
-        <content type="html"><![CDATA[[앵커] 헌재 앞에 '가짜 경찰'이 투입돼 탄핵 반대 시위를 막고 있다는 주장이 퍼지고 있습니다. 김혜미 기자와 팩트체크 해보겠습니다. 김 기자, 가짜 경찰이 있다고 주장하는 근거가 뭡니까? [기자] 한마디로 "좀 이상하다"는 겁니다. 탄핵 반대 집회 참가자들이 소셜 미디어나 온라인 커뮤니티에서 '가짜 경찰'로 지목한 경찰관들입니다. 머리가 길다, 염색을]]></content>
     </entry>
 </feed>
