@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-03-29T17:21:02.507Z</updated>
+    <updated>2025-03-29T18:31:17.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 고양이는 보은의 동물? 동물 관련 속설의 진실]]></title>
+        <id>https://v.daum.net/v/20250330023302565</id>
+        <link href="https://v.daum.net/v/20250330023302565"/>
+        <updated>2025-03-29T18:30:30.156Z</updated>
+        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◆ 최휘 아나운서(이하 최휘) :&nbsp;사실 확인이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이준혁 "소방관 출신이라, 산불 현장 달려갔다"는 SNS '속보' [팩트, 첵첵첵]]]></title>
         <id>https://v.daum.net/v/20250329073006814</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250326021615789"/>
         <updated>2025-03-25T18:33:15.842Z</updated>
         <content type="html"><![CDATA[미국산 유전자변형생물체(LMO) 감자 수입 허가 심사가 ‘9부 능선’을 넘으면서 우려의 목소리가 나오고 있다. 수입 허가 심사 대상이 ‘식용’이다 보니 몸에 해를 끼칠 수 있는 것 아니냐는 걱정이다. 국민일보는 25일 여러 농업 전문가에게 문의해 LMO 감자의 안전성을 팩트체크했다. ① 논란이 일고 있는 LMO 농산물은=미국 감자 생산업체 ‘심플로트’가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “농사 안 짓는데…” 도시형 귀촌인 맞춤 지원 필요]]></title>
-        <id>https://v.daum.net/v/20250325215707050</id>
-        <link href="https://v.daum.net/v/20250325215707050"/>
-        <updated>2025-03-25T13:32:28.909Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 직장은 도시에 그대로 두고 사는 곳만 농촌으로 옮기는 이들이 늘고 있습니다. 이른바 '도시형 귀촌인'인데요. 이런 귀촌인을 유치하려는 지원책은 여전히 '농업' 위주여서 실효성이 떨어진단 지적입니다. 팩트체크 K, 그 실태와 과제를 정진규 기자가 취재했습니다. [리포트] 10년 전, 청주에서 증평의 한 귀촌인 마을로 이주한 직장인 임]]></content>
     </entry>
 </feed>
