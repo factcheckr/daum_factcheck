@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-31T16:32:14.002Z</updated>
+    <updated>2025-03-31T17:22:26.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[李는 3.5兆 당장 쓸 수 있다는데… 국회 교통정리 돼야 1.8조+α (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250401022011926</id>
+        <link href="https://v.daum.net/v/20250401022011926"/>
+        <updated>2025-03-31T17:21:39.576Z</updated>
+        <content type="html"><![CDATA[정부가 10조원 규모 추가경정예산(추경) 편성에 나섰지만 정치권의 ‘예비비 공방’은 연일 거세지고 있다. “산불 복구 등에 3조5600억원을 즉시 집행할 수 있다”(이재명 더불어민주당 대표)는 야당 주장과 “정부가 당장 활용할 수 있는 재난예비비는 4000억원 수준”(권영세 국민의힘 비상대책위원장)이라는 여당 반론이 맞서고 있다. 31일 예산 당국을 비롯]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대법원, 이재명 파기자판? 법조계 "국힘 주장 불가능" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250331185400754</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250326121201324"/>
         <updated>2025-03-26T04:28:39.312Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;남태령 시위 참가자로 추정되는 A씨는 26일 오전 자신의 X(옛 트위터) 계정에 남태령에서 촬영한 사진이라면서 ‘경북 1기동대’라는 스티커가 붙은 경찰 바리케이드 사진을 올렸다. ‘경북 1기동대’는 경북경찰청 직할 경찰관기동대다. 하지만 경북경찰청은 1기동대는 25일 경북 영덕에 투입됐고, 바리케이드는 서울경찰청에 빌려준 것이라고 밝혔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] “농사 안 짓는데…” 도시형 귀촌인 맞춤 지원 필요 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250326085314595</id>
-        <link href="https://v.daum.net/v/20250326085314595"/>
-        <updated>2025-03-26T01:53:59.815Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 직장은 도시에 그대로 두고 사는 곳만 농촌으로 옮기는 이들이 늘고 있습니다. 이른바 '도시형 귀촌인'인데요. 이런 귀촌인을 유치하려는 지원책은 여전히 '농업' 위주여서 실효성이 떨어진단 지적입니다. 팩트체크 K, 그 실태와 과제를 정진규 기자가 취재했습니다. [리포트] 10년 전, 청주에서 증평의 한 귀촌인 마을로 이주한 직장인 임]]></content>
     </entry>
 </feed>
