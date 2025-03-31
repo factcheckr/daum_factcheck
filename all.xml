@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-31T21:23:55.441Z</updated>
+    <updated>2025-03-31T22:25:04.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 중국콩으로 국내 재배 콩나물은 '중국산'일까? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250401065512843</id>
+        <link href="https://v.daum.net/v/20250401065512843"/>
+        <updated>2025-03-31T22:24:21.099Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 국내에서 중국산 콩을 재배해 콩나물로 키워냈다면 이 콩나물은 국내산일까 중국산일까? 제조업의 경우 수입한 원료로 만들어진 물건이라도 'made in Korea', 즉 국내산으로 인정되는 것이 자연스럽지만 농수산물과 그 가공품은 어떻게 판단해야 할지 애매한 경우가 많다. 최근 중국산 콩으로 생산한 콩나물을 국산 콩나물이라고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李는 3.5兆 당장 쓸 수 있다는데… 국회 교통정리 돼야 1.8조+α (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250401022011926</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250326170306938"/>
         <updated>2025-03-26T08:32:05.643Z</updated>
         <content type="html"><![CDATA[핵심요약성묘객 실수로 시작된 의성 산불, 경북 전체로 확산 작년 산불 원인 '사람 부주의'가 78% "산불, 처벌이 너무 약해요"…'처벌 강화' 국민청원도 등장 법령·판례 따져보면…"민사상 손해배상도 봐야" 판정 결과, '대체로 사실 아님' 경북 의성에서 발생한 산불이 안동, 청송 등지로 확산하면서 사망자만 20명을 넘어서는 등 인명·재산 피해가 속출하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['산불 비상' 경북 경찰기동대가 남태령에? "바리케이드 빌려준 것"  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250326121201324</id>
-        <link href="https://v.daum.net/v/20250326121201324"/>
-        <updated>2025-03-26T04:28:39.312Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;남태령 시위 참가자로 추정되는 A씨는 26일 오전 자신의 X(옛 트위터) 계정에 남태령에서 촬영한 사진이라면서 ‘경북 1기동대’라는 스티커가 붙은 경찰 바리케이드 사진을 올렸다. ‘경북 1기동대’는 경북경찰청 직할 경찰관기동대다. 하지만 경북경찰청은 1기동대는 25일 경북 영덕에 투입됐고, 바리케이드는 서울경찰청에 빌려준 것이라고 밝혔]]></content>
     </entry>
 </feed>
