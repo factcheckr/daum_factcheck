@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-01T21:23:48.955Z</updated>
+    <updated>2025-04-01T22:24:47.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라는 대규모 지진에 안전하다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250402065511031</id>
+        <link href="https://v.daum.net/v/20250402065511031"/>
+        <updated>2025-04-01T22:24:00.323Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 지난달 28일(현지시간) 발생한 규모 7.7의 미얀마 강진으로 현재까지 약 3천명이 사망한 것으로 집계됐다. 이와 관련해 온라인 커뮤니티와 관련 뉴스 댓글에는 "설마 우리나라도 미얀마처럼 강진이 발생하는 건 아니겠지?"라는 의견을 적잖이 볼 수 있다. 대규모 인명피해를 동반한 강진이 자주 발생하는 이웃 나라 일본과 달리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후대응댐 생기면 '괴물 산불' 진화 효과적일까 [팩트체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250402060052179</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250328065624213"/>
         <updated>2025-03-27T22:23:12.609Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 영남권을 덮친 동시다발적 산불이 수일째 걷잡을 수 없이 확산하면서 화재를 낸 가해자의 민사상 손해배상 책임에도 관심이 쏠리고 있다. 현재까지 발화 원인은 경북 의성에서 묘지를 정리하던 성묘객의 실수, 경남 산청에서 잡초 제거 중 예초기에서 튄 불씨, 울산 울주에서 용접 작업 중 튄 불씨 등 개인의 과실에 의한 '실화'(失火]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 산불 커진 이유가…'진화 헬기' 부족한 탓? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250327194025883</id>
-        <link href="https://v.daum.net/v/20250327194025883"/>
-        <updated>2025-03-27T11:19:41.405Z</updated>
-        <content type="html"><![CDATA[[앵커] 이번 산불을 괴물로 키운 건 산불 진화 헬기가 부족한 탓이라는 분석이 나옵니다. 바로 김혜미 기자와 팩트체크 해보겠습니다. 김 기자, 실제 산불 진화 헬기 수가 적습니까? [기자] 부족한 건 사실입니다. 산림청이 보유한 산불 진화용 헬기는 50대 정도입니다. 하지만 실제 큰 산불에서 힘을 발휘할 수 있는 대형 헬기는 7대 밖에 없습니다. 3000]]></content>
     </entry>
 </feed>
