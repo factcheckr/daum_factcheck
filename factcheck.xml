@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-01T15:27:53.755Z</updated>
+    <updated>2025-04-01T16:32:37.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘상법 개정’ 정치 논쟁에 휘말린 한화 승계 문제]]></title>
+        <id>https://v.daum.net/v/20250402011122520</id>
+        <link href="https://v.daum.net/v/20250402011122520"/>
+        <updated>2025-04-01T16:29:56.327Z</updated>
+        <content type="html"><![CDATA[한화그룹의 방산 기업 한화에어로스페이스(이하 한화에어로)의 3조6000억원 규모 유상증자와 김승연 그룹 회장이 지난달 31일 세 아들에게 ㈜한화 지분 11.32%를 증여한 것이 야당이 주도하는 상법 개정안과 맞물려 정치 논쟁에 휩싸이기까지 했다. 이재명 민주당 대표는 31일 페이스북에서 사실상 한화 사례를 거론하면서 “‘자본시장을 현금인출기로 여긴다’는 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 중국콩으로 국내 재배 콩나물은 '중국산'일까?]]></title>
         <id>https://v.daum.net/v/20250401065512843</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250327065509282"/>
         <updated>2025-03-26T22:23:24.478Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 지난 주말 전국에서 동시다발적으로 발생한 산불이 크게 번지면서 사망자까지 속출하자 산불 유발자에 대한 처벌 수위를 높여야 한다는 여론이 거세지고 있다. 산불 관련 기사의 댓글이나 온라인 커뮤니티에선 법에서 정한 형량이 낮기 때문에 산불이 빈번하게 발생하고 있다는 지적이 이어지고 있다. "패가망신시킬 정도로 엄벌에 처해야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최악 '괴물 산불'…"처벌이 너무 약해요", 사실일까?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20250326170306938</id>
-        <link href="https://v.daum.net/v/20250326170306938"/>
-        <updated>2025-03-26T08:32:05.643Z</updated>
-        <content type="html"><![CDATA[핵심요약성묘객 실수로 시작된 의성 산불, 경북 전체로 확산 작년 산불 원인 '사람 부주의'가 78% "산불, 처벌이 너무 약해요"…'처벌 강화' 국민청원도 등장 법령·판례 따져보면…"민사상 손해배상도 봐야" 판정 결과, '대체로 사실 아님' 경북 의성에서 발생한 산불이 안동, 청송 등지로 확산하면서 사망자만 20명을 넘어서는 등 인명·재산 피해가 속출하고]]></content>
     </entry>
 </feed>
