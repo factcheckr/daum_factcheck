@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-02T21:23:09.352Z</updated>
+    <updated>2025-04-02T22:24:39.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 세계서 가장 행복한 나라는 부탄이다?]]></title>
+        <id>https://v.daum.net/v/20250403065510266</id>
+        <link href="https://v.daum.net/v/20250403065510266"/>
+        <updated>2025-04-02T22:23:54.723Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 온라인 커뮤니티에서는 '마지막 샹그릴라', '행복의 국가', '세계에서 가장 행복한 나라'로 여겨졌던 부탄의 행복지수가 급락하자 그 배경을 놓고 관심이 쏠렸다. 우리나라 사람들이 부탄에 관심을 갖는 이유는 한때 '가장 행복한 나라'로 국내 언론에 크게 소개된 적이 있으며 우리 정부와 지자체까지 부탄의 행복 비법을 벤치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 우리나라는 대규모 지진에 안전하다?]]></title>
         <id>https://v.daum.net/v/20250402065511031</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250329073006814"/>
         <updated>2025-03-28T23:23:09.775Z</updated>
         <content type="html"><![CDATA[드라마 '맨몸의 소방관' 속 배우 이준혁/사진=KBS, 얼반웍스미디어 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진위를 취재하고, 팩트를 확인합니다. "이 뉴스, 진짜인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 대형 산불 내면 손해배상 모두 책임진다?]]></title>
-        <id>https://v.daum.net/v/20250328065624213</id>
-        <link href="https://v.daum.net/v/20250328065624213"/>
-        <updated>2025-03-27T22:23:12.609Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 영남권을 덮친 동시다발적 산불이 수일째 걷잡을 수 없이 확산하면서 화재를 낸 가해자의 민사상 손해배상 책임에도 관심이 쏠리고 있다. 현재까지 발화 원인은 경북 의성에서 묘지를 정리하던 성묘객의 실수, 경남 산청에서 잡초 제거 중 예초기에서 튄 불씨, 울산 울주에서 용접 작업 중 튄 불씨 등 개인의 과실에 의한 '실화'(失火]]></content>
     </entry>
 </feed>
