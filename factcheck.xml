@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-03T09:28:09.580Z</updated>
+    <updated>2025-04-03T10:27:33.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 서울시 싱크홀 정보 공개, 집값 떨어트린다?]]></title>
+        <id>https://v.daum.net/v/20250403174253878</id>
+        <link href="https://v.daum.net/v/20250403174253878"/>
+        <updated>2025-04-03T10:26:46.419Z</updated>
+        <content type="html"><![CDATA[지난달 24일 서울 강동구 명일동에서 직경 20m짜리 싱크홀(땅 꺼짐)이 발생해 1명이 목숨을 잃었습니다. 9일 만인 지난 2일엔 같은 구의 길동에서 도로 중간에 싱크홀이 생겼습니다. 반복되는 싱크홀 발생에 시민들의 불안이 커지며 “서울시가 싱크홀 위험 지역을 공개해야 한다”는 목소리가 높아졌습니다. 그러나 서울시는 공개하지 않기로 했습니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 세계서 가장 행복한 나라는 부탄이다?]]></title>
         <id>https://v.daum.net/v/20250403065510266</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250330023302565"/>
         <updated>2025-03-29T18:30:30.156Z</updated>
         <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◆ 최휘 아나운서(이하 최휘) :&nbsp;사실 확인이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이준혁 "소방관 출신이라, 산불 현장 달려갔다"는 SNS '속보' [팩트, 첵첵첵]]]></title>
-        <id>https://v.daum.net/v/20250329073006814</id>
-        <link href="https://v.daum.net/v/20250329073006814"/>
-        <updated>2025-03-28T23:23:09.775Z</updated>
-        <content type="html"><![CDATA[드라마 '맨몸의 소방관' 속 배우 이준혁/사진=KBS, 얼반웍스미디어 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진위를 취재하고, 팩트를 확인합니다. "이 뉴스, 진짜인가요?]]></content>
     </entry>
 </feed>
