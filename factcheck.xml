@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-03T11:22:52.685Z</updated>
+    <updated>2025-04-03T12:51:05.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 불법 계엄이라도 '중대한 위헌'은 아니다?]]></title>
+        <id>https://v.daum.net/v/20250403203310045</id>
+        <link href="https://v.daum.net/v/20250403203310045"/>
+        <updated>2025-04-03T12:50:18.712Z</updated>
+        <content type="html"><![CDATA[[앵커] 선고를 앞두고 윤 대통령 지지자들 사이에선 탄핵이 기각될 거라는 기대와 함께 이런 주장이 나오고 있습니다. "계엄이 위헌이더라도 파면을 당할 정도로 중대하진 않다"는 겁니다. 김혜미 기자와 팩트체크해 보겠습니다. 이제 선고가 내일(4일)인데 '파면 당할 정도로 중대하진 않다' 구체적으로 무슨 얘기입니까? [기자] 지금 시점에서 대통령의 위헌. 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 서울시 싱크홀 정보 공개, 집값 떨어트린다?]]></title>
         <id>https://v.daum.net/v/20250403174253878</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250331065512188"/>
         <updated>2025-03-30T22:21:56.178Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 경북 지역에 대형 산불이 발생하자 막대한 인명, 재산 피해와 더불어 산림 생태계 복원이 가능할지도 주목된다. 온라인 커뮤니티와 산불 관련 뉴스 댓글에는 최근 대형 산불과 관련해 "인공위성에도 관측될 정도로 초대형 산불이 났다", "이렇게 많은 숲이 타버리면 언제 다시 복원할 수 있겠냐?", "캘리포니아에서만 보던 대형]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 고양이는 보은의 동물? 동물 관련 속설의 진실]]></title>
-        <id>https://v.daum.net/v/20250330023302565</id>
-        <link href="https://v.daum.net/v/20250330023302565"/>
-        <updated>2025-03-29T18:30:30.156Z</updated>
-        <content type="html"><![CDATA[[열린라디오 YTN] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 3월 15일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. ◆ 최휘 아나운서(이하 최휘) :&nbsp;사실 확인이]]></content>
     </entry>
 </feed>
