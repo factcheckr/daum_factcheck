@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-07T21:23:55.030Z</updated>
+    <updated>2025-04-07T22:24:53.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] '옥동자니깐'…아기띠가 100만원 넘는다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250408065509771</id>
+        <link href="https://v.daum.net/v/20250408065509771"/>
+        <updated>2025-04-07T22:24:06.086Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 저출생·고령화 시대를 맞아 동네에서 어린아이를 찾아보기 힘들어진 가운데 최근 온라인 커뮤니티에서는 값비싼 유아용품이 화제에 올랐다. 배우 이승기씨가 아이를 안고 있는 아기 띠가 100만원이 넘는다는 보도가 나오자 온라인 커뮤니티와 기사 댓글에 관련 문의가 폭주했기 때문이다. 예전에는 "아이 기저귓값이라도 벌기 위해 야근한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1,000억 모였는데…"기부단체 못 믿어" 설마 꿀꺽? [사실은] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250407212723050</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250402011122520"/>
         <updated>2025-04-01T16:29:56.327Z</updated>
         <content type="html"><![CDATA[한화그룹의 방산 기업 한화에어로스페이스(이하 한화에어로)의 3조6000억원 규모 유상증자와 김승연 그룹 회장이 지난달 31일 세 아들에게 ㈜한화 지분 11.32%를 증여한 것이 야당이 주도하는 상법 개정안과 맞물려 정치 논쟁에 휩싸이기까지 했다. 이재명 민주당 대표는 31일 페이스북에서 사실상 한화 사례를 거론하면서 “‘자본시장을 현금인출기로 여긴다’는 비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 중국콩으로 국내 재배 콩나물은 '중국산'일까? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250401065512843</id>
-        <link href="https://v.daum.net/v/20250401065512843"/>
-        <updated>2025-03-31T22:24:21.099Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 국내에서 중국산 콩을 재배해 콩나물로 키워냈다면 이 콩나물은 국내산일까 중국산일까? 제조업의 경우 수입한 원료로 만들어진 물건이라도 'made in Korea', 즉 국내산으로 인정되는 것이 자연스럽지만 농수산물과 그 가공품은 어떻게 판단해야 할지 애매한 경우가 많다. 최근 중국산 콩으로 생산한 콩나물을 국산 콩나물이라고]]></content>
     </entry>
 </feed>
