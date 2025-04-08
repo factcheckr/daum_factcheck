@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-08T21:24:15.373Z</updated>
+    <updated>2025-04-08T22:24:34.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 세계 최장 군 복무 국가는 북한이다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250409065513593</id>
+        <link href="https://v.daum.net/v/20250409065513593"/>
+        <updated>2025-04-08T22:23:52.504Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올해 우크라이나군에 생포된 북한군 포로들이 최근 국내 언론과의 인터뷰에서 군 생활의 어려움을 토로해 이목을 끌었다. 이들 북한군 포로는 장기 복무하면서 부모를 한 번도 만나지 못했다고 밝혀 안타까움을 자아내기도 했다. 북한군의 복무 기간은 최대 13년으로 알려져 있다. 그렇다면 징병제를 시행하는 국가 중에서 북한의 군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] "권한대행은 안돼" 말 뒤집은 한덕수·권성동 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250408201010344</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250403203310045"/>
         <updated>2025-04-03T12:50:18.712Z</updated>
         <content type="html"><![CDATA[[앵커] 선고를 앞두고 윤 대통령 지지자들 사이에선 탄핵이 기각될 거라는 기대와 함께 이런 주장이 나오고 있습니다. "계엄이 위헌이더라도 파면을 당할 정도로 중대하진 않다"는 겁니다. 김혜미 기자와 팩트체크해 보겠습니다. 이제 선고가 내일(4일)인데 '파면 당할 정도로 중대하진 않다' 구체적으로 무슨 얘기입니까? [기자] 지금 시점에서 대통령의 위헌. 위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 서울시 싱크홀 정보 공개, 집값 떨어트린다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250403174253878</id>
-        <link href="https://v.daum.net/v/20250403174253878"/>
-        <updated>2025-04-03T10:26:46.419Z</updated>
-        <content type="html"><![CDATA[지난달 24일 서울 강동구 명일동에서 직경 20m짜리 싱크홀(땅 꺼짐)이 발생해 1명이 목숨을 잃었습니다. 9일 만인 지난 2일엔 같은 구의 길동에서 도로 중간에 싱크홀이 생겼습니다. 반복되는 싱크홀 발생에 시민들의 불안이 커지며 “서울시가 싱크홀 위험 지역을 공개해야 한다”는 목소리가 높아졌습니다. 그러나 서울시는 공개하지 않기로 했습니]]></content>
     </entry>
 </feed>
