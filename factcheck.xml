@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-08T06:35:42.978Z</updated>
+    <updated>2025-04-08T07:25:37.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파면당한 윤석열, 차기 대통령 선거 나올 수 있다?[노컷체크]]]></title>
+        <id>https://v.daum.net/v/20250408155711285</id>
+        <link href="https://v.daum.net/v/20250408155711285"/>
+        <updated>2025-04-08T07:24:51.963Z</updated>
+        <content type="html"><![CDATA[최근 일부 보수 인사들과 유사 성향 온라인 커뮤니티 누리꾼들 사이에서 '윤 전 대통령 차기 대선 출마 가능성'에 대한 주장이 나오고 있다. '탄핵 반대'를 외치는 전국 40여 개 대학교 학생 연대 '자유대학'은 8일 저녁 서울 용산구 이태원역 3번 출구에서 대통령 관저 앞까지 행진하는 퍼포먼스를 선보일 예정이다. 이 단체는 '윤 어게인(YOON AGAIN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 '왕' 자 소환한 안철수 손가락 글씨... "대변인 이름 적은 것" [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250408150304783</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250402065511031"/>
         <updated>2025-04-01T22:24:00.323Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 지난달 28일(현지시간) 발생한 규모 7.7의 미얀마 강진으로 현재까지 약 3천명이 사망한 것으로 집계됐다. 이와 관련해 온라인 커뮤니티와 관련 뉴스 댓글에는 "설마 우리나라도 미얀마처럼 강진이 발생하는 건 아니겠지?"라는 의견을 적잖이 볼 수 있다. 대규모 인명피해를 동반한 강진이 자주 발생하는 이웃 나라 일본과 달리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후대응댐 생기면 '괴물 산불' 진화 효과적일까 [팩트체크]]]></title>
-        <id>https://v.daum.net/v/20250402060052179</id>
-        <link href="https://v.daum.net/v/20250402060052179"/>
-        <updated>2025-04-01T21:23:06.738Z</updated>
-        <content type="html"><![CDATA[(세종=뉴스1) 황덕현 기후환경전문기자 = 기후위기로 산불이 대형화하면서 화재 진화를 위한 수자원 확보의 필요성이 대두되고 있다. 그러나 단순한 물의 양 증대만으로는 한계가 있어, 효과적인 대응을 위해서는 적절한 장비와 인력 체계, 그리고 전략이 함께 마련돼야 한다는 지적이 나온다. 새로 짓는 '물그릇' 기후대응댐이 기후위기 재난의 유일한 해결책이 될]]></content>
     </entry>
 </feed>
