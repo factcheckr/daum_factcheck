@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-09T04:29:44.244Z</updated>
+    <updated>2025-04-09T05:25:19.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["트럼프 20일에 계엄령 선포" 美 SNS 파다한 소문, 근거 없습니다 [팩트, 첵첵첵]]]></title>
+        <id>https://v.daum.net/v/20250409140016675</id>
+        <link href="https://v.daum.net/v/20250409140016675"/>
+        <updated>2025-04-09T05:24:37.406Z</updated>
+        <content type="html"><![CDATA[도널드 트럼프 미국 대통령이 취임 첫날인 지난 1월 20일(현지시간) 백악관 집무실에서 행정명령에 서명하고 있다. /사진=뉴시스 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 전세계 최장 군 복무 국가는 어딜까?]]></title>
         <id>https://v.daum.net/v/20250409065513593</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250404065516039"/>
         <updated>2025-04-04T01:54:36.895Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 화학적 거세(성 충동 약물치료) 청구 대상 성범죄자가 출소했다는 기사가 보도되면서 '화학적 거세'에 대한 세간의 관심이 쏠리고 있다. 화학적 거세는 남성의 고환을 적출하는 물리적 거세와 달리 특정 약물을 투여해 남성 호르몬인 테스토스테론의 생성을 억제하는 조치를 말한다. 2000년대 후반 아동 대상 성범죄 사건이 연이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 불법 계엄이라도 '중대한 위헌'은 아니다?]]></title>
-        <id>https://v.daum.net/v/20250403203310045</id>
-        <link href="https://v.daum.net/v/20250403203310045"/>
-        <updated>2025-04-03T12:50:18.712Z</updated>
-        <content type="html"><![CDATA[[앵커] 선고를 앞두고 윤 대통령 지지자들 사이에선 탄핵이 기각될 거라는 기대와 함께 이런 주장이 나오고 있습니다. "계엄이 위헌이더라도 파면을 당할 정도로 중대하진 않다"는 겁니다. 김혜미 기자와 팩트체크해 보겠습니다. 이제 선고가 내일(4일)인데 '파면 당할 정도로 중대하진 않다' 구체적으로 무슨 얘기입니까? [기자] 지금 시점에서 대통령의 위헌. 위]]></content>
     </entry>
 </feed>
