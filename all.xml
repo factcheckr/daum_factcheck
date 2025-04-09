@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-09T21:21:30.524Z</updated>
+    <updated>2025-04-09T22:24:26.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 폐업하면 사육농장 개들 어떻게 되나 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250410065509167</id>
+        <link href="https://v.daum.net/v/20250410065509167"/>
+        <updated>2025-04-09T22:23:39.708Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 개 식용을 끝내기 위해 사육 농장의 폐업 현황을 발표하자 언론과 온라인 커뮤니티 등에서는 폐업 농장에서 발생한 개들의 보호·관리 문제를 지적하고 나섰다. 지난해 8월 기준 국내 사육 농장에서 기르고 있던 개는 모두 46만6천마리로 집계됐다. 개 사육 농장이 순차로 문을 닫게 되면 이 농장에서 기르던 개들을 한꺼번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 6월3일 대선-개헌 동시투표 가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250409154618919</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250407212723050"/>
         <updated>2025-04-07T12:51:56.850Z</updated>
         <content type="html"><![CDATA[&lt;앵커&gt; 산불로 삶의 터전을 잃은 사람들을 돕기 위한 기부의 손길이 계속되고 있습니다. 그런데 이런 기부금이 일부만 이재민들에게 전달되고 나머지는 기부 단체의 운영비로 쓰이는 것 아니냐는 주장이 나오고 있는데요. 팩트 체크 사실은 코너에서 따져봤습니다. 안상우 기자입니다.&nbsp; &lt;기자&gt; 산불 피해복구 성금과 관련된 SNS 글들입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌재, "아무 일 없었다"던 윤석열에 "시민들 저항 덕분" [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250404130302509</id>
-        <link href="https://v.daum.net/v/20250404130302509"/>
-        <updated>2025-04-04T04:29:06.533Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ 윤 대통령 탄핵심판 선고 입장한 문형배 헌법재판소장 권한대행&nbsp;문형배 헌법재판소장 권한대행이 4일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 선고에 입장해 있다.ⓒ 사진공동취재단헌법재판소는 4일 오전 11시 22분 헌법재판관 8명 전원일치로 전 대통령 윤석열에 대한 파면을 선고하면서, 탄핵심판 과정에서 나온 윤씨 쪽]]></content>
     </entry>
 </feed>
