@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-09T06:35:47.624Z</updated>
+    <updated>2025-04-09T07:25:07.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 6월3일 대선-개헌 동시투표 가능하다?]]></title>
+        <id>https://v.daum.net/v/20250409154618919</id>
+        <link href="https://v.daum.net/v/20250409154618919"/>
+        <updated>2025-04-09T07:24:20.134Z</updated>
+        <content type="html"><![CDATA[윤석열 전 대통령 파면되자 우원식 국회의장이 오는 6월3일 '대선-개헌 동시투표'를 제안했습니다. 정치권의 오랜 숙제, 헌법 개정이란 화두를 다시 던진 것입니다. 그는 “1987년에도 빠른 시간 합의가 됐다”며 이번에도 충분히 가능하다고 말했습니다. 정치권에선 개헌의 시기와 내용을 두고 갑론을박이 벌어졌습니다. 그러자 우 의장도 “대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["트럼프 20일에 계엄령 선포" 美 SNS 파다한 소문, 근거 없습니다 [팩트, 첵첵첵]]]></title>
         <id>https://v.daum.net/v/20250409140016675</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250404130302509"/>
         <updated>2025-04-04T04:29:06.533Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ 윤 대통령 탄핵심판 선고 입장한 문형배 헌법재판소장 권한대행&nbsp;문형배 헌법재판소장 권한대행이 4일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 선고에 입장해 있다.ⓒ 사진공동취재단헌법재판소는 4일 오전 11시 22분 헌법재판관 8명 전원일치로 전 대통령 윤석열에 대한 파면을 선고하면서, 탄핵심판 과정에서 나온 윤씨 쪽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 성범죄자 '화학적 거세' 효과 있나?]]></title>
-        <id>https://v.daum.net/v/20250404065516039</id>
-        <link href="https://v.daum.net/v/20250404065516039"/>
-        <updated>2025-04-04T01:54:36.895Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 최근 화학적 거세(성 충동 약물치료) 청구 대상 성범죄자가 출소했다는 기사가 보도되면서 '화학적 거세'에 대한 세간의 관심이 쏠리고 있다. 화학적 거세는 남성의 고환을 적출하는 물리적 거세와 달리 특정 약물을 투여해 남성 호르몬인 테스토스테론의 생성을 억제하는 조치를 말한다. 2000년대 후반 아동 대상 성범죄 사건이 연이]]></content>
     </entry>
 </feed>
