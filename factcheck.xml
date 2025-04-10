@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-10T01:56:56.961Z</updated>
+    <updated>2025-04-10T03:07:07.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[사실은] LIG넥스원, 비상 아닌 '내실'경영… 1000억 환차손도 과장]]></title>
         <id>https://v.daum.net/v/20250410093823622</id>
