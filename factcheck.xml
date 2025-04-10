@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-10T04:29:40.177Z</updated>
+    <updated>2025-04-10T05:25:45.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></title>
+        <id>https://v.daum.net/v/20250410133504888</id>
+        <link href="https://v.daum.net/v/20250410133504888"/>
+        <updated>2025-04-10T05:25:04.392Z</updated>
+        <content type="html"><![CDATA[※&nbsp;뉴스타파와 가 21대 대선 팩트체크를 위해 뭉쳤습니다.&nbsp; 건강한 공론장을 위해 거짓이 사실로, 사실이 거짓으로 둔갑하지 않도록 감시하겠습니다.(편집자주) 흉악범이 난무하는 세상으로부터 우리 국민을 지키려면 확정된 사형수는 반드시 형사소송법에 따라 집행을 해야 합니다. 사형 집행 반대론자들은 사형수의 생명권을 존중한다고 하면서 반대하지만 그들이 저지른 잔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] LIG넥스원, 비상 아닌 '내실'경영… 1000억 환차손도 과장]]></title>
         <id>https://v.daum.net/v/20250410093823622</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250408150304783"/>
         <updated>2025-04-08T06:35:01.424Z</updated>
         <content type="html"><![CDATA[[김시연, 이정민 기자] ▲ &nbsp;안철수 의원 손가락에 쓰여진 이름ⓒ 이정민안철수 국민의힘 의원이 8일 오전 서울 광화문광장에서 21대 대통령 선거 출마를 공식 선언한 가운데, 기자회견 도중 손가락에 적힌 글씨가 노출돼 논란을 빚었다. (관련 기사 : '대선 출마 선언' 안철수 "윤석열 단일화, 깊은 반성과 사과" https://omn.kr/2cy42 ) 실제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] '옥동자니깐'…아기띠가 100만원 넘는다?]]></title>
-        <id>https://v.daum.net/v/20250408065509771</id>
-        <link href="https://v.daum.net/v/20250408065509771"/>
-        <updated>2025-04-07T22:24:06.086Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 저출생·고령화 시대를 맞아 동네에서 어린아이를 찾아보기 힘들어진 가운데 최근 온라인 커뮤니티에서는 값비싼 유아용품이 화제에 올랐다. 배우 이승기씨가 아이를 안고 있는 아기 띠가 100만원이 넘는다는 보도가 나오자 온라인 커뮤니티와 기사 댓글에 관련 문의가 폭주했기 때문이다. 예전에는 "아이 기저귓값이라도 벌기 위해 야근한]]></content>
     </entry>
 </feed>
