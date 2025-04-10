@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-10T06:35:22.870Z</updated>
+    <updated>2025-04-10T07:25:03.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심우정 딸 때문에 떨어진 본인 등판? 언론사 탈락자와 혼동 [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20250410161801632</id>
+        <link href="https://v.daum.net/v/20250410161801632"/>
+        <updated>2025-04-10T07:24:20.326Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;심우정 검찰총장 딸 때문에 최종면접에서 탈락한 당사자가 직접 올렸다는 글이 10일 주요 인터넷 커뮤니티와 SNS(소셜미디어)로 확산됐지만, &lt;오마이뉴스&gt; 확인 결과 외교부 연구원이 아닌 연합뉴스TV 최종면접자로 확인됐다.ⓒ 오마이뉴스심OO (심우정 검찰총장 딸 ) 때문에 최종면접에서 떨어진 본인 등판! "남의 인생 가지고 장난치지 마라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></title>
         <id>https://v.daum.net/v/20250410133504888</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250408155711285"/>
         <updated>2025-04-08T07:24:51.963Z</updated>
         <content type="html"><![CDATA[최근 일부 보수 인사들과 유사 성향 온라인 커뮤니티 누리꾼들 사이에서 '윤 전 대통령 차기 대선 출마 가능성'에 대한 주장이 나오고 있다. '탄핵 반대'를 외치는 전국 40여 개 대학교 학생 연대 '자유대학'은 8일 저녁 서울 용산구 이태원역 3번 출구에서 대통령 관저 앞까지 행진하는 퍼포먼스를 선보일 예정이다. 이 단체는 '윤 어게인(YOON AGAIN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 '왕' 자 소환한 안철수 손가락 글씨... "대변인 이름 적은 것" [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20250408150304783</id>
-        <link href="https://v.daum.net/v/20250408150304783"/>
-        <updated>2025-04-08T06:35:01.424Z</updated>
-        <content type="html"><![CDATA[[김시연, 이정민 기자] ▲ &nbsp;안철수 의원 손가락에 쓰여진 이름ⓒ 이정민안철수 국민의힘 의원이 8일 오전 서울 광화문광장에서 21대 대통령 선거 출마를 공식 선언한 가운데, 기자회견 도중 손가락에 적힌 글씨가 노출돼 논란을 빚었다. (관련 기사 : '대선 출마 선언' 안철수 "윤석열 단일화, 깊은 반성과 사과" https://omn.kr/2cy42 ) 실제]]></content>
     </entry>
 </feed>
