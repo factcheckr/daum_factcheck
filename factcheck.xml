@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-10T09:27:21.379Z</updated>
+    <updated>2025-04-10T10:27:59.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 대통령 궐위 땐 모든 권한 행사 가능하다?]]></title>
+        <id>https://v.daum.net/v/20250410191302634</id>
+        <link href="https://v.daum.net/v/20250410191302634"/>
+        <updated>2025-04-10T10:27:13.485Z</updated>
+        <content type="html"><![CDATA[[앵커] 이완규 처장의 주장 뿐 아니라 국민의힘에서도 대통령이 물러났으니, 한 대행이 모든 권한을 행사할 수 있다는 주장이 나왔습니다. 김혜미 기자와 팩트체크 해보겠습니다. 한 대행이 헌법재판관을 지명한 것만으로도 논란이 큰데, 왜 이런 말이 나오고 있는 겁니까? [기자] 파면 전엔, 윤 전 대통령이 돌아올 수 있으니 대행의 업무에 제한이 있었지만 이제는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심우정 딸 때문에 떨어진 본인 등판? 언론사 탈락자와 혼동 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250410161801632</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250408193546416"/>
         <updated>2025-04-08T11:20:54.119Z</updated>
         <content type="html"><![CDATA[[앵커] 윤 전 대통령이 파면된 지 닷새째입니다. 그런데 지지자들 사이에선 '다시 윤석열' '다시 대통령'이라는 구호와 함께 윤 전 대통령의 복귀가 가능하다는 주장이 나오고 있습니다. 이 주장, 김혜미 기자와 팩트체크 해보겠습니다. "다시 윤석열", 이 주장이 어떤 식으로 나오는 겁니까? [기자] 윤석열 탄핵 반대를 외쳤던 극우 지지층에서 나오는 목소리입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파면당한 윤석열, 차기 대통령 선거 나올 수 있다?[노컷체크]]]></title>
-        <id>https://v.daum.net/v/20250408155711285</id>
-        <link href="https://v.daum.net/v/20250408155711285"/>
-        <updated>2025-04-08T07:24:51.963Z</updated>
-        <content type="html"><![CDATA[최근 일부 보수 인사들과 유사 성향 온라인 커뮤니티 누리꾼들 사이에서 '윤 전 대통령 차기 대선 출마 가능성'에 대한 주장이 나오고 있다. '탄핵 반대'를 외치는 전국 40여 개 대학교 학생 연대 '자유대학'은 8일 저녁 서울 용산구 이태원역 3번 출구에서 대통령 관저 앞까지 행진하는 퍼포먼스를 선보일 예정이다. 이 단체는 '윤 어게인(YOON AGAIN]]></content>
     </entry>
 </feed>
