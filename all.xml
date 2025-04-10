@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T10:27:59.543Z</updated>
+    <updated>2025-04-10T11:21:25.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 적은 돈으로 대규모 개발?…공공 리츠의 명암 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250410194025276</id>
+        <link href="https://v.daum.net/v/20250410194025276"/>
+        <updated>2025-04-10T11:20:37.859Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] 이전을 앞둔 청주 농수산물 도매시장 부지에서 3천 5백억 원 규모의 도시재생 사업이 추진되고 있습니다. 청주시는 주택도시보증공사와 별도의 회사를 세워 진행하겠단 계획인데요. 돈을 거의 들이지 않고 개발이 가능하다는 이유에섭니다. 실상은 어떨까요? 팩트체크K, 조진영 기자가 짚어봤습니다. [리포트] 내년 말 청주 외곽으로 이전할 농수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 대통령 궐위 땐 모든 권한 행사 가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250410191302634</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250408201010344"/>
         <updated>2025-04-08T11:20:54.119Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 작년 말 한덕수 대행이 마은혁 헌법재판관 임명을 거부하고 있을 때는, 지금과 말이 완전히 달랐습니다. 불과 100일 정도밖에 안 지났는데 말을 완전히 뒤집고, 대통령의 고유 권한을 대행이 휘두르고 있는 건데, 이건 헌재 결정과도 어긋나는 행동일 뿐만 아니라, 과거에도 이런 사람은 없었습니다. 한 대행뿐 아니라 재판관 지명을 환영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "윤 어게인!" 외치는데…'트럼프처럼' 재출마 가능? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250408193546416</id>
-        <link href="https://v.daum.net/v/20250408193546416"/>
-        <updated>2025-04-08T11:20:54.119Z</updated>
-        <content type="html"><![CDATA[[앵커] 윤 전 대통령이 파면된 지 닷새째입니다. 그런데 지지자들 사이에선 '다시 윤석열' '다시 대통령'이라는 구호와 함께 윤 전 대통령의 복귀가 가능하다는 주장이 나오고 있습니다. 이 주장, 김혜미 기자와 팩트체크 해보겠습니다. "다시 윤석열", 이 주장이 어떤 식으로 나오는 겁니까? [기자] 윤석열 탄핵 반대를 외쳤던 극우 지지층에서 나오는 목소리입]]></content>
     </entry>
 </feed>
