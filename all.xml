@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-11T09:27:16.113Z</updated>
+    <updated>2025-04-11T10:27:46.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[중국인·화교 출신 복수국적 판사 없다...대법원 공식 확인  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250411185100559</id>
+        <link href="https://v.daum.net/v/20250411185100559"/>
+        <updated>2025-04-11T10:26:58.044Z</updated>
+        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 1월 18일 오후 서울 마포구 서울서부지방법원에서 내란 우두머리와 직권남용 혐의로 긴급체포된 윤석열 대통령에 대한 구속 전 피의자심문(영장실질심사)가 예정된 가운데 지지자들이 시위를 벌이고 있다. 일부 참가자들이 'CHINA OUT!' 'CCP(중국공산당) OUT!' 등 반중국 구호가 적힌 피켓을 들고 있다.ⓒ 권우성대법원은 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 고무장갑 종량제봉투에 버리면 과태료 낸다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250411100005148</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250409154618919"/>
         <updated>2025-04-09T07:24:20.134Z</updated>
         <content type="html"><![CDATA[윤석열 전 대통령 파면되자 우원식 국회의장이 오는 6월3일 '대선-개헌 동시투표'를 제안했습니다. 정치권의 오랜 숙제, 헌법 개정이란 화두를 다시 던진 것입니다. 그는 “1987년에도 빠른 시간 합의가 됐다”며 이번에도 충분히 가능하다고 말했습니다. 정치권에선 개헌의 시기와 내용을 두고 갑론을박이 벌어졌습니다. 그러자 우 의장도 “대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["트럼프 20일에 계엄령 선포" 美 SNS 파다한 소문, 근거 없습니다 [팩트, 첵첵첵] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250409140016675</id>
-        <link href="https://v.daum.net/v/20250409140016675"/>
-        <updated>2025-04-09T05:24:37.406Z</updated>
-        <content type="html"><![CDATA[도널드 트럼프 미국 대통령이 취임 첫날인 지난 1월 20일(현지시간) 백악관 집무실에서 행정명령에 서명하고 있다. /사진=뉴시스 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진]]></content>
     </entry>
 </feed>
