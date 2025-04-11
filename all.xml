@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-11T21:25:23.038Z</updated>
+    <updated>2025-04-11T22:26:18.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대선 경선 출마 지자체장 사퇴 안해도 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250412065701929</id>
+        <link href="https://v.daum.net/v/20250412065701929"/>
+        <updated>2025-04-11T22:25:38.318Z</updated>
+        <content type="html"><![CDATA[핵심요약지자체장 사퇴 않고 경선 참여 가능 오세훈·김동연 등 직 유지…'연차 경선' 이재명·홍준표 등은 사퇴하고 대선 출마 제21대 대통령 선거가 오는 6월 3일로 확정되자 각 당의 주자들이 대선판으로 몰려들고 있다. 이 가운데 시장과 도지사 등 지방자치단체장들의 행보가 관심을 모은다. 대부분 지자체장들은 현재 직을 내려놓지 않고 정당 경선에 참여하겠다는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국인·화교 출신 복수국적 판사 없다...대법원 공식 확인  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250411185100559</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250410065509167"/>
         <updated>2025-04-09T22:23:39.708Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 개 식용을 끝내기 위해 사육 농장의 폐업 현황을 발표하자 언론과 온라인 커뮤니티 등에서는 폐업 농장에서 발생한 개들의 보호·관리 문제를 지적하고 나섰다. 지난해 8월 기준 국내 사육 농장에서 기르고 있던 개는 모두 46만6천마리로 집계됐다. 개 사육 농장이 순차로 문을 닫게 되면 이 농장에서 기르던 개들을 한꺼번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 6월3일 대선-개헌 동시투표 가능하다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250409154618919</id>
-        <link href="https://v.daum.net/v/20250409154618919"/>
-        <updated>2025-04-09T07:24:20.134Z</updated>
-        <content type="html"><![CDATA[윤석열 전 대통령 파면되자 우원식 국회의장이 오는 6월3일 '대선-개헌 동시투표'를 제안했습니다. 정치권의 오랜 숙제, 헌법 개정이란 화두를 다시 던진 것입니다. 그는 “1987년에도 빠른 시간 합의가 됐다”며 이번에도 충분히 가능하다고 말했습니다. 정치권에선 개헌의 시기와 내용을 두고 갑론을박이 벌어졌습니다. 그러자 우 의장도 “대]]></content>
     </entry>
 </feed>
