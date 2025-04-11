@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-10T23:25:31.520Z</updated>
+    <updated>2025-04-11T01:56:57.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 고무장갑 종량제봉투에 버리면 과태료 낸다?]]></title>
+        <id>https://v.daum.net/v/20250411100005148</id>
+        <link href="https://v.daum.net/v/20250411100005148"/>
+        <updated>2025-04-11T01:56:10.505Z</updated>
+        <content type="html"><![CDATA[고무장갑을 종량제 봉투에 담아 일반쓰레기로 버렸다가 과태료를 냈다는 경험담이 빠르게 퍼지고 있습니다. 해당 글엔 이와 비슷한 일을 겪었다는 댓글이 1000건 가까이 달렸습니다. '살이 붙은 닭 뼈'나 '고구마 껍질' 등을 일반쓰레기로 버려 과태료를 물었다는 댓글들입니다. 분리배출의 기준이 무엇인지 혼란스럽다거나, 포상금을 노린 파파라치들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 적은 돈으로 대규모 개발?…공공 리츠의 명암]]></title>
         <id>https://v.daum.net/v/20250410215047565</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250409140016675"/>
         <updated>2025-04-09T05:24:37.406Z</updated>
         <content type="html"><![CDATA[도널드 트럼프 미국 대통령이 취임 첫날인 지난 1월 20일(현지시간) 백악관 집무실에서 행정명령에 서명하고 있다. /사진=뉴시스 레거시 미디어부터 유튜브·SNS까지, 콘텐츠를 소비하는 방식은 다양해졌습니다. 덩달아 가짜뉴스와 허위정보가 범람하는 시대입니다. [팩트, 첵첵첵]은 뼛속까지 팩티즘을 추구합니다. 논란이 된 뉴스나 소문의 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 전세계 최장 군 복무 국가는 어딜까?]]></title>
-        <id>https://v.daum.net/v/20250409065513593</id>
-        <link href="https://v.daum.net/v/20250409065513593"/>
-        <updated>2025-04-08T22:23:52.504Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 박형빈 기자 = 올해 우크라이나군에 생포된 북한군 포로들이 최근 국내 언론과의 인터뷰에서 군 생활의 어려움을 토로해 이목을 끌었다. 이들 북한군 포로는 장기 복무하면서 부모를 한 번도 만나지 못했다고 밝혀 안타까움을 자아내기도 했다. 북한군의 복무 기간은 최대 13년으로 알려져 있다. 그렇다면 징병제를 시행하는 국가 중에서 북한의 군]]></content>
     </entry>
 </feed>
