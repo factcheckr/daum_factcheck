@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-12T16:29:05.725Z</updated>
+    <updated>2025-04-12T17:21:49.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 고무장갑 버리고 '과태료 10만원' 논란, 분리수거 팩트체크! (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250413021007217</id>
+        <link href="https://v.daum.net/v/20250413021007217"/>
+        <updated>2025-04-12T17:21:06.850Z</updated>
+        <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 4월 12일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [내용 인용 시 YTN라디오 &lt;열린라디오 YTN&gt; 인터뷰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 경선 출마 지자체장 사퇴 안해도 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250412065701929</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250410093823622"/>
         <updated>2025-04-10T01:56:14.447Z</updated>
         <content type="html"><![CDATA[지난해 9월 신익현 LIG넥스원 대표가  경기 성남시 LIG넥스원 판교하우스에서 'LIG 글로벌 데이' 행사를 열고 회사의 글로벌 비전 및 미래 혁신방향을 소개하는 모습. /사진=뉴시스 최근 LIG넥스원이 지난 3년간 누적된 1000억원대 환차손을 봤다며 비상경영 체제에 돌입했다는 소문이 돌았으나 사실이 아니었다. 대외 경영환경 악화에 따라 위기 의식을 공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 폐업하면 사육농장 개들 어떻게 되나 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250410065509167</id>
-        <link href="https://v.daum.net/v/20250410065509167"/>
-        <updated>2025-04-09T22:23:39.708Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 구정모 기자 = 정부가 개 식용을 끝내기 위해 사육 농장의 폐업 현황을 발표하자 언론과 온라인 커뮤니티 등에서는 폐업 농장에서 발생한 개들의 보호·관리 문제를 지적하고 나섰다. 지난해 8월 기준 국내 사육 농장에서 기르고 있던 개는 모두 46만6천마리로 집계됐다. 개 사육 농장이 순차로 문을 닫게 되면 이 농장에서 기르던 개들을 한꺼번]]></content>
     </entry>
 </feed>
