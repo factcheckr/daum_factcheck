@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-12T21:22:31.579Z</updated>
+    <updated>2025-04-12T22:23:33.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 일각서 제2 외환위기 우려하지만…가능성 매우 낮아 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250413065511494</id>
+        <link href="https://v.daum.net/v/20250413065511494"/>
+        <updated>2025-04-12T22:22:48.647Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 최근 도널드 트럼프 대통령의 관세 전쟁 등 대외 악재로 환율이 출렁이자 우리나라가 1998년과 같은 외환 위기를 다시 겪는 게 아니냐는 우려가 일각에서 제기되고 있다. 관련 뉴스 댓글과 온라인 커뮤니티에서는 "우리나라 환율이 너무 올랐다", "이대로 가다가는 우리나라에 외환 위기가 다시 오는 거 아니냐?", "지금 상황을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 고무장갑 버리고 '과태료 10만원' 논란, 분리수거 팩트체크! (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250413021007217</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250410133504888"/>
         <updated>2025-04-10T05:25:04.392Z</updated>
         <content type="html"><![CDATA[※&nbsp;뉴스타파와 가 21대 대선 팩트체크를 위해 뭉쳤습니다.&nbsp; 건강한 공론장을 위해 거짓이 사실로, 사실이 거짓으로 둔갑하지 않도록 감시하겠습니다. (편집자주) 흉악범이 난무하는 세상으로부터 우리 국민을 지키려면 확정된 사형수는 반드시 형사소송법에 따라 집행을 해야 합니다. 사형 집행 반대론자들은 사형수의 생명권을 존중한다고 하면서 반대하지만 그들이 저지른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] LIG넥스원, 비상 아닌 '내실'경영… 1000억 환차손도 과장 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250410093823622</id>
-        <link href="https://v.daum.net/v/20250410093823622"/>
-        <updated>2025-04-10T01:56:14.447Z</updated>
-        <content type="html"><![CDATA[지난해 9월 신익현 LIG넥스원 대표가  경기 성남시 LIG넥스원 판교하우스에서 'LIG 글로벌 데이' 행사를 열고 회사의 글로벌 비전 및 미래 혁신방향을 소개하는 모습. /사진=뉴시스 최근 LIG넥스원이 지난 3년간 누적된 1000억원대 환차손을 봤다며 비상경영 체제에 돌입했다는 소문이 돌았으나 사실이 아니었다. 대외 경영환경 악화에 따라 위기 의식을 공]]></content>
     </entry>
 </feed>
