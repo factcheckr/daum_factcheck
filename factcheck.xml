@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-14T09:28:59.693Z</updated>
+    <updated>2025-04-14T10:31:59.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://focus.daum.net/ch/news/favicon.ico</icon>
+    <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[국민의힘 경선 방식대로 하면 한동훈 1위? 기적의 계산법 [오마이팩트]]]></title>
+        <title type="html"><![CDATA['국민의힘 경선 방식대로 하면 한동훈 1위' 보도, 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250414165110749</id>
         <link href="https://v.daum.net/v/20250414165110749"/>
         <updated>2025-04-14T08:37:29.368Z</updated>
