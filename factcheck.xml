@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-14T21:23:45.784Z</updated>
+    <updated>2025-04-14T22:24:23.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 한국은 대통령 단임제…전세계 다수 통치체제는]]></title>
+        <id>https://v.daum.net/v/20250415065511879</id>
+        <link href="https://v.daum.net/v/20250415065511879"/>
+        <updated>2025-04-14T22:23:35.716Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 심재훈 기자 = 우리나라 차기 대통령 선거일이 6월 3일로 확정되자 관련 뉴스 댓글이나 온라인 커뮤니티에서 전 세계 통치 체제 및 국가수반 임기에 대한 관심도 높아지고 있다. 관련 뉴스 댓글에는 "우리나라와 같은 대통령 5년 단임제는 드물다", "의원 내각제가 대통령제보다 월등히 많다", "입헌 군주제도 적지 않다" 등 다양한 의견이 올라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민의힘 경선 방식대로 하면 한동훈 1위' 보도, 거짓 [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20250414165110749</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20250410194025276"/>
         <updated>2025-04-10T11:20:37.859Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 이전을 앞둔 청주 농수산물 도매시장 부지에서 3천 5백억 원 규모의 도시재생 사업이 추진되고 있습니다. 청주시는 주택도시보증공사와 별도의 회사를 세워 진행하겠단 계획인데요. 돈을 거의 들이지 않고 개발이 가능하다는 이유에섭니다. 실상은 어떨까요? 팩트체크K, 조진영 기자가 짚어봤습니다. [리포트] 내년 말 청주 외곽으로 이전할 농수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] "한덕수가 모든 권한 행사 가능" 이 말이 사실일까?]]></title>
-        <id>https://v.daum.net/v/20250410191302634</id>
-        <link href="https://v.daum.net/v/20250410191302634"/>
-        <updated>2025-04-10T10:27:13.485Z</updated>
-        <content type="html"><![CDATA[[앵커] 이완규 처장의 주장 뿐 아니라 국민의힘에서도 대통령이 물러났으니, 한 대행이 모든 권한을 행사할 수 있다는 주장이 나왔습니다. 김혜미 기자와 팩트체크 해보겠습니다. 한 대행이 헌법재판관을 지명한 것만으로도 논란이 큰데, 왜 이런 말이 나오고 있는 겁니까? [기자] 파면 전엔, 윤 전 대통령이 돌아올 수 있으니 대행의 업무에 제한이 있었지만 이제는]]></content>
     </entry>
 </feed>
