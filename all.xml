@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-15T10:28:44.050Z</updated>
+    <updated>2025-04-15T11:21:31.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 윤석열 형사재판 '궤변' 팩트체크 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250415201309584</id>
+        <link href="https://v.daum.net/v/20250415201309584"/>
+        <updated>2025-04-15T11:20:49.825Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 앵커 ▶ 윤석열 전 대통령은 이미 헌재에서 결론이 난 기초적인 사실을 부정하는 것은 물론, 자신이 했던 말까지 뒤집으며 궤변을 이어갔는데요. 파면 이후에도 계속되고 있는 윤 전 대통령의 허위 주장을 팩트체크 〈알고보니〉에서 이준범 기자가 따져봤습니다. ◀ 리포트 ▶ 내란 우두머리 혐의 정식 재판에서 윤석열 전 대통령은 "계엄이 길어야 반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 계엄-쿠데타 다르니 '내란' 아니다? 윤석열 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250415192428368</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250413021007217"/>
         <updated>2025-04-12T17:21:06.850Z</updated>
         <content type="html"><![CDATA[[팩트체크] ■ 방송 : YTN 라디오 FM 94.5 (20:20~21:00) ■ 방송일 : 2025년 4월 12일 (토요일) ■ 진행 : 최휘 아나운서 ■ 대담 : 선정수 팩트체커 * 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 정확한 내용은 방송으로 확인하시기 바랍니다. [내용 인용 시 YTN라디오 &lt;열린라디오 YTN&gt; 인터뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 경선 출마 지자체장 사퇴 안해도 된다?[노컷체크] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250412065701929</id>
-        <link href="https://v.daum.net/v/20250412065701929"/>
-        <updated>2025-04-11T22:25:38.318Z</updated>
-        <content type="html"><![CDATA[핵심요약지자체장 사퇴 않고 경선 참여 가능 오세훈·김동연 등 직 유지…'연차 경선' 이재명·홍준표 등은 사퇴하고 대선 출마 제21대 대통령 선거가 오는 6월 3일로 확정되자 각 당의 주자들이 대선판으로 몰려들고 있다. 이 가운데 시장과 도지사 등 지방자치단체장들의 행보가 관심을 모은다. 대부분 지자체장들은 현재 직을 내려놓지 않고 정당 경선에 참여하겠다는]]></content>
     </entry>
 </feed>
