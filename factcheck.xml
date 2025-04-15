@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-15T07:27:08.641Z</updated>
+    <updated>2025-04-15T08:34:26.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책?]]></title>
+        <id>https://v.daum.net/v/20250415170003959</id>
+        <link href="https://v.daum.net/v/20250415170003959"/>
+        <updated>2025-04-15T08:33:42.369Z</updated>
+        <content type="html"><![CDATA[※ 뉴스타파와 가 21대 대선 팩트체크를 위해 뭉쳤습니다.&nbsp; 건강한 공론장을 위해 거짓이 사실로, 사실이 거짓으로 둔갑하지 않도록 감시하겠습니다. (편집자주) 외국인 노동자 분들도 원래 우리나라에서 떠나면 일시금을 받아서 가거든요.&nbsp;근데 이것을 다시 반환하고 후납을 넣는 경우가 늘어나고 있다고 합니다. 외국인 노동자들이 본국에 돌아가서도요,&nbsp; 아무리 생각해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 “역대 어느 국무회의보다 활발했다”지만···한덕수조차 “흠결 있었다”[팩트체크]]]></title>
+        <id>https://v.daum.net/v/20250415164350391</id>
+        <link href="https://v.daum.net/v/20250415164350391"/>
+        <updated>2025-04-15T08:33:42.372Z</updated>
+        <content type="html"><![CDATA[윤석열 전 대통령이 지난 14일 자신의 내란 우두머리(수괴) 혐의 첫 형사재판에서 모든 혐의를 부인했다. 12·3 비상계엄이 적법한 절차를 거쳐 선포됐고 작전 과정에서도 폭력 행위는 없었다고 주장했다. 그러나 수사기관과 헌법재판소가 밝힌 증거와 진술들은 이런 윤 전 대통령의 주장이 대부분 거짓이라고 말하고 있다. 윤석열 “역대 가장 활발한 국무회의 거쳤다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 유정복 인천시장, 탄핵 찬반 표명한 적 없다?]]></title>
         <id>https://v.daum.net/v/20250415110003669</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20250411185100559"/>
         <updated>2025-04-11T10:26:58.044Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 1월 18일 오후 서울 마포구 서울서부지방법원에서 내란 우두머리와 직권남용 혐의로 긴급체포된 윤석열 대통령에 대한 구속 전 피의자심문(영장실질심사)가 예정된 가운데 지지자들이 시위를 벌이고 있다. 일부 참가자들이 'CHINA OUT!' 'CCP(중국공산당) OUT!' 등 반중국 구호가 적힌 피켓을 들고 있다.ⓒ 권우성대법원은 10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 고무장갑 종량제봉투에 버리면 과태료 낸다?]]></title>
-        <id>https://v.daum.net/v/20250411100005148</id>
-        <link href="https://v.daum.net/v/20250411100005148"/>
-        <updated>2025-04-11T01:56:10.505Z</updated>
-        <content type="html"><![CDATA[고무장갑을 종량제 봉투에 담아 일반쓰레기로 버렸다가 과태료를 냈다는 경험담이 빠르게 퍼지고 있습니다. 해당 글엔 이와 비슷한 일을 겪었다는 댓글이 1000건 가까이 달렸습니다. '살이 붙은 닭 뼈'나 '고구마 껍질' 등을 일반쓰레기로 버려 과태료를 물었다는 댓글들입니다. 분리배출의 기준이 무엇인지 혼란스럽다거나, 포상금을 노린 파파라치들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 적은 돈으로 대규모 개발?…공공 리츠의 명암]]></title>
-        <id>https://v.daum.net/v/20250410215047565</id>
-        <link href="https://v.daum.net/v/20250410215047565"/>
-        <updated>2025-04-10T13:33:35.484Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 이전을 앞둔 청주 농수산물 도매시장 부지에서 3천 5백억 원 규모의 도시재생 사업이 추진되고 있습니다. 청주시는 주택도시보증공사와 별도의 회사를 세워 진행하겠단 계획인데요. 돈을 거의 들이지 않고 개발이 가능하다는 이유에섭니다. 실상은 어떨까요? 팩트체크K, 조진영 기자가 짚어봤습니다. [리포트] 내년 말 청주 외곽으로 이전할 농수]]></content>
     </entry>
 </feed>
