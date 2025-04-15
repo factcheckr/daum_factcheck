@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daum_factcheck/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-15T09:28:56.553Z</updated>
+    <updated>2025-04-15T10:28:44.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 계엄-쿠데타 다르니 '내란' 아니다? 윤석열 주장 따져보니 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20250415192428368</id>
+        <link href="https://v.daum.net/v/20250415192428368"/>
+        <updated>2025-04-15T10:27:55.634Z</updated>
+        <content type="html"><![CDATA[[앵커] 게다가 윤 전 대통령은 "계엄과 쿠데타는 완전히 다르다"며 목소리를 높이기도 했습니다. 내란죄에서 벗어나려 이렇게 주장하는 걸로 보이는데 바로 김혜미 기자와 팩트체크 해보겠습니다. 김 기자, 일단 윤 전 대통령이 '쿠데타'라고 직접 언급한 건 이번이 처음인 것 같은데요? 무슨 의도일까요? [기자] 일단은 그간의 탄핵심판에선 쓰지 않은 말인데요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20250415170003959</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20250412065701929"/>
         <updated>2025-04-11T22:25:38.318Z</updated>
         <content type="html"><![CDATA[핵심요약지자체장 사퇴 않고 경선 참여 가능 오세훈·김동연 등 직 유지…'연차 경선' 이재명·홍준표 등은 사퇴하고 대선 출마 제21대 대통령 선거가 오는 6월 3일로 확정되자 각 당의 주자들이 대선판으로 몰려들고 있다. 이 가운데 시장과 도지사 등 지방자치단체장들의 행보가 관심을 모은다. 대부분 지자체장들은 현재 직을 내려놓지 않고 정당 경선에 참여하겠다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국인·화교 출신 복수국적 판사 없다...대법원 공식 확인  [오마이팩트] (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20250411185100559</id>
-        <link href="https://v.daum.net/v/20250411185100559"/>
-        <updated>2025-04-11T10:26:58.044Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;지난 1월 18일 오후 서울 마포구 서울서부지방법원에서 내란 우두머리와 직권남용 혐의로 긴급체포된 윤석열 대통령에 대한 구속 전 피의자심문(영장실질심사)가 예정된 가운데 지지자들이 시위를 벌이고 있다. 일부 참가자들이 'CHINA OUT!' 'CCP(중국공산당) OUT!' 등 반중국 구호가 적힌 피켓을 들고 있다.ⓒ 권우성대법원은 10]]></content>
     </entry>
 </feed>
