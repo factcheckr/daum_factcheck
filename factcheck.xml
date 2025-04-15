@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2025-04-15T01:59:32.047Z</updated>
+    <updated>2025-04-15T03:10:58.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 유정복 인천시장, 탄핵 찬반 표명한 적 없다?]]></title>
+        <id>https://v.daum.net/v/20250415110003669</id>
+        <link href="https://v.daum.net/v/20250415110003669"/>
+        <updated>2025-04-15T03:10:10.488Z</updated>
+        <content type="html"><![CDATA[※ 뉴스타파와 가 21대 대선 팩트체크를 위해 뭉쳤습니다.&nbsp; 건강한 공론장을 위해 거짓이 사실로, 사실이 거짓으로 둔갑하지 않도록 감시하겠습니다. (편집자주) 국민의힘 대선 경선 후보로 나선 유정복 인천시장은 지난 3월 발행한 저서 &lt;대한민국 대통합, 찢는 정치꾼 잇는 유정복&gt; 22쪽에 “나는 탄핵 ‘찬성’, ‘반대’를 표명한 바는 없다”고 썼다. 대선 출]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 한국은 대통령 단임제…전세계 다수 통치체제는]]></title>
         <id>https://v.daum.net/v/20250415065511879</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20250410215047565</id>
         <link href="https://v.daum.net/v/20250410215047565"/>
         <updated>2025-04-10T13:33:35.484Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] 이전을 앞둔 청주 농수산물 도매시장 부지에서 3천 5백억 원 규모의 도시재생 사업이 추진되고 있습니다. 청주시는 주택도시보증공사와 별도의 회사를 세워 진행하겠단 계획인데요. 돈을 거의 들이지 않고 개발이 가능하다는 이유에섭니다. 실상은 어떨까요? 팩트체크K, 조진영 기자가 짚어봤습니다. [리포트] 내년 말 청주 외곽으로 이전할 농수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 적은 돈으로 대규모 개발?…공공 리츠의 명암]]></title>
-        <id>https://v.daum.net/v/20250410194025276</id>
-        <link href="https://v.daum.net/v/20250410194025276"/>
-        <updated>2025-04-10T11:20:37.859Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] 이전을 앞둔 청주 농수산물 도매시장 부지에서 3천 5백억 원 규모의 도시재생 사업이 추진되고 있습니다. 청주시는 주택도시보증공사와 별도의 회사를 세워 진행하겠단 계획인데요. 돈을 거의 들이지 않고 개발이 가능하다는 이유에섭니다. 실상은 어떨까요? 팩트체크K, 조진영 기자가 짚어봤습니다. [리포트] 내년 말 청주 외곽으로 이전할 농수]]></content>
     </entry>
 </feed>
